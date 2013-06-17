@@ -1,0 +1,84 @@
+{"name": "Cheerboo",
+ "permalink": "cheerboo",
+ "crunchbase_url": "http://www.crunchbase.com/company/cheerboo",
+ "homepage_url": "http://cheerboo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cheerboo",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, review, picture, photo, reviews, sports, opinion, sentiment, restaurant, food, politics, entertainment",
+ "alias_list": null,
+ "email_address": "info@cheerboo.com",
+ "phone_number": "",
+ "description": "a real-time opinion network",
+ "created_at": "Fri Sep 28 18:16:35 UTC 2012",
+ "updated_at": "Tue Oct 09 09:11:27 UTC 2012",
+ "overview": "\u003Cp\u003ECheerboo is a website and iOS application that let users gauge public opinion on any topic.\u003C/p\u003E\n\n\u003Cp\u003ERight now, there is no central repository for opinions on the web.  There\u2019s Yelp for places and Amazon for products, but what about everything else? On Facebook and Twitter, opinions aren\u2019t aggregated, preserved or searchable outside the social graph.   \u003C/p\u003E\n\n\u003Cp\u003ECheerboo solves this problem by having a social feed and also organizing conversations around dedicated topic pages where opinions are preserved and aggregated.  The site uses a binary rating system that makes sharing your opinion as easy as clicking a \u201ccheer\u201d or \u201cboo\u201d button. After sharing your opinion, the site creates a Rotten Tomatoes style \u201cCheer Score\u201d that lets users quickly gauge public opinion on any topic.  The Cheer Score is an accurate reading of public opinion because you have to either \u201ccheer\u201d or \u201cboo\u201d in order to submit a comment, so no opinion is ever lost.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/3481/213481v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/3481/213481v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0021/3481/213481v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Crockett",
+      "permalink": "sean-crockett",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Mittendorf",
+      "permalink": "alex-mittendorf",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

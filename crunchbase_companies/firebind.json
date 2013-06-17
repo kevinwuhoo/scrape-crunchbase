@@ -1,0 +1,82 @@
+{"name": "Firebind",
+ "permalink": "firebind",
+ "crunchbase_url": "http://www.crunchbase.com/company/firebind",
+ "homepage_url": "http://www.firebind.com",
+ "blog_url": "http://www.firebind.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "firebind",
+ "category_code": "enterprise",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": 26,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "voip, video, port, tcp, udp, tcp-port, udp-port, port-scan, firewall, acl, port-block, path-scan, outbound, isp-block",
+ "alias_list": null,
+ "email_address": "info@firebind.com",
+ "phone_number": "(857) 209-4065",
+ "description": "Networking Technology",
+ "created_at": "Wed Apr 18 17:31:29 UTC 2012",
+ "updated_at": "Wed Apr 25 08:45:55 UTC 2012",
+ "overview": "\u003Cp\u003EFirebind builds deployable technology and tools to verify, qualify and classify network communication capabilities. \u003C/p\u003E\n\n\u003Cp\u003EFirebind provides a novel way to verify whether your application or device will be able to successfully communicate to its server. Employing a proprietary patent-pending approach that is centered around the origin of data transmission such as a user, a customer or remote system. Products range from simple validation of protocol and port to complete classification of transmission statistics and applicability for VOIP, video and real-time communications protocols across a spectrum of service providers and application developers/operators. \u003C/p\u003E\n\n\u003Cp\u003EFirebind technology is currently operating in production for customers in telepresence, online gaming and network communication segments. Additionally Firebind operates a public validation service at Firebind.com, for a growing variety of applications and protocols that utilize various combinations of ports and transport protocols to achieve application functionality. This public facility is in use 24/7 by a global audience to prove, diagnose and solve network communication issues.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0018/4876/184876v2-max-150x150.png"],
+     [[250,
+       65],
+      "assets/images/resized/0018/4876/184876v2-max-250x250.png"],
+     [[450,
+       117],
+      "assets/images/resized/0018/4876/184876v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "15 New England Executive Park",
+    "address2": "",
+    "zip_code": "01803",
+    "city": "Burlington",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        79],
+       "assets/images/resized/0018/5693/185693v2-max-150x150.png"],
+      [[250,
+        132],
+       "assets/images/resized/0018/5693/185693v2-max-250x250.png"],
+      [[450,
+        239],
+       "assets/images/resized/0018/5693/185693v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://compnetworking.about.com/b/2012/03/18/using-firebind-to-test-network-ports.htm",
+    "title": "Using Firebind To Test Network Ports"}]}

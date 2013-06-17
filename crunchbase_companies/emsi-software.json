@@ -1,0 +1,128 @@
+{"name": "Emsi Software",
+ "permalink": "emsi-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/emsi-software",
+ "homepage_url": "http://www.emsisoft.com",
+ "blog_url": "http://www.emsisoft.com/en/kb/",
+ "blog_feed_url": "http://www.emsisoft.com/en/newsfeed.aspx",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2003,
+ "founded_month": 8,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "antivirus, antispyware, antimalware, virus, spyware, malware, hacking, behavior, blocking, protection, security, removal",
+ "alias_list": null,
+ "email_address": "info@emsisoft.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Nov 18 09:28:05 UTC 2008",
+ "updated_at": "Sat Nov 22 15:09:53 UTC 2008",
+ "overview": "\u003Cp\u003EEmsi Software creates desktop security software with special focus on behavior blocking technologies.\u003C/p\u003E\n\n\u003Cp\u003EFlagship product is a-squared Anti-Malware, an antivirus/antispyware tool that combines two signature based scan engines and a behavior based protection to catch all types of Malware. \u003C/p\u003E\n\n\u003Cp\u003ETo be able to detect new, unknown malware without the need of daily signature updates, Emsi Software developed a behavior blocking module called Malware-IDS. The Malware-IDS monitors live the activity of all running programs on a PC and stops them when a malicious or suspect behavior is detected.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       120],
+      "assets/images/resized/0002/8803/28803v2-max-150x150.jpg"],
+     [[120,
+       120],
+      "assets/images/resized/0002/8803/28803v2-max-250x250.jpg"],
+     [[120,
+       120],
+      "assets/images/resized/0002/8803/28803v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Mamutu",
+    "permalink": "mamutu",
+    "image": null},
+   {"name": "a-squared",
+    "permalink": "a-squared-anti-dialer",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Owner",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Mairoll",
+      "permalink": "christian-mairoll",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Georg",
+      "last_name": "Wichersky",
+      "permalink": "georg-wichersky",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Symantec",
+      "permalink": "symantec",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/7569/17569v4-max-150x150.jpg"],
+          [[226,
+            59],
+           "assets/images/resized/0001/7569/17569v4-max-250x250.jpg"],
+          [[226,
+            59],
+           "assets/images/resized/0001/7569/17569v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Panda Security",
+      "permalink": "panda-security-3",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/1332/21332v1-max-150x150.png"],
+          [[198,
+            55],
+           "assets/images/resized/0002/1332/21332v1-max-250x250.png"],
+          [[198,
+            55],
+           "assets/images/resized/0002/1332/21332v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main office",
+    "address1": "Mamoosweg 14",
+    "address2": "",
+    "zip_code": "5303",
+    "city": "Thalgau",
+    "state_code": null,
+    "country_code": "AUT",
+    "latitude": 47.86582,
+    "longitude": 13.261829}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0002/8802/28802v2-max-150x150.png"],
+      [[250,
+        179],
+       "assets/images/resized/0002/8802/28802v2-max-250x250.png"],
+      [[450,
+        323],
+       "assets/images/resized/0002/8802/28802v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

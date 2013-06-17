@@ -1,0 +1,157 @@
+{"name": "Tindr",
+ "permalink": "tindr",
+ "crunchbase_url": "http://www.crunchbase.com/company/tindr",
+ "homepage_url": "http://tindr.co",
+ "blog_url": "http://tindr.co/articles",
+ "blog_feed_url": "http://tindr.co/feed",
+ "twitter_username": "tindr_co",
+ "category_code": "software",
+ "number_of_employees": 14,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software-outsourcing, custom-software-development, typesafe, scala, akka, play, -net, c, oracle-soa",
+ "alias_list": null,
+ "email_address": "info@tindr.co",
+ "phone_number": "8668777531",
+ "description": "Software Development Agency",
+ "created_at": "Wed May 08 21:53:24 UTC 2013",
+ "updated_at": "Thu May 09 04:31:43 UTC 2013",
+ "overview": "\u003Cp\u003ETindr is a custom software development and software outsourcing company with expertise in Scala, Play, Akka, .NET and Oracle SOA.  \u003C/p\u003E\n\n\u003Cp\u003EThe company is based in Ottawa, Canada with clients worldwide.   Clients range from small startups through to enterprises in the public, financial, telecom and non profit spaces. \u003C/p\u003E\n\n\u003Cp\u003EAs a Typesafe partner, Tindr provides skills in the Typesafe stack and also provides Scala training and subscriptions. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0026/0273/260273v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0026/0273/260273v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0026/0273/260273v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Tobin",
+      "permalink": "steve-tobin",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Integrations",
+    "person":
+     {"first_name": "Shan",
+      "last_name": "Gu",
+      "permalink": "shan-gu",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Kelland",
+      "permalink": "mike-kelland",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "A1 Technologies",
+      "permalink": "a1-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0006/6635/66635v2-max-150x150.jpg"],
+          [[250,
+            31],
+           "assets/images/resized/0006/6635/66635v2-max-250x250.jpg"],
+          [[450,
+            56],
+           "assets/images/resized/0006/6635/66635v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "DataArt",
+      "permalink": "dataart",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0006/9967/69967v1-max-150x150.png"],
+          [[160,
+            38],
+           "assets/images/resized/0006/9967/69967v1-max-250x250.png"],
+          [[160,
+            38],
+           "assets/images/resized/0006/9967/69967v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Svitla Systems",
+      "permalink": "svitla-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0012/6203/126203v2-max-150x150.jpg"],
+          [[250,
+            111],
+           "assets/images/resized/0012/6203/126203v2-max-250x250.jpg"],
+          [[450,
+            201],
+           "assets/images/resized/0012/6203/126203v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Chariot Solutions",
+      "permalink": "chariot-solutions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0007/7529/77529v2-max-150x150.png"],
+          [[150,
+            49],
+           "assets/images/resized/0007/7529/77529v2-max-250x250.png"],
+          [[150,
+            49],
+           "assets/images/resized/0007/7529/77529v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "260 Saint Raymond Blvd",
+    "address2": "Unit 205",
+    "zip_code": "J9A3G7",
+    "city": "Gatineau",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 45.4271306,
+    "longitude": -75.7624365}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.obj.ca/Local/2013-05-06/article-3232918/Forty-Under-40-recipients-reveal-Ottawa%26rsquo%3Bs-new-economic-trailblazers/1",
+    "title": "Tindr CEO Wins 40 Under 40 Ottawa"},
+   {"external_url": "http://www.obj.ca/Local/For-the-Record/2012-10-11/article-3095673/People-on-the-Move-%26amp-Hats-Off-%28Oct.-1-12%29/1",
+    "title": "Shan Gu Joins Tindr"},
+   {"external_url": "http://tindr.co/tindr-wins-gold-new-business-of-the-year-at-the-obaa",
+    "title": "Tindr Named New Business of the Year for 2012"},
+   {"external_url": "http://www.obj.ca/Technology/2012-10-02/article-3086095/Tindr-alight-from-Maplesoft-spark/1",
+    "title": "Tindr Alight From Maplesoft Spark"}]}

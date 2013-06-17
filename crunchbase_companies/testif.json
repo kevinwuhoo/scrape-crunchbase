@@ -1,0 +1,125 @@
+{"name": "Testif",
+ "permalink": "testif",
+ "crunchbase_url": "http://www.crunchbase.com/company/testif",
+ "homepage_url": "http://testif.com",
+ "blog_url": "http://blog.testif.com",
+ "blog_feed_url": "http://feeds.feedburner.com/testif",
+ "twitter_username": "testifapp",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "exams, test, assessment, saas, open-source, analytic, reporting, student, recruiting, evaluation, classroom, elearning",
+ "alias_list": null,
+ "email_address": "crunchbase@testif.com",
+ "phone_number": "+34 675 119 888",
+ "description": "Knowledge assessment software",
+ "created_at": "Sat Apr 28 07:14:59 UTC 2012",
+ "updated_at": "Sat Dec 01 07:34:44 UTC 2012",
+ "overview": "\u003Cp\u003EThis application available for Web and mobile devices allows you to create interactive exams easily.\nIt does not care about the learning process itself, instead, it focus solely on the assessment phase.\nBacked by an open source project, it also can be used from our SAAS platform which offers reasonable prices for a reliable service.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[126,
+       44],
+      "assets/images/resized/0018/6563/186563v2-max-150x150.png"],
+     [[126,
+       44],
+      "assets/images/resized/0018/6563/186563v2-max-250x250.png"],
+     [[126,
+       44],
+      "assets/images/resized/0018/6563/186563v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CTO",
+    "person":
+     {"first_name": "Santiago",
+      "last_name": "Lizardo",
+      "permalink": "santiago-lizardo",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0003/1732/31732v4-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0003/1732/31732v4-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0003/1732/31732v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Niub\u00f3",
+      "permalink": "david-niub",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business developer / Advisor",
+    "person":
+     {"first_name": "Lars",
+      "last_name": "Gerhmann",
+      "permalink": "lars-gerhmann",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac50k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 15000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "No",
+         "last_name": "disclosable",
+         "permalink": "no-disclosable",
+         "image": null}}]},
+   {"round_code": "grant",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 35000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "ENISA",
+         "permalink": "enisa",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://marketplace.testif.com",
+    "title": "Directory of tests"}]}

@@ -1,0 +1,116 @@
+{"name": "Remotium",
+ "permalink": "remotium",
+ "crunchbase_url": "http://www.crunchbase.com/company/remotium",
+ "homepage_url": "http://www.remotium.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "remotium",
+ "category_code": "security",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-security, mobility, enterprise, security",
+ "alias_list": null,
+ "email_address": "info@remotium.com",
+ "phone_number": "650-2570130",
+ "description": "Secure BYOD",
+ "created_at": "Sun May 05 22:53:21 UTC 2013",
+ "updated_at": "Thu May 16 03:38:29 UTC 2013",
+ "overview": "\u003Cp\u003ERemotium is a disruptive mobile security technology that secures corporate assets for the bring-your-own-device (BYOD) trend.\u003C/p\u003E\n\n\u003Cp\u003ERemotium has been named the Most Innovative Company of 2013 during the RSA Conference. Remotium won this prestigious title by competing against well established competitors.\u003C/p\u003E\n\n\u003Cp\u003ERemotium solves a host of security problems by using a unique virtual-instance technology that runs mobile applications on public or private clouds and streams the visualization elements to the mobile devices. Creating a secure virtual work phone/tablet environment within a personal one.\u003C/p\u003E\n\n\u003Cp\u003EEnterprise data is never stored on the end device.\u003C/p\u003E\n\n\u003Cp\u003EAdditionally content sensitive enterprise applications such as email, calendar, contacts, browser, Salesforce, Box, Workday and others are instrumented on run-time to prevent data loss, intrusion and malware.\u003C/p\u003E\n\n\u003Cp\u003ERemotium optionally can integrate into active directory (AD) to enable easy end-user management and single sign-on for the virtualized applications.\u003C/p\u003E\n\n\u003Cp\u003ERemotium is founded by highly regarded veterans of the security industry and is advised by a duo of Verisign and Netflix executives.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0025/9026/259026v2-max-150x150.png"],
+     [[250,
+       90],
+      "assets/images/resized/0025/9026/259026v2-max-250x250.png"],
+     [[450,
+       162],
+      "assets/images/resized/0025/9026/259026v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sinan",
+      "last_name": "Eren",
+      "permalink": "sinan-eren",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0026/1924/261924v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0026/1924/261924v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0026/1924/261924v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Perkins Coie",
+      "permalink": "perkins-coie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6893/16893v1-max-150x150.jpg"],
+          [[180,
+            79],
+           "assets/images/resized/0001/6893/16893v1-max-250x250.jpg"],
+          [[180,
+            79],
+           "assets/images/resized/0001/6893/16893v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.formds.com/issuers/remotium-inc",
+    "source_description": "Form D",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 17,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "1700 S AMPHLETT BLVD SUITE 221",
+    "address2": "",
+    "zip_code": "94402",
+    "city": "SAN MATEO",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.businesswire.com/news/home/20130226005976/en/",
+    "title": "Most Innovative Company at RSA\u00ae Conference 2013"},
+   {"external_url": "http://venturebeat.com/2013/02/25/remoitum-rsa-winner/",
+    "title": "Remotium embeds a virtual work phone into your actual phone, curing BYOD headaches"}]}

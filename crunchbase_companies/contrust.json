@@ -1,0 +1,131 @@
+{"name": "ConTrust",
+ "permalink": "contrust",
+ "crunchbase_url": "http://www.crunchbase.com/company/contrust",
+ "homepage_url": "http://www.con-trust.com",
+ "blog_url": "http://www.contrustonline.com/blog",
+ "blog_feed_url": "http://www.contrustonline.com/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "moderation, security, analysis, detection, brand-reputation, protect, saas",
+ "alias_list": null,
+ "email_address": "shai@con-trust.com",
+ "phone_number": "+972546328550",
+ "description": null,
+ "created_at": "Tue Aug 26 16:59:33 UTC 2008",
+ "updated_at": "Mon Oct 06 18:34:24 UTC 2008",
+ "overview": "\u003Cp\u003EConTrust (\u0026#8220;Content you can trust\u0026#8221;) offers a technologically advanced and cohesive SaaS (Software as a Service) solution that enables you to moderate your content in real-time according to your platform values. \u003C/p\u003E\n\n\u003Cp\u003EAs a media platform you need to moderate the level of noise according to the values of your community. This is not an easy challenge and each media platform is charged with the responsibility of\nFinding the right balance between consumer freedom and brand protection.\u003C/p\u003E\n\n\u003Cp\u003EThe ConTrust solution is able to identify content threats including profanity, pornography, racism and brand abuse and block these threats according to a set of levels defined by the platform owner. In addition, the solution protects against traditional security threats such as spam, phishing (scam sites), malware, etc. \u003C/p\u003E\n\n\u003Cp\u003EConTrust offers hybrid solution that combines proprietary technology with a user friendly, transparent management application. Content is filtered according to the client\u00e2\u20ac\u2122s predefined parameters enabling the system to intelligently assign various risk levels to the content. \u003C/p\u003E\n\n\u003Cp\u003EContent can then be processed according to its risk level both automatically or manually, significantly reducing the workload of moderation staff and associated costs. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0002/4197/24197v2-max-150x150.jpg"],
+     [[250,
+       84],
+      "assets/images/resized/0002/4197/24197v2-max-250x250.jpg"],
+     [[450,
+       152],
+      "assets/images/resized/0002/4197/24197v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Shai",
+      "last_name": "Wolkomir",
+      "permalink": "shai-wolkomir",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0003/2342/32342v4-max-150x150.jpg"],
+          [[250,
+            165],
+           "assets/images/resized/0003/2342/32342v4-max-250x250.jpg"],
+          [[450,
+            298],
+           "assets/images/resized/0003/2342/32342v4-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Eshai wolkomir\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Nir",
+      "last_name": "Abraham",
+      "permalink": "nir-abraham",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Keibi Technologies",
+      "permalink": "keibi-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            127],
+           "assets/images/resized/0002/0844/20844v2-max-150x150.jpg"],
+          [[250,
+            212],
+           "assets/images/resized/0002/0844/20844v2-max-250x250.jpg"],
+          [[450,
+            382],
+           "assets/images/resized/0002/0844/20844v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Automattic",
+      "permalink": "automattic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            11],
+           "assets/images/resized/0000/1342/1342v4-max-150x150.png"],
+          [[250,
+            19],
+           "assets/images/resized/0000/1342/1342v4-max-250x250.png"],
+          [[450,
+            34],
+           "assets/images/resized/0000/1342/1342v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mollom",
+      "permalink": "mollom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/7495/17495v3-max-150x150.jpg"],
+          [[250,
+            66],
+           "assets/images/resized/0001/7495/17495v3-max-250x250.jpg"],
+          [[450,
+            119],
+           "assets/images/resized/0001/7495/17495v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

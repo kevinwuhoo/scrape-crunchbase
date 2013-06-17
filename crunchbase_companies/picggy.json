@@ -1,0 +1,100 @@
+{"name": "Picggy",
+ "permalink": "picggy",
+ "crunchbase_url": "http://www.crunchbase.com/company/picggy",
+ "homepage_url": "http://picggy.com",
+ "blog_url": "http://notes.picggy.com",
+ "blog_feed_url": "http://notes.picggy.com/rss",
+ "twitter_username": "picggy",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "photo, manager, management, organize, sharing, private, ios, android, pc, mac",
+ "alias_list": null,
+ "email_address": "hello@picggy.com",
+ "phone_number": "+14255189050",
+ "description": "Private photo bank.",
+ "created_at": "Sat Feb 16 01:27:00 UTC 2013",
+ "updated_at": "Mon Feb 18 00:28:11 UTC 2013",
+ "overview": "\u003Cp\u003EPicggy is the only iOS app that allows you to manage your entire photo collection on the go, even without internet.\u003C/p\u003E\n\n\u003Cp\u003EIt has a Dropbox like backend, securely built on top of Amazon S3, which synchronizes all your devices, and your PC.\nThe app allows you to view and organize photos in folders. And it makes sharing privately as simple as sharing them on Facebook or twitter, with just a few taps of fingers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/6328/236328v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0023/6328/236328v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0023/6328/236328v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "S3",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0023/6326/236326v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0023/6326/236326v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0023/6326/236326v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[128,
+        150],
+       "assets/images/resized/0023/6327/236327v2-max-150x150.png"],
+      [[213,
+        250],
+       "assets/images/resized/0023/6327/236327v2-max-250x250.png"],
+      [[384,
+        450],
+       "assets/images/resized/0023/6327/236327v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

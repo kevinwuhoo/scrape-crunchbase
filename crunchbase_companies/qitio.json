@@ -1,0 +1,132 @@
+{"name": "Qitio",
+ "permalink": "qitio",
+ "crunchbase_url": "http://www.crunchbase.com/company/qitio",
+ "homepage_url": "http://www.Qitio.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "hardware",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "alarm-system, intelligent-home, m2m, m2m-consumer-device, smart-metereing",
+ "alias_list": null,
+ "email_address": "info@Qitio.com",
+ "phone_number": "+48 22 8864702",
+ "description": "Alarm Systems, M2M",
+ "created_at": "Fri Mar 26 17:33:32 UTC 2010",
+ "updated_at": "Fri Mar 26 18:40:47 UTC 2010",
+ "overview": "\u003Cp\u003EQitio produces wireless alarm systems which can be installed by everybody. Major feature is that the central of the each alarm system runs on a server operated by Qitio. The connection between the user\u0026#8217;s alarm system and the server is made via GPRS. Each alarm system can run up to 56 external device which communicate to the main device via 433 MHz. The user operation of the Qitio alarm system is via SMS, Smartphone, or Web interface. The solution retails at ca. 150 USD.\u003C/p\u003E\n\n\u003Cp\u003EThe system can be expanded to other input/output driven devices as intelligent home or smart metering. The Qitio systems servs as a plattform rather than as propriatary system for a single usage.\u003C/p\u003E\n\n\u003Cp\u003EQitio was founded in Poland.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0008/1967/81967v2-max-150x150.png"],
+     [[250,
+       105],
+      "assets/images/resized/0008/1967/81967v2-max-250x250.png"],
+     [[285,
+       120],
+      "assets/images/resized/0008/1967/81967v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Kossmann",
+      "permalink": "daniel-kossmann",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "HomeLogic",
+      "permalink": "homelogic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0012/1786/121786v1-max-150x150.jpg"],
+          [[250,
+            70],
+           "assets/images/resized/0012/1786/121786v1-max-250x250.jpg"],
+          [[250,
+            70],
+           "assets/images/resized/0012/1786/121786v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ABUS August Bremicker S\u00f6hne",
+      "permalink": "abus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0011/8367/118367v2-max-150x150.jpg"],
+          [[163,
+            66],
+           "assets/images/resized/0011/8367/118367v2-max-250x250.jpg"],
+          [[163,
+            66],
+           "assets/images/resized/0011/8367/118367v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Software, Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "i-TV-T AG",
+      "permalink": "i-tv-t-ag",
+      "image": null}},
+   {"title": "Device Design",
+    "is_past": false,
+    "provider":
+     {"name": "Keratronik Sp. z o.o.",
+      "permalink": "keratronik-sp-z-o-o",
+      "image": null}},
+   {"title": "Device Production",
+    "is_past": false,
+    "provider":
+     {"name": "SiR Sp. z o.o.",
+      "permalink": "sir-sp-z-o-o",
+      "image": null}}],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "ul. Przy Parku 12",
+    "address2": "",
+    "zip_code": "02-384",
+    "city": "Warszawa",
+    "state_code": null,
+    "country_code": "POL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

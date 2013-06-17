@@ -1,0 +1,100 @@
+{"name": "Azuna",
+ "permalink": "azuna",
+ "crunchbase_url": "http://www.crunchbase.com/company/azuna",
+ "homepage_url": "http://www.azuna.net/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@azuna.net",
+ "phone_number": "",
+ "description": "3D Print Media",
+ "created_at": "Wed Dec 16 21:58:49 UTC 2009",
+ "updated_at": "Mon Mar 01 03:34:25 UTC 2010",
+ "overview": "\u003Cp\u003EAzuna is a 3D Media Company.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0006/9994/69994v1-max-150x150.png"],
+     [[163,
+       45],
+      "assets/images/resized/0006/9994/69994v1-max-250x250.png"],
+     [[163,
+       45],
+      "assets/images/resized/0006/9994/69994v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Sacks",
+      "permalink": "andrew-sacks",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Franks",
+      "permalink": "scott-franks",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "John",
+      "last_name": "Lee",
+      "permalink": "john-lee",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$300k",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1478785/000101968709004568/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC D",
+    "raised_amount": 300000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 12,
+    "funded_day": 16,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "114 Old York Road",
+    "address2": "",
+    "zip_code": "19046",
+    "city": "Jenkintown",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

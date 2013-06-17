@@ -1,0 +1,90 @@
+{"name": "Bitly News",
+ "permalink": "bitly-news",
+ "crunchbase_url": "http://www.crunchbase.com/company/bitly-news",
+ "homepage_url": "http://bitlynews.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "headline-aggregation, hackers, hacker-news, news, headlines",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "headline aggregation site",
+ "created_at": "Thu Dec 02 21:59:14 UTC 2010",
+ "updated_at": "Thu Dec 02 22:07:47 UTC 2010",
+ "overview": "\u003Cp\u003EBitly News is a news site powered by bit.ly clicks.\u003C/p\u003E\n\n\u003Cp\u003ETop stories are the most popular links being shared on the internet right now.\u003C/p\u003E\n\n\u003Cp\u003EIt works by automatically discovering bit.ly links on Twitter in real-time, then posting stories with high click activity on bit.ly. Each story\u0026#8217;s score is periodically updated with recent stats from bit.ly, so the most clicked-on stories bubble to the top.\u003C/p\u003E\n\n\u003Cp\u003EA chronological list of new stories can be viewed by clicking the new link at the top of any page.\u003C/p\u003E\n\n\u003Cp\u003ETo view click stats for any story, click the bitly link below the story\u0026#8217;s headline.\u003C/p\u003E\n\n\u003Cp\u003EBitly News was built using the bit.ly API, Twitter API, news.arc, Python and Amazon EC2.\u003C/p\u003E\n\n\u003Cp\u003EThis is an independent project not affiliated with bit.ly, Betaworks, Hacker News or Y Combinator.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       14],
+      "assets/images/resized/0011/2684/112684v1-max-150x150.png"],
+     [[250,
+       23],
+      "assets/images/resized/0011/2684/112684v1-max-250x250.png"],
+     [[353,
+       33],
+      "assets/images/resized/0011/2684/112684v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Miller",
+      "permalink": "jeff-miller-3",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0009/5746/95746v4-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0009/5746/95746v4-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0009/5746/95746v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0011/2685/112685v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0011/2685/112685v1-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0011/2685/112685v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

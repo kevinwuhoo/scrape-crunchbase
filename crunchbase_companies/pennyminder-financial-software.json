@@ -1,0 +1,193 @@
+{"name": "Pennyminder Financial Software",
+ "permalink": "pennyminder-financial-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/pennyminder-financial-software",
+ "homepage_url": "http://www.pennyminder.com/",
+ "blog_url": "http://blog.pennyminder.com/",
+ "blog_feed_url": "http://blog.pennyminder.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "personal-finance, group-finance",
+ "alias_list": null,
+ "email_address": "vince@pennyminder.com",
+ "phone_number": "604-603-1741",
+ "description": null,
+ "created_at": "Wed Jan 07 21:01:56 UTC 2009",
+ "updated_at": "Sat Feb 04 20:07:53 UTC 2012",
+ "overview": "\u003Cp\u003EPennyminder is an online personal financial manager (PFM) providing tools to help individuals and small groups manage their money more effectively.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0003/3339/33339v6-max-150x150.png"],
+     [[250,
+       61],
+      "assets/images/resized/0003/3339/33339v6-max-250x250.png"],
+     [[359,
+       88],
+      "assets/images/resized/0003/3339/33339v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Pennyminder.com",
+    "permalink": "pennyminder-com",
+    "image":
+     {"available_sizes":
+       [[[150,
+          36],
+         "assets/images/resized/0017/2728/172728v2-max-150x150.png"],
+        [[250,
+          61],
+         "assets/images/resized/0017/2728/172728v2-max-250x250.png"],
+        [[359,
+          88],
+         "assets/images/resized/0017/2728/172728v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Vince",
+      "last_name": "Hodges",
+      "permalink": "vince-hodges",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0017/2731/172731v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0017/2731/172731v2-max-250x250.jpg"],
+          [[200,
+            301],
+           "assets/images/resized/0017/2731/172731v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mint.com",
+      "permalink": "mint",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0000/0298/298v6-max-150x150.png"],
+          [[194,
+            80],
+           "assets/images/resized/0000/0298/298v6-max-250x250.png"],
+          [[194,
+            80],
+           "assets/images/resized/0000/0298/298v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wesabe",
+      "permalink": "wesabe",
+      "image":
+       {"available_sizes":
+         [[[129,
+            133],
+           "assets/images/resized/0000/0061/61v1-max-150x150.jpg"],
+          [[129,
+            133],
+           "assets/images/resized/0000/0061/61v1-max-250x250.jpg"],
+          [[129,
+            133],
+           "assets/images/resized/0000/0061/61v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "expensr",
+      "permalink": "expensr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0000/2518/2518v1-max-150x150.png"],
+          [[200,
+            30],
+           "assets/images/resized/0000/2518/2518v1-max-250x250.png"],
+          [[200,
+            30],
+           "assets/images/resized/0000/2518/2518v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Buxfer",
+      "permalink": "buxfer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3907/3907v1-max-150x150.png"],
+          [[161,
+            40],
+           "assets/images/resized/0000/3907/3907v1-max-250x250.png"],
+          [[161,
+            40],
+           "assets/images/resized/0000/3907/3907v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BillMonk",
+      "permalink": "billmonk",
+      "image":
+       {"available_sizes":
+         [[[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-150x150.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-250x250.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "manageME7",
+      "permalink": "manageme7",
+      "image":
+       {"available_sizes":
+         [[[136,
+            44],
+           "assets/images/resized/0003/6434/36434v4-max-150x150.jpg"],
+          [[136,
+            44],
+           "assets/images/resized/0003/6434/36434v4-max-250x250.jpg"],
+          [[136,
+            44],
+           "assets/images/resized/0003/6434/36434v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 49.263588,
+    "longitude": -123.138565}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.appscout.com/2008/12/pennyminder_helps_clubs_or_gro.php",
+    "title": ""},
+   {"external_url": "http://www.killerstartups.com/Web20/pennyminder-com-managing-your-finances",
+    "title": ""}]}

@@ -1,0 +1,136 @@
+{"name": "Spaceport.io",
+ "permalink": "spaceport-io",
+ "crunchbase_url": "http://www.crunchbase.com/company/spaceport-io",
+ "homepage_url": "http://spaceport.io/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@spaceport.io",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Apr 12 01:32:50 UTC 2012",
+ "updated_at": "Tue Apr 23 20:25:54 UTC 2013",
+ "overview": "\u003Cp\u003ESpaceport.io, an HTML5, mobile game creation platform. Spaceport allows game developers to build a game once, using Javascript, and have it play across all smartphone operating systems, with a native app-like experience and fast performance. The web-based games run as a hybrid HTML5 \u2013 native app, and the code for the game is written once, in a simple scripting language, so that they can then run on any device. Developers can also create native iOS apps using Spaceport.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       139],
+      "assets/images/resized/0018/3814/183814v1-max-150x150.png"],
+     [[153,
+       142],
+      "assets/images/resized/0018/3814/183814v1-max-250x250.png"],
+     [[153,
+       142],
+      "assets/images/resized/0018/3814/183814v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://techcrunch.com/2012/04/11/bbc-bets-on-html5-games-invests-millions-in-mobile-game-creation-platform-spaceport-io/",
+    "source_description": "BBC And YouWeb Bets On HTML5 Games; Invests Millions In Mobile Game Creation Platform Spaceport.io",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 4,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "BBC Worldwide",
+         "permalink": "bbc-worldwide",
+         "image":
+          {"available_sizes":
+            [[[82,
+               61],
+              "assets/images/resized/0027/2134/272134v1-max-150x150.jpg"],
+             [[82,
+               61],
+              "assets/images/resized/0027/2134/272134v1-max-250x250.jpg"],
+             [[82,
+               61],
+              "assets/images/resized/0027/2134/272134v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "YouWeb",
+         "permalink": "youweb",
+         "image":
+          {"available_sizes":
+            [[[150,
+               61],
+              "assets/images/resized/0013/7337/137337v1-max-150x150.png"],
+             [[250,
+               101],
+              "assets/images/resized/0013/7337/137337v1-max-250x250.png"],
+             [[275,
+               112],
+              "assets/images/resized/0013/7337/137337v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2013/04/23/facebook-acqhires-part-of-team-from-html5-game-platform-spaceport-io-but-co-founder-will-keep-running-it/",
+   "source_description": "Facebook Acqhires Part Of Team From HTML5 Game Platform Spaceport.io That Will Keep Running",
+   "acquired_year": 2013,
+   "acquired_month": 4,
+   "acquired_day": 23,
+   "acquiring_company":
+    {"name": "Facebook",
+     "permalink": "facebook",
+     "image":
+      {"available_sizes":
+        [[[150,
+           56],
+          "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+         [[250,
+           94],
+          "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+         [[450,
+           169],
+          "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "330 Primrose Road ",
+    "address2": "",
+    "zip_code": "94010",
+    "city": "Burlingame",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

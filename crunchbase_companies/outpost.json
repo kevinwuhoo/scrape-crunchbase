@@ -1,0 +1,148 @@
+{"name": "Outpost",
+ "permalink": "outpost",
+ "crunchbase_url": "http://www.crunchbase.com/company/outpost",
+ "homepage_url": "http://outpostp2p.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "outpostp2p",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2013,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, trip, p2p, marketplace, rideshare, sharing, hotels, peer-to-peer, smart, community, shareable, mesh, money",
+ "alias_list": null,
+ "email_address": "info@outpost.travel",
+ "phone_number": "",
+ "description": "KAYAK for P2P services",
+ "created_at": "Wed Apr 17 04:58:02 UTC 2013",
+ "updated_at": "Sat May 18 21:29:13 UTC 2013",
+ "overview": "\u003Cp\u003EOutpost is a search engine that aggregates listings from many peer to peer websites such as Airbnb, Ridejoy, Vayable, etc. and lists them into one place. Users can plan their trip using sharing economy services only and compare prices between the appropriate networks. The service allows them to book rideshares, places to stay and activities at the most affordable prices available. This new way of travelling is based solely on non-commercial services and allows users to discover unique experiences at their destination that no commercial service can offer. Human hosts, drivers and guides that are eager to show you the secrets of their city make Outpost the new way to travel.\u003C/p\u003E\n\n\u003Cp\u003EJust give it a departure point, a destination, your travel dates, and the number of people in your party, and it\u0026#8217;ll instantly populate a GMap with listings from Airbnb, boutique tour site Vayable, and ride-share provider Ridejoy, giving you a simple, one-stop trip-planning shop, so you can straight kill your vacation like it was a pair of foolish teenagers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[32,
+       64],
+      "assets/images/resized/0025/2236/252236v2-max-150x150.png"],
+     [[32,
+       64],
+      "assets/images/resized/0025/2236/252236v2-max-250x250.png"],
+     [[32,
+       64],
+      "assets/images/resized/0025/2236/252236v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Hamed",
+      "last_name": "Al-Khabaz",
+      "permalink": "hamed-al-khabaz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ovidiu",
+      "last_name": "Mija",
+      "permalink": "ovidiu-mija",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "KAYAK",
+      "permalink": "kayak",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0000/2791/2791v9-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0000/2791/2791v9-max-250x250.png"],
+          [[450,
+            160],
+           "assets/images/resized/0000/2791/2791v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TripAdvisor",
+      "permalink": "tripadvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/2953/2953v18-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0000/2953/2953v18-max-250x250.jpg"],
+          [[450,
+            264],
+           "assets/images/resized/0000/2953/2953v18-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Airbnb",
+      "permalink": "airbnb",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0002/3133/23133v9-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0002/3133/23133v9-max-250x250.png"],
+          [[450,
+            185],
+           "assets/images/resized/0002/3133/23133v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tripping",
+      "permalink": "tripping",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0008/2028/82028v4-max-150x150.png"],
+          [[250,
+            100],
+           "assets/images/resized/0008/2028/82028v4-max-250x250.png"],
+          [[450,
+            180],
+           "assets/images/resized/0008/2028/82028v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        74],
+       "assets/images/resized/0025/2235/252235v2-max-150x150.png"],
+      [[250,
+        124],
+       "assets/images/resized/0025/2235/252235v2-max-250x250.png"],
+      [[450,
+        224],
+       "assets/images/resized/0025/2235/252235v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://nibletz.com/2013/04/15/montreal-startup-outpost-kayak-p2pers/",
+    "title": "Montreal Startup Outpost Is Kayak For P2Pers"},
+   {"external_url": "http://www.thrillist.com/travel/nation/outpost",
+    "title": "Your one-stop P2P travel site"}]}

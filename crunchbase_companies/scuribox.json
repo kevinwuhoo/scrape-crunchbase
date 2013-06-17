@@ -1,0 +1,113 @@
+{"name": "Securibox",
+ "permalink": "scuribox",
+ "crunchbase_url": "http://www.crunchbase.com/company/scuribox",
+ "homepage_url": "http://www.securibox.fr",
+ "blog_url": "http://securibox.wordpress.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/securibox",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 12,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "file-manager, e-document, cloud, storage, invoice, bill, pay-slip",
+ "alias_list": null,
+ "email_address": "contact@securibox.fr",
+ "phone_number": "",
+ "description": "A personal e-documents manager.",
+ "created_at": "Wed May 05 12:27:38 UTC 2010",
+ "updated_at": "Fri May 17 04:44:15 UTC 2013",
+ "overview": "\u003Cp\u003ESecuribox is a Saas software editor, and operates a secured file manager that automatically collect and centralize all the official documents that individuals have to keep.\nIt provides to its BtoB customers a range of white-label solutions to collect documents from various user-interfaces on the web and allow them to be stored in their online vault, providing an extra layer of value and datas.\nMajor french banking institutions already use Securibox\u0026#8217; technology to allow their customers to establish a link between an invoice, and the payment reflected on their banking account.\u003C/p\u003E\n\n\u003Cp\u003EPeople receive more and more electronic documents that they have to keep on a mid/long term basis : invoices, pay slips, statement of accounts, \u0026#8230;\nAll these documents are spread on various user interfaces, and users have to remember dozen of different IDs and passwords.\u003C/p\u003E\n\n\u003Cp\u003EWith Securibox, just enter your ID and password into the corresponding \u0026#8220;Agent Web\u0026#8221;, and Securibox will connect to your account every day to check if a new document is available for you.\nIf this is the case, Securibox will collect it, and secure it in your account.\u003C/p\u003E\n\n\u003Cp\u003EPeople can then archive, organize and manage all their official documents. They can also follow and optimize their consumption for each service with personal dashboards.\nDay after day, we build for you an electronic cabinet where all your official documents and data are stored.\u003C/p\u003E\n\n\u003Cp\u003EYour banker ask for a proof of residency? Easy : just send him your last electricity invoice through your Securibox\u0026#8217;s account.\nYour insurer wants an invoice to refund you? Easy: it\u0026#8217;s securely stored in your Securibox\u0026#8217;s account!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0008/6051/86051v2-max-150x150.jpg"],
+     [[250,
+       62],
+      "assets/images/resized/0008/6051/86051v2-max-250x250.jpg"],
+     [[300,
+       75],
+      "assets/images/resized/0008/6051/86051v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Nicolas",
+      "last_name": "HERZ",
+      "permalink": "nicolas-herz",
+      "image":
+       {"available_sizes":
+         [[[116,
+            150],
+           "assets/images/resized/0026/3144/263144v2-max-150x150.jpg"],
+          [[140,
+            180],
+           "assets/images/resized/0026/3144/263144v2-max-250x250.jpg"],
+          [[140,
+            180],
+           "assets/images/resized/0026/3144/263144v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Check",
+      "permalink": "pageonce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0000/3085/3085v3-max-150x150.jpg"],
+          [[171,
+            35],
+           "assets/images/resized/0000/3085/3085v3-max-250x250.jpg"],
+          [[171,
+            35],
+           "assets/images/resized/0000/3085/3085v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "42 avenue de Villepreux",
+    "address2": "",
+    "zip_code": "92420",
+    "city": "Vaucresson",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cembed src='http://www.tivipro.tv/swf/flvplayer.swf' width='320' height='272' bgcolor='000000' allowscriptaccess='always' allowfullscreen='true' flashvars='file=http://www.tivipro.tv/swf/extras/php_mysql_playlist.php?id=180231'/\u003E",
+    "description": "\u003Cp\u003ENicolas Herz\u0026#8217;s interview (co-founder and CEO - in French)\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        123],
+       "assets/images/resized/0008/8882/88882v2-max-150x150.jpg"],
+      [[250,
+        205],
+       "assets/images/resized/0008/8882/88882v2-max-250x250.jpg"],
+      [[450,
+        370],
+       "assets/images/resized/0008/8882/88882v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

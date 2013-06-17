@@ -1,0 +1,66 @@
+{"name": "itemfoo",
+ "permalink": "itemfoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/itemfoo",
+ "homepage_url": "http://itemfoo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "itemfoo",
+ "category_code": "enterprise",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rich-web, json, gwt, lean-development",
+ "alias_list": null,
+ "email_address": "bill@itemfoo.com",
+ "phone_number": "510 658 9900",
+ "description": "rich web software",
+ "created_at": "Thu Jul 22 00:35:40 UTC 2010",
+ "updated_at": "Mon Aug 02 17:43:03 UTC 2010",
+ "overview": "\u003Cp\u003EItem:Foo is a development stage company focused on developing lean development tools for building rich web applications.\u003C/p\u003E\n\n\u003Cp\u003EItem:Foo is publisher of the itemscript specification and libraries.  The itemscript specification describes JSON (JavaScript Object Notation) data.  The libraries provide the underpinnings for a dymanic application development environment.\u003C/p\u003E\n\n\u003Cp\u003EItem:Foo is supporting open source users of the libraries and using them as foundation elements of a family of software tools and applications.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Braasch",
+      "permalink": "bill-braasch",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1195 Park Avenue",
+    "address2": "#206",
+    "zip_code": "94608",
+    "city": "Emeryville",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

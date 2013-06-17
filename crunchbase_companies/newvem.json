@@ -1,0 +1,166 @@
+{"name": "Newvem",
+ "permalink": "newvem",
+ "crunchbase_url": "http://www.crunchbase.com/company/newvem",
+ "homepage_url": "http://newvem.com",
+ "blog_url": "http://blog.newvem.com",
+ "blog_feed_url": "",
+ "twitter_username": "newvem",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, aws, amazon-web-services, cost-management, security, utilization",
+ "alias_list": null,
+ "email_address": "info@newvem.com",
+ "phone_number": "",
+ "description": "getting to your cloud's bottom line",
+ "created_at": "Sun Apr 29 15:37:50 UTC 2012",
+ "updated_at": "Fri Jun 01 22:31:48 UTC 2012",
+ "overview": "\u003Cp\u003ENewvem is the leader in enhancing cloud usage effectiveness through data analytics.   \u003C/p\u003E\n\n\u003Cp\u003ENewvem\u2019s KnowYourCloud Analytics, a free SaaS solution for Amazon AWS customers, provides a 360-degree view of their cloud usage to enable running a reliable and efficient cloud deployment . The service collects and analyzes AWS usage data, revealing issues and anomalies in their cloud, and recommends actionable insights that help solve not just cost efficiency, but security, availability, and utilization issues as well.  \u003C/p\u003E\n\n\u003Cp\u003EDev-Ops, IT Managers and Business Managers use Newvem everyday to discover meaningful insights on their cloud-based infrastructure, including potential costs savings, security threats, and availability issues. Newvem is led by a seasoned team of serial entrepreneurs and is funded by Greylock Partners, Index Ventures, Innovation Endeavors and others. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0018/7039/187039v2-max-150x150.png"],
+     [[250,
+       42],
+      "assets/images/resized/0018/7039/187039v2-max-250x250.png"],
+     [[260,
+       44],
+      "assets/images/resized/0018/7039/187039v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP Marketing and Business Development",
+    "person":
+     {"first_name": "Cameron",
+      "last_name": "Peron",
+      "permalink": "cameron-peron",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/0085/120085v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/0085/120085v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/0085/120085v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$4M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2012/05/01/newvem-raises-4m-from-greylock-eric-schmidt-to-help-aws-customers-spend-less-money/",
+    "source_description": "Newvem Raises $4M From Greylock, Eric Schmidt To Help AWS Customers Spend Less Money",
+    "raised_amount": 4000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Greylock Partners",
+         "permalink": "greylock",
+         "image":
+          {"available_sizes":
+            [[[150,
+               35],
+              "assets/images/resized/0000/4363/4363v3-max-150x150.jpg"],
+             [[250,
+               59],
+              "assets/images/resized/0000/4363/4363v3-max-250x250.jpg"],
+             [[450,
+               107],
+              "assets/images/resized/0000/4363/4363v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Index Ventures",
+         "permalink": "index-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               68],
+              "assets/images/resized/0005/1550/51550v1-max-150x150.png"],
+             [[156,
+               71],
+              "assets/images/resized/0005/1550/51550v1-max-250x250.png"],
+             [[156,
+               71],
+              "assets/images/resized/0005/1550/51550v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "David",
+         "last_name": "Strohm",
+         "permalink": "david-strohm",
+         "image":
+          {"available_sizes":
+            [[[107,
+               150],
+              "assets/images/resized/0005/2191/52191v1-max-150x150.jpg"],
+             [[148,
+               207],
+              "assets/images/resized/0005/2191/52191v1-max-250x250.jpg"],
+             [[148,
+               207],
+              "assets/images/resized/0005/2191/52191v1-max-450x450.jpg"]],
+           "attribution": "\u003Cp\u003EGreylock\u003C/p\u003E"}}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "George",
+         "last_name": "Kadifa",
+         "permalink": "george-kadifa",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Maurice",
+         "last_name": "Werdegar",
+         "permalink": "maurice-werdegar",
+         "image":
+          {"available_sizes":
+            [[[99,
+               150],
+              "assets/images/resized/0001/5823/15823v6-max-150x150.jpg"],
+             [[133,
+               200],
+              "assets/images/resized/0001/5823/15823v6-max-250x250.jpg"],
+             [[133,
+               200],
+              "assets/images/resized/0001/5823/15823v6-max-450x450.jpg"]],
+           "attribution": "\u003Cp\u003E\u003Ca href=\"http://www.westerntech.com/team/\" title=\"WesternTech\" rel=\"nofollow\"\u003EWesternTech\u003C/a\u003E\u003C/p\u003E"}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2012/05/31/newvem-know-your-cloud-better/",
+    "title": ""}]}

@@ -1,0 +1,90 @@
+{"name": "FilmSuggest",
+ "permalink": "filmsuggest",
+ "crunchbase_url": "http://www.crunchbase.com/company/filmsuggest",
+ "homepage_url": "http://www.filmsuggest.com",
+ "blog_url": "http://filmsuggest.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "FilmSuggest",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ratings, movies, films",
+ "alias_list": null,
+ "email_address": "kyle@filmsuggest.com",
+ "phone_number": "936-662-5496",
+ "description": "smart movie recommendations",
+ "created_at": "Tue Dec 16 22:01:51 UTC 2008",
+ "updated_at": "Mon Feb 01 19:19:46 UTC 2010",
+ "overview": "\u003Cp\u003EFilmSuggest  helps users find movies they may like based on stated  preferences. FilmSuggest uses the Internet Movie Database (IMDb) to procure titles, genres, actors, directors, plots, and MPAA ratings for each movie. Additionally, FilmSuggest uses Amazon\u0026#8217;s database for DVD cover artwork and to link to Amazon\u0026#8217;s store for purchase of DVD titles. The Google Charts API is also used within the site to display users\u0026#8217; preference trends in the Profile section of the site.\u003C/p\u003E\n\n\u003Cp\u003EFilmSuggest implements several multi-faceted technologies to function, including cascading style sheets (CSS), asynchronous javascript and XML (AJAX) requests, an open source relational database management system (MySQL), and a server-side cross-platform HTML embedded scripting language (PHP). Crucial frameworks used are the Prototype javascript framework and the Scriptaculous javascript library, which together implement advanced javascript techniques to present and manipulate data. Additionally, Javascript Object Notation (JSON) is used to streamline multi-language information passed between the server and browser.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0003/1865/31865v1-max-150x150.jpg"],
+     [[184,
+       60],
+      "assets/images/resized/0003/1865/31865v1-max-250x250.jpg"],
+     [[184,
+       60],
+      "assets/images/resized/0003/1865/31865v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Film Suggest",
+    "permalink": "film-suggest",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, Developer",
+    "person":
+     {"first_name": "Kyle",
+      "last_name": "Prier",
+      "permalink": "kyle-prier",
+      "image":
+       {"available_sizes":
+         [[[120,
+            120],
+           "assets/images/resized/0003/1954/31954v2-max-150x150.png"],
+          [[120,
+            120],
+           "assets/images/resized/0003/1954/31954v2-max-250x250.png"],
+          [[120,
+            120],
+           "assets/images/resized/0003/1954/31954v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "360 22nd Street",
+    "address2": "Suite 440",
+    "zip_code": "94612",
+    "city": "Oakland",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.81098,
+    "longitude": -122.265978}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

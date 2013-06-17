@@ -1,0 +1,163 @@
+{"name": "GigLocator",
+ "permalink": "giglocator",
+ "crunchbase_url": "http://www.crunchbase.com/company/giglocator",
+ "homepage_url": "http://www.giglocator.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "giglocator",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gigs, live-music, concerts",
+ "alias_list": null,
+ "email_address": "hello@giglocator.com",
+ "phone_number": "",
+ "description": "Live music discovery and sharing",
+ "created_at": "Tue Apr 28 19:34:52 UTC 2009",
+ "updated_at": "Mon Aug 20 09:28:04 UTC 2012",
+ "overview": "",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0004/2991/42991v4-max-150x150.jpg"],
+     [[200,
+       89],
+      "assets/images/resized/0004/2991/42991v4-max-250x250.jpg"],
+     [[200,
+       89],
+      "assets/images/resized/0004/2991/42991v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "GigLocator",
+    "permalink": "giglocator",
+    "image":
+     {"available_sizes":
+       [[[150,
+          105],
+         "assets/images/resized/0019/7595/197595v2-max-150x150.jpg"],
+        [[250,
+          175],
+         "assets/images/resized/0019/7595/197595v2-max-250x250.jpg"],
+        [[450,
+          315],
+         "assets/images/resized/0019/7595/197595v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Proud",
+      "permalink": "james-proud",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Miles",
+      "last_name": "Noble",
+      "permalink": "miles-noble",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0019/8178/198178v2-max-150x150.jpg"],
+          [[220,
+            120],
+           "assets/images/resized/0019/8178/198178v2-max-250x250.jpg"],
+          [[220,
+            120],
+           "assets/images/resized/0019/8178/198178v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Setlist.fm",
+      "permalink": "setlist-fm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/7145/37145v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0003/7145/37145v1-max-250x250.png"],
+          [[272,
+            75],
+           "assets/images/resized/0003/7145/37145v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Songkick",
+      "permalink": "songkick",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/1420/1420v13-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0000/1420/1420v13-max-250x250.png"],
+          [[250,
+            65],
+           "assets/images/resized/0000/1420/1420v13-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://techcrunch.com/2012/06/20/giglocator-james-proud/",
+   "source_description": "A First Exit For One of Thiel\u2019s 20 Under 20: GigLocator Sells To Brooklyn Bowl\u2019s Peter Shapiro",
+   "acquired_year": 2012,
+   "acquired_month": 6,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Peter Shapiro",
+     "permalink": "peter-shapiro",
+     "image": null}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        106],
+       "assets/images/resized/0011/9942/119942v1-max-150x150.jpg"],
+      [[250,
+        177],
+       "assets/images/resized/0011/9942/119942v1-max-250x250.jpg"],
+      [[450,
+        320],
+       "assets/images/resized/0011/9942/119942v1-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        102],
+       "assets/images/resized/0019/7594/197594v2-max-150x150.jpg"],
+      [[250,
+        170],
+       "assets/images/resized/0019/7594/197594v2-max-250x250.jpg"],
+      [[352,
+        240],
+       "assets/images/resized/0019/7594/197594v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://twitter.com/giglocator",
+    "title": "Twitter"}]}

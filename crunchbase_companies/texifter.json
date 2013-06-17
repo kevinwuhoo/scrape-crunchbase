@@ -1,0 +1,167 @@
+{"name": "Texifter",
+ "permalink": "texifter",
+ "crunchbase_url": "http://www.crunchbase.com/company/texifter",
+ "homepage_url": "http://www.texifter.com/",
+ "blog_url": "http://blog.texifter.com/",
+ "blog_feed_url": "http://blog.texifter.com/index.php/feed/",
+ "twitter_username": "texifter",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "text-analytics, natural-language-processing, search, peer-networks, coding, research, mixed-methods, qualitative, machine-learning, social-media-monitoring",
+ "alias_list": null,
+ "email_address": "stu@texifter.com",
+ "phone_number": "413-230-1255",
+ "description": "Text Analytics",
+ "created_at": "Wed Jun 29 17:48:00 UTC 2011",
+ "updated_at": "Thu Nov 24 23:05:05 UTC 2011",
+ "overview": "\u003Cp\u003ETexifter\u00e2\u20ac\u2122s cloud-based solutions reduce the cost of managing large volumes of unstructured text documents and help users create value from millions of items imported from social media, federated search, bulk email extraction, and electronic document repositories. \u003C/p\u003E\n\n\u003Cp\u003EOur advanced social search capabilities leverage metadata, lower barriers to entry, and will change the way users interact with text. Texifter products combine structured work flow and algorithms to identify meaningful word combinations and help users render further judgments and inferences. The text analysis process looks for common parts, structures, and themes throughout unstructured and semi-structured text input and also identifies unique or unexpected parts. \u003C/p\u003E\n\n\u003Cp\u003ECore technology was developed by the founder, Dr. Stuart Shulman, at UMass and the University of Pittsburgh. The company possesses an executed exclusive option for a perpetual commercial license for the IP.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Stuart",
+      "last_name": "Shulman",
+      "permalink": "stuart-shulman",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Hoy",
+      "permalink": "mark-hoy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0015/2629/152629v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0015/2629/152629v2-max-250x250.jpg"],
+          [[256,
+            256],
+           "assets/images/resized/0015/2629/152629v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Clarabridge",
+      "permalink": "clarabridge",
+      "image":
+       {"available_sizes":
+         [[[150,
+            74],
+           "assets/images/resized/0003/2778/32778v3-max-150x150.png"],
+          [[250,
+            124],
+           "assets/images/resized/0003/2778/32778v3-max-250x250.png"],
+          [[450,
+            224],
+           "assets/images/resized/0003/2778/32778v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Attensity",
+      "permalink": "attensity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0005/0604/50604v2-max-150x150.jpg"],
+          [[240,
+            73],
+           "assets/images/resized/0005/0604/50604v2-max-250x250.jpg"],
+          [[240,
+            73],
+           "assets/images/resized/0005/0604/50604v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce Radian6",
+      "permalink": "radian6",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0001/2046/12046v4-max-150x150.jpg"],
+          [[151,
+            44],
+           "assets/images/resized/0001/2046/12046v4-max-250x250.jpg"],
+          [[151,
+            44],
+           "assets/images/resized/0001/2046/12046v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SPSS",
+      "permalink": "spss",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0005/4486/54486v2-max-150x150.png"],
+          [[100,
+            100],
+           "assets/images/resized/0005/4486/54486v2-max-250x250.png"],
+          [[100,
+            100],
+           "assets/images/resized/0005/4486/54486v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SAS",
+      "permalink": "sas",
+      "image":
+       {"available_sizes":
+         [[[126,
+            35],
+           "assets/images/resized/0003/7006/37006v2-max-150x150.png"],
+          [[126,
+            35],
+           "assets/images/resized/0003/7006/37006v2-max-250x250.png"],
+          [[126,
+            35],
+           "assets/images/resized/0003/7006/37006v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$180k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Friends/Family/Angel",
+    "raised_amount": 180000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 15,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home Office",
+    "address1": "50 Overlook Dr.",
+    "address2": "",
+    "zip_code": "01002",
+    "city": "Amherst",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

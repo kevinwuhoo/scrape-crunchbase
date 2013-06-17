@@ -1,0 +1,120 @@
+{"name": "MakePlans",
+ "permalink": "makeplans",
+ "crunchbase_url": "http://www.crunchbase.com/company/makeplans",
+ "homepage_url": "http://makeplans.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "MakePlans",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 2,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "booking, saas, reservation, sms, scheduling, calendar",
+ "alias_list": null,
+ "email_address": "makeplans@makeplans.no",
+ "phone_number": "",
+ "description": "Scheduling and appointment booking",
+ "created_at": "Mon Nov 08 16:06:24 UTC 2010",
+ "updated_at": "Thu May 24 02:30:19 UTC 2012",
+ "overview": "\u003Cp\u003EMakePlans is a simple and flexible scheduling and appointment booking system which lets your customers book online quick and easy.\u003C/p\u003E\n\n\u003Cp\u003EWhy choose MakePlans?\u003C/p\u003E\n\n\u003Cp\u003ESimple - your customers can reserve with three only clicks.\u003C/p\u003E\n\n\u003Cp\u003ESave time - Don\u0026#8217;t use your time to answer the phone\u003C/p\u003E\n\n\u003Cp\u003EEffective - No double bookings\u003C/p\u003E\n\n\u003Cp\u003ESafe - Hosting and backup is all taken care of by us\u003C/p\u003E\n\n\u003Cp\u003EAffordable - Frin $10 pr month. No hidden costs. No startup fees.\u003C/p\u003E\n\n\u003Cp\u003EAvailable - Works on all browsers and mobile devices\u003C/p\u003E\n\n\u003Cp\u003EExtendibable - Use our API or embed-widgets\u003C/p\u003E\n\n\u003Cp\u003EPersonalize - Your own domain, custom design\u003C/p\u003E\n\n\u003Cp\u003EFull overview - Statistics of bookings and visist\u003C/p\u003E\n\n\u003Cp\u003EFlexible - Confirm by email, sms or as an administrator\u003C/p\u003E\n\n\u003Cp\u003ESEO - Google likes us\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Espen",
+      "last_name": "Antonsen",
+      "permalink": "espen-antonsen",
+      "image":
+       {"available_sizes":
+         [[[102,
+            150],
+           "assets/images/resized/0004/6071/46071v2-max-150x150.png"],
+          [[159,
+            233],
+           "assets/images/resized/0004/6071/46071v2-max-250x250.png"],
+          [[159,
+            233],
+           "assets/images/resized/0004/6071/46071v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "UX-designer",
+    "person":
+     {"first_name": "Arne",
+      "last_name": "Fismen",
+      "permalink": "arne-fismen",
+      "image": null}},
+   {"is_past": false,
+    "title": "System Engineer",
+    "person":
+     {"first_name": "Marcus",
+      "last_name": "Ramberg",
+      "permalink": "marcus-ramberg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BookFresh",
+      "permalink": "bookfresh",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0005/0642/50642v2-max-150x150.jpg"],
+          [[250,
+            61],
+           "assets/images/resized/0005/0642/50642v2-max-250x250.jpg"],
+          [[309,
+            76],
+           "assets/images/resized/0005/0642/50642v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BookingBug",
+      "permalink": "bookingbug",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0003/1020/31020v4-max-150x150.png"],
+          [[200,
+            74],
+           "assets/images/resized/0003/1020/31020v4-max-250x250.png"],
+          [[200,
+            74],
+           "assets/images/resized/0003/1020/31020v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Oslo",
+    "address1": "Youngstorget 3",
+    "address2": "",
+    "zip_code": "0181",
+    "city": "Oslo",
+    "state_code": null,
+    "country_code": "NOR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

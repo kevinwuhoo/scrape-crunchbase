@@ -1,0 +1,140 @@
+{"name": "Cloudnode",
+ "permalink": "cloudnode",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudnode",
+ "homepage_url": "http://cloudno.de",
+ "blog_url": "http://blog.cloudno.de",
+ "blog_feed_url": "http://blog.cloudno.de/rss.xml",
+ "twitter_username": "cloudno_de",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "paas, nodejs, nodejs-hosting",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Provides managed Node.js hosting",
+ "created_at": "Thu Dec 15 17:34:48 UTC 2011",
+ "updated_at": "Wed Feb 22 06:03:23 UTC 2012",
+ "overview": "\u003Cp\u003ECloudnode provides managed/free Node.js, Redis and CouchDB hosting.\u003C/p\u003E\n\n\u003Cp\u003EAll Node.js applications are hosted using specialized Virtual Node Machines. Each application is associated with a git repository and can be managed through a Web interface similar to Github or using a restful API.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       22],
+      "assets/images/resized/0016/6557/166557v2-max-150x150.png"],
+     [[210,
+       31],
+      "assets/images/resized/0016/6557/166557v2-max-250x250.png"],
+     [[210,
+       31],
+      "assets/images/resized/0016/6557/166557v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Nodester",
+      "permalink": "nodester",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0012/2170/122170v4-max-150x150.png"],
+          [[174,
+            82],
+           "assets/images/resized/0012/2170/122170v4-max-250x250.png"],
+          [[174,
+            82],
+           "assets/images/resized/0012/2170/122170v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nodejitsu",
+      "permalink": "nodejitsu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0011/4587/114587v5-max-150x150.jpg"],
+          [[177,
+            59],
+           "assets/images/resized/0011/4587/114587v5-max-250x250.jpg"],
+          [[177,
+            59],
+           "assets/images/resized/0011/4587/114587v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NodeSocket",
+      "permalink": "nodesocket",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0012/9838/129838v2-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0012/9838/129838v2-max-250x250.png"],
+          [[450,
+            83],
+           "assets/images/resized/0012/9838/129838v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Cloudnode Hosting",
+    "address1": "Microlog GmbH",
+    "address2": "Salzstr. 4",
+    "zip_code": "33178",
+    "city": "Borchen",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0016/6556/166556v2-max-150x150.png"],
+      [[200,
+        150],
+       "assets/images/resized/0016/6556/166556v2-max-250x250.png"],
+      [[200,
+        150],
+       "assets/images/resized/0016/6556/166556v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

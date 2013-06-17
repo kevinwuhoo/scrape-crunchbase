@@ -1,0 +1,184 @@
+{"name": "Radio Runt Inc.",
+ "permalink": "radio-runt-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/radio-runt-inc",
+ "homepage_url": "http://rall.ee",
+ "blog_url": "http://rall.ee/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "letsrallee",
+ "category_code": "mobile",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "messaging, voice-twitter, p2p-social-radio, voice-facebook, mobile-walkie-talkie",
+ "alias_list": null,
+ "email_address": "info@ralll.ee",
+ "phone_number": "",
+ "description": "Audio Communication for Social Networks",
+ "created_at": "Wed Mar 13 22:10:23 UTC 2013",
+ "updated_at": "Thu Mar 14 18:56:23 UTC 2013",
+ "overview": "\u003Cp\u003ERadio Runt, Inc. (dba Rallee) is a privately-held, venture backed company that is launching a premier group centric audio communication application for social and interest networks on Android and Apple iOS, which allows users to create and communicate in groups. Radio Runt, Inc. has headquarters in Seattle, WA.\u003C/p\u003E\n\n\u003Cp\u003EJust in the first three months of the Rallee launch more than 2 million minuties of talk time were produced, and more than 1 million downloads were made. \u003C/p\u003E\n\n\u003Cp\u003ERallee\u0026#8217;s tool lets users exchange voice and text, and also includes multilingual translation tools. It is a voice communication catalyst for individuals, groups and organizations sharing common interest on social and interest networks around the world. \u003C/p\u003E\n\n\u003Cp\u003EWith Rallee people can create public and private dialogs, messages, meetings, and more with their friends, members and/or fans.\u003C/p\u003E\n\n\u003Cp\u003ERallee can be downloaded from the iTunes AppStore, Google Play Store and Amazon. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Tony",
+      "last_name": "Bristol",
+      "permalink": "tony-bristol",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "first",
+      "last_name": "last",
+      "permalink": "first-last-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "first",
+      "last_name": "surname",
+      "permalink": "first-surname",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Zello",
+      "permalink": "loudtalks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/0559/559v5-max-150x150.png"],
+          [[250,
+            105],
+           "assets/images/resized/0000/0559/559v5-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/0559/559v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Voxer LLC",
+      "permalink": "voxer-llc",
+      "image":
+       {"available_sizes":
+         [[[123,
+            150],
+           "assets/images/resized/0003/3859/33859v10-max-150x150.jpg"],
+          [[204,
+            247],
+           "assets/images/resized/0003/3859/33859v10-max-250x250.jpg"],
+          [[204,
+            247],
+           "assets/images/resized/0003/3859/33859v10-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tikl",
+      "permalink": "tikl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0024/3813/243813v3-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0024/3813/243813v3-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0024/3813/243813v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HeyTell",
+      "permalink": "heytell",
+      "image": null}},
+   {"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.businesswire.com/news/home/20121106005331/en/Rallee-Push-to-Talk-App-Announces-Nov-28-Launch",
+    "source_description": "New Rallee 'Push-to-Talk' App Announces Nov 28 Launch, Receives Investment from Noted Global Business Leader Kenges Rakishev",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Kenges",
+         "last_name": "Rakishev",
+         "permalink": "kenges-rakishev",
+         "image":
+          {"available_sizes":
+            [[[121,
+               150],
+              "assets/images/resized/0026/0270/260270v1-max-150x150.png"],
+             [[146,
+               180],
+              "assets/images/resized/0026/0270/260270v1-max-250x250.png"],
+             [[146,
+               180],
+              "assets/images/resized/0026/0270/260270v1-max-450x450.png"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Radio Runt Inc",
+    "address1": "2018 156th Ave NE",
+    "address2": "",
+    "zip_code": "98007",
+    "city": " Bellevue",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.628884,
+    "longitude": -122.129762}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

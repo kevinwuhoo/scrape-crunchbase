@@ -1,0 +1,191 @@
+{"name": "Privepass",
+ "permalink": "privepass",
+ "crunchbase_url": "http://www.crunchbase.com/company/privepass",
+ "homepage_url": "http://www.privepass.com",
+ "blog_url": "http://www.facebook.com/privepass",
+ "blog_feed_url": "",
+ "twitter_username": "Privepassasia",
+ "category_code": "ecommerce",
+ "number_of_employees": 15,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel-marketplace, travel-booking, travel, online-travel-agency, luxury-travel, flash-sales, exciting-tours, hotel-booking, travel-smart",
+ "alias_list": null,
+ "email_address": "info@privepass.com",
+ "phone_number": "+864008210171",
+ "description": "Online Theme Getaways Travel APAC",
+ "created_at": "Thu Apr 05 10:08:04 UTC 2012",
+ "updated_at": "Wed Jun 20 18:50:32 UTC 2012",
+ "overview": "\u003Cp\u003EPriv\u00e9Pass is the all-in-one luxury travel website, giving you VIP access to exciting getaways, the finest restaurants and clubs, and the most lavish hotels around Asia.\u003C/p\u003E\n\n\u003Cp\u003EOur mission is provide global discerning travelers a one-stop-shop for handpicked luxury travel products ranging from handcrafted itineraries to booking a perfect hotel.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0018/3815/183815v2-max-150x150.png"],
+     [[250,
+       49],
+      "assets/images/resized/0018/3815/183815v2-max-250x250.png"],
+     [[280,
+       55],
+      "assets/images/resized/0018/3815/183815v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Getaways",
+    "permalink": "getaways",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Product Officer and Co-Founder",
+    "person":
+     {"first_name": "Joon",
+      "last_name": "Chan",
+      "permalink": "joon-chan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Executive Office and Co-Founder",
+    "person":
+     {"first_name": "Kit",
+      "last_name": "Arunanondchai",
+      "permalink": "kit-arunanondchai",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Lin",
+      "permalink": "jonathan-lin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Agoda",
+      "permalink": "agoda",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0006/2189/62189v3-max-150x150.jpg"],
+          [[250,
+            106],
+           "assets/images/resized/0006/2189/62189v3-max-250x250.jpg"],
+          [[449,
+            192],
+           "assets/images/resized/0006/2189/62189v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Priceline",
+      "permalink": "priceline",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0002/1421/21421v1-max-150x150.png"],
+          [[213,
+            46],
+           "assets/images/resized/0002/1421/21421v1-max-250x250.png"],
+          [[213,
+            46],
+           "assets/images/resized/0002/1421/21421v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Expedia",
+      "permalink": "expedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0001/6749/16749v3-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0001/6749/16749v3-max-250x250.jpg"],
+          [[450,
+            347],
+           "assets/images/resized/0001/6749/16749v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Voyage Prive",
+      "permalink": "voyage-prive",
+      "image":
+       {"available_sizes":
+         [[[120,
+            120],
+           "assets/images/resized/0024/6907/246907v1-max-150x150.jpg"],
+          [[120,
+            120],
+           "assets/images/resized/0024/6907/246907v1-max-250x250.jpg"],
+          [[120,
+            120],
+           "assets/images/resized/0024/6907/246907v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jetsetter",
+      "permalink": "jetsetter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0011/6528/116528v1-max-150x150.jpg"],
+          [[226,
+            48],
+           "assets/images/resized/0011/6528/116528v1-max-250x250.jpg"],
+          [[226,
+            48],
+           "assets/images/resized/0011/6528/116528v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ImpulseFlyer",
+      "permalink": "impulseflyer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0014/3431/143431v4-max-150x150.png"],
+          [[250,
+            59],
+           "assets/images/resized/0014/3431/143431v4-max-250x250.png"],
+          [[450,
+            107],
+           "assets/images/resized/0014/3431/143431v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$170k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 170000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 5,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Operations Office",
+    "address1": "928 Xikang Road",
+    "address2": "",
+    "zip_code": "",
+    "city": "Shanghai",
+    "state_code": null,
+    "country_code": "CHN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

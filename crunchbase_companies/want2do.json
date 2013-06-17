@@ -1,0 +1,100 @@
+{"name": "want2do",
+ "permalink": "want2do",
+ "crunchbase_url": "http://www.crunchbase.com/company/want2do",
+ "homepage_url": "http://www.want2do.de",
+ "blog_url": "http://blog.want2do.de",
+ "blog_feed_url": "http://blog.want2do.de/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "future, to-do, social-network",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "+49 - (0)30 - 67923600",
+ "description": "German Social Network",
+ "created_at": "Fri Aug 01 15:31:56 UTC 2008",
+ "updated_at": "Thu Dec 01 07:52:46 UTC 2011",
+ "overview": "\u003Cp\u003Ewant2do.de is a German social network dedicated to the future.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0002/3188/23188v2-max-150x150.jpg"],
+     [[250,
+       57],
+      "assets/images/resized/0002/3188/23188v2-max-250x250.jpg"],
+     [[450,
+       103],
+      "assets/images/resized/0002/3188/23188v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "want2do.de",
+    "permalink": "www-want2do-de",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Thomaser",
+      "permalink": "daniel-thomaser",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Bohmeyer",
+      "permalink": "michael-bohmeyer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "43 Things, The Robot Co-op",
+      "permalink": "43things",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/6079/26079v1-max-150x150.png"],
+          [[176,
+            71],
+           "assets/images/resized/0002/6079/26079v1-max-250x250.png"],
+          [[176,
+            71],
+           "assets/images/resized/0002/6079/26079v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Berlin Office",
+    "address1": "Weserstr.17",
+    "address2": "",
+    "zip_code": "10247",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 52.510284,
+    "longitude": 13.465981}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

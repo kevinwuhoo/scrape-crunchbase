@@ -1,0 +1,122 @@
+{"name": "urlBorg",
+ "permalink": "urlborg",
+ "crunchbase_url": "http://www.crunchbase.com/company/urlborg",
+ "homepage_url": "http://urlborg.com/",
+ "blog_url": "http://vrypan.net/log/",
+ "blog_feed_url": "http://vrypan.net/log/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "url, tinyurl, uniform-resource-locator",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sun May 25 01:44:44 UTC 2008",
+ "updated_at": "Sat May 31 10:38:36 UTC 2008",
+ "overview": "\u003Cp\u003EurlBorg is a \u0026#8220;URL-shortening\u0026#8221; service built on Google AppEngine for scalability. Users can login using their GMail account to set their preferences and enable history.\u003C/p\u003E\n\n\u003Cp\u003EurlBorg provides stats for each short link and enhanced \u0026#8220;preview\u0026#8221; pages that display additional information depending on the link type (ex. an embedded audio player for links to mp3 files, etc.)\u003C/p\u003E\n\n\u003Cp\u003ESite owners can set their own \u0026#8220;short domain\u0026#8221; that will be used for all short links pointing to their site.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0001/9295/19295v2-max-150x150.png"],
+     [[191,
+       59],
+      "assets/images/resized/0001/9295/19295v2-max-250x250.png"],
+     [[191,
+       59],
+      "assets/images/resized/0001/9295/19295v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Panayotis",
+      "last_name": "Vryonis",
+      "permalink": "panayotis-vryonis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TinyURL",
+      "permalink": "tinyurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0001/9075/19075v1-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0001/9075/19075v1-max-250x250.png"],
+          [[401,
+            62],
+           "assets/images/resized/0001/9075/19075v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "snurl",
+      "permalink": "snurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0005/2330/52330v2-max-150x150.png"],
+          [[176,
+            45],
+           "assets/images/resized/0005/2330/52330v2-max-250x250.png"],
+          [[176,
+            45],
+           "assets/images/resized/0005/2330/52330v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SnipURL",
+      "permalink": "snipurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/9077/19077v1-max-150x150.png"],
+          [[176,
+            45],
+           "assets/images/resized/0001/9077/19077v1-max-250x250.png"],
+          [[176,
+            45],
+           "assets/images/resized/0001/9077/19077v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "14561",
+    "city": "Athens",
+    "state_code": null,
+    "country_code": "GRC",
+    "latitude": 38.07555,
+    "longitude": 23.803793}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://appgallery.appspot.com/about_app?app_id=agphcHBnYWxsZXJ5chMLEgxBcHBsaWNhdGlvbnMYpwsM",
+    "title": "AppEngine applications gallery"}]}

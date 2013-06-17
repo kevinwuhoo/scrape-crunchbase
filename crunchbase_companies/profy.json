@@ -1,0 +1,121 @@
+{"name": "Profy",
+ "permalink": "profy",
+ "crunchbase_url": "http://www.crunchbase.com/company/profy",
+ "homepage_url": "http://profy.com",
+ "blog_url": "http://www.profy.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/Profycom",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Apr 30 04:31:15 UTC 2008",
+ "updated_at": "Sun Aug 10 14:37:53 UTC 2008",
+ "overview": "\u003Cp\u003EProfy strives to be a single point of access to all activities involved in blogging, from reading and sharing news to publishing posts and networking with other bloggers and readers. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0001/7851/17851v1-max-150x150.png"],
+     [[250,
+       124],
+      "assets/images/resized/0001/7851/17851v1-max-250x250.png"],
+     [[450,
+       224],
+      "assets/images/resized/0001/7851/17851v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Profy blogging platform",
+    "permalink": "profy-blogging-platform",
+    "image":
+     {"available_sizes":
+       [[[150,
+          74],
+         "assets/images/resized/0001/7858/17858v1-max-150x150.png"],
+        [[250,
+          124],
+         "assets/images/resized/0001/7858/17858v1-max-250x250.png"],
+        [[450,
+          224],
+         "assets/images/resized/0001/7858/17858v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ilya",
+      "last_name": "Korsun",
+      "permalink": "ilya-korsun",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Markus",
+      "last_name": "Bertheau",
+      "permalink": "markus-bertheau",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Business Development",
+    "person":
+     {"first_name": "Svetlana",
+      "last_name": "Gladkova",
+      "permalink": "svetlana-gladkova",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "IdeaFry",
+      "permalink": "ideafry",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0002/2386/22386v2-max-150x150.png"],
+          [[250,
+            94],
+           "assets/images/resized/0002/2386/22386v2-max-250x250.png"],
+          [[260,
+            98],
+           "assets/images/resized/0002/2386/22386v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.775196,
+    "longitude": -122.419204}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techcrunch.com/2008/01/09/social-blogging-platform-profy-launches-in-alpha/",
+    "title": "TechCrunch Review"},
+   {"external_url": "http://knightknetwork.com/2008/05/05/interview-svetlana-gladkova-profy-vice-president/",
+    "title": "Interview w/ Svetlana Gladkova - Profy VP"}]}

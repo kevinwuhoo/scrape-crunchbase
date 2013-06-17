@@ -1,0 +1,74 @@
+{"name": "LiveDoco",
+ "permalink": "livedoco",
+ "crunchbase_url": "http://www.crunchbase.com/company/livedoco",
+ "homepage_url": "http://www.livedoco.com",
+ "blog_url": "http://www.livedoco.com/why-livedoco",
+ "blog_feed_url": "",
+ "twitter_username": "LiveDoco",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sql-server, database-documentation",
+ "alias_list": null,
+ "email_address": "contact@livedoco.com",
+ "phone_number": "",
+ "description": "Specializes in SQL Server tools",
+ "created_at": "Tue Apr 03 17:34:53 UTC 2012",
+ "updated_at": "Wed May 23 07:43:04 UTC 2012",
+ "overview": "\u003Cp\u003ELiveDoco is a maker of the SQL Server documentation tool under the same name.\u003C/p\u003E\n\n\u003Cp\u003EWhat LiveDoco is:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EMicrosoft SQL Server database documentation tool\u003C/li\u003E\n\u003Cli\u003E\u0026#8220;Live\u0026#8221; data dictionary\u003C/li\u003E\n\u003Cli\u003EExtended properties editor\u003C/li\u003E\n\u003Cli\u003EDatabase structure explorer\u003C/li\u003E\n\u003Cli\u003EDatabase structure export tool\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EWhat it can do:\nLiveDoco enables easy access to your  Microsoft SQL Server metadata/structure\nand allows to:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EView the structure of your database, including object descriptions and source code\u003C/li\u003E\n\u003Cli\u003EDocument SQL Server databases using extended properties\u003C/li\u003E\n\u003Cli\u003EView or modify extended properties, both standard MS_Description and custom ones\u003C/li\u003E\n\u003Cli\u003ESearch database object names and extended properties\u003C/li\u003E\n\u003Cli\u003ESelectively export your database metadata/structure:\n\u0026#8211; As XML with an optional XSLT transformation\n\u0026#8211; As SQL extended properties insert/update script\nExport subsystem is extendable so you can add your own export templates using either XSLT or ASP.NET MVC Razor syntax.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       100],
+      "assets/images/resized/0019/0440/190440v2-max-150x150.png"],
+     [[100,
+       100],
+      "assets/images/resized/0019/0440/190440v2-max-250x250.png"],
+     [[100,
+       100],
+      "assets/images/resized/0019/0440/190440v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        78],
+       "assets/images/resized/0018/2449/182449v2-max-150x150.png"],
+      [[250,
+        130],
+       "assets/images/resized/0018/2449/182449v2-max-250x250.png"],
+      [[450,
+        235],
+       "assets/images/resized/0018/2449/182449v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.livedoco.com/why-livedoco",
+    "title": "Explains why LiveDoco was created and how it it different from other database documentation tools"}]}

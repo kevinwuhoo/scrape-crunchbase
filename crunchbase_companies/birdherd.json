@@ -1,0 +1,110 @@
+{"name": "BirdHerd",
+ "permalink": "birdherd",
+ "crunchbase_url": "http://www.crunchbase.com/company/birdherd",
+ "homepage_url": "http://birdherd.com",
+ "blog_url": "http://blog.birdherd.com",
+ "blog_feed_url": "http://feeds.feedburner.com/birdherd",
+ "twitter_username": "thebirdherd",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, twitterapp",
+ "alias_list": null,
+ "email_address": "colin@birdherd.com",
+ "phone_number": "",
+ "description": "Twitter made easy for groups and teams",
+ "created_at": "Sun Jan 24 00:31:46 UTC 2010",
+ "updated_at": "Mon Apr 19 03:16:30 UTC 2010",
+ "overview": "\u003Cp\u003EBirdHerd makes it easy for groups, teams and brands to update a single Twitter account.\u003C/p\u003E\n\n\u003Cp\u003EUsers can create or signin with their group account via Twitter\u0026#8217;s OAuth feature. After this step, you can add other Twitter users as \u0026#8220;contributors\u0026#8221; to your group account. Contributors could be team members, band mates, fellow employees, or anything. If your group Twitter account receives a DM from one of your contributors, it will take various actions on that users behalf, such as posting a new message, following a twitter user, replying to tweet, and sending a GroupMessage (GM) to all your contributors.\u003C/p\u003E\n\n\u003Cp\u003EBirdHerd does not require the use of a custom Twitter client to update your group account - you can use what ever Twitter tools you currently enjoy.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       145],
+      "assets/images/resized/0007/4589/74589v2-max-150x150.png"],
+     [[250,
+       241],
+      "assets/images/resized/0007/4589/74589v2-max-250x250.png"],
+     [[307,
+       297],
+      "assets/images/resized/0007/4589/74589v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Colin",
+      "last_name": "Brumelle",
+      "permalink": "colin-brumelle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0017/4586/174586v2-max-150x150.jpg"],
+          [[193,
+            193],
+           "assets/images/resized/0017/4586/174586v2-max-250x250.jpg"],
+          [[193,
+            193],
+           "assets/images/resized/0017/4586/174586v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CoTweet",
+      "permalink": "cotweet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/0865/40865v14-max-150x150.png"],
+          [[175,
+            51],
+           "assets/images/resized/0004/0865/40865v14-max-250x250.png"],
+          [[175,
+            51],
+           "assets/images/resized/0004/0865/40865v14-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GroupTweet",
+      "permalink": "grouptweet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/7253/17253v4-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0001/7253/17253v4-max-250x250.jpg"],
+          [[325,
+            84],
+           "assets/images/resized/0001/7253/17253v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/birdherd_another_option_for_teams_groups_using_twi.php",
+    "title": "BirdHerd: Another Option for Teams \u0026 Groups Using Twitter"}]}

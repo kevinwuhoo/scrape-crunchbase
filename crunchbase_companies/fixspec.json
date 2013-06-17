@@ -1,0 +1,101 @@
+{"name": "FixSpec",
+ "permalink": "fixspec",
+ "crunchbase_url": "http://www.crunchbase.com/company/fixspec",
+ "homepage_url": "http://fixspec.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "fix-protocol, trading, api, financial-services, fix, connectivity",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Accelerating Trading Connectivity",
+ "created_at": "Fri Apr 05 15:16:44 UTC 2013",
+ "updated_at": "Tue May 21 04:00:57 UTC 2013",
+ "overview": "\u003Cp\u003EFixSpec aims to make the job of making and maintaining trading connections faster and easier.\u003C/p\u003E\n\n\u003Cp\u003EFixSpec was founded in late 2012 by Chris Lees who had experienced first-hand the inefficiencies of trading connectivity; despite well established, industry standard protocols, the job of making a new connection can be slow, manual, expensive and error-prone. Maintaining it when something changes is a nightmare.\u003C/p\u003E\n\n\u003Cp\u003ERealizing that much of the inefficiency stems from the practice of documenting APIs in PDF documents, FixSpec replaces PDF with an interactive web specification and surrounds it with tools to make developing to an interface faster and easier.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0024/8821/248821v2-max-150x150.jpg"],
+     [[250,
+       56],
+      "assets/images/resized/0024/8821/248821v2-max-250x250.jpg"],
+     [[297,
+       67],
+      "assets/images/resized/0024/8821/248821v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Online Trading Specifications (FIX)",
+    "permalink": "online-trading-specifications-fix",
+    "image": null},
+   {"name": "Visual FIX Log Decoder",
+    "permalink": "visual-fix-log-decoder",
+    "image": null},
+   {"name": "Cloud Certification Platform",
+    "permalink": "cloud-certification-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Lees",
+      "permalink": "chris-lees",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0024/8819/248819v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0024/8819/248819v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0024/8819/248819v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "First live exchange client for cloud certification platform.",
+    "stoned_year": 2013,
+    "stoned_month": 5,
+    "stoned_day": 20,
+    "source_url": "https://fixspec.com/news#Aquis-Exchange-Links-With-FixSpec",
+    "source_text": null,
+    "source_description": "Aquis Exchange Links With FixSpec",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "FixSpec",
+      "permalink": "fixspec"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

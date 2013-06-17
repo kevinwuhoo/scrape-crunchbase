@@ -1,0 +1,127 @@
+{"name": "cacaoTV",
+ "permalink": "cacaotv",
+ "crunchbase_url": "http://www.crunchbase.com/company/cacaotv",
+ "homepage_url": "http://www.cacaotv.com",
+ "blog_url": "http://www.cacaoweb.org",
+ "blog_feed_url": "",
+ "twitter_username": "cacaoTV",
+ "category_code": "software",
+ "number_of_employees": 18,
+ "founded_year": 2008,
+ "founded_month": 10,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cacaotv, online, tv, shows, movies",
+ "alias_list": null,
+ "email_address": "contact@cacaotv.com",
+ "phone_number": "0033954578008",
+ "description": "P2P video streaming",
+ "created_at": "Wed Aug 05 17:06:01 UTC 2009",
+ "updated_at": "Wed Aug 05 20:38:20 UTC 2009",
+ "overview": "\u003Cp\u003EIntroduction to cacaoTV\u003C/p\u003E\n\n\u003Cp\u003EcacaoTV is a software that allows to view a streaming audio video media (i.e. TV channels) based on Peer to Peer (P2P) technology.\u003C/p\u003E\n\n\u003Cp\u003EcacaoTV works by using P2P technology, thus everyone when viewing media with cacaoweb client, the viewers upload content at the same time the programs are downloaded and viewed. cacaoweb creates a local stream on localhost and that stream is then read by Windows Media Player, Real Player or other media players.\u003C/p\u003E\n\n\u003Cp\u003ESince all viewers will upload content when viewing media, everyone becomes a broadcaster (server) without the cost of traditional streaming. And hence, the more users are online, the faster the programs can be loaded. And it will automatically find different connection nodes and download stream data from the nearest location (nodes). The good thing is, stream data is buffering in the memory, not on the hard disk.\u003C/p\u003E\n\n\u003Cp\u003EChannel Availability and Reliability\u003C/p\u003E\n\n\u003Cp\u003ECurrently, most of the media contents are TV channels from the USA, and it includes some subscribers-based international channel such as HBO, ESPN, National Geographic and etc.\u003C/p\u003E\n\n\u003Cp\u003ELately there are some independent channels that broadcast selective collection of media, such as latest blockbuster movies, collection of movies from a celebrity, or whole series of a drama. This kind of channels is created by individual viewers.\u003C/p\u003E\n\n\u003Cp\u003EThere are also some radio channels available.\u003C/p\u003E\n\n\u003Cp\u003EEase of Use and Speed of cacaoTV\u003C/p\u003E\n\n\u003Cp\u003EJust download cacaoweb and install it, and you\u00e2\u20ac\u2122re ready to jump on the bandwagon of P2P TV. cacaoweb is able to work perfectly and stream smoothly without any configuration.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[10,
+       10],
+      "assets/images/resized/0005/5384/55384v2-max-150x150.png"],
+     [[10,
+       10],
+      "assets/images/resized/0005/5384/55384v2-max-250x250.png"],
+     [[10,
+       10],
+      "assets/images/resized/0005/5384/55384v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Trip",
+      "last_name": "Adler",
+      "permalink": "john-adler",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0007/8993/78993v2-max-150x150.png"],
+          [[250,
+            165],
+           "assets/images/resized/0007/8993/78993v2-max-250x250.png"],
+          [[450,
+            298],
+           "assets/images/resized/0007/8993/78993v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Fabrice",
+      "last_name": "Fessant",
+      "permalink": "fabrice-fessant",
+      "image": null}},
+   {"is_past": false,
+    "title": "Marketing Director",
+    "person":
+     {"first_name": "Francois",
+      "last_name": "Ducon",
+      "permalink": "francois-ducon",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac650k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 650000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2008,
+    "funded_month": 10,
+    "funded_day": 6,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "CDC Innovation",
+         "permalink": "cdc-innovation",
+         "image":
+          {"available_sizes":
+            [[[150,
+               58],
+              "assets/images/resized/0005/7444/57444v1-max-150x150.jpg"],
+             [[250,
+               98],
+              "assets/images/resized/0005/7444/57444v1-max-250x250.jpg"],
+             [[252,
+               99],
+              "assets/images/resized/0005/7444/57444v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Paris",
+    "address1": "8 rue de la pompe",
+    "address2": "",
+    "zip_code": "75016",
+    "city": "paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.85941,
+    "longitude": 2.2751862}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

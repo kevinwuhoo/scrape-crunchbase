@@ -1,0 +1,127 @@
+{"name": "Altos Research",
+ "permalink": "altos-research",
+ "crunchbase_url": "http://www.crunchbase.com/company/altos-research",
+ "homepage_url": "http://www.altosresearch.com",
+ "blog_url": "http://www.altosresearch.com/blog",
+ "blog_feed_url": "http://www.altosresearch.com/blog/feeds/index.rss2",
+ "twitter_username": "AltosSalesDude",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-estate, data, financial, information",
+ "alias_list": "",
+ "email_address": "info@altosresearch.com",
+ "phone_number": "888.819.7775",
+ "description": "",
+ "created_at": "Sat Sep 06 20:34:17 UTC 2008",
+ "updated_at": "Mon May 06 04:09:56 UTC 2013",
+ "overview": "\u003Cp\u003EAltos Research monitors real estate markets in real time and packages up insights for people who need to know. \u003C/p\u003E\n\n\u003Cp\u003EMonitoring housing market conditions around the US, Altos Research publishes detailed, local-market analytics for over 10,000 US zip codes each week. AltosResearch.com offers free and paid analytics, web apps and widgets, reports, and data products for home buyers \u0026amp; sellers, institutions, and real estate professionals. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0002/4751/24751v3-max-150x150.jpg"],
+     [[172,
+       59],
+      "assets/images/resized/0002/4751/24751v3-max-250x250.jpg"],
+     [[172,
+       59],
+      "assets/images/resized/0002/4751/24751v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder, ceo",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Simonsen",
+      "permalink": "michael-simonsen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/9062/259062v1-max-150x150.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0025/9062/259062v1-max-250x250.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0025/9062/259062v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "co-founder, vp engineering",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Buberel",
+      "permalink": "jason-buberel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Zillow",
+      "permalink": "zillow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/0946/946v7-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0000/0946/946v7-max-250x250.png"],
+          [[400,
+            127],
+           "assets/images/resized/0000/0946/946v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Trulia",
+      "permalink": "trulia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/4504/4504v5-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0000/4504/4504v5-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0000/4504/4504v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "280 Hope St,",
+    "address2": "Suite 100",
+    "zip_code": "94041",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3923684,
+    "longitude": -122.0786234}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://images.businessweek.com/ss/08/07/0731_housing_bust_anniversary/index.htm",
+    "title": "BusinessWeek Sept 08"},
+   {"external_url": "http://radar.oreilly.com/2008/01/predicting-financial-market-pe.html",
+    "title": "O'Reilly Radar"}]}

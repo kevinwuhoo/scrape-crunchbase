@@ -1,0 +1,108 @@
+{"name": "GPokr",
+ "permalink": "gpokr",
+ "crunchbase_url": "http://www.crunchbase.com/company/gpokr",
+ "homepage_url": "http://gpokr.com/",
+ "blog_url": "http://gpokr.wordpress.com/",
+ "blog_feed_url": "http://gpokr.wordpress.com/feed/",
+ "twitter_username": "GPokrGame",
+ "category_code": "games_video",
+ "number_of_employees": 1,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "poker, texas-hold-em, card-games",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sun May 04 23:38:46 UTC 2008",
+ "updated_at": "Tue Apr 02 06:19:36 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://gpokr.com\" title=\"GPokr\" rel=\"nofollow\"\u003EGPokr\u003C/a\u003E is a free Texas hold em poker game. It is programmed in Java, AJAX, and GWT. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[117,
+       41],
+      "assets/images/resized/0001/7984/17984v1-max-150x150.png"],
+     [[117,
+       41],
+      "assets/images/resized/0001/7984/17984v1-max-250x250.png"],
+     [[117,
+       41],
+      "assets/images/resized/0001/7984/17984v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Gpoki",
+    "permalink": "gpokr",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Dewsbury",
+      "permalink": "ryan-dewsbury",
+      "image":
+       {"available_sizes":
+         [[[125,
+            125],
+           "assets/images/resized/0001/7932/17932v1-max-150x150.jpg"],
+          [[125,
+            125],
+           "assets/images/resized/0001/7932/17932v1-max-250x250.jpg"],
+          [[125,
+            125],
+           "assets/images/resized/0001/7932/17932v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Poker Stars",
+      "permalink": "poker-stars",
+      "image": null}},
+   {"competitor":
+     {"name": "Bodog",
+      "permalink": "bodog",
+      "image":
+       {"available_sizes":
+         [[[133,
+            27],
+           "assets/images/resized/0002/2590/22590v1-max-150x150.png"],
+          [[133,
+            27],
+           "assets/images/resized/0002/2590/22590v1-max-250x250.png"],
+          [[133,
+            27],
+           "assets/images/resized/0002/2590/22590v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Toronto",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 43.670233,
+    "longitude": -79.386755}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

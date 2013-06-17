@@ -1,0 +1,139 @@
+{"name": "ObjectRocket",
+ "permalink": "objectrocket",
+ "crunchbase_url": "http://www.crunchbase.com/company/objectrocket",
+ "homepage_url": "http://www.objectrocket.com",
+ "blog_url": "http://blog.objectrocket.com",
+ "blog_feed_url": "",
+ "twitter_username": "objectrocket",
+ "category_code": "enterprise",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 2,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mongodb, cloud, dbaas, database-as-a-service",
+ "alias_list": null,
+ "email_address": "support@objectrocket.com",
+ "phone_number": "",
+ "description": "Cloud Database as a Service",
+ "created_at": "Fri Sep 28 21:51:02 UTC 2012",
+ "updated_at": "Sun Mar 31 07:31:49 UTC 2013",
+ "overview": "\u003Cp\u003EObjectRocket is a cloud Database as a Service based on the popular MongoDB database.\u003C/p\u003E\n\n\u003Cp\u003EObjectRocket\u0026#8217;s service is unique because they have created the service from scratch and don\u0026#8217;t rely on other cloud providers for infrastructure. ObjectRocket has numerous innovations including it\u0026#8217;s POD architecture, automatic scaling, and high availability enhancements.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0021/3507/213507v2-max-150x150.png"],
+     [[250,
+       63],
+      "assets/images/resized/0021/3507/213507v2-max-250x250.png"],
+     [[450,
+       114],
+      "assets/images/resized/0021/3507/213507v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, Chief Architect",
+    "person":
+     {"first_name": "Kenny",
+      "last_name": "Gorman",
+      "permalink": "kenny-gorman",
+      "image":
+       {"available_sizes":
+         [[[96,
+            96],
+           "assets/images/resized/0021/5679/215679v2-max-150x150.jpg"],
+          [[96,
+            96],
+           "assets/images/resized/0021/5679/215679v2-max-250x250.jpg"],
+          [[96,
+            96],
+           "assets/images/resized/0021/5679/215679v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Lalonde",
+      "permalink": "chris-lalonde",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, CTO",
+    "person":
+     {"first_name": "Erik",
+      "last_name": "Beebe",
+      "permalink": "erik-beebe",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon-web-services",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0011/3626/113626v1-max-150x150.png"],
+          [[164,
+            60],
+           "assets/images/resized/0011/3626/113626v1-max-250x250.png"],
+          [[164,
+            60],
+           "assets/images/resized/0011/3626/113626v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.marketwatch.com/story/rackspace-acquires-objectrocket-to-help-customers-scale-mongodb-in-the-cloud-2013-02-27-10159275",
+   "source_description": "Rackspace Acquires ObjectRocket to Help Customers Scale MongoDB in the Cloud",
+   "acquired_year": 2013,
+   "acquired_month": 2,
+   "acquired_day": 27,
+   "acquiring_company":
+    {"name": "Rackspace",
+     "permalink": "rackspace",
+     "image":
+      {"available_sizes":
+        [[[150,
+           54],
+          "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+         [[250,
+           90],
+          "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+         [[300,
+           109],
+          "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "3015-0 Hopyard Rd. Unit E",
+    "address2": "",
+    "zip_code": "94588 ",
+    "city": "Pleasanton,",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.6769604,
+    "longitude": -121.897686}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

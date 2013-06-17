@@ -1,0 +1,107 @@
+{"name": "General Software",
+ "permalink": "general-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/general-software",
+ "homepage_url": "http://www.gensw.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 1989,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "425-576-8300",
+ "description": "",
+ "created_at": "Wed Jul 29 10:56:50 UTC 2009",
+ "updated_at": "Wed Jul 29 11:00:30 UTC 2009",
+ "overview": "\u003Cp\u003EGeneral Software, Inc. provides embedded firmware products for original equipment manufacturers (OEM) of telecom, datacom, consumer electronics, dedicated servers, and other specialized computing devices. Its firmware are used in telecom/datacom equipment, servers, blades, ultra-mobile PCs, industrial PCs, targeted PCs, and differentiated mainboards, as well as in embedded devices, such as medical, gaming, kiosks, point-of-sale, DVR and commercial, and military avionics. The company\u00e2\u20ac\u2122s products include Embedded BIOS, a BIOS adaptation kit for embedded development; Firmbase SDK, a software development kit that enables ODMs and OEMs to develop firmware applications; Platform Update Facility for automatic in-field software and BIOS updates; High Availability Monitor for automatic in-field detection of hardware and software failures; and Boot Security Application that prevents unauthorized changes to hardware and software. General Software also offers pre-sales support, training, and post-sales support services. The company provides its products and services through a network of distributors and technology centers. It operates in Benelux, France, Germany, India, Israel, Italy, Japan, Korea, Scandinavia, Spain, South Africa, Taiwan, and the United Kingdom. The company was founded in 1989 and is headquartered in Bellevue, Washington. As of August 31, 2008, General Software, Inc. operates as a subsidiary of Phoenix Technologies Ltd.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and President ",
+    "person":
+     {"first_name": "Craig",
+      "last_name": "Husa",
+      "permalink": "craig-husa",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder \u0026 CTO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Jones",
+      "permalink": "steve-jones",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/2579/262579v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/2579/262579v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/2579/262579v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 16050000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 7,
+   "acquired_day": 23,
+   "acquiring_company":
+    {"name": "Phoenix Technologies",
+     "permalink": "phoenix-technologies",
+     "image":
+      {"available_sizes":
+        [[[150,
+           43],
+          "assets/images/resized/0005/2637/52637v1-max-150x150.jpg"],
+         [[250,
+           72],
+          "assets/images/resized/0005/2637/52637v1-max-250x250.jpg"],
+         [[373,
+           108],
+          "assets/images/resized/0005/2637/52637v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "11000 NE 33rd Place",
+    "address2": "Suite 102",
+    "zip_code": "98004",
+    "city": "Bellevue",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.6399006,
+    "longitude": -122.1914274}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

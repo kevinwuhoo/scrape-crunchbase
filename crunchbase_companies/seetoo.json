@@ -1,0 +1,126 @@
+{"name": "SeeToo",
+ "permalink": "seetoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/seetoo",
+ "homepage_url": "http://www.seetoo.com/",
+ "blog_url": "http://blog.seetoo.com/",
+ "blog_feed_url": "http://blog.seetoo.com/feed/",
+ "twitter_username": "SeeTooTeam",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "videochat, chatrooms, video, chat",
+ "alias_list": "",
+ "email_address": "info@SeeToo.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Nov 28 03:29:19 UTC 2007",
+ "updated_at": "Mon Mar 18 17:18:45 UTC 2013",
+ "overview": "\u003Cp\u003EThe SeeToo service enables viewers in multiple locations to watch pre-recorded videos together. SeeToo is synchronized, as if everybody is watching the same screen, and immediate, without the need for prior uploading or any preparations.\u003C/p\u003E\n\n\u003Cp\u003ESeeToo\u0026#8217;s competitors include \u003Ca href=\"http://www.crunchbase.com/company/paltalk\" title=\"PalTalk\"\u003EPalTalk\u003C/a\u003E, and the \u003Ca href=\"http://www.techcrunch.com/2007/05/14/meebo-launches-meebo-rooms-oh-and-meebo-now-has-ads/\" title=\"Meebo Rooms\"\u003EMeebo Rooms\u003C/a\u003E product by \u003Ca href=\"http://www.crunchbase.com/company/meebo\" title=\"Meebo\"\u003EMeebo\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0000/2356/2356v5-max-150x150.png"],
+     [[217,
+       50],
+      "assets/images/resized/0000/2356/2356v5-max-250x250.png"],
+     [[217,
+       50],
+      "assets/images/resized/0000/2356/2356v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "SeeToo",
+    "permalink": "seetoo",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Marketing and Business Development",
+    "person":
+     {"first_name": "Yoav",
+      "last_name": "Ilan",
+      "permalink": "yoav-ilan",
+      "image": null}},
+   {"is_past": null,
+    "title": "Engineering and Product Development",
+    "person":
+     {"first_name": "Alon",
+      "last_name": "Hochberg",
+      "permalink": "alon-hochberg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Paltalk",
+      "permalink": "paltalk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0007/0542/70542v1-max-150x150.jpg"],
+          [[250,
+            107],
+           "assets/images/resized/0007/0542/70542v1-max-250x250.jpg"],
+          [[296,
+            127],
+           "assets/images/resized/0007/0542/70542v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Yossi",
+         "last_name": "Vardi",
+         "permalink": "yossi-vardi",
+         "image":
+          {"available_sizes":
+            [[[120,
+               150],
+              "assets/images/resized/0001/5994/15994v4-max-150x150.png"],
+             [[201,
+               250],
+              "assets/images/resized/0001/5994/15994v4-max-250x250.png"],
+             [[201,
+               250],
+              "assets/images/resized/0001/5994/15994v4-max-450x450.png"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.755861,
+    "longitude": -73.996272}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

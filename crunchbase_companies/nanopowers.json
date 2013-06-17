@@ -1,0 +1,121 @@
+{"name": "NanoPowers",
+ "permalink": "nanopowers",
+ "crunchbase_url": "http://www.crunchbase.com/company/nanopowers",
+ "homepage_url": "http://www.nanopowers.ch/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "biotech",
+ "number_of_employees": null,
+ "founded_year": 2004,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@naopowers.ch",
+ "phone_number": "+41 (0)41 3420058",
+ "description": "",
+ "created_at": "Wed Jul 07 04:41:50 UTC 2010",
+ "updated_at": "Wed Jul 07 04:41:49 UTC 2010",
+ "overview": "\u003Cp\u003ENanoPowers S.A. is a medical device company, founded in June 2004 that applies their unique and proprietary artificial muscle technology to restore or improve muscle function in humans.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Horst",
+      "permalink": "martin-horst",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Brice",
+      "last_name": "Suire",
+      "permalink": "brice-suire",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$4.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.nanopowers.ch/",
+    "source_description": " \tNanoPowers raises CHF 5 million ($4.5 million)",
+    "raised_amount": 4500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Gran Plasa",
+         "permalink": "gran-plasa",
+         "image": null},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "DEFI Gestion",
+         "permalink": "defi-gestion",
+         "image":
+          {"available_sizes":
+            [[[150,
+               97],
+              "assets/images/resized/0006/3999/63999v1-max-150x150.jpg"],
+             [[216,
+               140],
+              "assets/images/resized/0006/3999/63999v1-max-250x250.jpg"],
+             [[216,
+               140],
+              "assets/images/resized/0006/3999/63999v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Novartis Venture Fund",
+         "permalink": "novartis-venture-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               70],
+              "assets/images/resized/0005/9083/59083v2-max-150x150.png"],
+             [[250,
+               117],
+              "assets/images/resized/0005/9083/59083v2-max-250x250.png"],
+             [[318,
+               150],
+              "assets/images/resized/0005/9083/59083v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Chemin du Levant 98",
+    "address2": "",
+    "zip_code": "CH-1005",
+    "city": "Lausanne",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

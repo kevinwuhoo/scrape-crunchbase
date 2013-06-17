@@ -1,0 +1,101 @@
+{"name": "myDrugCosts",
+ "permalink": "mydrugcosts",
+ "crunchbase_url": "http://www.crunchbase.com/company/mydrugcosts",
+ "homepage_url": "http://mydrugcosts.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mydrugcosts",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "healthdata, healthcare-transparency, mhealth",
+ "alias_list": null,
+ "email_address": "info@mydrugcosts.com",
+ "phone_number": "919-335-3784",
+ "description": "Prescription Drug Transparency Solution",
+ "created_at": "Tue Jun 19 14:07:49 UTC 2012",
+ "updated_at": "Thu May 30 07:08:34 UTC 2013",
+ "overview": "\u003Cp\u003EmyDrugCosts, Inc. operates a cloud-based platform that provides prescription drug cost transparency and comparison  tools.  In an industry with an estimated $95 billion of annual waste on prescription drug spending due to suboptimal consumer choices, myDrugCosts\u2019s mobile and web solutions empower consumers to make more informed healthcare purchasing decisions.  The company was founded in 2010 and is based in Research Triangle Park, North Carolina.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       101],
+      "assets/images/resized/0019/6710/196710v2-max-150x150.jpg"],
+     [[250,
+       170],
+      "assets/images/resized/0019/6710/196710v2-max-250x250.jpg"],
+     [[450,
+       306],
+      "assets/images/resized/0019/6710/196710v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Pollard",
+      "permalink": "dan-pollard",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Customer Development",
+    "person":
+     {"first_name": "Andy",
+      "last_name": "Snow",
+      "permalink": "andy-snow",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Product Development",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Emerson",
+      "permalink": "jim-emerson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$75k",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1518391/000151839113000002/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC",
+    "raised_amount": 75000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 15,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarters",
+    "address1": "2 Davis Drive",
+    "address2": "",
+    "zip_code": "27709",
+    "city": "Research Triangle Park",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/59938468?autoplay=1\u0026amp;loop=1\" width=\"270\" height=\"430\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EmyDrugCosts Premium Edition - The Easiest Way to Save on Prescription Drugs\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

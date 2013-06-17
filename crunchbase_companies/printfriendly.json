@@ -1,0 +1,127 @@
+{"name": "PrintFriendly",
+ "permalink": "printfriendly",
+ "crunchbase_url": "http://www.crunchbase.com/company/printfriendly",
+ "homepage_url": "http://www.PrintFriendly.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "printfriendly",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "widgets, widget, print, print-versions, sharing, saving, print-friendly, printing, share",
+ "alias_list": null,
+ "email_address": "support@printfriendly.com",
+ "phone_number": "",
+ "description": "Print Friendly button/widget",
+ "created_at": "Wed Jun 17 01:05:22 UTC 2009",
+ "updated_at": "Wed Jun 17 20:40:14 UTC 2009",
+ "overview": "\u003Cp\u003EPrintFriendly is the ShareThis of Printing. Websites and blogs can add the button/widget to their pages to give their users a better print experience.\u003C/p\u003E\n\n\u003Cp\u003EPrintFriendly\u0026#8217;s algorithm cleans and formats webpages for print, saving the readers paper and ink. Plus there are unique print features like the ability to remove images and content before printing, plus you can get a PDF of the webpage.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0004/8966/48966v2-max-150x150.png"],
+     [[154,
+       27],
+      "assets/images/resized/0004/8966/48966v2-max-250x250.png"],
+     [[154,
+       27],
+      "assets/images/resized/0004/8966/48966v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "PrintFriendly button",
+    "permalink": "printfriendly-button",
+    "image": null},
+   {"name": "PrintFriendly bookmarklet",
+    "permalink": "printfriendly-bookmarklet",
+    "image": null},
+   {"name": "PrintFriendly.com enter URL",
+    "permalink": "printfriendly-com-enter-url",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Taylor",
+      "last_name": "Norrish",
+      "permalink": "taylor-norrish",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Vamsee",
+      "last_name": "Kanakala",
+      "permalink": "vamsee-kanakala",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Aardvark",
+      "permalink": "aardvark",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/7577/17577v2-max-150x150.png"],
+          [[210,
+            54],
+           "assets/images/resized/0001/7577/17577v2-max-250x250.png"],
+          [[210,
+            54],
+           "assets/images/resized/0001/7577/17577v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ShareThis",
+      "permalink": "sharethis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/5706/15706v1-max-150x150.png"],
+          [[208,
+            55],
+           "assets/images/resized/0001/5706/15706v1-max-250x250.png"],
+          [[208,
+            55],
+           "assets/images/resized/0001/5706/15706v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal Services http://www.ryanrobertslaw.com/",
+    "is_past": false,
+    "provider":
+     {"name": "Ryan Roberts",
+      "permalink": "ryan-roberts",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mashable.com/2009/05/18/print-friendly/",
+    "title": "Make Websites and Blogs PrintFriendly "},
+   {"external_url": "http://lifehacker.com/5272212/print-friendly-optimizes-web-pages-for-printing",
+    "title": "Optimize Web Pages for Printing"},
+   {"external_url": "http://www.makeuseof.com/dir/printfriendly-save-on-paper-and-ink/",
+    "title": "Save Paper and Ink, PrintFriendly!"},
+   {"external_url": "http://bub.blicio.us/print-friendly-update/",
+    "title": "Make Your Website PrintFriendly"},
+   {"external_url": "http://www.geeksugar.com/3182648",
+    "title": "PrintFriendly Saves Ink, Time, and the Environment "}]}

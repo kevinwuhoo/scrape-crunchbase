@@ -1,0 +1,97 @@
+{"name": "Liquid",
+ "permalink": "spinlister",
+ "crunchbase_url": "http://www.crunchbase.com/company/spinlister",
+ "homepage_url": "http://doliquid.com",
+ "blog_url": "http://blog.doliquid.com",
+ "blog_feed_url": "",
+ "twitter_username": "doliquid",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bikes, rentals, peer-to-peer, collaborative-consumption, sharing, share-economy, mesh, bicycles",
+ "alias_list": null,
+ "email_address": "hello@doliquid.com",
+ "phone_number": "",
+ "description": "Peer-to-peer bike rental",
+ "created_at": "Fri Aug 05 15:35:58 UTC 2011",
+ "updated_at": "Tue Apr 16 12:40:17 UTC 2013",
+ "overview": "\u003Cp\u003EFounded in May 2011, Liquid is the best way to rent a bike online, whether from individuals or existing bike rental shops. We connect the owners of great bikes with travelers and locals looking to explore. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       83],
+      "assets/images/resized/0014/8050/148050v5-max-150x150.png"],
+     [[250,
+       139],
+      "assets/images/resized/0014/8050/148050v5-max-250x250.png"],
+     [[260,
+       145],
+      "assets/images/resized/0014/8050/148050v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Cofounder \u0026 CEO",
+    "person":
+     {"first_name": "Will",
+      "last_name": "Dennis",
+      "permalink": "will-dennis-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Cofounder \u0026 CTO",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Noh",
+      "permalink": "jeff-noh",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$225k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://betabeat.com/2012/05/16/indie-bike-sharing-service-spinlister-raises-225k-with-220k-more-on-the-way/",
+    "source_description": "Indie Bike Sharing Service Spinlister Raises $225K with $220K More on the Way",
+    "raised_amount": 225000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "175 Varick St",
+    "address2": "4th Floor",
+    "zip_code": "10014",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cdiv style='text-align:center'\u003E\r\n\r\n\u003Cobject width='430' height='272' id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'\u003E\r\n\r\n\u003Cparam name='allowfullscreen' value='true'/\u003E\r\n\r\n\u003Cparam name='allowScriptAccess' value='always'/\u003E\r\n\r\n\u003Cparam name='movie' value='http://embed.5min.com/517476478/'/\u003E\r\n\r\n\u003Cparam name='wmode' value='opaque' /\u003E\r\n\r\n\u003Cembed name='FiveminPlayer' src='http://embed.5min.com/517476478/' type='application/x-shockwave-flash' width='430' height='272' allowfullscreen='true' allowScriptAccess='always' wmode='opaque'\u003E\r\n\r\n\u003C/embed\u003E\r\n\r\n\u003C/object\u003E\r\n\r\n\u003Cbr/\u003E\r\n\r\n\u003C/div\u003E",
+    "description": "\u003Cp\u003ESpinlister Demo Disrupt SF 2012\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2012/06/01/spinlister-rent-a-bike-give-a-bike-on-rent/",
+    "title": ""},
+   {"external_url": "http://startuptunes.com/2012/06/01/spinlister-rent-a-bike-give-a-bike-on-rent/",
+    "title": ""}]}

@@ -1,0 +1,84 @@
+{"name": "Avtrex",
+ "permalink": "avtrex",
+ "crunchbase_url": "http://www.crunchbase.com/company/avtrex",
+ "homepage_url": "http://www.avtrex.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "hardware",
+ "number_of_employees": 14,
+ "founded_year": 2001,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "consumer-electronics, software, linux, pvr, dvr, tivo, media-player, media-adaptor, atsc, dvb-t",
+ "alias_list": null,
+ "email_address": "info@avtrex.com",
+ "phone_number": "408-985-8600",
+ "description": "Embedded software - TV-connected devices",
+ "created_at": "Thu Sep 09 21:03:06 UTC 2010",
+ "updated_at": "Tue Sep 14 22:15:42 UTC 2010",
+ "overview": "\u003Cp\u003EAvtrex provides embedded software for digital entertainment devices on an OEM or \u0026#8220;white label\u0026#8221; basis.\u003C/p\u003E\n\n\u003Cp\u003EAvtrex is a boot-strapped company based in Silicon Valley which has built core intellectual property in:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Edigital television (ATSC, QAM, DVB-T, DVB-T2)\u003C/li\u003E\n\u003Cli\u003Etelevision recording (PVR/DVR)\u003C/li\u003E\n\u003Cli\u003Estreaming video (multicast, RTSP, Silverlight Smooth Streaming, HTTP Live Streaming)\u003C/li\u003E\n\u003Cli\u003Ehome media player (photos, music, \u0026amp; video from DLNA and std Windows filesharing)\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EAvtrex typically delivers one or more components of its technology to product companies in consumer electronics or television operations.  Applications and middleware can be customized by the client, or by Avtrex on the client\u0026#8217;s behalf.\u003C/p\u003E\n\n\u003Cp\u003EProducts incorporating Avtrex software come from major brands, including:  JVC, Polaroid, Sanyo, Sharp, Syntax-Olevia, TDK, Toshiba, and Westinghouse.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       35],
+      "assets/images/resized/0010/1204/101204v2-max-150x150.png"],
+     [[100,
+       35],
+      "assets/images/resized/0010/1204/101204v2-max-250x250.png"],
+     [[100,
+       35],
+      "assets/images/resized/0010/1204/101204v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Francis",
+      "permalink": "steve-francis",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Johannes",
+      "last_name": "Schmidt",
+      "permalink": "johannes-schmidt",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "4320 Stevens Creek Blvd.",
+    "address2": "Suite 275",
+    "zip_code": "95129",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,99 @@
+{"name": "Foodbeast",
+ "permalink": "foodbeast",
+ "crunchbase_url": "http://www.crunchbase.com/company/foodbeast",
+ "homepage_url": "http://www.foodbeast.com",
+ "blog_url": "http://www.foodbeast.com",
+ "blog_feed_url": "",
+ "twitter_username": "foodbeast",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "blog",
+ "alias_list": null,
+ "email_address": "info@foodbeast.com",
+ "phone_number": "",
+ "description": "Online Food News Source",
+ "created_at": "Mon Nov 28 08:49:23 UTC 2011",
+ "updated_at": "Tue Jan 03 23:45:19 UTC 2012",
+ "overview": "\u003Cp\u003EFoodbeast is an online news resource covering food news and culture, with a particular focus on fast food news and trends.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Elie",
+      "last_name": "Ayrouth",
+      "permalink": "elie-ayrouth",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Director of Content",
+    "person":
+     {"first_name": "Geoffrey",
+      "last_name": "Kutnick",
+      "permalink": "geoffrey-kutnick",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Product Development ",
+    "person":
+     {"first_name": "Rudy",
+      "last_name": "Chaney",
+      "permalink": "rudy-chaney",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FoodNetwork.com",
+      "permalink": "foodnetwork-com",
+      "image":
+       {"available_sizes":
+         [[[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-150x150.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-250x250.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "92627",
+    "city": "Costa Mesa",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://newsfeed.time.com/2010/07/16/carls-jr-hardees-roll-out-footlong-cheeseburger-fit-for-a-champion/",
+    "title": "Time"},
+   {"external_url": "http://tosh.comedycentral.com/blog/2010/07/12/the-footlong-cheeseburger/",
+    "title": "Tosh.0 Comedy Central"},
+   {"external_url": "http://www.makeuseof.com/tag/4-crazy-websites-crazy-food/",
+    "title": "The TMZ of the FOOD World"}]}

@@ -1,0 +1,151 @@
+{"name": "Scalarium",
+ "permalink": "scalarium",
+ "crunchbase_url": "http://www.crunchbase.com/company/scalarium",
+ "homepage_url": "http://www.scalarium.com",
+ "blog_url": "http://www.scalarium.com/blog",
+ "blog_feed_url": "http://www.scalarium.com/blog/rss.xml",
+ "twitter_username": "scalarium",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, hosting, management, amazon, aws, ec2, automation, ipaas, nosql, scaling, games, browser, social",
+ "alias_list": null,
+ "email_address": "info@scalarium.com",
+ "phone_number": "004930692009840",
+ "description": "infrastructure automation and management",
+ "created_at": "Wed Nov 17 15:57:01 UTC 2010",
+ "updated_at": "Tue May 01 04:26:28 UTC 2012",
+ "overview": "\u003Cp\u003EScalarium is a Web-based cloud management platform.\u003C/p\u003E\n\n\u003Cp\u003EScalarium creates scalable, reliable, easy to manage, and secure Cloud Infrastructure Setups in just a couple of clicks.\u003C/p\u003E\n\n\u003Cp\u003EMain features are\n\u00e2\u20ac\u00a2 automatic configuration of servers and whole clusters\n\u00e2\u20ac\u00a2 monitoring, altering and self healing of clusters\n\u00e2\u20ac\u00a2 advanced auto scaling functions based on time, metrics or via API\n\u00e2\u20ac\u00a2 one click deployments of your software to the cloud\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       141],
+      "assets/images/resized/0011/0611/110611v2-max-150x150.png"],
+     [[250,
+       236],
+      "assets/images/resized/0011/0611/110611v2-max-250x250.png"],
+     [[377,
+       356],
+      "assets/images/resized/0011/0611/110611v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Metschke",
+      "permalink": "thomas-metschke",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Weiss",
+      "permalink": "jonathan-weiss",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder, CTO",
+    "person":
+     {"first_name": "Mathias",
+      "last_name": "Meyer",
+      "permalink": "mathias-meyer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "RightScale",
+      "permalink": "rightscale",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0002/1024/21024v1-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0002/1024/21024v1-max-250x250.jpg"],
+          [[299,
+            64],
+           "assets/images/resized/0002/1024/21024v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Engine Yard",
+      "permalink": "engineyard",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0001/0764/10764v3-max-150x150.png"],
+          [[250,
+            136],
+           "assets/images/resized/0001/0764/10764v3-max-250x250.png"],
+          [[302,
+            165],
+           "assets/images/resized/0001/0764/10764v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "dotCloud",
+      "permalink": "dotcloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0012/4387/124387v3-max-150x150.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-250x250.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Berlin HQ",
+    "address1": "Bl\u00fccherstra\u00dfe 22",
+    "address2": "Hof III, Aufgang 6",
+    "zip_code": "",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.agileweboperations.com/scalarium-manage-your-amazon-ec2-clouds-with-chef",
+    "title": "Scalarium \u00e2\u20ac\u201c Manage Your Amazon EC2 Clouds With Chef"}]}

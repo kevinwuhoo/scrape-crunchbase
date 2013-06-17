@@ -1,0 +1,102 @@
+{"name": "zePASS",
+ "permalink": "zepass",
+ "crunchbase_url": "http://www.crunchbase.com/company/zepass",
+ "homepage_url": "http://www.zepass.com",
+ "blog_url": "http://lemag.zepass.com",
+ "blog_feed_url": "http://www.zepass.com/blog/feed",
+ "twitter_username": "zepass",
+ "category_code": "ecommerce",
+ "number_of_employees": 7,
+ "founded_year": 2002,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "marketplace, train, travel, concert, festival, c2c, ticket, billet, place, sports, amusement-park, entertainment",
+ "alias_list": null,
+ "email_address": "contact@zepass.com",
+ "phone_number": "+3378306352",
+ "description": "Ticket Marketplace",
+ "created_at": "Fri Jul 23 15:51:30 UTC 2010",
+ "updated_at": "Tue May 22 05:50:26 UTC 2012",
+ "overview": "\u003Cp\u003EFrench marketplace for all tickets (train, entertainment, sport\u0026#8230;). zePASS is third party and includes secure payment. zePASS is also available on iPhone.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0009/4700/94700v2-max-150x150.png"],
+     [[200,
+       75],
+      "assets/images/resized/0009/4700/94700v2-max-250x250.png"],
+     [[200,
+       75],
+      "assets/images/resized/0009/4700/94700v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Quentin",
+      "last_name": "Schaepelynck",
+      "permalink": "quentin-schaepelynck",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.presse-citron.net/exclusif-zepass-sallie-avec-digitick-pour-la-vente-de-tickets-en-ligne",
+    "source_description": "zePASS s'allie avec Digitick pour la vente de tickets en ligne",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2009,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Digitick",
+         "permalink": "digitick",
+         "image":
+          {"available_sizes":
+            [[[150,
+               37],
+              "assets/images/resized/0011/2044/112044v1-max-150x150.png"],
+             [[250,
+               61],
+              "assets/images/resized/0011/2044/112044v1-max-250x250.png"],
+             [[279,
+               69],
+              "assets/images/resized/0011/2044/112044v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "11, rue Auguste Lacroix",
+    "address2": "",
+    "zip_code": "69003",
+    "city": "Lyon",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

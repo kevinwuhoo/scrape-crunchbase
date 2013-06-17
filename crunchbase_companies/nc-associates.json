@@ -1,0 +1,81 @@
+{"name": "NC Associates",
+ "permalink": "nc-associates",
+ "crunchbase_url": "http://www.crunchbase.com/company/nc-associates",
+ "homepage_url": "http://www.ncassociates.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "consulting",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "business-objects, bi, etl-sap, explorer, edge, xcelsius",
+ "alias_list": null,
+ "email_address": "info@ncassociates.net",
+ "phone_number": "0416575207",
+ "description": "Business Intelligence Experts",
+ "created_at": "Mon Aug 10 05:24:20 UTC 2009",
+ "updated_at": "Mon Aug 10 23:00:51 UTC 2009",
+ "overview": "\u003Cp\u003ENC Associates is a boutique consulting practice based in Sydney Australia and providing end-to-end consulting services to plan, deliver and operate SAP BusinessObjects intelligence platform.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Consultant",
+    "person":
+     {"first_name": "Nicolas",
+      "last_name": "Hadj-Blaha",
+      "permalink": "nicolas-hadj-blaha",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SAP",
+      "permalink": "sap",
+      "image":
+       {"available_sizes":
+         [[[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-150x150.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-250x250.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "19 Athlone Crescent",
+    "address2": "Killarney Heights",
+    "zip_code": "2087",
+    "city": "Sydney",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -33.773877,
+    "longitude": 151.224369}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.businessobjects.com",
+    "title": "BusinessObjects"}]}

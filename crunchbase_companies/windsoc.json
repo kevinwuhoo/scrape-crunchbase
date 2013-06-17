@@ -1,0 +1,115 @@
+{"name": "Windsoc",
+ "permalink": "windsoc",
+ "crunchbase_url": "http://www.crunchbase.com/company/windsoc",
+ "homepage_url": "http://www.windsoc.co",
+ "blog_url": "http://blog.windsoc.co",
+ "blog_feed_url": "http://blog.windsoc.co/feed",
+ "twitter_username": "WindsocAPI",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "api, social-integration, platform-as-a-service, software-as-a-service",
+ "alias_list": null,
+ "email_address": "info@windsoc.co",
+ "phone_number": "",
+ "description": "The Unified Social API",
+ "created_at": "Thu Apr 21 16:48:44 UTC 2011",
+ "updated_at": "Thu Apr 28 06:22:56 UTC 2011",
+ "overview": "\u003Cp\u003EWindsoc is a Software as a Service (SaaS) company that provides integration with social service APIs using RESTful calls and returns data in a common format based on the Activity Streams specification.\u003C/p\u003E\n\n\u003Cp\u003EFeatures include activity and contact retrieval, status updates, and social logins.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0013/1521/131521v2-max-150x150.png"],
+     [[160,
+       51],
+      "assets/images/resized/0013/1521/131521v2-max-250x250.png"],
+     [[160,
+       51],
+      "assets/images/resized/0013/1521/131521v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Regan",
+      "last_name": "Wolfrom",
+      "permalink": "regan-wolfrom",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Friesen",
+      "permalink": "mike-friesen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Gigya",
+      "permalink": "gigya",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0000/1711/1711v1-max-150x150.png"],
+          [[250,
+            101],
+           "assets/images/resized/0000/1711/1711v1-max-250x250.png"],
+          [[430,
+            174],
+           "assets/images/resized/0000/1711/1711v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Janrain",
+      "permalink": "janrain",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0002/6364/26364v5-max-150x150.jpg"],
+          [[180,
+            57],
+           "assets/images/resized/0002/6364/26364v5-max-250x250.jpg"],
+          [[180,
+            57],
+           "assets/images/resized/0002/6364/26364v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0013/1520/131520v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0013/1520/131520v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0013/1520/131520v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

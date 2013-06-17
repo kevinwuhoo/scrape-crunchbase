@@ -1,0 +1,115 @@
+{"name": "X13",
+ "permalink": "x13",
+ "crunchbase_url": "http://www.crunchbase.com/company/x13",
+ "homepage_url": "https://x13.com",
+ "blog_url": "https://x13.com/blog",
+ "blog_feed_url": "https://x13.com/rss/",
+ "twitter_username": "X13",
+ "category_code": "enterprise",
+ "number_of_employees": 6,
+ "founded_year": 2006,
+ "founded_month": 3,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "saas, on-demand, software, development, hosting, ajax, applications, web, database, bi, bpm, crm",
+ "alias_list": null,
+ "email_address": "sales@x13.com",
+ "phone_number": "303-974-7244",
+ "description": "Information management systems",
+ "created_at": "Wed Nov 05 01:08:38 UTC 2008",
+ "updated_at": "Mon Apr 23 23:06:14 UTC 2012",
+ "overview": "\u003Cp\u003EX13 is a software development and internet services firm in Denver, Colorado.\u003C/p\u003E\n\n\u003Cp\u003EX13 enables businesses to manage vital customer, sales, and operational data. We provide custom on-demand business applications and related services.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0002/7849/27849v5-max-150x150.png"],
+     [[176,
+       62],
+      "assets/images/resized/0002/7849/27849v5-max-250x250.png"],
+     [[176,
+       62],
+      "assets/images/resized/0002/7849/27849v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Galvin",
+      "permalink": "scott-galvin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SAP",
+      "permalink": "sap",
+      "image":
+       {"available_sizes":
+         [[[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-150x150.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-250x250.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Mailing Address",
+    "address1": "PO BOX 141",
+    "address2": "",
+    "zip_code": "80201-0141",
+    "city": "Denver",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.7393,
+    "longitude": -104.9844},
+   {"description": "Office",
+    "address1": "950 17TH ST",
+    "address2": "Suite 1350",
+    "zip_code": "80202-2819",
+    "city": "Denver",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.747515,
+    "longitude": -104.993788}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

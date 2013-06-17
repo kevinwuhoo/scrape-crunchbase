@@ -1,0 +1,114 @@
+{"name": "DealFan",
+ "permalink": "dealfan",
+ "crunchbase_url": "http://www.crunchbase.com/company/dealfan",
+ "homepage_url": "http://dealfan.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "dealfan",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 2,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "shopping, deals",
+ "alias_list": null,
+ "email_address": "kris@dealfan.com",
+ "phone_number": "",
+ "description": "Hot Deal Aggregator",
+ "created_at": "Tue Jun 01 11:14:58 UTC 2010",
+ "updated_at": "Tue Jun 01 21:58:21 UTC 2010",
+ "overview": "\u003Cp\u003EDealFan is an aggregator that automatically finds and indexes new hot deals.\u003C/p\u003E\n\n\u003Cp\u003EDealFan aggregates deals from the most popular deal sites accross the Internet. The deals with the most buzz and conversation around them make it to the front page. DealFan also lets you search for the newest deals on any given topic.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0008/9145/89145v2-max-150x150.png"],
+     [[250,
+       65],
+      "assets/images/resized/0008/9145/89145v2-max-250x250.png"],
+     [[260,
+       68],
+      "assets/images/resized/0008/9145/89145v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kris",
+      "last_name": "Brower",
+      "permalink": "kris-brower-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Slickdeals",
+      "permalink": "slickdeals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0006/7243/67243v1-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0006/7243/67243v1-max-250x250.png"],
+          [[300,
+            87],
+           "assets/images/resized/0006/7243/67243v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "dealspl.us",
+      "permalink": "dealspl-us",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/3109/23109v8-max-150x150.jpg"],
+          [[250,
+            71],
+           "assets/images/resized/0002/3109/23109v8-max-250x250.jpg"],
+          [[450,
+            128],
+           "assets/images/resized/0002/3109/23109v8-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "dealnews",
+      "permalink": "dealnews",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0002/3108/23108v2-max-150x150.jpg"],
+          [[170,
+            40],
+           "assets/images/resized/0002/3108/23108v2-max-250x250.jpg"],
+          [[170,
+            40],
+           "assets/images/resized/0002/3108/23108v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://dealfan.com",
+    "title": "DealFan"}]}

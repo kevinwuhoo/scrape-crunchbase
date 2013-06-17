@@ -1,0 +1,126 @@
+{"name": "CrowdSpirit",
+ "permalink": "crowdspirit",
+ "crunchbase_url": "http://www.crunchbase.com/company/crowdspirit",
+ "homepage_url": "http://www.crowdspirit.com",
+ "blog_url": "http://www.crowdspirit.com/blog/blog/",
+ "blog_feed_url": "http://www.crowdspirit.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 4,
+ "deadpooled_day": 25,
+ "deadpooled_url": "http://www.crowdspirit.com",
+ "tag_list": "crowdspirit, crowdsourcing, techcrunch40",
+ "alias_list": null,
+ "email_address": "team@crowdspirit.com",
+ "phone_number": "+33 6 86 87 25 49",
+ "description": null,
+ "created_at": "Thu Aug 30 04:42:37 UTC 2007",
+ "updated_at": "Wed Aug 24 19:23:25 UTC 2011",
+ "overview": "\u003Cp\u003ECrowdSpirit is a crowdsourcing community built around designing electronic products and staying involved throughout their product life cycle. Users submit ideas for innovative electronic products that the community fine tunes and votes on. The best ideas and their product specifications rise to the top where investors provide financing and development partners make prototypes. \u003C/p\u003E\n\n\u003Cp\u003EOnce products have been made they are tested by the community and recommended to retailers. Users involved with product creation can earn a share of the product revenue. Typical products will include MP4 players, DVD players, computer peripherals, headphones, etc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0000/0151/151v1-max-150x150.jpg"],
+     [[250,
+       60],
+      "assets/images/resized/0000/0151/151v1-max-250x250.jpg"],
+     [[450,
+       108],
+      "assets/images/resized/0000/0151/151v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "CrowdSpirit Platform",
+    "permalink": "crowdspirit-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Lionel",
+      "last_name": "David",
+      "permalink": "lionel-david",
+      "image":
+       {"available_sizes":
+         [[[121,
+            150],
+           "assets/images/resized/0000/9604/9604v1-max-150x150.jpg"],
+          [[168,
+            207],
+           "assets/images/resized/0000/9604/9604v1-max-250x250.jpg"],
+          [[168,
+            207],
+           "assets/images/resized/0000/9604/9604v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"is_past": true,
+    "title": "CIO",
+    "person":
+     {"first_name": "Craig",
+      "last_name": "Cockburn",
+      "permalink": "craig-cockburn",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Kluster",
+      "permalink": "kluster",
+      "image":
+       {"available_sizes":
+         [[[131,
+            42],
+           "assets/images/resized/0001/3374/13374v1-max-150x150.png"],
+          [[131,
+            42],
+           "assets/images/resized/0001/3374/13374v1-max-250x250.png"],
+          [[131,
+            42],
+           "assets/images/resized/0001/3374/13374v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SuggestionBox.com",
+      "permalink": "suggestionbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/0598/598v2-max-150x150.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/0598/598v2-max-250x250.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/0598/598v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "46 Rue de la Republique",
+    "address2": null,
+    "zip_code": "38360",
+    "city": "Sassenage",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 45.206889,
+    "longitude": 5.659066}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

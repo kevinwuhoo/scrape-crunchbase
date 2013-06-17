@@ -1,0 +1,103 @@
+{"name": "Dinsk",
+ "permalink": "dinsk",
+ "crunchbase_url": "http://www.crunchbase.com/company/dinsk",
+ "homepage_url": "http://www.dinsk.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "windows-mobile, mobile, sip, h-323, videophone, softphone, videoconferencing, voip, video, ipv6, media-gateway",
+ "alias_list": null,
+ "email_address": "developer@dinsk.net",
+ "phone_number": "510-375-3943",
+ "description": "SIP/H.323 videophone for Windows Mobile",
+ "created_at": "Tue Mar 10 05:34:21 UTC 2009",
+ "updated_at": "Sat Mar 14 13:56:40 UTC 2009",
+ "overview": "\u003Cp\u003EDinsk is a company from Kirkland, WA, which just previewed own technology for SIP/H.323 videophone for Windows Mobile based PDAs. Software will run on practically any Windows Mobile 6 PDA, but those with front cameras will be most beneficial from use of this software. The software, PocketBone 2.0, adheres strictly to VoIP standards and interoperable with most of SIP media gateways and registrars and H.323 media gateways and gatekeepers. We got a video shows testing our PocketBone 2.0 with video echo service, 500@ekiga.net, on pocketbone.net. Devices we target out videophone include HTC 4G (WiMAX capable), HTC Atom Life,\nand Glofiish X800. We are preparing a demo version of software to be released to general public, with limited time of call, with ability to\nunlock  to get full version. All of our software supports IPv6\nnetworks, as well as IPv4. We also developed our own, high performance, H.263 compatible video codec, and high performance G.729/G.723.1 audio codec, for Windows Mobile platform. Our company also developed first ever truly IPv6 H.323 gatekeeper.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0003/7651/37651v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0003/7651/37651v2-max-250x250.png"],
+     [[300,
+       100],
+      "assets/images/resized/0003/7651/37651v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "PocketBone 2.0",
+    "permalink": "pocketbone-2-0",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Yuri",
+      "last_name": "Kiryanov",
+      "permalink": "yuri-kiryanov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "iVisit",
+      "permalink": "ivisit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0004/0070/40070v1-max-150x150.png"],
+          [[240,
+            72],
+           "assets/images/resized/0004/0070/40070v1-max-250x250.png"],
+          [[240,
+            72],
+           "assets/images/resized/0004/0070/40070v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "9910 NE 137th St",
+    "address2": "",
+    "zip_code": "98034",
+    "city": "Kirkland",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.723138,
+    "longitude": -122.2090504}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[112,
+        150],
+       "assets/images/resized/0003/7650/37650v2-max-150x150.jpg"],
+      [[187,
+        250],
+       "assets/images/resized/0003/7650/37650v2-max-250x250.jpg"],
+      [[337,
+        450],
+       "assets/images/resized/0003/7650/37650v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

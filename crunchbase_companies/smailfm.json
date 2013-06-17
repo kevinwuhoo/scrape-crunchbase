@@ -1,0 +1,139 @@
+{"name": "smailfm",
+ "permalink": "smailfm",
+ "crunchbase_url": "http://www.crunchbase.com/company/smailfm",
+ "homepage_url": "http://smail.fm",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "smailfm",
+ "category_code": "public_relations",
+ "number_of_employees": 4,
+ "founded_year": 2013,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email, communication, ipad, web-app, app",
+ "alias_list": null,
+ "email_address": "hello@smail.fm",
+ "phone_number": "",
+ "description": "Making email social.",
+ "created_at": "Mon Jun 17 09:06:08 UTC 2013",
+ "updated_at": "Mon Jun 17 17:31:52 UTC 2013",
+ "overview": "\u003Cp\u003Esmail.fm is  a fun and easy way to talk to your friends with all the advantages of email like forwarding and threading. \u003C/p\u003E\n\n\u003Cp\u003EIt is a touch-optimized email web-app which focuses on persons instead of single messages.\nDiscover your emails again with the photo or document view and have a totally new email experience.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Max",
+      "last_name": "Fechner",
+      "permalink": "max-fechner",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google Mail",
+      "permalink": "google-mail",
+      "image": null}},
+   {"competitor":
+     {"name": "Mailbox",
+      "permalink": "mailbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0024/3408/243408v1-max-150x150.png"],
+          [[250,
+            42],
+           "assets/images/resized/0024/3408/243408v1-max-250x250.png"],
+          [[351,
+            60],
+           "assets/images/resized/0024/3408/243408v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sparrow",
+      "permalink": "sparrow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0010/4380/104380v5-max-150x150.jpg"],
+          [[249,
+            85],
+           "assets/images/resized/0010/4380/104380v5-max-250x250.jpg"],
+          [[249,
+            85],
+           "assets/images/resized/0010/4380/104380v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WhatsApp",
+      "permalink": "whatsapp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0020/6922/206922v2-max-150x150.png"],
+          [[210,
+            61],
+           "assets/images/resized/0020/6922/206922v2-max-250x250.png"],
+          [[210,
+            61],
+           "assets/images/resized/0020/6922/206922v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook Messenger",
+      "permalink": "facebook-messenger",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "Immanuelkirchstr. 16",
+    "address2": "",
+    "zip_code": "10405",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 52.5315336,
+    "longitude": 13.4266696}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0027/5957/275957v2-max-150x150.jpg"],
+      [[250,
+        144],
+       "assets/images/resized/0027/5957/275957v2-max-250x250.jpg"],
+      [[450,
+        260],
+       "assets/images/resized/0027/5957/275957v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0027/5958/275958v2-max-150x150.jpg"],
+      [[250,
+        144],
+       "assets/images/resized/0027/5958/275958v2-max-250x250.jpg"],
+      [[450,
+        260],
+       "assets/images/resized/0027/5958/275958v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

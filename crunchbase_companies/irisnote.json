@@ -1,0 +1,114 @@
+{"name": "irisnote",
+ "permalink": "irisnote",
+ "crunchbase_url": "http://www.crunchbase.com/company/irisnote",
+ "homepage_url": "http://irisnote.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "irisnoteinc",
+ "category_code": "software",
+ "number_of_employees": 17,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, saas, collaboration, research, lab, life-science",
+ "alias_list": null,
+ "email_address": "sales@irisnote.com",
+ "phone_number": "6144163426",
+ "description": "Lab notebook for research",
+ "created_at": "Sat Mar 30 01:03:37 UTC 2013",
+ "updated_at": "Sat Mar 30 01:31:15 UTC 2013",
+ "overview": "\u003Cp\u003Eirisnote, Inc. provides a cloud based software solution to help organizations protect their R\u0026amp;D investments and increase collaboration and efficiency. The company serves a global base of commercial, academic, government and nonprofit research labs in biology and multidiscipline research areas. irisnote combines Electronic Lab Notebook (ELN) and scientific content management for a complete paperless lab information and record-keeping solution. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Herz",
+      "permalink": "peter-herz",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Craig",
+      "last_name": "Harper",
+      "permalink": "craig-harper",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "David",
+      "permalink": "joe-david",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PerkinElmer",
+      "permalink": "perkinelmer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0012/1977/121977v1-max-150x150.jpg"],
+          [[197,
+            88],
+           "assets/images/resized/0012/1977/121977v1-max-250x250.jpg"],
+          [[197,
+            88],
+           "assets/images/resized/0012/1977/121977v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Accelrys",
+      "permalink": "accelrys",
+      "image":
+       {"available_sizes":
+         [[[149,
+            49],
+           "assets/images/resized/0009/3139/93139v1-max-150x150.jpg"],
+          [[149,
+            49],
+           "assets/images/resized/0009/3139/93139v1-max-250x250.jpg"],
+          [[149,
+            49],
+           "assets/images/resized/0009/3139/93139v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "idbs",
+      "permalink": "idbs",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "541 Jefferson Avenue",
+    "address2": "Suite 202",
+    "zip_code": "94063",
+    "city": "Redwood City",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.489366,
+    "longitude": -122.228254}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://irisnote.com/",
+    "title": "irisnote"}]}

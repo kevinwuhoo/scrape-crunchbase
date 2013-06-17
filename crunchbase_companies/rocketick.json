@@ -1,0 +1,116 @@
+{"name": "Rocketick",
+ "permalink": "rocketick",
+ "crunchbase_url": "http://www.crunchbase.com/company/rocketick",
+ "homepage_url": "http://www.rocketick.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@rocketick.com",
+ "phone_number": "972-3-5757996",
+ "description": "",
+ "created_at": "Wed Jun 01 03:41:18 UTC 2011",
+ "updated_at": "Wed Jun 01 03:41:17 UTC 2011",
+ "overview": "\u003Cp\u003ERocketick, founded in 2008 by a group of hardware-assisted-acceleration experts, is a pioneer in GPU-based simulation acceleration for chip verification. Its first product, RocketSim\u00e2\u201e\u00a2, solves functional verification bottlenecks by complementing simulators with a GPU-based acceleration solution that offers 10x faster simulations for highly complex designs. RocketSim is used today by several semiconductor customers. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0013/7263/137263v1-max-150x150.png"],
+     [[231,
+       57],
+      "assets/images/resized/0013/7263/137263v1-max-250x250.png"],
+     [[231,
+       57],
+      "assets/images/resized/0013/7263/137263v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chairman",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "Avraam (Avi) Fried",
+      "permalink": "dr-avraam-avi-fried",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Uri",
+      "last_name": "Tal",
+      "permalink": "uri-tal",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Shay",
+      "last_name": "Mizrachi",
+      "permalink": "shay-mizrachi",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.5M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://www.rocketick.com/News/rocketick-secures-strategic-investment-from-nvidia",
+    "source_description": "Rocketick Secures Strategic Investment from NVIDIA",
+    "raised_amount": 2500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 30,
+    "investments":
+     [{"company":
+        {"name": "NVidia",
+         "permalink": "nvidia",
+         "image":
+          {"available_sizes":
+            [[[150,
+               111],
+              "assets/images/resized/0001/8308/18308v4-max-150x150.png"],
+             [[250,
+               185],
+              "assets/images/resized/0001/8308/18308v4-max-250x250.png"],
+             [[450,
+               334],
+              "assets/images/resized/0001/8308/18308v4-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "13 Tuval St.",
+    "address2": "",
+    "zip_code": "52522",
+    "city": "Ramat Gan ",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

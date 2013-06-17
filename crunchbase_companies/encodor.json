@@ -1,0 +1,85 @@
+{"name": "Encodor",
+ "permalink": "encodor",
+ "crunchbase_url": "http://www.crunchbase.com/company/encodor",
+ "homepage_url": "http://encodor.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": 2008,
+ "deadpooled_month": 12,
+ "deadpooled_day": 31,
+ "deadpooled_url": "",
+ "tag_list": "encode, decode, encrypt, decrypt, encryption, decryption, text, data",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Encrypt your messages",
+ "created_at": "Wed Aug 25 22:44:15 UTC 2010",
+ "updated_at": "Tue Mar 20 21:43:42 UTC 2012",
+ "overview": "\u003Cp\u003EEncodor was created to be the simplest and fastest way to send secure text. The website added privacy and security to sensitive data by encrypting a user\u0026#8217;s emails, chats, Twitter messages, or anything that was text-based.\u003C/p\u003E\n\n\u003Cp\u003ETo encrypt data, users entered their text within a 400-character limit, along with a unique passkey, and then finally press the lock button.\u003C/p\u003E\n\n\u003Cp\u003ETo decrypt, users would copy and paste the encoded text, enter the passkey, and press the unlock button to view the original, unencrypted text.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0009/9415/99415v2-max-150x150.png"],
+     [[197,
+       44],
+      "assets/images/resized/0009/9415/99415v2-max-250x250.png"],
+     [[197,
+       44],
+      "assets/images/resized/0009/9415/99415v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "InfoEncrypt.com",
+      "permalink": "infoencrypt-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main",
+    "address1": "",
+    "address2": "",
+    "zip_code": "17322",
+    "city": "Felton",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[125,
+        150],
+       "assets/images/resized/0009/9418/99418v2-max-150x150.png"],
+      [[208,
+        250],
+       "assets/images/resized/0009/9418/99418v2-max-250x250.png"],
+      [[340,
+        408],
+       "assets/images/resized/0009/9418/99418v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.makeuseof.com/dir/encodor-encode-important-text-sharing-web/",
+    "title": "Encodor: Online Text Encrypter"}]}

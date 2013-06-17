@@ -1,0 +1,83 @@
+{"name": "Errorception",
+ "permalink": "errorception",
+ "crunchbase_url": "http://www.crunchbase.com/company/errorception",
+ "homepage_url": "http://errorception.com",
+ "blog_url": "http://blog.errorception.com",
+ "blog_feed_url": "http://blog.errorception.com/feeds/posts/default",
+ "twitter_username": "errorception",
+ "category_code": "advertising",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "javascript, developer-tools, error-reporting",
+ "alias_list": null,
+ "email_address": "rakeshpai@errorception.com",
+ "phone_number": "",
+ "description": "Painless JavaScript Error Tracking",
+ "created_at": "Mon Aug 29 08:13:53 UTC 2011",
+ "updated_at": "Fri Jan 13 10:14:43 UTC 2012",
+ "overview": "\u003Cp\u003EErrorception is a error reporting service for client-side in-browser JavaScript errors.\u003C/p\u003E\n\n\u003Cp\u003EClient-side JavaScript errors occur in the end-users\u0026#8217; browsers. It is very hard to find out about them, since logs of such errors are lost. Errorception attempts to solve this problem by trying to get as much detail as possible about such errors and reporting them back to the developer.\u003C/p\u003E\n\n\u003Cp\u003EErrorception has a huge focus on run-time and load-time performance. The developer\u0026#8217;s JavaScript code is not modified or otherwise tampered with. The tracking snippet is also lazily loaded, so that the site\u0026#8217;s load-times are not affected at all.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[95,
+       95],
+      "assets/images/resized/0015/1628/151628v2-max-150x150.png"],
+     [[95,
+       95],
+      "assets/images/resized/0015/1628/151628v2-max-250x250.png"],
+     [[95,
+       95],
+      "assets/images/resized/0015/1628/151628v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Rakesh",
+      "last_name": "Pai",
+      "permalink": "rakesh-pai",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Proxino",
+      "permalink": "proxino",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0015/0596/150596v1-max-150x150.png"],
+          [[168,
+            68],
+           "assets/images/resized/0015/0596/150596v1-max-250x250.png"],
+          [[168,
+            68],
+           "assets/images/resized/0015/0596/150596v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

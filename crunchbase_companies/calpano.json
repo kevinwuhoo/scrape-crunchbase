@@ -1,0 +1,103 @@
+{"name": "Calpano",
+ "permalink": "calpano",
+ "crunchbase_url": "http://www.crunchbase.com/company/calpano",
+ "homepage_url": "http://www.calpano.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "calpano",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "tasks, todo, task-manager, coordination, groupware, email",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Doodle for tasks",
+ "created_at": "Wed Oct 03 20:05:58 UTC 2012",
+ "updated_at": "Wed Dec 12 06:59:01 UTC 2012",
+ "overview": "\u003Cp\u003ECalpano offers a free web-based service to coordinate tasks.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/5756/215756v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/5756/215756v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0021/5756/215756v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Checklist",
+    "permalink": "checklist",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO/Founder",
+    "person":
+     {"first_name": "Max",
+      "last_name": "V\u00f6lkel",
+      "permalink": "max-volkel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Asana",
+      "permalink": "asana",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0006/7462/67462v8-max-150x150.png"],
+          [[250,
+            63],
+           "assets/images/resized/0006/7462/67462v8-max-250x250.png"],
+          [[250,
+            63],
+           "assets/images/resized/0006/7462/67462v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac86k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.exist.de",
+    "source_description": "EXIST, German state funding",
+    "raised_amount": 86000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Jollystr. 69",
+    "address2": "",
+    "zip_code": "76137",
+    "city": "Karlsruhe",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 49.0040161,
+    "longitude": 8.387784}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.calpano.com",
+    "title": "Homepage"}]}

@@ -1,0 +1,114 @@
+{"name": "Benc Enterprises",
+ "permalink": "benc-enterprises",
+ "crunchbase_url": "http://www.crunchbase.com/company/benc-enterprises",
+ "homepage_url": "http://www.phpfox.com/",
+ "blog_url": "http://blog.phpfox.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/phpfox",
+ "twitter_username": "phpFox",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2005,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "phpfox, socialnetwork, community, social-network, web-development, software",
+ "alias_list": "",
+ "email_address": "contact@phpfox.com",
+ "phone_number": "",
+ "description": "PHP Software Developer",
+ "created_at": "Tue Aug 18 06:04:52 UTC 2009",
+ "updated_at": "Mon Nov 19 06:55:50 UTC 2012",
+ "overview": "\u003Cp\u003EBenc Enterprises AB is a Swedish based software development company that specializes in developing PHP (Hypertext Preprocessor) based products. \u003C/p\u003E\n\n\u003Cp\u003EBenc Enterprises flagship product, phpFox, is a Social Networking Script. phpFox has a two optional commercial fee.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       114],
+      "assets/images/resized/0005/6810/56810v4-max-150x150.jpg"],
+     [[250,
+       190],
+      "assets/images/resized/0005/6810/56810v4-max-250x250.jpg"],
+     [[300,
+       229],
+      "assets/images/resized/0005/6810/56810v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "phpFox",
+    "permalink": "phpfox-2",
+    "image":
+     {"available_sizes":
+       [[[53,
+          47],
+         "assets/images/resized/0005/6815/56815v2-max-150x150.jpg"],
+        [[53,
+          47],
+         "assets/images/resized/0005/6815/56815v2-max-250x250.jpg"],
+        [[53,
+          47],
+         "assets/images/resized/0005/6815/56815v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO, Lead Developer",
+    "person":
+     {"first_name": "Raymond",
+      "last_name": "Benc",
+      "permalink": "raymond-benc",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO, General Manager",
+    "person":
+     {"first_name": "Anna",
+      "last_name": "Eliasson",
+      "permalink": "anna-eliasson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SocialEngine",
+      "permalink": "socialengine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0014/5553/145553v2-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0014/5553/145553v2-max-250x250.png"],
+          [[450,
+            83],
+           "assets/images/resized/0014/5553/145553v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Box 16019",
+    "address2": "",
+    "zip_code": "10321",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.quantumcritics.com/20090224605/technology/technology/dolphin-vs-phpfox-vs-joomla-vs-drupal-vs-ning-vs-kickapps-for-your-social-networking-site.html",
+    "title": "phpFox Review"},
+   {"external_url": "http://www.webreference.com/reviews/phpFox/index.html",
+    "title": "Review on v1.6 vs v2"}]}

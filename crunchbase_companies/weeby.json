@@ -1,0 +1,92 @@
+{"name": "Weeby",
+ "permalink": "weeby",
+ "crunchbase_url": "http://www.crunchbase.com/company/weeby",
+ "homepage_url": "http://www.weebystudio.com",
+ "blog_url": "http://blog.weebystudio.com",
+ "blog_feed_url": "http://blog.weebystudio.com/rss.html",
+ "twitter_username": "weebypl",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "saas, web-apps, design, mobile, video, motion",
+ "alias_list": null,
+ "email_address": "contact@weebystudio.com",
+ "phone_number": "+48 32 206 87 31",
+ "description": "Studio specialized in web apps",
+ "created_at": "Mon Sep 05 11:49:53 UTC 2011",
+ "updated_at": "Wed Nov 09 21:24:57 UTC 2011",
+ "overview": "\u003Cp\u003EWeeby is a creative studio specialized in web applications.\u003C/p\u003E\n\n\u003Cp\u003EStudio has experience in creating visual identities, video \u0026amp; motion, developing mobile applications and e-commerce platforms.\u003C/p\u003E\n\n\u003Cp\u003ECurrently Weeby is trying to conquer the market with AvoPR - web application for Public Relations enthusiasts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0015/2713/152713v2-max-150x150.png"],
+     [[250,
+       150],
+      "assets/images/resized/0015/2713/152713v2-max-250x250.png"],
+     [[300,
+       180],
+      "assets/images/resized/0015/2713/152713v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Wojciech",
+      "last_name": "Kocjan",
+      "permalink": "wojciech-kocjan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dawid",
+      "last_name": "Meller",
+      "permalink": "dawid-meller",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Pawe\u00c5\u201a",
+      "last_name": "GalbarczykC",
+      "permalink": "pawe-galbarczykc",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Jagiellonska 16/11",
+    "address2": "",
+    "zip_code": "40-035",
+    "city": "Katowice",
+    "state_code": null,
+    "country_code": "POL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.avopr.com",
+    "title": "Avo PR"}]}

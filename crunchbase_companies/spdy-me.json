@@ -1,0 +1,235 @@
+{"name": "Spdy Me",
+ "permalink": "spdy-me",
+ "crunchbase_url": "http://www.crunchbase.com/company/spdy-me",
+ "homepage_url": "http://www.spdy.me",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "url-shortner, link-shortening-tinyurl-short-links",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "1-201-234-4498",
+ "description": "Link Shortening Service",
+ "created_at": "Tue Apr 28 05:07:16 UTC 2009",
+ "updated_at": "Fri Jul 03 00:28:26 UTC 2009",
+ "overview": "\u003Cp\u003ESpdy.me (Pronounced speedy me) is a revenue sharing, link shorting service, that provides twitter integration. \u003C/p\u003E\n\n\u003Cp\u003ESpdy me  is a short url tool, that can generate revenue for the user as well make short links. The user can also twitter the short url directly from the site, using a facebook application, or from our bookmarklet.  The user\u0026#8217;s share in spdy\u0026#8217;s ad revenue, so they  can earn money off the short links. \u003C/p\u003E\n\n\u003Cp\u003EThe short url is ideal for twitter in length and takes up minimal character space. \nSpdy.me also keeps your bookmarks organized for you and your short url  never expires, as long as they are accessed once every 90 days. \u003C/p\u003E\n\n\u003Cp\u003EUsers can also embed our widget for quick access for their use, and others to access  your links, urls and bookmarks. The bookmarklet allows users to create shortened links and share the urls without having to go to a separate site to do so.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0004/2741/42741v2-max-150x150.jpg"],
+     [[250,
+       150],
+      "assets/images/resized/0004/2741/42741v2-max-250x250.jpg"],
+     [[450,
+       271],
+      "assets/images/resized/0004/2741/42741v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "really short links",
+    "permalink": "really-short-links",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Korkin",
+      "permalink": "jason-korkin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TinyURL",
+      "permalink": "tinyurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0001/9075/19075v1-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0001/9075/19075v1-max-250x250.png"],
+          [[401,
+            62],
+           "assets/images/resized/0001/9075/19075v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "bitly",
+      "permalink": "bitly-2",
+      "image":
+       {"available_sizes":
+         [[[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-150x150.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-250x250.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "urlBorg",
+      "permalink": "urlborg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0001/9295/19295v2-max-150x150.png"],
+          [[191,
+            59],
+           "assets/images/resized/0001/9295/19295v2-max-250x250.png"],
+          [[191,
+            59],
+           "assets/images/resized/0001/9295/19295v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "urlShort",
+      "permalink": "urlshort",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0004/1603/41603v1-max-150x150.png"],
+          [[250,
+            67],
+           "assets/images/resized/0004/1603/41603v1-max-250x250.png"],
+          [[438,
+            118],
+           "assets/images/resized/0004/1603/41603v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "snurl",
+      "permalink": "snurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0005/2330/52330v2-max-150x150.png"],
+          [[176,
+            45],
+           "assets/images/resized/0005/2330/52330v2-max-250x250.png"],
+          [[176,
+            45],
+           "assets/images/resized/0005/2330/52330v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SnipURL",
+      "permalink": "snipurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/9077/19077v1-max-150x150.png"],
+          [[176,
+            45],
+           "assets/images/resized/0001/9077/19077v1-max-250x250.png"],
+          [[176,
+            45],
+           "assets/images/resized/0001/9077/19077v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Buk.me",
+      "permalink": "buk-me",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/5394/25394v1-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0002/5394/25394v1-max-250x250.jpg"],
+          [[286,
+            59],
+           "assets/images/resized/0002/5394/25394v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "cligs",
+      "permalink": "cligs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0002/6361/26361v3-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0002/6361/26361v3-max-250x250.jpg"],
+          [[280,
+            60],
+           "assets/images/resized/0002/6361/26361v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UnHub",
+      "permalink": "unhub",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/7564/37564v2-max-150x150.png"],
+          [[225,
+            75],
+           "assets/images/resized/0003/7564/37564v2-max-250x250.png"],
+          [[225,
+            75],
+           "assets/images/resized/0003/7564/37564v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PonyURL",
+      "permalink": "ponyurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0004/0294/40294v2-max-150x150.jpg"],
+          [[250,
+            65],
+           "assets/images/resized/0004/0294/40294v2-max-250x250.jpg"],
+          [[300,
+            79],
+           "assets/images/resized/0004/0294/40294v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HREF",
+      "permalink": "href",
+      "image":
+       {"available_sizes":
+         [[[150,
+            140],
+           "assets/images/resized/0003/5642/35642v2-max-150x150.png"],
+          [[150,
+            140],
+           "assets/images/resized/0003/5642/35642v2-max-250x250.png"],
+          [[150,
+            140],
+           "assets/images/resized/0003/5642/35642v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

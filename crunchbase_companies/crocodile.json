@@ -1,0 +1,124 @@
+{"name": "Crocodile",
+ "permalink": "crocodile",
+ "crunchbase_url": "http://www.crunchbase.com/company/crocodile",
+ "homepage_url": "http://www.crocodilertc.net",
+ "blog_url": "http://www.crocodilertc.net/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "network_hosting",
+ "number_of_employees": 12,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "webrtc, web-communications",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Web Real-Time Communications",
+ "created_at": "Mon May 27 17:14:24 UTC 2013",
+ "updated_at": "Tue May 28 15:31:12 UTC 2013",
+ "overview": "\u003Cp\u003ECrocodile provides a complete real-time communications platform comprising an open cloud signalling network, developer SDK providing session control, management and billing capabilities, and sample WebRTC applications. It is targeted at individual app designers, company website developers and service providers who would like to incorporate real-time web communications into their applications and services.\u003C/p\u003E\n\n\u003Cp\u003ECrocodile has released a sample WebRTC application, Crocodile Talk, to demonstrate the scope and ease-of-use of the SDK. Crocodile Talk allows voice and video calls to be made direct from the browser, low-cost calls to fixed and mobile number, Instant Messaging, presence and file transfer. \nCrocodile is a leading contributor to the open-source community. Crocodile\u2019s cloud SIP, XMPP and MSRP signalling network is open, free, and supports peering with other networks. This allows Crocodile users to make calls to users registered with other networks by calling their SIP URL, which is identical in format to an email address. \nThe Crocodile WebRTC SDK is hosted at www.crocodilertc.net\nCrocodile Talk is hosted at www.crocodiletalk.com \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Parr",
+      "permalink": "john-parr",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Konstantin",
+      "last_name": "Levchin",
+      "permalink": "konstantin-levchin",
+      "image": null}},
+   {"is_past": false,
+    "title": "Technical Director",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Dunkley",
+      "permalink": "peter-dunkley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twilio",
+      "permalink": "twilio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/9070/29070v6-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0002/9070/29070v6-max-250x250.png"],
+          [[450,
+            150],
+           "assets/images/resized/0002/9070/29070v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Voxeo Labs",
+      "permalink": "voxeo-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            101],
+           "assets/images/resized/0023/6533/236533v2-max-150x150.png"],
+          [[250,
+            169],
+           "assets/images/resized/0023/6533/236533v2-max-250x250.png"],
+          [[290,
+            197],
+           "assets/images/resized/0023/6533/236533v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TokBox",
+      "permalink": "tokbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0002/2316/22316v12-max-150x150.png"],
+          [[207,
+            52],
+           "assets/images/resized/0002/2316/22316v12-max-250x250.png"],
+          [[207,
+            52],
+           "assets/images/resized/0002/2316/22316v12-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Crocodile HQ",
+    "address1": "Forum 3, Parkway",
+    "address2": "Whiteley",
+    "zip_code": "PO157FH",
+    "city": "Fareham",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 50.8780078,
+    "longitude": -1.2449356}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

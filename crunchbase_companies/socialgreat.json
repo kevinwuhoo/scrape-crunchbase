@@ -1,0 +1,120 @@
+{"name": "SocialGreat",
+ "permalink": "socialgreat",
+ "crunchbase_url": "http://www.crunchbase.com/company/socialgreat",
+ "homepage_url": "http://socialgreat.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "socialgreat",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Tracking Foursquare crowds",
+ "created_at": "Tue Aug 04 22:30:49 UTC 2009",
+ "updated_at": "Tue Aug 04 23:02:57 UTC 2009",
+ "overview": "\u003Cp\u003ESocialGreat is a service built on top of Foursquare\u0026#8217;s API to track popular places in cities based on people actually going to them and checking-in.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0005/5262/55262v1-max-150x150.png"],
+     [[250,
+       74],
+      "assets/images/resized/0005/5262/55262v1-max-250x250.png"],
+     [[291,
+       87],
+      "assets/images/resized/0005/5262/55262v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Steinberg",
+      "permalink": "jon-steinberg",
+      "image":
+       {"available_sizes":
+         [[[105,
+            150],
+           "assets/images/resized/0006/3906/63906v5-max-150x150.jpg"],
+          [[169,
+            240],
+           "assets/images/resized/0006/3906/63906v5-max-250x250.jpg"],
+          [[169,
+            240],
+           "assets/images/resized/0006/3906/63906v5-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "developer, founder",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Piel",
+      "permalink": "bill-piel",
+      "image": null}},
+   {"is_past": false,
+    "title": "founder",
+    "person":
+     {"first_name": "Sam",
+      "last_name": "Lessin",
+      "permalink": "sam-lessin",
+      "image":
+       {"available_sizes":
+         [[[135,
+            150],
+           "assets/images/resized/0005/5266/55266v2-max-150x150.jpg"],
+          [[225,
+            250],
+           "assets/images/resized/0005/5266/55266v2-max-250x250.jpg"],
+          [[406,
+            450],
+           "assets/images/resized/0005/5266/55266v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Ejessica vascellaro\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        73],
+       "assets/images/resized/0005/5261/55261v1-max-150x150.png"],
+      [[250,
+        123],
+       "assets/images/resized/0005/5261/55261v1-max-250x250.png"],
+      [[450,
+        221],
+       "assets/images/resized/0005/5261/55261v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://drop.io/swl/asset/the-why-of-socialgreat-realtime-location-trending",
+    "title": "sam lessin on the origins of socialgreat"},
+   {"external_url": "http://jonsteinberg.com/post/147537523/launching-socialgreat-com-wisdom-of-the-feet",
+    "title": "jon steinberg intro to socialgreat"},
+   {"external_url": "http://www.businessinsider.com/where-are-nycs-iphone-toting-geeks-hanging-out-find-out-here-2009-7",
+    "title": "alley insider on socialgreat"}]}

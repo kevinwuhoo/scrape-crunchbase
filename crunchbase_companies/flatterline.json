@@ -1,0 +1,103 @@
+{"name": "Flatterline",
+ "permalink": "flatterline",
+ "crunchbase_url": "http://www.crunchbase.com/company/flatterline",
+ "homepage_url": "http://flatterline.com",
+ "blog_url": "http://flatterline.com/blog",
+ "blog_feed_url": "http://flatterline.com/feed",
+ "twitter_username": "flatterline",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 2,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ruby, rails, ruby-on-rails, ror, application-development, web-application-development, web-development, phoenix, arizona",
+ "alias_list": null,
+ "email_address": "info@flatterline.com",
+ "phone_number": "480.420.9081",
+ "description": "Kick ass web application development.",
+ "created_at": "Thu Jul 09 03:50:24 UTC 2009",
+ "updated_at": "Thu Feb 02 06:07:32 UTC 2012",
+ "overview": "\u003Cp\u003EFlatterline is a \u003Ca href=\"http://flatterline.com/\" title=\"web application development\" rel=\"nofollow\"\u003Eweb application development\u003C/a\u003E company based in Phoenix, AZ. The company works mostly with the Ruby on Rails web framework and focuses on assisting companies with their software development needs.\u003C/p\u003E\n\n\u003Cp\u003EWhether it\u0026#8217;s developing a product or service, supplementing an existing team or picking up where another development company left off, Flatterline has you covered.\u003C/p\u003E\n\n\u003Cp\u003EIn addition to providing software development services to startups, Flatterline is in the process of creating several products and services of it\u0026#8217;s own.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       17],
+      "assets/images/resized/0005/2333/52333v2-max-150x150.png"],
+     [[250,
+       29],
+      "assets/images/resized/0005/2333/52333v2-max-250x250.png"],
+     [[450,
+       53],
+      "assets/images/resized/0005/2333/52333v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Twust",
+    "permalink": "twust",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Curtis",
+      "last_name": "Miller",
+      "permalink": "curtis-miller",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0005/2645/52645v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0005/2645/52645v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0005/2645/52645v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003E\u003Ca href=\"http://tysoncrosbie.com\" title=\"image by Tyson Crosbie\" rel=\"nofollow\"\u003Eimage by Tyson Crosbie\u003C/a\u003E\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Chandler",
+      "permalink": "chris-chandler",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Fennemore Craig",
+      "permalink": "fennemore-craig",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "25779 W. Gibson Ln.",
+    "address2": "",
+    "zip_code": "85326",
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.downtownphoenixjournal.com/2009/06/12/meet-curtis-miller/",
+    "title": "Meet Curtis Miller"}]}

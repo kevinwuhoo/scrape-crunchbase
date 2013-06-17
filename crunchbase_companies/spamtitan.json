@@ -1,0 +1,110 @@
+{"name": "SpamTitan",
+ "permalink": "spamtitan",
+ "crunchbase_url": "http://www.crunchbase.com/company/spamtitan",
+ "homepage_url": "http://www.spamtitan.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "spamtitan",
+ "category_code": "security",
+ "number_of_employees": 50,
+ "founded_year": 1999,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "anti-spam, anti-virus, email-security, email-protection, virtual-appliances, email-gateway-appliance",
+ "alias_list": null,
+ "email_address": "info@spamtitan.com",
+ "phone_number": "+353 91 540054",
+ "description": "email security, anti spam, virtual appli",
+ "created_at": "Tue Jun 01 11:15:42 UTC 2010",
+ "updated_at": "Tue Jun 01 21:58:27 UTC 2010",
+ "overview": "\u003Cp\u003ESpamTitan produce virtual email gateway appliances to protect organisations email, blocking malware, viruses and spam.\nThe products are delivered as either an ISO or virtual appliance to be deployed on either a bear metal server resulting in a dedicated appliance, or on a hypervisor of choice resulting in a virtual appliance.\nThe product includes two anti virus engines, Kaspersky and Clam AV, as well as an award winning anti spam engine, independently  tested to block in excess of 99% of spam.\nThe product is used by business, education and by ISP\u0026#8217;s to offer managed/cloud based services.\nSpamTitan\u0026#8217;s customer base extends to over 100 countries and it is sold online and through an extensive partner network. It is available in over 10 languages including English, Japanese, Italian, German and Spanish.\nSpamTitan also offer WebTitan, a web filter and policy gateway virtual appliance, this is featured under its own listing.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Barracuda Networks",
+      "permalink": "barracuda-networks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/2554/22554v1-max-150x150.png"],
+          [[230,
+            69],
+           "assets/images/resized/0002/2554/22554v1-max-250x250.png"],
+          [[230,
+            69],
+           "assets/images/resized/0002/2554/22554v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GFI Software",
+      "permalink": "gfi",
+      "image":
+       {"available_sizes":
+         [[[93,
+            60],
+           "assets/images/resized/0009/0493/90493v7-max-150x150.png"],
+          [[93,
+            60],
+           "assets/images/resized/0009/0493/90493v7-max-250x250.png"],
+          [[93,
+            60],
+           "assets/images/resized/0009/0493/90493v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Trend Micro",
+      "permalink": "trend-micro-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0004/2974/42974v1-max-150x150.png"],
+          [[157,
+            67],
+           "assets/images/resized/0004/2974/42974v1-max-250x250.png"],
+          [[157,
+            67],
+           "assets/images/resized/0004/2974/42974v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "PR Agency",
+    "is_past": false,
+    "provider":
+     {"name": "Bond PR",
+      "permalink": "bond-pr",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "Sybernet House",
+    "address2": "IDA Business Park, Dangan",
+    "zip_code": "na",
+    "city": "Galway",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.virusbtn.com/news/2009/11_04.xml",
+    "title": "Virus Bulletin"}]}

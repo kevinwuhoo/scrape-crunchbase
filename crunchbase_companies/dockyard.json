@@ -1,0 +1,112 @@
+{"name": "DockYard",
+ "permalink": "dockyard",
+ "crunchbase_url": "http://www.crunchbase.com/company/dockyard",
+ "homepage_url": "http://dockyard.com",
+ "blog_url": "http://reefpoints.dockyard.com",
+ "blog_feed_url": "http://reefpoints.dockyard.com/atom.xml",
+ "twitter_username": "dockyard",
+ "category_code": "consulting",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ruby-on-rails, web-development, mobile-development, boston",
+ "alias_list": null,
+ "email_address": "contact@dockyard.com",
+ "phone_number": "(855) DOCK-YRD",
+ "description": "Boston web and mobile consultancy",
+ "created_at": "Sat Apr 21 02:04:04 UTC 2012",
+ "updated_at": "Mon Jul 02 01:20:50 UTC 2012",
+ "overview": "\u003Cp\u003EDockYard is a Boston based web and mobile consultancy specializing in technologies such as Ruby on Rails and Phonegap (Cordova).\u003C/p\u003E\n\n\u003Cp\u003EWe are a full-service consultancy that can follow a project from design, development, and release.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0018/5286/185286v2-max-150x150.png"],
+     [[250,
+       74],
+      "assets/images/resized/0018/5286/185286v2-max-250x250.png"],
+     [[450,
+       134],
+      "assets/images/resized/0018/5286/185286v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Cardarella",
+      "permalink": "brian-cardarella",
+      "image": null}},
+   {"is_past": false,
+    "title": "Partner - Lead Designer",
+    "person":
+     {"first_name": "Angelo",
+      "last_name": "Simeoni",
+      "permalink": "angelo-simeoni",
+      "image": null}},
+   {"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Gill",
+      "permalink": "chris-gill",
+      "image": null}},
+   {"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "McClain",
+      "permalink": "dan-mcclain",
+      "image": null}},
+   {"is_past": false,
+    "title": "Designer",
+    "person":
+     {"first_name": "Amanda",
+      "last_name": "Cheung",
+      "permalink": "amanda-cheung",
+      "image": null}},
+   {"is_past": true,
+    "title": "Partner - Development",
+    "person":
+     {"first_name": "Russ",
+      "last_name": "Jones",
+      "permalink": "russ-jones",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Boston",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

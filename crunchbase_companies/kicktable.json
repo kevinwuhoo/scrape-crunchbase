@@ -1,0 +1,102 @@
+{"name": "kicktable",
+ "permalink": "kicktable",
+ "crunchbase_url": "http://www.crunchbase.com/company/kicktable",
+ "homepage_url": "http://www.kicktable.com",
+ "blog_url": "http://blog.kicktable.com/",
+ "blog_feed_url": "http://blog.kicktable.com/rss",
+ "twitter_username": "kicktable",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "collaborative-consumption, marketplace, urban, experiences, activities",
+ "alias_list": null,
+ "email_address": "info@kicktable.com",
+ "phone_number": "+44/7411.963.652",
+ "description": "Online marketplace for urban activities",
+ "created_at": "Thu Mar 22 15:20:18 UTC 2012",
+ "updated_at": "Sat Apr 14 03:22:47 UTC 2012",
+ "overview": "\u003Cp\u003EKicktable is a community marketplace for urban experiences organized by passionate people. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       141],
+      "assets/images/resized/0018/0603/180603v2-max-150x150.png"],
+     [[250,
+       236],
+      "assets/images/resized/0018/0603/180603v2-max-250x250.png"],
+     [[450,
+       425],
+      "assets/images/resized/0018/0603/180603v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "George",
+      "last_name": "Henry de Frahan",
+      "permalink": "george-henry-de-frahan",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Diego",
+      "last_name": "d'ursel",
+      "permalink": "diego-dursel",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Matthieu",
+      "last_name": "Vaxelaire",
+      "permalink": "matthieu-vaxelaire",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Google Campus",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/37949090\" width=\"450\" height=\"253\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EWhat is Kicktable?\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[116,
+        150],
+       "assets/images/resized/0018/2450/182450v2-max-150x150.png"],
+      [[194,
+        250],
+       "assets/images/resized/0018/2450/182450v2-max-250x250.png"],
+      [[350,
+        450],
+       "assets/images/resized/0018/2450/182450v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

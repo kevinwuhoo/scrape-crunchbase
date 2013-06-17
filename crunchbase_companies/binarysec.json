@@ -1,0 +1,126 @@
+{"name": "BinarySEC",
+ "permalink": "binarysec",
+ "crunchbase_url": "http://www.crunchbase.com/company/binarysec",
+ "homepage_url": "http://www.easywaf.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "BinarySEC",
+ "category_code": "network_hosting",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "security, website, protection, acceleration, performance, firewall, waf, web-application-firewall",
+ "alias_list": null,
+ "email_address": "jb@binarysec.com",
+ "phone_number": "6462022590",
+ "description": "IT security acceleration",
+ "created_at": "Tue Apr 02 18:27:12 UTC 2013",
+ "updated_at": "Wed Apr 03 18:31:44 UTC 2013",
+ "overview": "\u003Cp\u003EBinarySEC developped softwares and appliances to secure and boost web application and IT networks.\u003C/p\u003E\n\n\u003Cp\u003EBinarySEC Corp. is a major company of website and web application security in Europe. BinarySEC had developed one of the first cloud-based Web Application Firewall using dynamic white-listing technology, called EasyWAF. EasyWAF provides state-of-the-art security, powerful performance optimization and statistics for every type of website. Distributed as Software-as-a-Service in the cloud and setup in 5 minutes, EasyWAF is the next generation of website security solution. EasyWAF currently protects more than 500 websites and applications including e-commerce, banks, retailers, manufacturers, and government websites.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President, CEO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Vergoz",
+      "permalink": "michael-vergoz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Touret",
+      "permalink": "richard-touret",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CloudFlare",
+      "permalink": "cloudflare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            76],
+           "assets/images/resized/0006/7767/67767v6-max-150x150.png"],
+          [[250,
+            127],
+           "assets/images/resized/0006/7767/67767v6-max-250x250.png"],
+          [[378,
+            193],
+           "assets/images/resized/0006/7767/67767v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Incapsula",
+      "permalink": "incapsula",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0012/9317/129317v2-max-150x150.png"],
+          [[192,
+            44],
+           "assets/images/resized/0012/9317/129317v2-max-250x250.png"],
+          [[192,
+            44],
+           "assets/images/resized/0012/9317/129317v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yottaa",
+      "permalink": "yottaa",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0008/7833/87833v1-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0008/7833/87833v1-max-250x250.png"],
+          [[450,
+            118],
+           "assets/images/resized/0008/7833/87833v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "4 rue franck Camille Cadet",
+    "address2": "",
+    "zip_code": "97427",
+    "city": "Etang Sal\u00e9",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "New York Office",
+    "address1": "41 Madison avenue",
+    "address2": "Suite 2504",
+    "zip_code": "10010",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.7426286,
+    "longitude": -73.9864682}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

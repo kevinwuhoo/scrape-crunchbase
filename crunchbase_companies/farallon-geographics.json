@@ -1,0 +1,99 @@
+{"name": "Farallon Geographics",
+ "permalink": "farallon-geographics",
+ "crunchbase_url": "http://www.crunchbase.com/company/farallon-geographics",
+ "homepage_url": "http://www.fargeo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "consulting",
+ "number_of_employees": 11,
+ "founded_year": 1997,
+ "founded_month": 8,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gis, open-source, esri, google-earth, google-maps, virtual-earth, mapping, ogc-satndards",
+ "alias_list": null,
+ "email_address": "info@fargeo.com",
+ "phone_number": "415-227-1140",
+ "description": null,
+ "created_at": "Mon Jun 23 22:22:37 UTC 2008",
+ "updated_at": "Thu Apr 30 21:29:35 UTC 2009",
+ "overview": "\u003Cp\u003EFarallon Geographics is a San Francisco based professional services firm that helps clients use geographical and location information to enhance the understanding and effectiveness of their enterprise.\u003C/p\u003E\n\n\u003Cp\u003EFarallon Geographics is a leader in GIS strategic planning, implementation, and integration of GIS systems and location technology software to support mission critical business functions. As systems integrators focused on geospatial data, Farallon provides unique and unbiased strategic and technical implementation services for enterprise-scale GIS.\u003C/p\u003E\n\n\u003Cp\u003EFarallon was founded in 1997 by geologists and engineers who recognized that geospatial data represent valuable and yet largely under-used assets within most organizations. Since then, Farallon has earned an unrivalled reputation for crafting scaleable, robust, and manageable enterprise-scale geodatabases and GIS implementations, even under the most aggressive budget and schedule constraints.\u003C/p\u003E\n\n\u003Cp\u003EFarallon enjoys excellent strategic and technical relationships with all major GIS software and leading IT vendors. In addition, Farallon has been a leader in the integration of GIS with Open Source and freely available APIs such as Google Earth, Google Maps, and Microsoft Virtual Earth. To ensure the interoperability of our GIS deployments, they have also pioneered the implementation of emerging geospatial standards and specifications as developed by the Open GIS Consortium (OGC).\u003C/p\u003E\n\n\u003Cp\u003EFarallon is an employee-owned, State of California-certified small business enterprise located in San Francisco. As a small business, they can provide innovative services with maximum flexibility of approach.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       69],
+      "assets/images/resized/0002/0864/20864v2-max-150x150.jpg"],
+     [[250,
+       116],
+      "assets/images/resized/0002/0864/20864v2-max-250x250.jpg"],
+     [[423,
+       197],
+      "assets/images/resized/0002/0864/20864v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dennis",
+      "last_name": "Wuthrich",
+      "permalink": "dennis-wuthrich",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Marketing \u0026 CFO",
+    "person":
+     {"first_name": "Joseph",
+      "last_name": "Metro",
+      "permalink": "joseph-metro",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director GIS Web Development",
+    "person":
+     {"first_name": "Alexei",
+      "last_name": "Peters",
+      "permalink": "alexei-peters",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Marketing",
+    "is_past": false,
+    "provider":
+     {"name": "ArtLab",
+      "permalink": "artlab",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "609 Mission Street,",
+    "address2": "2nd Floor",
+    "zip_code": "94105",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7878037,
+    "longitude": -122.4001578}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blogs.msdn.com/mappoint_b2b/archive/2007/03/26/farallon-geographics-builds-web-based-gis-redevelopment-project-tracking-portal-for-boston-redevelopment-authority.aspx",
+    "title": "Farallon Geographics Builds Web Based GIS Redevelopment Project Tracking Portal for Boston Redevelopment Authority"},
+   {"external_url": "http://searchoracle.techtarget.com/news/article/0,289142,sid41_gci1249284,00.html#",
+    "title": "Oracle's free database powers geospatial apps maker"}]}

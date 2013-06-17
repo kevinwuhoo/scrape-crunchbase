@@ -1,0 +1,129 @@
+{"name": "Netatmo",
+ "permalink": "netatmo",
+ "crunchbase_url": "http://www.crunchbase.com/company/netatmo",
+ "homepage_url": "http://netatmo.com",
+ "blog_url": "http://blog.netatmo.com/",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Jun 06 11:43:40 UTC 2013",
+ "updated_at": "Fri Jun 07 03:11:36 UTC 2013",
+ "overview": "\u003Cp\u003ENetatmo is a Paris-based Internet of Things startup which makes personal weather station and air quality sensor devices for use with Android and iOS apps.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[131,
+       95],
+      "assets/images/resized/0027/2098/272098v1-max-150x150.png"],
+     [[131,
+       95],
+      "assets/images/resized/0027/2098/272098v1-max-250x250.png"],
+     [[131,
+       95],
+      "assets/images/resized/0027/2098/272098v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Fred",
+      "last_name": "Potter",
+      "permalink": "fred-potter",
+      "image":
+       {"available_sizes":
+         [[[134,
+            150],
+           "assets/images/resized/0027/2353/272353v1-max-150x150.png"],
+          [[152,
+            170],
+           "assets/images/resized/0027/2353/272353v1-max-250x250.png"],
+          [[152,
+            170],
+           "assets/images/resized/0027/2353/272353v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac4.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://techcrunch.com/2013/06/06/netatmo-funding/",
+    "source_description": "France\u2019s Netatmo Raises $5.8M To Extend The Reach Of Its Connected Weather Station",
+    "raised_amount": 4500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2013,
+    "funded_month": 6,
+    "funded_day": 6,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Iris Capital",
+         "permalink": "iris-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               99],
+              "assets/images/resized/0005/3840/53840v3-max-150x150.jpg"],
+             [[250,
+               165],
+              "assets/images/resized/0005/3840/53840v3-max-250x250.jpg"],
+             [[372,
+               246],
+              "assets/images/resized/0005/3840/53840v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "FSN PME Fund",
+         "permalink": "fsn-pme-fund",
+         "image": null},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Pascal",
+         "last_name": "Cagni",
+         "permalink": "pascal-cagni",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/jcvCGbT37CU\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0027/2097/272097v1-max-150x150.png"],
+      [[250,
+        154],
+       "assets/images/resized/0027/2097/272097v1-max-250x250.png"],
+      [[450,
+        278],
+       "assets/images/resized/0027/2097/272097v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

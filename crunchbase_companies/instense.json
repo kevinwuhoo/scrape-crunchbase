@@ -1,0 +1,94 @@
+{"name": "Instense",
+ "permalink": "instense",
+ "crunchbase_url": "http://www.crunchbase.com/company/instense",
+ "homepage_url": "http://instense.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "instantsense",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2013,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@instense.com",
+ "phone_number": "+442032860905",
+ "description": "Consumer App for Investing",
+ "created_at": "Thu May 16 11:22:10 UTC 2013",
+ "updated_at": "Sat May 18 20:02:36 UTC 2013",
+ "overview": "\u003Cp\u003EInstense is a London based start-up developing applications that help consumers invest. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Istvan",
+      "last_name": "Mate-Toth",
+      "permalink": "istvan-mate-toth",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Shane",
+      "last_name": "Leonard",
+      "permalink": "shane-leonard",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Hilla",
+      "last_name": "Pedramparsi",
+      "permalink": "hilla-pedramparsi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Jemstep",
+      "permalink": "jemstep-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0017/0783/170783v2-max-150x150.png"],
+          [[250,
+            117],
+           "assets/images/resized/0017/0783/170783v2-max-250x250.png"],
+          [[450,
+            210],
+           "assets/images/resized/0017/0783/170783v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "The Dryland Building",
+    "address2": "96 High Street Kensington",
+    "zip_code": "W8 4SG",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5794455,
+    "longitude": -0.1180246}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

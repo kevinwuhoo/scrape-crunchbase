@@ -1,0 +1,126 @@
+{"name": "LoadStorm",
+ "permalink": "loadstorm",
+ "crunchbase_url": "http://www.crunchbase.com/company/loadstorm",
+ "homepage_url": "http://LoadStorm.com",
+ "blog_url": "http://loadstorm.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "LoadStorm",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "load-testing, web, database, test",
+ "alias_list": "",
+ "email_address": "info@loadstorm.com",
+ "phone_number": "1.505.205.8769",
+ "description": "Web Load Tester",
+ "created_at": "Wed Sep 24 16:42:30 UTC 2008",
+ "updated_at": "Tue Apr 02 05:18:43 UTC 2013",
+ "overview": "\u003Cp\u003ELoadStorm is a load testing tool.  It is on-demand performance testing, load testing, and stress testing for web applications and websites.\u003C/p\u003E\n\n\u003Cp\u003EThis service is used to simulate many concurrent users of a web application or website.  Web developers may create free accounts to design test scenarios and plan a load test, then run a test with 50 virtual users.  Larger numbers of virtual users and heavier bandwidth tests require a paid account.  \u003C/p\u003E\n\n\u003Cp\u003EThe goal of LoadStorm is to be easy and inexpensive.  It does NOT have the most features because it is designed to be simple.  Most web developers want to run performance tests without learning a new scripting language, and they want to run them quickly.  LoadStorm\u0026#8217;s graphs and reports show you response times, throughput, error rates, requests per second, etc. to help you identify at what load your website becomes slow or unusable.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       91],
+      "assets/images/resized/0002/5621/25621v2-max-150x150.png"],
+     [[170,
+       104],
+      "assets/images/resized/0002/5621/25621v2-max-250x250.png"],
+     [[170,
+       104],
+      "assets/images/resized/0002/5621/25621v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "LoadStorm",
+    "permalink": "awebstorm",
+    "image":
+     {"available_sizes":
+       [[[150,
+          116],
+         "assets/images/resized/0002/5694/25694v2-max-150x150.jpg"],
+        [[250,
+          194],
+         "assets/images/resized/0002/5694/25694v2-max-250x250.jpg"],
+        [[450,
+          350],
+         "assets/images/resized/0002/5694/25694v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Roger",
+      "last_name": "Campbell",
+      "permalink": "roger-campbell",
+      "image": null}},
+   {"is_past": false,
+    "title": "Board member",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Price",
+      "permalink": "scott-price",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Keynote Systems",
+      "permalink": "keynote-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0008/7802/87802v1-max-150x150.png"],
+          [[250,
+            48],
+           "assets/images/resized/0008/7802/87802v1-max-250x250.png"],
+          [[256,
+            50],
+           "assets/images/resized/0008/7802/87802v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SOASTA",
+      "permalink": "soasta",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0019/9673/199673v2-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0019/9673/199673v2-max-250x250.png"],
+          [[372,
+            64],
+           "assets/images/resized/0019/9673/199673v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Primary",
+    "address1": "10555 Montgomery Blvd. NE",
+    "address2": "Suite 170",
+    "zip_code": "87111",
+    "city": "Albuquerque",
+    "state_code": "NM",
+    "country_code": "USA",
+    "latitude": 35.131172,
+    "longitude": -106.520846}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

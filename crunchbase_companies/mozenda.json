@@ -1,0 +1,111 @@
+{"name": "Mozenda",
+ "permalink": "mozenda",
+ "crunchbase_url": "http://www.crunchbase.com/company/mozenda",
+ "homepage_url": "http://www.mozenda.com",
+ "blog_url": "http://www.mozenda.com/blog/",
+ "blog_feed_url": "http://www.mozenda.com/blog/?feed=rss2",
+ "twitter_username": "mozenda",
+ "category_code": "web",
+ "number_of_employees": 17,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "business-intelligence, custom-feeds, data-extraction",
+ "alias_list": null,
+ "email_address": "brett.haskins@mozenda.com",
+ "phone_number": "801-995-4550",
+ "description": "web scraping software",
+ "created_at": "Fri Aug 22 17:19:34 UTC 2008",
+ "updated_at": "Mon Apr 23 20:48:07 UTC 2012",
+ "overview": "\u003Cp\u003EMozenda helps users convert unstructured web data into usable data sets and data feeds.\u003C/p\u003E\n\n\u003Cp\u003EMozenda uses a point-and-click interface to automate data collection from the web. Once data is obtained (on either a scheduled or manual basis), it can be viewed online, exported for offline use, or accessed through an API.\u003C/p\u003E\n\n\u003Cp\u003EPopular uses of Mozenda include web data mashups, competitive pricing, and analysis of customer sentiment on the web. Because of the nature of the tool, programmers and non-programmers alike can extract data from any website for a variety of purposes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0002/4201/24201v6-max-150x150.png"],
+     [[229,
+       87],
+      "assets/images/resized/0002/4201/24201v6-max-250x250.png"],
+     [[229,
+       87],
+      "assets/images/resized/0002/4201/24201v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Brett",
+      "last_name": "Haskins",
+      "permalink": "brett-haskins",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Crabtree",
+      "permalink": "chris-crabtree",
+      "image":
+       {"available_sizes":
+         [[[135,
+            125],
+           "assets/images/resized/0010/8781/108781v2-max-150x150.jpg"],
+          [[135,
+            125],
+           "assets/images/resized/0010/8781/108781v2-max-250x250.jpg"],
+          [[135,
+            125],
+           "assets/images/resized/0010/8781/108781v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Chief Architect",
+    "person":
+     {"first_name": "Corey",
+      "last_name": "Young",
+      "permalink": "corey-young",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 8,
+    "funded_day": 24,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "616 E Technology Ave",
+    "address2": "Building B-2300",
+    "zip_code": "84097",
+    "city": "Orem",
+    "state_code": "UT",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,141 @@
+{"name": "Zambooki",
+ "permalink": "zambooki",
+ "crunchbase_url": "http://www.crunchbase.com/company/zambooki",
+ "homepage_url": "http://www.zambooki.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "tweetzambooki",
+ "category_code": "web",
+ "number_of_employees": 25,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "local, house, home, fix, repair, home-improvements, contractor, homeowner, remodel, projects, house-facts, home-additions, house-maintenance, neighborhood, service-area",
+ "alias_list": null,
+ "email_address": "heath@zambooki.com",
+ "phone_number": "205 792 1155",
+ "description": "Home repair made fun!",
+ "created_at": "Mon Dec 05 16:17:40 UTC 2011",
+ "updated_at": "Wed Apr 24 05:50:45 UTC 2013",
+ "overview": "\u003Cp\u003EZambooki has created the future of Home Repair.\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cp\u003EZambooki provides a way to get actual dollar amounts on repairs/remodeling or rebuilding for your home or business.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EZambooki is free to use for professional contractors and home/business owners.\u003C/p\u003E\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       89],
+      "assets/images/resized/0016/5218/165218v2-max-150x150.jpg"],
+     [[250,
+       148],
+      "assets/images/resized/0016/5218/165218v2-max-250x250.jpg"],
+     [[380,
+       226],
+      "assets/images/resized/0016/5218/165218v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "(Co) Founder",
+    "person":
+     {"first_name": "Heath",
+      "last_name": "Hendrix",
+      "permalink": "heath-hendrix",
+      "image": null}},
+   {"is_past": true,
+    "title": "(Co) Founder",
+    "person":
+     {"first_name": "Jacob",
+      "last_name": "Jones",
+      "permalink": "jacob-jones",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Homefix",
+      "permalink": "homefix",
+      "image": null}},
+   {"competitor":
+     {"name": "Angie's List",
+      "permalink": "angies-list",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/7144/17144v1-max-150x150.jpg"],
+          [[250,
+            62],
+           "assets/images/resized/0001/7144/17144v1-max-250x250.jpg"],
+          [[262,
+            66],
+           "assets/images/resized/0001/7144/17144v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ServiceMagic",
+      "permalink": "servicemagic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/9468/29468v4-max-150x150.jpg"],
+          [[182,
+            51],
+           "assets/images/resized/0002/9468/29468v4-max-250x250.jpg"],
+          [[182,
+            51],
+           "assets/images/resized/0002/9468/29468v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Dominik field hyde",
+      "permalink": "dominik-field-hyde",
+      "image": null}},
+   {"title": "Investment Firm",
+    "is_past": false,
+    "provider":
+     {"name": "NuVault Financial",
+      "permalink": "nuvault-financial",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "800 22 ave ",
+    "address2": "Suite 201",
+    "zip_code": "35401-2379",
+    "city": "Tuscaloosa",
+    "state_code": "AL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        73],
+       "assets/images/resized/0016/5217/165217v2-max-150x150.png"],
+      [[250,
+        122],
+       "assets/images/resized/0016/5217/165217v2-max-250x250.png"],
+      [[450,
+        220],
+       "assets/images/resized/0016/5217/165217v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.tuscaloosanews.com/article/20110724/news/110729916?tc=ar",
+    "title": "Is Zambooki the next Google?"},
+   {"external_url": "http://blog.al.com/tuscaloosa/2011/07/tuscaloosa_entrepreneurs_launc.html",
+    "title": "Zambooki is the future of Home reapirs"}]}

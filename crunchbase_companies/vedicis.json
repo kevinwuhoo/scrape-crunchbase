@@ -1,0 +1,106 @@
+{"name": "Vedicis",
+ "permalink": "vedicis",
+ "crunchbase_url": "http://www.crunchbase.com/company/vedicis",
+ "homepage_url": "http://www.vedicis.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Vedicis",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "policy-control, pcef, deep-packet-inspection, traffic-management, metering-charging",
+ "alias_list": "",
+ "email_address": "info@vedicis.com",
+ "phone_number": "+33 (0) 144 637 106",
+ "description": "IP broadband solutions",
+ "created_at": "Thu Jul 22 08:31:26 UTC 2010",
+ "updated_at": "Tue Aug 28 20:22:46 UTC 2012",
+ "overview": "\u003Cp\u003EVedicis provides Policy Control/Enforcement and Network Traffic intelligence solutions to fixed operators (cable, FTTH and DSL network operators, Wifi and ISPs) and mobile operators (3G, LTE, Wimax) to manage and monetize broadband for better user experience and new revenue streams.\u003C/p\u003E\n\n\u003Cp\u003EVedicis solutions help customers to solve data congestion issues resulting from traffic surge with better QoS and QoE, and to enable new services with content  and applications bandwidth control and charging depending on user profile and service entitlement. \u003C/p\u003E\n\n\u003Cp\u003EOur product, the Vedicis Content Smart Switch, is a DPI-PE based software platform (Deep Packet Inspection \u0026amp; Policy Enforcement) to control multi-1GE or multi-10GE traffic with high switching performance on Intel Standard Servers and features several services to deliver:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Evisibility: granular network traffic statistics and key usage analytics\u003C/li\u003E\n\u003Cli\u003Eintelligence: usage metering for data charging in postpaid and prepaid environment\u003C/li\u003E\n\u003Cli\u003Econtrol: application bandwidth enforcement per user, and smart routing to Value Added Services (video and web optimization, cache, captive portal.\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EVedicis carrier grade solution leverages its breakthrough software technology that combines DPI and Policy Enforcement to achieve price/performance leadership and short ROI with scalability, flexibility and fast integration for broadband control and monetization.\u003C/p\u003E\n\n\u003Cp\u003EVedicis is headquartered in Paris, France.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0009/5455/95455v1-max-150x150.png"],
+     [[170,
+       43],
+      "assets/images/resized/0009/5455/95455v1-max-250x250.png"],
+     [[170,
+       43],
+      "assets/images/resized/0009/5455/95455v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.82M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.vedicis.com/images/stories/Vedicis_raises_2_MU_Eng_januar_y_2010.pdf",
+    "source_description": "Vedicis raises 2 M\u00e2\u201a\u00ac with Innovacom to deliver to telecom operators its advanced content analysis and control solution for smart pipes.",
+    "raised_amount": 2820000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 1,
+    "funded_day": 20,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Innovacom",
+         "permalink": "innovacom",
+         "image":
+          {"available_sizes":
+            [[[150,
+               41],
+              "assets/images/resized/0002/9297/29297v2-max-150x150.png"],
+             [[250,
+               69],
+              "assets/images/resized/0002/9297/29297v2-max-250x250.png"],
+             [[271,
+               75],
+              "assets/images/resized/0002/9297/29297v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "46 rue d'Amsterdam",
+    "address2": "",
+    "zip_code": "75009",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        99],
+       "assets/images/resized/0009/5458/95458v1-max-150x150.jpg"],
+      [[250,
+        166],
+       "assets/images/resized/0009/5458/95458v1-max-250x250.jpg"],
+      [[450,
+        299],
+       "assets/images/resized/0009/5458/95458v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

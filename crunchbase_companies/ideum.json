@@ -1,0 +1,82 @@
+{"name": "Ideum",
+ "permalink": "ideum",
+ "crunchbase_url": "http://www.crunchbase.com/company/ideum",
+ "homepage_url": "http://www.ideum.com",
+ "blog_url": "http://ideum.com/blog/",
+ "blog_feed_url": "http://ideum.com/feed/",
+ "twitter_username": "ideum",
+ "category_code": "software",
+ "number_of_employees": 22,
+ "founded_year": 1999,
+ "founded_month": 12,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hci, multitouch, gestural-interfaces, gestureworks",
+ "alias_list": null,
+ "email_address": "info@ideum.com",
+ "phone_number": "505-792-1110",
+ "description": "HCI software and hardware",
+ "created_at": "Thu Apr 04 19:25:59 UTC 2013",
+ "updated_at": "Thu Apr 04 19:31:40 UTC 2013",
+ "overview": "\u003Cp\u003EIdeum develops innovative hardware and software and is keenly focused on the future of Human Computer Interaction (HCI).\u003C/p\u003E\n\n\u003Cp\u003EIdeum is privately-held, creative company based in Corrales, New Mexico. The firm develops commercial software, multitouch hardware, and offers design and installation services to museums, nonprofits, and socially responsible companies.\u003C/p\u003E\n\n\u003Cp\u003EIdeum has designed and developed a commercial multitouch and motion recognition software development kit (SDK) called Gestureworks for C++, C# / .NET, Java, Python, and Actionscript. The framework supports 300+ unique gestures, more than any other software development kit available. In 2009, Ideum introduced GestureML, the world\u2019s first mark-up language for multitouch.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0024/8105/248105v2-max-150x150.png"],
+     [[250,
+       126],
+      "assets/images/resized/0024/8105/248105v2-max-250x250.png"],
+     [[450,
+       227],
+      "assets/images/resized/0024/8105/248105v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Spadaccini",
+      "permalink": "jim-spadaccini",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Studio and Workshop",
+    "address1": "2469 Corrales Rd",
+    "address2": "",
+    "zip_code": "87048",
+    "city": "Corrales",
+    "state_code": "NM",
+    "country_code": "USA",
+    "latitude": 35.2180652,
+    "longitude": -106.622674}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/11/18/a-platform-for-developers-to-create-complex-gestures-for-ultrabook-apps/",
+    "title": "Ideum\u2019s GestureWorks Platform Will Let Developers Create Complex Gestures For Ultrabook Apps"},
+   {"external_url": "http://www.engadget.com/2012/06/28/ideum-unveils-speedy-platform-and-pro-multi-touch-tables/",
+    "title": "Ideum unveils speedy Platform and Pro multi-touch tables, says PixelSense ain't got nothin'"},
+   {"external_url": "http://news.discovery.com/tech/multi-touch-table-11901.htm",
+    "title": "Giant Multitouch Table Encourages Interaction"}]}

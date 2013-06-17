@@ -1,0 +1,116 @@
+{"name": "Sergian Technologies",
+ "permalink": "sergian-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/sergian-technologies",
+ "homepage_url": "http://latch-app.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "latchapp",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "latch, login, password-manager, passwords, wordpress, plugins, iphone, app, password, social, social-login",
+ "alias_list": null,
+ "email_address": "serge.thompson@latch-app.com",
+ "phone_number": "6035020290",
+ "description": "Next Generation Login",
+ "created_at": "Mon May 27 13:34:17 UTC 2013",
+ "updated_at": "Tue May 28 14:59:18 UTC 2013",
+ "overview": "\u003Cp\u003ELatch begins by revolutionizing Web logins. We envision a world where accessing protected websites is not only pain-free but more secure than current mechanisms. Instead of username/password challenges, smart phones will authenticate users automatically and securely. Instead of creating, remembering, forgetting, recovering and rotating tens of unique username password combinations, Latch users will create only a handful of identities based on personas tied to unique email addresses, e.g. personal, work and hobby. This mechanism is more secure because auto-generated credentials and never seen by people or even shared with websites. Latch accounts give users a convenient and secure passport to the Web.\nWebsites will benefit by converting more visitors to engaged participants and paying customers, since the user avoids having to create yet another account.\nBuilding on this base, a Latch account then evolves into an identity store, containing contact and payment information that users authorize websites to access. Users recognize convenience and higher security by having this managed from a single app. Websites benefit with higher conversion rates. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0026/7574/267574v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0026/7574/267574v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0026/7574/267574v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, founder",
+    "person":
+     {"first_name": "Serge",
+      "last_name": "Thompson",
+      "permalink": "serge-thompson",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Sawers",
+      "permalink": "mark-sawers",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LaunchKey",
+      "permalink": "launchkey",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0021/5080/215080v4-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0021/5080/215080v4-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0021/5080/215080v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 1,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Tommy",
+         "last_name": "Moulton",
+         "permalink": "tommy-moulton",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        113],
+       "assets/images/resized/0026/7573/267573v2-max-150x150.png"],
+      [[250,
+        189],
+       "assets/images/resized/0026/7573/267573v2-max-250x250.png"],
+      [[450,
+        340],
+       "assets/images/resized/0026/7573/267573v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.youtube.com/watch?v=UVrq_XFhJxw",
+    "title": "NYC video presentation"}]}

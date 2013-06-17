@@ -1,0 +1,143 @@
+{"name": "BlogBlogs",
+ "permalink": "blogblogs",
+ "crunchbase_url": "http://www.crunchbase.com/company/blogblogs",
+ "homepage_url": "http://blogblogs.com.br",
+ "blog_url": "http://blog.blogblogs.com.br",
+ "blog_feed_url": "http://blog.blogblogs.com.br/feed/",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 50,
+ "founded_year": 2006,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "blogs, blogosphere, indexing, tagging, widgets, portuguese, brazil, social-bookmarking, social-network",
+ "alias_list": null,
+ "email_address": "contact@webcointernet.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sat Nov 08 23:56:20 UTC 2008",
+ "updated_at": "Fri Apr 03 18:07:34 UTC 2009",
+ "overview": "\u003Cp\u003EThe biggest blog indexing platform and bloggers/readers community for Portuguese written blogs.\u003C/p\u003E\n\n\u003Cp\u003EBlogBlogs is the leading blog indexing platform for portuguese written blogs. It provides content aggregation and ranking functionalities to the portuguese blogosphere. It also provides a largely adopted widget that tracks the recent readers of a blog and a social bookmarking feature.\u003C/p\u003E\n\n\u003Cp\u003EIts evolving into a platform for the social discovering of user generated content focused on the Brazilian market.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0004/0166/40166v1-max-150x150.png"],
+     [[237,
+       81],
+      "assets/images/resized/0004/0166/40166v1-max-250x250.png"],
+     [[237,
+       81],
+      "assets/images/resized/0004/0166/40166v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "BlogBlogs",
+    "permalink": "blogblogs",
+    "image": null},
+   {"name": "BlogBlogs Bookmarks",
+    "permalink": "blogblogs-bookmarks",
+    "image": null},
+   {"name": "BlogBlogs Widgets",
+    "permalink": "blogblogs-widgets",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO / Founder",
+    "person":
+     {"first_name": "Manoel",
+      "last_name": "Lemos",
+      "permalink": "manoel-lemos",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Technorati",
+      "permalink": "technorati",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0001/0740/10740v1-max-150x150.png"],
+          [[250,
+            59],
+           "assets/images/resized/0001/0740/10740v1-max-250x250.png"],
+          [[379,
+            90],
+           "assets/images/resized/0001/0740/10740v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyBlogLog",
+      "permalink": "mybloglog",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/5755/15755v2-max-150x150.png"],
+          [[195,
+            59],
+           "assets/images/resized/0001/5755/15755v2-max-250x250.png"],
+          [[195,
+            59],
+           "assets/images/resized/0001/5755/15755v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[99,
+        150],
+       "assets/images/resized/0002/8127/28127v2-max-150x150.png"],
+      [[165,
+        250],
+       "assets/images/resized/0002/8127/28127v2-max-250x250.png"],
+      [[298,
+        450],
+       "assets/images/resized/0002/8127/28127v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        96],
+       "assets/images/resized/0004/0167/40167v1-max-150x150.png"],
+      [[250,
+        161],
+       "assets/images/resized/0004/0167/40167v1-max-250x250.png"],
+      [[450,
+        290],
+       "assets/images/resized/0004/0167/40167v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/top_web_apps_in_brazil.php",
+    "title": "Top Web Apps in Brazil"}]}

@@ -1,0 +1,127 @@
+{"name": "Ask500People",
+ "permalink": "ask500people",
+ "crunchbase_url": "http://www.crunchbase.com/company/ask500people",
+ "homepage_url": "http://www.ask500people.com/",
+ "blog_url": "http://blog.ask500people.com/",
+ "blog_feed_url": "http://blog.ask500people.com/?feed=rss2",
+ "twitter_username": "ask500people",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "polls, polling, answers",
+ "alias_list": "",
+ "email_address": "aaron@ask500people.com",
+ "phone_number": "808-291-8776",
+ "description": "",
+ "created_at": "Tue Jan 06 22:37:48 UTC 2009",
+ "updated_at": "Tue Mar 19 06:42:35 UTC 2013",
+ "overview": "\u003Cp\u003EAsk500People is a real-time polling service.\u003C/p\u003E\n\n\u003Cp\u003EUsers can submit questions and watch as results arrive from around the world, in real-time.  Users can vote on polls, add comments and decide which polls should receive more exposure with a simple points system.  The best polls are featured on the homepage.\u003C/p\u003E\n\n\u003Cp\u003EMany users have added voluntary demographic information to their accounts, allowing poll results to be viewed by gender, age, income, education and location.  Businesses can pay to receive more votes, faster votes and country-based targeting.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       59],
+      "assets/images/resized/0003/3218/33218v2-max-150x150.png"],
+     [[230,
+       91],
+      "assets/images/resized/0003/3218/33218v2-max-250x250.png"],
+     [[230,
+       91],
+      "assets/images/resized/0003/3218/33218v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Ask500People Business Polls",
+    "permalink": "ask500people-business-polls",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Dragushan",
+      "permalink": "aaron-dragushan",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0015/3297/153297v2-max-150x150.png"],
+          [[177,
+            250],
+           "assets/images/resized/0015/3297/153297v2-max-250x250.png"],
+          [[262,
+            368],
+           "assets/images/resized/0015/3297/153297v2-max-450x450.png"]],
+        "attribution": "\u003Cp\u003E\u003Ca href=\"http://www.fastcustomer.com/about\" title=\"Fast Customer\" rel=\"nofollow\"\u003EFast Customer\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PollDaddy",
+      "permalink": "polldaddy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0000/2914/2914v1-max-150x150.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-250x250.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wis.dm",
+      "permalink": "wis-dm",
+      "image":
+       {"available_sizes":
+         [[[146,
+            57],
+           "assets/images/resized/0003/7845/37845v1-max-150x150.png"],
+          [[146,
+            57],
+           "assets/images/resized/0003/7845/37845v1-max-250x250.png"],
+          [[146,
+            57],
+           "assets/images/resized/0003/7845/37845v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SodaHead",
+      "permalink": "sodahead",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0014/1111/141111v7-max-150x150.png"],
+          [[231,
+            93],
+           "assets/images/resized/0014/1111/141111v7-max-250x250.png"],
+          [[231,
+            93],
+           "assets/images/resized/0014/1111/141111v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/ask500people_polling_the_web_in_real_time.php",
+    "title": "Ask500People: Polling The Web In Real Time"}]}

@@ -1,0 +1,119 @@
+{"name": "Inspirapps",
+ "permalink": "inspirapps",
+ "crunchbase_url": "http://www.crunchbase.com/company/inspirapps",
+ "homepage_url": "http://polltogo.com",
+ "blog_url": "http://blog.polltogo.com",
+ "blog_feed_url": "http://blog.polltogo.com/feed/",
+ "twitter_username": "polltogo",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, poll, feedback, survey, education, interaction, audience",
+ "alias_list": null,
+ "email_address": "hello@polltogo.com",
+ "phone_number": "+1.6473674845",
+ "description": "Makers of polltogo",
+ "created_at": "Sat Sep 03 00:51:56 UTC 2011",
+ "updated_at": "Thu Sep 22 11:50:28 UTC 2011",
+ "overview": "\u003Cp\u003Epolltogo is a platform enabling the reception of feedback from anyone with an internet-connected device or mobile phone.\u003C/p\u003E\n\n\u003Cp\u003Epolltogo enables the creation and sharing of short polls (questions, ratings, comment boxes) to get instant feedback from any group (live audience, customers, students, friends, etc.) using their mobile phone.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0015/2477/152477v2-max-150x150.png"],
+     [[159,
+       51],
+      "assets/images/resized/0015/2477/152477v2-max-250x250.png"],
+     [[159,
+       51],
+      "assets/images/resized/0015/2477/152477v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Tenin",
+      "permalink": "eric-tenin",
+      "image": null}},
+   {"is_past": false,
+    "title": "President \u0026 CTO",
+    "person":
+     {"first_name": "Ralph",
+      "last_name": "Baddour",
+      "permalink": "ralph-baddour",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TalkBin",
+      "permalink": "talkbin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0013/1972/131972v1-max-150x150.jpg"],
+          [[156,
+            43],
+           "assets/images/resized/0013/1972/131972v1-max-250x250.jpg"],
+          [[156,
+            43],
+           "assets/images/resized/0013/1972/131972v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GoPollGo",
+      "permalink": "gopollgo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0011/1325/111325v3-max-150x150.png"],
+          [[250,
+            187],
+           "assets/images/resized/0011/1325/111325v3-max-250x250.png"],
+          [[420,
+            315],
+           "assets/images/resized/0011/1325/111325v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Brauti Thorning Zibarras LLP",
+      "permalink": "brauti-thorning-zibarras-llp",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Toronto",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.e-marketing.fr/Breves/Polltogo-le-sondage-en-temps-reel-40526.htm",
+    "title": "Polltogo, le sondage en temps r\u00c3\u00a9el (eMarketing.fr)"}]}

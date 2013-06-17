@@ -1,0 +1,143 @@
+{"name": "Noteleaf",
+ "permalink": "noteleaf",
+ "crunchbase_url": "http://www.crunchbase.com/company/noteleaf",
+ "homepage_url": "http://noteleaf.com",
+ "blog_url": "http://noteleaf.posterous.com/",
+ "blog_feed_url": "",
+ "twitter_username": "noteleaf",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, calendar, meetings",
+ "alias_list": "",
+ "email_address": "info@noteleaf.com",
+ "phone_number": "",
+ "description": "Be Prepared for Any Meeting",
+ "created_at": "Fri Mar 04 00:07:45 UTC 2011",
+ "updated_at": "Sat Mar 23 22:46:29 UTC 2013",
+ "overview": "\u003Cp\u003ENoteleaf helps you be prepared for any meeting. By integrating with your Google Calendar and recognizing the names of the people you\u0026#8217;re going to be meeting with, Noteleaf is able to push information about who you\u0026#8217;re going to meet, right before you meet them. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0012/4901/124901v2-max-150x150.jpg"],
+     [[250,
+       101],
+      "assets/images/resized/0012/4901/124901v2-max-250x250.jpg"],
+     [[450,
+       183],
+      "assets/images/resized/0012/4901/124901v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Software Developer",
+    "person":
+     {"first_name": "Jake",
+      "last_name": "Klamka",
+      "permalink": "jake-klamka",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Wil",
+      "last_name": "Chung",
+      "permalink": "wil-chung",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "SV Angel",
+         "permalink": "sv-angel",
+         "image":
+          {"available_sizes":
+            [[[150,
+               86],
+              "assets/images/resized/0010/6581/106581v3-max-150x150.png"],
+             [[250,
+               144],
+              "assets/images/resized/0010/6581/106581v3-max-250x250.png"],
+             [[450,
+               259],
+              "assets/images/resized/0010/6581/106581v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Start Fund",
+         "permalink": "start-fund",
+         "image":
+          {"available_sizes":
+            [[[101,
+               65],
+              "assets/images/resized/0020/2925/202925v2-max-150x150.png"],
+             [[101,
+               65],
+              "assets/images/resized/0020/2925/202925v2-max-250x250.png"],
+             [[101,
+               65],
+              "assets/images/resized/0020/2925/202925v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "460 S California Ave",
+    "address2": "#304",
+    "zip_code": "",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.4262518,
+    "longitude": -122.1461182}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

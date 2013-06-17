@@ -1,0 +1,112 @@
+{"name": "ZilloPay",
+ "permalink": "zillopay",
+ "crunchbase_url": "http://www.crunchbase.com/company/zillopay",
+ "homepage_url": "http://www.zillopay.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zillopay",
+ "category_code": "ecommerce",
+ "number_of_employees": 8,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-payments, real-estate, rental-payments, hoa-dues",
+ "alias_list": null,
+ "email_address": "info@zillopay.com",
+ "phone_number": "",
+ "description": "Online Payments",
+ "created_at": "Sat Jun 12 03:02:58 UTC 2010",
+ "updated_at": "Mon Jul 26 18:21:27 UTC 2010",
+ "overview": "\u003Cp\u003EZilloPay is an online payments system that allows online merchants to accept credit card payments.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0009/5012/95012v1-max-150x150.png"],
+     [[216,
+       66],
+      "assets/images/resized/0009/5012/95012v1-max-250x250.png"],
+     [[216,
+       66],
+      "assets/images/resized/0009/5012/95012v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Cruse",
+      "permalink": "jason-cruse",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            74],
+           "assets/images/resized/0001/4598/14598v1-max-150x150.png"],
+          [[207,
+            103],
+           "assets/images/resized/0001/4598/14598v1-max-250x250.png"],
+          [[207,
+            103],
+           "assets/images/resized/0001/4598/14598v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Self",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 12,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "3571 Far West BLVD",
+    "address2": "STE 244",
+    "zip_code": "78731",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        106],
+       "assets/images/resized/0009/0325/90325v2-max-150x150.png"],
+      [[250,
+        178],
+       "assets/images/resized/0009/0325/90325v2-max-250x250.png"],
+      [[450,
+        320],
+       "assets/images/resized/0009/0325/90325v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

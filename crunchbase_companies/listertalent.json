@@ -1,0 +1,121 @@
+{"name": "ListerTalent",
+ "permalink": "listertalent",
+ "crunchbase_url": "http://www.crunchbase.com/company/listertalent",
+ "homepage_url": "http://www.steelrook.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, authentication, secure, identity-verification, two-factor, one-time-password",
+ "alias_list": null,
+ "email_address": "ewan.lister@listertalent.com",
+ "phone_number": "+44(0)1635 820351",
+ "description": null,
+ "created_at": "Tue Aug 05 20:13:40 UTC 2008",
+ "updated_at": "Thu Dec 01 07:53:21 UTC 2011",
+ "overview": "\u003Cp\u003EListerTalent is a UK based company focused on using a blend of mobile and online technology to protect individuals, companies and online assets. \u003C/p\u003E\n\n\u003Cp\u003EIn the online environment there are two basic types of relationships, that between parties that know each other, and that between parties that do not.  \u003C/p\u003E\n\n\u003Cp\u003EBoth of these relationships can be compromised by a third party for the purpose of gaining access to restricted resources, imitating an individual, stealing an identity or illegally acquiring products or services. To combat this difficulty ListerTalent have created SteelRook Guard and SteekRook Trust.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0002/3377/23377v2-max-150x150.jpg"],
+     [[240,
+       68],
+      "assets/images/resized/0002/3377/23377v2-max-250x250.jpg"],
+     [[240,
+       68],
+      "assets/images/resized/0002/3377/23377v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "SteelRook Guard",
+    "permalink": "steelrook-guard",
+    "image": null},
+   {"name": "SteelRook Trust",
+    "permalink": "steelrook-trust",
+    "image": null},
+   {"name": "SteelRook Frame",
+    "permalink": "steelrook-frame",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Co-Founder",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Talent",
+      "permalink": "stephen-talent",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO, Co-Founder",
+    "person":
+     {"first_name": "Ewan",
+      "last_name": "Lister",
+      "permalink": "ewan-lister",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FireID",
+      "permalink": "fireid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/1091/21091v4-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0002/1091/21091v4-max-250x250.jpg"],
+          [[354,
+            354],
+           "assets/images/resized/0002/1091/21091v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "VeriSign Authentication Services",
+      "permalink": "verisign",
+      "image":
+       {"available_sizes":
+         [[[150,
+            17],
+           "assets/images/resized/0002/3928/23928v2-max-150x150.png"],
+          [[250,
+            28],
+           "assets/images/resized/0002/3928/23928v2-max-250x250.png"],
+          [[344,
+            39],
+           "assets/images/resized/0002/3928/23928v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "7 Maplespeen Court",
+    "address2": "Old Bath Road",
+    "zip_code": "RG14 1NL",
+    "city": "Newbury",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.405977,
+    "longitude": -1.329241}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,93 @@
+{"name": "HeatData",
+ "permalink": "heatdata",
+ "crunchbase_url": "http://www.crunchbase.com/company/heatdata",
+ "homepage_url": "http://heatdata.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "heatdata",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, analytics, data, gestures",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Mobile Analytics for Gestures",
+ "created_at": "Mon Sep 10 06:35:22 UTC 2012",
+ "updated_at": "Sat Jan 19 23:56:28 UTC 2013",
+ "overview": "\u003Cp\u003ETrack gestures for your mobile website and make better product decisions that drive higher engagement and more revenue\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[110,
+       150],
+      "assets/images/resized/0021/0598/210598v1-max-150x150.jpg"],
+     [[184,
+       250],
+      "assets/images/resized/0021/0598/210598v1-max-250x250.jpg"],
+     [[331,
+       450],
+      "assets/images/resized/0021/0598/210598v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Shah",
+      "permalink": "jason-shah-2",
+      "image":
+       {"available_sizes":
+         [[[134,
+            150],
+           "assets/images/resized/0015/8357/158357v1-max-150x150.png"],
+          [[224,
+            250],
+           "assets/images/resized/0015/8357/158357v1-max-250x250.png"],
+          [[354,
+            394],
+           "assets/images/resized/0015/8357/158357v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cdiv style='text-align:center'\u003E\r\n\r\n\u003Cobject width='400' height='345' id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'\u003E\r\n\r\n\u003Cparam name='allowfullscreen' value='true'/\u003E\r\n\r\n\u003Cparam name='allowScriptAccess' value='always'/\u003E\r\n\r\n\u003Cparam name='movie' value='http://embed.5min.com/517473955/'/\u003E\r\n\r\n\u003Cparam name='wmode' value='opaque' /\u003E\r\n\r\n\u003Cembed name='FiveminPlayer' src='http://embed.5min.com/517473955/' type='application/x-shockwave-flash' width='560' height='345' allowfullscreen='true' allowScriptAccess='always' wmode='opaque'\u003E\r\n\r\n\u003C/embed\u003E\r\n\r\n\u003C/object\u003E\r\n\r\n\u003Cbr/\u003E\r\n\r\n\u003C/div\u003E",
+    "description": "\u003Cp\u003ETechCrunch Interview\u003C/p\u003E"},
+   {"embed_code": "\u003Cdiv style='text-align:center'\u003E\r\n\r\n\u003Cobject width='400' height='345' id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'\u003E\r\n\r\n\u003Cparam name='allowfullscreen' value='true'/\u003E\r\n\r\n\u003Cparam name='allowScriptAccess' value='always'/\u003E\r\n\r\n\u003Cparam name='movie' value='http://embed.5min.com/517473909/'/\u003E\r\n\r\n\u003Cparam name='wmode' value='opaque' /\u003E\r\n\r\n\u003Cembed name='FiveminPlayer' src='http://embed.5min.com/517473909/' type='application/x-shockwave-flash' width='560' height='345' allowfullscreen='true' allowScriptAccess='always' wmode='opaque'\u003E\r\n\r\n\u003C/embed\u003E\r\n\r\n\u003C/object\u003E\r\n\r\n\u003Cbr/\u003E\r\n\r\n\u003C/div\u003E",
+    "description": "\u003Cp\u003ETechCrunch Disrupt Pitch\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        136],
+       "assets/images/resized/0023/0590/230590v1-max-150x150.png"],
+      [[250,
+        227],
+       "assets/images/resized/0023/0590/230590v1-max-250x250.png"],
+      [[385,
+        350],
+       "assets/images/resized/0023/0590/230590v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

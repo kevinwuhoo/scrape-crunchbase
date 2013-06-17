@@ -1,0 +1,152 @@
+{"name": "TelAPI",
+ "permalink": "telapi",
+ "crunchbase_url": "http://www.crunchbase.com/company/telapi",
+ "homepage_url": "http://www.TelAPI.com",
+ "blog_url": "http://www.TelAPI.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "telapi",
+ "category_code": "public_relations",
+ "number_of_employees": 6,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "telephony, api, sms, calls, cloud",
+ "alias_list": null,
+ "email_address": "help@telapi.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Aug 22 15:49:38 UTC 2012",
+ "updated_at": "Wed Feb 20 07:06:25 UTC 2013",
+ "overview": "\u003Cp\u003ETelAPI offers developers a cloud based telephony platform with advanced telecom features and customizations not available in other cloud communications APIs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0020/7477/207477v2-max-150x150.png"],
+     [[250,
+       123],
+      "assets/images/resized/0020/7477/207477v2-max-250x250.png"],
+     [[433,
+       214],
+      "assets/images/resized/0020/7477/207477v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Eli",
+      "last_name": "Finkelman",
+      "permalink": "eli-finkelman-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Web Application Developer",
+    "person":
+     {"first_name": "Nevio",
+      "last_name": "Vesic",
+      "permalink": "nevio-vesic",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Nate",
+      "last_name": "Kapitanski",
+      "permalink": "nate-kapitanski",
+      "image": null}},
+   {"is_past": true,
+    "title": "Developer Evangelist",
+    "person":
+     {"first_name": "Doug",
+      "last_name": "Crescenzi",
+      "permalink": "doug-crescenzi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twilio",
+      "permalink": "twilio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/9070/29070v6-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0002/9070/29070v6-max-250x250.png"],
+          [[450,
+            150],
+           "assets/images/resized/0002/9070/29070v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Plivo",
+      "permalink": "plivo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0019/6539/196539v2-max-150x150.png"],
+          [[250,
+            81],
+           "assets/images/resized/0019/6539/196539v2-max-250x250.png"],
+          [[253,
+            82],
+           "assets/images/resized/0019/6539/196539v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tropo",
+      "permalink": "tropo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0009/2657/92657v5-max-150x150.png"],
+          [[180,
+            180],
+           "assets/images/resized/0009/2657/92657v5-max-250x250.png"],
+          [[180,
+            180],
+           "assets/images/resized/0009/2657/92657v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "NJ Headquarters",
+    "address1": "1433 Hooper Ave",
+    "address2": "",
+    "zip_code": "08753",
+    "city": "Toms River",
+    "state_code": "NJ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        104],
+       "assets/images/resized/0020/7476/207476v2-max-150x150.png"],
+      [[250,
+        173],
+       "assets/images/resized/0020/7476/207476v2-max-250x250.png"],
+      [[450,
+        313],
+       "assets/images/resized/0020/7476/207476v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

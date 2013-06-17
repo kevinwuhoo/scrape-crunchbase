@@ -1,0 +1,107 @@
+{"name": "Lunacloud",
+ "permalink": "lunacloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/lunacloud",
+ "homepage_url": "http://www.lunacloud.com",
+ "blog_url": "http://blog.lunacloud.com/",
+ "blog_feed_url": "http://blog.lunacloud.com/feed/",
+ "twitter_username": "lunacloud_cloud",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-computing, cloud-hosting, cloud-storage, virtual-servers, cloud-servers",
+ "alias_list": null,
+ "email_address": "sales@lunacloud.com",
+ "phone_number": "",
+ "description": "Cloud Servers and Cloud Hosting",
+ "created_at": "Wed Aug 01 20:57:32 UTC 2012",
+ "updated_at": "Sat Aug 04 14:19:27 UTC 2012",
+ "overview": "\u003Cp\u003ELunacloud is an European pure-play cloud services provider. focused on delivering reliable, elastic and low cost cloud infrastructure services (IaaS), on which users can run their operating systems and applications or store their data.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       19],
+      "assets/images/resized/0020/3968/203968v2-max-150x150.png"],
+     [[250,
+       32],
+      "assets/images/resized/0020/3968/203968v2-max-250x250.png"],
+     [[271,
+       35],
+      "assets/images/resized/0020/3968/203968v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ant\u00f3nio",
+      "last_name": "Ferreira",
+      "permalink": "antnio-ferreira",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rackspace Cloud",
+      "permalink": "rackspace-cloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0006/4752/64752v2-max-150x150.png"],
+          [[250,
+            45],
+           "assets/images/resized/0006/4752/64752v2-max-250x250.png"],
+          [[450,
+            81],
+           "assets/images/resized/0006/4752/64752v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon-web-services",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0011/3626/113626v1-max-150x150.png"],
+          [[164,
+            60],
+           "assets/images/resized/0011/3626/113626v1-max-250x250.png"],
+          [[164,
+            60],
+           "assets/images/resized/0011/3626/113626v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "UK Office",
+    "address1": " 21, Southampton Row",
+    "address2": "",
+    "zip_code": "WC1B 5HA",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techweekeurope.co.uk/comment/how-big-is-a-piece-of-cloud-86618",
+    "title": ""}]}

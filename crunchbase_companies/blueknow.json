@@ -1,0 +1,181 @@
+{"name": "Blueknow",
+ "permalink": "blueknow",
+ "crunchbase_url": "http://www.crunchbase.com/company/blueknow",
+ "homepage_url": "http://www.blueknow.com/",
+ "blog_url": "http://www.blueknow.com/blog.php",
+ "blog_feed_url": "",
+ "twitter_username": "blueknow",
+ "category_code": "ecommerce",
+ "number_of_employees": 17,
+ "founded_year": 2009,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "contact@blueknow.com",
+ "phone_number": "+34 93 592 99 05",
+ "description": "Personalized buying experience",
+ "created_at": "Thu Apr 26 10:40:00 UTC 2012",
+ "updated_at": "Mon May 14 01:23:00 UTC 2012",
+ "overview": "\u003Cp\u003EBlueknow is specialized in recommendations systems wrapped in effective and simple services for online business. \nOur goal is to help business to increase their sales up to 30%. Our technology is based on analyzing online users behavior to offer the most relevant products and/or services for the users of digital channels (websites, emails and mobile devices). Blueknow differentiates from other solutions for its simplicity and effectiveness.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0018/6147/186147v2-max-150x150.png"],
+     [[250,
+       38],
+      "assets/images/resized/0018/6147/186147v2-max-250x250.png"],
+     [[450,
+       69],
+      "assets/images/resized/0018/6147/186147v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CIO \u0026 co-founder",
+    "person":
+     {"first_name": "Santiago",
+      "last_name": "Ameller",
+      "permalink": "santiago-ameller",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO \u0026 co-founder",
+    "person":
+     {"first_name": "Lino",
+      "last_name": "Bort",
+      "permalink": "lino-bort",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO \u0026 co-founder",
+    "person":
+     {"first_name": "Francesc",
+      "last_name": "Magdaleno",
+      "permalink": "francesc-magdaleno",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Diego",
+      "last_name": "Mosquera",
+      "permalink": "diego-mosquera",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Strands Labs",
+      "permalink": "strands",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0000/4489/4489v2-max-150x150.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-250x250.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Barilliance",
+      "permalink": "barilliance",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0004/3885/43885v8-max-150x150.png"],
+          [[150,
+            30],
+           "assets/images/resized/0004/3885/43885v8-max-250x250.png"],
+          [[150,
+            30],
+           "assets/images/resized/0004/3885/43885v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Certona",
+      "permalink": "certona",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0005/3801/53801v5-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0005/3801/53801v5-max-250x250.png"],
+          [[450,
+            119],
+           "assets/images/resized/0005/3801/53801v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyBuys",
+      "permalink": "mybuys",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0002/1146/21146v1-max-150x150.png"],
+          [[217,
+            41],
+           "assets/images/resized/0002/1146/21146v1-max-250x250.png"],
+          [[217,
+            41],
+           "assets/images/resized/0002/1146/21146v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ChoiceStream",
+      "permalink": "choicestream",
+      "image":
+       {"available_sizes":
+         [[[150,
+            20],
+           "assets/images/resized/0001/2181/12181v3-max-150x150.jpg"],
+          [[250,
+            34],
+           "assets/images/resized/0001/2181/12181v3-max-250x250.jpg"],
+          [[250,
+            34],
+           "assets/images/resized/0001/2181/12181v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac115k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://loogic.com/blueknow-recibe-450-000-euros-de-financiacion/",
+    "source_description": "Blueknow recibe 450.000 euros de financiaci\u00f3n",
+    "raised_amount": 115000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Edifici Eureka, Campus UAB ",
+    "address2": "",
+    "zip_code": "08193",
+    "city": "Bellaterra, Barcelona",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

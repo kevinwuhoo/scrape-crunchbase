@@ -1,0 +1,193 @@
+{"name": "Amectronix",
+ "permalink": "amectronix",
+ "crunchbase_url": "http://www.crunchbase.com/company/amectronix",
+ "homepage_url": "http://www.amectronix.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Amectronix",
+ "category_code": "education",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "lms, university, learning, management, system, interface, hologram, holographic",
+ "alias_list": null,
+ "email_address": "artur@amectronix.com",
+ "phone_number": "+61433011455",
+ "description": "Developing holographic LMS",
+ "created_at": "Sun Dec 16 21:06:41 UTC 2012",
+ "updated_at": "Sun Feb 17 03:19:14 UTC 2013",
+ "overview": "\u003Cp\u003EAmectronix is a start-up working on a Learning Management System with holographic interface. \u003C/p\u003E\n\n\u003Cp\u003EWe\u0026#8217;re a small Melbourne-based start-up working on what we\u0026#8217;re most excited about. We\u0026#8217;re students who want to make our peer\u0026#8217;s lives easier by gradually improving a very outdated format of interaction with universities\u0026#8217; LMS. The system has an easy-to-use social component that would ease interactions among participating members. Our aim is to develop a very functional system with smooth interface and workflow which would enable users to interact through both classical \u0026#8220;flat screens\u0026#8221; and new holographic screens. \u003C/p\u003E\n\n\u003Cp\u003EOur priorities are to make the system fast, user-friendly and functional.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0022/5671/225671v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0022/5671/225671v2-max-250x250.png"],
+     [[256,
+       256],
+      "assets/images/resized/0022/5671/225671v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Leader",
+    "person":
+     {"first_name": "Artur",
+      "last_name": "Daylidonis",
+      "permalink": "artur-daylidonis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Blackboard",
+      "permalink": "blackboard",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-150x150.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-250x250.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Moodle",
+      "permalink": "moodle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0005/9162/59162v1-max-150x150.png"],
+          [[200,
+            46],
+           "assets/images/resized/0005/9162/59162v1-max-250x250.png"],
+          [[200,
+            46],
+           "assets/images/resized/0005/9162/59162v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Desire2Learn",
+      "permalink": "desire2learn",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0011/1918/111918v3-max-150x150.png"],
+          [[250,
+            52],
+           "assets/images/resized/0011/1918/111918v3-max-250x250.png"],
+          [[250,
+            52],
+           "assets/images/resized/0011/1918/111918v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sakai",
+      "permalink": "sakai",
+      "image": null}},
+   {"competitor":
+     {"name": "ATutor",
+      "permalink": "atutor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0015/1440/151440v1-max-150x150.jpg"],
+          [[151,
+            59],
+           "assets/images/resized/0015/1440/151440v1-max-250x250.jpg"],
+          [[151,
+            59],
+           "assets/images/resized/0015/1440/151440v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Moodlerooms",
+      "permalink": "moodlerooms",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0007/6675/76675v1-max-150x150.png"],
+          [[208,
+            68],
+           "assets/images/resized/0007/6675/76675v1-max-250x250.png"],
+          [[208,
+            68],
+           "assets/images/resized/0007/6675/76675v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RemoteLearner",
+      "permalink": "remotelearner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0009/7920/97920v1-max-150x150.jpg"],
+          [[250,
+            44],
+           "assets/images/resized/0009/7920/97920v1-max-250x250.jpg"],
+          [[270,
+            48],
+           "assets/images/resized/0009/7920/97920v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Phillips Ormonde Fitzpatrick",
+      "permalink": "phillips-ormonde-fitzpatrick",
+      "image": null}},
+   {"title": "Computing powers and hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Microsoft Azure",
+      "permalink": "microsoft-azure",
+      "image": null}},
+   {"title": "Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "iPage",
+      "permalink": "ipage",
+      "image": null}},
+   {"title": "Representation in Russia and CIS region",
+    "is_past": false,
+    "provider":
+     {"name": "Pakhomov Game Publishing",
+      "permalink": "pakhomov-game-publishing",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "A228, 10 Springthorpe Blvd",
+    "address2": "",
+    "zip_code": "3085",
+    "city": "Melbourne",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

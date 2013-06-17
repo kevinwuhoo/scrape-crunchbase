@@ -1,0 +1,180 @@
+{"name": "Friendzbook",
+ "permalink": "friendzbook",
+ "crunchbase_url": "http://www.crunchbase.com/company/friendzbook",
+ "homepage_url": "http://www.friendzbook1.com",
+ "blog_url": "http://www.friendzbook1.com",
+ "blog_feed_url": "http://www.friendzbook1.com",
+ "twitter_username": null,
+ "category_code": "hardware",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "friends, chat, profile, webpage, shopping, fashion, dating, music, sports",
+ "alias_list": null,
+ "email_address": "admin-friendzbook@comcast.net",
+ "phone_number": "801-390-2755 x1",
+ "description": null,
+ "created_at": "Mon Dec 01 06:26:30 UTC 2008",
+ "updated_at": "Sat Dec 06 14:42:30 UTC 2008",
+ "overview": "\u003Cp\u003EFriendzbook is a Company that was started in September of 2007 and is based out of Salt Lake City , Utah. It was founded by Adrienne Gale a stay-at-home mother of three.  Their has been lots of buzz regarding this site.   They believe a social network doesn\u0026#8217;t have to be only about meeting new friends, it can also be about information. They are currently looking for financial backing, but as of right now are doing pretty well.  Friendzbook is the part of the site that has great information on clothes, cars, music, shopping, sports, health and much more. \u0026#8220;The Zone\u0026#8221; is actually the social networking part where you can create your own profile, webpag, write blogs, add music , videos and of course meet some great people. They have started a line of cool Friendzbook t-shirts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0003/0371/30371v2-max-150x150.jpg"],
+     [[240,
+       240],
+      "assets/images/resized/0003/0371/30371v2-max-250x250.jpg"],
+     [[240,
+       240],
+      "assets/images/resized/0003/0371/30371v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Friendzbook",
+    "permalink": "friendzbook-fashion",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Adrienne",
+      "last_name": "Gale",
+      "permalink": "adrienne-gale",
+      "image": null}},
+   {"is_past": false,
+    "title": "Senior Executive",
+    "person":
+     {"first_name": "Brenton",
+      "last_name": "Gale",
+      "permalink": "brenton-gale",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MySpace",
+      "permalink": "myspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0000/4414/4414v80-max-150x150.jpg"],
+          [[250,
+            52],
+           "assets/images/resized/0000/4414/4414v80-max-250x250.jpg"],
+          [[450,
+            94],
+           "assets/images/resized/0000/4414/4414v80-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MeetMe, Inc.",
+      "permalink": "myyearbook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0011/2119/112119v23-max-150x150.png"],
+          [[187,
+            31],
+           "assets/images/resized/0011/2119/112119v23-max-250x250.png"],
+          [[187,
+            31],
+           "assets/images/resized/0011/2119/112119v23-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bebo",
+      "permalink": "bebo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/3070/3070v1-max-150x150.png"],
+          [[200,
+            74],
+           "assets/images/resized/0000/3070/3070v1-max-250x250.png"],
+          [[200,
+            74],
+           "assets/images/resized/0000/3070/3070v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BUZZ MEDIA",
+      "permalink": "buzz-media-2",
+      "image":
+       {"available_sizes":
+         [[[120,
+            120],
+           "assets/images/resized/0000/1777/1777v11-max-150x150.jpg"],
+          [[120,
+            120],
+           "assets/images/resized/0000/1777/1777v11-max-250x250.jpg"],
+          [[120,
+            120],
+           "assets/images/resized/0000/1777/1777v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PerfSpot",
+      "permalink": "perfspot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0004/7446/47446v1-max-150x150.png"],
+          [[250,
+            33],
+           "assets/images/resized/0004/7446/47446v1-max-250x250.png"],
+          [[424,
+            56],
+           "assets/images/resized/0004/7446/47446v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Blackplanet",
+      "permalink": "blackplanet",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Utah Headquarters",
+    "address1": "3398 Brookshire Drive",
+    "address2": "",
+    "zip_code": "84075",
+    "city": "Syracuse",
+    "state_code": "UT",
+    "country_code": "USA",
+    "latitude": 41.0938671,
+    "longitude": -112.0924765}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.the-zone.ning.com",
+    "title": "The Zone"}]}

@@ -1,0 +1,165 @@
+{"name": "Direct2Silicon",
+ "permalink": "direct2silicon",
+ "crunchbase_url": "http://www.crunchbase.com/company/direct2silicon",
+ "homepage_url": "http://www.direct2silicon.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "semiconductor",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "System-on-Chip integrated circuits",
+ "created_at": "Thu Mar 12 15:43:25 UTC 2009",
+ "updated_at": "Thu Apr 02 17:37:51 UTC 2009",
+ "overview": "\u003Cp\u003ED2S | Direct2silicon is an emerging, venture-backed company providing software and IP that enables direct write e-beam lithography for production of System-on-Chip integrated circuits (SoCs). Reductions both in design time and manufacturing turnaround time are achieved when neither optical lithography nor masks are needed to make integrated circuits. For modest production runs of 100,000 chips or less, direct write techniques are more cost effective by eliminating mask costs. This puts SoCs at advanced technology nodes back into the reach of many new business opportunities. We call this design for e-beam (DFEB).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[102,
+       69],
+      "assets/images/resized/0003/7833/37833v1-max-150x150.png"],
+     [[102,
+       69],
+      "assets/images/resized/0003/7833/37833v1-max-250x250.png"],
+     [[102,
+       69],
+      "assets/images/resized/0003/7833/37833v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$16.2M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://venturebeat.com/2009/03/11/system-on-a-chip-software-co-direct2silicon-takes-72m/",
+    "source_description": "System-on-a-chip software co. Direct2Silicon takes $7.2M",
+    "raised_amount": 7190000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 3,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Benchmark",
+         "permalink": "benchmark-1",
+         "image":
+          {"available_sizes":
+            [[[150,
+               34],
+              "assets/images/resized/0001/0941/10941v6-max-150x150.png"],
+             [[250,
+               58],
+              "assets/images/resized/0001/0941/10941v6-max-250x250.png"],
+             [[258,
+               60],
+              "assets/images/resized/0001/0941/10941v6-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "Cadence Design Systems",
+         "permalink": "cadence-design-systems",
+         "image":
+          {"available_sizes":
+            [[[150,
+               48],
+              "assets/images/resized/0003/5404/35404v1-max-150x150.png"],
+             [[171,
+               55],
+              "assets/images/resized/0003/5404/35404v1-max-250x250.png"],
+             [[171,
+               55],
+              "assets/images/resized/0003/5404/35404v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null},
+      {"company":
+        {"name": "Advantest",
+         "permalink": "advantest",
+         "image":
+          {"available_sizes":
+            [[[150,
+               44],
+              "assets/images/resized/0010/7051/107051v1-max-150x150.png"],
+             [[166,
+               49],
+              "assets/images/resized/0010/7051/107051v1-max-250x250.png"],
+             [[166,
+               49],
+              "assets/images/resized/0010/7051/107051v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]},
+   {"round_code": "b",
+    "source_url": "http://venturebeat.com/2009/04/02/direct2silicon-nabs-9m-to-lower-cost-of-chip-production/",
+    "source_description": "Direct2Silicon nabs $9M to lower cost of chip production",
+    "raised_amount": 9000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 4,
+    "funded_day": 2,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Benchmark",
+         "permalink": "benchmark-1",
+         "image":
+          {"available_sizes":
+            [[[150,
+               34],
+              "assets/images/resized/0001/0941/10941v6-max-150x150.png"],
+             [[250,
+               58],
+              "assets/images/resized/0001/0941/10941v6-max-250x250.png"],
+             [[258,
+               60],
+              "assets/images/resized/0001/0941/10941v6-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "DAG Ventures",
+         "permalink": "dag-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               72],
+              "assets/images/resized/0001/3850/13850v2-max-150x150.jpg"],
+             [[220,
+               106],
+              "assets/images/resized/0001/3850/13850v2-max-250x250.jpg"],
+             [[220,
+               106],
+              "assets/images/resized/0001/3850/13850v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

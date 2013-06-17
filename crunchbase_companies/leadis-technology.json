@@ -1,0 +1,95 @@
+{"name": "Leadis Technology",
+ "permalink": "leadis-technology",
+ "crunchbase_url": "http://www.crunchbase.com/company/leadis-technology",
+ "homepage_url": "http://www.leadis.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "hardware",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "(1) 408 331-8600",
+ "description": null,
+ "created_at": "Fri Jan 02 19:31:54 UTC 2009",
+ "updated_at": "Sat Jan 03 14:53:02 UTC 2009",
+ "overview": "\u003Cp\u003ELeadis Technology is a fabless semiconductor company based in Sunnyvale, California, with operations in China, Hong Kong, Japan, South Korea and Taiwan.\u003C/p\u003E\n\n\u003Cp\u003ELeadis designs, develops and markets analog and mixed-signal semiconductors that enable and enhance the features and capabilities of mobile and consumer electronics devices. Our first core product area was color display drivers with integrated controllers. These are integral components that translate digital display data into analog voltages that drive the liquid crystal or OLED array of displays used in mobile consumer electronics devices. The performance characteristics of a display driver are critical to the visual quality and appeal of the images and text generated on the display as well as the power efficiency of the mobile device.\u003C/p\u003E\n\n\u003Cp\u003EStarting in 2007, we began offering LED driver and audio solutions including a CODEC with headphone amplifier and FM transmitter. Leadis\u00e2\u20ac\u2122 LED driver ICs drive a precisely controlled current through the light emitting diodes of mobile backlighting units found in small panel color LCD displays. Our LED drivers feature flexible current configurability through a 1-wire or I2C interface and best-in-class efficiency, resulting in longer battery life for portable devices. When coupled with Leadis\u00e2\u20ac\u2122 PowerLite\u00e2\u201e\u00a2 line of LCD display drivers, our LED driver solutions can help customers achieve power savings up to 50% compared with standard architectures.\u003C/p\u003E\n\n\u003Cp\u003ELeadis\u00e2\u20ac\u2122 audio solutions also feature significant differentiating advantages for our customers. Our CODEC with integrated headphone amplifier delivers excellent audio performance at one-third the power dissipation compared to competitive offerings. It also incorporates a high efficiency \u00e2\u20ac\u0153capless\u00e2\u20ac\u009d mode that eliminates the large DC blocking capacitors commonly used by other amplifiers, resulting in a smaller solution footprint and lower BOM cost. Our FM transmitter product similarly reduces parts count and BOM costs, while delivering broadcast quality FM signals suitable for worldwide FM band operation in regions including the U.S., Europe, and Japan.\u003C/p\u003E\n\n\u003Cp\u003EThe current focus for our products includes the wireless handset market and MP3/4 markets, where high performance display drivers, LED drivers, and CODECs allow handset and consumer electronics manufacturers to provide differentiating low power display and audio features to attract wireless service providers and consumers. Indeed, our products offer an attractive value proposition for any mobile consumer electronics device where best-in-class power consumption can enable end-product differentiation via longer battery life and, ultimately, a more pleasing consumer experience.\u003C/p\u003E\n\n\u003Cp\u003ELeadis products are sold directly to display module manufacturers, wireless handset manufacturers, and mobile consumer electronics manufacturers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0003/2902/32902v1-max-150x150.jpg"],
+     [[184,
+       63],
+      "assets/images/resized/0003/2902/32902v1-max-250x250.jpg"],
+     [[184,
+       63],
+      "assets/images/resized/0003/2902/32902v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President and Chief Executive Officer",
+    "person":
+     {"first_name": "Tony",
+      "last_name": "Alvarez",
+      "permalink": "tony-alvarez",
+      "image": null}},
+   {"is_past": false,
+    "title": "Board of Directors",
+    "person":
+     {"first_name": "Alden",
+      "last_name": "Chauvin",
+      "permalink": "alden-chauvin",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": null,
+    "source_url": "http://venturebeat.com/2007/03/02/leadis-panel-display-chip-company-buys-music-player-co-mondowave/",
+    "source_description": "Leadis, panel display chip company, buys music player co., Mondowave",
+    "acquired_year": 2007,
+    "acquired_month": 3,
+    "acquired_day": 2,
+    "company":
+     {"name": "Mondowave",
+      "permalink": "mondowave",
+      "image": null}}],
+ "offices":
+  [{"description": "US - Headquarters",
+    "address1": "00 W.California Ave., Suite 200",
+    "address2": "",
+    "zip_code": "94086-4834",
+    "city": "Sunnyvale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3814679,
+    "longitude": -122.0297408}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

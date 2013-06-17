@@ -1,0 +1,123 @@
+{"name": "6connect",
+ "permalink": "6connect",
+ "crunchbase_url": "http://www.crunchbase.com/company/6connect",
+ "homepage_url": "http://www.6connect.com/",
+ "blog_url": "http://6connect.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "6connect",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "(650) 646-2206",
+ "description": "",
+ "created_at": "Wed Aug 24 02:55:11 UTC 2011",
+ "updated_at": "Thu Jun 06 09:27:04 UTC 2013",
+ "overview": "\u003Cp\u003E6connect is the leader in software defined network control. ProVision, 6connect\u0026#8217;s unique Dynamic Network ProVisioning (DNP) platform enables the discovery, configuration, and control of physical and virtual devices across distributed and mobile networks, cloud platforms, web-hosting platforms and data centers. \u003C/p\u003E\n\n\u003Cp\u003EInnovative customers like GoDaddy, DukeNet, Amazon, EMC, Aruba Networks, iLand Cloud Infrastructure, and CyrusOne utilize DNP to accelerate service delivery time, accurately provision complex network protocols, and dramatically reduce network complexity and costs, while achieving industry change management and compliance requirements.   \u003C/p\u003E\n\n\u003Cp\u003E6connect ProVision dynamically and holistically provisions SDN and physical network control factors needed to initiate and operate network and data center elements, including IP addresses, DNS zones, DNSSEC signatures, DHCP pools, VLAN and device level information.   Available as either a highly scalable cloud or on-premise solution, ProVision automatically controls these factors across distributed and separate physical networks in order to reduce errors that can crash networks, cause compliance errors, and delay the creation of new services. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0015/0801/150801v1-max-150x150.png"],
+     [[187,
+       47],
+      "assets/images/resized/0015/0801/150801v1-max-250x250.png"],
+     [[187,
+       47],
+      "assets/images/resized/0015/0801/150801v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Bien",
+      "permalink": "bill-bien",
+      "image": null}},
+   {"is_past": false,
+    "title": "President \u0026 CTO",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Hughes",
+      "permalink": "aaron-hughes",
+      "image": null}},
+   {"is_past": false,
+    "title": "CIO",
+    "person":
+     {"first_name": "Pete",
+      "last_name": "Sclafani",
+      "permalink": "pete-sclafani-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Donaldson",
+      "permalink": "richard-donaldson-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.finsmes.com/2011/08/6connect-raises-2m-series-financing.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "6connect Raises $2M in Series A Financing",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 8,
+    "funded_day": 23,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Hummer Winblad Venture Partners",
+         "permalink": "hummer-winblad-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               25],
+              "assets/images/resized/0001/5705/15705v1-max-150x150.jpg"],
+             [[222,
+               38],
+              "assets/images/resized/0001/5705/15705v1-max-250x250.jpg"],
+             [[222,
+               38],
+              "assets/images/resized/0001/5705/15705v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "548 Market St",
+    "address2": "Suite 39313",
+    "zip_code": "94104",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7899027,
+    "longitude": -122.4007846}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

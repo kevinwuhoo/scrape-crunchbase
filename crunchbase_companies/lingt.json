@@ -1,0 +1,132 @@
+{"name": "Lingt",
+ "permalink": "lingt",
+ "crunchbase_url": "http://www.crunchbase.com/company/lingt",
+ "homepage_url": "http://www.lingt.com",
+ "blog_url": "http://blog.lingt.com/",
+ "blog_feed_url": "http://blog.lingt.com/rss.xml",
+ "twitter_username": "lingt",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@lingt.com",
+ "phone_number": "",
+ "description": "Language Learning Software",
+ "created_at": "Sun Dec 20 22:10:58 UTC 2009",
+ "updated_at": "Mon May 27 07:07:25 UTC 2013",
+ "overview": "\u003Cp\u003ELingt is a service for learning languages that takes advantage of gameplay mechanics to keep users coming back for more.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0007/0510/70510v1-max-150x150.png"],
+     [[208,
+       80],
+      "assets/images/resized/0007/0510/70510v1-max-250x250.png"],
+     [[208,
+       80],
+      "assets/images/resized/0007/0510/70510v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Varenhorst",
+      "permalink": "chris-varenhorst",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Cannon",
+      "permalink": "justin-cannon",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2009,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://thenextweb.com/us/2010/12/31/dictionary-com-acquires-language-learning-service-lingt/",
+   "source_description": "Dictionary.com acquires language learning service Lingt",
+   "acquired_year": 2010,
+   "acquired_month": 12,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Dictionary.com",
+     "permalink": "dictionary-com",
+     "image":
+      {"available_sizes":
+        [[[150,
+           39],
+          "assets/images/resized/0005/6403/56403v1-max-150x150.png"],
+         [[250,
+           65],
+          "assets/images/resized/0005/6403/56403v1-max-250x250.png"],
+         [[307,
+           81],
+          "assets/images/resized/0005/6403/56403v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Boston",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": 42.3584308,
+    "longitude": -71.0597732}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

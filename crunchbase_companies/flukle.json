@@ -1,0 +1,131 @@
+{"name": "Flukle",
+ "permalink": "flukle",
+ "crunchbase_url": "http://www.crunchbase.com/company/flukle",
+ "homepage_url": "http://flukle.com",
+ "blog_url": "http://flukle.com/blog",
+ "blog_feed_url": "http://flukle.com/blog/feed",
+ "twitter_username": "flukle",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "photo, photography, photo-sharing",
+ "alias_list": null,
+ "email_address": "hello@flukle.com",
+ "phone_number": "",
+ "description": "Photo sharing social network,",
+ "created_at": "Sun Jan 10 16:04:55 UTC 2010",
+ "updated_at": "Thu May 30 17:31:15 UTC 2013",
+ "overview": "\u003Cp\u003EFlukle is a web application to enable users to update their friends via photos what they\u0026#8217;re doing and where they are. Users can upload photos via the web and mobile phone, because Flukle has an iPhone application ready to launch early 2010 and an android app in development.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       95],
+      "assets/images/resized/0007/3974/73974v2-max-150x150.jpg"],
+     [[198,
+       126],
+      "assets/images/resized/0007/3974/73974v2-max-250x250.jpg"],
+     [[198,
+       126],
+      "assets/images/resized/0007/3974/73974v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Oliver",
+      "last_name": "Dale",
+      "permalink": "oliver-dale",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mobypicture",
+      "permalink": "mobypicture",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0003/8224/38224v5-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0003/8224/38224v5-max-250x250.png"],
+          [[450,
+            153],
+           "assets/images/resized/0003/8224/38224v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitpic",
+      "permalink": "twitpic",
+      "image":
+       {"available_sizes":
+         [[[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-150x150.jpg"],
+          [[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-250x250.jpg"],
+          [[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$10k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 10000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 4,
+    "funded_day": 22,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Oliver",
+         "last_name": "Dale",
+         "permalink": "oliver-dale",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Manchester",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 53.479251,
+    "longitude": -2.247926}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        85],
+       "assets/images/resized/0016/2096/162096v1-max-150x150.png"],
+      [[250,
+        142],
+       "assets/images/resized/0016/2096/162096v1-max-250x250.png"],
+      [[450,
+        256],
+       "assets/images/resized/0016/2096/162096v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

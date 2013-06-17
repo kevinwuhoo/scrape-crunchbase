@@ -1,0 +1,117 @@
+{"name": "MyNews.is",
+ "permalink": "mynews-is-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/mynews-is-2",
+ "homepage_url": "http://www.mynews.is",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "personalized-news, personalized-magazine, aggregator, rss-reader",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Personalized News Discovery",
+ "created_at": "Fri Aug 17 13:34:57 UTC 2012",
+ "updated_at": "Sat Aug 18 01:38:27 UTC 2012",
+ "overview": "",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Puricelli",
+      "permalink": "christian-puricelli-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "Filmon",
+      "last_name": "Ghirmai",
+      "permalink": "filmon-ghirmai",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Flipboard",
+      "permalink": "flipboard",
+      "image":
+       {"available_sizes":
+         [[[119,
+            150],
+           "assets/images/resized/0008/6174/86174v5-max-150x150.png"],
+          [[198,
+            250],
+           "assets/images/resized/0008/6174/86174v5-max-250x250.png"],
+          [[300,
+            377],
+           "assets/images/resized/0008/6174/86174v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zite",
+      "permalink": "zite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0015/2023/152023v2-max-150x150.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0015/2023/152023v2-max-250x250.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0015/2023/152023v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Newscron",
+      "permalink": "newscron",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0024/4650/244650v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0024/4650/244650v2-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0024/4650/244650v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

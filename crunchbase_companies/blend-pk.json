@@ -1,0 +1,120 @@
+{"name": "Blend.PK",
+ "permalink": "blend-pk",
+ "crunchbase_url": "http://www.crunchbase.com/company/blend-pk",
+ "homepage_url": "http://www.blend.pk",
+ "blog_url": "http://blog.blend.pk",
+ "blog_feed_url": "",
+ "twitter_username": "BlendPK",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search-engine-job-pakistan",
+ "alias_list": null,
+ "email_address": "contact@blend.pk",
+ "phone_number": "",
+ "description": "Job search engine",
+ "created_at": "Tue Jun 07 08:12:34 UTC 2011",
+ "updated_at": "Tue Jun 14 03:54:36 UTC 2011",
+ "overview": "\u003Cp\u003EBlend.PK is a job search engine for Pakistan. It indexes and categorizes jobs posted on various Pakistani job portals and allows anyone to intelligently search for these employment opportunities. Currently, Blend.PK has a 90% success rate of classifying a job correctly without any human assistance. Blend.PK supports both Natural Language and Keyword-based Search. Natural language search allows users to query Blend.PK just as they would another human being e.g. \u0026#8220;Jobs for software developers in Lahore\u0026#8221; will return jobs for software developers in Lahore and \u0026#8220;VB.NET jobs in Karachi\u0026#8221; will return jobs for the specific VB.NET skill-set in Karachi. Give Blend.pk a try, you will be surprised by the sophistication of\nthe algorithm and the consequent accuracy of the results. You can also use keywords to search for jobs e.g. \u0026#8220;management Lahore\u0026#8221; will return management jobs in Lahore. Advanced search features (Please see the tips section on the blend.pk website for details) are also available.\u003C/p\u003E\n\n\u003Cp\u003EBlend.PK uses web crawlers to search for the jobs. It uses wrapper induction and pattern recognition for information retrieval. The vast majority of the queries are served through inverted indexes while the rest are served through forward indexes. Huffman Coding is used for data compression. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0013/7994/137994v2-max-150x150.png"],
+     [[250,
+       106],
+      "assets/images/resized/0013/7994/137994v2-max-250x250.png"],
+     [[308,
+       131],
+      "assets/images/resized/0013/7994/137994v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Umair",
+      "last_name": "Waheed Khan",
+      "permalink": "umair-waheed-khan",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Shoaib",
+      "last_name": "M. Khwaja",
+      "permalink": "shoaib-m-khwaja",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Sarfraz",
+      "last_name": "Shoukat",
+      "permalink": "sarfraz-shoukat",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Indeed",
+      "permalink": "indeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/3721/3721v5-max-150x150.png"],
+          [[250,
+            93],
+           "assets/images/resized/0000/3721/3721v5-max-250x250.png"],
+          [[250,
+            93],
+           "assets/images/resized/0000/3721/3721v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jobrapido",
+      "permalink": "jobrapido",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Blend.PK",
+    "address1": "Fazal-ur-Rahman Building, 5 Fane Road,",
+    "address2": "near Lahore High Court",
+    "zip_code": "",
+    "city": "Lahore",
+    "state_code": null,
+    "country_code": "PAK",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        129],
+       "assets/images/resized/0013/7993/137993v2-max-150x150.png"],
+      [[250,
+        216],
+       "assets/images/resized/0013/7993/137993v2-max-250x250.png"],
+      [[450,
+        389],
+       "assets/images/resized/0013/7993/137993v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://greenwhite.org/blog/2011/05/31/signs-of-a-growing-market-blend-pk-a-job-search-engine/#comment-201370",
+    "title": "Signs of a growing market? Blend.pk a job search engine"}]}

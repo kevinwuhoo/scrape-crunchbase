@@ -1,0 +1,190 @@
+{"name": "SuTree",
+ "permalink": "sutree",
+ "crunchbase_url": "http://www.crunchbase.com/company/sutree",
+ "homepage_url": "http://www.sutree.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 5,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sutree, video, instructionalvideos",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon Sep 10 19:28:59 UTC 2007",
+ "updated_at": "Sat Aug 30 18:48:47 UTC 2008",
+ "overview": "\u003Cp\u003ESuTree (a combination of the words \u0026#8220;Sutra\u0026#8221; and \u0026#8220;Tree\u0026#8221;) is a video site that aggregates instructional videos and lets users browse them by category. Users can upload videos from external video sites and tag them for specific categories. The site relies heavily on user-uploaded aggregation rather than using video indexing technology, which gives it a strong community factor. \u003C/p\u003E\n\n\u003Cp\u003EVideos can be browsed by categories like \u0026#8220;arts and crafts\u0026#8221;, \u0026#8220;electronics\u0026#8221;, and \u0026#8220;fashion and personal care.\u0026#8221; They can also be browsed by recently added, most viewed, top rated etc. Each video can be commented and rated by the user community. They can also be shared with friends. \u003C/p\u003E\n\n\u003Cp\u003ESuTree has a search widget for video lessons that can be added to blogs and websites. \u003C/p\u003E\n\n\u003Cp\u003ECompetitors include \u003Ca href=\"http://www.techcrunch.com/tag/scouta\" title=\"Scouta\"\u003EScouta\u003C/a\u003E, \u003Ca href=\"http://crunchbase.com/company/sclipo\" title=\"Sclipo\"\u003ESclipo\u003C/a\u003E and \u003Ca href=\"http://crunchbase.com/company/5min\" title=\"5Min\"\u003E5Min\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       80],
+      "assets/images/resized/0000/0736/736v1-max-150x150.png"],
+     [[157,
+       84],
+      "assets/images/resized/0000/0736/736v1-max-250x250.png"],
+     [[157,
+       84],
+      "assets/images/resized/0000/0736/736v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "SuTree",
+    "permalink": "sutree",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Joseph",
+      "last_name": "Maaravi",
+      "permalink": "joseph-maaravi",
+      "image": null}},
+   {"is_past": null,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Gideon",
+      "last_name": "Zailer",
+      "permalink": "gideon-zailer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Expert Village",
+      "permalink": "expertvillage",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/2533/2533v1-max-150x150.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/2533/2533v1-max-250x250.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/2533/2533v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Instructables",
+      "permalink": "instructables",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0001/1058/11058v2-max-150x150.jpg"],
+          [[250,
+            80],
+           "assets/images/resized/0001/1058/11058v2-max-250x250.jpg"],
+          [[250,
+            80],
+           "assets/images/resized/0001/1058/11058v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "VideoJug",
+      "permalink": "videojug",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/1312/21312v3-max-150x150.jpg"],
+          [[250,
+            71],
+           "assets/images/resized/0002/1312/21312v3-max-250x250.jpg"],
+          [[250,
+            71],
+           "assets/images/resized/0002/1312/21312v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "5min Media",
+      "permalink": "5min",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0000/0433/433v5-max-150x150.png"],
+          [[250,
+            131],
+           "assets/images/resized/0000/0433/433v5-max-250x250.png"],
+          [[450,
+            235],
+           "assets/images/resized/0000/0433/433v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WonderHowTo",
+      "permalink": "wonderhowto",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0000/3385/3385v1-max-150x150.png"],
+          [[200,
+            36],
+           "assets/images/resized/0000/3385/3385v1-max-250x250.png"],
+          [[200,
+            36],
+           "assets/images/resized/0000/3385/3385v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FindHow.com",
+      "permalink": "findhow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0002/0805/20805v1-max-150x150.png"],
+          [[190,
+            85],
+           "assets/images/resized/0002/0805/20805v1-max-250x250.png"],
+          [[190,
+            85],
+           "assets/images/resized/0002/0805/20805v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WatchDoit",
+      "permalink": "watchdoit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0002/0328/20328v2-max-150x150.png"],
+          [[250,
+            81],
+           "assets/images/resized/0002/0328/20328v2-max-250x250.png"],
+          [[287,
+            94],
+           "assets/images/resized/0002/0328/20328v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": 32.0554,
+    "longitude": 34.7595}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

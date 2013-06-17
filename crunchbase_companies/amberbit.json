@@ -1,0 +1,75 @@
+{"name": "AmberBit",
+ "permalink": "amberbit",
+ "crunchbase_url": "http://www.crunchbase.com/company/amberbit",
+ "homepage_url": "http://amberbit.com",
+ "blog_url": "http://amberbit.com/blog",
+ "blog_feed_url": "http://amberbit.com/rss",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ruby, rails, web-development, it, web-applications, applications, development, scrum, agile",
+ "alias_list": null,
+ "email_address": "hubert.lepicki@amberbit.com",
+ "phone_number": "+48 694161264",
+ "description": "Web applications development",
+ "created_at": "Thu Mar 26 14:46:05 UTC 2009",
+ "updated_at": "Wed Sep 22 23:42:17 UTC 2010",
+ "overview": "\u003Cp\u003EAmberBit provides custom web applications development, consulting, training and coaching services.\u003C/p\u003E\n\n\u003Cp\u003ELocated in center of Europe, AmberBit develops applications that range from custom CMS engines and social networking platforms, to business data analysis, e-commerce systems and advertisement platforms.  \u003C/p\u003E\n\n\u003Cp\u003ETechnology based on dynamic scripting languages, like Ruby with Rails framework, Merb, Ramaze, is used as an alternative to heavy-weight solutions that use J2EE to build web applications and web services more quickly and in line with agile project management methodologies.\u003C/p\u003E\n\n\u003Cp\u003EAmberBit builds hybrid web-desktop-mobile applications that allow usage of the web as main content provider without giving up advantages of modern end user hardware capabilities.\u003C/p\u003E\n\n\u003Cp\u003EConsulting and training are two of activities that AmberBit provides as a service. Technology training is based on experiences of the team with Ruby on Rails. AmberBit supports local Bia\u00c5\u201aystok IT community by taking part in meetings, conferences and by providing free basic Ruby on Rails training sessions.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "AmberBit Web Platform",
+    "permalink": "amberbit-web-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Hubert",
+      "last_name": "Lepicki",
+      "permalink": "hubert-lepicki",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Wojciech",
+      "last_name": "Piekutowski",
+      "permalink": "wojciech-piekutowski",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Bialystok AmberBit HQ",
+    "address1": "Hurtowa 4",
+    "address2": "",
+    "zip_code": "15-399",
+    "city": "Bia\u00c5\u201aystok",
+    "state_code": null,
+    "country_code": "POL",
+    "latitude": 53.1371088,
+    "longitude": 23.1540917}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

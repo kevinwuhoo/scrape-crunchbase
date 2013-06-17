@@ -1,0 +1,120 @@
+{"name": "Inslices",
+ "permalink": "inslices",
+ "crunchbase_url": "http://www.crunchbase.com/company/inslices",
+ "homepage_url": "http://www.inslices.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "inslices",
+ "category_code": "games_video",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "clipping, visual-bookmarking, bookmarks, bookmarklet",
+ "alias_list": null,
+ "email_address": "bardy@slicefactory.com",
+ "phone_number": "+33(0)9 79 94 92 70",
+ "description": "",
+ "created_at": "Wed May 12 13:49:25 UTC 2010",
+ "updated_at": "Fri May 21 15:36:32 UTC 2010",
+ "overview": "\u003Cp\u003EThink beyond bookmarks. Inslices helps users to collect, share and organize relevant portions of any web page while surfing through a bookmarklet or Firefox Add-on.\u003C/p\u003E\n\n\u003Cp\u003EInslices is not another bookmarking tool: it lets users extract exactly what matters to them from a sentence or video to the pivotal content of a web page.\u003C/p\u003E\n\n\u003Cp\u003EInslices scans the page and suggests relevant text, images or videos. No ads, unnecessary navigation items, comments, or any other extra stuff, just the content itself.\u003C/p\u003E\n\n\u003Cp\u003EOnce sliced, every selected content will be sent to the dashboard as a visual bookmark, from which users can organize  their discoveries , receive cool stuffs or follow other users slices.\u003C/p\u003E\n\n\u003Cp\u003EInslices\u0026#8217; goal is make the collection and sharing of web content possible in one click.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "St\u00c3\u00a9phane",
+      "last_name": "Viaud-Murat",
+      "permalink": "stphane-viaud-murat",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Stefano",
+      "last_name": "Crosta",
+      "permalink": "stefano-crosta",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "David",
+      "last_name": "Bardy",
+      "permalink": "david-bardy",
+      "image": null}},
+   {"is_past": false,
+    "title": "Python/Django Engineer",
+    "person":
+     {"first_name": "Marie-Laure",
+      "last_name": "Vernay",
+      "permalink": "marie-laure-vernay",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Clipmarks",
+      "permalink": "clipmarks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0000/4129/4129v1-max-150x150.png"],
+          [[171,
+            29],
+           "assets/images/resized/0000/4129/4129v1-max-250x250.png"],
+          [[171,
+            29],
+           "assets/images/resized/0000/4129/4129v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Snipi",
+      "permalink": "snipi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0003/9459/39459v2-max-150x150.jpg"],
+          [[250,
+            100],
+           "assets/images/resized/0003/9459/39459v2-max-250x250.jpg"],
+          [[450,
+            180],
+           "assets/images/resized/0003/9459/39459v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Valbonne",
+    "address1": "Centre International de Communication Avanc\u00c3\u00a9e  ",
+    "address2": "",
+    "zip_code": "06560",
+    "city": "Valbonne Sophia-Antipolis  ",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"400\" height=\"300\"\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=10585181\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=00ADEF\u0026amp;fullscreen=1\" /\u003E\u003Cembed src=\"http://vimeo.com/moogaloop.swf?clip_id=10585181\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=00ADEF\u0026amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"400\" height=\"300\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EIntroducting Inslices\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.killerstartups.com/Web-App-Tools/inslices-com-bookmark-content-instead-of-full-sites",
+    "title": "Inslices.com - Bookmark Content instead of full sites"},
+   {"external_url": "http://www.makeuseof.com/dir/inslices-crop-websites/",
+    "title": "Inslices : crop any website to save relevant content"}]}

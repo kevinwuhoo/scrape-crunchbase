@@ -1,0 +1,123 @@
+{"name": "Savvr",
+ "permalink": "savvr",
+ "crunchbase_url": "http://www.crunchbase.com/company/savvr",
+ "homepage_url": "http://savvr.com",
+ "blog_url": "http://savvr.com",
+ "blog_feed_url": "http://savvr.com/feed/",
+ "twitter_username": "savvr",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "deals, daily-deals",
+ "alias_list": null,
+ "email_address": "info@savvr.com",
+ "phone_number": "816-822-0900",
+ "description": "Daily Deals Intelligence",
+ "created_at": "Tue Mar 20 18:36:14 UTC 2012",
+ "updated_at": "Mon Mar 26 21:50:20 UTC 2012",
+ "overview": "\u003Cp\u003ESavvr tracks the daily deals industry and provides analytics, reporting and real-time tracking. Clients use Savvr to provide market research, competitive intelligence and sales leads.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0018/0237/180237v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0018/0237/180237v2-max-250x250.png"],
+     [[349,
+       349],
+      "assets/images/resized/0018/0237/180237v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Elliott",
+      "permalink": "tim-elliott",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Wolfsie",
+      "permalink": "jonathan-wolfsie",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yipit",
+      "permalink": "yipit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0010/4332/104332v1-max-150x150.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-250x250.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        64],
+       "assets/images/resized/0018/0234/180234v2-max-150x150.png"],
+      [[250,
+        108],
+       "assets/images/resized/0018/0234/180234v2-max-250x250.png"],
+      [[450,
+        194],
+       "assets/images/resized/0018/0234/180234v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0018/0235/180235v2-max-150x150.png"],
+      [[250,
+        187],
+       "assets/images/resized/0018/0235/180235v2-max-250x250.png"],
+      [[450,
+        337],
+       "assets/images/resized/0018/0235/180235v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0018/0236/180236v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0018/0236/180236v2-max-250x250.png"],
+      [[450,
+        252],
+       "assets/images/resized/0018/0236/180236v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "https://analytics.savvr.com/today",
+    "title": "Real-Time Deals"}]}

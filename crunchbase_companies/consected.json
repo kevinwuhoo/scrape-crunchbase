@@ -1,0 +1,139 @@
+{"name": "Consected",
+ "permalink": "consected",
+ "crunchbase_url": "http://www.crunchbase.com/company/consected",
+ "homepage_url": "http://www.consected.com",
+ "blog_url": "http://blog.consected.com",
+ "blog_feed_url": "http://feeds.feedburner.com/improving-nao",
+ "twitter_username": "consected",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bpm, workflow, business-process-improvement, lean, saas, document-management, business-solutions",
+ "alias_list": null,
+ "email_address": "info@consected.com",
+ "phone_number": "(617) 500-8195",
+ "description": "Process improvement solutions",
+ "created_at": "Fri Mar 05 19:19:38 UTC 2010",
+ "updated_at": "Fri Mar 05 20:42:18 UTC 2010",
+ "overview": "\u003Cp\u003EConsected provides process improvement solutions to businesses of all sizes. \u003C/p\u003E\n\n\u003Cp\u003EConsected Online is a SaaS solution that provides a familiar user interface for workers to receive and send work, capture data in electronic forms and collect documents related to the work they are doing. Template workflows, forms, folders and documents help workers do their jobs more easily, more quickly, with less manual administration. The templates can be based on pre-built configurations provided by Consected, or configured rapidly from the ground up to meet the exact needs of your business.\u003C/p\u003E\n\n\u003Cp\u003EUnlike traditional business process management (BPM) products, Consected enables full solutions to be configured and deployed quickly without the need to develop any custom software or run lengthy business re-engineering projects. It does this by delivering ready-to-run functionality needed by all major business processes. \u003C/p\u003E\n\n\u003Cp\u003EFor complex process improvement projects, especially those already using a third-party BPM tool, Consected offers strategy and consulting services through a network of associated consultants. Consected can help identify a strategist with lengthy industry experience of business best practices and process technology, or assemble a team of consultants focused on implementing document management, workflow and business process management software.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[144,
+       36],
+      "assets/images/resized/0007/9212/79212v2-max-150x150.png"],
+     [[144,
+       36],
+      "assets/images/resized/0007/9212/79212v2-max-250x250.png"],
+     [[144,
+       36],
+      "assets/images/resized/0007/9212/79212v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Phil",
+      "last_name": "Ayres",
+      "permalink": "phil-ayres",
+      "image":
+       {"available_sizes":
+         [[[136,
+            150],
+           "assets/images/resized/0007/9221/79221v2-max-150x150.jpg"],
+          [[226,
+            250],
+           "assets/images/resized/0007/9221/79221v2-max-250x250.jpg"],
+          [[408,
+            450],
+           "assets/images/resized/0007/9221/79221v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ProcessMaker",
+      "permalink": "processmaker",
+      "image": null}},
+   {"competitor":
+     {"name": "Appian",
+      "permalink": "appian",
+      "image":
+       {"available_sizes":
+         [[[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-150x150.png"],
+          [[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-250x250.png"],
+          [[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adeptia",
+      "permalink": "adeptia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0003/2700/32700v2-max-150x150.png"],
+          [[250,
+            36],
+           "assets/images/resized/0003/2700/32700v2-max-250x250.png"],
+          [[298,
+            44],
+           "assets/images/resized/0003/2700/32700v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Consulting network",
+    "is_past": false,
+    "provider":
+     {"name": "SoluSoft",
+      "permalink": "solusoft",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        89],
+       "assets/images/resized/0007/9211/79211v2-max-150x150.png"],
+      [[250,
+        149],
+       "assets/images/resized/0007/9211/79211v2-max-250x250.png"],
+      [[426,
+        254],
+       "assets/images/resized/0007/9211/79211v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        89],
+       "assets/images/resized/0007/9220/79220v2-max-150x150.png"],
+      [[250,
+        149],
+       "assets/images/resized/0007/9220/79220v2-max-250x250.png"],
+      [[426,
+        254],
+       "assets/images/resized/0007/9220/79220v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

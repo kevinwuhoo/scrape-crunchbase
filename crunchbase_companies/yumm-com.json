@@ -1,0 +1,124 @@
+{"name": "Yumm.com",
+ "permalink": "yumm-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/yumm-com",
+ "homepage_url": "http://yumm.com",
+ "blog_url": "http://blog.yumm.com",
+ "blog_feed_url": "http://blog.yumm.com/feed/",
+ "twitter_username": "yumm",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recipes, cooking, food, social, bookmarking",
+ "alias_list": null,
+ "email_address": "chris@yumm.com",
+ "phone_number": "",
+ "description": "Social Bookmarking for Recipes",
+ "created_at": "Tue Oct 19 22:09:36 UTC 2010",
+ "updated_at": "Sat Mar 10 04:47:45 UTC 2012",
+ "overview": "\u003Cp\u003EYumm.com is a social bookmarking service for recipes, enabling users to store and share recipes from across the web in one location.\u003C/p\u003E\n\n\u003Cp\u003EUsers can simply click the Yumm Bookmarklet to save recipes while browsing the web normally. These recipes are added to the user\u0026#8217;s recipe box and added to the Yumm social graph.\u003C/p\u003E\n\n\u003Cp\u003EThe Yumm.com homepage is a great place to discover new recipes, as recipes are sorted by users activity and a time frame, for example the most saved recipes this week. Users can also share recipes via their facebook or twitter accounts, and group recipes into lists that can also be shared.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0011/0425/110425v2-max-150x150.jpg"],
+     [[250,
+       40],
+      "assets/images/resized/0011/0425/110425v2-max-250x250.jpg"],
+     [[281,
+       46],
+      "assets/images/resized/0011/0425/110425v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "founder",
+    "person":
+     {"first_name": "Christopher",
+      "last_name": "Hedgecock",
+      "permalink": "christopher-hedgecock",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/4899/124899v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0012/4899/124899v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0012/4899/124899v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Angel Investor / Advisor",
+    "person":
+     {"first_name": "Kristopher",
+      "last_name": "B. Jones",
+      "permalink": "kristopher-b-jones",
+      "image":
+       {"available_sizes":
+         [[[122,
+            150],
+           "assets/images/resized/0009/2931/92931v5-max-150x150.png"],
+          [[204,
+            250],
+           "assets/images/resized/0009/2931/92931v5-max-250x250.png"],
+          [[367,
+            450],
+           "assets/images/resized/0009/2931/92931v5-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://www.kbjcapital.com/companies/",
+    "source_description": "KBJ Capital / Kris Jones Invests $50,000 in Yumm.com",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Kristopher",
+         "last_name": "B. Jones",
+         "permalink": "kristopher-b-jones",
+         "image":
+          {"available_sizes":
+            [[[122,
+               150],
+              "assets/images/resized/0009/2931/92931v5-max-150x150.png"],
+             [[204,
+               250],
+              "assets/images/resized/0009/2931/92931v5-max-250x250.png"],
+             [[367,
+               450],
+              "assets/images/resized/0009/2931/92931v5-max-450x450.png"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,175 @@
+{"name": "Restlet",
+ "permalink": "restlet",
+ "crunchbase_url": "http://www.crunchbase.com/company/restlet",
+ "homepage_url": "http://www.restlet.com",
+ "blog_url": "http://blog.restlet.com",
+ "blog_feed_url": "http://blog.restlet.com/feed/",
+ "twitter_username": "restlet_org",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "middleware, paas, rest, web-api, api, java, javascript, android, gwt, gae, osgi",
+ "alias_list": null,
+ "email_address": "contact@restlet.com",
+ "phone_number": "+33184166921",
+ "description": "Web APIs platform vendor",
+ "created_at": "Fri Apr 13 14:33:20 UTC 2012",
+ "updated_at": "Tue Oct 02 15:23:45 UTC 2012",
+ "overview": "\u003Cp\u003ERestlet is a web API platform vendor.\u003C/p\u003E\n\n\u003Cp\u003EOur main product is APISpark (http://apispark.com), an all-in-one PaaS to create, host, manage and use web APIs from a simple web browser.\u003C/p\u003E\n\n\u003Cp\u003EWe also develop the open source Restlet Framework project (http://www.restlet.org), leader for RESTful web APIs development in Java.\u003C/p\u003E\n\n\u003Cp\u003EOur other activities are professional services around web APIs, Restlet Framework and APISpark, commercial licenses and technical support.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0018/4083/184083v2-max-150x150.png"],
+     [[200,
+       200],
+      "assets/images/resized/0018/4083/184083v2-max-250x250.png"],
+     [[200,
+       200],
+      "assets/images/resized/0018/4083/184083v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jerome",
+      "last_name": "Louvel",
+      "permalink": "jerome-louvel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "StackMob",
+      "permalink": "stackmob",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0011/9336/119336v1-max-150x150.png"],
+          [[230,
+            56],
+           "assets/images/resized/0011/9336/119336v1-max-250x250.png"],
+          [[230,
+            56],
+           "assets/images/resized/0011/9336/119336v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Apigee",
+      "permalink": "apigee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/6739/26739v6-max-150x150.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0002/6739/26739v6-max-250x250.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0002/6739/26739v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mashery",
+      "permalink": "mashery",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0000/2155/2155v1-max-150x150.png"],
+          [[200,
+            28],
+           "assets/images/resized/0000/2155/2155v1-max-250x250.png"],
+          [[200,
+            28],
+           "assets/images/resized/0000/2155/2155v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kinvey",
+      "permalink": "kinvey",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0013/7678/137678v2-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0013/7678/137678v2-max-250x250.png"],
+          [[450,
+            135],
+           "assets/images/resized/0013/7678/137678v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CloudMine",
+      "permalink": "cloudmine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0015/5484/155484v2-max-150x150.png"],
+          [[250,
+            131],
+           "assets/images/resized/0015/5484/155484v2-max-250x250.png"],
+          [[381,
+            200],
+           "assets/images/resized/0015/5484/155484v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Emergent One",
+      "permalink": "emergent-one",
+      "image":
+       {"available_sizes":
+         [[[150,
+            126],
+           "assets/images/resized/0017/7820/177820v4-max-150x150.png"],
+          [[250,
+            210],
+           "assets/images/resized/0017/7820/177820v4-max-250x250.png"],
+          [[392,
+            330],
+           "assets/images/resized/0017/7820/177820v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Europe HQ",
+    "address1": "ESSEC Ventures, CNIT, BP 230",
+    "address2": "2 place de la Defense",
+    "zip_code": "92053",
+    "city": "La Defense",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "North America HQ",
+    "address1": "2415 Third Street",
+    "address2": "Suite 231",
+    "zip_code": "94107",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

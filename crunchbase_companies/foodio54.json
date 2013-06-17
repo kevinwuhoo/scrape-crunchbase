@@ -1,0 +1,123 @@
+{"name": "Foodio54",
+ "permalink": "foodio54",
+ "crunchbase_url": "http://www.crunchbase.com/company/foodio54",
+ "homepage_url": "http://foodio54.com",
+ "blog_url": "http://foodio54.com/blog",
+ "blog_feed_url": "http://foodio54.com/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "food, restaurants, restaurant-reviews, restaurant-recommendations",
+ "alias_list": null,
+ "email_address": "mike.vanheyde@foodio54.com",
+ "phone_number": "440-465-2545",
+ "description": "Local restaurant recommendations",
+ "created_at": "Wed Apr 15 22:31:01 UTC 2009",
+ "updated_at": "Thu Apr 16 21:18:38 UTC 2009",
+ "overview": "\u003Cp\u003EFoodio54 uses collaborative filtering to provide users with personalized restaurant recommendations. Users can rate and review restaurants which the recommender system uses to refine future recommendations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0004/1395/41395v2-max-150x150.jpg"],
+     [[186,
+       51],
+      "assets/images/resized/0004/1395/41395v2-max-250x250.jpg"],
+     [[186,
+       51],
+      "assets/images/resized/0004/1395/41395v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Van Heyde",
+      "permalink": "mike-van-heyde",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Glass",
+      "permalink": "andrew-glass",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BooRah",
+      "permalink": "boorah",
+      "image":
+       {"available_sizes":
+         [[[150,
+            69],
+           "assets/images/resized/0001/6684/16684v1-max-150x150.png"],
+          [[184,
+            85],
+           "assets/images/resized/0001/6684/16684v1-max-250x250.png"],
+          [[184,
+            85],
+           "assets/images/resized/0001/6684/16684v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Urbanspoon",
+      "permalink": "urbanspoon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0002/1806/21806v1-max-150x150.png"],
+          [[225,
+            103],
+           "assets/images/resized/0002/1806/21806v1-max-250x250.png"],
+          [[225,
+            103],
+           "assets/images/resized/0002/1806/21806v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "9001 Portage Pointe Dr Suite E116",
+    "address2": "",
+    "zip_code": "44241",
+    "city": "Streetsboro",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": 41.2333807,
+    "longitude": -81.338284}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        123],
+       "assets/images/resized/0004/1394/41394v2-max-150x150.jpg"],
+      [[250,
+        206],
+       "assets/images/resized/0004/1394/41394v2-max-250x250.jpg"],
+      [[450,
+        370],
+       "assets/images/resized/0004/1394/41394v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

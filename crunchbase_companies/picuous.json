@@ -1,0 +1,135 @@
+{"name": "Picuous",
+ "permalink": "picuous",
+ "crunchbase_url": "http://www.crunchbase.com/company/picuous",
+ "homepage_url": "http://picuous.com",
+ "blog_url": "http://blog.picuous.com",
+ "blog_feed_url": "http://feeds.feedburner.com/picuous",
+ "twitter_username": "picuous",
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "photography, photosharing, image-hosting, image-streaming",
+ "alias_list": null,
+ "email_address": "contact@picuous.com",
+ "phone_number": "",
+ "description": "A Scribd for pictures",
+ "created_at": "Wed Apr 27 21:44:27 UTC 2011",
+ "updated_at": "Wed May 04 07:43:05 UTC 2011",
+ "overview": "\u003Cp\u003EPicuous is a new way to publish your pictures to the internet. It\u00e2\u20ac\u2122s like a Scribd for pictures: your pictures are far more social, easier to share and embed, to like and spread on the internet, than ever before. And best of all, you can get detailed statistics about your pictures, such as where they are being used and how many times they\u00e2\u20ac\u2122ve been viewed.\u003C/p\u003E\n\n\u003Cp\u003EPictures are displayed in a dynamic player which automatically display the photographers\u00e2\u20ac\u2122 credits and they can then consult detailed statistics on their pictures. This new service, useful for photographers, also allows webusers (as well as bloggers, online press, journalists, etc.) to share or reuse pictures in an easy, free and legal way. It\u00e2\u20ac\u2122s a time-saver for webusers, and highlights the photographers\u00e2\u20ac\u2122 work. Last but not least, it preserves their copyright.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0013/2287/132287v2-max-150x150.jpg"],
+     [[250,
+       75],
+      "assets/images/resized/0013/2287/132287v2-max-250x250.jpg"],
+     [[450,
+       135],
+      "assets/images/resized/0013/2287/132287v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Pannier",
+      "permalink": "martin-pannier",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0014/7147/147147v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0014/7147/147147v2-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0014/7147/147147v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EMartin Pannier\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Arnaud",
+      "last_name": "Leymet",
+      "permalink": "arnaud-leymet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0013/4214/134214v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0013/4214/134214v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0013/4214/134214v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Flickr",
+      "permalink": "flickr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0021/3864/213864v1-max-150x150.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-250x250.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "DarQroom",
+      "permalink": "darqroom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0007/3484/73484v1-max-150x150.jpg"],
+          [[197,
+            56],
+           "assets/images/resized/0007/3484/73484v1-max-250x250.jpg"],
+          [[197,
+            56],
+           "assets/images/resized/0007/3484/73484v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "75007",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

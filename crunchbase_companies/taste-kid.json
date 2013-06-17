@@ -1,0 +1,152 @@
+{"name": "TasteKid",
+ "permalink": "taste-kid",
+ "crunchbase_url": "http://www.crunchbase.com/company/taste-kid",
+ "homepage_url": "http://www.tastekid.com",
+ "blog_url": "http://www.tastekid.com/blog/",
+ "blog_feed_url": "http://feeds2.feedburner.com/TasteKid",
+ "twitter_username": "tastekid",
+ "category_code": "games_video",
+ "number_of_employees": 0,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music, recommender, movies",
+ "alias_list": null,
+ "email_address": "contact@tastekid.com",
+ "phone_number": "",
+ "description": "Community-based recommendation engine",
+ "created_at": "Thu Jul 10 20:24:23 UTC 2008",
+ "updated_at": "Mon Jan 28 03:23:34 UTC 2013",
+ "overview": "\u003Cp\u003ETasteKid provides a complete entertainment recommendation system and hosts a community of people that enjoy discovering and sharing their interests in music, movies, TV shows, books, authors and games. \u003C/p\u003E\n\n\u003Cp\u003EVisitors get on-spot recommendation based on what they like, while registered users are provided with additional features, such as maintaining and sharing a taste profile, receiving personalized recommendations, exchanging opinions on their favorite items and keeping track of other users\u0026#8217; activities. \u003C/p\u003E\n\n\u003Cp\u003EThe recommendations come with  brief \u003Ca href=\"http://www.crunchbase.com/company/wikipedia\" title=\"Wikipedia\"\u003EWikipedia\u003C/a\u003E descriptions and \u003Ca href=\"http://www.crunchbase.com/company/youtube\" title=\"Youtube\"\u003EYoutube\u003C/a\u003E previews (e.g.: film trailers), helping users to quickly create a first impression on the recommended items. \u003C/p\u003E\n\n\u003Cp\u003EThe service also provides an API for retrieving recommendations, which is used for integration with other platforms, products and services.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[106,
+       46],
+      "assets/images/resized/0002/1906/21906v4-max-150x150.png"],
+     [[106,
+       46],
+      "assets/images/resized/0002/1906/21906v4-max-250x250.png"],
+     [[106,
+       46],
+      "assets/images/resized/0002/1906/21906v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Andrei",
+      "last_name": "Oghina",
+      "permalink": "andrei-oghina",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chairman",
+    "person":
+     {"first_name": "Ramesh",
+      "last_name": "Haridas",
+      "permalink": "ramesh-haridas",
+      "image":
+       {"available_sizes":
+         [[[85,
+            85],
+           "assets/images/resized/0002/6271/26271v1-max-150x150.jpg"],
+          [[85,
+            85],
+           "assets/images/resized/0002/6271/26271v1-max-250x250.jpg"],
+          [[85,
+            85],
+           "assets/images/resized/0002/6271/26271v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "John Philip",
+      "last_name": "Green",
+      "permalink": "john-philip-green",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0008/0890/80890v4-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0008/0890/80890v4-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0008/0890/80890v4-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Jinni",
+      "permalink": "jinni",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0001/8008/18008v10-max-150x150.png"],
+          [[159,
+            72],
+           "assets/images/resized/0001/8008/18008v10-max-250x250.png"],
+          [[159,
+            72],
+           "assets/images/resized/0001/8008/18008v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Trusted Opinion",
+      "permalink": "trustedopinion",
+      "image":
+       {"available_sizes":
+         [[[131,
+            150],
+           "assets/images/resized/0000/0976/976v9-max-150x150.jpg"],
+          [[219,
+            250],
+           "assets/images/resized/0000/0976/976v9-max-250x250.jpg"],
+          [[394,
+            450],
+           "assets/images/resized/0000/0976/976v9-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 44.4479237,
+    "longitude": 26.097879}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[112,
+        150],
+       "assets/images/resized/0010/7682/107682v2-max-150x150.jpg"],
+      [[187,
+        250],
+       "assets/images/resized/0010/7682/107682v2-max-250x250.jpg"],
+      [[337,
+        450],
+       "assets/images/resized/0010/7682/107682v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,193 @@
+{"name": "motify",
+ "permalink": "motify",
+ "crunchbase_url": "http://www.crunchbase.com/company/motify",
+ "homepage_url": "http://motify.me",
+ "blog_url": "http://blog.motify.me",
+ "blog_feed_url": "http://blog.motify.me/feeds/posts/default?alt=rss",
+ "twitter_username": "MotifyMe",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "goal-setting, goal-tracking, time-management, motivation, self-development, self-improvement, life-coaching",
+ "alias_list": null,
+ "email_address": "di@motify.me",
+ "phone_number": "+380 67 9717593",
+ "description": "Helps people achieve their dreams",
+ "created_at": "Tue Oct 09 16:32:22 UTC 2012",
+ "updated_at": "Wed Dec 12 07:03:36 UTC 2012",
+ "overview": "\u003Cp\u003Emotify.me is a web application for proactive people that helps them achieve their dreams by providing action plan and additional motivation\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Denis",
+      "last_name": "Igin",
+      "permalink": "denis-igin",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Yuriy",
+      "last_name": "Koziy",
+      "permalink": "yuriy-koziy",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Nazar",
+      "last_name": "Panchyshyn",
+      "permalink": "nazar-panchyshyn",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Bogdan",
+      "last_name": "Suchyk",
+      "permalink": "bogdan-suchyk",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Igor",
+      "last_name": "Pashinnik",
+      "permalink": "igor-pashinnik",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GoalsOnTrack",
+      "permalink": "goalsontrack",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/9814/29814v6-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0002/9814/29814v6-max-250x250.png"],
+          [[270,
+            74],
+           "assets/images/resized/0002/9814/29814v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fitocracy",
+      "permalink": "fitocracy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0011/2778/112778v6-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0011/2778/112778v6-max-250x250.png"],
+          [[283,
+            44],
+           "assets/images/resized/0011/2778/112778v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "stickK",
+      "permalink": "stickk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0001/1975/11975v3-max-150x150.jpg"],
+          [[229,
+            101],
+           "assets/images/resized/0001/1975/11975v3-max-250x250.jpg"],
+          [[229,
+            101],
+           "assets/images/resized/0001/1975/11975v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mindbloom",
+      "permalink": "mindbloom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0006/9562/69562v1-max-150x150.jpg"],
+          [[188,
+            46],
+           "assets/images/resized/0006/9562/69562v1-max-250x250.jpg"],
+          [[188,
+            46],
+           "assets/images/resized/0006/9562/69562v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "43 Things, The Robot Co-op",
+      "permalink": "43things",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/6079/26079v1-max-150x150.png"],
+          [[176,
+            71],
+           "assets/images/resized/0002/6079/26079v1-max-250x250.png"],
+          [[176,
+            71],
+           "assets/images/resized/0002/6079/26079v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 24,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Eastlabs",
+         "permalink": "eastlabs",
+         "image":
+          {"available_sizes":
+            [[[150,
+               72],
+              "assets/images/resized/0017/6363/176363v2-max-150x150.png"],
+             [[250,
+               121],
+              "assets/images/resized/0017/6363/176363v2-max-250x250.png"],
+             [[260,
+               126],
+              "assets/images/resized/0017/6363/176363v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Kyiv office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Kyiv",
+    "state_code": null,
+    "country_code": "UKR",
+    "latitude": 50.4501,
+    "longitude": 30.5234}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

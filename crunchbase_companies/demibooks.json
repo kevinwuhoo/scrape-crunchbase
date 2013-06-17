@@ -1,0 +1,113 @@
+{"name": "Demibooks",
+ "permalink": "demibooks",
+ "crunchbase_url": "http://www.crunchbase.com/company/demibooks",
+ "homepage_url": "http://www.demibooks.com",
+ "blog_url": "http://www.demibooks.com/blog",
+ "blog_feed_url": "http://feeds2.feedburner.com/demibooks",
+ "twitter_username": "demibooks",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "publishing, ipad, ios, tablet, mobile, books, interactive, tools, reading",
+ "alias_list": null,
+ "email_address": "info@demibooks.com",
+ "phone_number": "+1 (312) 834 3364",
+ "description": "Software for authoring interactive books",
+ "created_at": "Mon Aug 01 05:49:48 UTC 2011",
+ "updated_at": "Wed Oct 19 11:08:53 UTC 2011",
+ "overview": "\u003Cp\u003EDemibooks Inc. is a digital publishing technologies company. Founded in 2010 and headquartered in Chicago, Demibooks offers both software and service solutions for authoring richly-interactive book apps, ideal for authors, illustrators or publishers.\u003C/p\u003E\n\n\u003Cp\u003EDemibooks\u00c2\u00ae Composer is the first iPad-based software that allows users to produce an illustrated children\u00e2\u20ac\u2122s book app right on the device itself. Composer is affordable and its user-friendly design requires no previous technical experience. The entire authoring process is code-free. Authors and illustrators can create a heightened reading experience by adding animation, sounds and visual effects, and realistic physics to each page of their story. Self-publish the storybook app through Demibooks Printshop web service or just share it with friends and family as a keepsake. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Rafiq",
+      "last_name": "Ahmed",
+      "permalink": "rafiq-ahmed",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Skinner",
+      "permalink": "andrew-skinner-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, UX",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Roosen",
+      "permalink": "chris-roosen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, Platform Tech",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Hotop",
+      "permalink": "daniel-hotop",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.finsmes.com/2011/10/demibooks-receives-equity-investment-educational-development-corporation.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "Demibooks Receives Equity Investment from Educational Development Corporation",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 18,
+    "investments":
+     [{"company":
+        {"name": "Educational Development Corporation",
+         "permalink": "educational-development-corporation",
+         "image":
+          {"available_sizes":
+            [[[150,
+               67],
+              "assets/images/resized/0015/8696/158696v1-max-150x150.jpg"],
+             [[250,
+               112],
+              "assets/images/resized/0015/8696/158696v1-max-250x250.jpg"],
+             [[308,
+               139],
+              "assets/images/resized/0015/8696/158696v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://radar.oreilly.com/2011/06/9-digital-book-tools.html",
+    "title": "Digital Book Tools"}]}

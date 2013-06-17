@@ -1,0 +1,179 @@
+{"name": "iLogon",
+ "permalink": "ilogon",
+ "crunchbase_url": "http://www.crunchbase.com/company/ilogon",
+ "homepage_url": "http://www.ilogon.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "premium-content, aggregate, consolidate, subscription, membership, portal, freemium, web-2-0",
+ "alias_list": "",
+ "email_address": "aa@ilogon.com",
+ "phone_number": "480-209-8418",
+ "description": "Portal for premium content sites",
+ "created_at": "Wed Sep 10 21:51:02 UTC 2008",
+ "updated_at": "Thu May 07 21:53:48 UTC 2009",
+ "overview": "\u003Cp\u003EiLogon is an Internet portal focused on aggregating premium content and services on the web.\u003C/p\u003E\n\n\u003Cp\u003EThe iLogon portal is where users will sign up for an account, then create a customizable \u0026#8220;package\u0026#8221; of premium sites. For instance, a user may select Wall Street Journal, ESPN Insider, Consumer Reports, or other premium subscription based sites. iLogon will bill the user one subscription fee that is about 5%-10% lower than the aggregate cost if they went to each site directly to sign up. Once the user creates the package, they will use iLogon as the launching point for all the sites in their package.\u003C/p\u003E\n\n\u003Cp\u003EThey are building a portfolio of sites now for a public beta launch in December of this year. iLogon is basically a reseller for the partner site. However, they manage the user and accepting payment, which is different from a typical Affiliate program. iLogon negotiates a revenue split of the subscription fees with each partner site.\u003C/p\u003E\n\n\u003Cp\u003EBenefits to the User:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EOne place to manage all premium subscriptions\u003C/li\u003E\n\u003Cli\u003EEasy to find premium sites based on category, search, tags, etc\u003C/li\u003E\n\u003Cli\u003EUser reviews to help find the best premium sites\u003C/li\u003E\n\u003Cli\u003EOne account and password for all premium sites\u003C/li\u003E\n\u003Cli\u003EOnly have to enter credit card number in one place\u003C/li\u003E\n\u003Cli\u003EDiscounted subscription fees (bundled rate) for multiple sites\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EBenefits to the Partner Site:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EAdditional Channel to sell subscriptions to the site\u003C/li\u003E\n\u003Cli\u003EMore paying users/subscriptions\u003C/li\u003E\n\u003Cli\u003ETargeted User base (the right demographics, users willing to pay for content/services, etc)\u003C/li\u003E\n\u003Cli\u003EiLogon spends the marketing dollars for these new users - \u0026#8220;free users\u0026#8221; to the partner\u003C/li\u003E\n\u003Cli\u003EiLogon manages the user account and billing (including CC fees)\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0002/4952/24952v2-max-150x150.jpg"],
+     [[250,
+       94],
+      "assets/images/resized/0002/4952/24952v2-max-250x250.jpg"],
+     [[450,
+       170],
+      "assets/images/resized/0002/4952/24952v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Anthony",
+      "last_name": "Argenziano",
+      "permalink": "anthony-argenziano",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0002/4954/24954v2-max-150x150.jpg"],
+          [[250,
+            156],
+           "assets/images/resized/0002/4954/24954v2-max-250x250.jpg"],
+          [[450,
+            281],
+           "assets/images/resized/0002/4954/24954v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EAnthony Argenziano\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "CSO",
+    "person":
+     {"first_name": "Carl",
+      "last_name": "Kaiser",
+      "permalink": "carl-kaiser",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Architect",
+    "person":
+     {"first_name": "David",
+      "last_name": "Fye",
+      "permalink": "david-fye",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Product Development",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Flangos",
+      "permalink": "peter-flangos",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisory Board",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Kaiser",
+      "permalink": "jim-kaiser",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisory Board",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Irons",
+      "permalink": "steve-irons",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Check",
+      "permalink": "pageonce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0000/3085/3085v3-max-150x150.jpg"],
+          [[171,
+            35],
+           "assets/images/resized/0000/3085/3085v3-max-250x250.jpg"],
+          [[171,
+            35],
+           "assets/images/resized/0000/3085/3085v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Network Solutions",
+      "permalink": "networksolutions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0001/3734/13734v1-max-150x150.png"],
+          [[220,
+            36],
+           "assets/images/resized/0001/3734/13734v1-max-250x250.png"],
+          [[220,
+            36],
+           "assets/images/resized/0001/3734/13734v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Synacor",
+      "permalink": "synacor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0006/3325/63325v2-max-150x150.png"],
+          [[250,
+            47],
+           "assets/images/resized/0006/3325/63325v2-max-250x250.png"],
+          [[450,
+            86],
+           "assets/images/resized/0006/3325/63325v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Wright Law Group",
+      "permalink": "wright-law-group",
+      "image": null}},
+   {"title": "Taxes/Accounting",
+    "is_past": false,
+    "provider":
+     {"name": "Mountainside CPA",
+      "permalink": "mountainside-cpa",
+      "image": null}}],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Self-Funded",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 5,
+    "funded_day": 25,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

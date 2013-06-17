@@ -1,0 +1,173 @@
+{"name": "Infinum",
+ "permalink": "infinum",
+ "crunchbase_url": "http://www.crunchbase.com/company/infinum",
+ "homepage_url": "http://www.infinum.co",
+ "blog_url": "http://www.infinum.co/the-capsized-eight",
+ "blog_feed_url": "http://feeds.feedburner.com/TheCapsizedEight",
+ "twitter_username": "infinum_hr",
+ "category_code": "consulting",
+ "number_of_employees": 30,
+ "founded_year": 2005,
+ "founded_month": 4,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ios, android, html5, ruby, rails, ruby-on-rails, javascript, responsive-web-design",
+ "alias_list": null,
+ "email_address": "tomislav@infinum.hr",
+ "phone_number": "+385915125486",
+ "description": "Software development consultancy",
+ "created_at": "Tue Jan 29 10:53:26 UTC 2013",
+ "updated_at": "Sun Jun 09 20:54:34 UTC 2013",
+ "overview": "\u003Cp\u003EInfinum is a software design and development consultancy specialized in providing mobile and web development services for early stage startups and large companies.\u003C/p\u003E\n\n\u003Cp\u003ETechnologies Infinum works with include:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EiOS, Android\u003C/li\u003E\n\u003Cli\u003ERuby on Rails\u003C/li\u003E\n\u003Cli\u003EJavascript, HTML5, Sencha Touch, Backbone, Node.js\u003C/li\u003E\n\u003Cli\u003EResponsive web design\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EInfinum works with startups - either by helping them get a product off the ground fast, or by augmenting their team with various skillsets they might need, but haven\u0026#8217;t hired the right people yet.\u003C/p\u003E\n\n\u003Cp\u003EInfinum works with large brands, banks, insurance companies, media publishers, mobile carriers and other companies with the need for professionally designed and developed mobile apps.\u003C/p\u003E\n\n\u003Cp\u003EInfinum won a number of awards, like the $100.000 from the Samsung Global Developer contest or the 4 x 1337 EUR from the Erste Finnovation 24-hour long hackathon.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0027/1114/271114v2-max-150x150.png"],
+     [[250,
+       35],
+      "assets/images/resized/0027/1114/271114v2-max-250x250.png"],
+     [[250,
+       35],
+      "assets/images/resized/0027/1114/271114v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Co-Founder",
+    "person":
+     {"first_name": "Tomislav",
+      "last_name": "Car",
+      "permalink": "tomislav-car",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/1146/271146v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0027/1146/271146v2-max-250x250.jpg"],
+          [[252,
+            252],
+           "assets/images/resized/0027/1146/271146v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO \u0026 iOS lead / Co-Founder",
+    "person":
+     {"first_name": "Matej",
+      "last_name": "Spoler",
+      "permalink": "matej-spoler",
+      "image": null}},
+   {"is_past": false,
+    "title": "Android lead / Partner",
+    "person":
+     {"first_name": "Nikola",
+      "last_name": "Kapraljevic",
+      "permalink": "nikola-kapraljevic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            98],
+           "assets/images/resized/0027/3866/273866v2-max-150x150.jpg"],
+          [[250,
+            164],
+           "assets/images/resized/0027/3866/273866v2-max-250x250.jpg"],
+          [[450,
+            295],
+           "assets/images/resized/0027/3866/273866v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Managing director / Slovenia",
+    "person":
+     {"first_name": "Tamara",
+      "last_name": "Momcilovic",
+      "permalink": "tamara-momcilovic",
+      "image": null}},
+   {"is_past": false,
+    "title": "Web lead / Partner",
+    "person":
+     {"first_name": "Josip",
+      "last_name": "Biscan",
+      "permalink": "josip-biscan",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/3819/273819v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0027/3819/273819v2-max-250x250.jpg"],
+          [[300,
+            300],
+           "assets/images/resized/0027/3819/273819v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "thoughtbot",
+      "permalink": "thoughtbot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0003/2575/32575v4-max-150x150.png"],
+          [[242,
+            65],
+           "assets/images/resized/0003/2575/32575v4-max-250x250.png"],
+          [[242,
+            65],
+           "assets/images/resized/0003/2575/32575v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pivotal Labs",
+      "permalink": "pivotal-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0001/2058/12058v3-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0001/2058/12058v3-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0001/2058/12058v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Viget",
+      "permalink": "viget",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        79],
+       "assets/images/resized/0027/1118/271118v2-max-150x150.jpg"],
+      [[250,
+        131],
+       "assets/images/resized/0027/1118/271118v2-max-250x250.jpg"],
+      [[450,
+        237],
+       "assets/images/resized/0027/1118/271118v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

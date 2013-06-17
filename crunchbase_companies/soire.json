@@ -1,0 +1,112 @@
+{"name": "Soir\u00e9e",
+ "permalink": "soire",
+ "crunchbase_url": "http://www.crunchbase.com/company/soire",
+ "homepage_url": "http://www.soireeapp.com",
+ "blog_url": "http://blog.soireeapp.com",
+ "blog_feed_url": "http://blog.soireeapp.com/rss",
+ "twitter_username": "soireeapp",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "geosocial, geolocation, social, mobile-app, events",
+ "alias_list": null,
+ "email_address": "hello@soireeapp.com",
+ "phone_number": "",
+ "description": "Mobile Application",
+ "created_at": "Mon May 28 20:45:55 UTC 2012",
+ "updated_at": "Sat Jun 02 02:27:22 UTC 2012",
+ "overview": "",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0019/2109/192109v2-max-150x150.png"],
+     [[150,
+       50],
+      "assets/images/resized/0019/2109/192109v2-max-250x250.png"],
+     [[150,
+       50],
+      "assets/images/resized/0019/2109/192109v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Will",
+      "last_name": "Ricketts",
+      "permalink": "will-ricketts-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Engineer",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Petris",
+      "permalink": "ryan-petris",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Designer",
+    "person":
+     {"first_name": "Kyle",
+      "last_name": "Schmitz",
+      "permalink": "kyle-schmitz",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventbrite",
+      "permalink": "eventbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/3442/3442v8-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0000/3442/3442v8-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/3442/3442v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,166 @@
+{"name": "Ezmo",
+ "permalink": "ezmo",
+ "crunchbase_url": "http://www.crunchbase.com/company/ezmo",
+ "homepage_url": "http://www.ezmo.com/",
+ "blog_url": "http://blog.ezmo.com/",
+ "blog_feed_url": "http://blog.ezmo.com/feed/",
+ "twitter_username": "ezmo",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": 2008,
+ "deadpooled_month": 3,
+ "deadpooled_day": 3,
+ "deadpooled_url": "",
+ "tag_list": "music, share",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Mar 07 16:34:09 UTC 2008",
+ "updated_at": "Thu Mar 28 12:47:09 UTC 2013",
+ "overview": "\u003Cp\u003EEzmo, is a clone of iTunes on the web. Their Flash based player lets you upload your music to the web, organize it into playlists, and share with your friends (just 10). In addition to pulling music from iTunes, Ezmo lets you upload music from your Windows Media Player and Winamp music collections. \u003C/p\u003E\n\n\u003Cp\u003EEzmo was \u003Ca href=\"http://blog.ezmo.com/2008/03/14/the-day-ezmo-died/\" title=\"deadpooled\" rel=\"nofollow\"\u003Edeadpooled\u003C/a\u003E in March 2008:\u003C/p\u003E\n\n\u003Cp\u003E\u0026#8220;The day has arrived when Ezmo is pulling the cables. What looked like a prosperous journey six months ago is now over.We enjoyed Ezmo all the way and had hoped to share our vision of the online music player with many more, unfortunately it just didn\u0026#8217;t turn out that way.We hope you will find other ways of enjoying your music online!\u003C/p\u003E\n\n\u003Cp\u003EBest regards,\nThe Ezmo team\u0026#8221;\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0001/4766/14766v1-max-150x150.png"],
+     [[250,
+       66],
+      "assets/images/resized/0001/4766/14766v1-max-250x250.png"],
+     [[390,
+       104],
+      "assets/images/resized/0001/4766/14766v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Ezmo",
+    "permalink": "ezmo",
+    "image": null},
+   {"name": "Ezmo Deadpool March 2008",
+    "permalink": "ezmo-deadpool-notice",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Petter",
+      "last_name": "Karal",
+      "permalink": "petter-karal",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Espen",
+      "last_name": "Dall\u00c3\u00b8kken",
+      "permalink": "espen-dallkken",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Communications",
+    "person":
+     {"first_name": "St\u00c3\u00a5le",
+      "last_name": "Mortensson",
+      "permalink": "stle-mortensson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Strategic Alliances",
+    "person":
+     {"first_name": "Jennie-Marie",
+      "last_name": "Idler Larsen",
+      "permalink": "jennie-marie-idler-larsen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Anywhere.FM",
+      "permalink": "anywhere-fm",
+      "image": null}},
+   {"competitor":
+     {"name": "imeem",
+      "permalink": "imeem",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0004/3106/43106v1-max-150x150.png"],
+          [[250,
+            102],
+           "assets/images/resized/0004/3106/43106v1-max-250x250.png"],
+          [[310,
+            127],
+           "assets/images/resized/0004/3106/43106v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "JukeFly",
+      "permalink": "jukefly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0001/2215/12215v1-max-150x150.png"],
+          [[205,
+            49],
+           "assets/images/resized/0001/2215/12215v1-max-250x250.png"],
+          [[205,
+            49],
+           "assets/images/resized/0001/2215/12215v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IdeaTap",
+      "permalink": "ideatap-inc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0001/6626/16626v1-max-150x150.jpg"],
+          [[155,
+            65],
+           "assets/images/resized/0001/6626/16626v1-max-250x250.jpg"],
+          [[155,
+            65],
+           "assets/images/resized/0001/6626/16626v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SoundCloud",
+      "permalink": "soundcloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0002/0462/20462v19-max-150x150.png"],
+          [[250,
+            156],
+           "assets/images/resized/0002/0462/20462v19-max-250x250.png"],
+          [[250,
+            156],
+           "assets/images/resized/0002/0462/20462v19-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "P.O Box 454 Sentrum",
+    "address2": "",
+    "zip_code": "0104",
+    "city": "Oslo",
+    "state_code": null,
+    "country_code": "NOR",
+    "latitude": 59.915323,
+    "longitude": 10.751367}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

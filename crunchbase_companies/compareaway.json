@@ -1,0 +1,131 @@
+{"name": "CompareAway",
+ "permalink": "compareaway",
+ "crunchbase_url": "http://www.crunchbase.com/company/compareaway",
+ "homepage_url": "http://www.compareaway.co.uk",
+ "blog_url": "http://blog.compareaway.co.uk",
+ "blog_feed_url": "",
+ "twitter_username": "rentalspecials",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "holiday-villas, holiday-accommodation, holiday-home-rentals, holiday-property",
+ "alias_list": "",
+ "email_address": "support@compareaway.co.uk",
+ "phone_number": "08456448449",
+ "description": "Online Holiday Rental",
+ "created_at": "Fri Aug 01 14:32:17 UTC 2008",
+ "updated_at": "Thu Jun 16 14:30:17 UTC 2011",
+ "overview": "\u003Cp\u003EOnline rental of holiday homes.\u003C/p\u003E\n\n\u003Cp\u003ECompareAway.co.uk is a travel startup changing the UK by bringing together Agent managed holiday rentals in one place with real-time pricing and availability, so you can compare, read reviews and then rent in one convenient place.\u003C/p\u003E\n\n\u003Cp\u003EVerified reviews by genuine holiday makers allow the community to get a real understanding of the strengths and weaknesses of a holiday property before they book. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0002/3185/23185v7-max-150x150.jpg"],
+     [[250,
+       91],
+      "assets/images/resized/0002/3185/23185v7-max-250x250.jpg"],
+     [[269,
+       98],
+      "assets/images/resized/0002/3185/23185v7-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Holiday Rental Comparison Site",
+    "permalink": "holiday-home-rentals",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "M.D",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Gibson",
+      "permalink": "andrew-gibson",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0003/7752/37752v2-max-150x150.jpg"],
+          [[177,
+            250],
+           "assets/images/resized/0003/7752/37752v2-max-250x250.jpg"],
+          [[200,
+            281],
+           "assets/images/resized/0003/7752/37752v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Bradley",
+      "permalink": "chris-bradley",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0003/4734/34734v8-max-150x150.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0003/4734/34734v8-max-250x250.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0003/4734/34734v8-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Campaya holiday rentals",
+      "permalink": "campaya-holiday-rentals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0012/6284/126284v2-max-150x150.png"],
+          [[200,
+            75],
+           "assets/images/resized/0012/6284/126284v2-max-250x250.png"],
+          [[200,
+            75],
+           "assets/images/resized/0012/6284/126284v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a3500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Direct Holiday Bookings",
+    "address1": "Green Lane",
+    "address2": "Spennymoor",
+    "zip_code": "DL16 6JF",
+    "city": "Durham",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 54.703145,
+    "longitude": -1.574948}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,104 @@
+{"name": "Info",
+ "permalink": "info",
+ "crunchbase_url": "http://www.crunchbase.com/company/info",
+ "homepage_url": "http://info.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "contact@info.com",
+ "phone_number": "+1 (312) 268-5700",
+ "description": null,
+ "created_at": "Wed Aug 22 10:19:09 UTC 2007",
+ "updated_at": "Thu Jan 21 19:20:07 UTC 2010",
+ "overview": "\u003Cp\u003EInfo.com is a search engine portal that returns results from \u0026#8216;the world\u0026#8217;s favorite search engines\u0026#8217;, including \u003Ca href=\"http://www.crunchbase.com/company/google\" title=\"Google\"\u003EGoogle\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/yahoo\" title=\"Yahoo\"\u003EYahoo\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/microsoft\" title=\"Microsoft\"\u003EMicrosoft\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/ask\" title=\"Ask\"\u003EAsk\u003C/a\u003E. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[140,
+       60],
+      "assets/images/resized/0001/9305/19305v1-max-150x150.png"],
+     [[140,
+       60],
+      "assets/images/resized/0001/9305/19305v1-max-250x250.png"],
+     [[140,
+       60],
+      "assets/images/resized/0001/9305/19305v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Info.com",
+    "permalink": "info-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Co-Founder",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Scarr",
+      "permalink": "stephen-scarr",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$8.4M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": 8400000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2004,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Herald Ventures",
+         "permalink": "herald-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               40],
+              "assets/images/resized/0002/8100/28100v1-max-150x150.jpg"],
+             [[250,
+               67],
+              "assets/images/resized/0002/8100/28100v1-max-250x250.jpg"],
+             [[260,
+               70],
+              "assets/images/resized/0002/8100/28100v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "180 North Stetson Avenue",
+    "address2": "Suite 3500",
+    "zip_code": "60601",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": 41.885619,
+    "longitude": -87.622309}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

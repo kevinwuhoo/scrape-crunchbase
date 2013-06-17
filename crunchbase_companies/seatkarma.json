@@ -1,0 +1,106 @@
+{"name": "SeatKarma",
+ "permalink": "seatkarma",
+ "crunchbase_url": "http://www.crunchbase.com/company/seatkarma",
+ "homepage_url": "http://seatkarma.com",
+ "blog_url": "http://seatkarma.com/blog/",
+ "blog_feed_url": "http://seatkarma.com/blog/wp-content/themes/cognoblue/images/rss.gif",
+ "twitter_username": "SeatKarma",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "tickets, live-events",
+ "alias_list": "",
+ "email_address": "info@seatkarma.com",
+ "phone_number": "",
+ "description": "Ticket Marketplace",
+ "created_at": "Fri Feb 27 10:33:18 UTC 2009",
+ "updated_at": "Mon Apr 08 04:49:39 UTC 2013",
+ "overview": "\u003Cp\u003ESeat Karma is the ultimate live entertainment search engine. We have a simple goal; to provide you with new and improved ways to find tickets to your favorite live events: sports, music, or theater. It is extremely important where one sits in live events. A true comparison engine for live event tickets needs not only to analyze ticket prices across various websites, but also to compare the location of different tickets. Ticket results are shown in our unique graphical interface, which makes it very easy to compare the value of different ticket options. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0003/7048/37048v3-max-150x150.png"],
+     [[217,
+       59],
+      "assets/images/resized/0003/7048/37048v3-max-250x250.png"],
+     [[217,
+       59],
+      "assets/images/resized/0003/7048/37048v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Wan",
+      "permalink": "chris-wan-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ohad",
+      "last_name": "Nezer",
+      "permalink": "ohad-nezer",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Nicolaysen",
+      "permalink": "chris-nicolaysen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$30k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 30000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Self",
+         "last_name": "funded",
+         "permalink": "self-funded",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "92833",
+    "city": "Fullerton",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 29.717881,
+    "longitude": -95.452352}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

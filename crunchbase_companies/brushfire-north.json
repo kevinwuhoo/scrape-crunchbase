@@ -1,0 +1,114 @@
+{"name": "Brushfire North",
+ "permalink": "brushfire-north",
+ "crunchbase_url": "http://www.crunchbase.com/company/brushfire-north",
+ "homepage_url": "http://brushfirenorth.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "brushfirenorth",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2010,
+ "founded_month": 5,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "computers, programming, software, strategy, support, websites, website-development, mobile-apps, mobile-web",
+ "alias_list": null,
+ "email_address": "info@brushfirenorth.com",
+ "phone_number": "416-583-2028",
+ "description": "Strategy | Design | Production | Support",
+ "created_at": "Thu Jul 14 20:07:47 UTC 2011",
+ "updated_at": "Tue Mar 05 06:31:02 UTC 2013",
+ "overview": "\u003Cp\u003EBrushfire North is a digital services agency located in Liberty Village, Toronto.\u003C/p\u003E\n\n\u003Cp\u003EActing as planners, builders, collaborators, and problem solvers, we provide unique interactive experiences and end-to-end technical solutions comprised of beautiful and functional pieces of software, each as varied and distinctive as our clients.\u003C/p\u003E\n\n\u003Cp\u003EOur leadership in software development is derived through honest and informed consultation, and the utilization of new and emerging technologies. Our mission is to convey this vision to each client in order that informed decisions are made right from the planning phase of a project, and to deliver a high-end product that fits their specific business requirement.\u003C/p\u003E\n\n\u003Cp\u003EOur interactive experiences can be delivered over the Internet or through internal networks to end users, with focus on four main areas of service:\u003C/p\u003E\n\n\u003Cp\u003EStrategy: \nWe offer strategic services, including application architecture and project management, providing decision makers practical, expert advice to facilitate the decision-making process.\u003C/p\u003E\n\n\u003Cp\u003EDesign: \nWhether building on a client\u2019s existing tools or creating something wholly new, we construct captivating designs that are user focused, created with an intimate knowledge of how a user interacts with various browsers and mobile devices. Form meets function in our deeply considered interfaces and designs that evoke emotion and are targeted for the project audience.\u003C/p\u003E\n\n\u003Cp\u003EDevelopment: \nWe offer the highest-quality software development services for all our clients; from distributed inventory-control systems to research-based websites, we execute your project\u2019s plan whether it was created by us or another vendor.\u003C/p\u003E\n\n\u003Cp\u003ESupport: \nWe offer ongoing support services ranging from hosting, to application monitoring and maintenance, to training services.\u003C/p\u003E\n\n\u003Cp\u003EAdditionally, we produce content-managed and marketing-related websites, micro-sites, games, software, and custom-built LOB applications. \u003C/p\u003E\n\n\u003Cp\u003EFor agencies and media companies in need of a trusted production team, we offer high-quality development services and have staff available to support a project manager and turnaround any project on time and on budget and hassle free\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       76],
+      "assets/images/resized/0023/9759/239759v2-max-150x150.png"],
+     [[250,
+       127],
+      "assets/images/resized/0023/9759/239759v2-max-250x250.png"],
+     [[450,
+       228],
+      "assets/images/resized/0023/9759/239759v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "AuditDashboard",
+    "permalink": "auditdashboard",
+    "image":
+     {"available_sizes":
+       [[[150,
+          21],
+         "assets/images/resized/0025/5331/255331v2-max-150x150.png"],
+        [[250,
+          36],
+         "assets/images/resized/0025/5331/255331v2-max-250x250.png"],
+        [[281,
+          41],
+         "assets/images/resized/0025/5331/255331v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "McKinnon",
+      "permalink": "michael-mckinnon",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Grant",
+      "last_name": "Wilson",
+      "permalink": "grant-wilson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Accounting",
+    "is_past": false,
+    "provider":
+     {"name": "Clark \u0026 Horner LLP",
+      "permalink": "clark-horner-llp",
+      "image": null}},
+   {"title": "Lawyers",
+    "is_past": false,
+    "provider":
+     {"name": "Palter McCarthy",
+      "permalink": "palter-mccarthy",
+      "image": null}},
+   {"title": "Lawyers",
+    "is_past": false,
+    "provider":
+     {"name": "Heenan Blaikie",
+      "permalink": "heenan-blaikie",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "99 Atlantic Ave.",
+    "address2": "Suite 416",
+    "zip_code": "M6K 3J8",
+    "city": "Toronto",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

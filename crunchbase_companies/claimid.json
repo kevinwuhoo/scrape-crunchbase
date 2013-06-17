@@ -1,0 +1,100 @@
+{"name": "claimID",
+ "permalink": "claimid",
+ "crunchbase_url": "http://www.crunchbase.com/company/claimid",
+ "homepage_url": "http://claimid.com",
+ "blog_url": "http://blog.claimid.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/claimID",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "openid, online-identity",
+ "alias_list": null,
+ "email_address": "info@claimID.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Apr 24 03:53:13 UTC 2008",
+ "updated_at": "Fri May 30 13:19:12 UTC 2008",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://claimid.com/\" title=\"claimID\" rel=\"nofollow\"\u003EclaimID\u003C/a\u003E allows users to manage their online identities using OpenID.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0001/7633/17633v1-max-150x150.jpg"],
+     [[250,
+       94],
+      "assets/images/resized/0001/7633/17633v1-max-250x250.jpg"],
+     [[450,
+       170],
+      "assets/images/resized/0001/7633/17633v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "claimID",
+    "permalink": "claimid",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Fred",
+      "last_name": "Stutzman",
+      "permalink": "fred-stutzman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Terrell",
+      "last_name": "Russell",
+      "permalink": "terrell-russell",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ProfileBuilder",
+      "permalink": "profilebuilder",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0000/3832/3832v2-max-150x150.png"],
+          [[238,
+            51],
+           "assets/images/resized/0000/3832/3832v2-max-250x250.png"],
+          [[238,
+            51],
+           "assets/images/resized/0000/3832/3832v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Chapel Hill",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": 35.929674,
+    "longitude": -79.034176}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

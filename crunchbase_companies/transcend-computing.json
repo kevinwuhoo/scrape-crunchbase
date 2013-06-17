@@ -1,0 +1,84 @@
+{"name": "Transcend Computing",
+ "permalink": "transcend-computing",
+ "crunchbase_url": "http://www.crunchbase.com/company/transcend-computing",
+ "homepage_url": "http://www.transcendcomputing.com/",
+ "blog_url": "http://www.transcendcomputing.com/blog/",
+ "blog_feed_url": "http://www.transcendcomputing.com/feed/",
+ "twitter_username": "transcendcomp",
+ "category_code": "software",
+ "number_of_employees": 7,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-iaas-paas-aws-amazon-web-services-openstack-cloudstack-eucalyptus",
+ "alias_list": null,
+ "email_address": "sales@transcendcomputing.com",
+ "phone_number": "512-236-1517",
+ "description": "Amazon Compatible Cloud Solutions",
+ "created_at": "Thu Jun 28 05:25:29 UTC 2012",
+ "updated_at": "Thu Jun 28 18:30:37 UTC 2012",
+ "overview": "\u003Cp\u003ETranscend Computing is an innovator in Amazon Compatible Environments (ACE) for public, private and hybrid clouds. \u003C/p\u003E\n\n\u003Cp\u003ETranscend offerings include TopStack, an Amazon compatible PaaS; StackStudio, an enterprise cloud management solution; and StackPlace, an open social architecture community where developers can create, contribute, consume and collaborate on ACE-compatible application topologies.\u003C/p\u003E\n\n\u003Cp\u003ETopStack Web Edition provides a set of as-a-service offerings that are interoperable with Amazon Web Services (AWS) PaaS and can be deployed in your data center. This interoperability enables organizations to more easily migrate applications between private and public clouds.\u003C/p\u003E\n\n\u003Cp\u003ETopStack is packaged with StackStudio when delivered on-premise. StackStudio is a visual online environment for self-service provisioning, governance, security and orchestration.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0019/7825/197825v2-max-150x150.png"],
+     [[226,
+       80],
+      "assets/images/resized/0019/7825/197825v2-max-250x250.png"],
+     [[226,
+       80],
+      "assets/images/resized/0019/7825/197825v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Schneider",
+      "permalink": "jeff-schneider",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarters",
+    "address1": "12710 Research Blvd, Suite 120",
+    "address2": "",
+    "zip_code": "78759",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.transcendcomputing.com/2012/06/transcend-announces-topstack-web-edition-for-eucalyptus/",
+    "title": ""},
+   {"external_url": "http://www.transcendcomputing.com/2012/06/announcing-topstack-web-edition-for-piston-enterprise-os/",
+    "title": ""},
+   {"external_url": "http://www.transcendcomputing.com/2012/06/transcend-computing-announces-amazon-compatible-paas-solution/",
+    "title": ""},
+   {"external_url": "http://www.transcendcomputing.com/2012/04/transcend-computing-announces-company-formation/",
+    "title": ""}]}

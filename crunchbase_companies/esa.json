@@ -1,0 +1,107 @@
+{"name": "ESA",
+ "permalink": "esa",
+ "crunchbase_url": "http://www.crunchbase.com/company/esa",
+ "homepage_url": "http://www.esapcsolutions.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": 3,
+ "founded_year": 1996,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "computers, industrial-computers, 4u-rackmount, 486-motherboards",
+ "alias_list": null,
+ "email_address": "info@esapcsolutions.com",
+ "phone_number": "",
+ "description": "Industrial Computers ",
+ "created_at": "Mon May 04 18:54:53 UTC 2009",
+ "updated_at": "Fri Nov 12 19:05:13 UTC 2010",
+ "overview": "\u003Cp\u003EIndustrial computers and peripherals from 486 Legacy systems to the latest technology.\u003C/p\u003E\n\n\u003Cp\u003EESA is a niche industrial computer company that still makes a 486 AT industrial motherboard.  Their steel chassis are convertible between tower, desktop, rackmount, and wallmount configurations with built-in fingerprint reader drawers.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0004/3150/43150v2-max-150x150.jpg"],
+     [[221,
+       110],
+      "assets/images/resized/0004/3150/43150v2-max-250x250.jpg"],
+     [[221,
+       110],
+      "assets/images/resized/0004/3150/43150v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Tony",
+      "last_name": "Proia",
+      "permalink": "tony-proia",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Larry",
+      "last_name": "Rosado",
+      "permalink": "larry-rosado",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "seed",
+      "source_url": "",
+      "source_description": "",
+      "raised_amount": 10000.0,
+      "raised_currency_code": "EUR",
+      "funded_year": 2012,
+      "funded_month": 9,
+      "funded_day": 1,
+      "company":
+       {"name": "Energie Etiche",
+        "permalink": "energie-etiche",
+        "image":
+         {"available_sizes":
+           [[[150,
+              135],
+             "assets/images/resized/0022/0619/220619v2-max-150x150.jpg"],
+            [[250,
+              226],
+             "assets/images/resized/0022/0619/220619v2-max-250x250.jpg"],
+            [[450,
+              407],
+             "assets/images/resized/0022/0619/220619v2-max-450x450.jpg"]],
+          "attribution": null}}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "ESA Tampa Bay",
+    "address1": "803 Stevens Avenue",
+    "address2": "",
+    "zip_code": "34677",
+    "city": "Oldsmar",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": 28.0450609,
+    "longitude": -82.6563956}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

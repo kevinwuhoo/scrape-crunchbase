@@ -1,0 +1,86 @@
+{"name": "SciEngines",
+ "permalink": "sciengines",
+ "crunchbase_url": "http://www.crunchbase.com/company/sciengines",
+ "homepage_url": "http://www.SciEngines.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 12,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "field-programmable-gate-array, fpga, supercomputing, high-performance-computing, hpc, energy-efficiency, greenit, accelerator, cleantech, it, computer, bioscience, science, cryptography, cryptology, engineering, 3d, rendering, server, computation",
+ "alias_list": null,
+ "email_address": "info@sciengines.com",
+ "phone_number": "+49 (0)431-530284-2",
+ "description": "FPGA High Performance Computers",
+ "created_at": "Tue Nov 02 15:42:02 UTC 2010",
+ "updated_at": "Tue Feb 08 20:40:38 UTC 2011",
+ "overview": "\u003Cp\u003ESciEngines provides cost- and energy-efficient High Performance Computing (HPC) solutions based on Field Programmable Gate Arrays (FPGAs).\u003C/p\u003E\n\n\u003Cp\u003ESciEngines products (scalable from single accelerator cards up to supercomputing clusters) can be optimized for specific applications and then provide the processing power of hundreds, thousands or tens of thousands of PCs in one server. The investment is usually below 10% of comparable standard IT-hardware and electricity consumption below 2% - oftentimes resulting in higher savings each year than the amount invested in the infrastructure. In addition to hardware, SciEngines provides custom development and implementation services to ease the adoption of this novel IT architecture. \u003C/p\u003E\n\n\u003Cp\u003EPrerequisite for a recuperation of the optimization effort is a stability of the core-algorithms as well as above-average (\u0026gt;128 PC cores) processing requirements for those. Best results are generally obtained in sectors like cryptography, engineering, financial mathematics, scientific research (biosciences, geosciences, physics etc) and simulations (e.g. 3D modeling or logistics).\u003C/p\u003E\n\n\u003Cp\u003ESciEngines is currently offering free evaluations for applications of interest and actively looking for partners in key industries to create total solutions with a high user-acceptance.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       101],
+      "assets/images/resized/0010/8280/108280v2-max-150x150.png"],
+     [[250,
+       168],
+      "assets/images/resized/0010/8280/108280v2-max-250x250.png"],
+     [[450,
+       303],
+      "assets/images/resized/0010/8280/108280v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Fraunhofer Str. 13",
+    "address2": "",
+    "zip_code": "24118",
+    "city": "Kiel",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0010/8446/108446v2-max-150x150.png"],
+      [[250,
+        162],
+       "assets/images/resized/0010/8446/108446v2-max-250x250.png"],
+      [[450,
+        293],
+       "assets/images/resized/0010/8446/108446v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.copacobana.org",
+    "title": "Academic website describing evolution of COPACOBANA computer in a cryptography setting (English)"},
+   {"external_url": "http://www.informatik.uni-kiel.de/schimmler/forschung/copacobana/",
+    "title": "University Kiel website concerning COPACOBANA (German)"},
+   {"external_url": "http://www.heise.de/security/artikel/Von-Woerterbuechern-und-Regenboegen-270088.html",
+    "title": "c't / Heise article regarding COPACOBANA in a cryptology setting (German)"}]}

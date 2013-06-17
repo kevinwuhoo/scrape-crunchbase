@@ -1,0 +1,93 @@
+{"name": "OneTouch",
+ "permalink": "onetouch",
+ "crunchbase_url": "http://www.crunchbase.com/company/onetouch",
+ "homepage_url": "http://www.one-touch.co",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "onetouchAU",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "hany@one-touch.com.au",
+ "phone_number": "+1(415)697-2777",
+ "description": "Sorting the world's documents",
+ "created_at": "Wed May 01 05:09:59 UTC 2013",
+ "updated_at": "Mon May 06 05:32:08 UTC 2013",
+ "overview": "\u003Cp\u003EOneTouch is a cloud-based platform that automates document processing using OCR and natural language processing.\u003C/p\u003E\n\n\u003Cp\u003ECustomers simply upload their business documents; our software will then identify the document and then run a variety of automated processes, such as document re-labelling, splitting, as well as extracting, redacting and repurposing relevant data. Our software incorporates a machine-learning algorithm which improves over time with increased adoption. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0025/6657/256657v2-max-150x150.png"],
+     [[250,
+       151],
+      "assets/images/resized/0025/6657/256657v2-max-250x250.png"],
+     [[450,
+       272],
+      "assets/images/resized/0025/6657/256657v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Hany",
+      "last_name": "Pham",
+      "permalink": "hany-pham",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Schagen",
+      "permalink": "john-schagen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.startupsmart.com.au/financing-a-business/melbourne-start-up-onetouch-heads-to-silicon-valley-with-150k-in-its-back-pocket/201304169481.html",
+    "source_description": "Melbourne start-up OneTouch heads to Silicon Valley with $150k in its back pocket",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 3,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Melbourne",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -37.814107,
+    "longitude": 144.96328}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

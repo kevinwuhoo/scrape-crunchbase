@@ -1,0 +1,147 @@
+{"name": "InfraSearch",
+ "permalink": "infrasearch",
+ "crunchbase_url": "http://www.crunchbase.com/company/infrasearch",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "search",
+ "number_of_employees": 15,
+ "founded_year": 2000,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Real-time search engine",
+ "created_at": "Mon Jan 24 20:30:10 UTC 2011",
+ "updated_at": "Mon Jun 27 23:07:07 UTC 2011",
+ "overview": "\u003Cp\u003EInfrasearch, Inc. offers person to person information sharing services. The company is a provider of distributed, peer to peer search engine and networking technology. Infrasearch, Inc. is based in Burlingame, California. As of March 14, 2001, InfraSearch, Inc. operates as a subsidiary of Sun Microsystems, Inc.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, founder",
+    "person":
+     {"first_name": "Gene",
+      "last_name": "Kan",
+      "permalink": "gene-kan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Cody",
+      "last_name": "Olivery",
+      "permalink": "cody-olivery",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Yaroslav",
+      "last_name": "Faybishenko",
+      "permalink": "yaroslav-faybishenko",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2000,
+    "funded_month": 6,
+    "funded_day": 30,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Marc",
+         "last_name": "Andreessen",
+         "permalink": "marc-andreessen",
+         "image":
+          {"available_sizes":
+            [[[100,
+               150],
+              "assets/images/resized/0001/0712/10712v10-max-150x150.jpg"],
+             [[166,
+               250],
+              "assets/images/resized/0001/0712/10712v10-max-250x250.jpg"],
+             [[300,
+               450],
+              "assets/images/resized/0001/0712/10712v10-max-450x450.jpg"]],
+           "attribution": ""}}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Graham",
+         "last_name": "Spencer",
+         "permalink": "graham-spencer",
+         "image":
+          {"available_sizes":
+            [[[150,
+               113],
+              "assets/images/resized/0002/7239/27239v4-max-150x150.png"],
+             [[237,
+               179],
+              "assets/images/resized/0002/7239/27239v4-max-250x250.png"],
+             [[237,
+               179],
+              "assets/images/resized/0002/7239/27239v4-max-450x450.png"]],
+           "attribution": "\u003Cp\u003E\u003Ca href=\"http://www.flickr.com/photos/jpwain/479175837\" title=\"jpwain on flickr\" rel=\"nofollow\"\u003Ejpwain on flickr\u003C/a\u003E\u003C/p\u003E"}}},
+      {"company": null,
+       "financial_org":
+        {"name": "Angel Investors LP",
+         "permalink": "angel-investors-lp",
+         "image": null},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Joe",
+         "last_name": "Kraus",
+         "permalink": "joe-kraus",
+         "image":
+          {"available_sizes":
+            [[[114,
+               150],
+              "assets/images/resized/0001/3954/13954v3-max-150x150.png"],
+             [[185,
+               242],
+              "assets/images/resized/0001/3954/13954v3-max-250x250.png"],
+             [[185,
+               242],
+              "assets/images/resized/0001/3954/13954v3-max-450x450.png"]],
+           "attribution": "\u003Cp\u003E\u003Ca href=\"http://money.cnn.com/popups/2006/biz2/howtosucceed/33.html\" title=\"CNN / Jotspot\" rel=\"nofollow\"\u003ECNN / Jotspot\u003C/a\u003E\u003C/p\u003E"}}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Mike",
+         "last_name": "Homer",
+         "permalink": "mike-homer",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

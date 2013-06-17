@@ -1,0 +1,133 @@
+{"name": "GridVid.me",
+ "permalink": "gridvid-me",
+ "crunchbase_url": "http://www.crunchbase.com/company/gridvid-me",
+ "homepage_url": "https://GridVid.me",
+ "blog_url": "https://gridvid.me/blog/",
+ "blog_feed_url": "https://gridvid.me/blog/feed/",
+ "twitter_username": "gridvidme",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, encoding, video-encoding, transcoding, cloud-video-encoding",
+ "alias_list": "",
+ "email_address": "info@gridvid.me",
+ "phone_number": "",
+ "description": "Cloud video encoding service",
+ "created_at": "Wed Dec 05 18:43:39 UTC 2012",
+ "updated_at": "Fri May 17 03:22:40 UTC 2013",
+ "overview": "\u003Cp\u003EGridVid.me is a cloud video encoding service built for high volume online video platforms. \u003C/p\u003E\n\n\u003Cp\u003EGridVid.me is a simple REST API, similar to what you are used to from other cloud encoders. Point to your source files, specify what formats you need, then tell GridVid where to put them. They also have dozens of predefined inputs for the most popular encoding settings.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0022/4030/224030v1-max-150x150.png"],
+     [[250,
+       51],
+      "assets/images/resized/0022/4030/224030v1-max-250x250.png"],
+     [[264,
+       54],
+      "assets/images/resized/0022/4030/224030v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Zencoder",
+      "permalink": "zencoder",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0008/1800/81800v6-max-150x150.png"],
+          [[250,
+            32],
+           "assets/images/resized/0008/1800/81800v6-max-250x250.png"],
+          [[450,
+            57],
+           "assets/images/resized/0008/1800/81800v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Encoding.com",
+      "permalink": "encoding-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0002/1093/21093v3-max-150x150.jpg"],
+          [[250,
+            56],
+           "assets/images/resized/0002/1093/21093v3-max-250x250.jpg"],
+          [[450,
+            101],
+           "assets/images/resized/0002/1093/21093v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Panda",
+      "permalink": "panda",
+      "image": null}}],
+ "providerships":
+  [{"title": "CirrusGrid",
+    "is_past": false,
+    "provider":
+     {"name": "CPUsage",
+      "permalink": "cpusage",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "97209",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": 45.5266975,
+    "longitude": -122.6880503}],
+ "milestones":
+  [{"description": "Public launch",
+    "stoned_year": 2012,
+    "stoned_month": 12,
+    "stoned_day": 5,
+    "source_url": "http://techcrunch.com/2012/12/05/gridvid-me-launches-low-cost-video-encoding-to-compete-with-zencoder-and-encoding-com/",
+    "source_text": null,
+    "source_description": "GridVid.Me Launches Low-Cost Video Encoding To Compete With Zencoder And Encoding.com",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "GridVid.me",
+      "permalink": "gridvid-me"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0022/4032/224032v1-max-150x150.png"],
+      [[250,
+        154],
+       "assets/images/resized/0022/4032/224032v1-max-250x250.png"],
+      [[450,
+        278],
+       "assets/images/resized/0022/4032/224032v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "https://gridvid.me/documentation",
+    "title": "API Documentation"}]}

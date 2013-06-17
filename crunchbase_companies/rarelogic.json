@@ -1,0 +1,89 @@
+{"name": "RareLogic",
+ "permalink": "rarelogic",
+ "crunchbase_url": "http://www.crunchbase.com/company/rarelogic",
+ "homepage_url": "http://www.rarelogic.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "rarelogic",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "streaming-event-data, big-data, data-analysis, population-tracking",
+ "alias_list": null,
+ "email_address": "info@rarelogic.com",
+ "phone_number": "6132547274",
+ "description": "realtime streaming event analysis ",
+ "created_at": "Tue Feb 01 16:32:59 UTC 2011",
+ "updated_at": "Tue Mar 06 18:04:10 UTC 2012",
+ "overview": "\u003Cp\u003EWe use our own technology to handle and analyze streaming event based data.\u003C/p\u003E\n\n\u003Cp\u003ENew in-memory, parallel distibuted data store specifically written to cluster events around unique entities.  Platform runs on a cluster of off-the shelf servers and easily scales out for more capacity. \u003C/p\u003E\n\n\u003Cp\u003EPlatform is built for tracking populations (humans or objects) and capturing and relating streaming events to each unique member of the population.  i.e. web visitors, loyalty card usage, network traffic, subscriber usage data (mobile device usage).\u003C/p\u003E\n\n\u003Cp\u003EPlatform is configurable and flexible to adapt to different data sources and use the distributed processing engine for analysis.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0012/1234/121234v4-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0012/1234/121234v4-max-250x250.png"],
+     [[400,
+       400],
+      "assets/images/resized/0012/1234/121234v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Co-founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Neil",
+      "permalink": "chris-neil",
+      "image": null}},
+   {"is_past": false,
+    "title": "President / Co-founder",
+    "person":
+     {"first_name": "Seth",
+      "last_name": "Hamilton",
+      "permalink": "seth-hamilton",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Labarge Weinstein",
+      "permalink": "labarge-weinstein",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "340 March Road",
+    "address2": "Suite 201",
+    "zip_code": "K2K 2E4",
+    "city": "Kanata, ON",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

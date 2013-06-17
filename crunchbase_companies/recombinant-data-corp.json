@@ -1,0 +1,106 @@
+{"name": "Recombinant Data Corp.",
+ "permalink": "recombinant-data-corp",
+ "crunchbase_url": "http://www.crunchbase.com/company/recombinant-data-corp",
+ "homepage_url": "http://www.recomdata.com",
+ "blog_url": "http://www.recomdata.com/www/blog",
+ "blog_feed_url": "http://www.recomdata.com/www/blog/atom.xml",
+ "twitter_username": "recomdata",
+ "category_code": "software",
+ "number_of_employees": 85,
+ "founded_year": 2004,
+ "founded_month": 3,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "healthcare, academic-medical, pharmaceutical, open-source, physician-associations, hospitals, state-government, federal-government, translational-research",
+ "alias_list": null,
+ "email_address": "results@recomdata.com",
+ "phone_number": "(617) 243-3700",
+ "description": "Healthcare Data Warehousing",
+ "created_at": "Mon Oct 05 21:06:18 UTC 2009",
+ "updated_at": "Sun Sep 04 05:34:26 UTC 2011",
+ "overview": "\u003Cp\u003ERecombinant offers healthcare providers and academic medical centers proven, leading-edge data warehousing and clinical intelligence solutions to deliver higher quality outcomes, accelerate personalized medicine, and lower costs. Our team of industry veterans is focused on improving the flow of reliable data to power clinical and research applications in a secure, compliant environment.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       15],
+      "assets/images/resized/0006/1727/61727v2-max-150x150.jpg"],
+     [[250,
+       26],
+      "assets/images/resized/0006/1727/61727v2-max-250x250.jpg"],
+     [[365,
+       38],
+      "assets/images/resized/0006/1727/61727v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Emerson",
+      "permalink": "peter-emerson",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Shelley",
+      "last_name": "Orenstein",
+      "permalink": "shelley-orenstein",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Director, Data Warehousing",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Abend",
+      "permalink": "aaron-abend",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Director, Data Architecture, Strategy, and Governance ",
+    "person":
+     {"first_name": "Buce",
+      "last_name": "Johnson",
+      "permalink": "buce-johnson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Director, Analytical Applications",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Housman",
+      "permalink": "dan-housman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "255 Washington Street",
+    "address2": "Suite 235",
+    "zip_code": "02458",
+    "city": "Newton",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.recomdata.com/dev_production/Quality_Reporting_DWArticle.pdf",
+    "title": "Quality Reporting Through a Data Warehouse"}]}

@@ -1,0 +1,77 @@
+{"name": "Notwerk",
+ "permalink": "notwerk",
+ "crunchbase_url": "http://www.crunchbase.com/company/notwerk",
+ "homepage_url": "http://notwerk.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "notwerk_",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "monitoring, networking",
+ "alias_list": null,
+ "email_address": "contact@notwerk.com",
+ "phone_number": "",
+ "description": "Network connectivity monitoring platform",
+ "created_at": "Fri May 04 22:40:39 UTC 2012",
+ "updated_at": "Tue May 22 03:24:00 UTC 2012",
+ "overview": "\u003Cp\u003ENotwerk is a distributed monitoring service that tracks the state of network connectivity towards customers\u0026#8217; servers from across the Internet. \u003C/p\u003E\n\n\u003Cp\u003EThe service monitors network routes rather than servers, and tracks low-level network metrics such as packet loss, latency and jitter.\u003C/p\u003E\n\n\u003Cp\u003EThe service targets IT and tech support professionals.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0018/7930/187930v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0018/7930/187930v2-max-250x250.png"],
+     [[250,
+       250],
+      "assets/images/resized/0018/7930/187930v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Pankratov",
+      "permalink": "alex-pankratov",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,120 @@
+{"name": "My Pad Your Pad",
+ "permalink": "my-pad-your-pad",
+ "crunchbase_url": "http://www.crunchbase.com/company/my-pad-your-pad",
+ "homepage_url": "http://www.mypadyourpad.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "vacation-rental, south-padre-island, vacation",
+ "alias_list": null,
+ "email_address": "markhagan@gmail.com",
+ "phone_number": "812-306-4996",
+ "description": "Vacation Rental Software",
+ "created_at": "Thu Mar 31 13:41:55 UTC 2011",
+ "updated_at": "Wed Apr 06 01:06:28 UTC 2011",
+ "overview": "\u003Cp\u003EMy Pad Your Pad is a SaaS package which automates the entire process of renting a vacation home on South Padre Island (just one market for now): availability, booking, digital key sending, housekeeper scheduling, maintenance scheduling, deposit holding/returning, etc.\u003C/p\u003E\n\n\u003Cp\u003ESince the need for a building and on-sight staff have been eliminated, we increase the amount of money the condo and home owners keep with each booking. Our network of cleaning and maintenance people on the island work on contract, so we have no overhead.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Kathy",
+      "last_name": "Allen",
+      "permalink": "kathy-allen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Hagan",
+      "permalink": "mark-hagan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Seth",
+      "last_name": "Allen",
+      "permalink": "seth-allen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "VRBO",
+      "permalink": "vrbo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0009/5786/95786v1-max-150x150.png"],
+          [[239,
+            88],
+           "assets/images/resized/0009/5786/95786v1-max-250x250.png"],
+          [[239,
+            88],
+           "assets/images/resized/0009/5786/95786v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HomeAway",
+      "permalink": "homeaway",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/2422/12422v5-max-150x150.jpg"],
+          [[250,
+            62],
+           "assets/images/resized/0001/2422/12422v5-max-250x250.jpg"],
+          [[450,
+            112],
+           "assets/images/resized/0001/2422/12422v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Dallas Office",
+    "address1": "2335 Allen St.",
+    "address2": "",
+    "zip_code": "75204",
+    "city": "Dallas",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0012/8594/128594v2-max-150x150.png"],
+      [[250,
+        187],
+       "assets/images/resized/0012/8594/128594v2-max-250x250.png"],
+      [[450,
+        338],
+       "assets/images/resized/0012/8594/128594v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.mypadyourpad.com/",
+    "title": "South Padre Beach Vacation Rentals"}]}

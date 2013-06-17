@@ -1,0 +1,128 @@
+{"name": "Quant the News",
+ "permalink": "quant-the-news",
+ "crunchbase_url": "http://www.crunchbase.com/company/quant-the-news",
+ "homepage_url": "http://www.stockmood.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "techcrunch50, tc50, finance, subscription-services",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "3102030011",
+ "description": null,
+ "created_at": "Wed Aug 27 23:37:12 UTC 2008",
+ "updated_at": "Fri Jul 31 23:35:57 UTC 2009",
+ "overview": "\u003Cp\u003EQuant the News uses  Artificial Intelligence to convert news into numbers, in an attempt to quantify the impact of news.\u003C/p\u003E\n\n\u003Cp\u003EThe company is launching its first product at TechCrunch called StockMood.  Which can be found at www.StockMood.com\u003C/p\u003E\n\n\u003Cp\u003EStockMood.com uses analyze news stories, classify their sentiment, and then measure their potential impact on a stock\u0026#8217;s price direction.\u003C/p\u003E\n\n\u003Cp\u003EEach article is individually ingested, and its sentiment assessed by natural language processing models. While the models aren\u0026#8217;t perfect, users can correct the sentiment rating produced by the system.  This crowd-sourcing technology allows the AI engine to constantly improve its accuracy.\u003C/p\u003E\n\n\u003Cp\u003EMood measures how a stock\u00e2\u20ac\u2122s price responds to news. When a stock is in a good Mood that means the stock price responds very favorably to good news, and has a tendency to shrug off the bad news. The opposite is true for bad Mood. The more this happens the stronger the mood in that direction gets.\u003C/p\u003E\n\n\u003Cp\u003EWhen both the mood and the sentiment values for a stock reach certain empirically determined thresholds, a Sentiment Alert is issued, indicating a statistical probability for movement over the next 5 days. Sentiment alerts can be positive or negative. These Alerts  suggest that a stock may be at a peak of optimism or a peak of pessimism, respectively.  Our statistical analyses have shown that, at the time of an Overoptimism or Overpessimism Alert,  trading in the opposite direction of the news can provide significant edge.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       109],
+      "assets/images/resized/0002/4794/24794v1-max-150x150.jpg"],
+     [[200,
+       146],
+      "assets/images/resized/0002/4794/24794v1-max-250x250.jpg"],
+     [[200,
+       146],
+      "assets/images/resized/0002/4794/24794v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brett",
+      "last_name": "Markinson",
+      "permalink": "brett-markinson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Goertzel",
+      "permalink": "ben-goertzel",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "private",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Matt",
+         "last_name": "Coffin",
+         "permalink": "matt-coffin",
+         "image":
+          {"available_sizes":
+            [[[100,
+               150],
+              "assets/images/resized/0008/2010/82010v7-max-150x150.jpg"],
+             [[166,
+               250],
+              "assets/images/resized/0008/2010/82010v7-max-250x250.jpg"],
+             [[216,
+               324],
+              "assets/images/resized/0008/2010/82010v7-max-450x450.jpg"]],
+           "attribution": ""}}},
+      {"company": null,
+       "financial_org":
+        {"name": "Lagovent Ventures Group, LLC",
+         "permalink": "lagovent-ventures-group",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0005/4930/54930v1-max-150x150.png"],
+             [[250,
+               51],
+              "assets/images/resized/0005/4930/54930v1-max-250x250.png"],
+             [[250,
+               51],
+              "assets/images/resized/0005/4930/54930v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2121 Avenue of the Stars,",
+    "address2": "Suite 1250",
+    "zip_code": "90067",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.054259,
+    "longitude": -118.414064}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject id=\"otv_o_554768\" height=\"320\" width=\"400\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"\u003E\u003Cparam value=\"http://www.ustream.tv/flash/video/697864\" name=\"movie\" /\u003E\u003Cparam value=\"true\" name=\"allowFullScreen\" /\u003E\u003Cparam value=\"always\" name=\"allowScriptAccess\" /\u003E\u003Cparam value=\"transparent\" name=\"wmode\" /\u003E\u003Cparam value=\"viewcount=false\u0026amp;autoplay=false\u0026amp;brand=embed\u0026amp;\" name=\"flashvars\" /\u003E\u003Cembed name=\"otv_e_350559\" id=\"otv_e_329379\" flashvars=\"viewcount=false\u0026amp;autoplay=false\u0026amp;brand=embed\u0026amp;\" height=\"320\" width=\"400\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"transparent\" src=\"http://www.ustream.tv/flash/video/697864\" type=\"application/x-shockwave-flash\" /\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003Etc50\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

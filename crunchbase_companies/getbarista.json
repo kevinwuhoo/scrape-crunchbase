@@ -1,0 +1,69 @@
+{"name": "getBarista",
+ "permalink": "getbarista",
+ "crunchbase_url": "http://www.crunchbase.com/company/getbarista",
+ "homepage_url": "http://getbarista.com",
+ "blog_url": "http://blog.getbarista.com",
+ "blog_feed_url": "",
+ "twitter_username": "pybarista",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "continuous-deployment, lean-startup",
+ "alias_list": null,
+ "email_address": "talk@getbarista.com",
+ "phone_number": "",
+ "description": "Continuous deployment for python",
+ "created_at": "Sat Nov 12 22:01:17 UTC 2011",
+ "updated_at": "Mon Nov 21 04:29:23 UTC 2011",
+ "overview": "\u003Cp\u003EgetBarista is continuous deployment service for your python projects.  It\u0026#8217;s most useful for django and git, but in no way limited to them\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0016/2080/162080v2-max-150x150.png"],
+     [[233,
+       80],
+      "assets/images/resized/0016/2080/162080v2-max-250x250.png"],
+     [[233,
+       80],
+      "assets/images/resized/0016/2080/162080v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Customer Development Team",
+    "person":
+     {"first_name": "Andriy",
+      "last_name": "Khavryuchenko",
+      "permalink": "andriy-khavryuchenko",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

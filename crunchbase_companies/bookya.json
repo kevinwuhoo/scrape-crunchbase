@@ -1,0 +1,148 @@
+{"name": "Bookya",
+ "permalink": "bookya",
+ "crunchbase_url": "http://www.crunchbase.com/company/bookya",
+ "homepage_url": "http://www.bookya.de/",
+ "blog_url": "http://blog.bookya.de/",
+ "blog_feed_url": "http://blog.bookya.de/feed/",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "books, students, shopping, social-shopping, e-commerce",
+ "alias_list": null,
+ "email_address": "bookya@bookya.de",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Jun 27 17:40:18 UTC 2008",
+ "updated_at": "Sat Oct 02 06:45:45 UTC 2010",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.bookya.de/\" title=\"Bookya\" rel=\"nofollow\"\u003EBookya\u003C/a\u003E creates transparency in the market for university literature which is affected by university specific requirements and relatively high prices for new books. Because of the regional focus, it is possible to locally bring together buyers and sellers, to increase the use of an individual book and to achieve more favourable prices.\u003C/p\u003E\n\n\u003Cp\u003EIn case a required book is not available used at Bookya, there is the opportunity of directly ordering a new edition on the page. The company finances itself among other things using premium proceeds which accrue from selling new books.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       67],
+      "assets/images/resized/0002/1150/21150v2-max-150x150.png"],
+     [[156,
+       70],
+      "assets/images/resized/0002/1150/21150v2-max-250x250.png"],
+     [[156,
+       70],
+      "assets/images/resized/0002/1150/21150v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Bookya",
+    "permalink": "bookya",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder, CTO",
+    "person":
+     {"first_name": "Julian",
+      "last_name": "Bez",
+      "permalink": "julian-bez",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Norman",
+      "last_name": "Egli",
+      "permalink": "norman-egli",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "DHL",
+      "permalink": "dhl",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.deutsche-startups.de/2007/10/16/holtzbrinck-steigt-bei-bookya-ein/",
+    "source_description": "Holtzbrinck steigt bei Bookya ein",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "HV Holtzbrinck Ventures",
+         "permalink": "holtzbrinck-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/8480/18480v3-max-150x150.jpg"],
+             [[250,
+               51],
+              "assets/images/resized/0001/8480/18480v3-max-250x250.jpg"],
+             [[450,
+               92],
+              "assets/images/resized/0001/8480/18480v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.deutsche-startups.de/2010/03/05/lsl-gruppe-uebernimmt-bookya/",
+   "source_description": "LSL-Gruppe \u00c3\u00bcbernimmt bookya",
+   "acquired_year": 2010,
+   "acquired_month": 3,
+   "acquired_day": 5,
+   "acquiring_company":
+    {"name": "LSL Gruppe",
+     "permalink": "lsl-ag",
+     "image":
+      {"available_sizes":
+        [[[150,
+           70],
+          "assets/images/resized/0008/0405/80405v1-max-150x150.png"],
+         [[182,
+           85],
+          "assets/images/resized/0008/0405/80405v1-max-250x250.png"],
+         [[182,
+           85],
+          "assets/images/resized/0008/0405/80405v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

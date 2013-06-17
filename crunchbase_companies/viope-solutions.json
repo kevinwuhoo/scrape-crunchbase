@@ -1,0 +1,94 @@
+{"name": "Viope Solutions",
+ "permalink": "viope-solutions",
+ "crunchbase_url": "http://www.crunchbase.com/company/viope-solutions",
+ "homepage_url": "http://www.viope.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Viope",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "elearning, web-based-programming-learning-environment",
+ "alias_list": null,
+ "email_address": "contact@viope.com",
+ "phone_number": "+358453503622",
+ "description": "Programming learning environment",
+ "created_at": "Wed Jul 21 12:31:32 UTC 2010",
+ "updated_at": "Wed Aug 08 23:12:41 UTC 2012",
+ "overview": "\u003Cp\u003EViope Solutions Ltd is developing eLearning solutions for computer programming.\u003C/p\u003E\n\n\u003Cp\u003EOur main product, Viope Programming Courses service, is a web-based programming learning environment which is used mainly in educational organizations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0009/4508/94508v2-max-150x150.jpg"],
+     [[250,
+       67],
+      "assets/images/resized/0009/4508/94508v2-max-250x250.jpg"],
+     [[450,
+       121],
+      "assets/images/resized/0009/4508/94508v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chairman of the Board",
+    "person":
+     {"first_name": "Mika",
+      "last_name": "Lackman",
+      "permalink": "mika-lackman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Antti",
+      "last_name": "Lihavainen",
+      "permalink": "antti-lihavainen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Country Manager",
+    "person":
+     {"first_name": "Sandra",
+      "last_name": "Xu",
+      "permalink": "sandra-xu",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Kyl\u00c3\u00a4nvanhimmantie 29",
+    "address2": "",
+    "zip_code": "00640",
+    "city": "Helsinki",
+    "state_code": null,
+    "country_code": "FIN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.7706\u0026rep=rep1\u0026type=pdf",
+    "title": "COMPUTER SUPPORTED LEARNING ENVIRONMENT FOR C PROGRAMMING"},
+   {"external_url": "http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F10756%2F33901%2F01617325.pdf%3Farnumber%3D1617325\u0026authDecision=-203",
+    "title": "Viope as a Tool for Teaching Introductory Programming: An Empirical Investigation"}]}

@@ -1,0 +1,102 @@
+{"name": "BEAN",
+ "permalink": "bean",
+ "crunchbase_url": "http://www.crunchbase.com/company/bean",
+ "homepage_url": "http://beanonline.org",
+ "blog_url": "http://hq.beanonline.org/blog",
+ "blog_feed_url": "",
+ "twitter_username": "beanonline",
+ "category_code": "web",
+ "number_of_employees": 120,
+ "founded_year": 2003,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "nonprofit, social-media, volunteering, networking, charitable-giving, mobile-communication",
+ "alias_list": null,
+ "email_address": "hq@beanonline.org",
+ "phone_number": "2067156198",
+ "description": "Social networking for young volunteers",
+ "created_at": "Thu Mar 03 04:46:06 UTC 2011",
+ "updated_at": "Mon Mar 07 16:12:45 UTC 2011",
+ "overview": "\u003Cp\u003EBEAN is a charitable nonprofit 501(c)3 organization that use the power of mobile communication and social media to organize young professionals in cities around the world to volunteer, give to charity, socialize and network.\u003C/p\u003E\n\n\u003Cp\u003EBEAN now has over 10,000 members in 12 cities around the globe, including Seattle, New York, Shanghai, Seoul and New Delhi.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[112,
+       112],
+      "assets/images/resized/0012/4717/124717v2-max-150x150.jpg"],
+     [[112,
+       112],
+      "assets/images/resized/0012/4717/124717v2-max-250x250.jpg"],
+     [[112,
+       112],
+      "assets/images/resized/0012/4717/124717v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Howard",
+      "last_name": "Wu",
+      "permalink": "howard-wu",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0012/5748/125748v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0012/5748/125748v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0012/5748/125748v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Wowrack",
+      "permalink": "wowrack",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0012/4716/124716v2-max-150x150.png"],
+      [[250,
+        125],
+       "assets/images/resized/0012/4716/124716v2-max-250x250.png"],
+      [[450,
+        226],
+       "assets/images/resized/0012/4716/124716v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://seattletimes.nwsource.com/html/localnews/2002357038_bean04e.html",
+    "title": "Nonprofit BEAN sprouts social network"},
+   {"external_url": "http://www.seattlewomanmagazine.com/articles/july06-2.htm",
+    "title": "Small Is Not Insignificant"},
+   {"external_url": "http://www.seattlepi.com/lifestyle/334475_yp08.html",
+    "title": "Young professional groups have exploded in Seattle"},
+   {"external_url": "http://shanghai.urbanatomy.com/index.php/i-ahearts-shanghai/85-i-love-shanghai/1515-best-of-shanghai-2009-the-winners",
+    "title": "Best of Shanghai 2009: the winners"}]}

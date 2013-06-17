@@ -1,0 +1,103 @@
+{"name": "VacationRoost",
+ "permalink": "vacationroost",
+ "crunchbase_url": "http://www.crunchbase.com/company/vacationroost",
+ "homepage_url": "http://www.vacationroost.com",
+ "blog_url": "http://blog.vacationroost.com",
+ "blog_feed_url": "http://www.vacationroost.wordpress.com/feed",
+ "twitter_username": "VacationRoost",
+ "category_code": "ecommerce",
+ "number_of_employees": 50,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "vacation-rentals, vacation-homes, lodging, travel-agency",
+ "alias_list": null,
+ "email_address": "customerservice@vacationroost.com",
+ "phone_number": "(888) 337-6678",
+ "description": "vacation rentals",
+ "created_at": "Tue Dec 21 16:09:52 UTC 2010",
+ "updated_at": "Tue Jun 07 14:25:35 UTC 2011",
+ "overview": "\u003Cp\u003EVacationRoost Inc. offers more than 100,000 professionally managed vacation rentals in 84 beach and ski destinations across North and South America. \u003C/p\u003E\n\n\u003Cp\u003EBased in Salt Lake City, UT, VacationRoost\u00e2\u20ac\u2122s team of experienced travel professionals is committed to making booking a vacation rental as easy as booking a hotel room online. With the largest selection of professionally managed vacation homes and condos, VacationRoost operates through a vast network of websites and affiliate partners. Travelers can search, compare and book their vacation rental online, or work with an experienced destination expert to find a professionally managed vacation rentals. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Julian",
+      "last_name": "Castelli",
+      "permalink": "julian-castelli",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO / COO",
+    "person":
+     {"first_name": "George",
+      "last_name": "Trevino",
+      "permalink": "george-trevino",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "HomeAway",
+      "permalink": "homeaway",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/2422/12422v5-max-150x150.jpg"],
+          [[250,
+            62],
+           "assets/images/resized/0001/2422/12422v5-max-250x250.jpg"],
+          [[450,
+            112],
+           "assets/images/resized/0001/2422/12422v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "VRBO",
+      "permalink": "vrbo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0009/5786/95786v1-max-150x150.png"],
+          [[239,
+            88],
+           "assets/images/resized/0009/5786/95786v1-max-250x250.png"],
+          [[239,
+            88],
+           "assets/images/resized/0009/5786/95786v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "2795 E Cottonwood Pkwy",
+    "address2": "Suite 300",
+    "zip_code": "84121",
+    "city": "Salt Lake City",
+    "state_code": "UT",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.bbb.org/utah/business-reviews/travel-agencies/mountain-reservations-vacation-roost-in-salt-lake-city-ut-10040193",
+    "title": "VacationRoost BBB Profile"}]}

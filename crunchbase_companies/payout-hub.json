@@ -1,0 +1,97 @@
+{"name": "Payout Hub",
+ "permalink": "payout-hub",
+ "crunchbase_url": "http://www.crunchbase.com/company/payout-hub",
+ "homepage_url": "http://payouthub.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "PayoutHub",
+ "category_code": "games_video",
+ "number_of_employees": 13,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cash-tournament-api, custom-intergration, white-label-widget",
+ "alias_list": null,
+ "email_address": "payouthub@sdnnow.com",
+ "phone_number": "",
+ "description": "White Label API Tournaments",
+ "created_at": "Sat Feb 20 04:33:38 UTC 2010",
+ "updated_at": "Fri May 28 20:54:41 UTC 2010",
+ "overview": "\u003Cp\u003EPayoutHub is a white-label, cut-and-paste widget allowing online game developers to run cash tournaments on their games. It\u00e2\u20ac\u2122s simple to integrate, totally secure, and they manage all payments and accounts. It can be incorporated in almost any online game with scores.\u003C/p\u003E\n\n\u003Cp\u003EKey Features:\nSimple Intergration\nPayoutHub can be implemented in less than an hour. Simply copy and paste our code snippets onto your site or application for quickest implementation.\u003C/p\u003E\n\n\u003Cp\u003EManaged Payouts\nThey handle all payments to your players when they win cash prizes. You don\u0026#8217;t have to worry about the legalities, tax issues, and payment logistics!\u003C/p\u003E\n\n\u003Cp\u003EJSON API\nUsing the JSON API, publishers with dynamic applications can create rich, highly customized user experiences.\u003C/p\u003E\n\n\u003Cp\u003EComplete Customization\nPublishers can leverage PayoutHub\u0026#8217;s JSON feed or inject your own CSS stylesheets for complete customization of the PayoutHub look and feel, or to embed it into 3rd party platforms such as Flash.\u003C/p\u003E\n\n\u003Cp\u003EManaged Customer Service\nPayoutHub handles all customer service inquiries and payment issues from your players 24/7. \u003C/p\u003E\n\n\u003Cp\u003ERobust Reporting\nMonitor your earnings performance in real-time. They provide a full reporting suite and offer monthly statements and complete transaction logs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[143,
+       59],
+      "assets/images/resized/0007/8197/78197v2-max-150x150.png"],
+     [[143,
+       59],
+      "assets/images/resized/0007/8197/78197v2-max-250x250.png"],
+     [[143,
+       59],
+      "assets/images/resized/0007/8197/78197v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Seth",
+      "last_name": "Jay Goldberg",
+      "permalink": "seth-jay-goldberg",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Mehra",
+      "permalink": "sean-mehra",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0024/3100/243100v2-max-150x150.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0024/3100/243100v2-max-250x250.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0024/3100/243100v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Mailing Address",
+    "address1": "100 E. Whitestone Blvd Suite 148-303",
+    "address2": "",
+    "zip_code": "78613",
+    "city": "Cedar Park",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"450\" height=\"300\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/0Votq4I6wyo\u0026hl=en_US\u0026fs=1\u0026color1=0x006699\u0026color2=0x54abd6\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/0Votq4I6wyo\u0026hl=en_US\u0026fs=1\u0026color1=0x006699\u0026color2=0x54abd6\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"450\" height=\"300\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://payouthub.com",
+    "title": "Payout Hub"}]}

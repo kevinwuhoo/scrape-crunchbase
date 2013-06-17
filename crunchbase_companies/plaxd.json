@@ -1,0 +1,156 @@
+{"name": "PLAXD",
+ "permalink": "plaxd",
+ "crunchbase_url": "http://www.crunchbase.com/company/plaxd",
+ "homepage_url": "http://www.plaxd.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "data-mining, mobile-gaming, games, free-to-play, machine-learning, analytics, social-games, data-analytics, hidden-objects-games",
+ "alias_list": null,
+ "email_address": "Antonabram@gmail.com",
+ "phone_number": "",
+ "description": "Data-mining game developer",
+ "created_at": "Mon Apr 08 10:06:56 UTC 2013",
+ "updated_at": "Mon Apr 08 11:28:23 UTC 2013",
+ "overview": "\u003Cp\u003EPLAXD is a data-science oriented game developer focused on free-to-play social mobile games. PLAXD engine combines data-mining, experiments and machine learning to provide adaptive player experience in order to satisfy different cohorts of people.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[101,
+       17],
+      "assets/images/resized/0024/9410/249410v2-max-150x150.png"],
+     [[101,
+       17],
+      "assets/images/resized/0024/9410/249410v2-max-250x250.png"],
+     [[101,
+       17],
+      "assets/images/resized/0024/9410/249410v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Anton",
+      "last_name": "Abramov",
+      "permalink": "anton-abramov",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Anton",
+      "last_name": "Abramov",
+      "permalink": "anton-abramov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Wooga",
+      "permalink": "wooga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0007/4098/74098v5-max-150x150.png"],
+          [[250,
+            93],
+           "assets/images/resized/0007/4098/74098v5-max-250x250.png"],
+          [[450,
+            168],
+           "assets/images/resized/0007/4098/74098v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zynga",
+      "permalink": "zynga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0000/3187/3187v10-max-150x150.jpg"],
+          [[250,
+            83],
+           "assets/images/resized/0000/3187/3187v10-max-250x250.jpg"],
+          [[275,
+            92],
+           "assets/images/resized/0000/3187/3187v10-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kontagent",
+      "permalink": "kontagent",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/2624/22624v7-max-150x150.png"],
+          [[218,
+            61],
+           "assets/images/resized/0002/2624/22624v7-max-250x250.png"],
+          [[218,
+            61],
+           "assets/images/resized/0002/2624/22624v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "David and Daniil",
+         "last_name": "Liberman",
+         "permalink": "david-and-daniil-liberman",
+         "image":
+          {"available_sizes":
+            [[[150,
+               150],
+              "assets/images/resized/0022/6936/226936v2-max-150x150.jpg"],
+             [[250,
+               250],
+              "assets/images/resized/0022/6936/226936v2-max-250x250.jpg"],
+             [[256,
+               256],
+              "assets/images/resized/0022/6936/226936v2-max-450x450.jpg"]],
+           "attribution": "\u003Cp\u003EDavid and Daniil Liberman\u003C/p\u003E"}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        113],
+       "assets/images/resized/0024/9415/249415v2-max-150x150.png"],
+      [[250,
+        188],
+       "assets/images/resized/0024/9415/249415v2-max-250x250.png"],
+      [[450,
+        339],
+       "assets/images/resized/0024/9415/249415v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

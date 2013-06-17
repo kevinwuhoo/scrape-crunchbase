@@ -1,0 +1,118 @@
+{"name": "CloudBolt Software",
+ "permalink": "cloudbolt-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudbolt-software",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "clould-manager, cloud-management-platform, virtualization-management, cloud-automation, enterprise-private-cloud, hybrid-cloud, nicira-cloud, network-virtualization-enabled-cloud, openstack-cloud, cloud-computing",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Aug 16 19:01:00 UTC 2012",
+ "updated_at": "Wed May 29 12:55:14 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.cloudboltsoftware.com\" title=\"CloudBolt Software, Inc.\" rel=\"nofollow\"\u003ECloudBolt Software, Inc.\u003C/a\u003E exists to create and maintain Enterprise IT management software.\u003C/p\u003E\n\n\u003Cp\u003ECloudBolt Software\u0026#8217;s primary product is \u003Ca href=\"http://www.cloudboltsoftware.com/cloudbolt-c2\" title=\"CloudBolt Command and Control (C2)\" rel=\"nofollow\"\u003ECloudBolt Command and Control (C2)\u003C/a\u003E, a vendor-agnostic IT resource management and vending system which allows organizations to rapidly define and deploy enterprise private or hybrid cloud resources to end users.\u003C/p\u003E\n\n\u003Cp\u003ECloudBolt C2 was created to be independent of the underlying technology it manages, so it supports the industry-leading provisioning systems, virtualization technologies, and server management solutions which organizations are already using.  It also was designed to be flexible, and allows for the easy integration and support for additional vendors and technology providers as they become available.\u003C/p\u003E\n\n\u003Cp\u003ECloudBolt C2 is available in two different editions, each tailored to provide organizations with the specific functionality needed, and at a price point that makes sense for any organization.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0021/3709/213709v2-max-150x150.png"],
+     [[250,
+       51],
+      "assets/images/resized/0021/3709/213709v2-max-250x250.png"],
+     [[450,
+       93],
+      "assets/images/resized/0021/3709/213709v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Menkart",
+      "permalink": "john-menkart",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/8668/228668v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0022/8668/228668v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0022/8668/228668v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Bernard",
+      "last_name": "Sanders",
+      "permalink": "bernard-sanders",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Marketing",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Nemmers",
+      "permalink": "justin-nemmers",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Alexandre",
+      "last_name": "Augusto da Rocha",
+      "permalink": "alexandre-augusto-da-rocha",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.13M",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1574036/000157403613000001/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC",
+    "raised_amount": 1125000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 23,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "51 Monroe ST STE 805",
+    "address2": "",
+    "zip_code": "20850",
+    "city": "Rockville",
+    "state_code": "MD",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

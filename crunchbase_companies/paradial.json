@@ -1,0 +1,109 @@
+{"name": "Paradial",
+ "permalink": "paradial",
+ "crunchbase_url": "http://www.crunchbase.com/company/paradial",
+ "homepage_url": "http://www.paradial.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "+47 22 98 00 55",
+ "description": "",
+ "created_at": "Fri Apr 23 02:18:18 UTC 2010",
+ "updated_at": "Fri Apr 23 02:18:17 UTC 2010",
+ "overview": "\u003Cp\u003EParadial AS provides Internet protocol (IP) connectivity solutions. Its products include RealTunnel Firewall/NAT, which enables audio and video communication applications in the organizational and network boundaries, including the Internet and corporate intranets; and RealTunnel Enterprise Client that enables clients to set up voice and video calls, chat, file transfer, and whiteboard and application sharing to external clients. The company also offers IM/SIP client software, which includes RealTunnel FW/NAT that integrates with third party SIP/IM softclients, as well as SIP hardphones; and RealSIP Communicator that provides video, voice, text, presence, and conferencing services. In addition, it provides RealSIP Server, an SIP registrar administrating various users and managing services in a SIP IP telephony system, including routing/addressing and call setup. Further, the company offers RealSIP Conferencing Unit for audio and videoconference. It serves IP telephony, instant messaging, video conferencing vendors, and service providers. Paradial AS was founded in 2001 and is based in Oslo, Norway.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[130,
+       40],
+      "assets/images/resized/0008/4656/84656v1-max-150x150.jpg"],
+     [[130,
+       40],
+      "assets/images/resized/0008/4656/84656v1-max-250x250.jpg"],
+     [[130,
+       40],
+      "assets/images/resized/0008/4656/84656v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ingvar",
+      "last_name": "Aaberg",
+      "permalink": "ingvar-aaberg",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Espen",
+      "last_name": "Skj\u00c3\u00a6ran",
+      "permalink": "espen-skjran",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$3.49M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 3490000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 7,
+    "funded_day": 24,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Kistefos Venture Capital",
+         "permalink": "kistefos-venture-capital",
+         "image":
+          {"available_sizes":
+            [[[134,
+               103],
+              "assets/images/resized/0026/8614/268614v1-max-150x150.png"],
+             [[134,
+               103],
+              "assets/images/resized/0026/8614/268614v1-max-250x250.png"],
+             [[134,
+               103],
+              "assets/images/resized/0026/8614/268614v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Wergelandsveien 1",
+    "address2": "",
+    "zip_code": "N-0167",
+    "city": "Oslo",
+    "state_code": null,
+    "country_code": "NOR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

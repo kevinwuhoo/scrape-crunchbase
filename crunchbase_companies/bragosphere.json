@@ -1,0 +1,121 @@
+{"name": "Bragosphere",
+ "permalink": "bragosphere",
+ "crunchbase_url": "http://www.crunchbase.com/company/bragosphere",
+ "homepage_url": "http://www.thebragosphere.com",
+ "blog_url": "http://bragosphere.blogspot.com",
+ "blog_feed_url": "http://bragosphere.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bragosphere, brag-book, brag-page, social-networking, photos, video, photo-album, video-album, virtual-photo-album",
+ "alias_list": "",
+ "email_address": "steve@thebragosphere.com",
+ "phone_number": "602-493-2589",
+ "description": "Photo Sharing",
+ "created_at": "Mon Jun 23 21:10:57 UTC 2008",
+ "updated_at": "Thu Dec 01 07:48:21 UTC 2011",
+ "overview": "\u003Cp\u003EBragosphere, Inc. was founded by two .NET consultants who thought of a better way to share pictures and videos on the web.\u003C/p\u003E\n\n\u003Cp\u003EThe Bragosphere is a collection of virtual photo albums (called Brag Books) that can be shared with friends, family, or the general public. You can create stunning page layouts containing your favorite pictures, even videos, that other people can interact with.\u003C/p\u003E\n\n\u003Cp\u003EInspired by the Microsoft Surface demos, Bragosphere utilizes Microsoft Silverlight to provide a very compelling user experience that goes beyond what is currently available on the web.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0002/0862/20862v2-max-150x150.png"],
+     [[250,
+       63],
+      "assets/images/resized/0002/0862/20862v2-max-250x250.png"],
+     [[252,
+       64],
+      "assets/images/resized/0002/0862/20862v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Davie",
+      "permalink": "kevin-davie",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Commisso",
+      "permalink": "stephen-commisso",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Swaminathan",
+      "last_name": "Venkataramani",
+      "permalink": "swaminathan-venkataramani",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Flickr",
+      "permalink": "flickr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0021/3864/213864v1-max-150x150.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-250x250.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ImageShack",
+      "permalink": "imageshack",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0006/8762/68762v47-max-150x150.png"],
+          [[167,
+            100],
+           "assets/images/resized/0006/8762/68762v47-max-250x250.png"],
+          [[167,
+            100],
+           "assets/images/resized/0006/8762/68762v47-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1429 E. Charleston Ave.",
+    "address2": "",
+    "zip_code": "85022",
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": 33.64873,
+    "longitude": -112.051346}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mashable.com/2008/06/22/bragosphere-photos/",
+    "title": "Mashable Review"}]}

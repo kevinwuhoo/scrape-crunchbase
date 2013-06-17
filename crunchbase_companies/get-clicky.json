@@ -1,0 +1,202 @@
+{"name": "Clicky Web Analytics",
+ "permalink": "get-clicky",
+ "crunchbase_url": "http://www.crunchbase.com/company/get-clicky",
+ "homepage_url": "http://getclicky.com",
+ "blog_url": "http://getclicky.com/blog/",
+ "blog_feed_url": "http://getclicky.com/blog/rss",
+ "twitter_username": "getclicky",
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 11,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "analytics, real-time, realtime",
+ "alias_list": null,
+ "email_address": "support@getclicky.com",
+ "phone_number": "",
+ "description": "real time web analytics",
+ "created_at": "Wed Sep 03 23:25:33 UTC 2008",
+ "updated_at": "Fri Dec 31 22:44:00 UTC 2010",
+ "overview": "\u003Cp\u003EClicky Web Analytics gives bloggers and smaller web sites a more personal understanding of their visitors. Clicky has various features that helps stand it apart from the competition specifically Spy and RSS feeds that allow web site owners to get live information about their visitors.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0002/4546/24546v1-max-150x150.png"],
+     [[250,
+       67],
+      "assets/images/resized/0002/4546/24546v1-max-250x250.png"],
+     [[254,
+       69],
+      "assets/images/resized/0002/4546/24546v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Noah",
+      "last_name": "Merritt",
+      "permalink": "noah-merritt-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Hammons",
+      "permalink": "sean-hammons-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Strategic Partnerships",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Wilhelm",
+      "permalink": "alex-wilhelm",
+      "image":
+       {"available_sizes":
+         [[[143,
+            150],
+           "assets/images/resized/0003/7235/37235v2-max-150x150.jpg"],
+          [[215,
+            225],
+           "assets/images/resized/0003/7235/37235v2-max-250x250.jpg"],
+          [[215,
+            225],
+           "assets/images/resized/0003/7235/37235v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EAlex Wilhelm / midVentures](http://www.midventuers.com)\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sitemeter",
+      "permalink": "sitemeter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/3238/23238v1-max-150x150.png"],
+          [[226,
+            44],
+           "assets/images/resized/0002/3238/23238v1-max-250x250.png"],
+          [[226,
+            44],
+           "assets/images/resized/0002/3238/23238v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "StatCounter",
+      "permalink": "statcounter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0005/3167/53167v1-max-150x150.png"],
+          [[250,
+            42],
+           "assets/images/resized/0005/3167/53167v1-max-250x250.png"],
+          [[275,
+            47],
+           "assets/images/resized/0005/3167/53167v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Compete",
+      "permalink": "compete",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0000/1942/1942v5-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0000/1942/1942v5-max-250x250.png"],
+          [[450,
+            150],
+           "assets/images/resized/0000/1942/1942v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Quantcast",
+      "permalink": "quantcast",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0000/3265/3265v3-max-150x150.png"],
+          [[190,
+            40],
+           "assets/images/resized/0000/3265/3265v3-max-250x250.png"],
+          [[190,
+            40],
+           "assets/images/resized/0000/3265/3265v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Chartbeat",
+      "permalink": "chartbeat",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0006/9595/69595v7-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0006/9595/69595v7-max-250x250.jpg"],
+          [[450,
+            93],
+           "assets/images/resized/0006/9595/69595v7-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ClickMeter",
+      "permalink": "clickmeter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0003/6970/36970v2-max-150x150.png"],
+          [[250,
+            118],
+           "assets/images/resized/0003/6970/36970v2-max-250x250.png"],
+          [[250,
+            118],
+           "assets/images/resized/0003/6970/36970v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": 45.523875,
+    "longitude": -122.670399}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        110],
+       "assets/images/resized/0007/8582/78582v2-max-150x150.jpg"],
+      [[250,
+        184],
+       "assets/images/resized/0007/8582/78582v2-max-250x250.jpg"],
+      [[450,
+        332],
+       "assets/images/resized/0007/8582/78582v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://mixergy.com/noah-merritt-clicky-interview/",
+    "title": "Mixergy Interview About Clicky Analytics"}]}

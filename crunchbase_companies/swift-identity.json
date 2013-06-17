@@ -1,0 +1,109 @@
+{"name": "Swift Identity",
+ "permalink": "swift-identity",
+ "crunchbase_url": "http://www.crunchbase.com/company/swift-identity",
+ "homepage_url": "http://www.swiftidentity.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": 4,
+ "founded_year": 2013,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "robertmasse@gmail.com",
+ "phone_number": "514-296-9302",
+ "description": "2-factor SaaS",
+ "created_at": "Thu May 30 11:10:59 UTC 2013",
+ "updated_at": "Fri May 31 17:51:33 UTC 2013",
+ "overview": "\u003Cp\u003ESwift Identity is the future of security by leveraging our Security Platform to authenticate using our two-factor technology AND securely exchange data in a seamless and easy manner. Our solution is delivered in a standard and easy to use Software as a Service model and can integrate with almost any technology.\u003C/p\u003E\n\n\u003Cp\u003EOur authentication product works with any Web service using REST calls or any other network devices using RADIUS.  \u003C/p\u003E\n\n\u003Cp\u003EiPhone, Android and Blackberry apps available.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       18],
+      "assets/images/resized/0026/9175/269175v2-max-150x150.png"],
+     [[250,
+       31],
+      "assets/images/resized/0026/9175/269175v2-max-250x250.png"],
+     [[450,
+       56],
+      "assets/images/resized/0026/9175/269175v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Leclerc",
+      "permalink": "christian-leclerc",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Masse",
+      "permalink": "robert-masse",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "C$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "CAD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 15,
+    "investments":
+     [{"company":
+        {"name": "FounderFuel",
+         "permalink": "founderfuel",
+         "image":
+          {"available_sizes":
+            [[[150,
+               62],
+              "assets/images/resized/0013/7521/137521v2-max-150x150.jpg"],
+             [[250,
+               104],
+              "assets/images/resized/0013/7521/137521v2-max-250x250.jpg"],
+             [[450,
+               187],
+              "assets/images/resized/0013/7521/137521v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Montreal",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

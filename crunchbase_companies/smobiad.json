@@ -1,0 +1,151 @@
+{"name": "SmobiAd",
+ "permalink": "smobiad",
+ "crunchbase_url": "http://www.crunchbase.com/company/smobiad",
+ "homepage_url": "http://www.smobiad.com",
+ "blog_url": "http://www.smobiad.com/?cat=1",
+ "blog_feed_url": "",
+ "twitter_username": "smobiad",
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-time-bidding, rtb, yield-management, transparency, mobile-advertising, advertising, exchange",
+ "alias_list": null,
+ "email_address": "info@smobiad.com",
+ "phone_number": "+1 (415) 800-4165",
+ "description": "A mobile sell-side platform",
+ "created_at": "Mon Jul 25 22:16:52 UTC 2011",
+ "updated_at": "Tue Nov 22 23:36:43 UTC 2011",
+ "overview": "\u003Cp\u003ESmobiAd helps mobile publishers and application developers to sell their ad inventory effectively. It provides a fully transparent solution to access the best DSPs, ad networks and ad exchanges.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0014/6035/146035v2-max-150x150.png"],
+     [[228,
+       55],
+      "assets/images/resized/0014/6035/146035v2-max-250x250.png"],
+     [[228,
+       55],
+      "assets/images/resized/0014/6035/146035v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "SmobiAd Mobile Ad Platform",
+    "permalink": "smobiad-mobile-ad-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and founder",
+    "person":
+     {"first_name": "Akos",
+      "last_name": "Szalai",
+      "permalink": "akos-szalai",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "NEXAGE",
+      "permalink": "nexage",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0003/4702/34702v5-max-150x150.jpg"],
+          [[250,
+            89],
+           "assets/images/resized/0003/4702/34702v5-max-250x250.jpg"],
+          [[450,
+            161],
+           "assets/images/resized/0003/4702/34702v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Smaato",
+      "permalink": "smaato",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/3226/3226v6-max-150x150.png"],
+          [[170,
+            45],
+           "assets/images/resized/0000/3226/3226v6-max-250x250.png"],
+          [[170,
+            45],
+           "assets/images/resized/0000/3226/3226v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mobclix",
+      "permalink": "mobclix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/4081/24081v2-max-150x150.png"],
+          [[197,
+            79],
+           "assets/images/resized/0002/4081/24081v2-max-250x250.png"],
+          [[197,
+            79],
+           "assets/images/resized/0002/4081/24081v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Smart AdServer",
+      "permalink": "smart-adserver",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0004/1546/41546v4-max-150x150.jpg"],
+          [[250,
+            74],
+           "assets/images/resized/0004/1546/41546v4-max-250x250.jpg"],
+          [[450,
+            134],
+           "assets/images/resized/0004/1546/41546v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "Fehervari street 130. Building I. 114.",
+    "address2": "Smobiad",
+    "zip_code": "1026",
+    "city": "Budapest",
+    "state_code": null,
+    "country_code": "HUN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "SmobiAd's Mobile Ad Platform is publicly available.",
+    "stoned_year": 2011,
+    "stoned_month": 11,
+    "stoned_day": 22,
+    "source_url": "http://www.prweb.com/releases/2011/11/prweb8981910.htm",
+    "source_text": null,
+    "source_description": "SmobiAd Mobile Ad Platform Turns to Public Beta",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "SmobiAd",
+      "permalink": "smobiad"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

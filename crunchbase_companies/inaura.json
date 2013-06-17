@@ -1,0 +1,116 @@
+{"name": "Inaura",
+ "permalink": "inaura",
+ "crunchbase_url": "http://www.crunchbase.com/company/inaura",
+ "homepage_url": "http://www.inaura.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "801.864.2602",
+ "description": "",
+ "created_at": "Mon Aug 09 04:08:09 UTC 2010",
+ "updated_at": "Mon Aug 09 04:08:09 UTC 2010",
+ "overview": "\u003Cp\u003EInaura was founded in 2007. Solving the problem of trust within all computing environments, Inaura offers a guarantee of trust that is not available anywhere else.\u003C/p\u003E\n\n\u003Cp\u003EUltra Mobile Authentication Key (UMAK) provides Trusted Strong Authentication and Non-Repudiation. Non-Repudiation provides assurance that information was received by the person and only they can use it. UMAKs use Trusted Computing technology to ensure that only white-listed or authorized services are allowed to run. UMAKs lend trust to their environment or computer they are plugged into building chains of trust from the person who authenticates to the trusted services.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President \u0026 CEO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Bookman",
+      "permalink": "peter-bookman",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Anderer",
+      "permalink": "mike-anderer",
+      "image": null}},
+   {"is_past": true,
+    "title": "General Counsel and Member of the Board of Directors  ",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Turcotte",
+      "permalink": "dave-turcotte",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/7812/267812v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/7812/267812v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/7812/267812v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$8.5M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 8500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 1,
+    "funded_day": 6,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "GMG Capital Partners",
+         "permalink": "gmg-capital-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               16],
+              "assets/images/resized/0010/2187/102187v1-max-150x150.jpg"],
+             [[247,
+               27],
+              "assets/images/resized/0010/2187/102187v1-max-250x250.jpg"],
+             [[247,
+               27],
+              "assets/images/resized/0010/2187/102187v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "3976 S. 2700 E.",
+    "address2": "",
+    "zip_code": "84124",
+    "city": "Salt Lake City",
+    "state_code": "UT",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

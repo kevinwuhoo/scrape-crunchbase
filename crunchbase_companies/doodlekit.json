@@ -1,0 +1,230 @@
+{"name": "Doodlekit",
+ "permalink": "doodlekit",
+ "crunchbase_url": "http://www.crunchbase.com/company/doodlekit",
+ "homepage_url": "http://doodlekit.com",
+ "blog_url": "http://doodlekit.com/blog",
+ "blog_feed_url": "http://doodlekit.com/blog/rss",
+ "twitter_username": "Doodlekit",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "website, builder, free, online",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "(816) 298-6294",
+ "description": "",
+ "created_at": "Fri Nov 30 11:50:51 UTC 2007",
+ "updated_at": "Mon Apr 15 19:54:57 UTC 2013",
+ "overview": "\u003Cp\u003EDoodlekit a website creation tool intended for anyone with no or little technical background to create rich websites. Doodlekit is a Rails-powered web application developed by parent \u003Ca href=\"http://doodlebit.com/home\" title=\"Doodlebit\" rel=\"nofollow\"\u003EDoodlebit\u003C/a\u003E. It\u0026#8217;s a complete Web design and hosting system in one which is primarily aimed at small businesses and individual users/famiiles. Features include advanced template building tools, a WYSIWYG editor, photo albums and galleries (with resizing and tagging capabilities), blog system, discussion forums, form builder, SEO tools. The system is entirely hosted by Doodlekit; users can create powerful and complete websites through Doodlekit\u0026#8217;s control panel, and also host them on their own domains. Various pricing plans range from free to $49 per month.\u003C/p\u003E\n\n\u003Cp\u003ECompetitors primarily include \u003Ca href=\"http://www.crunchbase.com/company/weebly\" title=\"Weebly\"\u003EWeebly\u003C/a\u003E, \n\u003Ca href=\"http://www.crunchbase.com/company/webme\" title=\"webme\"\u003Ewebme\u003C/a\u003E, \n\u003Ca href=\"http://www.crunchbase.com/company/Synthasite\" title=\"Synthasite\"\u003ESynthasite\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/jimdo\" title=\"Jimdo\"\u003EJimdo\u003C/a\u003E, \u003Ca href=\"http://pages.google.com/\" title=\"Google Pages\" rel=\"nofollow\"\u003EGoogle Pages\u003C/a\u003E, \u003Ca href=\"http://www.sitekreator.com/\" title=\"SiteKreator\" rel=\"nofollow\"\u003ESiteKreator\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/Sampa/\" title=\"Sampa\"\u003ESampa\u003C/a\u003E.  Doodlekit is 100% self-funded to date.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0000/2407/2407v4-max-150x150.png"],
+     [[250,
+       48],
+      "assets/images/resized/0000/2407/2407v4-max-250x250.png"],
+     [[312,
+       61],
+      "assets/images/resized/0000/2407/2407v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Doodlekit",
+    "permalink": "doodlekit",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Kittrell",
+      "permalink": "ben-kittrell",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0026/4268/264268v1-max-150x150.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0026/4268/264268v1-max-250x250.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0026/4268/264268v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Heath",
+      "last_name": "Huffman",
+      "permalink": "heath-huffman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Weebly",
+      "permalink": "weebly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/4342/4342v1-max-150x150.png"],
+          [[200,
+            64],
+           "assets/images/resized/0000/4342/4342v1-max-250x250.png"],
+          [[200,
+            64],
+           "assets/images/resized/0000/4342/4342v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Squidoo",
+      "permalink": "squidoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/2698/2698v1-max-150x150.png"],
+          [[184,
+            59],
+           "assets/images/resized/0000/2698/2698v1-max-250x250.png"],
+          [[184,
+            59],
+           "assets/images/resized/0000/2698/2698v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyDND",
+      "permalink": "liveaps",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0001/1559/11559v4-max-150x150.png"],
+          [[167,
+            52],
+           "assets/images/resized/0001/1559/11559v4-max-250x250.png"],
+          [[167,
+            52],
+           "assets/images/resized/0001/1559/11559v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "webme",
+      "permalink": "own-free-website",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0003/7598/37598v5-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0003/7598/37598v5-max-250x250.png"],
+          [[396,
+            131],
+           "assets/images/resized/0003/7598/37598v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jimdo",
+      "permalink": "jimdo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0000/4312/4312v1-max-150x150.png"],
+          [[250,
+            90],
+           "assets/images/resized/0000/4312/4312v1-max-250x250.png"],
+          [[270,
+            98],
+           "assets/images/resized/0000/4312/4312v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sampa",
+      "permalink": "sampa",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0000/4336/4336v1-max-150x150.png"],
+          [[200,
+            77],
+           "assets/images/resized/0000/4336/4336v1-max-250x250.png"],
+          [[200,
+            77],
+           "assets/images/resized/0000/4336/4336v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jigsy",
+      "permalink": "viviti",
+      "image": null}},
+   {"competitor":
+     {"name": "Webs",
+      "permalink": "freewebs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            79],
+           "assets/images/resized/0000/0457/457v37-max-150x150.png"],
+          [[250,
+            132],
+           "assets/images/resized/0000/0457/457v37-max-250x250.png"],
+          [[250,
+            132],
+           "assets/images/resized/0000/0457/457v37-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Webnode",
+      "permalink": "webnode",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/3223/3223v5-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0000/3223/3223v5-max-250x250.png"],
+          [[283,
+            90],
+           "assets/images/resized/0000/3223/3223v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "P.O. Box 342",
+    "address2": "",
+    "zip_code": " 64081",
+    "city": "Kansas City",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": 38.9143473,
+    "longitude": -94.4284985}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        138],
+       "assets/images/resized/0025/1730/251730v2-max-150x150.png"],
+      [[250,
+        231],
+       "assets/images/resized/0025/1730/251730v2-max-250x250.png"],
+      [[450,
+        415],
+       "assets/images/resized/0025/1730/251730v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

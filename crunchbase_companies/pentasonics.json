@@ -1,0 +1,88 @@
+{"name": "Pentasonics",
+ "permalink": "pentasonics",
+ "crunchbase_url": "http://www.crunchbase.com/company/pentasonics",
+ "homepage_url": "http://www.pentasonics.eu",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "hardware",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "localization, rtls, ultrasound, sensor, position, tracking",
+ "alias_list": null,
+ "email_address": "g.ciccotti@pentasonics.eu",
+ "phone_number": "+39 335 5211214",
+ "description": "",
+ "created_at": "Sun Feb 06 22:51:46 UTC 2011",
+ "updated_at": "Wed Feb 09 22:18:46 UTC 2011",
+ "overview": "\u003Cp\u003EPentasonics is a novel start-up company introducing revolutionary technology to the Objects Localization, Identification and Tracking industry. \nPentasonics is developing a patented technology, that will realize a cost effective, real-time \u00e2\u20ac\u0153localize and track\u00e2\u20ac\u009d system. \nThe same technology allows to identify and track the position and the orientation of many objects in the 3D space. \nThe system offers the capability to localize many \u00e2\u20ac\u0153objects\u00e2\u20ac\u009d inside home, buildings, or open air sites and noisy environments too adopting new algorithm capable to estimate the position of identical remote devices.\nReal-time position tracking is achieved trough refreshing the localization data many times per second.\nLocalization range can be tenths of meters and the accuracy is in the order of millimeters using ultrasound ranging techniques with the required positioning accuracy.\nThe system provides identical remote devices with the simplest hardware possible to lower the costs and the power consumption. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Letizia",
+      "last_name": "Maiolati",
+      "permalink": "letizia-maiolati",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Giuseppe",
+      "last_name": "Cardinale Ciccotti",
+      "permalink": "giuseppe-cardinale-ciccotti",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Riccardo",
+      "last_name": "Carotenuto",
+      "permalink": "riccardo-carotenuto",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Patent Attorney",
+    "is_past": false,
+    "provider":
+     {"name": "Fiammenghi \u0026 Fiammenghi",
+      "permalink": "fiammenghi-fiammenghi",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "via Collina 24",
+    "address2": "",
+    "zip_code": "00197",
+    "city": "Rome",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "https://docs.google.com/present/view?id=dcc7q5ks_85gvmmr9f6",
+    "title": "Technology overview"},
+   {"external_url": "http://www.wipo.int/pctdb/en/wo.jsp?WO=2008065691",
+    "title": "Patent"}]}

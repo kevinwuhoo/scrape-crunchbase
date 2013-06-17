@@ -1,0 +1,76 @@
+{"name": "Bimserver",
+ "permalink": "bimserver",
+ "crunchbase_url": "http://www.crunchbase.com/company/bimserver",
+ "homepage_url": "http://www.bimserver.org",
+ "blog_url": "http://www.bimserver.org",
+ "blog_feed_url": "http://www.bimserver.org/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bim, building-information-modelling, bimserver, open-source",
+ "alias_list": "",
+ "email_address": "info@bimserver.org",
+ "phone_number": "",
+ "description": "building information modelserver",
+ "created_at": "Tue May 05 10:56:41 UTC 2009",
+ "updated_at": "Fri Jul 08 17:10:25 UTC 2011",
+ "overview": "\u003Cp\u003EBimserver.org develops an open source Building Information Modelserver (BIMserver).\u003C/p\u003E\n\n\u003Cp\u003EThe Building Information Model server enables people to centralize the information of a construction (or other building related) project. The core is based on open standards like IFC.\u003C/p\u003E\n\n\u003Cp\u003EThe company makes its money by providing custom services to companies that use the software.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       76],
+      "assets/images/resized/0004/3204/43204v2-max-150x150.jpg"],
+     [[196,
+       100],
+      "assets/images/resized/0004/3204/43204v2-max-250x250.jpg"],
+     [[196,
+       100],
+      "assets/images/resized/0004/3204/43204v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Breda",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.0782886,
+    "longitude": 4.313685}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.stress-free.co.nz/bimserver_and_the_potential_of_serverside_bim",
+    "title": "BIMserver and the potential of server-side BIM"},
+   {"external_url": "http://architosh.com/2009/03/new-open-source-bimserver-new-paradigm-and-works-on-mac/",
+    "title": "New open-source BIMserver: New paradigm and works on Mac"},
+   {"external_url": "http://www.extranetevolution.com/extranet_evolution/2009/03/bimserverorg-right-technology-right-time.html",
+    "title": "BIMserver.org: right technology, right time?"}]}

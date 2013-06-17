@@ -1,0 +1,131 @@
+{"name": "Kedin",
+ "permalink": "kedin",
+ "crunchbase_url": "http://www.crunchbase.com/company/kedin",
+ "homepage_url": "http://kedin.es",
+ "blog_url": "http://blog.kedin.es/",
+ "blog_feed_url": "http://blog.kedin.es/?feed=rss2",
+ "twitter_username": "kedin",
+ "category_code": "web",
+ "number_of_employees": 20,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "event, local-guides",
+ "alias_list": null,
+ "email_address": "info@kedin.es",
+ "phone_number": "",
+ "description": "Social event guide",
+ "created_at": "Sat Sep 18 16:27:40 UTC 2010",
+ "updated_at": "Sat May 14 15:03:36 UTC 2011",
+ "overview": "\u003Cp\u003EKedin is a local guide site focus on places \u0026amp; events. It\u00c2\u00b4s based in Spain and let people find events based on geolocation and personal interests.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[134,
+       150],
+      "assets/images/resized/0010/2208/102208v2-max-150x150.png"],
+     [[224,
+       250],
+      "assets/images/resized/0010/2208/102208v2-max-250x250.png"],
+     [[255,
+       284],
+      "assets/images/resized/0010/2208/102208v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Agustin Maximiliano",
+      "last_name": "dEmpaire",
+      "permalink": "agustin-maximiliano-dempaire",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0016/0198/160198v2-max-150x150.jpg"],
+          [[250,
+            167],
+           "assets/images/resized/0016/0198/160198v2-max-250x250.jpg"],
+          [[450,
+            301],
+           "assets/images/resized/0016/0198/160198v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Eventful",
+      "permalink": "eventful",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0024/6014/246014v2-max-150x150.jpg"],
+          [[250,
+            88],
+           "assets/images/resized/0024/6014/246014v2-max-250x250.jpg"],
+          [[450,
+            159],
+           "assets/images/resized/0024/6014/246014v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Qype",
+      "permalink": "qype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0001/2025/12025v3-max-150x150.png"],
+          [[250,
+            95],
+           "assets/images/resized/0001/2025/12025v3-max-250x250.png"],
+          [[450,
+            171],
+           "assets/images/resized/0001/2025/12025v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Kedin Madrid",
+    "address1": "Gran V\u00c3\u00ada 46, 15A",
+    "address2": "",
+    "zip_code": "28015",
+    "city": "Madrid",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Launch operations in Brazil",
+    "stoned_year": 2011,
+    "stoned_month": 5,
+    "stoned_day": 11,
+    "source_url": "http://diversao.terra.com.br/noticias/0,,OI5125354-EI25,00-Usuarios+podem+publicar+eventos+no+Guia+de+Cidades+interativo.html",
+    "source_text": null,
+    "source_description": "Usu\u00c3\u00a1rios podem publicar eventos no Guia de Cidades interativo",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Kedin",
+      "permalink": "kedin"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.elpais.com/articulo/carreras/capital/humano/Quedadas/ciudad/elpepueconeg/20090308elpnegser_6/Tes",
+    "title": "Quedadas 2.0 en su ciudad"}]}

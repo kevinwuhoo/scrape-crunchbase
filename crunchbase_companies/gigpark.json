@@ -1,0 +1,123 @@
+{"name": "GigPark",
+ "permalink": "gigpark",
+ "crunchbase_url": "http://www.crunchbase.com/company/gigpark",
+ "homepage_url": "http://www.gigpark.com/",
+ "blog_url": "http://blog.gigpark.com",
+ "blog_feed_url": "http://blog.gigpark.com/feed/",
+ "twitter_username": "",
+ "category_code": "network_hosting",
+ "number_of_employees": 4,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recommendations, social-networking, services",
+ "alias_list": "",
+ "email_address": "noah@gigpark.com",
+ "phone_number": "416-727-8744",
+ "description": "social recommendation service",
+ "created_at": "Thu May 22 17:33:35 UTC 2008",
+ "updated_at": "Mon Aug 30 22:50:14 UTC 2010",
+ "overview": "\u003Cp\u003EGigPark is a social recommendations service tied to your contacts.  It allows you to check out recommendations from your friends and from the friends of your friends. If you can\u0026#8217;t find one, you can ask your friends through GigPark.  In turn, you can share your own recommendations, hooking your friends up with good services and sending new clients to your favorite service people.\u003C/p\u003E\n\n\u003Cp\u003EWhat makes GigPark different is that you have a relationship with the people making recommendations - they are your friends or the friends of your friends, not weirdo strangers who may be plugging their own businesses.\u003C/p\u003E\n\n\u003Cp\u003EGigPark also has a Facebook app.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0001/9138/19138v1-max-150x150.png"],
+     [[209,
+       79],
+      "assets/images/resized/0001/9138/19138v1-max-250x250.png"],
+     [[209,
+       79],
+      "assets/images/resized/0001/9138/19138v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Noah",
+      "last_name": "Godfrey",
+      "permalink": "noah-godfrey",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Pema",
+      "last_name": "Hegan",
+      "permalink": "pema-hegan",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Technology",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Dowman",
+      "permalink": "paul-dowman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "company",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2009/08/24/canpages-bets-on-social-recommendations-buys-gigpark/",
+   "source_description": "Canpages Bets On Social Recommendations, Buys GigPark",
+   "acquired_year": 2009,
+   "acquired_month": 8,
+   "acquired_day": 24,
+   "acquiring_company":
+    {"name": "Canpages",
+     "permalink": "canpages",
+     "image":
+      {"available_sizes":
+        [[[150,
+           42],
+          "assets/images/resized/0005/0174/50174v1-max-150x150.png"],
+         [[243,
+           69],
+          "assets/images/resized/0005/0174/50174v1-max-250x250.png"],
+         [[243,
+           69],
+          "assets/images/resized/0005/0174/50174v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "1401 Dupont Street",
+    "address2": "Suite 627",
+    "zip_code": "M6H2B1",
+    "city": "Toronto",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 43.666678,
+    "longitude": -79.446717}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

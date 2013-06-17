@@ -1,0 +1,70 @@
+{"name": "Mombo",
+ "permalink": "mombo",
+ "crunchbase_url": "http://www.crunchbase.com/company/mombo",
+ "homepage_url": "http://www.mombo.com",
+ "blog_url": "http://www.mombo.com/company/blog",
+ "blog_feed_url": "",
+ "twitter_username": "Mombo_movies",
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "movies, entertainment, movie, twibs",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Movie recommendations powered by tweets",
+ "created_at": "Sat Jul 31 17:01:39 UTC 2010",
+ "updated_at": "Wed Mar 30 01:36:46 UTC 2011",
+ "overview": "\u003Cp\u003EMombo collects tweets about movies from Twitter and performs textual analysis (using natural language processing techniques) of the text to determine positive, negative, mixed, neutral sentiment. It then determines a movie rating based on the counts of positive, negative, mixed sentiment tweets. This is the overall crowd rating for the movie. The retrieval of tweets from Twitter and computation of sentiment is done in near real-time. Besides the crowd rating, the service also provides personalized recommendations to individual users. The Mombo recommendation engine uses collaborative filtering techniques to suggest movies based on movies a user has liked in the past. The recommendation system also shows the movies liked by a majority of the users\u0026#8217; friends who saw those movies.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        109],
+       "assets/images/resized/0012/6266/126266v2-max-150x150.png"],
+      [[250,
+        183],
+       "assets/images/resized/0012/6266/126266v2-max-250x250.png"],
+      [[450,
+        329],
+       "assets/images/resized/0012/6266/126266v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

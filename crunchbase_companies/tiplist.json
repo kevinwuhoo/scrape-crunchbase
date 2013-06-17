@@ -1,0 +1,127 @@
+{"name": "TipList",
+ "permalink": "tiplist",
+ "crunchbase_url": "http://www.crunchbase.com/company/tiplist",
+ "homepage_url": "http://tiplist.com",
+ "blog_url": "http://blog.tiplist.com",
+ "blog_feed_url": "http://blog.tiplist.com/rss",
+ "twitter_username": "tiplist",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, city-guide",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Beautiful City Guides in Minutes",
+ "created_at": "Thu Feb 16 00:55:17 UTC 2012",
+ "updated_at": "Tue Apr 03 02:33:32 UTC 2012",
+ "overview": "\u003Cp\u003ETipList exists to help you quickly put together a list of recommendations for your favorite cities. It makes it simple and easy to build a beautiful city guide to share.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0017/4455/174455v2-max-150x150.png"],
+     [[250,
+       75],
+      "assets/images/resized/0017/4455/174455v2-max-250x250.png"],
+     [[311,
+       94],
+      "assets/images/resized/0017/4455/174455v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brenden",
+      "last_name": "Mulligan",
+      "permalink": "brenden-mulligan",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0004/3640/43640v11-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0004/3640/43640v11-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0004/3640/43640v11-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Trippy",
+      "permalink": "trippy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            85],
+           "assets/images/resized/0015/0579/150579v2-max-150x150.jpg"],
+          [[250,
+            142],
+           "assets/images/resized/0015/0579/150579v2-max-250x250.jpg"],
+          [[450,
+            257],
+           "assets/images/resized/0015/0579/150579v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        72],
+       "assets/images/resized/0017/4452/174452v2-max-150x150.png"],
+      [[250,
+        121],
+       "assets/images/resized/0017/4452/174452v2-max-250x250.png"],
+      [[450,
+        218],
+       "assets/images/resized/0017/4452/174452v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0017/4453/174453v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0017/4453/174453v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0017/4453/174453v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0017/4454/174454v2-max-150x150.png"],
+      [[250,
+        178],
+       "assets/images/resized/0017/4454/174454v2-max-250x250.png"],
+      [[450,
+        321],
+       "assets/images/resized/0017/4454/174454v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2012/03/31/tiplist-build-city-guides/",
+    "title": ""}]}

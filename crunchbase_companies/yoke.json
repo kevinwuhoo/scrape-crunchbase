@@ -1,0 +1,162 @@
+{"name": "Yoke",
+ "permalink": "yoke",
+ "crunchbase_url": "http://www.crunchbase.com/company/yoke",
+ "homepage_url": "https://apps.facebook.com/yokeapp/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Social Dating App",
+ "created_at": "Wed Mar 28 23:57:53 UTC 2012",
+ "updated_at": "Sat Dec 01 07:29:57 UTC 2012",
+ "overview": "\u003Cp\u003EYoke is a Facebook dating app that matches you with single friends of friends. It makes accurate suggestions for potential dates by referencing your Facebook Likes and listening activity against data from Amazon, Netflix, Echnonest, and its own proprietary Facebook Page and college graphs. Users can contact matches via Facebook messages, ask a mutual friend for an introduction, or play matchmaker for their friends.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0018/1642/181642v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0018/1642/181642v2-max-250x250.png"],
+     [[450,
+       150],
+      "assets/images/resized/0018/1642/181642v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Revesz",
+      "permalink": "jeff-revesz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Fishman",
+      "permalink": "rob-fishman",
+      "image":
+       {"available_sizes":
+         [[[103,
+            150],
+           "assets/images/resized/0018/1951/181951v2-max-150x150.png"],
+          [[171,
+            250],
+           "assets/images/resized/0018/1951/181951v2-max-250x250.png"],
+          [[220,
+            320],
+           "assets/images/resized/0018/1951/181951v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Lerer Ventures",
+         "permalink": "lerer-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               5],
+              "assets/images/resized/0008/9468/89468v1-max-150x150.png"],
+             [[250,
+               9],
+              "assets/images/resized/0008/9468/89468v1-max-250x250.png"],
+             [[450,
+               16],
+              "assets/images/resized/0008/9468/89468v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "SoftBank Capital",
+         "permalink": "softbank-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               36],
+              "assets/images/resized/0000/3955/3955v3-max-150x150.png"],
+             [[250,
+               60],
+              "assets/images/resized/0000/3955/3955v3-max-250x250.png"],
+             [[358,
+               86],
+              "assets/images/resized/0000/3955/3955v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2012/09/13/buzzfeed-kingfish-labs/",
+   "source_description": "BuzzFeed\u2019s First Acquisition Kingfish Labs Could Make Its FB Ads Go More Viral Than Football Cats ",
+   "acquired_year": 2012,
+   "acquired_month": 9,
+   "acquired_day": 11,
+   "acquiring_company":
+    {"name": "BuzzFeed",
+     "permalink": "buzzfeed",
+     "image":
+      {"available_sizes":
+        [[[150,
+           37],
+          "assets/images/resized/0001/2515/12515v1-max-150x150.png"],
+         [[166,
+           41],
+          "assets/images/resized/0001/2515/12515v1-max-250x250.png"],
+         [[166,
+           41],
+          "assets/images/resized/0001/2515/12515v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        113],
+       "assets/images/resized/0018/1643/181643v1-max-150x150.png"],
+      [[250,
+        189],
+       "assets/images/resized/0018/1643/181643v1-max-250x250.png"],
+      [[450,
+        341],
+       "assets/images/resized/0018/1643/181643v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

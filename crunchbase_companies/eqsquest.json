@@ -1,0 +1,107 @@
+{"name": "EqsQuest",
+ "permalink": "eqsquest",
+ "crunchbase_url": "http://www.crunchbase.com/company/eqsquest",
+ "homepage_url": "http://www.symbolab.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "education",
+ "number_of_employees": 12,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search-engine",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Web search engine for math \u0026 science",
+ "created_at": "Wed Sep 19 11:00:13 UTC 2012",
+ "updated_at": "Wed Oct 17 03:45:16 UTC 2012",
+ "overview": "\u003Cp\u003EEqsQuest is a semantic search company, recently launched symbolab, a web search engine for math and science.  It allows users to search for equations, formulas and expressions using mathematical symbols and scientific notations as well as full text search.   The stated goal of the site is to provide the most relevant search results that are theoretically and semantically similar, rather than visually.  This is done, partly, by applying proprietary machine learning algorithms in order to understand the meaning and context of the search queries.  The methods used enable the classification and tagging of millions of equations and formulas.  Symbolab indexes the full text and equations of online encyclopedias, dictionaries, academic publications, lectures, books and more currently covering mathematics, physics and chemistry.\u003C/p\u003E\n\n\u003Cp\u003EFounded in 2011, based in Tel Aviv\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0021/2028/212028v2-max-150x150.jpg"],
+     [[250,
+       108],
+      "assets/images/resized/0021/2028/212028v2-max-250x250.jpg"],
+     [[450,
+       195],
+      "assets/images/resized/0021/2028/212028v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "ceo",
+    "person":
+     {"first_name": "Michal",
+      "last_name": "Avny",
+      "permalink": "michal-avny-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Lev",
+      "last_name": "alyshayev",
+      "permalink": "lev-alyshayev",
+      "image": null}},
+   {"is_past": false,
+    "title": "chief scientist",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Arnon",
+      "permalink": "adam-arnon",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 8,
+    "funded_day": 2,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "The Israeli-based startup has already raised \u00bd million USD in its first year of activity",
+         "permalink": "the-israeli-based-startup-has-already-raised-million-usd-in-its-first-year-of-activity",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        110],
+       "assets/images/resized/0021/2027/212027v2-max-150x150.png"],
+      [[250,
+        184],
+       "assets/images/resized/0021/2027/212027v2-max-250x250.png"],
+      [[450,
+        332],
+       "assets/images/resized/0021/2027/212027v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,104 @@
+{"name": "Cucku",
+ "permalink": "stackhash",
+ "crunchbase_url": "http://www.crunchbase.com/company/stackhash",
+ "homepage_url": "http://www.stackhash.com/",
+ "blog_url": "http://www.stackhash.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/StackhashBlog",
+ "twitter_username": "StackHash",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 25,
+ "deadpooled_year": 2011,
+ "deadpooled_month": 8,
+ "deadpooled_day": 1,
+ "deadpooled_url": "http://www.stackhash.com/blog/post/StackHash-130-released-as-open-source-on-CodePlex.aspx",
+ "tag_list": "winqual, windbg, stackhash, windows-error-reporting, wer",
+ "alias_list": "",
+ "email_address": "info@stackhash.com",
+ "phone_number": "(415) 738-8124",
+ "description": "Fix Crashes Faster",
+ "created_at": "Tue Jul 29 19:27:36 UTC 2008",
+ "updated_at": "Sun Aug 28 02:50:25 UTC 2011",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.stackhash.com\" title=\"StackHash\" rel=\"nofollow\"\u003EStackHash\u003C/a\u003E is a \u0026#8220;social backup\u0026#8221; solution that backs up your data locally and then sends a secure copy to a trusted friend or family member of your choice.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[48,
+       48],
+      "assets/images/resized/0002/2901/22901v4-max-150x150.png"],
+     [[48,
+       48],
+      "assets/images/resized/0002/2901/22901v4-max-250x250.png"],
+     [[48,
+       48],
+      "assets/images/resized/0002/2901/22901v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "StackHash",
+    "permalink": "stackhash",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO, Co-founder",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Jackson",
+      "permalink": "mark-jackson",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO, Co-founder",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Ellison",
+      "permalink": "robert-ellison",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0002/4214/24214v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0002/4214/24214v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0002/4214/24214v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "VP Engineering",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Rivers",
+      "permalink": "bill-rivers",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "94 Elsie Street",
+    "address2": "",
+    "zip_code": "94110",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.743454,
+    "longitude": -122.41748}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

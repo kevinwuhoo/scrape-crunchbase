@@ -1,0 +1,152 @@
+{"name": "UserPod",
+ "permalink": "userpod",
+ "crunchbase_url": "http://www.crunchbase.com/company/userpod",
+ "homepage_url": "http://www.userpod.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "UserPod",
+ "category_code": "enterprise",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise, saas, software, it, asset, management, mobile, cloud, automation",
+ "alias_list": null,
+ "email_address": "gene@userpod.com",
+ "phone_number": "831 920-7363",
+ "description": "ITAM Mobile Cloud Automation",
+ "created_at": "Fri Jun 14 21:04:00 UTC 2013",
+ "updated_at": "Fri Jun 14 23:11:17 UTC 2013",
+ "overview": "\u003Cp\u003EUserPod automates the IT Asset Management (ITAM) workflow by providing a powerful mobile and web based cloud application while removing costly licenses, integration, and complexity. UserPod saves companies money and time by replacing multiple layers of software and hardware while putting a complete ITAM suite right in the palm of your hand for true mobility.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0027/5463/275463v2-max-150x150.png"],
+     [[250,
+       97],
+      "assets/images/resized/0027/5463/275463v2-max-250x250.png"],
+     [[450,
+       175],
+      "assets/images/resized/0027/5463/275463v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Gene",
+      "last_name": "Giromini",
+      "permalink": "gene-giromini-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Fuller",
+      "permalink": "paul-fuller",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Earl",
+      "last_name": "Waller",
+      "permalink": "earl-waller",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "IBM",
+      "permalink": "ibm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hewlett-Packard",
+      "permalink": "hewlett-packard",
+      "image":
+       {"available_sizes":
+         [[[145,
+            150],
+           "assets/images/resized/0001/4529/14529v5-max-150x150.jpg"],
+          [[242,
+            250],
+           "assets/images/resized/0001/4529/14529v5-max-250x250.jpg"],
+          [[291,
+            300],
+           "assets/images/resized/0001/4529/14529v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BMC",
+      "permalink": "bmc",
+      "image": null}},
+   {"competitor":
+     {"name": "Symantec",
+      "permalink": "symantec",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/7569/17569v4-max-150x150.jpg"],
+          [[226,
+            59],
+           "assets/images/resized/0001/7569/17569v4-max-250x250.jpg"],
+          [[226,
+            59],
+           "assets/images/resized/0001/7569/17569v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[83,
+        150],
+       "assets/images/resized/0027/5461/275461v2-max-150x150.png"],
+      [[138,
+        250],
+       "assets/images/resized/0027/5461/275461v2-max-250x250.png"],
+      [[250,
+        450],
+       "assets/images/resized/0027/5461/275461v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        101],
+       "assets/images/resized/0027/5462/275462v2-max-150x150.png"],
+      [[250,
+        169],
+       "assets/images/resized/0027/5462/275462v2-max-250x250.png"],
+      [[450,
+        304],
+       "assets/images/resized/0027/5462/275462v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

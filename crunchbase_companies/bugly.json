@@ -1,0 +1,136 @@
+{"name": "Bugly",
+ "permalink": "bugly",
+ "crunchbase_url": "http://www.crunchbase.com/company/bugly",
+ "homepage_url": "http://bug.ly/",
+ "blog_url": "http://blog.bug.ly/",
+ "blog_feed_url": "http://blog.bug.ly/rss",
+ "twitter_username": "BuglyApp",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bug-tracker-bug-tracking-bugs-issue-tracking-issue-tracker-issues-project-management",
+ "alias_list": null,
+ "email_address": "inquiries@bug.ly",
+ "phone_number": "+47 90163108",
+ "description": "Beautiful Issue Tracking",
+ "created_at": "Fri Jul 13 10:02:55 UTC 2012",
+ "updated_at": "Sat Jul 14 10:08:10 UTC 2012",
+ "overview": "\u003Cp\u003EBugly provides a hosted issue tracker, focusing on the user experience.\u003C/p\u003E\n\n\u003Cp\u003EFeatures include a comprehensive REST API, email integration, issue dependencies, project permissions, internal wiki, custom statuses.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0020/0737/200737v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0020/0737/200737v2-max-250x250.jpg"],
+     [[300,
+       300],
+      "assets/images/resized/0020/0737/200737v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Stian",
+      "last_name": "Gryt\u00f8yr",
+      "permalink": "stian-grytyr",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Fog Creek Software",
+      "permalink": "fog-creek-software",
+      "image":
+       {"available_sizes":
+         [[[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-150x150.png"],
+          [[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-250x250.png"],
+          [[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "entp",
+      "permalink": "entp",
+      "image": null}},
+   {"competitor":
+     {"name": "Atlassian",
+      "permalink": "atlassian",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/2854/2854v3-max-150x150.png"],
+          [[250,
+            77],
+           "assets/images/resized/0000/2854/2854v3-max-250x250.png"],
+          [[450,
+            139],
+           "assets/images/resized/0000/2854/2854v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Hosting and servers",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Bratt\u00e5sveien 131",
+    "address2": "",
+    "zip_code": "NO-3140",
+    "city": "N\u00f8tter\u00f8y",
+    "state_code": null,
+    "country_code": "NOR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0020/0736/200736v2-max-150x150.png"],
+      [[250,
+        161],
+       "assets/images/resized/0020/0736/200736v2-max-250x250.png"],
+      [[450,
+        291],
+       "assets/images/resized/0020/0736/200736v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

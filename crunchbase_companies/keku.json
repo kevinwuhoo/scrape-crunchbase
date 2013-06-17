@@ -1,0 +1,179 @@
+{"name": "KeKu",
+ "permalink": "keku",
+ "crunchbase_url": "http://www.crunchbase.com/company/keku",
+ "homepage_url": "http://www.keku.com",
+ "blog_url": "",
+ "blog_feed_url": "http://blog.keku.com/feed/",
+ "twitter_username": "KEKUtweets",
+ "category_code": "mobile",
+ "number_of_employees": 15,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, voip, international-calling, new-york, contacts, smartphone, mobile-apps, international-forwarding, telephony, phone, on-line-number, internet, local-number, telephone, phone-number, stanacard, smartdial, wireless, telecom",
+ "alias_list": null,
+ "email_address": "contactus@keku.com",
+ "phone_number": "",
+ "description": "Free International Calling",
+ "created_at": "Tue May 17 16:55:38 UTC 2011",
+ "updated_at": "Wed Aug 15 21:58:43 UTC 2012",
+ "overview": "\u003Cp\u003EKeku is a technology company that connects people around the world with its high-quality calling service and simple mobile apps. Customers are able to cost-effectively connect from the devices of their choice \u0026#8211; over the networks of their choice. KeKu also licenses a patented Local Number technology to select communications providers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       67],
+      "assets/images/resized/0013/5025/135025v2-max-150x150.png"],
+     [[250,
+       112],
+      "assets/images/resized/0013/5025/135025v2-max-250x250.png"],
+     [[450,
+       203],
+      "assets/images/resized/0013/5025/135025v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Manlio",
+      "last_name": "Carrelli",
+      "permalink": "manlio-carrelli",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Drew",
+      "last_name": "Bernstein",
+      "permalink": "drew-bernstein",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chairwoman",
+    "person":
+     {"first_name": "Anastasia",
+      "last_name": "Koroleva",
+      "permalink": "anastasia-koroleva-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Anastasia",
+      "last_name": "Koroleva",
+      "permalink": "anastasia-koroleva",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Doug",
+      "last_name": "Roedel",
+      "permalink": "doug-roedel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rebtel",
+      "permalink": "rebtel",
+      "image":
+       {"available_sizes":
+         [[[141,
+            30],
+           "assets/images/resized/0003/7859/37859v1-max-150x150.png"],
+          [[141,
+            30],
+           "assets/images/resized/0003/7859/37859v1-max-250x250.png"],
+          [[141,
+            30],
+           "assets/images/resized/0003/7859/37859v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Truphone",
+      "permalink": "truphone",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/3874/3874v1-max-150x150.jpg"],
+          [[250,
+            60],
+           "assets/images/resized/0000/3874/3874v1-max-250x250.jpg"],
+          [[450,
+            109],
+           "assets/images/resized/0000/3874/3874v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Viber",
+      "permalink": "viber",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0014/5457/145457v4-max-150x150.png"],
+          [[222,
+            104],
+           "assets/images/resized/0014/5457/145457v4-max-250x250.png"],
+          [[222,
+            104],
+           "assets/images/resized/0014/5457/145457v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Localphone",
+      "permalink": "localphone",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0003/5296/35296v2-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0003/5296/35296v2-max-250x250.png"],
+          [[450,
+            92],
+           "assets/images/resized/0003/5296/35296v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Global HQ",
+    "address1": "424 West 33rd Street",
+    "address2": "",
+    "zip_code": "10001",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,152 @@
+{"name": "Topicle",
+ "permalink": "topicle",
+ "crunchbase_url": "http://www.crunchbase.com/company/topicle",
+ "homepage_url": "http://www.topicle.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, verticalsearch, customsearch",
+ "alias_list": null,
+ "email_address": "feedback@topicle.com",
+ "phone_number": "+49-89-381694562",
+ "description": null,
+ "created_at": "Tue Mar 11 03:28:05 UTC 2008",
+ "updated_at": "Sun Apr 17 23:32:51 UTC 2011",
+ "overview": "\u003Cp\u003ETopicle allows users to create vertical search engines by entering in a topic and hand-picking selected URL\u0026#8217;s to fill that topic.  Searches within the vertical will only look for content from the URL\u0026#8217;s relevant to each vertical.  Topicle\u0026#8217;s founder Steffen Muller has some history with search having worked as a Product Manager at \u003Ca href=\"http://www.crunchbase.com/company/google\" title=\"Google\"\u003EGoogle\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       64],
+      "assets/images/resized/0001/5131/15131v1-max-150x150.png"],
+     [[200,
+       86],
+      "assets/images/resized/0001/5131/15131v1-max-250x250.png"],
+     [[200,
+       86],
+      "assets/images/resized/0001/5131/15131v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Topicle",
+    "permalink": "topicle",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Meister",
+      "permalink": "christian-meister",
+      "image":
+       {"available_sizes":
+         [[[115,
+            150],
+           "assets/images/resized/0001/5694/15694v3-max-150x150.jpg"],
+          [[193,
+            250],
+           "assets/images/resized/0001/5694/15694v3-max-250x250.jpg"],
+          [[317,
+            410],
+           "assets/images/resized/0001/5694/15694v3-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Steffen",
+      "last_name": "Mueller",
+      "permalink": "steffen-mueller-2",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0001/6677/16677v1-max-150x150.jpg"],
+          [[158,
+            197],
+           "assets/images/resized/0001/6677/16677v1-max-250x250.jpg"],
+          [[158,
+            197],
+           "assets/images/resized/0001/6677/16677v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mahalo",
+      "permalink": "mahalo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/4246/4246v6-max-150x150.png"],
+          [[200,
+            64],
+           "assets/images/resized/0000/4246/4246v6-max-250x250.png"],
+          [[200,
+            64],
+           "assets/images/resized/0000/4246/4246v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wikia",
+      "permalink": "wikia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/3895/3895v11-max-150x150.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/3895/3895v11-max-250x250.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/3895/3895v11-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ChaCha",
+      "permalink": "chacha",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0010/6139/106139v1-max-150x150.jpg"],
+          [[240,
+            143],
+           "assets/images/resized/0010/6139/106139v1-max-250x250.jpg"],
+          [[240,
+            143],
+           "assets/images/resized/0010/6139/106139v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Zoolium GmbH",
+    "address2": "Am Knie 8",
+    "zip_code": "",
+    "city": "Munich",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

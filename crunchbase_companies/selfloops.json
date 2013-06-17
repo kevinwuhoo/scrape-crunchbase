@@ -1,0 +1,76 @@
+{"name": "SelfLoops",
+ "permalink": "selfloops",
+ "crunchbase_url": "http://www.crunchbase.com/company/selfloops",
+ "homepage_url": "http://www.selfloops.com",
+ "blog_url": "http://blog.selfloops.com/",
+ "blog_feed_url": "http://blog.selfloops.com/?feed=rss2",
+ "twitter_username": "selfloops",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 2,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "internet-of-things, fitness, android, telemetry, smartphone-accessory",
+ "alias_list": null,
+ "email_address": "christian.delrosso@selfloops.com",
+ "phone_number": "+39 338 8819127",
+ "description": "You can only improve what you measure",
+ "created_at": "Mon Oct 22 05:32:41 UTC 2012",
+ "updated_at": "Wed Dec 12 07:16:56 UTC 2012",
+ "overview": "\u003Cp\u003ESelfloops  is an integrated fitness platform for athletes that are serious about their sport activities and want to improve their performance. \u003C/p\u003E\n\n\u003Cp\u003EWe are focused on creating the tools to track and analyse the most important metrics during a training session. Example of these metrics are heart rate,speed, altitude, weight, cadence, bike power and also other metrics such as temperature, humidity and barometric pressure. \u003C/p\u003E\n\n\u003Cp\u003EThe service is made of a unique smartphone accessory, a smartphone application and an Internet service. The smartphone accessory allows us to connect to ANT+ sensors and to have data on the environment with temperature,humidity and barometric pressure sensors. This is an innovative accessory that is not at the moment in the market. We\u0026#8217;ll release the accessory with open APIs to allow other developers to build applications and services with it.\u003C/p\u003E\n\n\u003Cp\u003EThe smartphone collects the data from the activity and uses the GPS to extract the location, speed, altitude and distance of the training session. In addition, the application receives further data from the accessory. The data are stored in the smartphone application, and it will be uploaded in the Internet server for further data analysis. Furthermore, the data can also be streamed in real-time to our server, creating a telemetry. Coaches or friends could follow the training in real-time and learn how you are doing. \u003C/p\u003E\n\n\u003Cp\u003EWe have tested our system with the Italian Cycling Federation and with an Italian pro-team. We will involve them for developing a service that fits their needs.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Del Rosso",
+      "permalink": "christian-del-rosso",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Piero",
+      "last_name": "Ribichini",
+      "permalink": "piero-ribichini",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "viale xx giugno 29",
+    "address2": "",
+    "zip_code": "63900",
+    "city": "Fermo",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": 43.1601075,
+    "longitude": 13.7068599}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/09/30/italians-take-up-the-torch-to-ignite-their-own-tech-startup-scene/",
+    "title": "TechCrunch"},
+   {"external_url": "http://startupopen.com/gew50/profiles-from-2012/",
+    "title": "StartupOpen"}]}

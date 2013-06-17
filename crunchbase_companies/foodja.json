@@ -1,0 +1,136 @@
+{"name": "Foodja",
+ "permalink": "foodja",
+ "crunchbase_url": "http://www.crunchbase.com/company/foodja",
+ "homepage_url": "http://www.foodja.com",
+ "blog_url": "http://www.foodja.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "Foodja",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "foodie, foodspotting, urban-spoon, restaurant-app, food-app, restaurant-food-pictures, pictures-of-restaurant-food, food-website",
+ "alias_list": null,
+ "email_address": "bryan.golkhajeh@foodja.com",
+ "phone_number": "317-457-5822",
+ "description": "Restaurant Food Pictures",
+ "created_at": "Mon Jan 24 22:32:35 UTC 2011",
+ "updated_at": "Wed Feb 02 22:26:42 UTC 2011",
+ "overview": "\u003Cp\u003EFoodja is a website that allows users to view and upload pictures of restaurant food using their mobile phones from the dinner table. Using a rating system, users can rate their food and later receive recommendations of foods they might enjoy at other restaurants (or the one they are currently sitting in!). \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       127],
+      "assets/images/resized/0011/8802/118802v2-max-150x150.jpg"],
+     [[172,
+       146],
+      "assets/images/resized/0011/8802/118802v2-max-250x250.jpg"],
+     [[172,
+       146],
+      "assets/images/resized/0011/8802/118802v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Bryan",
+      "last_name": "Golkhajeh",
+      "permalink": "bryan-golkhajeh",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FoodNetwork.com",
+      "permalink": "foodnetwork-com",
+      "image":
+       {"available_sizes":
+         [[[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-150x150.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-250x250.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Foodzie",
+      "permalink": "foodzie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            69],
+           "assets/images/resized/0002/3924/23924v4-max-150x150.jpg"],
+          [[250,
+            116],
+           "assets/images/resized/0002/3924/23924v4-max-250x250.jpg"],
+          [[450,
+            209],
+           "assets/images/resized/0002/3924/23924v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Foodspotting",
+      "permalink": "foodspotting",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0007/4271/74271v2-max-150x150.png"],
+          [[250,
+            50],
+           "assets/images/resized/0007/4271/74271v2-max-250x250.png"],
+          [[450,
+            90],
+           "assets/images/resized/0007/4271/74271v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Urbanspoon",
+      "permalink": "urbanspoon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0002/1806/21806v1-max-150x150.png"],
+          [[225,
+            103],
+           "assets/images/resized/0002/1806/21806v1-max-250x250.png"],
+          [[225,
+            103],
+           "assets/images/resized/0002/1806/21806v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "46204",
+    "city": "Indianapolis",
+    "state_code": "IN",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

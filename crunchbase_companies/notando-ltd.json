@@ -1,0 +1,89 @@
+{"name": "Notando Ltd",
+ "permalink": "notando-ltd",
+ "crunchbase_url": "http://www.crunchbase.com/company/notando-ltd",
+ "homepage_url": "http://SimplyMeet.me",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "simplymeet_me",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2001,
+ "founded_month": 12,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "appointment, booking, video-meeting-appointments, paid-video-appointments, paid-cam-appointments, accounting",
+ "alias_list": null,
+ "email_address": "ingvar@simplymeet.me",
+ "phone_number": "+354-8989951",
+ "description": "Provider of Saas for professionals",
+ "created_at": "Wed Jan 25 12:31:34 UTC 2012",
+ "updated_at": "Thu Jan 26 22:30:29 UTC 2012",
+ "overview": "\u003Cp\u003ENotando Limited has been in operation since 2001. First providing a simple online accounting solution for small Icelandic companies. In 2007 the solution was re-programmed and is now a complete solution that suits small and medium sized companies and solves all their accounting, sales, purchases, inventory, and salary calculation needs. It has all necessary connections to banks, tax authorities and retirement funds to make it easy to use for all. With a complete solution and hundreds of paying companies as users, we have been able to concentrate on new international exciting projects such as, SimplyBook.me and SimplyMeet.me which we are now concentrating on.\u003C/p\u003E\n\n\u003Cp\u003EThe solution SimplyBook.me was launched in 2011 and without any advertisements has some thousands of registrations already and users all over the world. SimplyMeet.me is a video meeting extension of SimplyBook.me and was only launched in january 2012.\u003C/p\u003E\n\n\u003Cp\u003EWe were also the original creators of the Wordpress viral social plugin: http://ilikeviral.com that now has been stolen, copied and is sold under multible other names. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       103],
+      "assets/images/resized/0017/1630/171630v2-max-150x150.png"],
+     [[250,
+       172],
+      "assets/images/resized/0017/1630/171630v2-max-250x250.png"],
+     [[310,
+       214],
+      "assets/images/resized/0017/1630/171630v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ingvar",
+      "last_name": "Gu\u00f0mundsson",
+      "permalink": "ingvar-gumundsson",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Michail",
+      "last_name": "Benkovich",
+      "permalink": "michail-benkovich",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main office",
+    "address1": "Laekjargata 11",
+    "address2": "",
+    "zip_code": "101",
+    "city": "Reykjavik",
+    "state_code": null,
+    "country_code": "ISL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://notando.is",
+    "title": "Accounting/sales/salaries/webshop"},
+   {"external_url": "http://simplybook.me",
+    "title": "Flexible online appointment booking service"},
+   {"external_url": "http://simplymeet.me",
+    "title": "Online web cam appointment service"}]}

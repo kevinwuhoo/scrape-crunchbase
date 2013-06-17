@@ -1,0 +1,134 @@
+{"name": "PicMe",
+ "permalink": "picme",
+ "crunchbase_url": "http://www.crunchbase.com/company/picme",
+ "homepage_url": "http://pic.me",
+ "blog_url": "http://pic.me/news/",
+ "blog_feed_url": "http://picme.raizlabs.com/news/feed/",
+ "twitter_username": "Picme",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": 2009,
+ "deadpooled_month": 8,
+ "deadpooled_day": 14,
+ "deadpooled_url": "http://picme.raizlabs.com/news/news-and-releases/moving-on/",
+ "tag_list": "photos, sharing, 3d, interface, photo, photo-sharing, search",
+ "alias_list": "",
+ "email_address": "graiz@raizlabs.com",
+ "phone_number": "617-820-5206",
+ "description": "",
+ "created_at": "Tue Aug 26 21:49:46 UTC 2008",
+ "updated_at": "Mon Apr 08 11:00:35 UTC 2013",
+ "overview": "\u003Cp\u003EPicMe is a tool for letting you see, view, share and enjoy thousands of pictures. PicMe works with collections of photos either personal or enterprise to securely share image stacks with friends and colleagues right from your desktop.\u003C/p\u003E\n\n\u003Cp\u003EThe application is a unified tool that connects to cameras, photos on your PC, photos shared on the network and photos locked inside various websites. The product provides a unified interface across multiple channels making it easy to work with photos no matter where they are or how large the files happen to be.\u003C/p\u003E\n\n\u003Cp\u003EPicMe is offered either as a consumer product or as an enterprise deployment for companies managing large image inventory.  Such as corporate image databases, micro-stock agencies and photography studios. \u003C/p\u003E\n\n\u003Cp\u003EPicMe differentiates itself with a hybrid desktop/web approach and a unique 3D patent pending interface. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0002/4205/24205v2-max-150x150.jpg"],
+     [[250,
+       96],
+      "assets/images/resized/0002/4205/24205v2-max-250x250.jpg"],
+     [[450,
+       173],
+      "assets/images/resized/0002/4205/24205v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Gregory",
+      "last_name": "Raiz",
+      "permalink": "gregory-raiz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0007/4599/74599v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0007/4599/74599v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0007/4599/74599v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EGregory Raiz / \u003Ca href=\"http://www.raizlabs.com\" title=\"Raizlabs\" rel=\"nofollow\"\u003ERaizlabs\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Corbis Corporation",
+      "permalink": "corbis",
+      "image":
+       {"available_sizes":
+         [[[112,
+            41],
+           "assets/images/resized/0002/3067/23067v1-max-150x150.png"],
+          [[112,
+            41],
+           "assets/images/resized/0002/3067/23067v1-max-250x250.png"],
+          [[112,
+            41],
+           "assets/images/resized/0002/3067/23067v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SearchMe",
+      "permalink": "searchme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/5184/15184v1-max-150x150.png"],
+          [[221,
+            45],
+           "assets/images/resized/0001/5184/15184v1-max-250x250.png"],
+          [[221,
+            45],
+           "assets/images/resized/0001/5184/15184v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SmugMug",
+      "permalink": "smugmug",
+      "image":
+       {"available_sizes":
+         [[[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-150x150.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-250x250.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1330 Beacon St",
+    "address2": "",
+    "zip_code": "02446",
+    "city": "Brookline",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.342152,
+    "longitude": -71.121625}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cembed src=\"http://blip.tv/play/hRbO6QgA\" type=\"application/x-shockwave-flash\" width=\"370\" height=\"308\" allowscriptaccess=\"always\" allowfullscreen=\"true\"\u003E\u003C/embed\u003E",
+    "description": "\u003Cp\u003EFrom \u003Ca href=\"http://www.beet.tv/\" title=\"Beet.tv\" rel=\"nofollow\"\u003EBeet.tv\u003C/a\u003E\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.raizlabs.com",
+    "title": "Corporate Page"}]}

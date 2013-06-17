@@ -1,0 +1,101 @@
+{"name": "FAROO",
+ "permalink": "faroo",
+ "crunchbase_url": "http://www.crunchbase.com/company/faroo",
+ "homepage_url": "http://www.faroo.com",
+ "blog_url": "http://blog.faroo.com",
+ "blog_feed_url": "http://blog.faroo.com/?feed=rss2",
+ "twitter_username": "faroo_p2p",
+ "category_code": "search",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "techcrunch40, search, p2p-search, peer-to-peer, real-time, realtime, searchengine, crowdsourcing, distributed-search, social-search, social-discovery",
+ "alias_list": "",
+ "email_address": "info@faroo.com",
+ "phone_number": "+49 (0) 2104 390189",
+ "description": "",
+ "created_at": "Thu Aug 30 14:01:36 UTC 2007",
+ "updated_at": "Tue Mar 26 04:42:40 UTC 2013",
+ "overview": "\u003Cp\u003EFAROO is a peer-to-peer web search engine that has no centralized index and crawler. Each web page visited by users is automatically included into the distributed index. Ranking of search results is based on a distributed usage statistics of the web pages visited by FAROO users, which leads to a more democratic, user centric ranking.  \u003C/p\u003E\n\n\u003Cp\u003EFAROO also shares advertising revenues up to fifty percent with its users. The search engine uses privacy-protected behavioral targeting to increase conversion rates.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0000/0178/178v1-max-150x150.png"],
+     [[250,
+       52],
+      "assets/images/resized/0000/0178/178v1-max-250x250.png"],
+     [[450,
+       93],
+      "assets/images/resized/0000/0178/178v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "FAROO P2P",
+    "permalink": "faroo",
+    "image": null},
+   {"name": "FAROO Real-time Search",
+    "permalink": "faroo-real-time-search",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dr. Wolf",
+      "last_name": "Garbe",
+      "permalink": "dr-wolf-garbe",
+      "image":
+       {"available_sizes":
+         [[[126,
+            150],
+           "assets/images/resized/0003/8863/38863v2-max-150x150.png"],
+          [[210,
+            250],
+           "assets/images/resized/0003/8863/38863v2-max-250x250.png"],
+          [[378,
+            450],
+           "assets/images/resized/0003/8863/38863v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Malgorzata",
+      "last_name": "Garbe",
+      "permalink": "malgorzata-garbe",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "24 Greville Street",
+    "address2": "",
+    "zip_code": "EC1N 8SS",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5195795,
+    "longitude": -0.1065551}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.twitter.com/faroo_p2p",
+    "title": "Follow FAROO on Twitter"}]}

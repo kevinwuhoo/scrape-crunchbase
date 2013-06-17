@@ -1,0 +1,106 @@
+{"name": "trgt.us",
+ "permalink": "trgt-us",
+ "crunchbase_url": "http://www.crunchbase.com/company/trgt-us",
+ "homepage_url": "http://trgt.us",
+ "blog_url": "http://trgt.us/blog/",
+ "blog_feed_url": "http://trgt.us/blog/feed/",
+ "twitter_username": "trgtus",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "url-shortener, url, iphone-url-shortener, android-url-shortener, platform-aware",
+ "alias_list": null,
+ "email_address": "chris@trgt.us",
+ "phone_number": "07595763347",
+ "description": "Platform aware URL shortener",
+ "created_at": "Sat Jul 02 23:09:43 UTC 2011",
+ "updated_at": "Wed Jul 06 23:21:30 UTC 2011",
+ "overview": "\u003Cp\u003Etrgt.us is a platform aware URL shortener allowing users to create short links which redirect to different destinations based on the device that the visitor is using. \u003C/p\u003E\n\n\u003Cp\u003ECurrently this will redirect to any mobile site, but the company\u0026#8217;s aim is to be able to provide much deeper integration with technology allowing a user to be directed in to an App if there is an App which is installed or forwarded to the device-relevant App Store to get this App; allowing users to be presented the best possible experience for a brand all from one short link.\u003C/p\u003E\n\n\u003Cp\u003Etrgt.us also provides a standard single-link URL shortener with custom short-links and full statistics expected in the beginning of August 2011 along with tighter integration with mobile Apps.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       80],
+      "assets/images/resized/0014/2770/142770v2-max-150x150.png"],
+     [[250,
+       133],
+      "assets/images/resized/0014/2770/142770v2-max-250x250.png"],
+     [[450,
+       240],
+      "assets/images/resized/0014/2770/142770v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Catherine",
+      "last_name": "Liao",
+      "permalink": "catherine-liao",
+      "image": null}},
+   {"is_past": true,
+    "title": "Hacker",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Maddern",
+      "permalink": "chris-maddern",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0019/9723/199723v4-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0019/9723/199723v4-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0019/9723/199723v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a320k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 7,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        105],
+       "assets/images/resized/0014/2257/142257v2-max-150x150.png"],
+      [[250,
+        175],
+       "assets/images/resized/0014/2257/142257v2-max-250x250.png"],
+      [[450,
+        315],
+       "assets/images/resized/0014/2257/142257v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

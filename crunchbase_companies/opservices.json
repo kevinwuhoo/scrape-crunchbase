@@ -1,0 +1,128 @@
+{"name": "OpServices",
+ "permalink": "opservices",
+ "crunchbase_url": "http://www.crunchbase.com/company/opservices",
+ "homepage_url": "http://www.opservices.com.br",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "opservices",
+ "category_code": "software",
+ "number_of_employees": 25,
+ "founded_year": 2004,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "network-management, systems-management, itil, nagios, business-process",
+ "alias_list": null,
+ "email_address": "info@opservices.com.br",
+ "phone_number": "+55-51-32753588",
+ "description": "Company focused in systems management",
+ "created_at": "Wed Nov 17 16:40:50 UTC 2010",
+ "updated_at": "Sat Jan 14 03:50:59 UTC 2012",
+ "overview": "\u003Cp\u003EOpServices is an enterprise dedicated to IT Governance and IT infrastructure and business process monitoring. Created in 2003, offers services and products for the control of availability, performance and security of all the informatizing elements (IT) and sustain those processes, such as communication and energy networks, data banks, operational machines, air conditioning, etc. Its main product is the OpMon platform. \u003C/p\u003E\n\n\u003Cp\u003EWith its headquarters in Porto Alegre, RS, and an office in S\u00e3o Paulo, OpServices operates with a staff formed by professionals with extensive experience in the area of IT Management and wide technical skill, mainly dedicated to seeking specific solutions to meet the needs of each client.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "OpMon",
+    "permalink": "opmon",
+    "image":
+     {"available_sizes":
+       [[[150,
+          66],
+         "assets/images/resized/0017/0905/170905v2-max-150x150.jpg"],
+        [[250,
+          110],
+         "assets/images/resized/0017/0905/170905v2-max-250x250.jpg"],
+        [[450,
+          198],
+         "assets/images/resized/0017/0905/170905v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dario",
+      "last_name": "B. Bestetti",
+      "permalink": "dario-b-bestetti",
+      "image": null}},
+   {"is_past": true,
+    "title": "R\u0026D Manager",
+    "person":
+     {"first_name": "Alessandro",
+      "last_name": "Ren",
+      "permalink": "alessandro-ren",
+      "image": null}},
+   {"is_past": true,
+    "title": "Sales Director",
+    "person":
+     {"first_name": "Madeleine",
+      "last_name": "M. Brigidi",
+      "permalink": "madeleine-m-brigidi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "HP Open View",
+      "permalink": "hp-open-view",
+      "image": null}},
+   {"competitor":
+     {"name": "ICA Unicenter",
+      "permalink": "ica-unicenter",
+      "image": null}},
+   {"competitor":
+     {"name": "Tivoli",
+      "permalink": "tivoli",
+      "image": null}},
+   {"competitor":
+     {"name": "op5",
+      "permalink": "op5",
+      "image":
+       {"available_sizes":
+         [[[100,
+            35],
+           "assets/images/resized/0003/1464/31464v2-max-150x150.jpg"],
+          [[100,
+            35],
+           "assets/images/resized/0003/1464/31464v2-max-250x250.jpg"],
+          [[100,
+            35],
+           "assets/images/resized/0003/1464/31464v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "R. Felix da Cunha, 1009 - Sala 501",
+    "address2": "",
+    "zip_code": "90570-001",
+    "city": "Porto Alegre",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "Branch",
+    "address1": "Av. Cidade Jardim, 400 - 7o. andar",
+    "address2": "",
+    "zip_code": "01454-000",
+    "city": "Sao Paulo",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

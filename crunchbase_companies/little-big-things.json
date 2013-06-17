@@ -1,0 +1,96 @@
+{"name": "Little Big Things",
+ "permalink": "little-big-things",
+ "crunchbase_url": "http://www.crunchbase.com/company/little-big-things",
+ "homepage_url": "http://little.bigthin.gs/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "sahil@little.bigthin.gs",
+ "phone_number": "",
+ "description": "Simply awesome apps.",
+ "created_at": "Wed Sep 15 03:34:32 UTC 2010",
+ "updated_at": "Fri Jul 08 10:17:43 UTC 2011",
+ "overview": "\u003Cp\u003EThey\u0026#8217;re a company based in sunny California bent on creating cool things. They believe that little products made by small teams can have large and disruptive tendencies.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Dayta",
+    "permalink": "dayta",
+    "image": null},
+   {"name": "Color Stream",
+    "permalink": "color-stream",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sahil",
+      "last_name": "Lavingia",
+      "permalink": "sahil-lavingia",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0010/5139/105139v4-max-150x150.png"],
+          [[166,
+            250],
+           "assets/images/resized/0010/5139/105139v4-max-250x250.png"],
+          [[300,
+            450],
+           "assets/images/resized/0010/5139/105139v4-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$10k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://twitter.com/#!/slavingia/status/27309929418",
+    "source_description": "Sahil Lavingia's Tweet",
+    "raised_amount": 10000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 10,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Secured $10k in seed funding.",
+    "stoned_year": 2010,
+    "stoned_month": 10,
+    "stoned_day": 13,
+    "source_url": "http://twitter.com/#!/slavingia/status/27309929418",
+    "source_text": null,
+    "source_description": "Tweet by Sahil Lavingia",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Little Big Things",
+      "permalink": "little-big-things"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

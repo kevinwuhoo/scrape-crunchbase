@@ -1,0 +1,88 @@
+{"name": "ClipCenter",
+ "permalink": "clipcenter",
+ "crunchbase_url": "http://www.crunchbase.com/company/clipcenter",
+ "homepage_url": "http://www.clip-center.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "clipcenter",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video-sharing, youtube-clone, youtube-software, youtube-script, media-sharing",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Youtube Clone Software",
+ "created_at": "Wed Dec 09 06:04:20 UTC 2009",
+ "updated_at": "Wed Dec 09 18:50:08 UTC 2009",
+ "overview": "\u003Cp\u003EClipCenter is a video sharing software application which allows the user to create a web site similar to YouTube, and is often called a YouTube-clone.\u003C/p\u003E\n\n\u003Cp\u003EIt is written in PHP - CodeIgniter framework and uses MySQL databases. As with most other video sharing software, ClipCenter uses ffmpeg, a collection of software libraries that can record, convert and stream digital audio and video in numerous formats.\u003C/p\u003E\n\n\u003Cp\u003ECreating video-sharing websites seems to have become a pretty popular niche, with several high-ranking popular video-sharing websites (many of adult content) running the script. Although the script is commercial, it has a large community userbase which also supplies additional modifications and fixes available to the public for free or commercially.\u003C/p\u003E\n\n\u003Cp\u003EThe latest version is ClipCenter 2.1, which has added many notable features such as multi-server load balancing, multi-language system, and an enhanced administrative user interface.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0006/8975/68975v2-max-150x150.png"],
+     [[215,
+       84],
+      "assets/images/resized/0006/8975/68975v2-max-250x250.png"],
+     [[215,
+       84],
+      "assets/images/resized/0006/8975/68975v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Moore",
+      "permalink": "kevin-moore",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "New York Office",
+    "address1": "Central Park",
+    "address2": "",
+    "zip_code": "12345",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        67],
+       "assets/images/resized/0006/8974/68974v2-max-150x150.jpg"],
+      [[250,
+        113],
+       "assets/images/resized/0006/8974/68974v2-max-250x250.jpg"],
+      [[450,
+        203],
+       "assets/images/resized/0006/8974/68974v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.clipcenterdemo.com",
+    "title": "Demo Product"}]}

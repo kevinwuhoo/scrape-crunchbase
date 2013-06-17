@@ -1,0 +1,105 @@
+{"name": "Genoos",
+ "permalink": "genoos",
+ "crunchbase_url": "http://www.crunchbase.com/company/genoos",
+ "homepage_url": "http://genoos.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "gen00s",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-aggregator, social-network, facebook, twitter, google, linkedin",
+ "alias_list": null,
+ "email_address": "contact@genoos.com",
+ "phone_number": "",
+ "description": "Social Network Aggregator",
+ "created_at": "Thu Sep 22 05:55:14 UTC 2011",
+ "updated_at": "Mon Nov 14 01:33:23 UTC 2011",
+ "overview": "\u003Cp\u003EGenoos is social network aggregator that was built by frustration for current solution. \u003C/p\u003E\n\n\u003Cp\u003EThe development started in 2009 when Facebook still used list. The main Idea was to aggregate each social network list into power list. Indeed in each social network you always have different type of connection such as Friends and Work. With Genoos you could create a power list called Work and aggregate all work connections across each social network.\u003C/p\u003E\n\n\u003Cp\u003EThe project was delayed when Facebook released OpenGraph which doesnt fully support list. As Today Facebook still doesn\u0026#8217;t offer any way of retrieveing feeds per list with their API.\u003C/p\u003E\n\n\u003Cp\u003EAlso Genoos will be able to save some piece of content and the user will be able to search trough them via tags and key words.\u003C/p\u003E\n\n\u003Cp\u003EToday Genoos support Facebook, Twitter, Linkedin, Google Buzz, Viadeo and Foursquare.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       35],
+      "assets/images/resized/0015/5129/155129v2-max-150x150.jpg"],
+     [[120,
+       35],
+      "assets/images/resized/0015/5129/155129v2-max-250x250.jpg"],
+     [[120,
+       35],
+      "assets/images/resized/0015/5129/155129v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Funder",
+    "person":
+     {"first_name": "Thierry",
+      "last_name": "Leszkowicz",
+      "permalink": "thierry-leszkowicz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Funder",
+    "person":
+     {"first_name": "Nicolas",
+      "last_name": "Cerveaux",
+      "permalink": "nicolas-cerveaux",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TweetDeck",
+      "permalink": "tweetdeck",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/1352/21352v12-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/1352/21352v12-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/1352/21352v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Seesmic",
+      "permalink": "seesmic",
+      "image":
+       {"available_sizes":
+         [[[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-150x150.png"],
+          [[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-250x250.png"],
+          [[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,150 @@
+{"name": "Viper Logic",
+ "permalink": "viper-logic",
+ "crunchbase_url": "http://www.crunchbase.com/company/viper-logic",
+ "homepage_url": "http://www.vipermailer.com",
+ "blog_url": "http://www.logicsblog.com",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "advertising",
+ "number_of_employees": 5,
+ "founded_year": 1993,
+ "founded_month": 5,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email-marketing, email-marketing-software",
+ "alias_list": null,
+ "email_address": "lconway@viperlogic.com",
+ "phone_number": "760-320-1414",
+ "description": null,
+ "created_at": "Fri Nov 28 21:33:41 UTC 2008",
+ "updated_at": "Sun Jun 14 18:36:27 UTC 2009",
+ "overview": "\u003Cp\u003EEmail Marketing web based service provider\u003C/p\u003E\n\n\u003Cp\u003EViper Mailer specializes in email campaign deliverability through our software system that allows companies and organizations the ability to manage email contacts in multiple groups including an individual tracking option for each email address in the clients account.\u003C/p\u003E\n\n\u003Cp\u003EWe have applied technology that allows the client to utilize our service with a simple 2 step prepare and send feature that makes the use of our service simple.\u003C/p\u003E\n\n\u003Cp\u003EThe system allows the client to utilize one of 70 free graphic colorful templates or they may upload their own branded HTML template and utilize our WiziWig so the skill of HTML programming is not needed.\u003C/p\u003E\n\n\u003Cp\u003EWe feel that each email contact that the client has in their account is important and should be treated like gold. So we have a unique way of empowering the client to manage their list of contacts through our smart manager that lets the client do as much data mining into each contact and the contact history for example does the contact open their emails and how many messages has the clients customer or member opened each message and what actions the client has taken like clicking on the landing page links in the messages.  \u003C/p\u003E\n\n\u003Cp\u003EWe specialize in being the authority in email marketing through our Education Center that is available not just to our client base but to educate anyone who wants to learn the tips and techniques that will assure the client a successful email campaign from the start.\u003C/p\u003E\n\n\u003Cp\u003EOur software service is intelligent due to the utilization of .NET technology making the client interaction with this product unique.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[95,
+       49],
+      "assets/images/resized/0003/1275/31275v2-max-150x150.jpg"],
+     [[95,
+       49],
+      "assets/images/resized/0003/1275/31275v2-max-250x250.jpg"],
+     [[95,
+       49],
+      "assets/images/resized/0003/1275/31275v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Viper Mailer",
+    "permalink": "viper-mailer",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Software Architech",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "E. Lara",
+      "permalink": "patrick-e-lara",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Lance",
+      "last_name": "Conway",
+      "permalink": "lance-conway",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Constant Contact",
+      "permalink": "constant-contact",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0001/6223/16223v5-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0001/6223/16223v5-max-250x250.png"],
+          [[450,
+            158],
+           "assets/images/resized/0001/6223/16223v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iContact",
+      "permalink": "icontact",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0000/1954/1954v3-max-150x150.png"],
+          [[219,
+            76],
+           "assets/images/resized/0000/1954/1954v3-max-250x250.png"],
+          [[219,
+            76],
+           "assets/images/resized/0000/1954/1954v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bronto Software",
+      "permalink": "bronto-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/1749/21749v2-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0002/1749/21749v2-max-250x250.png"],
+          [[251,
+            76],
+           "assets/images/resized/0002/1749/21749v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Campaigner",
+      "permalink": "campaigner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0010/9985/109985v1-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0010/9985/109985v1-max-250x250.png"],
+          [[357,
+            70],
+           "assets/images/resized/0010/9985/109985v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "emaillab",
+      "permalink": "emaillab",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "California Office",
+    "address1": "1440 S. Manzanita Avenue",
+    "address2": "",
+    "zip_code": "92264",
+    "city": "Palm Springs",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.804503,
+    "longitude": -116.533993}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.logicsblog.com/index.php/site/email_marketing_advancements/",
+    "title": "Email Marketing Advancements"}]}

@@ -1,0 +1,128 @@
+{"name": "SEO Book",
+ "permalink": "seo-book",
+ "crunchbase_url": "http://www.crunchbase.com/company/seo-book",
+ "homepage_url": "http://www.seobook.com/",
+ "blog_url": "http://www.seobook.com/blog",
+ "blog_feed_url": "http://www.seobook.com/index.rdf",
+ "twitter_username": "seobook",
+ "category_code": "search",
+ "number_of_employees": 5,
+ "founded_year": 2003,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "seo, search, sem, search-engine-marketing",
+ "alias_list": null,
+ "email_address": "seobook@gmail.com",
+ "phone_number": "5108488507",
+ "description": "Search Engine Optimization Training",
+ "created_at": "Tue Jul 28 19:53:28 UTC 2009",
+ "updated_at": "Mon Mar 26 05:53:14 UTC 2012",
+ "overview": "\u003Cp\u003EA leading provider of search engine optimization advice, SEO Book helps large and small companies rank well in search engines like Google. Clients include the likes of PBS and Thomson Reuters.\u003C/p\u003E\n\n\u003Cp\u003ESEO Book has an online training program, private member only forum, and a suite of custom SEO tools that help webmasters better understand search engines, and gain traffic to their websites.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0005/4518/54518v2-max-150x150.png"],
+     [[250,
+       53],
+      "assets/images/resized/0005/4518/54518v2-max-250x250.png"],
+     [[450,
+       96],
+      "assets/images/resized/0005/4518/54518v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "owner",
+    "person":
+     {"first_name": "aaron",
+      "last_name": "wall",
+      "permalink": "aaron-wall",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Moz",
+      "permalink": "moz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/0952/952v5-max-150x150.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/0952/952v5-max-250x250.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/0952/952v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sistrix",
+      "permalink": "sistrix-gmbh",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0011/6899/116899v2-max-150x150.png"],
+          [[250,
+            63],
+           "assets/images/resized/0011/6899/116899v2-max-250x250.png"],
+          [[450,
+            114],
+           "assets/images/resized/0011/6899/116899v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sistrix",
+      "permalink": "sistrix-gmbh",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0011/6899/116899v2-max-150x150.png"],
+          [[250,
+            63],
+           "assets/images/resized/0011/6899/116899v2-max-250x250.png"],
+          [[450,
+            114],
+           "assets/images/resized/0011/6899/116899v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        109],
+       "assets/images/resized/0005/4517/54517v2-max-150x150.png"],
+      [[250,
+        182],
+       "assets/images/resized/0005/4517/54517v2-max-250x250.png"],
+      [[450,
+        328],
+       "assets/images/resized/0005/4517/54517v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://online.wsj.com/article/SB117769688676085058.html",
+    "title": "WSJ: In Search of Traffic"},
+   {"external_url": "http://www.pbs.org/mediashift/2008/04/9-tips-to-improve-search-engine-optimization-seo121.html",
+    "title": "PBS Mediashift:  9 Tips to Improve Search Engine Optimization"},
+   {"external_url": "http://www.forbes.com/2007/04/29/sanar-google-skyfacet-tech-cx_ag_0430googhell_2.html",
+    "title": "Forbes: Condemned to Google Hell"}]}

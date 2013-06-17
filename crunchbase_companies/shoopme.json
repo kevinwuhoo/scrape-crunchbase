@@ -1,0 +1,109 @@
+{"name": "Shoopme",
+ "permalink": "shoopme",
+ "crunchbase_url": "http://www.crunchbase.com/company/shoopme",
+ "homepage_url": "http://www.shoopme.com",
+ "blog_url": "http://www.shoopme.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "shoopme",
+ "category_code": "ecommerce",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "e-commerce, saas-",
+ "alias_list": null,
+ "email_address": "support@shoopme.com",
+ "phone_number": "+5493517625001",
+ "description": "E-commerce platform for web designers",
+ "created_at": "Mon May 21 15:16:45 UTC 2012",
+ "updated_at": "Thu May 24 01:59:39 UTC 2012",
+ "overview": "\u003Cp\u003EShoopme is an extremely user friendly hosted e-commerce platform for web designers and their clients.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0019/0793/190793v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0019/0793/190793v2-max-250x250.jpg"],
+     [[450,
+       450],
+      "assets/images/resized/0019/0793/190793v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Matias",
+      "last_name": "Pereira",
+      "permalink": "matias-pereira",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Dounder",
+    "person":
+     {"first_name": "Carlos",
+      "last_name": "Lonne",
+      "permalink": "carlos-lonne",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Shopify",
+      "permalink": "shopify",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0007/1673/71673v6-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0007/1673/71673v6-max-250x250.png"],
+          [[450,
+            123],
+           "assets/images/resized/0007/1673/71673v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Argentine Office",
+    "address1": "Brasil 134 9B",
+    "address2": "C\u00f3rdoba",
+    "zip_code": "5000",
+    "city": "Cordoba",
+    "state_code": null,
+    "country_code": "ARG",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        72],
+       "assets/images/resized/0019/0792/190792v2-max-150x150.png"],
+      [[250,
+        121],
+       "assets/images/resized/0019/0792/190792v2-max-250x250.png"],
+      [[450,
+        218],
+       "assets/images/resized/0019/0792/190792v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.shoopme.com",
+    "title": "Home Page"}]}

@@ -1,0 +1,104 @@
+{"name": "MyAjaxApp",
+ "permalink": "myajaxapp",
+ "crunchbase_url": "http://www.crunchbase.com/company/myajaxapp",
+ "homepage_url": "http://myajaxapp.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "MyAjaxApp",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "database-as-a-service",
+ "alias_list": null,
+ "email_address": "jerry@myajaxapp.com",
+ "phone_number": "(514) 341-1110",
+ "description": "Database as a Service",
+ "created_at": "Sat May 26 15:36:24 UTC 2012",
+ "updated_at": "Thu May 31 02:02:18 UTC 2012",
+ "overview": "\u003Cp\u003EMyAjaxApp.com is a Database-as-a-Service designed for JavaScript and HTML5 development.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       20],
+      "assets/images/resized/0019/1941/191941v2-max-150x150.png"],
+     [[250,
+       34],
+      "assets/images/resized/0019/1941/191941v2-max-250x250.png"],
+     [[358,
+       49],
+      "assets/images/resized/0019/1941/191941v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jerry",
+      "last_name": "Visser",
+      "permalink": "jerry-visser",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "PRWeb",
+      "permalink": "prweb",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.prweb.com/releases/prweb2012/5/prweb9504431.htm",
+    "title": ""}]}

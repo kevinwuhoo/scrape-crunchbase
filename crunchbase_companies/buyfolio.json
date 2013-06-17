@@ -1,0 +1,173 @@
+{"name": "Buyfolio",
+ "permalink": "buyfolio",
+ "crunchbase_url": "http://www.crunchbase.com/company/buyfolio",
+ "homepage_url": "http://buyfolio.com",
+ "blog_url": "http://blog.buyfolio.com",
+ "blog_feed_url": "http://feeds.feedburner.com/buyfolio",
+ "twitter_username": "buyfolio",
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-estate, collaboration, social",
+ "alias_list": null,
+ "email_address": "support@buyfolio.com",
+ "phone_number": "646-706-7474",
+ "description": "NYC Real Estate App",
+ "created_at": "Sun Jun 05 22:49:01 UTC 2011",
+ "updated_at": "Thu Nov 01 13:05:36 UTC 2012",
+ "overview": "\u003Cp\u003EBuyfolio is a complete platform for New York City real estate brokers working with buy-side clients. Buyfolio streamlines the homebuying process with a groundbreaking lifestyle listings search that is seamlessly paired with innovative social and client management tools. Buyfolio helps brokers and clients connect, search, organize, and collaborate.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0013/7799/137799v2-max-150x150.png"],
+     [[175,
+       50],
+      "assets/images/resized/0013/7799/137799v2-max-250x250.png"],
+     [[175,
+       50],
+      "assets/images/resized/0013/7799/137799v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Founder",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Daimler",
+      "permalink": "matthew-daimler",
+      "image":
+       {"available_sizes":
+         [[[150,
+            147],
+           "assets/images/resized/0008/1563/81563v2-max-150x150.png"],
+          [[250,
+            245],
+           "assets/images/resized/0008/1563/81563v2-max-250x250.png"],
+          [[295,
+            290],
+           "assets/images/resized/0008/1563/81563v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Nestio",
+      "permalink": "nestio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0012/8704/128704v4-max-150x150.png"],
+          [[250,
+            52],
+           "assets/images/resized/0012/8704/128704v4-max-250x250.png"],
+          [[450,
+            93],
+           "assets/images/resized/0012/8704/128704v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zillow",
+      "permalink": "zillow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/0946/946v7-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0000/0946/946v7-max-250x250.png"],
+          [[400,
+            127],
+           "assets/images/resized/0000/0946/946v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Trulia",
+      "permalink": "trulia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/4504/4504v5-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0000/4504/4504v5-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0000/4504/4504v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "StreetEasy",
+      "permalink": "streeteasy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0024/5203/245203v1-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0024/5203/245203v1-max-250x250.png"],
+          [[450,
+            150],
+           "assets/images/resized/0024/5203/245203v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2012/10/31/zillow-acquires-real-estate-shopping-platform-for-brokers-and-homebuyers-buyfolio/",
+   "source_description": "Zillow Acquires Real Estate Shopping And Collaboration Platform For Brokers And Homebuyers, Buyfolio",
+   "acquired_year": 2012,
+   "acquired_month": 10,
+   "acquired_day": 31,
+   "acquiring_company":
+    {"name": "Zillow",
+     "permalink": "zillow",
+     "image":
+      {"available_sizes":
+        [[[150,
+           47],
+          "assets/images/resized/0000/0946/946v7-max-150x150.png"],
+         [[250,
+           79],
+          "assets/images/resized/0000/0946/946v7-max-250x250.png"],
+         [[400,
+           127],
+          "assets/images/resized/0000/0946/946v7-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "NYC",
+    "address1": "305 W Broadway",
+    "address2": "Suite 227",
+    "zip_code": "10013",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://nyti.ms/eRYicc",
+    "title": "NY Times Article"},
+   {"external_url": "http://nymag.com/realestate/realestatecolumn/buyfolio-2011-5/",
+    "title": "NY Magazine Article"}]}

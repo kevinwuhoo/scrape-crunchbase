@@ -1,0 +1,164 @@
+{"name": "Rally",
+ "permalink": "rally",
+ "crunchbase_url": "http://www.crunchbase.com/company/rally",
+ "homepage_url": "http://rallyapp.com/",
+ "blog_url": "http://blog.rallyapp.com/",
+ "blog_feed_url": "http://blog.rallyapp.com/rss",
+ "twitter_username": "rallyapp",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@rallyapp.com",
+ "phone_number": "",
+ "description": "Location Check-in App",
+ "created_at": "Thu Dec 17 04:00:52 UTC 2009",
+ "updated_at": "Fri Mar 22 01:09:26 UTC 2013",
+ "overview": "\u003Cp\u003EA location-based application that does not use outside social graphs to populate its users network, instead relying on users to add the connections with rally. As a result, Rally feels it will provide a tighter network of people that better reflect a users friends.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       97],
+      "assets/images/resized/0007/0049/70049v7-max-150x150.jpg"],
+     [[159,
+       103],
+      "assets/images/resized/0007/0049/70049v7-max-250x250.jpg"],
+     [[159,
+       103],
+      "assets/images/resized/0007/0049/70049v7-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Davy",
+      "last_name": "Reynolds",
+      "permalink": "davy-reynolds",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jacob",
+      "last_name": "Knobel",
+      "permalink": "jacob-knobel",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0003/2744/32744v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0003/2744/32744v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0003/2744/32744v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gowalla",
+      "permalink": "gowalla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/5118/25118v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Plyce",
+      "permalink": "plyce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0007/0352/70352v5-max-150x150.png"],
+          [[250,
+            107],
+           "assets/images/resized/0007/0352/70352v5-max-250x250.png"],
+          [[450,
+            194],
+           "assets/images/resized/0007/0352/70352v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "feest.je",
+      "permalink": "feest-je",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0008/9280/89280v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0008/9280/89280v2-max-250x250.png"],
+          [[392,
+            392],
+           "assets/images/resized/0008/9280/89280v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Rally World HQ",
+    "address1": "101 Cooper St",
+    "address2": "",
+    "zip_code": "95060",
+    "city": "Santa Cruz",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0007/0048/70048v1-max-150x150.png"],
+      [[250,
+        143],
+       "assets/images/resized/0007/0048/70048v1-max-250x250.png"],
+      [[450,
+        258],
+       "assets/images/resized/0007/0048/70048v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

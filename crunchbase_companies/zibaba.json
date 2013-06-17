@@ -1,0 +1,128 @@
+{"name": "Zibaba",
+ "permalink": "zibaba",
+ "crunchbase_url": "http://www.crunchbase.com/company/zibaba",
+ "homepage_url": "http://www.zibaba.com/",
+ "blog_url": "http://www.zibaba.com/_blog/",
+ "blog_feed_url": "",
+ "twitter_username": "zibaba",
+ "category_code": "ecommerce",
+ "number_of_employees": 20,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "facebook, advertising",
+ "alias_list": "",
+ "email_address": "arie@zibaba.com",
+ "phone_number": "(+972) 77 9620364",
+ "description": "Facebook marketing solutions",
+ "created_at": "Sat Jun 05 14:06:45 UTC 2010",
+ "updated_at": "Wed Mar 27 09:00:20 UTC 2013",
+ "overview": "\u003Cp\u003EZibaba is a technology and marketing company focusing on social media solutions that allow any business to optimize their social media presence.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[108,
+       96],
+      "assets/images/resized/0008/9619/89619v3-max-150x150.jpg"],
+     [[108,
+       96],
+      "assets/images/resized/0008/9619/89619v3-max-250x250.jpg"],
+     [[108,
+       96],
+      "assets/images/resized/0008/9619/89619v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ronen",
+      "last_name": "Shlomo",
+      "permalink": "ronen-shlomo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/7408/257408v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/7408/257408v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/7408/257408v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Arie",
+      "last_name": "Fishler",
+      "permalink": "arie-fishler",
+      "image": null}},
+   {"is_past": true,
+    "title": "Software Development Manager",
+    "person":
+     {"first_name": "Igor",
+      "last_name": "Reznitsky",
+      "permalink": "igor-reznitsky",
+      "image": null}},
+   {"is_past": true,
+    "title": "Software Development Manager",
+    "person":
+     {"first_name": "Igor",
+      "last_name": "Reznitsky",
+      "permalink": "igor-reznitsky-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Cloud",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Derech Hashalom 7 ",
+    "address2": "",
+    "zip_code": "67892",
+    "city": " Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.facebook.com/zibabacom",
+    "title": "Zibaba Facebook Page"},
+   {"external_url": "http://www.vccafe.com/venture-capital-cafe/10-new-israeli-startups-hear-them-roar/",
+    "title": "Zibaba - 10 new Israeli startups, hear them roar"}]}

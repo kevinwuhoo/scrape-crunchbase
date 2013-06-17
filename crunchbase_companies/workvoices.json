@@ -1,0 +1,113 @@
+{"name": "WorkVoices",
+ "permalink": "workvoices",
+ "crunchbase_url": "http://www.crunchbase.com/company/workvoices",
+ "homepage_url": "http://www.workvoices.com",
+ "blog_url": "http://www.workvoices.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "workvoices",
+ "category_code": "enterprise",
+ "number_of_employees": 10,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise-social-network, whitelabel, googleapps, crm, salesforce, sugarcrm, linkedin, dropbox, sharepoint, community",
+ "alias_list": null,
+ "email_address": "support@workvoices.com",
+ "phone_number": "+31308200189",
+ "description": "White label social network",
+ "created_at": "Tue Oct 16 12:43:37 UTC 2012",
+ "updated_at": "Wed May 29 06:20:54 UTC 2013",
+ "overview": "\u003Cp\u003EWorkVoices is an enterprise social network for easy and quick communication within your organization, to share knowledge and to find and keep colleagues informed.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       91],
+      "assets/images/resized/0021/7146/217146v2-max-150x150.jpg"],
+     [[250,
+       152],
+      "assets/images/resized/0021/7146/217146v2-max-250x250.jpg"],
+     [[450,
+       274],
+      "assets/images/resized/0021/7146/217146v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Yammer",
+      "permalink": "yammer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/4256/24256v1-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0002/4256/24256v1-max-250x250.png"],
+          [[450,
+            92],
+           "assets/images/resized/0002/4256/24256v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "CFO",
+         "last_name": "Blom",
+         "permalink": "cfo-blom",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Utrecht, The Netherlands",
+    "address1": "Grebbenberglaan 15",
+    "address2": "",
+    "zip_code": " 3527 VX",
+    "city": "Utrecht",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.0791106,
+    "longitude": 5.0981318}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0021/7149/217149v2-max-150x150.jpg"],
+      [[250,
+        125],
+       "assets/images/resized/0021/7149/217149v2-max-250x250.jpg"],
+      [[450,
+        226],
+       "assets/images/resized/0021/7149/217149v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.cloudtools.nl/saas-samenwerken/workvoices-nederlandse-online-software-voor-privaat-sociaal-netwerk/",
+    "title": "Review WorkVoices: online software voor privaat sociaal netwerk"},
+   {"external_url": "http://www.surfmarket.nl/Nieuws/Software/Paginas/Samenwerken-met-Workvoices.aspx",
+    "title": "WorkVoices for Education"}]}

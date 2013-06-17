@@ -1,0 +1,148 @@
+{"name": "PeerReach",
+ "permalink": "peerreach",
+ "crunchbase_url": "http://www.crunchbase.com/company/peerreach",
+ "homepage_url": "http://peerreach.com",
+ "blog_url": "http://blog.peerreach.com",
+ "blog_feed_url": "http://blog.peerreach.com/feed/",
+ "twitter_username": "PeerReach",
+ "category_code": "other",
+ "number_of_employees": 8,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@peerreach.com",
+ "phone_number": "",
+ "description": "The social relevance engine",
+ "created_at": "Thu Dec 29 16:36:04 UTC 2011",
+ "updated_at": "Mon Feb 25 06:35:43 UTC 2013",
+ "overview": "\u003Cp\u003EPeerreach is an Amsterdam-based social media startup that provides an influence metric that measures your influence within different areas of expertise. The Peerreach algorithm is similar to the pagerank algorithm that Google uses to identify influential websites.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0016/8061/168061v2-max-150x150.png"],
+     [[250,
+       71],
+      "assets/images/resized/0016/8061/168061v2-max-250x250.png"],
+     [[450,
+       128],
+      "assets/images/resized/0016/8061/168061v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Zlatan",
+      "last_name": "Menkovic",
+      "permalink": "zlatan-menkovic",
+      "image": null}},
+   {"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Olden",
+      "permalink": "james-olden",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Nico",
+      "last_name": "Schoonderwoerd",
+      "permalink": "nico-schoonderwoerd",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Klout",
+      "permalink": "klout",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0003/2657/32657v9-max-150x150.png"],
+          [[250,
+            117],
+           "assets/images/resized/0003/2657/32657v9-max-250x250.png"],
+          [[450,
+            211],
+           "assets/images/resized/0003/2657/32657v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PeerIndex",
+      "permalink": "peerindex",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0008/3898/83898v9-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0008/3898/83898v9-max-250x250.png"],
+          [[450,
+            133],
+           "assets/images/resized/0008/3898/83898v9-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$310k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.finsmes.com/2012/11/peerreach-raises-e310k-seed-funding.html",
+    "source_description": "PeerReach Raises \u20ac310K in Seed Funding",
+    "raised_amount": 310000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 23,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Marc",
+         "last_name": "van der Chijs",
+         "permalink": "marc-van-der-chijs-2",
+         "image": null}},
+      {"company": null,
+       "financial_org":
+        {"name": "Javest Investment Fund",
+         "permalink": "javest-investment-fund",
+         "image": null},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "James",
+         "last_name": "Olden",
+         "permalink": "james-olden",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Singel 146",
+    "address2": "",
+    "zip_code": "1015AG",
+    "city": "Amsterdam",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,123 @@
+{"name": "Burden Butcher",
+ "permalink": "burden-butcher",
+ "crunchbase_url": "http://www.crunchbase.com/company/burden-butcher",
+ "homepage_url": "http://www.burdenbutcher.com",
+ "blog_url": "http://www.burdenbutcher.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/burden-butcher-blog",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "project-management, web-application, freelancer, saas, time-tracking, inviocing",
+ "alias_list": null,
+ "email_address": "info@burdenbutcher.com",
+ "phone_number": "",
+ "description": "Web-based project management",
+ "created_at": "Thu Jul 02 10:31:17 UTC 2009",
+ "updated_at": "Tue Jul 07 20:54:49 UTC 2009",
+ "overview": "\u003Cp\u003EBurden Butcher is a new spin on an existing idea - a \u003Cem\u003Eproject management web application, but for freelancers\u003C/em\u003E instead of teams. \u003C/p\u003E\n\n\u003Cp\u003EDue to the focus on freelancers, the redundant team functionality is removed and the end result is something that can best be described as \u0026#8220;a simplified version of Basecamp, Backpack and Freshbooks, all combined and seamlessly integrated with each other\u0026#8221;.\u003C/p\u003E\n\n\u003Cp\u003EBurden Butcher is project-based, and each project have 4 different \u0026#8220;freelancing\u0026#8221; tools: \n1) Canvases - wiki style pages for managing research, ideas and sharing files with clients.\n2) Milestones \u0026amp; Tasks - a simple to-do list of what remains to be done; it ties into the Time Tracking tool by having timers for each task.\n3) Time Tracking - a log of all time entries, total time spent and time spent divided by milestones.\n4) Invoice - an invoicing tool that automatically generate invoices by fetching time entries from the Time Tracking tool.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0005/1651/51651v2-max-150x150.png"],
+     [[221,
+       45],
+      "assets/images/resized/0005/1651/51651v2-max-250x250.png"],
+     [[221,
+       45],
+      "assets/images/resized/0005/1651/51651v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Backpack",
+      "permalink": "backpack",
+      "image": null}},
+   {"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[140,
+        150],
+       "assets/images/resized/0005/1650/51650v2-max-150x150.png"],
+      [[234,
+        250],
+       "assets/images/resized/0005/1650/51650v2-max-250x250.png"],
+      [[400,
+        427],
+       "assets/images/resized/0005/1650/51650v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        102],
+       "assets/images/resized/0005/1826/51826v2-max-150x150.png"],
+      [[250,
+        171],
+       "assets/images/resized/0005/1826/51826v2-max-250x250.png"],
+      [[450,
+        308],
+       "assets/images/resized/0005/1826/51826v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        102],
+       "assets/images/resized/0005/1827/51827v2-max-150x150.png"],
+      [[250,
+        171],
+       "assets/images/resized/0005/1827/51827v2-max-250x250.png"],
+      [[450,
+        308],
+       "assets/images/resized/0005/1827/51827v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://webworkerdaily.com/2008/12/19/burdenbutcher-project-management-freelancers/",
+    "title": "WebWorkerDaily review"}]}

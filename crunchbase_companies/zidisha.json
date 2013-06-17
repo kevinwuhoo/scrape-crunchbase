@@ -1,0 +1,121 @@
+{"name": "Zidisha",
+ "permalink": "zidisha",
+ "crunchbase_url": "http://www.crunchbase.com/company/zidisha",
+ "homepage_url": "http://www.zidisha.org",
+ "blog_url": "http://zidishainc.blogspot.com/",
+ "blog_feed_url": "",
+ "twitter_username": "zidishainc",
+ "category_code": "web",
+ "number_of_employees": 20,
+ "founded_year": 2009,
+ "founded_month": 10,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "kiva, microfinance, microcredit, p2p-microlending, micro-finance, micro-credit, microfinancing",
+ "alias_list": null,
+ "email_address": "service@zidisha.org",
+ "phone_number": "(202) 492-6446",
+ "description": "microfinance P2P microlending platform",
+ "created_at": "Sat Jul 21 15:17:40 UTC 2012",
+ "updated_at": "Wed Jul 25 06:07:49 UTC 2012",
+ "overview": "\u003Cp\u003EZidisha is the only peer-to-peer lending service to connect individual lenders directly with microfinance borrowers in low-income countries.\u003C/p\u003E\n\n\u003Cp\u003EZidisha is based on the conviction that small-scale entrepreneurs in developing countries are capable of interacting responsibly with peer-to-peer lenders via a self-regulating web platform, without needing local intermediaries to communicate and manage loan transactions on their behalf.  Though there are other microlending websites that allow individuals to contribute funds toward microloans of their choice, all of them rely on local microfinance organizations to communicate with lenders, create loan applications and collect repayments. In these intermediated microlending platforms, the communication is all one way, so that the borrower is often unaware of the lenders who funded his or her loan. The average intermediary organization adds over 30% - sometimes as much as 100% - in fees and interest to loans raised through these websites to cover its own administrative expenses. Such high interest rates reduce borrowers\u0026#8217; profits, sometimes to the point of making them poorer than they were before they received the loan.\u003C/p\u003E\n\n\u003Cp\u003EUnlike the postings on other microlending platforms, the loan applications and comments posted on Zidisha\u0026#8217;s loan pages are written by the borrowers themselves. This opens the way for dialogue between lenders and borrowers, so that lenders can receive answers to their inquiries about the loan and business directly from the entrepreneur they are funding. Eliminating unnecessary intermediaries also decreases cost of the loans. The average Zidisha borrower pays only about 8% (flat rate) in annual interest and fees, including interest paid out to lenders. This is far below the rates traditionally charged for microfinance loans in developing countries.  Reducing interest costs allows the entrepreneurs to keep more of their profits, so that the loans have greater impact in reducing poverty.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0020/2182/202182v2-max-150x150.png"],
+     [[250,
+       63],
+      "assets/images/resized/0020/2182/202182v2-max-250x250.png"],
+     [[250,
+       63],
+      "assets/images/resized/0020/2182/202182v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Julia",
+      "last_name": "Kurnia",
+      "permalink": "julia-kurnia",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Kiva",
+      "permalink": "kiva",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0000/4525/4525v1-max-150x150.png"],
+          [[170,
+            101],
+           "assets/images/resized/0000/4525/4525v1-max-250x250.png"],
+          [[170,
+            101],
+           "assets/images/resized/0000/4525/4525v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyC4",
+      "permalink": "myc4",
+      "image": null}},
+   {"competitor":
+     {"name": "MicroPlace",
+      "permalink": "microplace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/7063/27063v3-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0002/7063/27063v3-max-250x250.png"],
+          [[450,
+            135],
+           "assets/images/resized/0002/7063/27063v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wokai.org",
+      "permalink": "wokai-org",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "21900 Muirfield Circle",
+    "address2": "#302",
+    "zip_code": "20164",
+    "city": "Sterling",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mashable.com/2012/04/24/zidisha/",
+    "title": "Zidisha: The Online Micro-Loan Platform that Kiva Wants to Be Like"},
+   {"external_url": "http://www.entrepreneur.com/article/223391",
+    "title": "Is Microfinance for You?"},
+   {"external_url": "http://www.quora.com/Kiva/What-are-some-good-alternatives-to-Kiva",
+    "title": "What are some good alternatives to Kiva?"},
+   {"external_url": "http://findwhatworks.wordpress.com/2011/12/16/so-that-thing-kiva-just-started-doing-zidisha-was-already-doing-it/",
+    "title": "So that thing Kiva just started doing? Zidisha was already doing it"}]}

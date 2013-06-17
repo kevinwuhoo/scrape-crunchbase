@@ -1,0 +1,79 @@
+{"name": "GotStatus",
+ "permalink": "gotstatus",
+ "crunchbase_url": "http://www.crunchbase.com/company/gotstatus",
+ "homepage_url": "http://www.gotstat.us",
+ "blog_url": "http://blog.gotstat.us",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 0,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": 2008,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "http://www.justdropped.com/drops/090408us.html",
+ "tag_list": "gotstatus, monitoring",
+ "alias_list": null,
+ "email_address": "contactus@gotstat.us",
+ "phone_number": "512.484.1330",
+ "description": null,
+ "created_at": "Fri Aug 31 14:27:21 UTC 2007",
+ "updated_at": "Thu Feb 16 20:23:54 UTC 2012",
+ "overview": "\u003Cp\u003EGotStatus is a community-driven systems management and monitoring tool that aims to be \u0026#8220;Google Analytics for servers.\u0026#8221; Users are able to place a snippet of javascript and start managing and monitoring the server side of their web applications in the same way Google Analytics does for their browser side. They will be able to track metrics on items like new accounts per day, database size and Amazon S3 usage. \u003C/p\u003E\n\n\u003Cp\u003EGotStatus are very open to the developer community. For instance, they allow the developer community to create and share new snippets for managing and monitoring sites like they have done for Drupal, SugarCRM and WordPressMU. GotStatus wants to create as many managing and monitoring tools as possible for the estimated $8 billion systems management industry in 2008.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0000/0241/241v1-max-150x150.png"],
+     [[250,
+       53],
+      "assets/images/resized/0000/0241/241v1-max-250x250.png"],
+     [[450,
+       96],
+      "assets/images/resized/0000/0241/241v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "GotStatus",
+    "permalink": "gotstatus",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "CTO",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Taylor",
+      "permalink": "andrew-taylor",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": "78731",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.34497,
+    "longitude": -97.770174}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

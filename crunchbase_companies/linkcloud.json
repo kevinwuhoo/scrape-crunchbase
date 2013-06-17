@@ -1,0 +1,116 @@
+{"name": "LinkCloud",
+ "permalink": "linkcloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/linkcloud",
+ "homepage_url": "http://www.linkcloud.org",
+ "blog_url": "http://blog.linkcloud.org",
+ "blog_feed_url": "",
+ "twitter_username": "linkcloud",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bookmarks, visual, interactive, social",
+ "alias_list": null,
+ "email_address": "support@linkcloud.org",
+ "phone_number": "",
+ "description": "Visual Interactive Bookmarks",
+ "created_at": "Mon May 03 20:37:49 UTC 2010",
+ "updated_at": "Thu Jun 23 17:12:42 UTC 2011",
+ "overview": "\u003Cp\u003ELinkCloud develops a visual, interactive bookmarking service, free of charge and Ads for users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0008/5806/85806v2-max-150x150.png"],
+     [[250,
+       125],
+      "assets/images/resized/0008/5806/85806v2-max-250x250.png"],
+     [[450,
+       225],
+      "assets/images/resized/0008/5806/85806v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Toni",
+      "last_name": "Wagner",
+      "permalink": "toni-wagner",
+      "image": null}},
+   {"is_past": false,
+    "title": "CD",
+    "person":
+     {"first_name": "Simon",
+      "last_name": "Schmitt",
+      "permalink": "simon-schmitt",
+      "image": null}},
+   {"is_past": true,
+    "title": "CAO",
+    "person":
+     {"first_name": "Carlos",
+      "last_name": "Neujahr",
+      "permalink": "carlos-neujahr",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.exist.de/exist-gruenderstipendium/index.php",
+    "source_description": "EXIST SEED FUND",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2010,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Bundeswirtschaftsministerium",
+         "permalink": "bundeswirtschaftsministerium",
+         "image":
+          {"available_sizes":
+            [[[150,
+               80],
+              "assets/images/resized/0010/0606/100606v1-max-150x150.png"],
+             [[167,
+               90],
+              "assets/images/resized/0010/0606/100606v1-max-250x250.png"],
+             [[167,
+               90],
+              "assets/images/resized/0010/0606/100606v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Friedrich-Bergius-Ring 15",
+    "address2": "",
+    "zip_code": "97074",
+    "city": "Wuerzburg",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

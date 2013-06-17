@@ -1,0 +1,135 @@
+{"name": "card.ly",
+ "permalink": "card-ly-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/card-ly-2",
+ "homepage_url": "http://card.ly",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cardly",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "dan@harknesslabs.com",
+ "phone_number": "",
+ "description": "mini business card provider",
+ "created_at": "Mon Jul 20 23:15:34 UTC 2009",
+ "updated_at": "Mon Jul 20 23:18:29 UTC 2009",
+ "overview": "\u003Cp\u003ENot to long ago, I went looking for a new replacement for my aging mainpage. It was bland, boring and didnt have all the info I wanted on it. I wasnt sure what type of website I wanted yet- I only knew that I wanted to be able to send people to that website and have them get the perfect overview of me.\u003C/p\u003E\n\n\u003Cp\u003EWhile browsing, I came across the most excellent portfolio of Tim Van Damme aka @maxvoltar. I fell in love with the concept and went looking for a premade theme I could use to have a similar style. Unfortunately, there wasn\u0026#8217;t any. Not that I was even picky- I would have settled for something without all the cool jquery and whatnot, but nope. nothing.\u003C/p\u003E\n\n\u003Cp\u003EAnd so began the birth of card.ly- We went through a few domains also while in beta. First we were profileist.com (until I realised it should technically be profilist.com, which was taken) and uxCard.com (which I was informed was impossible to remember). Card.ly stuck- I am sure it had something to do with bit.ly being a big site in the .ly space, but who knows.\u003C/p\u003E\n\n\u003Cp\u003ECard.ly is a site thats main purpose is to allow you to have your own mini business card profile, without needing to have any design or programming skill. We will host it for you also. Most parts of the site are free as well. So thats the about page and speaking for the entire team of card.ly (@olivierturbis, @giggsey and myself @harknesslabs) - We thank you for using our product.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0005/3641/53641v2-max-150x150.png"],
+     [[177,
+       48],
+      "assets/images/resized/0005/3641/53641v2-max-250x250.png"],
+     [[177,
+       48],
+      "assets/images/resized/0005/3641/53641v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co Founder",
+    "person":
+     {"first_name": "Olivier",
+      "last_name": "Turbis",
+      "permalink": "olivier-turbis",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0004/0930/40930v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0004/0930/40930v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0004/0930/40930v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EOlivier Turbis / \u003Ca href=\"http://www.ipbcustomize.com\" title=\"IPB Customize\" rel=\"nofollow\"\u003EIPB Customize\u003C/a\u003E\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Programmer",
+    "person":
+     {"first_name": "Joshua",
+      "last_name": "Gigg",
+      "permalink": "joshua-gigg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MeeID",
+      "permalink": "meeid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0003/1852/31852v2-max-150x150.jpg"],
+          [[179,
+            72],
+           "assets/images/resized/0003/1852/31852v2-max-250x250.jpg"],
+          [[179,
+            72],
+           "assets/images/resized/0003/1852/31852v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UnHub",
+      "permalink": "unhub",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/7564/37564v2-max-150x150.png"],
+          [[225,
+            75],
+           "assets/images/resized/0003/7564/37564v2-max-250x250.png"],
+          [[225,
+            75],
+           "assets/images/resized/0003/7564/37564v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home office",
+    "address1": "10 Main street",
+    "address2": "",
+    "zip_code": "01002",
+    "city": "Amherst",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.3756409,
+    "longitude": -72.5196907}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        110],
+       "assets/images/resized/0005/3639/53639v2-max-150x150.png"],
+      [[250,
+        184],
+       "assets/images/resized/0005/3639/53639v2-max-250x250.png"],
+      [[450,
+        331],
+       "assets/images/resized/0005/3639/53639v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://card.ly",
+    "title": "homepage"}]}

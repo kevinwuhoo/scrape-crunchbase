@@ -1,0 +1,166 @@
+{"name": "Max-Viz",
+ "permalink": "max-viz",
+ "crunchbase_url": "http://www.crunchbase.com/company/max-viz",
+ "homepage_url": "http://www.max-viz.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "hardware",
+ "number_of_employees": 19,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "avionics-commercial-aviation-infrared-patents-vision-systems",
+ "alias_list": null,
+ "email_address": "administration@max-viz.com",
+ "phone_number": "503-968-3036",
+ "description": "EVS - Enhanced Vision Systems",
+ "created_at": "Thu Apr 21 22:42:44 UTC 2011",
+ "updated_at": "Tue Jul 31 12:17:54 UTC 2012",
+ "overview": "\u003Cp\u003EMax-Viz is the only company in the world dedicated solely to the design, development and manufacture of Enhanced Vision Systems for the aviation industry.\u003C/p\u003E\n\n\u003Cp\u003EDriven by an extremely passionate and experienced team of scientists, engineers and business partners, Max-Viz maintains a clear vision of its mission: increased safety for all civilian and military aviation. In fact, our engineering team has been involved in virtually all EVS flight tests and technology evaluation programs over the past 15 years. We take aviation safety very seriously\u00e2\u20ac\u201dand personally. Customers appreciate that Max-Viz is a system integration company, not just a product.\u003C/p\u003E\n\n\u003Cp\u003EOver 1000+ systems shipped to date and STC\u0026#8217;s on over 200+ airframes.\u003C/p\u003E\n\n\u003Cp\u003EMax-Viz - See Clearly, Fly Safely\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Elliott",
+      "last_name": "Troutman",
+      "permalink": "elliott-troutman",
+      "image": null}},
+   {"is_past": true,
+    "title": "CFO, VP of Finance and Corporate Secretary",
+    "person":
+     {"first_name": "Dylan",
+      "last_name": "Anderson",
+      "permalink": "dylan-anderson",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0023/2850/232850v2-max-150x150.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0023/2850/232850v2-max-250x250.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0023/2850/232850v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CMC Electronics",
+      "permalink": "cmc-electronics",
+      "image": null}},
+   {"competitor":
+     {"name": "Kollsman",
+      "permalink": "kollsman",
+      "image": null}},
+   {"competitor":
+     {"name": "FLIR Systems",
+      "permalink": "flir-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0004/9838/49838v1-max-150x150.jpg"],
+          [[232,
+            87],
+           "assets/images/resized/0004/9838/49838v1-max-250x250.jpg"],
+          [[232,
+            87],
+           "assets/images/resized/0004/9838/49838v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "Highway 12",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Oregon Venture Partners",
+         "permalink": "oregon-venture-partners",
+         "image": null},
+       "financial_org": null,
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Montlake Capital",
+         "permalink": "buerk-dale-victor",
+         "image":
+          {"available_sizes":
+            [[[150,
+               16],
+              "assets/images/resized/0002/8952/28952v4-max-150x150.png"],
+             [[250,
+               27],
+              "assets/images/resized/0002/8952/28952v4-max-250x250.png"],
+             [[395,
+               43],
+              "assets/images/resized/0002/8952/28952v4-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "Highway 12",
+         "permalink": "highway-12",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://in.finance.yahoo.com/news/astronics-corporation-acquires-enhanced-vision-105500865.html",
+   "source_description": "Astronics Corporation Acquires Enhanced Vision Systems Provider Max-Viz, Inc.",
+   "acquired_year": 2012,
+   "acquired_month": 7,
+   "acquired_day": 31,
+   "acquiring_company":
+    {"name": "Astronics",
+     "permalink": "astronics",
+     "image":
+      {"available_sizes":
+        [[[150,
+           38],
+          "assets/images/resized/0020/3672/203672v1-max-150x150.jpg"],
+         [[205,
+           53],
+          "assets/images/resized/0020/3672/203672v1-max-250x250.jpg"],
+         [[205,
+           53],
+          "assets/images/resized/0020/3672/203672v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "15940 sw 72nd avenue",
+    "address2": "",
+    "zip_code": "97224",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

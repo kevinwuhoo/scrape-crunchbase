@@ -1,0 +1,147 @@
+{"name": "TicketingHub",
+ "permalink": "ticketinghub",
+ "crunchbase_url": "http://www.crunchbase.com/company/ticketinghub",
+ "homepage_url": "http://www.ticketinghub.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ticketinghub",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 11,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ticketing, ticket, inventory-management",
+ "alias_list": null,
+ "email_address": "carl@ticketinghub.com",
+ "phone_number": "02071001243",
+ "description": "Ticketing in the Cloud",
+ "created_at": "Tue Nov 20 12:31:47 UTC 2012",
+ "updated_at": "Thu Nov 22 05:49:18 UTC 2012",
+ "overview": "\u003Cp\u003ETicketingHub is a technology focused B2B cloud based ticketing platform, which specialises in the management of sales and inventory of tickets. We Empower venues to sell tickets directly from their website and manage all the distribution channels in one place\u003C/p\u003E\n\n\u003Cp\u003ETicketingHub  is the easiest way to keep track, save time and sell more tickets on line and offline.  We allow venues to centrally manage their ticket inventory and distribute sales to multiple channels without having to worry about over-selling. \u003C/p\u003E\n\n\u003Cp\u003ETicketingHub would be the central point to sell tickets without having to worry about limiting or overselling, as it would only sell on a first come first serve basis to all your outlets as well as broadcast the event through multiple platforms by the click of a button.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0022/1451/221451v2-max-150x150.png"],
+     [[250,
+       55],
+      "assets/images/resized/0022/1451/221451v2-max-250x250.png"],
+     [[450,
+       100],
+      "assets/images/resized/0022/1451/221451v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Carl",
+      "last_name": "Edouard Pihl",
+      "permalink": "carl-edouard-pihl",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0003/8693/38693v1-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0003/8693/38693v1-max-250x250.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0003/8693/38693v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Oliver",
+      "last_name": "Morgan",
+      "permalink": "oliver-morgan",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Ticketmaster",
+      "permalink": "ticketmaster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/0755/10755v1-max-150x150.png"],
+          [[184,
+            55],
+           "assets/images/resized/0001/0755/10755v1-max-250x250.png"],
+          [[184,
+            55],
+           "assets/images/resized/0001/0755/10755v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ticket ABC",
+      "permalink": "ticket-text",
+      "image":
+       {"available_sizes":
+         [[[150,
+            109],
+           "assets/images/resized/0001/2725/12725v10-max-150x150.jpg"],
+          [[250,
+            183],
+           "assets/images/resized/0001/2725/12725v10-max-250x250.jpg"],
+          [[450,
+            329],
+           "assets/images/resized/0001/2725/12725v10-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventbrite",
+      "permalink": "eventbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/3442/3442v8-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0000/3442/3442v8-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/3442/3442v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventful",
+      "permalink": "eventful",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0024/6014/246014v2-max-150x150.jpg"],
+          [[250,
+            88],
+           "assets/images/resized/0024/6014/246014v2-max-250x250.jpg"],
+          [[450,
+            159],
+           "assets/images/resized/0024/6014/246014v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.slideshare.net/studentbox/ticketinghub-presentation",
+    "title": "Presentation"}]}

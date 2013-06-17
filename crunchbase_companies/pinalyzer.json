@@ -1,0 +1,110 @@
+{"name": "Pinalyzer",
+ "permalink": "pinalyzer",
+ "crunchbase_url": "http://www.crunchbase.com/company/pinalyzer",
+ "homepage_url": "http://www.pinalyzer.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "pinalyzer_rocks",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "pinterest, analytics",
+ "alias_list": null,
+ "email_address": "vincent@pinalyzer.com",
+ "phone_number": "",
+ "description": "A Pinterest Analytics tool",
+ "created_at": "Tue Oct 02 14:52:40 UTC 2012",
+ "updated_at": "Wed Dec 12 06:57:45 UTC 2012",
+ "overview": "\u003Cp\u003EPinalyzer is a service for Pinterest users, including extended analytics, smart tools to find great stuff and influence scoring. \u003C/p\u003E\n\n\u003Cp\u003EOne of our goal was to suggest to our users Pins and Pinners. We implemented two algos : the first one is based on the social graph, which is who a user follows and who is following him. It gives insights about what a user might like, and we use is to suggest pins.\nThe second algo is based on a Pin Personality Quizz, which is a quizz on a serie of pairs of Pins for which users have to choose the one he likes most. Based on his answers, we suggest Pinners that are closed.\u003C/p\u003E\n\n\u003Cp\u003EPinalyzer also provides a scoring framework to rate influence on Pinterest, between 0 and 100 and based on your capacity to reach people through pins (it\u0026#8217;s pretty hard to reach a score above 80). A user can visualize the history of this score on a graph since he first used of the service. Furthermore, we made a analytics dashboard displaying all recent activity on Pinterest.\u003C/p\u003E\n\n\u003Cp\u003EPinalyzer is absolutelly free and will remain so. It is written in Python and uses the Django framework.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Vincent",
+      "last_name": "Lepage",
+      "permalink": "vincent-lepage",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pintics",
+      "permalink": "pintics",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0020/1070/201070v1-max-150x150.png"],
+          [[168,
+            111],
+           "assets/images/resized/0020/1070/201070v1-max-250x250.png"],
+          [[168,
+            111],
+           "assets/images/resized/0020/1070/201070v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Piqora",
+      "permalink": "piqora",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0020/3802/203802v4-max-150x150.png"],
+          [[231,
+            80],
+           "assets/images/resized/0020/3802/203802v4-max-250x250.png"],
+          [[231,
+            80],
+           "assets/images/resized/0020/3802/203802v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pinpuff",
+      "permalink": "pinpuff",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0017/5820/175820v3-max-150x150.png"],
+          [[250,
+            86],
+           "assets/images/resized/0017/5820/175820v3-max-250x250.png"],
+          [[305,
+            105],
+           "assets/images/resized/0017/5820/175820v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "headquarters",
+    "address1": "173 rue de Charenton",
+    "address2": "",
+    "zip_code": "75012",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.8437571,
+    "longitude": 2.3853719}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

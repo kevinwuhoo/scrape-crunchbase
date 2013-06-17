@@ -1,0 +1,77 @@
+{"name": "Docket Alarm",
+ "permalink": "docket-alarm",
+ "crunchbase_url": "http://www.crunchbase.com/company/docket-alarm",
+ "homepage_url": "http://www.docketalarm.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "legal",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "law, litigation, attorneys, alerts",
+ "alias_list": null,
+ "email_address": "admin@docketalarm.com",
+ "phone_number": "",
+ "description": "Litigation Documents and Filings",
+ "created_at": "Tue Jun 04 00:02:19 UTC 2013",
+ "updated_at": "Tue Jun 04 14:53:20 UTC 2013",
+ "overview": "\u003Cp\u003EDocket Alarm provides litigation alerts, legal filings, and search tools for the United States court system. \u003C/p\u003E\n\n\u003Cp\u003EAttorneys spend hours of their valuable time downloading legal filings from U.S. court systems, such as PACER, or they pay paralegals to do the same. If an attorney is involved in 20 cases, that means they have to check 20 websites every single day. Why not have filings emailed directly to you?\u003C/p\u003E\n\n\u003Cp\u003EDocket Alarm is a new alert tool that provides immediate updates of litigation activity for District and Circuit Courts, Bankruptcy Courts, the International Trade Commission, the Patent Trial and Appeal Board, and for Trademark Prosecution History.  Our search tools allow you to find your case fast, and sign up for automated alerts to the court docket. \u003C/p\u003E\n\n\u003Cp\u003EDocket Alarm also serves as a cost effective for legal research tool, providing full-text searches and specialized alerts for certain case types and courts.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Sander",
+      "permalink": "michael-sander",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LexisNexis",
+      "permalink": "lexisnexis",
+      "image":
+       {"available_sizes":
+         [[[144,
+            46],
+           "assets/images/resized/0005/6852/56852v1-max-150x150.jpg"],
+          [[144,
+            46],
+           "assets/images/resized/0005/6852/56852v1-max-250x250.jpg"],
+          [[144,
+            46],
+           "assets/images/resized/0005/6852/56852v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Westlaw",
+      "permalink": "westlaw",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.programmableweb.com/2013/01/22/checking-the-court-docket-manually-is-so-outdated-docket-alarm-api/",
+    "title": "Checking The Court Docket Manually Is So Outdated: Docket Alarm API"}]}

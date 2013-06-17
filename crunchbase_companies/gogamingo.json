@@ -1,0 +1,104 @@
+{"name": "gogamingo",
+ "permalink": "gogamingo",
+ "crunchbase_url": "http://www.crunchbase.com/company/gogamingo",
+ "homepage_url": "http://www.gogamingo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "gogamingo",
+ "category_code": "games_video",
+ "number_of_employees": 8,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gaming, monetization, social-gaming, consumer-tech",
+ "alias_list": null,
+ "email_address": "hello@gogamingo.com",
+ "phone_number": "",
+ "description": "Gaming monetization platfrom",
+ "created_at": "Tue Jun 05 14:22:16 UTC 2012",
+ "updated_at": "Tue Nov 27 03:44:35 UTC 2012",
+ "overview": "\u003Cp\u003EGogamingo is a casual gaming tournament platform that drives monetization and retention for games developers by allowing gamers to compete for exclusive brand sponsored prizes.\u003C/p\u003E\n\n\u003Cp\u003EBased in NYC and N. Ireland, gogamingo gives gamers the ability to use their casual gaming scores to compete in online tournaments for real world prizes from some of the worlds hottest brands such as broadway tickets, luxury fashion accessories, electronics and more. \u003C/p\u003E\n\n\u003Cp\u003EThrough our proprietary score normalising algorithm, gamers can compete against their friends and strangers even when playing different games on different platforms.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0019/4003/194003v2-max-150x150.jpg"],
+     [[250,
+       61],
+      "assets/images/resized/0019/4003/194003v2-max-250x250.jpg"],
+     [[450,
+       111],
+      "assets/images/resized/0019/4003/194003v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Taylor",
+      "permalink": "aaron-taylor-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0021/6387/216387v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0021/6387/216387v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0021/6387/216387v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Scott",
+      "permalink": "martin-scott-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$700k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://pevc.dowjones.com/article?an=DJFVW00020121115e8bfanqo7\u0026from=alert\u0026pid=32\u0026ReturnUrl=http%3a%2f%2fpevc.dowjones.com%3a80%2farticle%3fan%3dDJFVW00020121115e8bfanqo7%26from%3dalert%26pid%3d32",
+    "source_description": " Mobile Gaming Rewards Co. Gogamingo Launches With $700K ",
+    "raised_amount": 700000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 15,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "The Studio",
+    "address1": "Innovation Centre",
+    "address2": "Queens Road",
+    "zip_code": "",
+    "city": "Belfast",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,92 @@
+{"name": "Verum",
+ "permalink": "verum",
+ "crunchbase_url": "http://www.crunchbase.com/company/verum",
+ "homepage_url": "http://www.verum.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "VerumMarketing",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2004,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software, software-design-automation, asd-suite, development, model-driven, software-design-verification",
+ "alias_list": null,
+ "email_address": "info@verum.com",
+ "phone_number": "+31 40 235 9090",
+ "description": "Software Design Automation",
+ "created_at": "Tue Jun 14 10:56:42 UTC 2011",
+ "updated_at": "Fri Jul 08 18:55:25 UTC 2011",
+ "overview": "\u003Cp\u003ERobert Howe and Guy Broadfoot founded Verum in 2004 because they were convinced that there was a better way to develop embedded software. The result is the ASD:Suite, Verum\u00e2\u20ac\u2122s unique, general purpose, software development CAD platform. \nThe ASD:Suite applies proven mathematical techniques that enable software engineers to build better, more complex software while delivering a net 30%-50% reduction in software development costs and a corresponding decrease in time to market. \nBased on Verum\u00e2\u20ac\u2122s patented Analytical Software Design (ASD) technology, the ASD:Suite marks a milestone in the evolution of embedded software design and development. In addition, it is easy to use and accessible to any software developer through the Cloud.\u003C/p\u003E\n\n\u003Cp\u003EPositioning\u003C/p\u003E\n\n\u003Cp\u003EThe ASD:Suite is a Product Lifecycle Management (PLM) solution that offers efficiency improvements during the requirements, architecture, design, and coding stages of a product\u00e2\u20ac\u2122s lifecycle. It enables rapid and iterative product development, speeding the process of turning customer requirements into the right product. Additionally, the ASD:Suite makes product testing easier and eliminates much of the rework inherent in conventional approaches to software development. The ASD:Suite can integrate with existing software development environments and it is compatible with Six Sigma methodology and complementary to the CMMI-SE framework.\u003C/p\u003E\n\n\u003Cp\u003EThe ASD:Suite\u003C/p\u003E\n\n\u003Cp\u003EThe ASD:Suite gives customers the power to design and build quality software systems in less time and with greater precision than conventional software development tools. With the ASD:Suite, designers can easily and fully automatically verify their designs at any point in the development process to ensure that all functional software requirements are being satisfied. Unlike conventional techniques that cannot replicate all test cases, the ASD:Suite mathematically verifies all possible execution scenarios and ensures the generation of defect-free code first time, every time. \u003C/p\u003E\n\n\u003Cp\u003EWith the ASD:Suite software architects and designers can:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ERealize complex system requirements with justified confidence\u003C/li\u003E\n\u003Cli\u003EFlawlessly design highly concurrent, communicating systems\u003C/li\u003E\n\u003Cli\u003ESpend more time on design, less time fixing defects\u003C/li\u003E\n\u003Cli\u003EImprove scalability and reuse with component-based technology\u003C/li\u003E\n\u003Cli\u003EAutomatically generate defect free code\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EBusiness managers benefit from:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EReduced software engineering costs (30%-50%)\u003C/li\u003E\n\u003Cli\u003EFaster development cycles, tighter coupling to customer requirements\u003C/li\u003E\n\u003Cli\u003EShorter time to market\u003C/li\u003E\n\u003Cli\u003ELower maintenance costs\u003C/li\u003E\n\u003Cli\u003EIncreased ability to reuse software components\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EIn the Cloud\u003C/p\u003E\n\n\u003Cp\u003EThe ASD:Suite is implemented as a Cloud Computing/SaaS application. ASD technology uses a comprehensive, brute force approach to software design verification and is therefore hosted on powerful servers, shared by all Verum customers. This approach has many benefits for Verum and its customers in terms of scalability, cost reduction and management information.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[137,
+       150],
+      "assets/images/resized/0013/9977/139977v2-max-150x150.png"],
+     [[152,
+       166],
+      "assets/images/resized/0013/9977/139977v2-max-250x250.png"],
+     [[152,
+       166],
+      "assets/images/resized/0013/9977/139977v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Howe",
+      "permalink": "robert-howe",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO \u0026 Founder",
+    "person":
+     {"first_name": "Guy",
+      "last_name": "Broadfoot",
+      "permalink": "guy-broadfoot",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head IP \u0026 Research",
+    "person":
+     {"first_name": "Philippa",
+      "last_name": "Hopcroft",
+      "permalink": "philippa-hopcroft",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Verum",
+    "address1": "Laan van Diepenvoorde 32",
+    "address2": "",
+    "zip_code": "5582 LA",
+    "city": "Waalre",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.verum.com/company/news-and-press/11-07-04/FEI_signs_multi-year_contract_for_global_use_of_the_ASD_Suite.aspx",
+    "title": "FEI signs multi-year contract for global use of the ASD:Suite"}]}

@@ -1,0 +1,127 @@
+{"name": "CircleDoc",
+ "permalink": "circledoc",
+ "crunchbase_url": "http://www.crunchbase.com/company/circledoc",
+ "homepage_url": "http://www.circledoc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "circledoc",
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "collaboration, powerpoint, cloud",
+ "alias_list": null,
+ "email_address": "info@circledoc.com",
+ "phone_number": "",
+ "description": "Real-time collaboration software",
+ "created_at": "Thu Apr 29 18:12:35 UTC 2010",
+ "updated_at": "Sun Jun 06 02:31:30 UTC 2010",
+ "overview": "\u003Cp\u003ECircleDoc creates software for real-time, go-anywhere, co-authoring.  Its first product, CircleDoc for PowerPoint, went in public beta end of April 2010.\u003C/p\u003E\n\n\u003Cp\u003EThis PowerPoint add-in connects to an online service, enabling multiple people to collaborate on the same PowerPoint documents at the same time. \u003C/p\u003E\n\n\u003Cp\u003ESolely focused on PowerPoint, the service offers the fastest possible solution for presentation collaborators who don\u0026#8217;t want to waste time syncing up changes or tracking down versions.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0008/5355/85355v2-max-150x150.png"],
+     [[250,
+       88],
+      "assets/images/resized/0008/5355/85355v2-max-250x250.png"],
+     [[341,
+       121],
+      "assets/images/resized/0008/5355/85355v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Partner",
+    "person":
+     {"first_name": "Kapil",
+      "last_name": "Tundwal",
+      "permalink": "kapil-tundwal",
+      "image": null}},
+   {"is_past": false,
+    "title": "Partner",
+    "person":
+     {"first_name": "Marc",
+      "last_name": "Horne",
+      "permalink": "marc-horne",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "DocVerse",
+      "permalink": "docverse",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/6410/36410v5-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0003/6410/36410v5-max-250x250.png"],
+          [[450,
+            123],
+           "assets/images/resized/0003/6410/36410v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "OffiSync",
+      "permalink": "offisync",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0004/3185/43185v1-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0004/3185/43185v1-max-250x250.png"],
+          [[250,
+            79],
+           "assets/images/resized/0004/3185/43185v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"450\" height=\"350\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/GJxu3WkmsMU\u0026hl=en_US\u0026fs=1\u0026rel=0\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/GJxu3WkmsMU\u0026hl=en_US\u0026fs=1\u0026rel=0\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"450\" height=\"350\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0008/5354/85354v2-max-150x150.png"],
+      [[250,
+        153],
+       "assets/images/resized/0008/5354/85354v2-max-250x250.png"],
+      [[450,
+        276],
+       "assets/images/resized/0008/5354/85354v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        83],
+       "assets/images/resized/0008/9633/89633v2-max-150x150.png"],
+      [[250,
+        138],
+       "assets/images/resized/0008/9633/89633v2-max-250x250.png"],
+      [[450,
+        250],
+       "assets/images/resized/0008/9633/89633v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

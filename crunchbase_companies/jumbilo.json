@@ -1,0 +1,92 @@
+{"name": "Jumbilo",
+ "permalink": "jumbilo",
+ "crunchbase_url": "http://www.crunchbase.com/company/jumbilo",
+ "homepage_url": "http://www.jumbilo.com",
+ "blog_url": "http://www.jumbilo.com",
+ "blog_feed_url": "http://www.jumbilo.com/Rss/feed/rss.aspx",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "asp-net, blog-platform",
+ "alias_list": "",
+ "email_address": "gday123@bigpond.com",
+ "phone_number": "610755452699",
+ "description": "ASP.net  Blog Platform",
+ "created_at": "Wed Apr 15 00:28:09 UTC 2009",
+ "updated_at": "Mon May 11 15:23:39 UTC 2009",
+ "overview": "\u003Cp\u003EJumbilo provides bloggers with a more options in the Blog Platform arena. World\u0026#8217;s first Microsofts ASP.net Tech Blog Platform.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[50,
+       50],
+      "assets/images/resized/0004/1247/41247v2-max-150x150.png"],
+     [[50,
+       50],
+      "assets/images/resized/0004/1247/41247v2-max-250x250.png"],
+     [[50,
+       50],
+      "assets/images/resized/0004/1247/41247v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Jumbilo Blog Platform",
+    "permalink": "jumbilo-blog-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Briggs",
+      "permalink": "paul-briggs",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "78 Wongwallan RD",
+    "address2": "",
+    "zip_code": "4271",
+    "city": "Eagle Heights",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -27.917488,
+    "longitude": 153.2075297}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0004/1246/41246v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0004/1246/41246v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0004/1246/41246v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://slyvisions.com/files/jumbilocom-a-new-blog-platform-is-born.php",
+    "title": "Jumbilo.com - A New Blog Platform is Born!"},
+   {"external_url": "http://www.mobilewhack.com/jumbilocom-a-new-blog-platform-is-born/",
+    "title": "World's First ASP.net Blog Platform is a Blog ACE!"}]}

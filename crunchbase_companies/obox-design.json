@@ -1,0 +1,123 @@
+{"name": "Obox Design",
+ "permalink": "obox-design",
+ "crunchbase_url": "http://www.crunchbase.com/company/obox-design",
+ "homepage_url": "http://www.obox-design.com",
+ "blog_url": "http://www.obox-design.com/blog.cfm",
+ "blog_feed_url": "http://feeds.feedburner.com/oboxblog",
+ "twitter_username": "obox",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2005,
+ "founded_month": 3,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "themes",
+ "alias_list": null,
+ "email_address": "david@obox.co.za",
+ "phone_number": "+27217902119",
+ "description": "Makers of Premium Themes",
+ "created_at": "Sun Sep 26 17:58:56 UTC 2010",
+ "updated_at": "Tue Nov 06 01:56:29 UTC 2012",
+ "overview": "\u003Cp\u003EObox Design is a Premium Theme company.\u003C/p\u003E\n\n\u003Cp\u003EWe create themes for multiple blogging platforms including WordPress, Posterous and Tumblr. We are one of only two companies to be official suppliers of Premium Themes to both Posterous and Tumblr.\u003C/p\u003E\n\n\u003Cp\u003EObox was founded in 2005 in Cape Town, South Africa and for the first 4 years we were a web development studio focussed on complete custom built sites using ColdFusion.\u003C/p\u003E\n\n\u003Cp\u003EToward the end of 2008 we started an online video blog called \u0026#8216;From the Couch\u0026#8217; which opened our eyes to the web community as well as WordPress.\u003C/p\u003E\n\n\u003Cp\u003EThen, on July 7th 2009 we launched what you see today, a professional Premium Theme company run by two brothers at the tip of Africa.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Perel",
+      "permalink": "david-perel",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Marc",
+      "last_name": "Perel",
+      "permalink": "marc-perel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "WooThemes",
+      "permalink": "woothemes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0005/3629/53629v1-max-150x150.png"],
+          [[190,
+            57],
+           "assets/images/resized/0005/3629/53629v1-max-250x250.png"],
+          [[190,
+            57],
+           "assets/images/resized/0005/3629/53629v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Elegant Themes",
+      "permalink": "elegant-themes",
+      "image": null}},
+   {"competitor":
+     {"name": "Envato",
+      "permalink": "envato",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0002/5360/25360v1-max-150x150.jpg"],
+          [[250,
+            63],
+           "assets/images/resized/0002/5360/25360v1-max-250x250.jpg"],
+          [[253,
+            64],
+           "assets/images/resized/0002/5360/25360v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Hout Bay",
+    "address2": "",
+    "zip_code": "",
+    "city": "Cape Town",
+    "state_code": null,
+    "country_code": "ZAF",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[72,
+        150],
+       "assets/images/resized/0010/3162/103162v2-max-150x150.png"],
+      [[120,
+        250],
+       "assets/images/resized/0010/3162/103162v2-max-250x250.png"],
+      [[216,
+        450],
+       "assets/images/resized/0010/3162/103162v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://blog.posterous.com/obox-design-creates-awesome-new-themes-for-po",
+    "title": "Posterous and Obox announce themes"},
+   {"external_url": "http://blog.posterous.com/posterous-releases-3-more-themes-by-obox-you",
+    "title": "Posterous and Obox announce more themes"},
+   {"external_url": "http://staff.tumblr.com/post/846371286/antiquity",
+    "title": "Tumblr and Obox announce themes"},
+   {"external_url": "http://www.woothemes.com/2010/09/woothemes-obox-mobile-optimization/",
+    "title": "Obox and WooThemes join forces for Mobile"}]}

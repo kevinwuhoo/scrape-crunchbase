@@ -1,0 +1,116 @@
+{"name": "Instant TV",
+ "permalink": "zoomino",
+ "crunchbase_url": "http://www.crunchbase.com/company/zoomino",
+ "homepage_url": "http://www.instant.tv",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 20,
+ "founded_year": 2007,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web2-0, widgets, social-editing, community",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon May 26 02:02:34 UTC 2008",
+ "updated_at": "Mon Nov 15 21:34:47 UTC 2010",
+ "overview": "\u003Cp\u003EInstant TV is a contextual video platform and application that integrates web videos into articles on a keyword-targeted basis.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0002/0075/20075v6-max-150x150.png"],
+     [[250,
+       44],
+      "assets/images/resized/0002/0075/20075v6-max-250x250.png"],
+     [[400,
+       71],
+      "assets/images/resized/0002/0075/20075v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Instant TV",
+    "permalink": "instant-tv",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Jack",
+      "last_name": "Huang",
+      "permalink": "jack-huang",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Business Development",
+    "person":
+     {"first_name": "John",
+      "last_name": "Collier",
+      "permalink": "john-collier",
+      "image":
+       {"available_sizes":
+         [[[130,
+            150],
+           "assets/images/resized/0010/9179/109179v2-max-150x150.jpg"],
+          [[216,
+            250],
+           "assets/images/resized/0010/9179/109179v2-max-250x250.jpg"],
+          [[390,
+            450],
+           "assets/images/resized/0010/9179/109179v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Investor, Advisor",
+    "person":
+     {"first_name": "Roger",
+      "last_name": "Ehrenberg",
+      "permalink": "roger-ehrenberg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            120],
+           "assets/images/resized/0001/5862/15862v5-max-150x150.jpg"],
+          [[250,
+            200],
+           "assets/images/resized/0001/5862/15862v5-max-250x250.jpg"],
+          [[450,
+            360],
+           "assets/images/resized/0001/5862/15862v5-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "NYC office",
+    "address1": "450 Park Ave South",
+    "address2": "8th Floor",
+    "zip_code": "10016",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"450\" height=\"350\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/jawlDL_nU2U\u0026hl=en_US\u0026fs=1\u0026\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/jawlDL_nU2U\u0026hl=en_US\u0026fs=1\u0026\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"450\" height=\"350\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

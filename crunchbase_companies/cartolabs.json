@@ -1,0 +1,100 @@
+{"name": "CartoLabs",
+ "permalink": "cartolabs",
+ "crunchbase_url": "http://www.crunchbase.com/company/cartolabs",
+ "homepage_url": "http://CartoLabs.com",
+ "blog_url": "http://hackgeo.com",
+ "blog_feed_url": "",
+ "twitter_username": "hoganmaps",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "carto, mapping, map, web-map, spatial, analytics",
+ "alias_list": null,
+ "email_address": "chris@cartolabs.com",
+ "phone_number": "",
+ "description": "Location Intelligence Company",
+ "created_at": "Thu Oct 25 04:04:50 UTC 2012",
+ "updated_at": "Wed Dec 12 07:21:15 UTC 2012",
+ "overview": "\u003Cp\u003ECartoLabs strives to make cool, helpful, and easy to use location based web and mobile applications.\u003C/p\u003E\n\n\u003Cp\u003ECartoLabs primary product, a location based demographics and information tool, is launching in the coming weeks.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0021/7788/217788v2-max-150x150.png"],
+     [[250,
+       78],
+      "assets/images/resized/0021/7788/217788v2-max-250x250.png"],
+     [[450,
+       140],
+      "assets/images/resized/0021/7788/217788v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Hogan",
+      "permalink": "chris-hogan-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Heinrich",
+      "permalink": "steve-heinrich",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1315 Webster St",
+    "address2": "",
+    "zip_code": "21230",
+    "city": "Baltimore",
+    "state_code": "MD",
+    "country_code": "USA",
+    "latitude": 39.2736586,
+    "longitude": -76.6033517}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

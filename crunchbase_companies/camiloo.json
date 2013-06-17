@@ -1,0 +1,185 @@
+{"name": "Camiloo",
+ "permalink": "camiloo",
+ "crunchbase_url": "http://www.crunchbase.com/company/camiloo",
+ "homepage_url": "http://www.camiloo.co.uk/",
+ "blog_url": "http://www.camiloo.co.uk/blog",
+ "blog_feed_url": "http://www.camiloo.co.uk/feed/rss/",
+ "twitter_username": "camiloohq",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ecommerce, channel-integrations, multichannel-retail",
+ "alias_list": null,
+ "email_address": "mark@camiloo.co.uk",
+ "phone_number": "+44 (0)844 884 2523",
+ "description": "Software and Webware Development",
+ "created_at": "Thu Jun 16 15:20:01 UTC 2011",
+ "updated_at": "Mon Jun 20 20:04:14 UTC 2011",
+ "overview": "\u003Cp\u003ECamiloo, which began trading in 2009, provides services to online retailers worldwide and also develops mobile and desktop applications for third parties, from its base in Salford Quays, UK.\u003C/p\u003E\n\n\u003Cp\u003EStarting with a single client retainer, the company has grown to more than 320 clients worldwide despite having only spent \u00c2\u00a3400 on marketing and until recently employing only its two directors. Its growth can be attributed to the success of its Amazon integration plugin for popular eCommerce software Magento, which it has developed and supported in-house from launch. An exciting evolution of this integration lies ahead as the company prepares to launch a revolutionary tool connecting retailers to over 120 marketplace websites such as eBay, Aukro and Allegro Poland \u00e2\u20ac\u201c channelunity.com.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0013/9523/139523v2-max-150x150.png"],
+     [[209,
+       78],
+      "assets/images/resized/0013/9523/139523v2-max-250x250.png"],
+     [[209,
+       78],
+      "assets/images/resized/0013/9523/139523v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Newby",
+      "permalink": "mark-newby",
+      "image": null}},
+   {"is_past": false,
+    "title": "Technical Director",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Ross",
+      "permalink": "matthew-ross-3",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ChannelAdvisor",
+      "permalink": "channeladvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            73],
+           "assets/images/resized/0015/7146/157146v2-max-150x150.jpg"],
+          [[176,
+            86],
+           "assets/images/resized/0015/7146/157146v2-max-250x250.jpg"],
+          [[176,
+            86],
+           "assets/images/resized/0015/7146/157146v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ChannelGrabber",
+      "permalink": "channelgrabber",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0015/5924/155924v1-max-150x150.jpg"],
+          [[250,
+            43],
+           "assets/images/resized/0015/5924/155924v1-max-250x250.jpg"],
+          [[400,
+            69],
+           "assets/images/resized/0015/5924/155924v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "eSellerPro",
+      "permalink": "esellerpro",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0010/3448/103448v2-max-150x150.jpg"],
+          [[217,
+            89],
+           "assets/images/resized/0010/3448/103448v2-max-250x250.jpg"],
+          [[217,
+            89],
+           "assets/images/resized/0010/3448/103448v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "sellerexpress",
+      "permalink": "sellerexpress",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0018/2210/182210v8-max-150x150.png"],
+          [[250,
+            48],
+           "assets/images/resized/0018/2210/182210v8-max-250x250.png"],
+          [[334,
+            65],
+           "assets/images/resized/0018/2210/182210v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Accounting",
+    "is_past": false,
+    "provider":
+     {"name": "Bishops Accounting",
+      "permalink": "bishops-accounting",
+      "image": null}},
+   {"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Weightmans LLP",
+      "permalink": "weightmans-llp",
+      "image": null}},
+   {"title": "Office Space",
+    "is_past": false,
+    "provider":
+     {"name": "Regus PLC",
+      "permalink": "regus-plc",
+      "image": null}}],
+ "total_money_raised": "\u00a350k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.camiloo.co.uk/camiloo-receives-investment-from-north-west-fund/",
+    "source_description": "Camiloo receives investment from North West Fund / ERDF ",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "North West Fund",
+         "permalink": "north-west-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               46],
+              "assets/images/resized/0012/7217/127217v1-max-150x150.jpg"],
+             [[250,
+               77],
+              "assets/images/resized/0012/7217/127217v1-max-250x250.jpg"],
+             [[308,
+               95],
+              "assets/images/resized/0012/7217/127217v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Global Headquarters",
+    "address1": "6th Floor",
+    "address2": "8 Exchange Quay",
+    "zip_code": "M5 3EJ",
+    "city": "Salford",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

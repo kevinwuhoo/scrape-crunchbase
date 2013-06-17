@@ -1,0 +1,242 @@
+{"name": "Jet Stream",
+ "permalink": "jet-stream-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/jet-stream-2",
+ "homepage_url": "http://jetstream.co/",
+ "blog_url": "http://jetstream.co/jsblog/",
+ "blog_feed_url": "http://jetstream.co/feed/",
+ "twitter_username": "ijetstream",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "surveillance, physical-security, servers, storage, video-management, video-management-software, nas",
+ "alias_list": null,
+ "email_address": "info@jetstream.co",
+ "phone_number": "3164629784",
+ "description": "Video surveillance storage systems",
+ "created_at": "Sun Sep 23 03:19:42 UTC 2012",
+ "updated_at": "Wed Nov 07 05:20:48 UTC 2012",
+ "overview": "\u003Cp\u003EJet Stream\u0026#8217;s light weight and open platforms bring your organization the latest software and the most reliable hardware. \u003C/p\u003E\n\n\u003Cp\u003EJet Stream\u0026#8217;s data storage solutions are as large as 144TB in one server appliance and capable of multi-petabytes by combining add-on devices through various connecting fabrics such as FCoE, SAS and Ethernet. Our FreeBSD platform offers various RAID levels or ZFS configurations and enable advanced caching techniques and hybrid storage pools with flash. \u003C/p\u003E\n\n\u003Cp\u003EJet Stream\u0026#8217;s video management solutions allow for the management (both local and remote) of unlimited IP and analog surveillance cameras. Manage multiple security sites and scale up at anytime.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0021/3399/213399v2-max-150x150.png"],
+     [[250,
+       100],
+      "assets/images/resized/0021/3399/213399v2-max-250x250.png"],
+     [[300,
+       120],
+      "assets/images/resized/0021/3399/213399v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Cirrus X Series network video recorders",
+    "permalink": "cirrus-x-series-network-video-recorders",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President / CEO / Founder",
+    "person":
+     {"first_name": "Shawn",
+      "last_name": "Spaeny",
+      "permalink": "shawn-spaeny",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP / Founder",
+    "person":
+     {"first_name": "Nicholas",
+      "last_name": "Holt",
+      "permalink": "nicholas-holt",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Exacq Technologies",
+      "permalink": "exacq-technologies",
+      "image": null}},
+   {"competitor":
+     {"name": "Exus Technology AG",
+      "permalink": "exus-technology-ag",
+      "image": null}},
+   {"competitor":
+     {"name": "ONSSI",
+      "permalink": "onssi",
+      "image": null}},
+   {"competitor":
+     {"name": "Milestone Systems",
+      "permalink": "milestone-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0002/1726/21726v3-max-150x150.png"],
+          [[250,
+            159],
+           "assets/images/resized/0002/1726/21726v3-max-250x250.png"],
+          [[450,
+            286],
+           "assets/images/resized/0002/1726/21726v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iX Systems",
+      "permalink": "ix-systems",
+      "image": null}},
+   {"competitor":
+     {"name": "Synology",
+      "permalink": "synology",
+      "image":
+       {"available_sizes":
+         [[[141,
+            59],
+           "assets/images/resized/0002/1742/21742v1-max-150x150.png"],
+          [[141,
+            59],
+           "assets/images/resized/0002/1742/21742v1-max-250x250.png"],
+          [[141,
+            59],
+           "assets/images/resized/0002/1742/21742v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Overland Storage",
+      "permalink": "overland-storage",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0007/8857/78857v1-max-150x150.png"],
+          [[153,
+            63],
+           "assets/images/resized/0007/8857/78857v1-max-250x250.png"],
+          [[153,
+            63],
+           "assets/images/resized/0007/8857/78857v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Racktop Systems",
+      "permalink": "racktop-systems",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0015/3819/153819v2-max-150x150.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0015/3819/153819v2-max-250x250.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0015/3819/153819v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Intransa",
+      "permalink": "intransa",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0005/4633/54633v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0005/4633/54633v2-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0005/4633/54633v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "QNAP",
+      "permalink": "qnap",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0013/3635/133635v2-max-150x150.png"],
+          [[160,
+            80],
+           "assets/images/resized/0013/3635/133635v2-max-250x250.png"],
+          [[160,
+            80],
+           "assets/images/resized/0013/3635/133635v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NETGEAR",
+      "permalink": "netgear-inc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0004/1422/41422v1-max-150x150.png"],
+          [[202,
+            63],
+           "assets/images/resized/0004/1422/41422v1-max-250x250.png"],
+          [[202,
+            63],
+           "assets/images/resized/0004/1422/41422v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Coraid",
+      "permalink": "coraid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0007/4842/74842v5-max-150x150.png"],
+          [[150,
+            43],
+           "assets/images/resized/0007/4842/74842v5-max-250x250.png"],
+          [[150,
+            43],
+           "assets/images/resized/0007/4842/74842v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "USA Headquarters",
+    "address1": "535 South Emporia St",
+    "address2": "",
+    "zip_code": "67202",
+    "city": "Wichita",
+    "state_code": "KS",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0021/3396/213396v2-max-150x150.jpg"],
+      [[250,
+        140],
+       "assets/images/resized/0021/3396/213396v2-max-250x250.jpg"],
+      [[450,
+        253],
+       "assets/images/resized/0021/3396/213396v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0021/3397/213397v2-max-150x150.jpg"],
+      [[250,
+        140],
+       "assets/images/resized/0021/3397/213397v2-max-250x250.jpg"],
+      [[450,
+        253],
+       "assets/images/resized/0021/3397/213397v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

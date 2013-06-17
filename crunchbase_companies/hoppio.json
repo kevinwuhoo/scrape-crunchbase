@@ -1,0 +1,98 @@
+{"name": "Hoppio",
+ "permalink": "hoppio",
+ "crunchbase_url": "http://www.crunchbase.com/company/hoppio",
+ "homepage_url": "http://hoppio.com",
+ "blog_url": "http://hoppio.com/blog",
+ "blog_feed_url": "http://hoppio.com/blog/feed",
+ "twitter_username": "hoppioapp",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "smtp, cloud, email",
+ "alias_list": null,
+ "email_address": "hello@hoppio.com",
+ "phone_number": "888-209-SMTP",
+ "description": "Cloud SMTP Mail Delivery",
+ "created_at": "Sat Jan 21 01:51:52 UTC 2012",
+ "updated_at": "Sat Jan 21 11:13:31 UTC 2012",
+ "overview": "\u003Cp\u003EHigh availability cloud based SMTP server for sending mail that customers want to reliably get into the Inbox.  Hoppio provides a fully managed SMTP service for our customers and make and end to end solution that is both flexible and easy to setup and get going.\u003C/p\u003E\n\n\u003Cp\u003EOur mission is to never deliver a single message to the spam folder, that is not always possible, but we set this lofty goal so that our customers can focus on their business and leave the email delivery to the experts at Hoppio.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Berardi",
+      "permalink": "nick-berardi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0017/1389/171389v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0017/1389/171389v2-max-250x250.jpg"],
+          [[353,
+            353],
+           "assets/images/resized/0017/1389/171389v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Al",
+      "last_name": "Katawazi",
+      "permalink": "al-katawazi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SendGrid",
+      "permalink": "sendgrid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0010/7565/107565v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-250x250.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "14623",
+    "city": "Rochester",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,92 @@
+{"name": "Stayhound",
+ "permalink": "stayhound",
+ "crunchbase_url": "http://www.crunchbase.com/company/stayhound",
+ "homepage_url": "http://www.stayhound.com",
+ "blog_url": "http://blog.stayhound.com",
+ "blog_feed_url": "",
+ "twitter_username": "stayhound",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-commerce",
+ "alias_list": null,
+ "email_address": "alexis@stayhound.com",
+ "phone_number": "5039759528",
+ "description": "Find awesome pet sitters",
+ "created_at": "Sun Jan 08 07:11:25 UTC 2012",
+ "updated_at": "Tue Jan 24 06:45:31 UTC 2012",
+ "overview": "\u003Cp\u003EStayhound helps people who love their pets connect with others for pet sitting, play dates, and product recommendations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0017/1070/171070v2-max-150x150.jpg"],
+     [[250,
+       110],
+      "assets/images/resized/0017/1070/171070v2-max-250x250.jpg"],
+     [[443,
+       196],
+      "assets/images/resized/0017/1070/171070v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alexis",
+      "last_name": "Peterka",
+      "permalink": "alexis-peterka",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rover.com",
+      "permalink": "rover-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0016/7955/167955v2-max-150x150.jpg"],
+          [[250,
+            43],
+           "assets/images/resized/0016/7955/167955v2-max-250x250.jpg"],
+          [[450,
+            77],
+           "assets/images/resized/0016/7955/167955v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "PO Box 6318",
+    "address2": "",
+    "zip_code": "97228",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.fastcompany.com/1781598/wieden-kennedy-tech-incubator-picks-its-start-up-class-of-2011",
+    "title": "Wieden + Kennedy Tech Incubator Picks Its Startup Class of 2011"}]}

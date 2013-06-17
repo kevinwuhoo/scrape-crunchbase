@@ -1,0 +1,131 @@
+{"name": "Netmonic",
+ "permalink": "netmonic",
+ "crunchbase_url": "http://www.crunchbase.com/company/netmonic",
+ "homepage_url": "http://www.netmonic.com",
+ "blog_url": "http://blog.netmonic.com",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 15,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "xen-vps-hosting-web-service-api-virtual-server-managed-exchange-blackberry",
+ "alias_list": null,
+ "email_address": "ps@netmonic.com",
+ "phone_number": "+4369917246437",
+ "description": null,
+ "created_at": "Sun Jan 25 17:50:44 UTC 2009",
+ "updated_at": "Sat May 30 21:13:08 UTC 2009",
+ "overview": "\u003Cp\u003ENetmonic is web hosting service and virtualization software. \u003C/p\u003E\n\n\u003Cp\u003ENetmonic started in 1997 as a small internet service provider doing typical hosting and consulting work.\nIn 2007, Netmonic rebuilt its infrastructure with new hardware, a new datacenter and everything virtualized.\u003C/p\u003E\n\n\u003Cp\u003EWhat began as a simple Xen management interface, became a highly automated, highly scalable and rock solid virtualization plattform.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0003/4785/34785v2-max-150x150.png"],
+     [[250,
+       47],
+      "assets/images/resized/0003/4785/34785v2-max-250x250.png"],
+     [[367,
+       70],
+      "assets/images/resized/0003/4785/34785v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Pambalk-Rieger",
+      "permalink": "michael-pambalk-rieger",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Joep",
+      "last_name": "Winkels",
+      "permalink": "joep-winkels",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Philipp",
+      "last_name": "Schmid",
+      "permalink": "philipp-schmid",
+      "image":
+       {"available_sizes":
+         [[[140,
+            150],
+           "assets/images/resized/0006/2214/62214v2-max-150x150.jpg"],
+          [[233,
+            250],
+           "assets/images/resized/0006/2214/62214v2-max-250x250.jpg"],
+          [[247,
+            264],
+           "assets/images/resized/0006/2214/62214v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EPhilipp Schmid\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Amazon",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Slicehost",
+      "permalink": "slicehost",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0002/7303/27303v1-max-150x150.png"],
+          [[250,
+            155],
+           "assets/images/resized/0002/7303/27303v1-max-250x250.png"],
+          [[250,
+            155],
+           "assets/images/resized/0002/7303/27303v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Hofm\u00c3\u00bchlgasse 17/1/5",
+    "address2": "",
+    "zip_code": "1060",
+    "city": "Vienna",
+    "state_code": null,
+    "country_code": "AUT",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

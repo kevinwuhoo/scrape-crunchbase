@@ -1,0 +1,104 @@
+{"name": "TwittBot",
+ "permalink": "twittbot",
+ "crunchbase_url": "http://www.crunchbase.com/company/twittbot",
+ "homepage_url": "http://twittbot.com",
+ "blog_url": "http://twittbot.com/category/blog/",
+ "blog_feed_url": "http://twittbot.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, groups",
+ "alias_list": null,
+ "email_address": "general@twittbot.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon Jan 05 22:03:30 UTC 2009",
+ "updated_at": "Sat Jan 10 14:44:22 UTC 2009",
+ "overview": "\u003Cp\u003ETwittBot allows multiple users to post to a single Twitter account, and a single user to post to multiple Twitter accounts. \u003C/p\u003E\n\n\u003Cp\u003EWith advanced features, such as \u0026#8220;open\u0026#8221; and \u0026#8220;closed\u0026#8221; bots, TwittBot is the leader in group Twittering. Additionally, users can choose how posts are retweeted. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0003/3076/33076v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0003/3076/33076v2-max-250x250.png"],
+     [[300,
+       100],
+      "assets/images/resized/0003/3076/33076v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "TwittBot",
+    "permalink": "twittbot",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Davis",
+      "permalink": "nick-davis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GroupTweet",
+      "permalink": "grouptweet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/7253/17253v4-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0001/7253/17253v4-max-250x250.jpg"],
+          [[325,
+            84],
+           "assets/images/resized/0001/7253/17253v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home Office",
+    "address1": "2308 W 104th Street",
+    "address2": "",
+    "zip_code": "66206",
+    "city": "Leawood",
+    "state_code": "KS",
+    "country_code": "USA",
+    "latitude": 38.93842,
+    "longitude": -94.616021}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0003/3075/33075v2-max-150x150.jpg"],
+      [[250,
+        163],
+       "assets/images/resized/0003/3075/33075v2-max-250x250.jpg"],
+      [[450,
+        293],
+       "assets/images/resized/0003/3075/33075v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.twitip.com/creating-your-own-twitter-groups-with-twittbot-review/",
+    "title": "Creating Your Own Twitter Groups with Twittbot [Review]"}]}

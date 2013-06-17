@@ -1,0 +1,169 @@
+{"name": "SyMynd",
+ "permalink": "symynd",
+ "crunchbase_url": "http://www.crunchbase.com/company/symynd",
+ "homepage_url": "http://www.symynd.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": 7,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education, ebooks, publishing, knowledge-marketplace, online-courses",
+ "alias_list": null,
+ "email_address": "contact@symynd.com",
+ "phone_number": "",
+ "description": "Education and Knowledge for Anyone",
+ "created_at": "Mon Oct 04 22:38:40 UTC 2010",
+ "updated_at": "Mon Oct 11 17:22:57 UTC 2010",
+ "overview": "\u003Cp\u003ESyMynd is a knowledge marketplace where anyone can read books, courses, articles from experts, and journal articles, with embedded videos, audios and animations,  all at the same place! You can discuss with other readers of a book on every page. SyMynd platform brings together professors, instructors, universities, book publishers, book authors and everyone at the same place. SyMynd\u0026#8217;s goal is to make knowledge in any form accessible and affordable to anyone anywhere by creating a platform that benefits everyone, including book publishers, book authors, universities, and professors. \u003C/p\u003E\n\n\u003Cp\u003EImagine you are a physics student, or a professional in microelectronics industry. Search for your topic of interest on SyMynd. Read inexpensive multimedia interactive books with readers discussion on each page, read short articles from the experts, access courses from leading universities. All this with seamlessly integrated multimedia, readers\u0026#8217; discussion, and reader tools, such as highlighting, bookmarks and notes.\u003C/p\u003E\n\n\u003Cp\u003EImagine you are an expert in your field. Write short articles and subscriptions on topics of your expertise. Ask publisher of your books to use SyMynd platform. Connect with those who value your knowledge. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0010/4644/104644v2-max-150x150.png"],
+     [[244,
+       58],
+      "assets/images/resized/0010/4644/104644v2-max-250x250.png"],
+     [[244,
+       58],
+      "assets/images/resized/0010/4644/104644v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Nitin",
+      "last_name": "Kumar",
+      "permalink": "nitin-kumar",
+      "image": null}},
+   {"is_past": false,
+    "title": "Interim CTO",
+    "person":
+     {"first_name": "Anand",
+      "last_name": "Anand",
+      "permalink": "anand-anand",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0017/3426/173426v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0017/3426/173426v2-max-250x250.jpg"],
+          [[450,
+            336],
+           "assets/images/resized/0017/3426/173426v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Scribd",
+      "permalink": "scribd",
+      "image":
+       {"available_sizes":
+         [[[145,
+            48],
+           "assets/images/resized/0000/3184/3184v22-max-150x150.jpg"],
+          [[145,
+            48],
+           "assets/images/resized/0000/3184/3184v22-max-250x250.jpg"],
+          [[145,
+            48],
+           "assets/images/resized/0000/3184/3184v22-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Academic Earth",
+      "permalink": "academic-earth",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0002/2510/22510v2-max-150x150.png"],
+          [[250,
+            33],
+           "assets/images/resized/0002/2510/22510v2-max-250x250.png"],
+          [[450,
+            59],
+           "assets/images/resized/0002/2510/22510v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CafeScribe",
+      "permalink": "cafescribe",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0000/0832/832v2-max-150x150.png"],
+          [[250,
+            117],
+           "assets/images/resized/0000/0832/832v2-max-250x250.png"],
+          [[251,
+            118],
+           "assets/images/resized/0000/0832/832v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Flat World Knowledge",
+      "permalink": "flat-world-knowledge",
+      "image":
+       {"available_sizes":
+         [[[150,
+            82],
+           "assets/images/resized/0002/1764/21764v1-max-150x150.png"],
+          [[250,
+            137],
+           "assets/images/resized/0002/1764/21764v1-max-250x250.png"],
+          [[269,
+            148],
+           "assets/images/resized/0002/1764/21764v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "SyMynd, Inc",
+    "address1": "4195 Sedge St",
+    "address2": "",
+    "zip_code": "94555",
+    "city": "Fremont",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

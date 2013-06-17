@@ -1,0 +1,241 @@
+{"name": "Moodle",
+ "permalink": "moodle",
+ "crunchbase_url": "http://www.crunchbase.com/company/moodle",
+ "homepage_url": "http://moodle.com/",
+ "blog_url": "",
+ "blog_feed_url": "http://moodle.org/rss/file.php/51/1b51bf7f3cab9689af042af1ff4a07f0/mod_forum/1/rss.xml",
+ "twitter_username": "moodle",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Open-source Education Applications",
+ "created_at": "Tue Dec 30 13:08:29 UTC 2008",
+ "updated_at": "Sat Jun 08 07:51:11 UTC 2013",
+ "overview": "\u003Cp\u003EMoodle is an Open Source Course Management System (CMS), also known as a Learning Management System (LMS) or a Virtual Learning Environment (VLE). It has become very popular among educators around the world as a tool for creating online dynamic web sites for their students.     \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EMoodle has features that allow it to scale to very large deployments and hundreds of thousands of students, yet it can also be used for a primary school or an education hobbyist.\u003C/li\u003E\n\u003Cli\u003EMany institutions use it as their platform to conduct fully online courses, while some use it simply to augment face-to-face courses (known as blended learning).\u003C/li\u003E\n\u003Cli\u003Euse activity modules (such as Forums, Wikis, Databases and so on) to build richly collaborative communities of learning around their subject matter (in the social constructionist tradition)\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0005/9162/59162v1-max-150x150.png"],
+     [[200,
+       46],
+      "assets/images/resized/0005/9162/59162v1-max-250x250.png"],
+     [[200,
+       46],
+      "assets/images/resized/0005/9162/59162v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder \u0026 Lead Developer Director",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Dougiamas",
+      "permalink": "martin-dougiamas",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0027/3117/273117v1-max-150x150.png"],
+          [[100,
+            100],
+           "assets/images/resized/0027/3117/273117v1-max-250x250.png"],
+          [[100,
+            100],
+           "assets/images/resized/0027/3117/273117v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CalendarFly",
+      "permalink": "calendarfly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0003/3522/33522v1-max-150x150.jpg"],
+          [[223,
+            68],
+           "assets/images/resized/0003/3522/33522v1-max-250x250.jpg"],
+          [[223,
+            68],
+           "assets/images/resized/0003/3522/33522v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SocialRoster",
+      "permalink": "socialroster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0003/5142/35142v1-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0003/5142/35142v1-max-250x250.png"],
+          [[260,
+            48],
+           "assets/images/resized/0003/5142/35142v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Udemy",
+      "permalink": "udemy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0005/9608/59608v3-max-150x150.png"],
+          [[150,
+            50],
+           "assets/images/resized/0005/9608/59608v3-max-250x250.png"],
+          [[150,
+            50],
+           "assets/images/resized/0005/9608/59608v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Omnicademy",
+      "permalink": "omnicademy",
+      "image":
+       {"available_sizes":
+         [[[147,
+            111],
+           "assets/images/resized/0012/6791/126791v1-max-150x150.jpg"],
+          [[147,
+            111],
+           "assets/images/resized/0012/6791/126791v1-max-250x250.jpg"],
+          [[147,
+            111],
+           "assets/images/resized/0012/6791/126791v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Engrade",
+      "permalink": "engrade",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0009/5752/95752v7-max-150x150.png"],
+          [[232,
+            100],
+           "assets/images/resized/0009/5752/95752v7-max-250x250.png"],
+          [[232,
+            100],
+           "assets/images/resized/0009/5752/95752v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "myeverCLASS",
+      "permalink": "myeverclass",
+      "image":
+       {"available_sizes":
+         [[[150,
+            97],
+           "assets/images/resized/0019/5077/195077v2-max-150x150.jpg"],
+          [[215,
+            140],
+           "assets/images/resized/0019/5077/195077v2-max-250x250.jpg"],
+          [[215,
+            140],
+           "assets/images/resized/0019/5077/195077v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iversity",
+      "permalink": "iversity",
+      "image":
+       {"available_sizes":
+         [[[113,
+            34],
+           "assets/images/resized/0010/7773/107773v3-max-150x150.png"],
+          [[113,
+            34],
+           "assets/images/resized/0010/7773/107773v3-max-250x250.png"],
+          [[113,
+            34],
+           "assets/images/resized/0010/7773/107773v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Schoology",
+      "permalink": "schoology",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0005/9519/59519v6-max-150x150.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-250x250.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amectronix",
+      "permalink": "amectronix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/5671/225671v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0022/5671/225671v2-max-250x250.png"],
+          [[256,
+            256],
+           "assets/images/resized/0022/5671/225671v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Luxanova",
+      "permalink": "luxanova",
+      "image": null}},
+   {"competitor":
+     {"name": "Swiftwit",
+      "permalink": "swiftwit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0024/7457/247457v6-max-150x150.jpg"],
+          [[250,
+            68],
+           "assets/images/resized/0024/7457/247457v6-max-250x250.jpg"],
+          [[294,
+            80],
+           "assets/images/resized/0024/7457/247457v6-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Unit 1 224-226",
+    "address2": "Lord St Perth 6000 Western Australia",
+    "zip_code": "6000",
+    "city": "Perth",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

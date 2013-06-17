@@ -1,0 +1,87 @@
+{"name": "cfTrigger",
+ "permalink": "cftrigger",
+ "crunchbase_url": "http://www.crunchbase.com/company/cftrigger",
+ "homepage_url": "http://cftrigger.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cftrigger",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 12,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "coldfusion, framework, web-application",
+ "alias_list": null,
+ "email_address": "cftrigger@gmail.com",
+ "phone_number": "",
+ "description": "Lightweight Coldfusion framework",
+ "created_at": "Wed Dec 30 07:47:54 UTC 2009",
+ "updated_at": "Wed Dec 30 21:10:32 UTC 2009",
+ "overview": "\u003Cp\u003EcfTrigger is a lightweight yet adequate Coldfusion framework that boosts your development efficiency while ensuring applications that you write follow the Model View Controller framework.\u003C/p\u003E\n\n\u003Cp\u003EWith cfTrigger, codes are laid out in an logical and easy to understand structure to help the team write codes that could be picked up easily by other members.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0007/1557/71557v2-max-150x150.png"],
+     [[250,
+       72],
+      "assets/images/resized/0007/1557/71557v2-max-250x250.png"],
+     [[270,
+       78],
+      "assets/images/resized/0007/1557/71557v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Vinh",
+      "last_name": "Khoa Nguyen",
+      "permalink": "vinh-khoa-nguyen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mach II",
+      "permalink": "mach-ii",
+      "image": null}},
+   {"competitor":
+     {"name": "Fusebox",
+      "permalink": "fusebox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0011/3714/113714v2-max-150x150.png"],
+          [[153,
+            30],
+           "assets/images/resized/0011/3714/113714v2-max-250x250.png"],
+          [[153,
+            30],
+           "assets/images/resized/0011/3714/113714v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

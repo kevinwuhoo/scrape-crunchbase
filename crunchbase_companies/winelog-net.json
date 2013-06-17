@@ -1,0 +1,200 @@
+{"name": "WineLog.net",
+ "permalink": "winelog-net",
+ "crunchbase_url": "http://www.crunchbase.com/company/winelog-net",
+ "homepage_url": "http://www.winelog.net",
+ "blog_url": "http://www.winelog.net/blog",
+ "blog_feed_url": "http://www.winelog.net/blog/rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 0,
+ "founded_year": 2005,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "info@winelog.net",
+ "phone_number": "610.334.8506",
+ "description": null,
+ "created_at": "Wed Oct 31 10:56:42 UTC 2007",
+ "updated_at": "Tue Jul 14 21:03:57 UTC 2009",
+ "overview": "\u003Cp\u003EWineLog is a new take on mixing social networking and user generated content to help users keep track and rate the wines they\u0026#8217;ve tried while getting recommendations from others. In specific, WineLog proposes custom wine recommendations based on user preferences. \u003C/p\u003E\n\n\u003Cp\u003EThe idea is quite simple: Most people base their wine decisions on magazine reviews and ratings. The problem with this approach is that general reviews and ratings do not take specific wine preferences into account. WineLog\u0026#8217;s recommendation system allows users to compare their recorded comments and ratings to those of other WineLog users. For example, if two users both highly rate one brand of chardonnay, then it is likely that they will also enjoy other similar types of chardonnay. Their respective WineLogs display the chardonnays highly rated by the other user and proposes them as wines that they may also enjoy. The more wines users enter into their log, the more specific their wine recommendations will be.\u003C/p\u003E\n\n\u003Cp\u003ECompetitors include \u003Ca href=\"http://www.crunchbase.com/company/snooth\" title=\"Snooth\"\u003ESnooth\u003C/a\u003E, \u003Ca href=\"http://www.tastevine.com/\" title=\"TasteVine\" rel=\"nofollow\"\u003ETasteVine\u003C/a\u003E, \u003Ca href=\"http://www.vinorati.com/\" title=\"Vinorati\" rel=\"nofollow\"\u003EVinorati\u003C/a\u003E, and the very 1.0 \u003Ca href=\"http://www.wine-searcher.com/\" title=\"WineSearcher\" rel=\"nofollow\"\u003EWineSearcher\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0000/1729/1729v1-max-150x150.png"],
+     [[200,
+       60],
+      "assets/images/resized/0000/1729/1729v1-max-250x250.png"],
+     [[200,
+       60],
+      "assets/images/resized/0000/1729/1729v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "WineLog.net",
+    "permalink": "winelog-net",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Loftus",
+      "permalink": "bill-loftus",
+      "image":
+       {"available_sizes":
+         [[[120,
+            99],
+           "assets/images/resized/0000/9940/9940v1-max-150x150.jpg"],
+          [[120,
+            99],
+           "assets/images/resized/0000/9940/9940v1-max-250x250.jpg"],
+          [[120,
+            99],
+           "assets/images/resized/0000/9940/9940v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"is_past": null,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Coleman",
+      "permalink": "jason-coleman",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0000/9934/9934v3-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0000/9934/9934v3-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0000/9934/9934v3-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": null,
+    "title": "Lead Designer",
+    "person":
+     {"first_name": "Kim",
+      "last_name": "Coleman",
+      "permalink": "kim-coleman",
+      "image":
+       {"available_sizes":
+         [[[120,
+            100],
+           "assets/images/resized/0000/9937/9937v1-max-150x150.jpg"],
+          [[120,
+            100],
+           "assets/images/resized/0000/9937/9937v1-max-250x250.jpg"],
+          [[120,
+            100],
+           "assets/images/resized/0000/9937/9937v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Snooth Media",
+      "permalink": "snooth",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/0409/409v7-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/0409/409v7-max-250x250.png"],
+          [[450,
+            128],
+           "assets/images/resized/0000/0409/409v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Winescorecard",
+      "permalink": "winescorecard",
+      "image":
+       {"available_sizes":
+         [[[150,
+            16],
+           "assets/images/resized/0001/2686/12686v1-max-150x150.jpg"],
+          [[250,
+            27],
+           "assets/images/resized/0001/2686/12686v1-max-250x250.jpg"],
+          [[450,
+            49],
+           "assets/images/resized/0001/2686/12686v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adegga",
+      "permalink": "adegga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0001/3743/13743v1-max-150x150.png"],
+          [[160,
+            46],
+           "assets/images/resized/0001/3743/13743v1-max-250x250.png"],
+          [[160,
+            46],
+           "assets/images/resized/0001/3743/13743v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Corkd",
+      "permalink": "corkd",
+      "image":
+       {"available_sizes":
+         [[[90,
+            34],
+           "assets/images/resized/0003/3351/33351v1-max-150x150.jpg"],
+          [[90,
+            34],
+           "assets/images/resized/0003/3351/33351v1-max-250x250.jpg"],
+          [[90,
+            34],
+           "assets/images/resized/0003/3351/33351v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vinogusto.com",
+      "permalink": "vinogusto-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0003/1336/31336v2-max-150x150.jpg"],
+          [[250,
+            35],
+           "assets/images/resized/0003/1336/31336v2-max-250x250.jpg"],
+          [[350,
+            50],
+           "assets/images/resized/0003/1336/31336v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "PO Box 20",
+    "address2": "",
+    "zip_code": "19522",
+    "city": "Fleetwood",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": 40.446939,
+    "longitude": -75.806577}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

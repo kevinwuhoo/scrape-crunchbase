@@ -1,0 +1,101 @@
+{"name": "CloudSH.com",
+ "permalink": "cloudsh-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudsh-com",
+ "homepage_url": "http://www.cloudsh.com",
+ "blog_url": "http://www.cloudsh.com",
+ "blog_feed_url": "http://feeds.feedburner.com/cloudsh",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "dusty@cloudsh.com",
+ "phone_number": "",
+ "description": "Command Line for Web Services",
+ "created_at": "Wed Oct 01 22:43:24 UTC 2008",
+ "updated_at": "Wed May 13 22:12:16 UTC 2009",
+ "overview": "\u003Cp\u003ECloudSH provides a command-line interface to some popular web services. It can help update and check you calendar and to-dos, update you status message, or search your accounts. It can also schedule commands for later or repeated execution.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0002/5995/25995v2-max-150x150.png"],
+     [[250,
+       110],
+      "assets/images/resized/0002/5995/25995v2-max-250x250.png"],
+     [[450,
+       199],
+      "assets/images/resized/0002/5995/25995v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Dusty",
+      "last_name": "Candland",
+      "permalink": "dusty-candland",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Wundrbar",
+      "permalink": "wundrbar",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/5770/15770v1-max-150x150.png"],
+          [[150,
+            34],
+           "assets/images/resized/0001/5770/15770v1-max-250x250.png"],
+          [[150,
+            34],
+           "assets/images/resized/0001/5770/15770v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "7430 E Caley Ave",
+    "address2": "",
+    "zip_code": "80111",
+    "city": "Centennial",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.602226,
+    "longitude": -104.9023982}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        80],
+       "assets/images/resized/0002/5994/25994v2-max-150x150.png"],
+      [[250,
+        134],
+       "assets/images/resized/0002/5994/25994v2-max-250x250.png"],
+      [[450,
+        242],
+       "assets/images/resized/0002/5994/25994v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

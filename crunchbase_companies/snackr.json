@@ -1,0 +1,86 @@
+{"name": "Snackr",
+ "permalink": "snackr",
+ "crunchbase_url": "http://www.crunchbase.com/company/snackr",
+ "homepage_url": "http://www.snackr.net/",
+ "blog_url": "http://www.rictus.com/muchado/",
+ "blog_feed_url": "http://www.rictus.com/muchado/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rss-reader, rss, information-feed",
+ "alias_list": null,
+ "email_address": "nj@snackr.net",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sat May 17 16:39:09 UTC 2008",
+ "updated_at": "Tue Apr 14 08:42:01 UTC 2009",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.snackr.com\" title=\"Snackr\" rel=\"nofollow\"\u003ESnackr\u003C/a\u003E is an RSS ticker that pulls random items from your feeds and scrolls them across your desktop. When you see a title that looks interesting, you can click on it to pop up the item in a window.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[145,
+       32],
+      "assets/images/resized/0001/8773/18773v1-max-150x150.jpg"],
+     [[145,
+       32],
+      "assets/images/resized/0001/8773/18773v1-max-250x250.jpg"],
+     [[145,
+       32],
+      "assets/images/resized/0001/8773/18773v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Snackr",
+    "permalink": "snackr",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Narciso",
+      "last_name": "Jaramillo",
+      "permalink": "narciso-jaramillo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Caron",
+      "permalink": "mark-caron",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "A Happy DreamHost Customer",
+    "address2": "417 Associated Rd #324",
+    "zip_code": "92821",
+    "city": "Brea",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

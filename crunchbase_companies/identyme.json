@@ -1,0 +1,91 @@
+{"name": "IdentyMe",
+ "permalink": "identyme",
+ "crunchbase_url": "http://www.crunchbase.com/company/identyme",
+ "homepage_url": "http://identyme.com/",
+ "blog_url": "http://blog.identyme.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/IdentyMe",
+ "twitter_username": "IdentyMe",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "vcard, virtual, business-card, portfolio, contact, mini-site",
+ "alias_list": null,
+ "email_address": "admin@identyme.com",
+ "phone_number": "+1 (555) 563-0990",
+ "description": "Virtual Business Cards",
+ "created_at": "Mon Dec 13 16:29:21 UTC 2010",
+ "updated_at": "Thu Dec 16 08:30:48 UTC 2010",
+ "overview": "\u003Cp\u003EIdentyMe is a service for making of virtual business cards. Collect all your contacts in one place and create a portfolio. Share information with new people, find new friends and business partners.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[48,
+       48],
+      "assets/images/resized/0011/3989/113989v2-max-150x150.png"],
+     [[48,
+       48],
+      "assets/images/resized/0011/3989/113989v2-max-250x250.png"],
+     [[48,
+       48],
+      "assets/images/resized/0011/3989/113989v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder IdentyMe",
+    "person":
+     {"first_name": "Sergey",
+      "last_name": "Guziy",
+      "permalink": "sergey-guziy",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0011/7790/117790v2-max-150x150.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0011/7790/117790v2-max-250x250.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0011/7790/117790v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "IdentyMe Office",
+    "address1": "198 Tremont St.",
+    "address2": "",
+    "zip_code": "02116",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://identyme.com/",
+    "title": "IdentyMe"},
+   {"external_url": "http://identyme.com/admin",
+    "title": "Sergey's vCard"}]}

@@ -1,0 +1,116 @@
+{"name": "Symtavision",
+ "permalink": "symtavision",
+ "crunchbase_url": "http://www.crunchbase.com/company/symtavision",
+ "homepage_url": "http://www.symtavision.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@symtavision.com",
+ "phone_number": "+49 531 886179 - 0",
+ "description": "",
+ "created_at": "Sat May 01 06:11:54 UTC 2010",
+ "updated_at": "Sat May 01 06:11:53 UTC 2010",
+ "overview": "\u003Cp\u003ESymtavision GmbH provides timing-analysis solutions for processors, control-units, buses, and integration for the automotive and consumer electronics markets. Its tool suite detects bottlenecks arising from software and system integration, understands and debugs timing errors, compare alternatives, and optimize systems. The company\u00e2\u20ac\u2122s products include analysis engine, plug-ins, and import and export interfaces. It also offers services, including customizations and special analyses, such as requirements analysis and product selection, realization of tool interfaces and integration into existing design flows, analysis libraries for special components, and plug-ins for increased productivity; and analysis and optimization services, including identification and selection of data, analysis and optimization of systems based on given data, and support for performance specification sheets between OEM and supplier. Symtavision GmbH was founded in 2005 and is based in Braunschweig, Germany.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0008/5590/85590v1-max-150x150.png"],
+     [[250,
+       58],
+      "assets/images/resized/0008/5590/85590v1-max-250x250.png"],
+     [[336,
+       78],
+      "assets/images/resized/0008/5590/85590v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Marek",
+      "last_name": "Jersak",
+      "permalink": "marek-jersak",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Kai",
+      "last_name": "Richter",
+      "permalink": "kai-richter",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Uwe",
+      "last_name": "K\u00c3\u00b6hler",
+      "permalink": "uwe-khler",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac500k",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.symtavision.com/news.html",
+    "source_description": "Symtavision receives 500,000 EUR venture capital",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2006,
+    "funded_month": 4,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "High-Tech Gruenderfonds",
+         "permalink": "high-tech-gruenderfonds",
+         "image":
+          {"available_sizes":
+            [[[150,
+               41],
+              "assets/images/resized/0002/8109/28109v4-max-150x150.jpg"],
+             [[250,
+               69],
+              "assets/images/resized/0002/8109/28109v4-max-250x250.jpg"],
+             [[450,
+               125],
+              "assets/images/resized/0002/8109/28109v4-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Frankfurter Stra\u00c3\u0178e 3b",
+    "address2": "",
+    "zip_code": "38122 ",
+    "city": "Braunschweig",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

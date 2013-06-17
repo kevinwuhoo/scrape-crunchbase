@@ -1,0 +1,103 @@
+{"name": "Framebase",
+ "permalink": "framebase",
+ "crunchbase_url": "http://www.crunchbase.com/company/framebase",
+ "homepage_url": "https://framebase.io/",
+ "blog_url": "http://blog.framebase.io/",
+ "blog_feed_url": "http://blog.framebase.io/rss",
+ "twitter_username": "framebase",
+ "category_code": "other",
+ "number_of_employees": 3,
+ "founded_year": 2013,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, api, b2b",
+ "alias_list": null,
+ "email_address": "contact@framebase.io",
+ "phone_number": "",
+ "description": "Simplest way to add programmatic video",
+ "created_at": "Fri Apr 05 19:15:09 UTC 2013",
+ "updated_at": "Wed Apr 24 03:16:13 UTC 2013",
+ "overview": "\u003Cp\u003EFramebase is programmatic video.\u003C/p\u003E\n\n\u003Cp\u003EWriting applications which use video in a meaningful way is extremely difficult. And then there\u0026#8217;s the maintenance.\u003C/p\u003E\n\n\u003Cp\u003EFramebase makes video a first-class object. Instead of hiring a team to deal with transcoding configurations, device compatibility bugs, or CDN contracts, Framebase lets you add two lines of code to start treating videos as class instances.\u003C/p\u003E\n\n\u003Cp\u003EFramebase is a pivot of TapIn.tv, which is a Y Combinator S 2012 company.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0024/8920/248920v2-max-150x150.png"],
+     [[246,
+       40],
+      "assets/images/resized/0024/8920/248920v2-max-250x250.png"],
+     [[246,
+       40],
+      "assets/images/resized/0024/8920/248920v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Cretu",
+      "permalink": "paul-cretu",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO, Co-founder",
+    "person":
+     {"first_name": "Vu",
+      "last_name": "Tran",
+      "permalink": "vu-tran",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Tyler",
+      "last_name": "Menezes",
+      "permalink": "tyler-menezes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/5115/225115v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0022/5115/225115v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0022/5115/225115v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003E\u003Ca href=\"https://tyler.menez.es/\" title=\"Tyler Menezes\" rel=\"nofollow\"\u003ETyler Menezes\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Office",
+    "address1": "207 King St #706",
+    "address2": "",
+    "zip_code": "94107",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7618242,
+    "longitude": -122.3985871}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2013/04/08/yc-backed-tapin-tv-evolves-into-framebase-to-make-building-video-products-less-painful/",
+    "title": "YC-Backed TapIn.TV Evolves Into Framebase To Make Building Video Products Less Painful"}]}

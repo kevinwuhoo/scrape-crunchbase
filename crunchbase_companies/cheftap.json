@@ -1,0 +1,89 @@
+{"name": "ChefTap",
+ "permalink": "cheftap",
+ "crunchbase_url": "http://www.crunchbase.com/company/cheftap",
+ "homepage_url": "http://cheftap.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recipes-cooking-android",
+ "alias_list": null,
+ "email_address": "info@cheftap.com",
+ "phone_number": "",
+ "description": "Recipe management app for Android",
+ "created_at": "Mon Jul 04 17:50:21 UTC 2011",
+ "updated_at": "Wed Sep 28 08:06:20 UTC 2011",
+ "overview": "\u003Cp\u003EChefTap is a recipe management app for Android that lets you save and organize recipes that you find on the web. ChefTap imports recipes from any recipe site or blog and saves a copy onto your phone or tablet. When it\u0026#8217;s time to cook, ChefTap displays recipes in an easy-to-read format.\u003C/p\u003E\n\n\u003Cp\u003EChefTap uses a proprietary algorithm to extract recipes (ingredients and instructions) from unstructured text.  This unique approach to importing recipes gives us more flexibility than other recipe apps, allowing our users to import recipes from any web site or blog.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0014/2409/142409v6-max-150x150.png"],
+     [[222,
+       79],
+      "assets/images/resized/0014/2409/142409v6-max-250x250.png"],
+     [[222,
+       79],
+      "assets/images/resized/0014/2409/142409v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder, Developer",
+    "person":
+     {"first_name": "Shawn",
+      "last_name": "Holland",
+      "permalink": "shawn-holland",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, Designer",
+    "person":
+     {"first_name": "Kate",
+      "last_name": "Dobroth",
+      "permalink": "kate-dobroth",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "ChefTap beta released to the Android Market",
+    "stoned_year": 2011,
+    "stoned_month": 9,
+    "stoned_day": 22,
+    "source_url": "https://market.android.com/details?id=com.mindframedesign.cheftap.beta",
+    "source_text": null,
+    "source_description": "ChefTap",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "ChefTap",
+      "permalink": "cheftap"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,84 @@
+{"name": "SkillHound",
+ "permalink": "skillhound",
+ "crunchbase_url": "http://www.crunchbase.com/company/skillhound",
+ "homepage_url": "http://skillhound.com",
+ "blog_url": "http://blog.skillhound.com",
+ "blog_feed_url": "",
+ "twitter_username": "skillhoundapp",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "technical-recruiting, recruiting, hiring, developers, sourcing",
+ "alias_list": "mindcrimp",
+ "email_address": "hello@skillhound.com",
+ "phone_number": "",
+ "description": "big data for technical recruiting",
+ "created_at": "Tue May 15 21:02:37 UTC 2012",
+ "updated_at": "Sat Feb 09 02:45:00 UTC 2013",
+ "overview": "\u003Cp\u003ESkillHound makes it easy to leverage the extended network of your team members to find great developers on Github. We look at actual code to discover connections between developers to facilitate references and intros.\u003C/p\u003E\n\n\u003Cp\u003ESearch prospective hires to see how they\u0026#8217;re connected to your team and discover common projects and interests to make a more personal introduction.\u003C/p\u003E\n\n\u003Cp\u003EThink you\u0026#8217;ve found your next hire? Check out our summary data of each developer that includes how much they use various languages, check out their answers from StackOverflow, and see a breakdown of contributions to past projects. We can even run a full analysis of their Github repos to build a scorecard of their abilities in the languages they use and give hints about sections of code that you might want to review manually.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[142,
+       47],
+      "assets/images/resized/0018/9912/189912v4-max-150x150.png"],
+     [[142,
+       47],
+      "assets/images/resized/0018/9912/189912v4-max-250x250.png"],
+     [[142,
+       47],
+      "assets/images/resized/0018/9912/189912v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "Pablo",
+      "last_name": "Fernandez",
+      "permalink": "pablo-fernandez",
+      "image": null}},
+   {"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "Derek",
+      "last_name": "Francisco",
+      "permalink": "derek-francisco",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "MassChallenge",
+    "address1": "1 Marina Park Drive",
+    "address2": "",
+    "zip_code": "02110",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

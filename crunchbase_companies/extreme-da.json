@@ -1,0 +1,118 @@
+{"name": "Extreme DA",
+ "permalink": "extreme-da",
+ "crunchbase_url": "http://www.crunchbase.com/company/extreme-da",
+ "homepage_url": "http://www.extreme-da.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@extreme-da.com",
+ "phone_number": "408-588-1112",
+ "description": "electronic design automation",
+ "created_at": "Fri Mar 12 20:26:00 UTC 2010",
+ "updated_at": "Fri Mar 12 20:36:24 UTC 2010",
+ "overview": "\u003Cp\u003EExtreme DA, Corp. operates as an electronic design automation company. It focuses on the variation-aware parametric yield analysis, optimization, and specification sign-off of integrated circuit designs before transfer to manufacturing operations. The company offers GoldTime, a static analysis and timing sign-off tool that performs variation-aware timing analysis on a design; ROAD Suite, which provides statistical analysis and optimization of digital, analog/RF, memory, and mixed-signal circuits; and Variability solutions that provide variation data in terms of transistor and interconnect geometry parameters, as well as in terms of E-test data. \u003C/p\u003E\n\n\u003Cp\u003EExtreme DA, Corp. was founded in 2003 and is based in Santa Clara, California.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0008/0135/80135v2-max-150x150.jpg"],
+     [[250,
+       46],
+      "assets/images/resized/0008/0135/80135v2-max-250x250.jpg"],
+     [[276,
+       51],
+      "assets/images/resized/0008/0135/80135v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$7.38M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://www.eetimes.com/news/design/showArticle.jhtml?articleID=198800636\u0026printable=true",
+    "source_description": "Statistical timing startup wins $7M funding",
+    "raised_amount": 7380000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 4,
+    "funded_day": 5,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Foundation Capital",
+         "permalink": "foundation-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               53],
+              "assets/images/resized/0001/0986/10986v4-max-150x150.png"],
+             [[227,
+               81],
+              "assets/images/resized/0001/0986/10986v4-max-250x250.png"],
+             [[227,
+               81],
+              "assets/images/resized/0001/0986/10986v4-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "IT-Farm",
+         "permalink": "it-farm",
+         "image": null},
+       "financial_org": null,
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Lanza TechVentures",
+         "permalink": "lanza-techventures",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "3211 Scott Blvd",
+    "address2": "Suite 103",
+    "zip_code": "95054-3009",
+    "city": "Santa Clara",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        124],
+       "assets/images/resized/0008/0136/80136v1-max-150x150.jpg"],
+      [[250,
+        207],
+       "assets/images/resized/0008/0136/80136v1-max-250x250.jpg"],
+      [[450,
+        373],
+       "assets/images/resized/0008/0136/80136v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

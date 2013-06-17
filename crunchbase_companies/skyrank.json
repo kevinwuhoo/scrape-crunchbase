@@ -1,0 +1,165 @@
+{"name": "SkyRank",
+ "permalink": "skyrank",
+ "crunchbase_url": "http://www.crunchbase.com/company/skyrank",
+ "homepage_url": "http://www.skyranksystem.com/Visitor",
+ "blog_url": "http://www.josephomansky.com",
+ "blog_feed_url": "",
+ "twitter_username": "skyrank",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hedge-fund, rating, data, financial-technology, ranking, social-network, social-media, reviews, premium-placement",
+ "alias_list": null,
+ "email_address": "joe@skyranksystem.com",
+ "phone_number": "7327898088",
+ "description": "Hedge fund data and ratings",
+ "created_at": "Wed Aug 04 03:00:04 UTC 2010",
+ "updated_at": "Thu Sep 30 01:59:54 UTC 2010",
+ "overview": "\u003Cp\u003ESkyRank publishes hedge fund data and ratings on over 11,000 hedge funds, funds of funds and commodity trading advisors.  This accounts for approximately 80% coverage of the industry, and more funds than any other ratings agency.  SkyRank has been profiled on CNBC.\u003C/p\u003E\n\n\u003Cp\u003EThe SkyRank rating was the first hedge fund rating in the industry.  The methodology is described in U.S. Patent #7,536,333.  The rating is different than other financial security ratings; it is flexible in scope and able to reflect an investor\u0026#8217;s personal preferences.  \u003C/p\u003E\n\n\u003Cp\u003ECurrently, a limited amount of hedge fund data and ratings are available to the accredited investor community for free, and subscriptions are charged for users to view all of the data and ratings.   \u003C/p\u003E\n\n\u003Cp\u003EThere are approximately 2,000 regular users to the SkyRank website.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0010/3678/103678v1-max-150x150.jpg"],
+     [[250,
+       50],
+      "assets/images/resized/0010/3678/103678v1-max-250x250.jpg"],
+     [[323,
+       65],
+      "assets/images/resized/0010/3678/103678v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Joseph",
+      "last_name": "Omansky",
+      "permalink": "joseph-omansky",
+      "image":
+       {"available_sizes":
+         [[[138,
+            150],
+           "assets/images/resized/0010/3814/103814v2-max-150x150.jpg"],
+          [[230,
+            250],
+           "assets/images/resized/0010/3814/103814v2-max-250x250.jpg"],
+          [[415,
+            450],
+           "assets/images/resized/0010/3814/103814v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hedgefund.net",
+      "permalink": "hedgefund-net",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0012/1486/121486v1-max-150x150.jpg"],
+          [[250,
+            67],
+           "assets/images/resized/0012/1486/121486v1-max-250x250.jpg"],
+          [[318,
+            86],
+           "assets/images/resized/0012/1486/121486v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BarclayHedge",
+      "permalink": "barclayhedge",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0015/2830/152830v1-max-150x150.jpg"],
+          [[250,
+            65],
+           "assets/images/resized/0015/2830/152830v1-max-250x250.jpg"],
+          [[287,
+            75],
+           "assets/images/resized/0015/2830/152830v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HFR",
+      "permalink": "hfr",
+      "image": null}}],
+ "providerships":
+  [{"title": "legal",
+    "is_past": true,
+    "provider":
+     {"name": "Proskauer Rose LLP",
+      "permalink": "proskauer-rose-llp",
+      "image": null}},
+   {"title": "legal",
+    "is_past": true,
+    "provider":
+     {"name": "Grippo and Elden",
+      "permalink": "grippo-and-elden",
+      "image": null}}],
+ "total_money_raised": "$320k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Family",
+    "raised_amount": 320000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Michael",
+         "last_name": "Omans",
+         "permalink": "michael-omans",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Stuart",
+         "last_name": "Omans",
+         "permalink": "stuart-omans",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Joseph",
+         "last_name": "Omansky",
+         "permalink": "joseph-omansky",
+         "image":
+          {"available_sizes":
+            [[[138,
+               150],
+              "assets/images/resized/0010/3814/103814v2-max-150x150.jpg"],
+             [[230,
+               250],
+              "assets/images/resized/0010/3814/103814v2-max-250x250.jpg"],
+             [[415,
+               450],
+              "assets/images/resized/0010/3814/103814v2-max-450x450.jpg"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.skyranksystem.com/cnbc_hf_ratings_story_2_12_07.wmv",
+    "title": "SkyRank on CNBC"}]}

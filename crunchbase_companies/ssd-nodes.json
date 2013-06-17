@@ -1,0 +1,149 @@
+{"name": "SSD Nodes",
+ "permalink": "ssd-nodes",
+ "crunchbase_url": "http://www.crunchbase.com/company/ssd-nodes",
+ "homepage_url": "http://www.ssdnodes.com",
+ "blog_url": "http://www.ssdnodes.com/blog/",
+ "blog_feed_url": "http://www.ssdnodes.com/blog/feed",
+ "twitter_username": "SSDNodes",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "datacenter, hosting, dedicated-servers, cloud-computing, virtualization, servers",
+ "alias_list": null,
+ "email_address": "sales@ssdnodes.com",
+ "phone_number": "",
+ "description": "Premium Cloud/Dedicated Hosting",
+ "created_at": "Sat Sep 08 00:23:33 UTC 2012",
+ "updated_at": "Sun Sep 09 19:57:53 UTC 2012",
+ "overview": "\u003Cp\u003ESSD Nodes is a provider of on-demand datacenter services, specializing in reliable, high performance cloud computing and dedicated servers. We provide a massive dynamic platform that allows you to quickly innovate and deploy your applications on a global scale. Our world-class datacenters have multiple layers of physical and operational security to ensure the safety and integrity of your data.\u003C/p\u003E\n\n\u003Cp\u003ESSD Nodes is a growing company run by a seasoned management team with deep experience in delivering enterprise hosting solutions, including cloud computing, dedicated servers, and managed services.\u003C/p\u003E\n\n\u003Cp\u003EOur services are designed for developers seeking secure, scalable, and enterprise hosting solutions that can be quickly deployed to meet custom requirements. We consistently deliver an experience that exceeds customers\u0026#8217; expectations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0021/0380/210380v2-max-150x150.png"],
+     [[250,
+       111],
+      "assets/images/resized/0021/0380/210380v2-max-250x250.png"],
+     [[448,
+       200],
+      "assets/images/resized/0021/0380/210380v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Connor",
+      "permalink": "matt-connor",
+      "image": null}},
+   {"is_past": false,
+    "title": "CSO",
+    "person":
+     {"first_name": "Elizabeth",
+      "last_name": "Nguyen",
+      "permalink": "elizabeth-nguyen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Social Media Director",
+    "person":
+     {"first_name": "Jessica",
+      "last_name": "Barone",
+      "permalink": "jessica-barone",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+          [[300,
+            109],
+           "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon Elastic Compute Cloud (Amazon EC2)",
+      "permalink": "amazon-elastic-compute-cloud-amazon-ec2",
+      "image": null}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "cPanel Inc",
+      "permalink": "cpanel-inc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0007/4946/74946v2-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0007/4946/74946v2-max-250x250.png"],
+          [[450,
+            110],
+           "assets/images/resized/0007/4946/74946v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Citrix",
+      "permalink": "citrix",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Supermicro",
+      "permalink": "supermicro",
+      "image":
+       {"available_sizes":
+         [[[150,
+            20],
+           "assets/images/resized/0023/3676/233676v3-max-150x150.png"],
+          [[250,
+            33],
+           "assets/images/resized/0023/3676/233676v3-max-250x250.png"],
+          [[450,
+            60],
+           "assets/images/resized/0023/3676/233676v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "2522 Chambers Road Suite 100",
+    "address2": "",
+    "zip_code": "92780",
+    "city": "Tustin",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://compdata.wordpress.com/2012/06/05/amazon-aws-vs-ssdnotes-ssd-nodes-rocks/",
+    "title": ""}]}

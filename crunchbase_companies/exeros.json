@@ -1,0 +1,167 @@
+{"name": "Exeros",
+ "permalink": "exeros",
+ "crunchbase_url": "http://www.crunchbase.com/company/exeros",
+ "homepage_url": "http://www.exeros.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "408-919-0191",
+ "description": "data relationship discovery",
+ "created_at": "Mon Jan 05 18:25:56 UTC 2009",
+ "updated_at": "Mon May 03 19:01:03 UTC 2010",
+ "overview": "\u003Cp\u003EExeros, Inc. operates as a data relationship discovery and management company. It offers solutions for data integration projects, including data migration, sensitive data governance, master data management, and ETL migration. The company also offers Exeros DataMapper, a data relationship discovery engine and analyst work bench solution for discovering business rules, data lineage, hidden sensitive data, and unknown data inconsistencies buried in corporate data sources. It serves financial institutions, including investment banks, credit card issuers, insurance companies, and financial management firms. Exeros, Inc. was founded in 2002 and is based in Santa Clara, California. As of May 5, 2009, Exeros, Inc. operates as a subsidiary of International Business Machines Corp.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[95,
+       58],
+      "assets/images/resized/0008/5676/85676v2-max-150x150.jpg"],
+     [[95,
+       58],
+      "assets/images/resized/0008/5676/85676v2-max-250x250.jpg"],
+     [[95,
+       58],
+      "assets/images/resized/0008/5676/85676v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Siperian",
+      "permalink": "siperian",
+      "image":
+       {"available_sizes":
+         [[[150,
+            14],
+           "assets/images/resized/0004/1340/41340v1-max-150x150.png"],
+          [[250,
+            23],
+           "assets/images/resized/0004/1340/41340v1-max-250x250.png"],
+          [[450,
+            42],
+           "assets/images/resized/0004/1340/41340v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$12M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://www.accessmylibrary.com/coms2/summary_0286-17514285_ITM",
+    "source_description": "Exeros Secures $12M in B-Round Financing.",
+    "raised_amount": 12000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 9,
+    "funded_day": 5,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Bay Partners",
+         "permalink": "bay-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               21],
+              "assets/images/resized/0000/3577/3577v1-max-150x150.png"],
+             [[250,
+               35],
+              "assets/images/resized/0000/3577/3577v1-max-250x250.png"],
+             [[342,
+               48],
+              "assets/images/resized/0000/3577/3577v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "AllianceBernstein",
+         "permalink": "alliancebernstein",
+         "image":
+          {"available_sizes":
+            [[[150,
+               45],
+              "assets/images/resized/0002/2809/22809v1-max-150x150.jpg"],
+             [[250,
+               76],
+              "assets/images/resized/0002/2809/22809v1-max-250x250.jpg"],
+             [[286,
+               87],
+              "assets/images/resized/0002/2809/22809v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Globespan Capital Partners",
+         "permalink": "globespan-capital-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               47],
+              "assets/images/resized/0001/9343/19343v8-max-150x150.jpg"],
+             [[250,
+               79],
+              "assets/images/resized/0001/9343/19343v8-max-250x250.jpg"],
+             [[450,
+               142],
+              "assets/images/resized/0001/9343/19343v8-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "Capital Report Index",
+   "acquired_year": 2009,
+   "acquired_month": 5,
+   "acquired_day": 5,
+   "acquiring_company":
+    {"name": "IBM",
+     "permalink": "ibm",
+     "image":
+      {"available_sizes":
+        [[[150,
+           60],
+          "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+         [[170,
+           68],
+          "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+         [[170,
+           68],
+          "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2953 Bunker Hill Lane",
+    "address2": "Suite 101",
+    "zip_code": "95054",
+    "city": "Santa Clara",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

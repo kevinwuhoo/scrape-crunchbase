@@ -1,0 +1,149 @@
+{"name": "140Ware",
+ "permalink": "140ware",
+ "crunchbase_url": "http://www.crunchbase.com/company/140ware",
+ "homepage_url": "http://140ware.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "140WARE",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "juan@140ware.com",
+ "phone_number": "",
+ "description": "Twitter-powered microforum",
+ "created_at": "Fri Jun 26 22:45:54 UTC 2009",
+ "updated_at": "Sun Sep 27 17:05:21 UTC 2009",
+ "overview": "\u003Cp\u003EDifferent from any Twitter app in the same category, Tweetboard runs on your site rather than being a \u0026#34;destination\u0026#34; site.\u003C/p\u003E\n\n\u003Cp\u003EIt creates a more meaningful Twitter by reformatting tweets into threaded conversations, with unlimited nesting.\u003C/p\u003E\n\n\u003Cp\u003ETweetboard\u0026#39;s biggest value to website owners is that it enables visitors to engage via the app \u003Cem\u003Ewithout leaving your site\u003C/em\u003E. This has various benefits:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003E\u003Cp\u003EIntroduces your site visitors to what you are doing on Twitter\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EKeeps your site visitors on your site\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EHas a viral traffic generating potential proportional to the amount of tweeting conducted via your TB; Every tweet (or reply) posted via the app is pushed to Twitter with a link back to your site. The link back is not a lame attempt at bringing twitter traffic to your site, but a means of providing \u003Cem\u003Econtext\u003C/em\u003E to the conversation: Parent tweets are appended with a http://posted.at/XXX link, while replies are appended with http://inreply.to/XXX (Friendfeed uses this approach with http://ff.im/XXX, as well as Disqus, with http://disq.us/XXX - none provide context with the link itself, as TB does.)\u003C/p\u003E\u003C/li\u003E\n\u003C/ol\u003E",
+ "image":
+  {"available_sizes":
+    [[[61,
+       150],
+      "assets/images/resized/0005/1041/51041v3-max-150x150.jpg"],
+     [[103,
+       250],
+      "assets/images/resized/0005/1041/51041v3-max-250x250.jpg"],
+     [[165,
+       400],
+      "assets/images/resized/0005/1041/51041v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Tweetboard",
+    "permalink": "tweetboard",
+    "image":
+     {"available_sizes":
+       [[[150,
+          22],
+         "assets/images/resized/0005/1042/51042v3-max-150x150.png"],
+        [[235,
+          35],
+         "assets/images/resized/0005/1042/51042v3-max-250x250.png"],
+        [[235,
+          35],
+         "assets/images/resized/0005/1042/51042v3-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Social Media Specialist, Software Architect",
+    "person":
+     {"first_name": "Matias",
+      "last_name": "Paterlini",
+      "permalink": "matias-paterlini",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0005/4239/54239v2-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0005/4239/54239v2-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0005/4239/54239v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Quotably",
+      "permalink": "quotably",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6260/16260v1-max-150x150.png"],
+          [[218,
+            95],
+           "assets/images/resized/0001/6260/16260v1-max-250x250.png"],
+          [[218,
+            95],
+           "assets/images/resized/0001/6260/16260v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "tweetree",
+      "permalink": "tweetree",
+      "image": null}},
+   {"competitor":
+     {"name": "Tweetizen",
+      "permalink": "tweetizen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            104],
+           "assets/images/resized/0003/8105/38105v2-max-150x150.png"],
+          [[250,
+            173],
+           "assets/images/resized/0003/8105/38105v2-max-250x250.png"],
+          [[432,
+            300],
+           "assets/images/resized/0003/8105/38105v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twibs",
+      "permalink": "twibs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0003/7540/37540v2-max-150x150.png"],
+          [[150,
+            60],
+           "assets/images/resized/0003/7540/37540v2-max-250x250.png"],
+          [[150,
+            60],
+           "assets/images/resized/0003/7540/37540v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tweetboard",
+    "address1": "257 Calle Aduana #145",
+    "address2": "",
+    "zip_code": "00682",
+    "city": "Mayaguez",
+    "state_code": null,
+    "country_code": "PRI",
+    "latitude": 18.2066344,
+    "longitude": -67.1517568}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

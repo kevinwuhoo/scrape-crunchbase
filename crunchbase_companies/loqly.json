@@ -1,0 +1,113 @@
+{"name": "Loqly",
+ "permalink": "loqly",
+ "crunchbase_url": "http://www.crunchbase.com/company/loqly",
+ "homepage_url": "http://loqly.me",
+ "blog_url": "http://blog.loqly.me",
+ "blog_feed_url": "http://blog.loqly.me/rss",
+ "twitter_username": "loqly",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "location-qa, local-business-recommendations, local-business-qa, local-search, local-reviews",
+ "alias_list": null,
+ "email_address": "nishant@loqly.me",
+ "phone_number": "4698787103",
+ "description": "Q\u0026A around Locations \u0026 Local Businesses",
+ "created_at": "Wed Feb 02 17:24:56 UTC 2011",
+ "updated_at": "Wed Jul 20 18:23:54 UTC 2011",
+ "overview": "\u003Cp\u003ELoqly is a location based social Q\u0026amp;A service focussed on local businesses. Ask for business recommendations around you. Ask questions about local businesses. Receive answers from other locals in real-time.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0012/0338/120338v4-max-150x150.png"],
+     [[174,
+       71],
+      "assets/images/resized/0012/0338/120338v4-max-250x250.png"],
+     [[174,
+       71],
+      "assets/images/resized/0012/0338/120338v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Nishant",
+      "last_name": "Pant",
+      "permalink": "nishant-pant",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kapil",
+      "last_name": "Israni",
+      "permalink": "kapil-israni",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mahesh",
+      "last_name": "Chaddah",
+      "permalink": "mahesh-chaddah",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hipster",
+      "permalink": "hipster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0011/6921/116921v5-max-150x150.jpg"],
+          [[250,
+            98],
+           "assets/images/resized/0011/6921/116921v5-max-250x250.jpg"],
+          [[450,
+            176],
+           "assets/images/resized/0011/6921/116921v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Dallas Office",
+    "address1": "8714 Falls Rd",
+    "address2": "",
+    "zip_code": "75063",
+    "city": "Irving",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe title=\"YouTube video player\" width=\"480\" height=\"390\" src=\"http://www.youtube.com/embed/h4Ho8CbcRUQ\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ELoqly Business Referrals\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.facebook.com/pages/Loqly-locally/162891223747731",
+    "title": "Facebook Fan Page"},
+   {"external_url": "http://bit.ly/geT0U7",
+    "title": "Previous Techcrunch Coverage"},
+   {"external_url": "http://blog.loqly.me",
+    "title": "Our Blog"},
+   {"external_url": "http://twitter.com/loqly",
+    "title": "Follow us on Twitter"}]}

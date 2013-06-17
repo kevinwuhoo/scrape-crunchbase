@@ -1,0 +1,105 @@
+{"name": "XenForo",
+ "permalink": "xenforo",
+ "crunchbase_url": "http://www.crunchbase.com/company/xenforo",
+ "homepage_url": "http://xenforo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "XenForo",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "forum, bulletin-board-bbs",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Compelling community forum software",
+ "created_at": "Mon Oct 11 01:48:25 UTC 2010",
+ "updated_at": "Mon Oct 25 18:38:41 UTC 2010",
+ "overview": "\u003Cp\u003EXenForo Ltd. produces user-oriented forum software on a highly flexible, extensible object-oriented framework.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0010/5014/105014v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0010/5014/105014v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0010/5014/105014v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director, developer",
+    "person":
+     {"first_name": "Kier",
+      "last_name": "Darby",
+      "permalink": "kier-darby",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, business manager",
+    "person":
+     {"first_name": "Ashley",
+      "last_name": "Busby",
+      "permalink": "ashley-busby",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, developer",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Sullivan",
+      "permalink": "michael-sullivan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        134],
+       "assets/images/resized/0010/5012/105012v2-max-150x150.png"],
+      [[250,
+        224],
+       "assets/images/resized/0010/5012/105012v2-max-250x250.png"],
+      [[450,
+        404],
+       "assets/images/resized/0010/5012/105012v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        136],
+       "assets/images/resized/0010/5013/105013v2-max-150x150.png"],
+      [[250,
+        227],
+       "assets/images/resized/0010/5013/105013v2-max-250x250.png"],
+      [[450,
+        408],
+       "assets/images/resized/0010/5013/105013v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://xenfans.com/threads/134/",
+    "title": "Interview with XenForo"}]}

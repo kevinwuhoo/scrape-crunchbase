@@ -1,0 +1,136 @@
+{"name": "iOpus",
+ "permalink": "iopus",
+ "crunchbase_url": "http://www.crunchbase.com/company/iopus",
+ "homepage_url": "http://www.iopus.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "iMacros",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "chrome, internet-explorer, ie, firefox, addon, extension, web-automation, scripting, web-testing, web-scraping, form-filling",
+ "alias_list": "",
+ "email_address": "info@iopus.com",
+ "phone_number": "+4962278418694",
+ "description": "iMacros - THE Web Browser Automation Too",
+ "created_at": "Wed Jul 28 21:21:19 UTC 2010",
+ "updated_at": "Tue Apr 09 13:28:57 UTC 2013",
+ "overview": "\u003Cp\u003EUse iMacros\u00c2\u00ae to create solutions for web automation, web scraping or web testing in just five minutes.\u003C/p\u003E\n\n\u003Cp\u003EiOpus is a privately held widely-recognized global provider of web automation, data extraction and web testing solutions. Every day, millions of Internet macros run all over the world using iOpus\u0026#8217; iMacros products.\u003C/p\u003E\n\n\u003Cp\u003EiMacros lets you record and replay repetitious work. iMacros programmatically interacts with any and all websites. It fills out forms and automates the download and upload of text, images, files and web pages. You can import or export data to and from web applications using CSV \u0026amp; XML files, databases, or any other source. iMacros includes support for PDF handling, taking screenshots, simulating different user agents and connecting to proxy servers. It is the only web automation software that works with every website. \u003C/p\u003E\n\n\u003Cp\u003EThe iMacros Scripting Interface gives you full programmatic control over the web browser, so even the most complex tasks can be scripted. It can be used with all scripting or programming languages. There is no awkward vendor-specific scripting language to learn. You can even ship iMacros with your application. The Scripting Edition comes with a special redistribution license without royalty fees.\u003C/p\u003E\n\n\u003Cp\u003EiMacros family:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003EiMacros Browser \u003C/li\u003E\n\u003Cli\u003EiMacros for Internet Explorer\u003C/li\u003E\n\u003Cli\u003EiMacros for Firefox\u003C/li\u003E\n\u003Cli\u003EiMacros for Chrome\u003C/li\u003E\n\u003Cli\u003EiMacros for Safari (available soon)\u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003EiMacros is the Web\u0026#8217;s new workhorse!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0009/5274/95274v2-max-150x150.png"],
+     [[173,
+       39],
+      "assets/images/resized/0009/5274/95274v2-max-250x250.png"],
+     [[173,
+       39],
+      "assets/images/resized/0009/5274/95274v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ann",
+      "last_name": "Do",
+      "permalink": "ann-do",
+      "image": null}},
+   {"is_past": true,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Mathias",
+      "last_name": "Roth",
+      "permalink": "mathias-roth",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0026/2545/262545v1-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0026/2545/262545v1-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0026/2545/262545v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Kapow Software",
+      "permalink": "kapow-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0001/4931/14931v5-max-150x150.jpg"],
+          [[250,
+            87],
+           "assets/images/resized/0001/4931/14931v5-max-250x250.jpg"],
+          [[300,
+            105],
+           "assets/images/resized/0001/4931/14931v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HP Software",
+      "permalink": "hp-software",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://finance.yahoo.com/news/ipswitchs-network-management-division-acquires-140000864.html",
+   "source_description": "Ipswitch's Network Management Division Acquires iOpus Software",
+   "acquired_year": 2012,
+   "acquired_month": 4,
+   "acquired_day": 25,
+   "acquiring_company":
+    {"name": "Ipswitch",
+     "permalink": "ipswitch",
+     "image":
+      {"available_sizes":
+        [[[125,
+           74],
+          "assets/images/resized/0004/7366/47366v5-max-150x150.jpg"],
+         [[125,
+           74],
+          "assets/images/resized/0004/7366/47366v5-max-250x250.jpg"],
+         [[125,
+           74],
+          "assets/images/resized/0004/7366/47366v5-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "PF 1343",
+    "address2": "",
+    "zip_code": "69184",
+    "city": "Walldorf",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,64 @@
+{"name": "WebGL",
+ "permalink": "webgl",
+ "crunchbase_url": "http://www.crunchbase.com/company/webgl",
+ "homepage_url": "http://www.khronos.org/webgl/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "khronos-group, web-standards, open-standard, graphics, dynamic-media, browsers, 3d-graphics, javascript",
+ "alias_list": "Khronos",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Web-based Graphics Library",
+ "created_at": "Thu Apr 07 01:41:13 UTC 2011",
+ "updated_at": "Thu Apr 07 01:42:37 UTC 2011",
+ "overview": "\u003Cp\u003EWebGL is a cross-platform, royalty-free web standard for a low-level 3D graphics API based on OpenGL ES 2.0, exposed through the HTML5 Canvas element as Document Object Model interfaces. It extends the capability of the JavaScript programming language to allow it to generate interactive 3D graphics within any compatible web browser. Major browser vendors Apple (Safari), Google (Chrome), Mozilla (Firefox), and Opera (Opera) are members of the WebGL Working Group.\u003C/p\u003E\n\n\u003Cp\u003EWebGL is a context of the canvas HTML element that provides a 3D computer graphics API without the use of plug-ins. The specification was released as version 1.0 on March 3, 2011. \u003C/p\u003E\n\n\u003Cp\u003EWebGL is managed by the non-profit Khronos Group. The WebGL working group includes Apple, Google, Mozilla, and Opera.\u003C/p\u003E\n\n\u003Cp\u003EWebGL grew out of the Canvas 3D experiments started by Vladimir Vuki\u00c4\u2021evi\u00c4\u2021 at Mozilla. Vuki\u00c4\u2021evi\u00c4\u2021 first demonstrated a Canvas 3D prototype in 2006. By the end of 2007, both Mozilla and Opera had made their own separate implementations. In early 2009 Mozilla and Khronos started the WebGL Working Group.\u003C/p\u003E\n\n\u003Cp\u003ENotable early applications include the Google body browser.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       69],
+      "assets/images/resized/0012/9550/129550v1-max-150x150.png"],
+     [[163,
+       75],
+      "assets/images/resized/0012/9550/129550v1-max-250x250.png"],
+     [[163,
+       75],
+      "assets/images/resized/0012/9550/129550v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "https://www.khronos.org/registry/webgl/specs/1.0/",
+    "title": "WebGL Specifications"}]}

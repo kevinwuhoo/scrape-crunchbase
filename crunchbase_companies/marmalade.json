@@ -1,0 +1,96 @@
+{"name": "Marmalade",
+ "permalink": "marmalade",
+ "crunchbase_url": "http://www.crunchbase.com/company/marmalade",
+ "homepage_url": "http://madewithmarmalade.com",
+ "blog_url": "http://www.madewithmarmalade.com/aboutus/blog/new-cross-platform",
+ "blog_feed_url": "http://www.madewithmarmalade.com/latestnews/feed",
+ "twitter_username": "marmaladeapps",
+ "category_code": "software",
+ "number_of_employees": 71,
+ "founded_year": 1998,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software, cross-platform, mobile, apps, native",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Native cross platform app development",
+ "created_at": "Wed Jun 22 10:34:05 UTC 2011",
+ "updated_at": "Thu Jun 23 17:22:43 UTC 2011",
+ "overview": "\u003Cp\u003EMarmalade makes software that lets developers build and distribute cross-platform applications quickly, easily and without compromise.\u003C/p\u003E\n\n\u003Cp\u003EOur true cross-platform technology provides the best performance and the best portability - and all within the industry\u00e2\u20ac\u2122s most open and flexible development environment.\u003C/p\u003E\n\n\u003Cp\u003EThat\u00e2\u20ac\u2122s why tens of thousands of the world\u00e2\u20ac\u2122s leading developers use Marmalade. Leading publishers including Electronic Arts, Square Enix and Konami; OEMs such as Samsung, LG and RIM; operators like Korea Telecom; processor platforms like ARM; apps developers like Gameshastra, RoadPilot, WorkSnug, Playsoft and NaturalMotion, as well as thousands of indies all know that the richest cross-platform applications are made with Marmalade.\u003C/p\u003E\n\n\u003Cp\u003EMarmalade is a trading name of Ideaworks3D Limited, which was originally founded in 1998. The unique technology behind the Marmalade SDK was developed between 2005 and 2008 and battle tested through the development and deployment of high profile games such as Metal Gear Solid, Final Fantasy, Need for Speed and Resident Evil to mobile devices. The SDK was launched as \u00e2\u20ac\u02dcAirplay SDK\u00e2\u20ac\u2122 in late 2009, before becoming Marmalade in June 2011.\u003C/p\u003E\n\n\u003Cp\u003EMarmalade has a team with an unparalleled track record in high performance mobile and cross-platform development. We believe that more platforms should mean more possibilities, not more compromises. That\u00e2\u20ac\u2122s what developing with Marmalade is all about.\u003C/p\u003E\n\n\u003Cp\u003EMarmalade is a trading name of Ideaworks3D Limited, a privately held company. Shareholders include private investors, board members, management, staff and ARM Holdings plc (Nasdaq: ARMH). ARM has been an active investor since 2009 and is a minority shareholder. Ideaworks Game Studio is a separate division of Ideaworks3D.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       100],
+      "assets/images/resized/0014/0446/140446v2-max-150x150.png"],
+     [[100,
+       100],
+      "assets/images/resized/0014/0446/140446v2-max-250x250.png"],
+     [[100,
+       100],
+      "assets/images/resized/0014/0446/140446v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Niall",
+      "last_name": "Murphy",
+      "permalink": "niall-murphy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0006/5212/65212v2-max-150x150.jpg"],
+          [[214,
+            142],
+           "assets/images/resized/0006/5212/65212v2-max-250x250.jpg"],
+          [[214,
+            142],
+           "assets/images/resized/0006/5212/65212v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Caccia",
+      "permalink": "alex-caccia",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London",
+    "address1": "31 St Petersburgh Place",
+    "address2": "",
+    "zip_code": "WC2 4LA",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "    \u003Cscript src='/sites/all/themes/marmalade/video/video2/swfobject.js' \r\ntype='text/javascript'\u003E\u003C/script\u003E\r\n    \u003Cscript type='text/javascript'\u003E\r\n        // vidWidth and vidHeight are optional. they must be integers, but are actually treated as ratios. so for a 4:3 video, you could put vidWidth:4, vidHeight:3\r\n        // remember alternate content for youtube iframe\r\n        var flashvars = {\r\n            file: \r\n'http://www.madewithmarmalade.com/sites/all/themes/marmalade/video/video2/flv/Marmalade.flv',\r\n            vidWidth: 550,\r\n            vidHeight: 309\r\n        };\r\n        var params = {\r\n            menu: 'false',\r\n            scale: 'noScale',\r\n            allowFullscreen: 'false',\r\n            allowScriptAccess: 'always',\r\n            bgcolor: '#ffffff'\r\n        };\r\n        var attributes = {\r\n            id:'Loader'\r\n        };\r\n       \r\n swfobject.embedSWF('http://www.madewithmarmalade.com/sites/all/themes/marmalade/video/video2/marmaladevideo.swf',\r\n'altContent', '550', '309', '10.0.0', 'expressInstall.swf', flashvars, params, attributes);\r\n    \u003C/script\u003E\r\n    \u003Cdiv id='altContent'\u003E\r\n        \u003Ciframe width='550' height='309' \r\nsrc='http://www.youtube.com/embed/x_iYsy15GK8' frameborder='0' \r\nallowfullscreen\u003E\u003C/iframe\u003E\r\n    \u003C/div\u003E\r\n",
+    "description": "\u003Cp\u003EWhat is Marmalade? \u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

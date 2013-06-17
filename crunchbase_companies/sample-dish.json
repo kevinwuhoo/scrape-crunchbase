@@ -1,0 +1,91 @@
+{"name": "Sample Dish",
+ "permalink": "sample-dish",
+ "crunchbase_url": "http://www.crunchbase.com/company/sample-dish",
+ "homepage_url": "http://sampledish.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "sampledish",
+ "category_code": "ecommerce",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "shopping, fashion, shopping-community, ecommerce, flash-sales",
+ "alias_list": null,
+ "email_address": "brett@sampledish.com",
+ "phone_number": "",
+ "description": "Designer Sample Sale Aggregator",
+ "created_at": "Sat May 29 01:34:49 UTC 2010",
+ "updated_at": "Tue Jun 01 00:07:34 UTC 2010",
+ "overview": "\u003Cp\u003ESample Dish helps people find the styles they want from the sites they love.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0008/8901/88901v2-max-150x150.png"],
+     [[250,
+       67],
+      "assets/images/resized/0008/8901/88901v2-max-250x250.png"],
+     [[281,
+       76],
+      "assets/images/resized/0008/8901/88901v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Brett",
+      "last_name": "Adams",
+      "permalink": "brett-adams",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MyNines",
+      "permalink": "mynines",
+      "image":
+       {"available_sizes":
+         [[[114,
+            90],
+           "assets/images/resized/0007/9555/79555v1-max-150x150.jpg"],
+          [[114,
+            90],
+           "assets/images/resized/0007/9555/79555v1-max-250x250.jpg"],
+          [[114,
+            90],
+           "assets/images/resized/0007/9555/79555v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "10024",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

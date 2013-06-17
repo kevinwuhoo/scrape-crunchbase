@@ -1,0 +1,127 @@
+{"name": "c-crowd",
+ "permalink": "c-crowd",
+ "crunchbase_url": "http://www.crunchbase.com/company/c-crowd",
+ "homepage_url": "http://www.c-crowd.com",
+ "blog_url": "http://www.crowdfunding.ch",
+ "blog_feed_url": "http://crowdfunding.c-crowd.com/?feed=rss2",
+ "twitter_username": "ccrowd",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "crowdfunding service",
+ "created_at": "Thu Dec 23 16:39:55 UTC 2010",
+ "updated_at": "Tue May 03 20:38:01 UTC 2011",
+ "overview": "\u003Cp\u003Ec-crowd.com is a new online fundraising and crowdfunding platform for entrepreneurs, charities and artists.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       145],
+      "assets/images/resized/0011/6025/116025v2-max-150x150.jpg"],
+     [[176,
+       171],
+      "assets/images/resized/0011/6025/116025v2-max-250x250.jpg"],
+     [[176,
+       171],
+      "assets/images/resized/0011/6025/116025v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "founding partner",
+    "person":
+     {"first_name": "Marc P.",
+      "last_name": "Bernegger",
+      "permalink": "marc-p-bernegger",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0005/5613/55613v4-max-150x150.jpg"],
+          [[167,
+            250],
+           "assets/images/resized/0005/5613/55613v4-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0005/5613/55613v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "foundung partner",
+    "person":
+     {"first_name": "Oliver",
+      "last_name": "Rappold",
+      "permalink": "oliver-rappold",
+      "image": null}},
+   {"is_past": false,
+    "title": "founding partner",
+    "person":
+     {"first_name": "Phil",
+      "last_name": "Steinberger",
+      "permalink": "phil-steinberger",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://crowdfunding.c-crowd.com/?p=223",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 3,
+    "funded_day": 20,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Centralway",
+         "permalink": "centralway-holding-ag",
+         "image":
+          {"available_sizes":
+            [[[120,
+               150],
+              "assets/images/resized/0003/3504/33504v5-max-150x150.jpg"],
+             [[200,
+               250],
+              "assets/images/resized/0003/3504/33504v5-max-250x250.jpg"],
+             [[360,
+               450],
+              "assets/images/resized/0003/3504/33504v5-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Torgasse 3",
+    "address2": "",
+    "zip_code": "8001",
+    "city": "Zurich",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

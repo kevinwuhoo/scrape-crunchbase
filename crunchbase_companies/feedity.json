@@ -1,0 +1,94 @@
+{"name": "Feedity",
+ "permalink": "feedity",
+ "crunchbase_url": "http://www.crunchbase.com/company/feedity",
+ "homepage_url": "http://feedity.com",
+ "blog_url": "http://blog.feedity.com/",
+ "blog_feed_url": "http://blog.feedity.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rss, feed, xml, atom, mashup, pipes, syndication, data, aggregation, social, newsreader, pipeline",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "NA",
+ "description": null,
+ "created_at": "Tue Jun 24 00:56:35 UTC 2008",
+ "updated_at": "Mon Dec 07 17:19:29 UTC 2009",
+ "overview": "\u003Cp\u003EFeedity is a web-based service that generates RSS web feeds for web pages without a web syndication format.\u003C/p\u003E\n\n\u003Cp\u003EWith Feedity you can create an RSS feed for virtually any webpage. Feedity allows feed subscribers, webmasters, organizations, and developers to seamlessly interact with web content. Feedity will take virtually any web page, and convert it into a fully formed RSS document.\u003C/p\u003E\n\n\u003Cp\u003EFeedity aims to make it easy and possible for anyone to extract and reuse content from any website. By doing so, we hope to allow others to realize their creativity, and implement new exciting services \u0026amp; applications.\u003C/p\u003E\n\n\u003Cp\u003EWith Feedity you can instantly track and monitor web site changes at a page level. Just create an RSS feed for the web page, and subscribe it in any RSS newsreader (on the web, in a desktop software, or via e-mail).\u003C/p\u003E\n\n\u003Cp\u003EFeedity also provides for a quick and simple way to build a data mashup \u0026#8220;pipeline\u0026#8221; using Yahoo Pipes. Have a look at the Webpage-to-RSS pipe.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       71],
+      "assets/images/resized/0002/0949/20949v1-max-150x150.png"],
+     [[191,
+       91],
+      "assets/images/resized/0002/0949/20949v1-max-250x250.png"],
+     [[191,
+       91],
+      "assets/images/resized/0002/0949/20949v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Dapper",
+      "permalink": "dapper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2506/2506v1-max-150x150.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/2506/2506v1-max-250x250.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/2506/2506v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "3000",
+    "city": "Melbourne",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -37.813339,
+    "longitude": 144.970823}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.feedity.com/2009/12/05/top-international-web-products-of-2009/",
+    "title": "Top International Web Products of 2009"},
+   {"external_url": "http://blog.feedity.com/2008/06/19/top-australian-web-20-application/",
+    "title": "Top Australian Web 2.0 Application"},
+   {"external_url": "http://www.networkworld.com/newsletters/web/2007/0723web2.html",
+    "title": "Feeds from any Web - Network World"},
+   {"external_url": "http://www.afeedisborn.com/feedity-hassle-free-rss-generation/",
+    "title": "Hassle Free RSS Generation"},
+   {"external_url": "http://www.usefultools.com/2009/06/rss-feeds-from-any-website/",
+    "title": "RSS Feeds From Any Website"}]}

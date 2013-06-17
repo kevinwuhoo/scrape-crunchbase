@@ -1,0 +1,132 @@
+{"name": "MacHeist",
+ "permalink": "macheist",
+ "crunchbase_url": "http://www.crunchbase.com/company/macheist",
+ "homepage_url": "http://macheist.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "macheist",
+ "category_code": "software",
+ "number_of_employees": 12,
+ "founded_year": 2006,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mac, software, promotions, deals, group-buying, apple, ios, iphone, app-store, shareware, charity",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Social Software Promotion",
+ "created_at": "Sat Oct 17 21:37:36 UTC 2009",
+ "updated_at": "Wed Jun 01 15:38:03 UTC 2011",
+ "overview": "\u003Cp\u003EMacHeist is a software promotion company best known for its Mac software bundles that are promoted and sold each year in numbered events. MacHeist 3 sold over 175,000 bundles and raised over a million dollars for charity. The company recently entered the iOS space with \u0026#8220;The Heist\u0026#8221;, a puzzle game for iPhone that introduces iPhone gamers to the brand and concept of unlocking software as prizes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0013/6962/136962v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0013/6962/136962v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0013/6962/136962v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "The Heist",
+    "permalink": "the-heist",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Meinzer",
+      "permalink": "scott-meinzer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Phillip",
+      "last_name": "Ryu",
+      "permalink": "phillip-ryu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/5264/255264v1-max-150x150.jpg"],
+          [[179,
+            179],
+           "assets/images/resized/0025/5264/255264v1-max-250x250.jpg"],
+          [[179,
+            179],
+           "assets/images/resized/0025/5264/255264v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Casasanta",
+      "permalink": "john-casasanta",
+      "image": null}},
+   {"is_past": true,
+    "title": "Developer Relations",
+    "person":
+     {"first_name": "Jordan",
+      "last_name": "Satok",
+      "permalink": "jordan-satok",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0007/4596/74596v2-max-150x150.png"],
+          [[80,
+            80],
+           "assets/images/resized/0007/4596/74596v2-max-250x250.png"],
+          [[80,
+            80],
+           "assets/images/resized/0007/4596/74596v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Humble Bundle",
+      "permalink": "humble-bundle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0011/5200/115200v4-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0011/5200/115200v4-max-250x250.png"],
+          [[450,
+            111],
+           "assets/images/resized/0011/5200/115200v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Steam",
+      "permalink": "steam",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

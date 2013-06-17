@@ -1,0 +1,69 @@
+{"name": "Zillians",
+ "permalink": "zillians",
+ "crunchbase_url": "http://www.crunchbase.com/company/zillians",
+ "homepage_url": "http://www.zillians.com",
+ "blog_url": "http://www.zillians.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "zillians",
+ "category_code": "software",
+ "number_of_employees": 11,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-computing, paas, platform-as-a-service, parallel-computing, gpu-virtualization, high-performance-computing",
+ "alias_list": null,
+ "email_address": "support@zillians.com",
+ "phone_number": "+886-2-2912-6561",
+ "description": "Zillians, the GPU Cloud Company",
+ "created_at": "Fri Nov 25 13:43:44 UTC 2011",
+ "updated_at": "Sun Nov 27 02:45:29 UTC 2011",
+ "overview": "\u003Cp\u003EZillians, founded in late 2008, is the cloud computing solution provider who specializes in GPU computing and platform technologies and builds next-generation cloud architectures to support computation-intensive real-time applications based on HPC technologies.\u003C/p\u003E\n\n\u003Cp\u003EZillians provides GPU virtualization solution for cloud service providers, researchers, and computing centers  to deploy GPU cluster with flexible configurations. \u003C/p\u003E\n\n\u003Cp\u003EIn addition, Zillians also built an scale-out massive multiplayer online game platform as a service for anyone who wants to develop and operate mobile/PC/web online game, and it\u0026#8217;s free and open source.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mu",
+      "last_name": "Chi Sung",
+      "permalink": "mu-chi-sung",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Taiwan",
+    "address1": "4F, No.42-1, Minquan Rd, Xindian District",
+    "address2": "",
+    "zip_code": "231",
+    "city": "New Taipei City",
+    "state_code": null,
+    "country_code": "TWN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.zillians.com/vgpu",
+    "title": "V-GPU: GPU Virtualization"},
+   {"external_url": "http://www.zillians.com/supercell",
+    "title": "Supercell: Ultimate Massive Multiplayer Online Game Cloud"}]}

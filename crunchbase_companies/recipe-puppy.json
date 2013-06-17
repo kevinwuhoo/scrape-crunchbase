@@ -1,0 +1,98 @@
+{"name": "Recipe Puppy",
+ "permalink": "recipe-puppy",
+ "crunchbase_url": "http://www.crunchbase.com/company/recipe-puppy",
+ "homepage_url": "http://www.recipepuppy.com",
+ "blog_url": "http://twitter.com/recipepuppy/",
+ "blog_feed_url": "http://twitter.com/statuses/user_timeline/19213943.rss",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, recipes, food",
+ "alias_list": null,
+ "email_address": "kbrower@recipepuppy.com",
+ "phone_number": "",
+ "description": "Recipe Search Engine",
+ "created_at": "Mon Apr 20 12:56:42 UTC 2009",
+ "updated_at": "Fri Oct 02 00:03:35 UTC 2009",
+ "overview": "\u003Cp\u003ERecipe Puppy(http://www.recipepuppy.com) is a recipe search engine.  Unlike other recipe search engines, it can search for recipes by ingredients and keywords concurrently, and it allows for specify ingredients you don\u0026#8217;t want in the recipe. The results are ordered by the number of matching ingredient, and then by the number of ingredients in the recipe.\u003C/p\u003E\n\n\u003Cp\u003ERecipe Puppy index contains 30 of the biggest recipe websites on the Internet and has over 1,000,000 recipes indexed.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0004/1923/41923v2-max-150x150.png"],
+     [[250,
+       97],
+      "assets/images/resized/0004/1923/41923v2-max-250x250.png"],
+     [[250,
+       97],
+      "assets/images/resized/0004/1923/41923v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "RecipePuppy.com",
+    "permalink": "recipepuppy-com",
+    "image": null},
+   {"name": "CookThing.com",
+    "permalink": "cookthing-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kris",
+      "last_name": "Brower",
+      "permalink": "kris-brower-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "RecipeMatcher",
+      "permalink": "recipematcher",
+      "image":
+       {"available_sizes":
+         [[[150,
+            114],
+           "assets/images/resized/0002/4449/24449v2-max-150x150.jpg"],
+          [[250,
+            190],
+           "assets/images/resized/0002/4449/24449v2-max-250x250.jpg"],
+          [[450,
+            342],
+           "assets/images/resized/0002/4449/24449v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        51],
+       "assets/images/resized/0004/1922/41922v2-max-150x150.jpg"],
+      [[250,
+        85],
+       "assets/images/resized/0004/1922/41922v2-max-250x250.jpg"],
+      [[450,
+        154],
+       "assets/images/resized/0004/1922/41922v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,110 @@
+{"name": "TimeGT",
+ "permalink": "timegt",
+ "crunchbase_url": "http://www.crunchbase.com/company/timegt",
+ "homepage_url": "http://timegt.com",
+ "blog_url": "http://timegt.com/blog",
+ "blog_feed_url": "http://timegt.com/feed/",
+ "twitter_username": "TimeGT",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "time-management, tasks-management, productivity, gtd, covey",
+ "alias_list": "",
+ "email_address": "ak@timegt.com",
+ "phone_number": "+3725222877",
+ "description": "Life and Task Manager",
+ "created_at": "Thu Nov 19 13:49:54 UTC 2009",
+ "updated_at": "Thu Nov 19 19:55:23 UTC 2009",
+ "overview": "\u003Cp\u003ETimeGT is built to make life and tasks handling much easier and more accessible.\u003C/p\u003E\n\n\u003Cp\u003ETimeGT offers numerous ways to organize tasks, ideas and notes. It will suit a wide range of time management techniques used by different people: Getting Things Done by David Allen, important-urgent method by Dwight D. Eisenhower, First Things First by Stephen Covey, and many others.\u003C/p\u003E\n\n\u003Cp\u003ETimeGT runs on JavaVM which means it can be used on Windows, Linux and Mac. The application is extensively optimized to match the user experience of native applications.\u003C/p\u003E\n\n\u003Cp\u003ETimeGT keeps the tasks always up-to-date between any number of user computers. The tasks are mediated through the dedicated secure Sync server.\u003C/p\u003E\n\n\u003Cp\u003ETasks are always protected with strong security algorithms when they travel over the internet (RSA of adequate length is used). Nobody can retrieve the data except the user owning the private key and the password.\u003C/p\u003E\n\n\u003Cp\u003ETimeGT desktop application is available for Free.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[141,
+       50],
+      "assets/images/resized/0006/6826/66826v2-max-150x150.png"],
+     [[141,
+       50],
+      "assets/images/resized/0006/6826/66826v2-max-250x250.png"],
+     [[141,
+       50],
+      "assets/images/resized/0006/6826/66826v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ahti",
+      "last_name": "Kitsik",
+      "permalink": "ahti-kitsik",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "OmniFocus",
+      "permalink": "omnifocus",
+      "image": null}},
+   {"competitor":
+     {"name": "Things",
+      "permalink": "things",
+      "image": null}},
+   {"competitor":
+     {"name": "Remember The Milk",
+      "permalink": "remember-the-milk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/9117/29117v2-max-150x150.png"],
+          [[188,
+            83],
+           "assets/images/resized/0002/9117/29117v2-max-250x250.png"],
+          [[188,
+            83],
+           "assets/images/resized/0002/9117/29117v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Mustamae tee 16",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tallinn",
+    "state_code": null,
+    "country_code": "EST",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/LvVQ3cABT8M\u0026rel=0\u0026color1=0xb1b1b1\u0026color2=0xcfcfcf\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowScriptAccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/LvVQ3cABT8M\u0026rel=0\u0026color1=0xb1b1b1\u0026color2=0xcfcfcf\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EGetting Started with TimeGT\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        52],
+       "assets/images/resized/0006/6825/66825v2-max-150x150.png"],
+      [[250,
+        87],
+       "assets/images/resized/0006/6825/66825v2-max-250x250.png"],
+      [[450,
+        157],
+       "assets/images/resized/0006/6825/66825v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

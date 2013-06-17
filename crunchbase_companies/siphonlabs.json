@@ -1,0 +1,177 @@
+{"name": "SiphonLabs",
+ "permalink": "siphonlabs",
+ "crunchbase_url": "http://www.crunchbase.com/company/siphonlabs",
+ "homepage_url": "http://siphonlabs.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "SiphonLabs",
+ "category_code": "network_hosting",
+ "number_of_employees": 7,
+ "founded_year": 2013,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wordpress, hosting, managed-hosting, cloud, cloud-platform",
+ "alias_list": null,
+ "email_address": "marketing@siphonlabs.com",
+ "phone_number": "",
+ "description": "Premium Managed WordPress Hosting",
+ "created_at": "Thu Apr 04 16:13:36 UTC 2013",
+ "updated_at": "Thu Apr 04 16:31:23 UTC 2013",
+ "overview": "\u003Cp\u003EHigh-Performance Development, Hosting \u0026amp; Management for Creatives\u003C/p\u003E\n\n\u003Cp\u003ESiphonLabs is a high-performance, cloud-based development, hosting and management platform for creatives that is launching from the SoftLayer Catalyst Startup Program. It supports multiple content management software (CMS) platforms and will evolve to include additional CMS and ecommerce solutions that will enable developers, designers and agencies to manage website development across a range of platforms and host live websites for themselves or their clients, all from a single, intuitive dashboard. The SiphonLabs platform simplifies development, maintenance and hosting processes, freeing creatives to focus on what they do best\u2014designing and developing great websites.\u003C/p\u003E\n\n\u003Cp\u003ETwo of the most popular CMS platforms, WordPress and MODX, will be available at launch. An ecommerce solution, potentially Magento, is likely to become the third option, with Drupal and Joomla! following.\u003C/p\u003E\n\n\u003Cp\u003EBuilt around innovative \u201cSiphon\u201d processes, tasks that have traditionally required a reasonable level of technical skill and have taken hours, sometimes days, can now be completed in a fraction of the time, freeing users to focus on their core design and development activities. \u003C/p\u003E\n\n\u003Cp\u003EWhat are the Key Platform Features?\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EOne cloud solution with multiple site-building options.\u003C/li\u003E\n\u003Cli\u003EAbility to launch, clone, move, share and test sites in seconds with the Snapshot feature.\u003C/li\u003E\n\u003Cli\u003E7-day rolling automatic backups for both development and live sites, with access to restores from the dashboard 24/7.\u003C/li\u003E\n\u003Cli\u003ECollaboration with clients and other users by connecting accounts to manage and share cloud sites and development activities.\u003C/li\u003E\n\u003Cli\u003EIntuitive dashboard that reduces complexity to a handful of clicks and is easy to use for all technical levels.\u003C/li\u003E\n\u003Cli\u003EHighly secure, blazingly quick clouds on high-spec infrastructure with hosting options in multiple global datacenters (North America and Europe available at launch).\u003C/li\u003E\n\u003Cli\u003ESoftware-specific support and knowledge available through SiphonLabs \u0026#8220;Cloud Coaches\u0026#8221; (support team).\u003C/li\u003E\n\u003Cli\u003EValue-added services such as domain purchasing, email mailbox purchasing and setup, and SSL certificate purchasing and management, will be introduced later this year.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[141,
+       150],
+      "assets/images/resized/0024/8071/248071v2-max-150x150.jpg"],
+     [[236,
+       250],
+      "assets/images/resized/0024/8071/248071v2-max-250x250.jpg"],
+     [[425,
+       450],
+      "assets/images/resized/0024/8071/248071v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Architect and Co-Founder",
+    "person":
+     {"first_name": "Shaun",
+      "last_name": "McCormick",
+      "permalink": "shaun-mccormick",
+      "image":
+       {"available_sizes":
+         [[[150,
+            121],
+           "assets/images/resized/0025/0827/250827v2-max-150x150.png"],
+          [[250,
+            203],
+           "assets/images/resized/0025/0827/250827v2-max-250x250.png"],
+          [[450,
+            365],
+           "assets/images/resized/0025/0827/250827v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder \u0026 CTO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Marvin",
+      "permalink": "kevin-marvin",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder \u0026 CMO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Bohan-Pitt",
+      "permalink": "james-bohan-pitt",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "WP Engine",
+      "permalink": "wp-engine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0010/4964/104964v6-max-150x150.png"],
+          [[250,
+            93],
+           "assets/images/resized/0010/4964/104964v6-max-250x250.png"],
+          [[450,
+            168],
+           "assets/images/resized/0010/4964/104964v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Page.ly",
+      "permalink": "page-ly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0006/2500/62500v7-max-150x150.png"],
+          [[193,
+            59],
+           "assets/images/resized/0006/2500/62500v7-max-250x250.png"],
+          [[193,
+            59],
+           "assets/images/resized/0006/2500/62500v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Flywheel",
+      "permalink": "flywheel",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0023/1492/231492v2-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0023/1492/231492v2-max-250x250.png"],
+          [[422,
+            122],
+           "assets/images/resized/0023/1492/231492v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HostCo",
+      "permalink": "hostco",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0010/5309/105309v6-max-150x150.png"],
+          [[171,
+            171],
+           "assets/images/resized/0010/5309/105309v6-max-250x250.png"],
+          [[171,
+            171],
+           "assets/images/resized/0010/5309/105309v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ZippyKid",
+      "permalink": "zippykid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0010/4646/104646v4-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0010/4646/104646v4-max-250x250.png"],
+          [[450,
+            132],
+           "assets/images/resized/0010/4646/104646v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "SiphonLabs HQ",
+    "address1": "1333 N Stemmons Fwy",
+    "address2": "Ste 110",
+    "zip_code": "75207",
+    "city": "Dallas",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 32.792413,
+    "longitude": -96.81478}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.prweb.com/releases/SiphonLabs/Launch032013/prweb10585999.htm",
+    "title": "SiphonLabs Launching High-Performance Development, Hosting and Management Platform for Creatives as a Member of the SoftLayer Catalyst Startup Program "}]}

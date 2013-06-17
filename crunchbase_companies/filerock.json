@@ -1,0 +1,155 @@
+{"name": "FileRock",
+ "permalink": "filerock",
+ "crunchbase_url": "http://www.crunchbase.com/company/filerock",
+ "homepage_url": "https://www.filerock.com/",
+ "blog_url": "http://blog.filerock.com/",
+ "blog_feed_url": "http://blog.filerock.com/feed/",
+ "twitter_username": "filerockstorage",
+ "category_code": "network_hosting",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-computing, data, storage, security, backup, file-storage, cloud, open-source, encryption, authentication, audit",
+ "alias_list": null,
+ "email_address": "info@filerock.com",
+ "phone_number": "",
+ "description": "Secure Cloud Storage",
+ "created_at": "Sat Jan 12 17:15:33 UTC 2013",
+ "updated_at": "Mon Mar 04 20:47:17 UTC 2013",
+ "overview": "\u003Cp\u003EFileRock provides cloud storage, with security features such as client-side encryption and integrity check. The storage is available through an open-source desktop client or via web.\u003C/p\u003E\n\n\u003Cp\u003EFileRock describes itself as the only \u0026#8220;completely secure\u0026#8221; solution for cloud storage. It uses zero-knowledge encryption (not even the company can access users\u0026#8217; files), a proprietary algorithm to verify data integrity and it has released the source code to allow for security auditing by users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       72],
+      "assets/images/resized/0022/9437/229437v2-max-150x150.png"],
+     [[250,
+       120],
+      "assets/images/resized/0022/9437/229437v2-max-250x250.png"],
+     [[323,
+       156],
+      "assets/images/resized/0022/9437/229437v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wuala",
+      "permalink": "wuala",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0002/2340/22340v4-max-150x150.png"],
+          [[240,
+            160],
+           "assets/images/resized/0002/2340/22340v4-max-250x250.png"],
+          [[240,
+            160],
+           "assets/images/resized/0002/2340/22340v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SpiderOak",
+      "permalink": "spideroak",
+      "image":
+       {"available_sizes":
+         [[[149,
+            124],
+           "assets/images/resized/0002/3518/23518v1-max-150x150.png"],
+          [[149,
+            124],
+           "assets/images/resized/0002/3518/23518v1-max-250x250.png"],
+          [[149,
+            124],
+           "assets/images/resized/0002/3518/23518v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Box",
+      "permalink": "box",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/3484/3484v3-max-150x150.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-250x250.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        77],
+       "assets/images/resized/0023/0426/230426v2-max-150x150.png"],
+      [[250,
+        128],
+       "assets/images/resized/0023/0426/230426v2-max-250x250.png"],
+      [[450,
+        231],
+       "assets/images/resized/0023/0426/230426v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        108],
+       "assets/images/resized/0023/0427/230427v2-max-150x150.png"],
+      [[250,
+        181],
+       "assets/images/resized/0023/0427/230427v2-max-250x250.png"],
+      [[450,
+        326],
+       "assets/images/resized/0023/0427/230427v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        105],
+       "assets/images/resized/0023/0428/230428v2-max-150x150.png"],
+      [[250,
+        176],
+       "assets/images/resized/0023/0428/230428v2-max-250x250.png"],
+      [[450,
+        317],
+       "assets/images/resized/0023/0428/230428v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://nibletz.com/2013/03/01/italian-startup-filerock-protecting-cloud/",
+    "title": "Italian Startup FileRock, Protecting You In The Cloud"}]}

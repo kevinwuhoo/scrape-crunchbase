@@ -1,0 +1,88 @@
+{"name": "completelyprivatefiles",
+ "permalink": "completelyprivatefiles",
+ "crunchbase_url": "http://www.crunchbase.com/company/completelyprivatefiles",
+ "homepage_url": "",
+ "blog_url": "http://www.completelyprivatefiles.com/blog",
+ "blog_feed_url": "http://www.completelyprivatefiles.com/blog/atom.xml",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "encryption-security-box-net-privacy",
+ "alias_list": "",
+ "email_address": "support@completelyprivatefiles.com",
+ "phone_number": "1-877-608-8988",
+ "description": "File Encryption",
+ "created_at": "Wed Feb 18 03:25:44 UTC 2009",
+ "updated_at": "Sat Jan 14 03:26:42 UTC 2012",
+ "overview": "\u003Cp\u003Ecompletelyprivatefiles.com provides seamless encryption services to end-users and web application providers.\u003C/p\u003E\n\n\u003Cp\u003EOur framework is designed around the separation of encryption key from encrypted data. Our service manages keys and offers encryption services, while data is stored elsewhere, ensuring that no single entity can access both key and data.\u003C/p\u003E\n\n\u003Cp\u003EThe first offering built on top of our framework is an add-on service to Box.net that allows users to seamlessly encrypt and decrypt the files they store on Box.net servers.\u003C/p\u003E\n\n\u003Cp\u003EA second offering is a showcase service that allows users to send an encrypted attachment to any email address, and later decrypt it.\u003C/p\u003E\n\n\u003Cp\u003EAdditional products are in the pipeline, including a RESTful API and integration with additional web applications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       126],
+      "assets/images/resized/0003/6412/36412v6-max-150x150.png"],
+     [[250,
+       210],
+      "assets/images/resized/0003/6412/36412v6-max-250x250.png"],
+     [[402,
+       339],
+      "assets/images/resized/0003/6412/36412v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "James",
+      "last_name": "Robson",
+      "permalink": "james-robson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": " P.O. Box 3114 ",
+    "address2": "",
+    "zip_code": "83653-3114",
+    "city": "Nampa",
+    "state_code": "ID",
+    "country_code": "USA",
+    "latitude": 43.5408,
+    "longitude": -116.5625}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[140,
+        150],
+       "assets/images/resized/0003/6411/36411v2-max-150x150.png"],
+      [[234,
+        250],
+       "assets/images/resized/0003/6411/36411v2-max-250x250.png"],
+      [[373,
+        398],
+       "assets/images/resized/0003/6411/36411v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.completelyprivatefiles.com/learnmore.html",
+    "title": "Learn more"}]}

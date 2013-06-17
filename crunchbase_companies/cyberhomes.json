@@ -1,0 +1,153 @@
+{"name": "Cyberhomes",
+ "permalink": "cyberhomes",
+ "crunchbase_url": "http://www.crunchbase.com/company/cyberhomes",
+ "homepage_url": "http://www.cyberhomes.com",
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "realestate",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": "888-934-3354",
+ "description": null,
+ "created_at": "Tue Nov 13 09:06:45 UTC 2007",
+ "updated_at": "Wed Dec 01 18:20:18 UTC 2010",
+ "overview": "\u003Cp\u003ECyberhomes is another player in the field of online real-estate websites. It is sponsored by Fidelity National Information Services, a provider of automated valuation for lenders and realtors and claims to cover 100 million property listings. Like many other sites, CyberHomes allows homeowners and prospective purchasers to assess the value of particular properties, as well as general market conditions. For any property, you can see a list of comparable homes and how much they sold for. There are also useful heat maps that show housing trends for a given city or region at a glance.\u003C/p\u003E\n\n\u003Cp\u003EOne may wonder what Cyberhomes has to bring to the table in the slew of real-estate websites. Fidelity National Financial has a direct view on every home transaction in the country. Other than the Multiple Listing Service (MLS) that brokers use, any company that wants information on properties sold, home ownership, or mortgage issuance needs to license it from one of two sources: either Fidelity National Financial or First American (Zillow accesses its data from First American). Since CyberHomes has a direct line into the Fidelity National Financial database, it is possible that we will see information updated much faster. MLS listings will be included on the site beginning in 2008.\u003C/p\u003E\n\n\u003Cp\u003ECompetitors include: \u003Ca href=\"http://www.crunchbase.com/company/zillow\" title=\"Zillow\"\u003EZillow\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/trulia\" title=\"Trulia\"\u003ETrulia\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/redfin\" title=\"Redfin\"\u003ERedfin\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/terabitz/\" title=\"Terabitz\"\u003ETerabitz\u003C/a\u003E, and \u003Ca href=\"http://www.realtor.com\" title=\"Realtor.com\" rel=\"nofollow\"\u003ERealtor.com\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0000/1984/1984v3-max-150x150.png"],
+     [[230,
+       50],
+      "assets/images/resized/0000/1984/1984v3-max-250x250.png"],
+     [[230,
+       50],
+      "assets/images/resized/0000/1984/1984v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Cyberhomes",
+    "permalink": "cyberhomes",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO",
+    "person":
+     {"first_name": "Marty",
+      "last_name": "Frame",
+      "permalink": "marty-frame",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Redfin",
+      "permalink": "redfin",
+      "image":
+       {"available_sizes":
+         [[[117,
+            39],
+           "assets/images/resized/0020/4948/204948v1-max-150x150.png"],
+          [[117,
+            39],
+           "assets/images/resized/0020/4948/204948v1-max-250x250.png"],
+          [[117,
+            39],
+           "assets/images/resized/0020/4948/204948v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Terabitz",
+      "permalink": "terabitz",
+      "image":
+       {"available_sizes":
+         [[[136,
+            46],
+           "assets/images/resized/0000/3469/3469v2-max-150x150.jpg"],
+          [[136,
+            46],
+           "assets/images/resized/0000/3469/3469v2-max-250x250.jpg"],
+          [[136,
+            46],
+           "assets/images/resized/0000/3469/3469v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zillow",
+      "permalink": "zillow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/0946/946v7-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0000/0946/946v7-max-250x250.png"],
+          [[400,
+            127],
+           "assets/images/resized/0000/0946/946v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Homesnap",
+      "permalink": "homesnap",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0005/1976/51976v4-max-150x150.jpg"],
+          [[200,
+            52],
+           "assets/images/resized/0005/1976/51976v4-max-250x250.jpg"],
+          [[200,
+            52],
+           "assets/images/resized/0005/1976/51976v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "The Housing Block",
+      "permalink": "the-housing-block",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0009/9164/99164v2-max-150x150.jpg"],
+          [[250,
+            63],
+           "assets/images/resized/0009/9164/99164v2-max-250x250.jpg"],
+          [[435,
+            111],
+           "assets/images/resized/0009/9164/99164v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "601 Riverside Avenue",
+    "address2": null,
+    "zip_code": "32204",
+    "city": "Jacksonville",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": 30.318112,
+    "longitude": -81.674745}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

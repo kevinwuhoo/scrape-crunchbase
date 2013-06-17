@@ -1,0 +1,123 @@
+{"name": "FeedVisor",
+ "permalink": "feedvisor",
+ "crunchbase_url": "http://www.crunchbase.com/company/feedvisor",
+ "homepage_url": "http://feedvisor.com",
+ "blog_url": "http://feedvisor.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "feedvisor",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "repricer, pricing-algorithms, amazon-repricing, amazon-repricer, amazon-repricing-software",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Algorithmic Repricing Platform",
+ "created_at": "Tue Oct 18 23:24:40 UTC 2011",
+ "updated_at": "Thu Jul 05 23:30:51 UTC 2012",
+ "overview": "\u003Cp\u003EFeedvisor is a leading Repricing Solution for E-Commerce Marketplaces with a mission to transfer the complexity of repricing decision from a human to computer algorithms.\u003C/p\u003E\n\n\u003Cp\u003EProfessional retailers selling via Amazon and other marketplaces need to ensure that they are providing competitive prices all around the clock. Feedvisor Repricing Platform enables retailers to fully manage pricing of their inventory to optimize their sales and profit margins. Feedvisor Repricing Software analyzes prices and price changes that retailer\u0026#8217; competitors are charging per product product, and then adjust the retailer\u0026#8217;s inventory prices in a wholly automated way.\u003C/p\u003E\n\n\u003Cp\u003EFeedvisor Amazon Repricer is a web based solution, that means retailers are not required to install anything on their computers.\u003C/p\u003E\n\n\u003Cp\u003EPrior to Feedvisor launch Amazon sellers used to rely on a range of primitive repricing software packages that demanded from sellers to pre-program repricing rules upfront. However while it was sufficient in the early days, this approach started to generate inferior results as Amazon Marketplace platform evolved and became more sophisticated in ranking sellers. In E-Commerce Marketplaces such as Amazon, Buy.com and Sears retailer\u0026#8217;s sales volume tied to retailer\u0026#8217;s ability to hold what is called a BuyBox - a top ranked position among offers for a given product. Each retailer has different rating on each marketplace and the Marketplace grants the BuyBox only to a retailer with optimal combination of seller\u0026#8217; rating and product pricing.\u003C/p\u003E\n\n\u003Cp\u003EFeedvisor Repricing Solution came to enable retailers to manage their operations in an increasingly sophisticated marketplace environments. Based on artificial intelligence computer technology of a kind typically used in financial markets, Feedvisor algorithms learn each and every situation and take the necessary action, emulating a human decision making. For example, Feedvisor Repricer is capable to detect patterns such as price war or on contrary a signal by a competitor to raise prices.\u003C/p\u003E\n\n\u003Cp\u003EFeedvisor highly-scalable cloud-based solution analyzes millions of data points and then applies its unique repricing algorithms in a continuous quest to improve client\u0026#8217;s sales and profit margin. It is not surprising therefore that Feedvisor\u0026#8217;s repricing solution generates an astonishing ROI to its clients on the very first month of use.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[129,
+       48],
+      "assets/images/resized/0016/0537/160537v6-max-150x150.jpg"],
+     [[129,
+       48],
+      "assets/images/resized/0016/0537/160537v6-max-250x250.jpg"],
+     [[129,
+       48],
+      "assets/images/resized/0016/0537/160537v6-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Victor",
+      "last_name": "Rosenman",
+      "permalink": "victor-rosenman",
+      "image": null}},
+   {"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "Yair",
+      "last_name": "Margolin",
+      "permalink": "yair-margolin",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Eyal",
+      "last_name": "Lanxner",
+      "permalink": "eyal-lanxner",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ChannelAdvisor",
+      "permalink": "channeladvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            73],
+           "assets/images/resized/0015/7146/157146v2-max-150x150.jpg"],
+          [[176,
+            86],
+           "assets/images/resized/0015/7146/157146v2-max-250x250.jpg"],
+          [[176,
+            86],
+           "assets/images/resized/0015/7146/157146v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Monsoon Commerce",
+      "permalink": "monsoon-commerce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0012/9551/129551v3-max-150x150.png"],
+          [[250,
+            110],
+           "assets/images/resized/0012/9551/129551v3-max-250x250.png"],
+          [[338,
+            149],
+           "assets/images/resized/0012/9551/129551v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://edition.cnn.com/2011/TECH/web/04/25/amazon.price.algorithm/index.html",
+    "title": "Feedvisor on CNN"},
+   {"external_url": "http://www.killerstartups.com/eCommerce/feedvisor-com-have-competitive-prices",
+    "title": "Feedvisor on KillerStartups"}]}

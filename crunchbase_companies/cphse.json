@@ -1,0 +1,101 @@
+{"name": "CPHSE",
+ "permalink": "cphse",
+ "crunchbase_url": "http://www.crunchbase.com/company/cphse",
+ "homepage_url": "htttp://cphse.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "shipping, big-data, email, cloud, saas",
+ "alias_list": null,
+ "email_address": "jja@cphse.com",
+ "phone_number": "",
+ "description": "Shipping Information Overview Platform",
+ "created_at": "Wed Mar 21 12:31:15 UTC 2012",
+ "updated_at": "Thu Dec 06 08:33:22 UTC 2012",
+ "overview": "\u003Cp\u003EProvides an overview of open vessel and cargo positions, in the shipping industry.\u003C/p\u003E\n\n\u003Cp\u003EThe Shipping industry rely a lot on emails with more or less unstructured information about vessel positions, cargo positions and other types of information, e.g. noon-reports.\u003C/p\u003E\n\n\u003Cp\u003EGoing through literally thousands of e-mails a day, looking for the information you need is very time consuming. CPHSE have started out by building a generic information extraction tool, that can extract the information from pieces of text (emails in this case), and show them to the companies in a new top-down approach.\nInstead of reading hundreds of emails with nearly the same information, the information is grouped together, and you search, navigate and browse through the actual aggregated data, not the emails.\u003C/p\u003E\n\n\u003Cp\u003EGoing forward, the company expects to be able to provide both a Social aspect and a Business Intelligence aspect to from the platform.\u003C/p\u003E\n\n\u003Cp\u003EThe company lease the information extraction technology to other software companies using a SaaS solution. Primarily the companies using this, are from within the shipping industry or mail system collaboration providers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0018/0389/180389v2-max-150x150.png"],
+     [[176,
+       58],
+      "assets/images/resized/0018/0389/180389v2-max-250x250.png"],
+     [[176,
+       58],
+      "assets/images/resized/0018/0389/180389v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Stefan",
+      "last_name": "Avivson",
+      "permalink": "stefan-avivson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            141],
+           "assets/images/resized/0024/5218/245218v2-max-150x150.jpg"],
+          [[250,
+            235],
+           "assets/images/resized/0024/5218/245218v2-max-250x250.jpg"],
+          [[300,
+            283],
+           "assets/images/resized/0024/5218/245218v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        87],
+       "assets/images/resized/0018/1304/181304v2-max-150x150.png"],
+      [[250,
+        146],
+       "assets/images/resized/0018/1304/181304v2-max-250x250.png"],
+      [[450,
+        262],
+       "assets/images/resized/0018/1304/181304v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        106],
+       "assets/images/resized/0018/1305/181305v2-max-150x150.png"],
+      [[250,
+        177],
+       "assets/images/resized/0018/1305/181305v2-max-250x250.png"],
+      [[450,
+        319],
+       "assets/images/resized/0018/1305/181305v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

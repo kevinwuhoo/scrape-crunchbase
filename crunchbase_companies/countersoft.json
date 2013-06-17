@@ -1,0 +1,131 @@
+{"name": "Countersoft",
+ "permalink": "countersoft",
+ "crunchbase_url": "http://www.crunchbase.com/company/countersoft",
+ "homepage_url": "http://www.countersoft.com",
+ "blog_url": "http://www.collectivematters.com/",
+ "blog_feed_url": "http://www.collectivematters.com//feed",
+ "twitter_username": "countersoft",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "project-management, issue-tracking, bug-tracking, scrum-tool, testing",
+ "alias_list": null,
+ "email_address": "sales@countersoft.com",
+ "phone_number": "+44 (0)1753 824000",
+ "description": "Independent software vendor",
+ "created_at": "Thu Apr 01 08:27:30 UTC 2010",
+ "updated_at": "Fri Jul 01 16:58:34 UTC 2011",
+ "overview": "\u003Cp\u003ECountersoft builds a couple of software products.\u003C/p\u003E\n\n\u003Cp\u003EGemini is a project management platform that supports for issue tracking, bug tracking, test management, help desk - all through the web browser.\u003C/p\u003E\n\n\u003Cp\u003EAtlas is a compelling alternative to traditional forums software by also integrating faqs, documentation and videos into a single place for users.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Gemini",
+    "permalink": "gemini",
+    "image":
+     {"available_sizes":
+       [[[64,
+          64],
+         "assets/images/resized/0014/2066/142066v2-max-150x150.jpg"],
+        [[64,
+          64],
+         "assets/images/resized/0014/2066/142066v2-max-250x250.jpg"],
+        [[64,
+          64],
+         "assets/images/resized/0014/2066/142066v2-max-450x450.jpg"]],
+      "attribution": null}},
+   {"name": "Atlas Answer",
+    "permalink": "atlas-answer",
+    "image":
+     {"available_sizes":
+       [[[75,
+          75],
+         "assets/images/resized/0014/2067/142067v2-max-150x150.jpg"],
+        [[75,
+          75],
+         "assets/images/resized/0014/2067/142067v2-max-250x250.jpg"],
+        [[75,
+          75],
+         "assets/images/resized/0014/2067/142067v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Axosoft",
+      "permalink": "axosoft",
+      "image":
+       {"available_sizes":
+         [[[90,
+            40],
+           "assets/images/resized/0001/6932/16932v2-max-150x150.png"],
+          [[90,
+            40],
+           "assets/images/resized/0001/6932/16932v2-max-250x250.png"],
+          [[90,
+            40],
+           "assets/images/resized/0001/6932/16932v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Atlassian",
+      "permalink": "atlassian",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/2854/2854v3-max-150x150.png"],
+          [[250,
+            77],
+           "assets/images/resized/0000/2854/2854v3-max-250x250.png"],
+          [[450,
+            139],
+           "assets/images/resized/0000/2854/2854v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fog Creek Software",
+      "permalink": "fog-creek-software",
+      "image":
+       {"available_sizes":
+         [[[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-150x150.png"],
+          [[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-250x250.png"],
+          [[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "1 Lidstone Court",
+    "address2": "Uxbridge Road",
+    "zip_code": "SL3 6AG",
+    "city": "George Green",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

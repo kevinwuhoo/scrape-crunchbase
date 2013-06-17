@@ -1,0 +1,105 @@
+{"name": "BabbleStream",
+ "permalink": "babblestream",
+ "crunchbase_url": "http://www.crunchbase.com/company/babblestream",
+ "homepage_url": "http://www.babblestream.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 3,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "voip, embeddable, widget, instant-messenger-aggregator",
+ "alias_list": null,
+ "email_address": "info@babblestream.com",
+ "phone_number": "(916) 996-3278",
+ "description": null,
+ "created_at": "Fri Aug 22 17:35:09 UTC 2008",
+ "updated_at": "Sat Sep 06 14:18:56 UTC 2008",
+ "overview": "\u003Cp\u003EWeb-based group voice and text chat solution. \u003C/p\u003E\n\n\u003Cp\u003EBabbleStream has designed an innovative VoIP solution that utilizes an extremely light weight client application (300Kb) and operates on a patent-pending peer-to-peer architecture. Wrapped in Java, this application can be invoked from any browser running Windows OS. \u003C/p\u003E\n\n\u003Cp\u003EThe company is integrating a web-based Instant Message aggregator which will bring to market the first IM aggregator that supports group voice discussions across multiple, disparate IM platforms. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0002/4021/24021v2-max-150x150.png"],
+     [[240,
+       76],
+      "assets/images/resized/0002/4021/24021v2-max-250x250.png"],
+     [[240,
+       76],
+      "assets/images/resized/0002/4021/24021v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "Roger Zimmermann",
+      "permalink": "dr-roger-zimmermann",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Boersma",
+      "permalink": "jon-boersma",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Engineering",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "BJ Seo",
+      "permalink": "dr-bj-seo",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Meebo",
+      "permalink": "meebo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/3436/3436v31-max-150x150.jpg"],
+          [[250,
+            83],
+           "assets/images/resized/0000/3436/3436v31-max-250x250.jpg"],
+          [[250,
+            83],
+           "assets/images/resized/0000/3436/3436v31-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "888 Rathbone Circle",
+    "address2": "",
+    "zip_code": "95630",
+    "city": "Folsom",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 38.650095,
+    "longitude": -121.13924}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

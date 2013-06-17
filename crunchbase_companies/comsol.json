@@ -1,0 +1,88 @@
+{"name": "COMSOL",
+ "permalink": "comsol",
+ "crunchbase_url": "http://www.crunchbase.com/company/comsol",
+ "homepage_url": "http://www.comsol.com",
+ "blog_url": "http://www.comsol.com/blogs/",
+ "blog_feed_url": "http://feeds.feedburner.com/Multiphysics",
+ "twitter_username": "COMSOL_Inc",
+ "category_code": "software",
+ "number_of_employees": 150,
+ "founded_year": 1986,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "multiphysics, fea-software, engineering-software, simulation-software",
+ "alias_list": null,
+ "email_address": "info@comsol.com",
+ "phone_number": "",
+ "description": "COMSOL Multiphysics Software",
+ "created_at": "Wed Apr 21 13:22:04 UTC 2010",
+ "updated_at": "Sun Mar 18 08:23:50 UTC 2012",
+ "overview": "\u003Cp\u003ECOMSOL Multiphysics is a software environment for the modeling and simulation of any physics-based system. A particular strength is its ability to account for multiphysics phenomena. Optional modules add discipline-specific tools for acoustics, chemical engineering, earth science, electromagnetics, heat transfer, MEMS, and structural analysis. COMSOL products are available for the Windows, Linux, and the Macintosh operating systems. Full details about COMSOL Multiphysics and related products are available at www.comsol.com.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0008/4447/84447v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0008/4447/84447v2-max-250x250.jpg"],
+     [[400,
+       400],
+      "assets/images/resized/0008/4447/84447v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "h.c. Svante Littmarck",
+      "permalink": "dr-h-c-svante-littmarck",
+      "image": null}},
+   {"is_past": false,
+    "title": "President and CEO of COMSOL AB",
+    "person":
+     {"first_name": "Mr.",
+      "last_name": "Farhad Saeidi",
+      "permalink": "mr-farhad-saeidi",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Boston Office",
+    "address1": "1 New England Executive Park",
+    "address2": "Suite 350",
+    "zip_code": "01803",
+    "city": "Burlington",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"480\" height=\"385\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/MVkab9w-qO0?fs=1\u0026amp;hl=en_US\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/MVkab9w-qO0?fs=1\u0026amp;hl=en_US\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"480\" height=\"385\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.designworldonline.com/articles/497/Solidworks-Names-COMSOL-Select-Solution-Partner.aspx",
+    "title": "Solidworks Names COMSOL Select Solution Partner"},
+   {"external_url": "http://www.rdmag.com/Tools-And-Technology/2010/04/Software-COMSOL-Multiphysics-COMSOL/",
+    "title": ""}]}

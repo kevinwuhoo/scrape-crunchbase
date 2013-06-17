@@ -1,0 +1,106 @@
+{"name": "Cogniscan",
+ "permalink": "cogniscan",
+ "crunchbase_url": "http://www.crunchbase.com/company/cogniscan",
+ "homepage_url": "http://www.cogniscan.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@cogniscan.com",
+ "phone_number": "(973) 697-5311",
+ "description": "Data Reduction functions",
+ "created_at": "Fri May 07 14:57:37 UTC 2010",
+ "updated_at": "Fri May 07 15:05:24 UTC 2010",
+ "overview": "\u003Cp\u003ECogniScan provides Data Acquisition and Data Reduction functions for use in a variety of EEG/ERP studies. The system supports up to 128 channels utilizing standard, PC based data acquisition interfaces. Data acquired is streamed to specially formatted disk files. Software tools permit evaluation of contact impedance to subject\u0026#8217;s head. A serial interface is supported to coordinate the actions of computers used in the experiments. A marker channel is provided to accurately record stimulus event timing. The data reduction tools help researchers with artifact rejection, epoch windowing, and averaging.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0008/6369/86369v1-max-150x150.png"],
+     [[250,
+       36],
+      "assets/images/resized/0008/6369/86369v1-max-250x250.png"],
+     [[450,
+       64],
+      "assets/images/resized/0008/6369/86369v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 5,
+    "funded_day": 30,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "FIER-Montestrie Capital",
+         "permalink": "fier-montestrie-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               89],
+              "assets/images/resized/0010/2001/102001v1-max-150x150.png"],
+             [[234,
+               139],
+              "assets/images/resized/0010/2001/102001v1-max-250x250.png"],
+             [[234,
+               139],
+              "assets/images/resized/0010/2001/102001v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "2950 Route 23 North",
+    "address2": "",
+    "zip_code": "07435",
+    "city": "Newfoundland",
+    "state_code": "NJ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        101],
+       "assets/images/resized/0008/6370/86370v1-max-150x150.jpg"],
+      [[250,
+        168],
+       "assets/images/resized/0008/6370/86370v1-max-250x250.jpg"],
+      [[450,
+        303],
+       "assets/images/resized/0008/6370/86370v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

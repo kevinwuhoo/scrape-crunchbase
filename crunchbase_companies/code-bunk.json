@@ -1,0 +1,95 @@
+{"name": "Code Bunk",
+ "permalink": "code-bunk",
+ "crunchbase_url": "http://www.crunchbase.com/company/code-bunk",
+ "homepage_url": "http://codebunk.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "codebunk",
+ "category_code": "enterprise",
+ "number_of_employees": 1,
+ "founded_year": 2013,
+ "founded_month": 4,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recruiting, online-interview, collaborative-editor",
+ "alias_list": null,
+ "email_address": "codebunk@gmail.com",
+ "phone_number": "",
+ "description": "Online Interviewing Done Right",
+ "created_at": "Sun Jun 02 16:50:36 UTC 2013",
+ "updated_at": "Fri Jun 14 20:06:26 UTC 2013",
+ "overview": "\u003Cp\u003ECodeBunk provides one platform for the interviewing process: communication tools (mic and camera), editor and compiler are built in the same interface.\u003C/p\u003E\n\n\u003Cp\u003EIt is simple and easy to use. \u003C/p\u003E\n\n\u003Cp\u003EOther products lack compiler and/or communication tool. CodeBunk has all these and more will be added in the days to come\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0027/0310/270310v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0027/0310/270310v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0027/0310/270310v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Creator",
+    "person":
+     {"first_name": "Yousuf",
+      "last_name": "Fauzan",
+      "permalink": "yousuf-fauzan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        73],
+       "assets/images/resized/0027/0308/270308v2-max-150x150.png"],
+      [[250,
+        122],
+       "assets/images/resized/0027/0308/270308v2-max-250x250.png"],
+      [[450,
+        221],
+       "assets/images/resized/0027/0308/270308v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        69],
+       "assets/images/resized/0027/0309/270309v2-max-150x150.png"],
+      [[250,
+        115],
+       "assets/images/resized/0027/0309/270309v2-max-250x250.png"],
+      [[450,
+        208],
+       "assets/images/resized/0027/0309/270309v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.quora.com/Ari-Hershowitz/Posts/Simple-but-powerful-Virtual-Pair-Programming",
+    "title": "Simple, but powerful: Virtual Pair Programming"},
+   {"external_url": "http://antyweb.pl/kompilator-i-edytor-jezykow-programowania-do-wspolpracy-online-z-chatem-audiowideo/",
+    "title": ""},
+   {"external_url": "http://www.nextbigwhat.com/online-interview-collaboration-tool-codebunk-297/",
+    "title": "Interviewing a Geek? Try CodeBunk [Collaborative Code Editor/Compiler Meets Video Chat]"}]}

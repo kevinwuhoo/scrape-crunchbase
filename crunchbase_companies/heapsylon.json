@@ -1,0 +1,147 @@
+{"name": "Heapsylon",
+ "permalink": "heapsylon",
+ "crunchbase_url": "http://www.crunchbase.com/company/heapsylon",
+ "homepage_url": "http://www.heapsylon.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "heapsylon",
+ "category_code": "hardware",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wearable-devices, consumer, health, fitness, wellness, sensors, body-sensing, garments",
+ "alias_list": null,
+ "email_address": "info@heapsylon.com",
+ "phone_number": "",
+ "description": "The garment is the computer",
+ "created_at": "Mon May 20 17:21:34 UTC 2013",
+ "updated_at": "Wed May 29 12:53:29 UTC 2013",
+ "overview": "\u003Cp\u003EHeapsylon is focused on delivering a family of body-sensing devices for the human foot. Our wearable textile sensors capture, monitor and communicate data such as activity type, level and in-footwear pressure to the user. The data is presented and analyzed by an easy-to-use dashboard. Heapsylon products make it more fun and safer to exercise. They may also contribute to prevent certain injuries, and in case of injury or disease they track patient adherence and offloading data.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0026/6797/266797v2-max-150x150.png"],
+     [[250,
+       59],
+      "assets/images/resized/0026/6797/266797v2-max-250x250.png"],
+     [[450,
+       106],
+      "assets/images/resized/0026/6797/266797v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Sensoria Fitness",
+    "permalink": "sensoria-fitness",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Davide",
+      "last_name": "Vigano",
+      "permalink": "davide-vigano",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mario",
+      "last_name": "Esposito",
+      "permalink": "mario-esposito",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Development",
+    "person":
+     {"first_name": "Maurizio",
+      "last_name": "Macagno",
+      "permalink": "maurizio-macagno",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Amiigo",
+      "permalink": "amiigo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0021/5872/215872v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0021/5872/215872v2-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0021/5872/215872v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pebble",
+      "permalink": "pebble",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0018/4980/184980v3-max-150x150.png"],
+          [[250,
+            84],
+           "assets/images/resized/0018/4980/184980v3-max-250x250.png"],
+          [[450,
+            151],
+           "assets/images/resized/0018/4980/184980v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fitbit",
+      "permalink": "fitbit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0002/4083/24083v4-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0002/4083/24083v4-max-250x250.png"],
+          [[450,
+            160],
+           "assets/images/resized/0002/4083/24083v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Redmond WA, USA",
+    "address1": "16225 NE 87th St",
+    "address2": "Suite A-9",
+    "zip_code": "98052",
+    "city": "Redmond",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.6797151,
+    "longitude": -122.1236641}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        31],
+       "assets/images/resized/0026/6803/266803v2-max-150x150.png"],
+      [[250,
+        53],
+       "assets/images/resized/0026/6803/266803v2-max-250x250.png"],
+      [[450,
+        95],
+       "assets/images/resized/0026/6803/266803v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

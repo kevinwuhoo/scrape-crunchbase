@@ -1,0 +1,113 @@
+{"name": "Comedy.com",
+ "permalink": "comedy-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/comedy-com",
+ "homepage_url": "http://www.comedy.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Comedy Portal",
+ "created_at": "Fri Jan 09 05:03:37 UTC 2009",
+ "updated_at": "Tue May 05 06:54:29 UTC 2009",
+ "overview": "\u003Cp\u003ENew portal for amusing content.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0003/3482/33482v1-max-150x150.png"],
+     [[208,
+       92],
+      "assets/images/resized/0003/3482/33482v1-max-250x250.png"],
+     [[208,
+       92],
+      "assets/images/resized/0003/3482/33482v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Director",
+    "person":
+     {"first_name": "Larry",
+      "last_name": "Marcus",
+      "permalink": "larry-marcus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/9750/19750v1-max-150x150.jpg"],
+          [[210,
+            165],
+           "assets/images/resized/0001/9750/19750v1-max-250x250.jpg"],
+          [[210,
+            165],
+           "assets/images/resized/0001/9750/19750v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003E\u003Ca href=\"http://www.waldenvc.com/site/larry.html\" title=\"WaldenVC\" rel=\"nofollow\"\u003EWaldenVC\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://venturebeat.com/2008/02/22/comedycom-launches-with-first-funding-round/",
+    "source_description": "VentureBeat",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2008,
+    "funded_month": 2,
+    "funded_day": 22,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Walden Venture Capital",
+         "permalink": "waldenvc",
+         "image":
+          {"available_sizes":
+            [[[150,
+               50],
+              "assets/images/resized/0001/0773/10773v8-max-150x150.jpg"],
+             [[250,
+               84],
+              "assets/images/resized/0001/0773/10773v8-max-250x250.jpg"],
+             [[450,
+               151],
+              "assets/images/resized/0001/0773/10773v8-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "39 E. Walnut St.",
+    "address2": "",
+    "zip_code": "91103",
+    "city": "Pasadena",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.1494771,
+    "longitude": -118.1497547}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

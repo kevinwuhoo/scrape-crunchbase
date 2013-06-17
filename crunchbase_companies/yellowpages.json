@@ -1,0 +1,214 @@
+{"name": "YellowPages",
+ "permalink": "yellowpages",
+ "crunchbase_url": "http://www.crunchbase.com/company/yellowpages",
+ "homepage_url": "http://yellowpages.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Aug 24 11:35:00 UTC 2007",
+ "updated_at": "Fri Oct 19 03:13:29 UTC 2012",
+ "overview": "\u003Cp\u003EThe traditional Yellow pages, but online.  The service allows you to search local listings for businesses, as well as contacts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0002/2504/22504v3-max-150x150.jpg"],
+     [[250,
+       67],
+      "assets/images/resized/0002/2504/22504v3-max-250x250.jpg"],
+     [[278,
+       75],
+      "assets/images/resized/0002/2504/22504v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Le",
+      "permalink": "alex-le",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GenieTown",
+      "permalink": "genietown",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0001/3028/13028v1-max-150x150.png"],
+          [[212,
+            59],
+           "assets/images/resized/0001/3028/13028v1-max-250x250.png"],
+          [[212,
+            59],
+           "assets/images/resized/0001/3028/13028v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kudzu",
+      "permalink": "kudzu",
+      "image":
+       {"available_sizes":
+         [[[105,
+            93],
+           "assets/images/resized/0001/6668/16668v4-max-150x150.jpg"],
+          [[105,
+            93],
+           "assets/images/resized/0001/6668/16668v4-max-250x250.jpg"],
+          [[105,
+            93],
+           "assets/images/resized/0001/6668/16668v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LocalPrice",
+      "permalink": "localprice",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0002/3232/23232v6-max-150x150.jpg"],
+          [[211,
+            67],
+           "assets/images/resized/0002/3232/23232v6-max-250x250.jpg"],
+          [[211,
+            67],
+           "assets/images/resized/0002/3232/23232v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HelpHive",
+      "permalink": "helphive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0003/1890/31890v2-max-150x150.jpg"],
+          [[250,
+            89],
+           "assets/images/resized/0003/1890/31890v2-max-250x250.jpg"],
+          [[450,
+            161],
+           "assets/images/resized/0003/1890/31890v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "YellowBot",
+      "permalink": "yellowbot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/4309/4309v3-max-150x150.png"],
+          [[215,
+            59],
+           "assets/images/resized/0000/4309/4309v3-max-250x250.png"],
+          [[215,
+            59],
+           "assets/images/resized/0000/4309/4309v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Trusted Opinion",
+      "permalink": "trustedopinion",
+      "image":
+       {"available_sizes":
+         [[[131,
+            150],
+           "assets/images/resized/0000/0976/976v9-max-150x150.jpg"],
+          [[219,
+            250],
+           "assets/images/resized/0000/0976/976v9-max-250x250.jpg"],
+          [[394,
+            450],
+           "assets/images/resized/0000/0976/976v9-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": null,
+   "source_description": null,
+   "acquired_year": 2004,
+   "acquired_month": 11,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "AT\u0026T",
+     "permalink": "at-t",
+     "image":
+      {"available_sizes":
+        [[[150,
+           75],
+          "assets/images/resized/0001/0875/10875v1-max-150x150.png"],
+         [[159,
+           80],
+          "assets/images/resized/0001/0875/10875v1-max-250x250.png"],
+         [[159,
+           80],
+          "assets/images/resized/0001/0875/10875v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "611 N. Brand Blvd.",
+    "address2": "",
+    "zip_code": "91206",
+    "city": "Glendale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.155224,
+    "longitude": -118.255197}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/3715/43715v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0004/3715/43715v1-max-250x250.png"],
+      [[450,
+        282],
+       "assets/images/resized/0004/3715/43715v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

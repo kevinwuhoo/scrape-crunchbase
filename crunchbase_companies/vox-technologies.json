@@ -1,0 +1,87 @@
+{"name": "Vox Technologies",
+ "permalink": "vox-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/vox-technologies",
+ "homepage_url": "http://www.voxtechnologies.com",
+ "blog_url": "http://www.voxtechnologies.com/blog",
+ "blog_feed_url": "http://www.voxtechnologies.com/Blog/Subscription/rss",
+ "twitter_username": "voxtechnologies",
+ "category_code": "other",
+ "number_of_employees": 24,
+ "founded_year": 1997,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "industrial-electronics, industrial-automation, ipc, single-board-computers, cpu-boards, industrial-workstations, systems, industrial-power-supplies, industrial-engineering",
+ "alias_list": null,
+ "email_address": "info@voxtechnologies.com",
+ "phone_number": "972-234-4343",
+ "description": "Industrial Electronics",
+ "created_at": "Thu Mar 03 18:32:08 UTC 2011",
+ "updated_at": "Mon Mar 07 21:29:28 UTC 2011",
+ "overview": "\u003Cp\u003EFounded in November 1997, Vox Technologies is a provider of industrial computing, automation, and networking solutions, including sales, sourcing, engineering, integration and repair.\u003C/p\u003E\n\n\u003Cp\u003EVox Technologies designs and delivers components and systems utilized in commercial, manufacturing, industrial, military and aerospace applications around the world. They specialize in sourcing, stocking and supporting hard to find and end-of-life equipment, as well as current active market products.\u003C/p\u003E\n\n\u003Cp\u003EAlong with services and products, the Vox Technologies website features an industry blog that highlights new products from top manufacturers, product change notices, industry press releases, end of life announcements, and other industry-related articles of interest.\u003C/p\u003E\n\n\u003Cp\u003EIn 2010, Vox Technologies launched http://www.cpuboards.com, a portal for all things related to industrial single board computers, where industry users can find information on a growing database of industrial electronic equipment, including detailed specifications, datasheets, images and more. \u003C/p\u003E\n\n\u003Cp\u003EIn 2011, Vox Technologies launched http://www.plcpartner.com, which is still under development but will be a portal for all things in the PLC (programmable logic controllers) automation industry.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0012/4832/124832v2-max-150x150.jpg"],
+     [[250,
+       64],
+      "assets/images/resized/0012/4832/124832v2-max-250x250.jpg"],
+     [[450,
+       115],
+      "assets/images/resized/0012/4832/124832v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Oshodi",
+      "permalink": "john-oshodi",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Joseph",
+      "last_name": "Becker",
+      "permalink": "joseph-becker",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Dallas Office",
+    "address1": "1180 Commerce Drive",
+    "address2": "",
+    "zip_code": "75081",
+    "city": "Richardson",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.cpuboards.com",
+    "title": "Single Board Computer Portal"},
+   {"external_url": "http://www.plcpartner.com",
+    "title": "Industrial PLC Equipment"}]}

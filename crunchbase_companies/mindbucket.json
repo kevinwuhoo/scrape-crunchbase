@@ -1,0 +1,100 @@
+{"name": "Mindbucket",
+ "permalink": "mindbucket",
+ "crunchbase_url": "http://www.crunchbase.com/company/mindbucket",
+ "homepage_url": "http://www.mindbucket.jp",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mdbkt",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 5,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search-engine-information-retrieval-semantic",
+ "alias_list": null,
+ "email_address": "julien.hamonic@gmail.com",
+ "phone_number": "+81 (0)80-3739-7817",
+ "description": "Semantic search engine",
+ "created_at": "Sat May 29 02:33:52 UTC 2010",
+ "updated_at": "Tue Jun 08 20:31:59 UTC 2010",
+ "overview": "\u003Cp\u003EHaven\u0026#8217;t you ever been frustrated by the search bar?\nThe more keywords you put, the worse the results get, right?\nWell, not anymore with Mindbucket.\nMindbucket is all the opposite. The more keywords you give, the more relevant the results get.\nYou organize your query into buckets, where you can explain and specify the sense of each keyword exactly as your mind means it.\nThanks to our own patent pending technology, we are able to process your query and find what you have meant, not what you have typed. \nThe main features:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EConcept-based search\u003C/li\u003E\n\u003Cli\u003EWord-suggestion tool\u003C/li\u003E\n\u003Cli\u003ESaving and sharing concepts\u003C/li\u003E\n\u003Cli\u003EAdaptable to any database: amazon, linkedin, flickr, etc\u0026#8230;\u003C/li\u003E\n\u003Cli\u003ECollaborative search (coming soon)\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EThe project was ignited by Bunkersofa to disrupt the traditional search paradigm.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0008/8904/88904v2-max-150x150.png"],
+     [[250,
+       66],
+      "assets/images/resized/0008/8904/88904v2-max-250x250.png"],
+     [[450,
+       119],
+      "assets/images/resized/0008/8904/88904v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Team manager",
+    "person":
+     {"first_name": "Pascal",
+      "last_name": "Hideki Hamonic",
+      "permalink": "pascal-hideki-hamonic",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Sebastien",
+      "last_name": "Bruel",
+      "permalink": "sebastien-bruel",
+      "image": null}},
+   {"is_past": false,
+    "title": "Futurist",
+    "person":
+     {"first_name": "Julien",
+      "last_name": "Yuki Hamonic",
+      "permalink": "julien-yuki-hamonic",
+      "image": null}},
+   {"is_past": false,
+    "title": "Designer",
+    "person":
+     {"first_name": "Juho",
+      "last_name": "Viitasalo",
+      "permalink": "juho-viitasalo",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Meguro Ascot",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tokyo",
+    "state_code": null,
+    "country_code": "JPN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"400\" height=\"250\"\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=12068862\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" /\u003E\u003Cembed src=\"http://vimeo.com/moogaloop.swf?clip_id=12068862\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"400\" height=\"250\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cp\u003E\u003Ca href=\"http://vimeo.com/12068862\"\u003EMindbucket: How to\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/user3901743\"\u003EMindbucket\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.bunkersofa.com",
+    "title": "Bunkersofa LLC"}]}

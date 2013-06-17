@@ -1,0 +1,100 @@
+{"name": "Fragment Space",
+ "permalink": "fragment-space",
+ "crunchbase_url": "http://www.crunchbase.com/company/fragment-space",
+ "homepage_url": "http://www.fragmentspace.com/",
+ "blog_url": "http://blog.fragmentsync.com/",
+ "blog_feed_url": "http://blog.fragmentsync.com/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-computing, sync",
+ "alias_list": null,
+ "email_address": "contact@fragmentspace.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Mar 10 19:46:57 UTC 2009",
+ "updated_at": "Sat Mar 14 13:56:50 UTC 2009",
+ "overview": "\u003Cp\u003EFragment Space is developing Fragment Sync, a file sync solution aimed at allowing users to easily sync their files between their devices (cell phones, flash drives, etc.), web services and PCs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       125],
+      "assets/images/resized/0003/7714/37714v2-max-150x150.jpg"],
+     [[224,
+       187],
+      "assets/images/resized/0003/7714/37714v2-max-250x250.jpg"],
+     [[224,
+       187],
+      "assets/images/resized/0003/7714/37714v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Fragment Sync",
+    "permalink": "fragment-sync",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Avishkar",
+      "last_name": "Autar",
+      "permalink": "avishkar-autar",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Syncplicity",
+      "permalink": "syncplicity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/7902/17902v3-max-150x150.png"],
+          [[206,
+            47],
+           "assets/images/resized/0001/7902/17902v3-max-250x250.png"],
+          [[206,
+            47],
+           "assets/images/resized/0001/7902/17902v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

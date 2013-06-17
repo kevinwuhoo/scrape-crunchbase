@@ -1,0 +1,137 @@
+{"name": "Asus",
+ "permalink": "asus",
+ "crunchbase_url": "http://www.crunchbase.com/company/asus",
+ "homepage_url": "http://www.asus.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ASUS",
+ "category_code": "hardware",
+ "number_of_employees": null,
+ "founded_year": 1990,
+ "founded_month": 4,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "note-book, pc, smart-phone, pad, main-board, server",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Mar 05 19:56:21 UTC 2008",
+ "updated_at": "Sat Mar 23 04:33:41 UTC 2013",
+ "overview": "\u003Cp\u003EASUS is well known for high-quality and innovative technology. ASUS offers a complete product portfolio to compete in the new millennium.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0001/4568/14568v1-max-150x150.png"],
+     [[166,
+       45],
+      "assets/images/resized/0001/4568/14568v1-max-250x250.png"],
+     [[166,
+       45],
+      "assets/images/resized/0001/4568/14568v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "S6",
+    "permalink": "s6",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Everex",
+      "permalink": "everex",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/5134/15134v1-max-150x150.jpg"],
+          [[188,
+            49],
+           "assets/images/resized/0001/5134/15134v1-max-250x250.jpg"],
+          [[188,
+            49],
+           "assets/images/resized/0001/5134/15134v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "a",
+      "source_url": "http://www.splashtop.com/aboutus-corporate.php",
+      "source_description": "",
+      "raised_amount": 10500000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2006,
+      "funded_month": 8,
+      "funded_day": 1,
+      "company":
+       {"name": "Splashtop, Inc",
+        "permalink": "devicevm",
+        "image":
+         {"available_sizes":
+           [[[150,
+              26],
+             "assets/images/resized/0000/3067/3067v1-max-150x150.png"],
+            [[150,
+              26],
+             "assets/images/resized/0000/3067/3067v1-max-250x250.png"],
+            [[150,
+              26],
+             "assets/images/resized/0000/3067/3067v1-max-450x450.png"]],
+          "attribution": null}}}},
+   {"funding_round":
+     {"round_code": "b",
+      "source_url": "http://splashtop.com/press_releases_detail.php?Id=8",
+      "source_description": "DeviceVM Announces Series B Funding of $10M",
+      "raised_amount": 10000000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2007,
+      "funded_month": 10,
+      "funded_day": 10,
+      "company":
+       {"name": "Splashtop, Inc",
+        "permalink": "devicevm",
+        "image":
+         {"available_sizes":
+           [[[150,
+              26],
+             "assets/images/resized/0000/3067/3067v1-max-150x150.png"],
+            [[150,
+              26],
+             "assets/images/resized/0000/3067/3067v1-max-250x250.png"],
+            [[150,
+              26],
+             "assets/images/resized/0000/3067/3067v1-max-450x450.png"]],
+          "attribution": null}}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "800 Corporate Way",
+    "address2": "",
+    "zip_code": "94539",
+    "city": "Fremont",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.497268,
+    "longitude": -121.927347}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://ultrabooks-test.de/topics/asus-ultrabooks/",
+    "title": "Ultrabooks by Asus"},
+   {"external_url": "http://www.riocoupon.com/articles/popular-laptop-brands.html",
+    "title": "Top 10 Popular Laptop Brands"}]}

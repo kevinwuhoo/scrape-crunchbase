@@ -1,0 +1,133 @@
+{"name": "AuditMark",
+ "permalink": "auditmark",
+ "crunchbase_url": "http://www.crunchbase.com/company/auditmark",
+ "homepage_url": "http://auditmark.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "auditmark_com",
+ "category_code": "security",
+ "number_of_employees": 10,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-application-security-javascript-obfuscation-protect-code",
+ "alias_list": null,
+ "email_address": "contact@auditmark.com",
+ "phone_number": "+351917331552",
+ "description": "Website Protection Technology",
+ "created_at": "Mon Mar 25 18:21:09 UTC 2013",
+ "updated_at": "Tue Mar 26 14:32:52 UTC 2013",
+ "overview": "\u003Cp\u003EAuditMark is a Web Security startup focused on developing solutions to protect Web Applications. \u003C/p\u003E\n\n\u003Cp\u003EThe company started in 2008 to develop an auditing service for Click Fraud Detection in online advertising campaigns. This service required deploying JavaScript to the client-side and protecting it from inspection and interference. After scouting the market for available JavaScript protection solutions, none of them really fit the level of protection desired by AuditMark. So, it was decided that a solution should be developed internally, as this was crucial for the success of the auditing solution. What came out was so promising that it was decided to invest more in it and make it a product. In late 2010, it was launched as JScrambler. \u003C/p\u003E\n\n\u003Cp\u003EJScrambler initial traction was amazing, attracting customers such as top security companies that needed strong JavaScript protection to leverage their products.  Among the uses that people look for in JScrambler, the most common ones are intellectual property protection, licensing enforcing, discouraging code inspection, precluding code theft and reuse, and as another layer of security. These results actually changed the startup purpose, and by the end of 2011, early 2012, the company development is focusing on offering JavaScript code protection. In mid-2012, the company launched JScrambler 2, which not only brought advances in JavaScript code protection, but it became the first solution of its kind that specifically targets different JavaScript application types such as HTML5, Mobile Applications and Web Gaming. \u003C/p\u003E\n\n\u003Cp\u003EThe AuditMark\u2019s JavaScript code protection experience and the technology it developed since 2010 for the JScrambler line, a new product was developed: Active Website Protection (AWP). AWP emerged from the understanding that Web application security is still pretty much focused on protecting the server-side, clearly not sufficing against rising threats such as the Man-in-the-Browser (MITB) problem. The ability to deploy code to the client-side and to protect it from malware there represented a paradigm change.  AWP is a virtual-appliance box that is deployed in front of the web application infrastructure. Contrary to Web Application Firewalls, its purpose is not to filter communications but rather to automatically obfuscate all the web application code that passes through the box and to add security controls, to guard the webpage once it reaches the client-side computer and browser.\u003C/p\u003E\n\n\u003Cp\u003EAuditMark team is composed mostly by computer engineers with a strong passion for security, driven by the ambition of making the best security products in the World. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0024/5419/245419v2-max-150x150.png"],
+     [[250,
+       68],
+      "assets/images/resized/0024/5419/245419v2-max-250x250.png"],
+     [[450,
+       122],
+      "assets/images/resized/0024/5419/245419v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "JScrambler",
+    "permalink": "jscrambler",
+    "image":
+     {"available_sizes":
+       [[[150,
+          44],
+         "assets/images/resized/0024/5668/245668v2-max-150x150.jpg"],
+        [[250,
+          73],
+         "assets/images/resized/0024/5668/245668v2-max-250x250.jpg"],
+        [[450,
+          132],
+         "assets/images/resized/0024/5668/245668v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Rui",
+      "last_name": "Ribeiro",
+      "permalink": "rui-ribeiro",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and CTO",
+    "person":
+     {"first_name": "Pedro",
+      "last_name": "Fortuna",
+      "permalink": "pedro-fortuna",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0024/5253/245253v2-max-150x150.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0024/5253/245253v2-max-250x250.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0024/5253/245253v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World HeadQuarters",
+    "address1": "R. Alfredo Allen, 455, 98-99",
+    "address2": "",
+    "zip_code": "4200-135",
+    "city": "Porto",
+    "state_code": null,
+    "country_code": "PRT",
+    "latitude": 41.1774081,
+    "longitude": -8.604884}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0024/5377/245377v2-max-150x150.png"],
+      [[250,
+        157],
+       "assets/images/resized/0024/5377/245377v2-max-250x250.png"],
+      [[450,
+        283],
+       "assets/images/resized/0024/5377/245377v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "https://jscrambler.com/docs/2012-12-hakin9-review-jscrambler.pdf",
+    "title": "Hakin9 Extra - JScrambler 2"}]}

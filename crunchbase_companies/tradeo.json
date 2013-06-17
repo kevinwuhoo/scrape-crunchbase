@@ -1,0 +1,85 @@
+{"name": "Tradeo",
+ "permalink": "tradeo",
+ "crunchbase_url": "http://www.crunchbase.com/company/tradeo",
+ "homepage_url": "http://www.tradeo.com",
+ "blog_url": "http://blog.tradeo.com/",
+ "blog_feed_url": "",
+ "twitter_username": "Tradeocom",
+ "category_code": "ecommerce",
+ "number_of_employees": 15,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@tradeo.com",
+ "phone_number": "",
+ "description": "Global Social Trading Network",
+ "created_at": "Wed Aug 29 12:01:21 UTC 2012",
+ "updated_at": "Thu Aug 30 20:29:44 UTC 2012",
+ "overview": "\u003Cp\u003ELaunched in April 2012, Tradeo is the first social trading network to give members the freedom to analyse the trades of fellow users, to canvas opinion from across the Tradeo community, and to trade on that knowledge quickly. Offering sophisticated data feeds and analytics, Tradeo opens up the trading landscape to the individual, and allows each trader to make decisions based on insight and experience drawn from across Tradeo\u2019s community. It is the only social network to offer both rich and real time market sentiment and individual and aggregated information from its users.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Adest",
+      "permalink": "jonathan-adest",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Behar",
+      "permalink": "alex-behar",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 12,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0020/8678/208678v2-max-150x150.jpg"],
+      [[250,
+        179],
+       "assets/images/resized/0020/8678/208678v2-max-250x250.jpg"],
+      [[450,
+        322],
+       "assets/images/resized/0020/8678/208678v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/08/29/tradeo-introduces-new-follow-feature-to-socialise-its-forex-trading-platfom/",
+    "title": "Tradeo Introduces New Follow-Feature To Socialise Its Forex Trading Platform"}]}

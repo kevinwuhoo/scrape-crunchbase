@@ -1,0 +1,85 @@
+{"name": "Vidium",
+ "permalink": "vidium",
+ "crunchbase_url": "http://www.crunchbase.com/company/vidium",
+ "homepage_url": "http://www.vidium.es",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 7,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ip, camera, streaming, video, security",
+ "alias_list": null,
+ "email_address": "ventas@vidium.es",
+ "phone_number": "91 684 20 54",
+ "description": null,
+ "created_at": "Wed Jan 14 18:57:24 UTC 2009",
+ "updated_at": "Sat Jan 17 14:39:22 UTC 2009",
+ "overview": "\u003Cp\u003EVidium is a new plataform of video streaming for IP cameras, offering a secure comunication channel for watching or recording thirdparty cameras. A single ADSL can support more than 15 cameras and unlimmited potencial users with the best performance and security.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0003/3850/33850v2-max-150x150.png"],
+     [[250,
+       95],
+      "assets/images/resized/0003/3850/33850v2-max-250x250.png"],
+     [[450,
+       171],
+      "assets/images/resized/0003/3850/33850v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Vidium",
+    "permalink": "vidium",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Pedro",
+      "last_name": "Cifuentes Cervera",
+      "permalink": "pedro-cifuentes-cervera",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "ip cameras",
+    "is_past": false,
+    "provider":
+     {"name": "Vivotek",
+      "permalink": "vivotek",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Office",
+    "address1": "Madrid 102 4\u00c2\u00baB",
+    "address2": "",
+    "zip_code": "28902",
+    "city": "Getafe",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.cisan.es",
+    "title": "Web developers associated"}]}

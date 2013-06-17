@@ -1,0 +1,89 @@
+{"name": "Flyapp",
+ "permalink": "flyapp",
+ "crunchbase_url": "http://www.crunchbase.com/company/flyapp",
+ "homepage_url": "http://www.flyapp.com",
+ "blog_url": "http://news.flyapp.com/",
+ "blog_feed_url": "http://news.flyapp.com/feeds/posts/default",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bookmarking, google-app-engine-",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Screenshot Social Bookmarking",
+ "created_at": "Thu Dec 25 20:46:26 UTC 2008",
+ "updated_at": "Mon May 18 20:25:03 UTC 2009",
+ "overview": "\u003Cp\u003EFlyapp is bookmarking service that allows you to add a screen shot and small description of the sites you add and has many options on how to display them. There product is built on the Google App Engine.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       60],
+      "assets/images/resized/0003/2451/32451v2-max-150x150.jpg"],
+     [[120,
+       60],
+      "assets/images/resized/0003/2451/32451v2-max-250x250.jpg"],
+     [[120,
+       60],
+      "assets/images/resized/0003/2451/32451v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Screenshot Bookmarking",
+    "permalink": "screenshot-bookmarking",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0003/2450/32450v2-max-150x150.jpg"],
+      [[250,
+        152],
+       "assets/images/resized/0003/2450/32450v2-max-250x250.jpg"],
+      [[360,
+        220],
+       "assets/images/resized/0003/2450/32450v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

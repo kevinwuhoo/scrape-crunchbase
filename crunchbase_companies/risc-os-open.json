@@ -1,0 +1,78 @@
+{"name": "RISC OS Open",
+ "permalink": "risc-os-open",
+ "crunchbase_url": "http://www.crunchbase.com/company/risc-os-open",
+ "homepage_url": "https://www.riscosopen.org/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "risc_os",
+ "category_code": "consulting",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 6,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "arm, consulting, risc-os",
+ "alias_list": null,
+ "email_address": "info@riscosopen.org",
+ "phone_number": "",
+ "description": "RISC OS source publisher",
+ "created_at": "Thu Mar 29 09:50:41 UTC 2012",
+ "updated_at": "Tue Apr 03 02:34:17 UTC 2012",
+ "overview": "\u003Cp\u003ERISC OS Open Ltd. is a company engaged in \u0026lt;a href=\u0026quot;http://www.crunchbase.com/company/arm\u0026quot;\u0026gt;ARM\u0026lt;/a\u0026gt; computer software and IT consulting.\u003C/p\u003E\n\n\u003Cp\u003EIt manages the process of publishing the source code to RISC OS (originally designed by Acorn Computers for its ARM architecture). The source code publication is facilitated by a shared source initiative (SSI) between ROOL and Castle Technology.\u003C/p\u003E\n\n\u003Cp\u003ECompany founders include staff who formerly worked for Pace, namely Ben Avison, Andrew Hodgkinson, Andrew Moyler, Richard Nicoll and Steve Revill.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0018/1715/181715v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0018/1715/181715v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0018/1715/181715v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Registered office",
+    "address1": "Sovereign House",
+    "address2": "22 Shelley Road",
+    "zip_code": "BN11 1TU",
+    "city": "WORTHING",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.drobe.co.uk/riscos/artifact1664.html",
+    "title": "Ex-Pace staff back RISC OS Open Ltd"},
+   {"external_url": "http://www.drobe.co.uk/riscos/artifact1786.html",
+    "title": "Castle and ROS Open reveal plans for 2007"},
+   {"external_url": "http://www.linuxlinks.com/portal/news/article.php?story=20061003133508896",
+    "title": "Castle and RISC OS Open Announce a Shared Source Initiative for RISC OS"},
+   {"external_url": "http://www.theinquirer.net/inquirer/news/1051924/snaps-leak-risc-os5-beagleboard",
+    "title": "Snaps leak of RISC OS5 on Beagleboard"}]}

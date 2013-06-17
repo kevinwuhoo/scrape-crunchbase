@@ -1,0 +1,106 @@
+{"name": "Simularity",
+ "permalink": "simularity",
+ "crunchbase_url": "http://www.crunchbase.com/company/simularity",
+ "homepage_url": "http://www.simularity.com",
+ "blog_url": "http://blog.simularity.com",
+ "blog_feed_url": "",
+ "twitter_username": "simularity",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "big-data, ecommerce, recommendations, interest-graph, facebook-app",
+ "alias_list": null,
+ "email_address": "info@simularity.com",
+ "phone_number": "415-819-5731",
+ "description": "Similarity analytics for Big Data",
+ "created_at": "Tue Dec 11 22:42:30 UTC 2012",
+ "updated_at": "Wed Apr 03 18:21:53 UTC 2013",
+ "overview": "\u003Cp\u003ESimularity is the best-in-class provider of similarity analytics for big data.\u003C/p\u003E\n\n\u003Cp\u003ESimularity\u2019s technology platform can perform both streaming and historical Big Data Analytics in a single system that scales to trillions of data points. Simularity helps innovative companies in a variety of industries \u2013 including technology, insurance, retail, healthcare, and financial services \u2013 make the most of their data. \u003C/p\u003E\n\n\u003Cp\u003ESimularity\u0026#8217;s Facebook app leverages the similarity analytics engine to show users how similar they are to their friends in a variety of facets, such as Food, Music, and Film. Users also get recommendations based on their Facebook likes and Netflix ratings.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0022/6212/226212v2-max-150x150.png"],
+     [[189,
+       39],
+      "assets/images/resized/0022/6212/226212v2-max-250x250.png"],
+     [[189,
+       39],
+      "assets/images/resized/0022/6212/226212v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Liz",
+      "last_name": "Derr",
+      "permalink": "liz-derr",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/4371/254371v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/4371/254371v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/4371/254371v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Ayaz",
+      "last_name": "ul Haque",
+      "permalink": "ayaz-ul-haque",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Simularity selected as a finalist for Strata 2013's Startup Showcase",
+    "stoned_year": 2013,
+    "stoned_month": 2,
+    "stoned_day": 18,
+    "source_url": "http://blog.simularity.com/2013/02/18/simularity-chosen-as-a-finalist-for-the-strata-2013-startup-showcase/",
+    "source_text": null,
+    "source_description": "Simularity chosen as a finalist for the Strata 2013 Startup Showcase",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Simularity",
+      "permalink": "simularity"}}],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/xJwoo5KqOpI?feature=player_embedded\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESimularity Billion Data Point Faceted Correlations Demo\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/tZMOiR7phDs?feature=player_detailpage\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EStrata Startup Showcase interviews Liz Derr\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "https://twitter.com/simularity",
+    "title": "@simularity"},
+   {"external_url": "http://apps.facebook.com/simularity",
+    "title": "Simularity's Facebook App"}]}

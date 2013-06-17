@@ -1,0 +1,88 @@
+{"name": "InvoiceAtom",
+ "permalink": "invoiceatom",
+ "crunchbase_url": "http://www.crunchbase.com/company/invoiceatom",
+ "homepage_url": "http://www.invoiceatom.com",
+ "blog_url": "http://www.invoiceatom.com/blog/",
+ "blog_feed_url": "http://www.invoiceatom.com/blog/feed/",
+ "twitter_username": "invoiceatom",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "invoice, web-app, invoice-software, billing, billing-software",
+ "alias_list": null,
+ "email_address": "info@invoiceatom.com",
+ "phone_number": "",
+ "description": "Online Invoice Application",
+ "created_at": "Tue Sep 28 10:18:41 UTC 2010",
+ "updated_at": "Sun Apr 15 00:38:19 UTC 2012",
+ "overview": "\u003Cp\u003EInvoiceAtom allows users to easily send and manage invoices, keep track of payments and track the overall health of your business quickly and efficiently.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       78],
+      "assets/images/resized/0010/3407/103407v5-max-150x150.png"],
+     [[250,
+       130],
+      "assets/images/resized/0010/3407/103407v5-max-250x250.png"],
+     [[324,
+       169],
+      "assets/images/resized/0010/3407/103407v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Leonard",
+      "last_name": "Austin",
+      "permalink": "leonard-austin",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "InvoiceAtom HQ",
+    "address1": "21 Wharf Street",
+    "address2": "",
+    "zip_code": "LS2 7EQ",
+    "city": "Leeds",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[115,
+        150],
+       "assets/images/resized/0014/2593/142593v2-max-150x150.jpg"],
+      [[192,
+        250],
+       "assets/images/resized/0014/2593/142593v2-max-250x250.jpg"],
+      [[346,
+        450],
+       "assets/images/resized/0014/2593/142593v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2011/02/28/invoiceatom-online-invoiceing-software-to-simplify-your-invoicing-process/",
+    "title": ""}]}

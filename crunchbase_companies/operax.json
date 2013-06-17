@@ -1,0 +1,143 @@
+{"name": "Operax",
+ "permalink": "operax",
+ "crunchbase_url": "http://www.crunchbase.com/company/operax",
+ "homepage_url": "http://www.operax.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@operax.com",
+ "phone_number": "46 8 410 239 00",
+ "description": "",
+ "created_at": "Fri Apr 09 05:52:32 UTC 2010",
+ "updated_at": "Wed May 01 02:38:23 UTC 2013",
+ "overview": "\u003Cp\u003EOperax AB provides products and solutions for dynamic service and bandwidth control in IP networks. The company\u00e2\u20ac\u2122s products provide guaranteed quality of service (QoS) for operators of multi-vendor, multi-service commercial, civil, and military networks. It offers Operax Resource Controller 3300, a dynamic resource and admission control product for single service deployments, such as IPTV and VoD in non-IMS and pre-IMS environments; abd Operax Resource Controller 5500, a dynamic resource and admission control system for large scale single and multi-application deployments that provides per session and per subscriber QoS guarantees across broadband access, aggregation, and edge networks. The company also provides Operax Resource Controller 5700, a dynamic resource and admission control system for large scale single and multi-application solutions that provide per session QoS guarantees across IP/MPLS based metro and core networks; and Operax Command Resource Controller that provides mission-proven commercial off the shelf solutions for guaranteeing end-to-end communication in systems for military communications networks. It offers its solutions to telecommunication, defense, and media broadcasting sectors. The company was founded in 2000 and is headquartered in Lule\u00c3\u00a5, Sweden. As of July 10, 2008, Operax AB operates as a subsidiary of NetSocket.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0008/3280/83280v1-max-150x150.png"],
+     [[196,
+       54],
+      "assets/images/resized/0008/3280/83280v1-max-250x250.png"],
+     [[196,
+       54],
+      "assets/images/resized/0008/3280/83280v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Lowe",
+      "permalink": "richard-lowe",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Stefan",
+      "last_name": "Johansson",
+      "permalink": "stefan-johansson-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$15M",
+ "funding_rounds":
+  [{"round_code": "c",
+    "source_url": "http://www.lightreading.com/document.asp?doc_id=104261",
+    "source_description": "Nomura Backs Operax",
+    "raised_amount": 15000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 9,
+    "funded_day": 21,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Innovacom",
+         "permalink": "innovacom",
+         "image":
+          {"available_sizes":
+            [[[150,
+               41],
+              "assets/images/resized/0002/9297/29297v2-max-150x150.png"],
+             [[250,
+               69],
+              "assets/images/resized/0002/9297/29297v2-max-250x250.png"],
+             [[271,
+               75],
+              "assets/images/resized/0002/9297/29297v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Nordic Venture Partners",
+         "permalink": "nordic-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               61],
+              "assets/images/resized/0002/9418/29418v1-max-150x150.jpg"],
+             [[194,
+               80],
+              "assets/images/resized/0002/9418/29418v1-max-250x250.jpg"],
+             [[194,
+               80],
+              "assets/images/resized/0002/9418/29418v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Nomura Securities",
+         "permalink": "nomura-securities",
+         "image":
+          {"available_sizes":
+            [[[150,
+               26],
+              "assets/images/resized/0002/9415/29415v1-max-150x150.png"],
+             [[171,
+               30],
+              "assets/images/resized/0002/9415/29415v1-max-250x250.png"],
+             [[171,
+               30],
+              "assets/images/resized/0002/9415/29415v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Aurorum Science Park 8",
+    "address2": "",
+    "zip_code": "",
+    "city": "S-977 75 Lule\u00c3\u00a5",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

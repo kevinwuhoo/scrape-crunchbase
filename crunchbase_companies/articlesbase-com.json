@@ -1,0 +1,135 @@
+{"name": "Articlesbase.com",
+ "permalink": "articlesbase-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/articlesbase-com",
+ "homepage_url": "http://www.articlesbase.com",
+ "blog_url": "http://blog.articlesbase.com",
+ "blog_feed_url": "",
+ "twitter_username": "articlesbase",
+ "category_code": null,
+ "number_of_employees": 11,
+ "founded_year": 2005,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "articles, articles-directory, submit-articles, find-articles",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Free Online Articles Directory",
+ "created_at": "Sat Feb 12 10:24:17 UTC 2011",
+ "updated_at": "Wed Feb 16 01:29:34 UTC 2011",
+ "overview": "\u003Cp\u003EArticlesBase, established in 2005, is an article syndication website that allows authors to publish articles free of charge and share knowledge with potential customers.\u003C/p\u003E\n\n\u003Cp\u003EThe article database is organized into an article directory that covers a wide variety of subjects, allowing the site to provide readers with content, and providing publishers and site owners with free content for their websites, newsletters, or ezines.\u003C/p\u003E\n\n\u003Cp\u003EOver the past several years, ArticlesBase has rolled out international versions of the site for Spanish, Portuguese, Russian, French, and Hebrew readers. We are continuously extending our services by adding more topics of interests, along with new features to further expand our market.\u003C/p\u003E\n\n\u003Cp\u003ECurrently there are over 50,000 contributors and 3 million articles online.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0012/1766/121766v2-max-150x150.jpg"],
+     [[250,
+       86],
+      "assets/images/resized/0012/1766/121766v2-max-250x250.jpg"],
+     [[435,
+       150],
+      "assets/images/resized/0012/1766/121766v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "Simon",
+      "last_name": "Gelfand",
+      "permalink": "simon-gelfand-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0001/2022/12022v3-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0001/2022/12022v3-max-250x250.jpg"],
+          [[200,
+            300],
+           "assets/images/resized/0001/2022/12022v3-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Eyal",
+      "last_name": "Halimi",
+      "permalink": "eyal-halimi-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "EzineArticles",
+      "permalink": "ezinearticles",
+      "image":
+       {"available_sizes":
+         [[[150,
+            74],
+           "assets/images/resized/0002/0877/20877v1-max-150x150.png"],
+          [[202,
+            100],
+           "assets/images/resized/0002/0877/20877v1-max-250x250.png"],
+          [[202,
+            100],
+           "assets/images/resized/0002/0877/20877v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Suite101",
+      "permalink": "suite101-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/3216/23216v7-max-150x150.png"],
+          [[180,
+            180],
+           "assets/images/resized/0002/3216/23216v7-max-250x250.png"],
+          [[180,
+            180],
+           "assets/images/resized/0002/3216/23216v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Ramat Gan",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        118],
+       "assets/images/resized/0012/1765/121765v2-max-150x150.png"],
+      [[250,
+        197],
+       "assets/images/resized/0012/1765/121765v2-max-250x250.png"],
+      [[450,
+        356],
+       "assets/images/resized/0012/1765/121765v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2011/02/11/articlesbase-the-profitable-content-farm-with-20m-monthly-visitors-you-dont-know/",
+    "title": "Techcrunch Post"}]}

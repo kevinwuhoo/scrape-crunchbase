@@ -1,0 +1,101 @@
+{"name": "leemail",
+ "permalink": "leemail",
+ "crunchbase_url": "http://www.crunchbase.com/company/leemail",
+ "homepage_url": "https://leemail.me",
+ "blog_url": "http://blog.leemail.me",
+ "blog_feed_url": "",
+ "twitter_username": "leemailme",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email-privacy-security-vrm",
+ "alias_list": null,
+ "email_address": "support@leemail.me",
+ "phone_number": "",
+ "description": "email happiness",
+ "created_at": "Fri Jan 18 11:29:23 UTC 2013",
+ "updated_at": "Sat Jan 19 22:32:49 UTC 2013",
+ "overview": "\u003Cp\u003Eleemail is a simple service that let\u0026#8217;s you control who can email you. \u003C/p\u003E\n\n\u003Cp\u003EClever people use leemail whenever websites ask for their email.\u003C/p\u003E\n\n\u003Cp\u003EBeta user Barry Ritholtz of the Washington Post and blog \u0026#8220;The Big Picture\u0026#8221; named leemail one of his Top 5 Most Useful Websites and Tools. He described leemail as:\u003C/p\u003E\n\n\u003Cp\u003E\u0026#8220;leemail.me puts a widget on a browser that allows me to create custom emails specific to any site. Lets say I want to sign up for something on funkysite.com, but I am reluctant to them my email address. Leemail creates an address that I can use \u2014 BR@ funkysite.leemail.me \u2014 that I can easily shut off (much easier than unsubscribing). And, if I get spam to that address, I know funkysite sold my address (and therefore must die).\u0026#8221;\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/0399/230399v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0023/0399/230399v2-max-250x250.jpg"],
+     [[420,
+       420],
+      "assets/images/resized/0023/0399/230399v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Lee",
+      "last_name": "Morgenroth",
+      "permalink": "lee-morgenroth",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Engineering",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Nacos",
+      "permalink": "michael-nacos",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Designer",
+    "person":
+     {"first_name": "Orrin",
+      "last_name": "Ward",
+      "permalink": "orrin-ward",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a350k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "",
+    "source_description": "UK TSB Trusted Services Competition",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "6 Penrose Way",
+    "address2": "",
+    "zip_code": "SE10 0EW",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5015709,
+    "longitude": 0.0055315}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.ritholtz.com/blog/2012/04/5-most-useful-websites-tools/",
+    "title": ""}]}

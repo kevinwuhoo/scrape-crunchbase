@@ -1,0 +1,107 @@
+{"name": "Akuacom",
+ "permalink": "akuacom",
+ "crunchbase_url": "http://www.crunchbase.com/company/akuacom",
+ "homepage_url": "http://www.akuacom.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@akuacom.com",
+ "phone_number": "(415) 256-2582",
+ "description": "",
+ "created_at": "Sat May 08 03:21:38 UTC 2010",
+ "updated_at": "Thu Sep 27 13:12:27 UTC 2012",
+ "overview": "\u003Cp\u003EAkuacom provides technology and services for Automated Demand Response (Auto-DR). Akuacom\u0026#8217;s open and interoperable Smart Grid messaging infrastructure is used by utilities and ISOs to automate the delivery of DR price and reliability signals to aggregators and to commercial and industrial facilities. At the core of the messaging infrastructure is Akuacom\u0026#8217;s Demand Response Automation Server, or DRAS, a software as a service platform the fully supports OpenADR.. Akuacom, Inc. is based in San Rafael, California.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0008/6439/86439v1-max-150x150.png"],
+     [[250,
+       109],
+      "assets/images/resized/0008/6439/86439v1-max-250x250.png"],
+     [[255,
+       112],
+      "assets/images/resized/0008/6439/86439v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Clay",
+      "last_name": "Collier",
+      "permalink": "clay-collier",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ed",
+      "last_name": "Koch",
+      "permalink": "ed-koch",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.thealarmclock.com/mt/archives/2010/05/honeywell_buys.html",
+   "source_description": "Honeywell Buys Smart Grid For Building's Akuacom",
+   "acquired_year": 2010,
+   "acquired_month": 5,
+   "acquired_day": 7,
+   "acquiring_company":
+    {"name": "Honeywell",
+     "permalink": "honeywell",
+     "image":
+      {"available_sizes":
+        [[[146,
+           26],
+          "assets/images/resized/0005/2088/52088v1-max-150x150.png"],
+         [[146,
+           26],
+          "assets/images/resized/0005/2088/52088v1-max-250x250.png"],
+         [[146,
+           26],
+          "assets/images/resized/0005/2088/52088v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "781 Lincoln Ave",
+    "address2": "Suite 190",
+    "zip_code": "94901",
+    "city": "San Rafael",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

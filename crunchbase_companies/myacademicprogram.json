@@ -1,0 +1,137 @@
+{"name": "MyAcademicProgram",
+ "permalink": "myacademicprogram",
+ "crunchbase_url": "http://www.crunchbase.com/company/myacademicprogram",
+ "homepage_url": "http://www.yourstudentmap.com",
+ "blog_url": "http://parkmantech.com/wordpress/",
+ "blog_feed_url": "",
+ "twitter_username": "JDParkmanTech",
+ "category_code": "education",
+ "number_of_employees": 8,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "information-technology, saas, big-data, education-software, student-management-software, course-recommendation, college-apps, app, recommender-system, hadoop, etextbooks, enotes, cloud-hosting, ecommerce",
+ "alias_list": null,
+ "email_address": "info@yourstudentmap.com",
+ "phone_number": "3347011480",
+ "description": "Education Information Technology",
+ "created_at": "Mon Mar 26 21:11:13 UTC 2012",
+ "updated_at": "Wed Mar 28 00:01:54 UTC 2012",
+ "overview": "\u003Cp\u003EMAP is a web-based recommender system that empowers students to graduate in less time, by providing personalized course recommendations based on their individual learning needs, extracurricular interests, and social profile.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       73],
+      "assets/images/resized/0018/1212/181212v2-max-150x150.png"],
+     [[250,
+       122],
+      "assets/images/resized/0018/1212/181212v2-max-250x250.png"],
+     [[450,
+       220],
+      "assets/images/resized/0018/1212/181212v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Operating Officer",
+    "person":
+     {"first_name": "Bret",
+      "last_name": "Freeman",
+      "permalink": "bret-freeman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Umar",
+      "last_name": "Shah",
+      "permalink": "umar-shah",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MyEdu",
+      "permalink": "myedu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0004/2334/42334v7-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0004/2334/42334v7-max-250x250.png"],
+          [[414,
+            118],
+           "assets/images/resized/0004/2334/42334v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Chegg",
+      "permalink": "chegg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0002/8171/28171v8-max-150x150.jpg"],
+          [[250,
+            104],
+           "assets/images/resized/0002/8171/28171v8-max-250x250.jpg"],
+          [[450,
+            187],
+           "assets/images/resized/0002/8171/28171v8-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Blackboard Learn Mobile",
+      "permalink": "blackboard-learn-mobile",
+      "image": null}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Lakeman, Peagler, Hollett \u0026 Alsobrook, LLC",
+      "permalink": "lakeman-peagler-hollett-alsobrook-llc",
+      "image": null}},
+   {"title": "Accounting",
+    "is_past": false,
+    "provider":
+     {"name": "Bevis, Eberhart, Browning, Walker \u0026 Stewart, P.C.",
+      "permalink": "bevis-eberhart-browning-walker-stewart-p-c",
+      "image": null}}],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 12,
+    "funded_day": 28,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Office",
+    "address1": "126 South 8th Street",
+    "address2": "",
+    "zip_code": "36801",
+    "city": "Opelika",
+    "state_code": "AL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,102 @@
+{"name": "Silicon Navigator Corporation",
+ "permalink": "silicon-navigator-corporation",
+ "crunchbase_url": "http://www.crunchbase.com/company/silicon-navigator-corporation",
+ "homepage_url": "http://www.sinavigator.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@sinavigator.com",
+ "phone_number": "(408) 200-0280",
+ "description": null,
+ "created_at": "Tue Jan 13 17:55:10 UTC 2009",
+ "updated_at": "Wed Jan 13 01:26:46 UTC 2010",
+ "overview": "\u003Cp\u003ESilicon Navigator was founded with the sole purpose of enabling component software for EDA and Chip Design. All our solutions are Plugin based and enable the integration and assembly of solutions at the customer site without recompilation. The company licenses software at the Source, C++ API (application programming interface), and scripting levels. By leveraging Qt, OpenGL, Tk/TCL, and PyQt/Python, our customers can modify our products or license infrastructure to build their own products.\u003C/p\u003E\n\n\u003Cp\u003ESilicon Navigator has developed the next generation of business models for partnering with its customers. To effectively address today\u0026#8217;s EDA market requires a range of options from source licensing to products with very simple scripting. Chip Design companies have a variety of needs, requirements, and internal CAD expertise. Silicon Navigator has developed three tiers of licensing models to serve our EDA customers.\u003C/p\u003E\n\n\u003Cp\u003ESilicon Navigator provides solutions that leverage the OpenAccess database, which is publicly OpenSourced and managed by the Si2 consortium. Our solution is a complete graphical framework called RDE which is built on standards like Qt, OpenGL, C++, TCL, and Python. RDE based solutions are used by leading companies for Digital and Custom Design. We provide products, engines, and services in the areas or RTL, Power Analysis, Schematics, Transistor Layout, Floorplaning, Timing.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0003/3723/33723v1-max-150x150.jpg"],
+     [[250,
+       55],
+      "assets/images/resized/0003/3723/33723v1-max-250x250.jpg"],
+     [[290,
+       64],
+      "assets/images/resized/0003/3723/33723v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and Founder",
+    "person":
+     {"first_name": "J.",
+      "last_name": "George Janac",
+      "permalink": "j-george-janac",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://venturebeat.com/2007/04/03/eda-company-silicon-navigator-gets-financing-from-intel-capital/",
+    "source_description": "EDA company, Silicon Navigator, gets financing from Intel Capital",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 4,
+    "funded_day": 3,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Intel Capital",
+         "permalink": "intel-capital",
+         "image":
+          {"available_sizes":
+            [[[145,
+               150],
+              "assets/images/resized/0001/3507/13507v7-max-150x150.png"],
+             [[243,
+               250],
+              "assets/images/resized/0001/3507/13507v7-max-250x250.png"],
+             [[243,
+               250],
+              "assets/images/resized/0001/3507/13507v7-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "10050 North Wolfe Road",
+    "address2": "Suite SW2-260 ",
+    "zip_code": "95014",
+    "city": "Cupertino",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.323739,
+    "longitude": -122.0141474}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,110 @@
+{"name": "Metwit",
+ "permalink": "metwit",
+ "crunchbase_url": "http://www.crunchbase.com/company/metwit",
+ "homepage_url": "http://metwit.com",
+ "blog_url": "http://blog.metwit.com",
+ "blog_feed_url": "",
+ "twitter_username": "howdyclowdy",
+ "category_code": "mobile",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "weather, big-data, crowdsourced, social",
+ "alias_list": null,
+ "email_address": "mike@metwit.com",
+ "phone_number": "",
+ "description": "Everyone is a sensor",
+ "created_at": "Mon Nov 19 18:25:43 UTC 2012",
+ "updated_at": "Wed Dec 12 07:48:12 UTC 2012",
+ "overview": "\u003Cp\u003EMetwit is a crowdsourced platform for the collection and analysis of environmental data which allows third party apps and services to integrate environmental and social data.\u003C/p\u003E\n\n\u003Cp\u003EUnlike other services, Metwit APIs and SDKs allow developers to easily create applications and devices capable of posting and notifying hyperlocal, real time environmental information.\u003C/p\u003E\n\n\u003Cp\u003EProblem\nWeather and environmental geobased apps and services today suffer from the available set of data being:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003ENot local enough and chronologically sparse.\u003C/li\u003E\n\u003Cli\u003EOne-way only: additional feedback and details from the data source cannot be asked.\u003C/li\u003E\n\u003Cli\u003ENon-descriptive and decontextualized.\u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003ESolution\nAs mobile devices become more and more common, the chance to gather hi res environmental data, both locally and chronologically, increases dramatically, as does the chance to enrich them with media content to create and optimize tailor-made services. Metwit APIs allow developers to create geolocalized applications capable of receiving and publishing diffused, real time environmental data with a strong social connotation.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0022/1692/221692v2-max-150x150.png"],
+     [[250,
+       126],
+      "assets/images/resized/0022/1692/221692v2-max-250x250.png"],
+     [[450,
+       227],
+      "assets/images/resized/0022/1692/221692v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "wunderground",
+      "permalink": "wunderground",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://thenextweb.com/me/2012/01/29/meet-the-first-three-startups-from-the-middle-east-incubator-seedstartups-pilot-program/",
+    "source_description": "Meet the first three startups from the Middle East incubator \u2018SeedStartup\u2019s\u2019 pilot program",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 8,
+    "funded_day": 30,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Seedstartup",
+         "permalink": "seedstartup",
+         "image":
+          {"available_sizes":
+            [[[64,
+               65],
+              "assets/images/resized/0027/2778/272778v1-max-150x150.png"],
+             [[64,
+               65],
+              "assets/images/resized/0027/2778/272778v1-max-250x250.png"],
+             [[64,
+               65],
+              "assets/images/resized/0027/2778/272778v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Company address",
+    "address1": "471 FINCHLEY ROAD",
+    "address2": "",
+    "zip_code": "NW3 6HS ",
+    "city": "LONDON",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5530545,
+    "longitude": -0.1892311}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        51],
+       "assets/images/resized/0022/1066/221066v2-max-150x150.png"],
+      [[250,
+        85],
+       "assets/images/resized/0022/1066/221066v2-max-250x250.png"],
+      [[450,
+        154],
+       "assets/images/resized/0022/1066/221066v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://betakit.com/2012/10/20/apps-taking-a-crowdsourced-approach-to-reporting-the-weather",
+    "title": "Betakit on Crowdsourced weather"}]}

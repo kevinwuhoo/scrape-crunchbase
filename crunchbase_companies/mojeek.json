@@ -1,0 +1,155 @@
+{"name": "Mojeek",
+ "permalink": "mojeek",
+ "crunchbase_url": "http://www.crunchbase.com/company/mojeek",
+ "homepage_url": "http://www.mojeek.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mojeek",
+ "category_code": "search",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, search-engine, searchengine",
+ "alias_list": null,
+ "email_address": "info@mojeek.com",
+ "phone_number": "",
+ "description": "Internet Search",
+ "created_at": "Sun Jun 21 08:39:11 UTC 2009",
+ "updated_at": "Fri Nov 23 20:17:01 UTC 2012",
+ "overview": "\u003Cp\u003EMojeek is a UK founded crawler based search engine, which primarily provides Internet search services to the general public, but also businesses via an API and licensing agreements. Other features include UK specific results, no advertising and no user tracking.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[148,
+       36],
+      "assets/images/resized/0004/9958/49958v5-max-150x150.png"],
+     [[148,
+       36],
+      "assets/images/resized/0004/9958/49958v5-max-250x250.png"],
+     [[148,
+       36],
+      "assets/images/resized/0004/9958/49958v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Marc",
+      "last_name": "Smith",
+      "permalink": "marc-smith-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gigablast",
+      "permalink": "gigablast",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/3678/23678v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0002/3678/23678v1-max-250x250.png"],
+          [[337,
+            96],
+           "assets/images/resized/0002/3678/23678v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ask.com",
+      "permalink": "ask-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0001/0842/10842v6-max-150x150.png"],
+          [[250,
+            165],
+           "assets/images/resized/0001/0842/10842v6-max-250x250.png"],
+          [[365,
+            241],
+           "assets/images/resized/0001/0842/10842v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cuil",
+      "permalink": "cuil",
+      "image":
+       {"available_sizes":
+         [[[141,
+            91],
+           "assets/images/resized/0003/2642/32642v1-max-150x150.png"],
+          [[141,
+            91],
+           "assets/images/resized/0003/2642/32642v1-max-250x250.png"],
+          [[141,
+            91],
+           "assets/images/resized/0003/2642/32642v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a350k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2009,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pandia.com/sew/173-have-it-your-way-with-the-mojeek-search-engine.html",
+    "title": ""},
+   {"external_url": "http://www.pandia.com/sew/276-mojeek.html",
+    "title": ""}]}

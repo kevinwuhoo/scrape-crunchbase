@@ -1,0 +1,107 @@
+{"name": "ThousandEyes",
+ "permalink": "thousand-eyes",
+ "crunchbase_url": "http://www.crunchbase.com/company/thousand-eyes",
+ "homepage_url": "http://www.thousandeyes.com",
+ "blog_url": "http://www.thousandeyes.com/blog",
+ "blog_feed_url": "http://www.thousandeyes.com/blog?feed=rss2",
+ "twitter_username": "thousandeyes",
+ "category_code": "enterprise",
+ "number_of_employees": 15,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "network-analytics, network-visibility, service-assurance, network-planning, web-performance, user-experience",
+ "alias_list": null,
+ "email_address": "contact@thousandeyes.com",
+ "phone_number": "",
+ "description": "Cloud Monitoring and Troubleshooting",
+ "created_at": "Sun Jan 16 21:25:38 UTC 2011",
+ "updated_at": "Thu Dec 20 02:15:00 UTC 2012",
+ "overview": "\u003Cp\u003EThe commoditization of the Internet is changing not only the way the applications are delivered, but also the way applications are architected, with the increasing use of cloud services,  SaaS and virtualization. This trend results in loss of control and visibility causing existing solutions to be inadequate and presents new challenges in application performance management for organizations.\u003C/p\u003E\n\n\u003Cp\u003EAt ThousandEyes, we believe that one does not have to sacrifice visibility and control when adopting distributed architectures and cloud services. To this end we are building a novel platform that truly understands the infrastructure layer underneath complex distributed applications as well as the end to end application delivery. Our core technology is a combination of active probing by exploiting protocols to extract critical data as well as passive techniques such as capturing traffic to infer network and application metrics. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       19],
+      "assets/images/resized/0011/8824/118824v4-max-150x150.png"],
+     [[250,
+       33],
+      "assets/images/resized/0011/8824/118824v4-max-250x250.png"],
+     [[450,
+       59],
+      "assets/images/resized/0011/8824/118824v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mohit",
+      "last_name": "Lad",
+      "permalink": "mohit-lad",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ricardo",
+      "last_name": "Oliveira",
+      "permalink": "ricardo-oliveira",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0022/2213/222213v5-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0022/2213/222213v5-max-250x250.jpg"],
+          [[450,
+            300],
+           "assets/images/resized/0022/2213/222213v5-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Lead Architect",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Meisel",
+      "permalink": "michael-meisel",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Rowland Agency",
+      "permalink": "rowland-agency",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "ThousandEyes",
+    "address1": "301 Howard",
+    "address2": "Suite 1320",
+    "zip_code": "94105",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7896811,
+    "longitude": -122.3943914}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

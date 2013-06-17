@@ -1,0 +1,119 @@
+{"name": "EHR Doctors",
+ "permalink": "ehr-doctors",
+ "crunchbase_url": "http://www.crunchbase.com/company/ehr-doctors",
+ "homepage_url": "http://www.ehrdoctors.com",
+ "blog_url": "http://www.ehrdoctors.com",
+ "blog_feed_url": "http://feeds.feedburner.com/health-information-exchange",
+ "twitter_username": "ehrdoctors",
+ "category_code": "biotech",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "health-information-technology, health-information-exchnage, healthcare-interoerability",
+ "alias_list": null,
+ "email_address": "info@ehrdoctors.com",
+ "phone_number": "855 EHR DOCS",
+ "description": "Health Information Exchange Technology",
+ "created_at": "Wed May 09 07:35:15 UTC 2012",
+ "updated_at": "Fri May 11 02:56:17 UTC 2012",
+ "overview": "\u003Cp\u003EEHR Doctors Brings Interoperability to Life Sciences and Healthcare.  It is is developer of secured standard health information exchange technology.  Product include: Continuity of Care Document Generator, XCA Gateway, XDS.b Repository, XACML/SAML Policy Decision Point,  LDAP Provider Directories, S/MIME Mail Gateway, and Master Data Management.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Braman",
+      "permalink": "richard-braman",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Gerard",
+      "last_name": "Reeder",
+      "permalink": "gerard-reeder",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Medicity",
+      "permalink": "medicity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0005/6189/56189v1-max-150x150.png"],
+          [[194,
+            56],
+           "assets/images/resized/0005/6189/56189v1-max-250x250.png"],
+          [[194,
+            56],
+           "assets/images/resized/0005/6189/56189v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Axolotl",
+      "permalink": "axolotl",
+      "image": null}},
+   {"competitor":
+     {"name": "Optum Insight",
+      "permalink": "optum-insight",
+      "image": null}},
+   {"competitor":
+     {"name": "Carefusion",
+      "permalink": "carefusion",
+      "image": null}},
+   {"competitor":
+     {"name": "Orion Health",
+      "permalink": "orion-health",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0012/3194/123194v1-max-150x150.jpg"],
+          [[174,
+            66],
+           "assets/images/resized/0012/3194/123194v1-max-250x250.jpg"],
+          [[174,
+            66],
+           "assets/images/resized/0012/3194/123194v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Auditor",
+    "is_past": false,
+    "provider":
+     {"name": "John Walker CPA",
+      "permalink": "john-walker-cpa",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1600 S Federal Hwy",
+    "address2": "Suite 951",
+    "zip_code": "33062",
+    "city": "Pompano Beach",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

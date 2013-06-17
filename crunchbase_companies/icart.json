@@ -1,0 +1,132 @@
+{"name": "iCart",
+ "permalink": "icart",
+ "crunchbase_url": "http://www.crunchbase.com/company/icart",
+ "homepage_url": "http://www.icartapp.com/",
+ "blog_url": "http://blog.icartapp.com/",
+ "blog_feed_url": "http://blog.icartapp.com/rss",
+ "twitter_username": "iCartApp",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "location, based, service, geo, geolocation, foursquare, gowalla",
+ "alias_list": null,
+ "email_address": "hello@icartapp.com",
+ "phone_number": "+40746114445",
+ "description": "Mobile Social Shopping",
+ "created_at": "Mon Apr 12 08:47:32 UTC 2010",
+ "updated_at": "Tue Apr 13 17:09:42 UTC 2010",
+ "overview": "\u003Cp\u003EiCart is a mobile social shopping app built in HTML5 for maximum compatibility. With a database of over 350.000 geographically localized shops it easy to find the place you\u0026#8217;re looking for nearby.\u003C/p\u003E\n\n\u003Cp\u003EThe twist iCart has compared to other location based service is its emphasizes on products, instead of places. This way you get more depth in making on where to go to from the current location and also makes product search a lot more relevant. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0008/3446/83446v2-max-150x150.png"],
+     [[250,
+       92],
+      "assets/images/resized/0008/3446/83446v2-max-250x250.png"],
+     [[271,
+       100],
+      "assets/images/resized/0008/3446/83446v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mihai",
+      "last_name": "Mafteianu",
+      "permalink": "mihai-mafteianu",
+      "image":
+       {"available_sizes":
+         [[[126,
+            150],
+           "assets/images/resized/0010/3421/103421v2-max-150x150.jpg"],
+          [[211,
+            250],
+           "assets/images/resized/0010/3421/103421v2-max-250x250.jpg"],
+          [[380,
+            450],
+           "assets/images/resized/0010/3421/103421v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Gowalla",
+      "permalink": "gowalla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/5118/25118v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Brightkite",
+      "permalink": "brightkite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/5798/15798v6-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0001/5798/15798v6-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/5798/15798v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Bucharest Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Bucharest",
+    "state_code": null,
+    "country_code": "ROM",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,111 @@
+{"name": "Compulsivo",
+ "permalink": "compulsivo",
+ "crunchbase_url": "http://www.crunchbase.com/company/compulsivo",
+ "homepage_url": "http://www.compulsivoco.com",
+ "blog_url": "http://www.compulsivoco.com/blog",
+ "blog_feed_url": "http://www.compulsivoco.com/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "boss@compulsivoco.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Feb 19 01:27:03 UTC 2008",
+ "updated_at": "Wed Jul 01 17:43:04 UTC 2009",
+ "overview": "\u003Cp\u003ECompulsivo obsesses over writing simple Web-based software products for small businesses.  Their first product, \u003Ca href=\"http://www.prefinery.com\" title=\"Prefinery\" rel=\"nofollow\"\u003EPrefinery\u003C/a\u003E, is simple, online beta management software focused on improving beta testing by making it easy for software companies to launch a beta program for their Web or Desktop application in minutes.\u003C/p\u003E\n\n\u003Cp\u003EAdditionally, they offer consulting services in Ruby on Rails web application design and development.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0002/1694/21694v1-max-150x150.jpg"],
+     [[250,
+       49],
+      "assets/images/resized/0002/1694/21694v1-max-250x250.jpg"],
+     [[340,
+       67],
+      "assets/images/resized/0002/1694/21694v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Prefinery",
+    "permalink": "prefinery",
+    "image":
+     {"available_sizes":
+       [[[150,
+          33],
+         "assets/images/resized/0001/2785/12785v3-max-150x150.png"],
+        [[250,
+          55],
+         "assets/images/resized/0001/2785/12785v3-max-250x250.png"],
+        [[450,
+          99],
+         "assets/images/resized/0001/2785/12785v3-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "Flashlight",
+    "permalink": "flashlight",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, President, CEO",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Britten",
+      "permalink": "justin-britten",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0005/1202/51202v2-max-150x150.png"],
+          [[250,
+            187],
+           "assets/images/resized/0005/1202/51202v2-max-250x250.png"],
+          [[450,
+            337],
+           "assets/images/resized/0005/1202/51202v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Wilson",
+      "permalink": "daniel-wilson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "603 W 13TH ST STE 1A",
+    "address2": "",
+    "zip_code": "78701",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.27646,
+    "longitude": -97.746387}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

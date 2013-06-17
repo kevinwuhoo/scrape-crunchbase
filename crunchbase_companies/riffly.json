@@ -1,0 +1,101 @@
+{"name": "Riffly",
+ "permalink": "riffly",
+ "crunchbase_url": "http://www.crunchbase.com/company/riffly",
+ "homepage_url": "http://riffly.com/",
+ "blog_url": "http://blog.riffly.com/",
+ "blog_feed_url": "http://blog.riffly.com/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, webcam, video-comments, audio-comments, api",
+ "alias_list": null,
+ "email_address": "contact@riffly.com",
+ "phone_number": "",
+ "description": "Webcam recording addon for any site",
+ "created_at": "Thu Mar 26 03:55:00 UTC 2009",
+ "updated_at": "Sat Mar 28 13:49:40 UTC 2009",
+ "overview": "\u003Cp\u003ERiffly is a free service that easily plugs into a site allowing visitors to create video/audio comments and reviews.\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cp\u003EPopular as a Wordpress Plugin.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EOffers a free Developer API for integration into any existing or new web system. \u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EOffers premium accounts that provide additional benefits, including advertising removal, control panel access, and analytics.\u003C/p\u003E\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[115,
+       40],
+      "assets/images/resized/0003/9372/39372v2-max-150x150.png"],
+     [[115,
+       40],
+      "assets/images/resized/0003/9372/39372v2-max-250x250.png"],
+     [[115,
+       40],
+      "assets/images/resized/0003/9372/39372v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Seesmic",
+      "permalink": "seesmic",
+      "image":
+       {"available_sizes":
+         [[[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-150x150.png"],
+          [[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-250x250.png"],
+          [[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[111,
+        150],
+       "assets/images/resized/0003/9370/39370v2-max-150x150.jpg"],
+      [[186,
+        250],
+       "assets/images/resized/0003/9370/39370v2-max-250x250.jpg"],
+      [[335,
+        450],
+       "assets/images/resized/0003/9370/39370v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[111,
+        150],
+       "assets/images/resized/0003/9371/39371v2-max-150x150.jpg"],
+      [[186,
+        250],
+       "assets/images/resized/0003/9371/39371v2-max-250x250.jpg"],
+      [[334,
+        450],
+       "assets/images/resized/0003/9371/39371v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://twitter.com/riffly",
+    "title": "Riffly on Twitter"},
+   {"external_url": "http://wordpress.org/extend/plugins/riffly/",
+    "title": "Wordpress Plugin"}]}

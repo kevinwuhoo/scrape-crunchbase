@@ -1,0 +1,91 @@
+{"name": "Aktivito",
+ "permalink": "aktivito",
+ "crunchbase_url": "http://www.crunchbase.com/company/aktivito",
+ "homepage_url": "http://www.aktivito.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "anteksiler",
+ "category_code": "other",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "turkey, events, event-planning, wedding, party, venue, istanbul, geolocation",
+ "alias_list": null,
+ "email_address": "anteksiler@gmail.com",
+ "phone_number": "+905558247471",
+ "description": "Event Planning in Turkey",
+ "created_at": "Thu Jul 14 11:42:48 UTC 2011",
+ "updated_at": "Sat Apr 21 07:34:04 UTC 2012",
+ "overview": "\u003Cp\u003EAktivito.com aims to be the leading event planning website in Turkey. Businesses can endorse each other, display deals and receive offer requests from users. On the other hand, users will be able to compare prices, request prices from business working together. The backend is coded in MVC structure so any feature implementation is possible and includes payment apis, facebook \u0026amp; twitter integration, different user levels, flexible business and user management and many more.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0018/4651/184651v2-max-150x150.jpg"],
+     [[245,
+       100],
+      "assets/images/resized/0018/4651/184651v2-max-250x250.jpg"],
+     [[245,
+       100],
+      "assets/images/resized/0018/4651/184651v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ant",
+      "last_name": "Ek\u015filer",
+      "permalink": "ant-ekiler",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Sedef",
+      "last_name": "S\u00c3\u00b6ylemez",
+      "permalink": "sedef-sylemez",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$30k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://istanbul.startuplabs.org/teams/",
+    "source_description": "Startup Labs Istanbul",
+    "raised_amount": 30000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 4,
+    "funded_day": 7,
+    "investments":
+     [{"company":
+        {"name": "Startup Labs",
+         "permalink": "startup-labs",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.webrazzi.com/2012/04/06/startup-labs-5-girisim/",
+    "title": "Aktivito selected for Startup Labs"}]}

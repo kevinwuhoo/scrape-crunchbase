@@ -1,0 +1,90 @@
+{"name": "Subimage",
+ "permalink": "subimage",
+ "crunchbase_url": "http://www.crunchbase.com/company/subimage",
+ "homepage_url": "http://www.subimage.com",
+ "blog_url": "http://sublog.subimage.com",
+ "blog_feed_url": "http://sublog.subimage.com/articles.rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 1998,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "800-584-0757",
+ "description": null,
+ "created_at": "Sun Feb 17 00:53:06 UTC 2008",
+ "updated_at": "Fri Feb 08 01:59:44 UTC 2013",
+ "overview": "\u003Cp\u003ESubimage LLC provides web services and open-source software utilizing the framework Ruby on Rails.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0001/2503/12503v3-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0001/2503/12503v3-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0001/2503/12503v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Cashboard",
+    "permalink": "cashboard",
+    "image":
+     {"available_sizes":
+       [[[150,
+          150],
+         "assets/images/resized/0023/4283/234283v2-max-150x150.png"],
+        [[250,
+          250],
+         "assets/images/resized/0023/4283/234283v2-max-250x250.png"],
+        [[400,
+          400],
+         "assets/images/resized/0023/4283/234283v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Seth",
+      "last_name": "Banks",
+      "permalink": "seth-banks",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "123 E. San Carlos",
+    "address2": "#464",
+    "zip_code": "95112",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.332828,
+    "longitude": -121.884399}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

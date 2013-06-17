@@ -1,0 +1,107 @@
+{"name": "Gigmor",
+ "permalink": "trybe",
+ "crunchbase_url": "http://www.crunchbase.com/company/trybe",
+ "homepage_url": "http://www.gigmor.com",
+ "blog_url": "http://blog.davidbaird.net",
+ "blog_feed_url": "",
+ "twitter_username": "gigmor",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "matching, musicians, mobile",
+ "alias_list": null,
+ "email_address": "info@gigmor.com",
+ "phone_number": "310-998-5501",
+ "description": "Social Network/Directory for Musicians",
+ "created_at": "Thu Mar 11 22:57:22 UTC 2010",
+ "updated_at": "Tue Aug 16 17:42:18 UTC 2011",
+ "overview": "\u003Cp\u003EGigmor is a social network/directory for musicians that matches musicians, bands and fans based on musical compatibility. Gigmor\u0026#8217;s website is http://www.gigmor.com.\u003C/p\u003E\n\n\u003Cp\u003EGigmor is based in Santa Monica, CA.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "gigmor",
+    "permalink": "gigmor",
+    "image": null},
+   {"name": "Gigmor.com",
+    "permalink": "gigmor-com-2",
+    "image":
+     {"available_sizes":
+       [[[150,
+          80],
+         "assets/images/resized/0014/9599/149599v2-max-150x150.jpg"],
+        [[195,
+          104],
+         "assets/images/resized/0014/9599/149599v2-max-250x250.jpg"],
+        [[195,
+          104],
+         "assets/images/resized/0014/9599/149599v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Baird",
+      "permalink": "david-baird",
+      "image":
+       {"available_sizes":
+         [[[150,
+            147],
+           "assets/images/resized/0008/0019/80019v2-max-150x150.jpg"],
+          [[250,
+            245],
+           "assets/images/resized/0008/0019/80019v2-max-250x250.jpg"],
+          [[450,
+            441],
+           "assets/images/resized/0008/0019/80019v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Bryan",
+      "last_name": "Aamot",
+      "permalink": "bryan-aamot",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Product Development",
+    "person":
+     {"first_name": "Tracy",
+      "last_name": "Eumont",
+      "permalink": "tracy-eumont",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "90403",
+    "city": "Santa Monica",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

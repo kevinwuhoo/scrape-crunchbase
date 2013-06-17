@@ -1,0 +1,130 @@
+{"name": "searchcode",
+ "permalink": "search-code",
+ "crunchbase_url": "http://www.crunchbase.com/company/search-code",
+ "homepage_url": "http://searchco.de/",
+ "blog_url": "http://searchco.de/blog/",
+ "blog_feed_url": "http://searchco.de/blog/rss/",
+ "twitter_username": "boyter",
+ "category_code": "search",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, source, code, codesearch",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "source code search",
+ "created_at": "Sat Apr 28 23:53:56 UTC 2012",
+ "updated_at": "Wed Feb 27 05:54:37 UTC 2013",
+ "overview": "\u003Cp\u003Esearch[code] is a code specific search engine. API documentation, code snippets and open source (free sofware) repositories are indexed and searchable.\u003C/p\u003E\n\n\u003Cp\u003EMost information is presented in such a way that you shouldn\u0026#8217;t need to click through.\u003C/p\u003E\n\n\u003Cp\u003EHas indexed over 2 billion lines of open source code putting the index close to or the equal of other existing source code search engines.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0018/6687/186687v2-max-150x150.png"],
+     [[250,
+       41],
+      "assets/images/resized/0018/6687/186687v2-max-250x250.png"],
+     [[359,
+       60],
+      "assets/images/resized/0018/6687/186687v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Boyter",
+      "permalink": "ben-boyter",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Koders",
+      "permalink": "koders",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0004/2719/42719v1-max-150x150.png"],
+          [[221,
+            50],
+           "assets/images/resized/0004/2719/42719v1-max-250x250.png"],
+          [[221,
+            50],
+           "assets/images/resized/0004/2719/42719v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SymbolHound",
+      "permalink": "symbolhound",
+      "image":
+       {"available_sizes":
+         [[[75,
+            75],
+           "assets/images/resized/0016/9309/169309v2-max-150x150.jpg"],
+          [[75,
+            75],
+           "assets/images/resized/0016/9309/169309v2-max-250x250.jpg"],
+          [[75,
+            75],
+           "assets/images/resized/0016/9309/169309v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        96],
+       "assets/images/resized/0018/6686/186686v2-max-150x150.png"],
+      [[250,
+        160],
+       "assets/images/resized/0018/6686/186686v2-max-250x250.png"],
+      [[450,
+        288],
+       "assets/images/resized/0018/6686/186686v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        116],
+       "assets/images/resized/0023/8260/238260v2-max-150x150.png"],
+      [[250,
+        194],
+       "assets/images/resized/0023/8260/238260v2-max-250x250.png"],
+      [[450,
+        350],
+       "assets/images/resized/0023/8260/238260v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        116],
+       "assets/images/resized/0023/8261/238261v2-max-150x150.png"],
+      [[250,
+        194],
+       "assets/images/resized/0023/8261/238261v2-max-250x250.png"],
+      [[450,
+        350],
+       "assets/images/resized/0023/8261/238261v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

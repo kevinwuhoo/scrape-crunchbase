@@ -1,0 +1,157 @@
+{"name": "PodOmatic",
+ "permalink": "podomatic",
+ "crunchbase_url": "http://www.crunchbase.com/company/podomatic",
+ "homepage_url": "http://www.podomatic.com",
+ "blog_url": "http://blog.podomatic.com/",
+ "blog_feed_url": "",
+ "twitter_username": "podOmatic",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2005,
+ "founded_month": 5,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "podcast, media, podcasting",
+ "alias_list": "",
+ "email_address": "care@podomatic.com",
+ "phone_number": "(415) 975-9981",
+ "description": "",
+ "created_at": "Tue Jun 24 21:20:16 UTC 2008",
+ "updated_at": "Sun Mar 24 13:46:28 UTC 2013",
+ "overview": "\u003Cp\u003EPodOmatic is a large podcast hosting site geared at less-technical individuals.  They provide free bandwidth and storage with subscriptions for heavier usage.   In addition to hosting of media, HTML, and RSS, they provide browser-based recording, statistics, a directory, search, transcoding, and promotional tools.  A lightweight social network allows podcasters to connect with listeners and other podcasters.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0002/0921/20921v2-max-150x150.png"],
+     [[152,
+       35],
+      "assets/images/resized/0002/0921/20921v2-max-250x250.png"],
+     [[152,
+       35],
+      "assets/images/resized/0002/0921/20921v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Kolyer",
+      "permalink": "jonathan-kolyer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief of Operations",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Dossey",
+      "permalink": "justin-dossey",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief of Sales",
+    "person":
+     {"first_name": "Johnny",
+      "last_name": "Mansour",
+      "permalink": "johnny-mansour",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chief of Engineering",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Woods",
+      "permalink": "brian-woods",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Blubrry",
+      "permalink": "blubrry",
+      "image":
+       {"available_sizes":
+         [[[123,
+            134],
+           "assets/images/resized/0002/2587/22587v1-max-150x150.png"],
+          [[123,
+            134],
+           "assets/images/resized/0002/2587/22587v1-max-250x250.png"],
+          [[123,
+            134],
+           "assets/images/resized/0002/2587/22587v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Modified Media",
+      "permalink": "podcastpeople",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/1454/21454v1-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0002/1454/21454v1-max-250x250.png"],
+          [[450,
+            89],
+           "assets/images/resized/0002/1454/21454v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Podbean LLC",
+      "permalink": "podbean-llc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0001/7432/17432v1-max-150x150.jpg"],
+          [[231,
+            52],
+           "assets/images/resized/0001/7432/17432v1-max-250x250.jpg"],
+          [[231,
+            52],
+           "assets/images/resized/0001/7432/17432v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mevio",
+      "permalink": "mevio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            80],
+           "assets/images/resized/0011/0934/110934v1-max-150x150.jpg"],
+          [[201,
+            108],
+           "assets/images/resized/0011/0934/110934v1-max-250x250.jpg"],
+          [[201,
+            108],
+           "assets/images/resized/0011/0934/110934v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "10 Cleveland St",
+    "address2": "",
+    "zip_code": "94103",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.776271,
+    "longitude": -122.396506}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

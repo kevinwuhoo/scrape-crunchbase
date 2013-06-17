@@ -1,0 +1,179 @@
+{"name": "Coordinatr",
+ "permalink": "coordinatr",
+ "crunchbase_url": "http://www.crunchbase.com/company/coordinatr",
+ "homepage_url": "http://coordinatr.com",
+ "blog_url": "http://blog.coordinatr.com/",
+ "blog_feed_url": "http://blog.coordinatr.com/feeds/posts/default?alt=rss",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "coordinatr, microevent, event, sms, mobile, friends, groups, sharespace, coordinator, startup, web-2.0",
+ "alias_list": "",
+ "email_address": "jeff@coordinatr.com",
+ "phone_number": "814-574-3213",
+ "description": "",
+ "created_at": "Fri Mar 14 19:47:52 UTC 2008",
+ "updated_at": "Wed Apr 03 12:45:46 UTC 2013",
+ "overview": "\u003Cp\u003ECoordinatr is a free site dedicated to small event creation and group organization. Launched in 2008, Coordinatr provides users with the most efficient way to create small, spontaneous events as well as offering the tools necessary to organize and communicate with attendees throughout the event lifecycle.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0001/5774/15774v1-max-150x150.png"],
+     [[250,
+       80],
+      "assets/images/resized/0001/5774/15774v1-max-250x250.png"],
+     [[250,
+       80],
+      "assets/images/resized/0001/5774/15774v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Coordinatr",
+    "permalink": "coordinatr",
+    "image":
+     {"available_sizes":
+       [[[150,
+          48],
+         "assets/images/resized/0001/5861/15861v1-max-150x150.png"],
+        [[250,
+          80],
+         "assets/images/resized/0001/5861/15861v1-max-250x250.png"],
+        [[250,
+          80],
+         "assets/images/resized/0001/5861/15861v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Morin",
+      "permalink": "jeff-morin",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/9195/259195v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/9195/259195v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/9195/259195v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": null,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Morin",
+      "permalink": "dan-morin",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/9194/259194v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/9194/259194v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/9194/259194v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Evite",
+      "permalink": "evite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/1753/1753v3-max-150x150.png"],
+          [[160,
+            80],
+           "assets/images/resized/0000/1753/1753v3-max-250x250.png"],
+          [[160,
+            80],
+           "assets/images/resized/0000/1753/1753v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Renkoo",
+      "permalink": "renkoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/1642/1642v1-max-150x150.png"],
+          [[200,
+            60],
+           "assets/images/resized/0000/1642/1642v1-max-250x250.png"],
+          [[200,
+            60],
+           "assets/images/resized/0000/1642/1642v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Planypus",
+      "permalink": "planypus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/5837/15837v1-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0001/5837/15837v1-max-250x250.png"],
+          [[259,
+            76],
+           "assets/images/resized/0001/5837/15837v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Socializr",
+      "permalink": "socializr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/1675/1675v4-max-150x150.jpg"],
+          [[250,
+            76],
+           "assets/images/resized/0000/1675/1675v4-max-250x250.jpg"],
+          [[256,
+            78],
+           "assets/images/resized/0000/1675/1675v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "39e Fort Mason",
+    "address2": "",
+    "zip_code": "94123",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.804477,
+    "longitude": -122.427021}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject type=\"application/x-shockwave-flash\" width=\"401\" height=\"302\" data=\"http://www.vimeo.com/moogaloop.swf?clip_id=780374\u0026amp;server=www.vimeo.com\u0026amp;fullscreen=1\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=00ADEF\"\u003E \u003Cparam name=\"quality\" value=\"best\" /\u003E \u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E \u003Cparam name=\"scale\" value=\"showAll\" /\u003E \u003Cparam name=\"movie\" value=\"http://www.vimeo.com/moogaloop.swf?clip_id=780374\u0026amp;server=www.vimeo.com\u0026amp;fullscreen=1\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=00ADEF\" /\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003ECoordinatr Demo Video\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

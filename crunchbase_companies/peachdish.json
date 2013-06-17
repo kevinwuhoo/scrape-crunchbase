@@ -1,0 +1,210 @@
+{"name": "PeachDish",
+ "permalink": "peachdish",
+ "crunchbase_url": "http://www.crunchbase.com/company/peachdish",
+ "homepage_url": "http://www.peachdish.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": 10,
+ "founded_year": 2013,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "peachdish",
+ "alias_list": null,
+ "email_address": "help@peachdish.com",
+ "phone_number": "(404)939-1860",
+ "description": "Amazon Like Dinner Subscription",
+ "created_at": "Fri Apr 12 21:11:09 UTC 2013",
+ "updated_at": "Mon Jun 10 16:57:19 UTC 2013",
+ "overview": "\u003Cp\u003EFounded by Hadi Irvani, PeachDish LLC aims to bring fresh food to consumers in the 48 States.  Taking inspiration from another Lean Start-up, CountryClubPrep.com, PeachDish wants adventurous customers and not funding.  Hadi used to sell over $3 Million dollars worth of shoes for Okabashi.com online. He attributes his success was to thinking like Amazon, and by leveraging its technology.  \u003C/p\u003E\n\n\u003Cp\u003EYou provide a small subscription and in return PeachDish supplies the ingredients for a three course meal, recipe, and something special - once a week. You can easily pause your subscription if you go on holiday. We hope to give consumers their time back, and avoid the supermarket.\u003C/p\u003E\n\n\u003Cp\u003EPeachDish also supplies a shop where consumers can buy boxes of individual Ingredients directly from  Shop.PeachDish.com.\u003C/p\u003E\n\n\u003Cp\u003EAs PeachDish grows from its consumers\u2019 demands, we hope to offer addiational benefits - such as Matchmaking, rewards points, and \u2026.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       86],
+      "assets/images/resized/0025/1109/251109v2-max-150x150.png"],
+     [[250,
+       144],
+      "assets/images/resized/0025/1109/251109v2-max-250x250.png"],
+     [[302,
+       174],
+      "assets/images/resized/0025/1109/251109v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Hadi",
+      "last_name": "Irvani",
+      "permalink": "hadi-irvani",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0025/9393/259393v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0025/9393/259393v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0025/9393/259393v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Ambassador",
+    "person":
+     {"first_name": "lamar",
+      "last_name": "mixson",
+      "permalink": "lamar-mixson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Blue Apron",
+      "permalink": "blue-apron",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0023/4991/234991v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0023/4991/234991v2-max-250x250.jpg"],
+          [[300,
+            300],
+           "assets/images/resized/0023/4991/234991v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Love With Food",
+      "permalink": "love-with-food",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0015/7935/157935v2-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0015/7935/157935v2-max-250x250.jpg"],
+          [[450,
+            347],
+           "assets/images/resized/0015/7935/157935v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HelloFresh",
+      "permalink": "hellofresh",
+      "image":
+       {"available_sizes":
+         [[[141,
+            124],
+           "assets/images/resized/0022/4983/224983v1-max-150x150.jpg"],
+          [[141,
+            124],
+           "assets/images/resized/0022/4983/224983v1-max-250x250.jpg"],
+          [[141,
+            124],
+           "assets/images/resized/0022/4983/224983v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Chefday",
+      "permalink": "chefday",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0023/5124/235124v2-max-150x150.png"],
+          [[230,
+            69],
+           "assets/images/resized/0023/5124/235124v2-max-250x250.png"],
+          [[230,
+            69],
+           "assets/images/resized/0023/5124/235124v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Plated",
+      "permalink": "plated",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/0749/260749v1-max-150x150.png"],
+          [[242,
+            242],
+           "assets/images/resized/0026/0749/260749v1-max-250x250.png"],
+          [[242,
+            242],
+           "assets/images/resized/0026/0749/260749v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "MailChimp",
+      "permalink": "mailchimp",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Padiact",
+      "permalink": "padiact-2",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "QuickBooks",
+      "permalink": "quickbooks",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        121],
+       "assets/images/resized/0025/9380/259380v2-max-150x150.png"],
+      [[250,
+        202],
+       "assets/images/resized/0025/9380/259380v2-max-250x250.png"],
+      [[450,
+        365],
+       "assets/images/resized/0025/9380/259380v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.peachdish.com/",
+    "title": "Peach Dish - Made in Atlanta"},
+   {"external_url": "http://blog.peachdish.com",
+    "title": "Peachdish Blog"},
+   {"external_url": "http://shop.peachdish.com/",
+    "title": "PeachDish Store"}]}

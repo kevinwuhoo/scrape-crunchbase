@@ -1,0 +1,115 @@
+{"name": "Keroch",
+ "permalink": "keroch",
+ "crunchbase_url": "http://www.crunchbase.com/company/keroch",
+ "homepage_url": "http://www.keroch.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Private Equity Search Fund",
+ "created_at": "Thu Mar 26 13:19:29 UTC 2009",
+ "updated_at": "Thu Apr 16 15:23:01 UTC 2009",
+ "overview": "\u003Cp\u003EKeroch, Inc. is a private equity search fund that seeks out and acquires niche internet businesses.  Post-acquisition, Keroch works operationally to grow traffic, improve monetization, and increase user engagement for its portfolio websites. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0004/1564/41564v1-max-150x150.png"],
+     [[250,
+       71],
+      "assets/images/resized/0004/1564/41564v1-max-250x250.png"],
+     [[361,
+       103],
+      "assets/images/resized/0004/1564/41564v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founding Partner",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Rothenberg",
+      "permalink": "brian-rothenberg",
+      "image":
+       {"available_sizes":
+         [[[132,
+            150],
+           "assets/images/resized/0006/7170/67170v6-max-150x150.png"],
+          [[137,
+            155],
+           "assets/images/resized/0006/7170/67170v6-max-250x250.png"],
+          [[137,
+            155],
+           "assets/images/resized/0006/7170/67170v6-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": null,
+    "source_url": "http://www.techcrunch.com/2009/03/26/mystery-pe-fund-throws-a-lifeline-to-niche-social-network-sneakerplay/",
+    "source_description": "Mystery PE Fund Throws A Lifeline To Niche Social Network Sneakerplay",
+    "acquired_year": 2009,
+    "acquired_month": 2,
+    "acquired_day": null,
+    "company":
+     {"name": "Sneakerplay",
+      "permalink": "sneakerplay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0000/2170/2170v1-max-150x150.png"],
+          [[167,
+            50],
+           "assets/images/resized/0000/2170/2170v1-max-250x250.png"],
+          [[167,
+            50],
+           "assets/images/resized/0000/2170/2170v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Acquire Sneakerplay.com",
+    "stoned_year": 2009,
+    "stoned_month": 2,
+    "stoned_day": null,
+    "source_url": "http://www.techcrunch.com/2009/03/26/mystery-pe-fund-throws-a-lifeline-to-niche-social-network-sneakerplay/",
+    "source_text": null,
+    "source_description": "Mystery PE Fund Throws A Lifeline To Niche Social Network Sneakerplay",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Keroch",
+      "permalink": "keroch"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

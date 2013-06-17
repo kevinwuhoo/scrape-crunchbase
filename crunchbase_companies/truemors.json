@@ -1,0 +1,141 @@
+{"name": "Truemors",
+ "permalink": "truemors",
+ "crunchbase_url": "http://www.crunchbase.com/company/truemors",
+ "homepage_url": "http://truemors.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, rumor",
+ "alias_list": null,
+ "email_address": "info@truemors.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Jul 27 06:44:35 UTC 2007",
+ "updated_at": "Thu Jul 10 13:56:57 UTC 2008",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.truemors.com\" title=\"Truemors.com\" rel=\"nofollow\"\u003ETruemors.com\u003C/a\u003E, a site dedicated to the free-flow of interesting \u0026amp; true rumors, is the brainchild of Nononina\u0026#8217;s Guy Kawasaki.  Kawasaki developed, built, and registered Truemors for around $12,000, which he details in a \u003Ca href=\"http://blog.guykawasaki.com/2007/06/by_the_numbers_.html\" title=\"blog post here\" rel=\"nofollow\"\u003Eblog post here\u003C/a\u003E.  Truemors is similar to many other forum news and information sites like \u003Ca href=\"http://www.digg.com\" title=\"Digg\" rel=\"nofollow\"\u003EDigg\u003C/a\u003E, \u003Ca href=\"http://www.twitter.com\" title=\"Twitter\" rel=\"nofollow\"\u003ETwitter\u003C/a\u003E, and \u003Ca href=\"/product/pop-sugar\" title=\"Pop Sugar\" rel=\"nofollow\"\u003EPop Sugar\u003C/a\u003E, all of which allow users to post content and have it rated instantly by viewers.  Truemors received no VC funds or other types of funding.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       86],
+      "assets/images/resized/0000/3847/3847v1-max-150x150.jpg"],
+     [[160,
+       92],
+      "assets/images/resized/0000/3847/3847v1-max-250x250.jpg"],
+     [[160,
+       92],
+      "assets/images/resized/0000/3847/3847v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Truemors",
+    "permalink": "truemors",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Will",
+      "last_name": "Mayall",
+      "permalink": "will-mayall",
+      "image": null}},
+   {"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kathryn",
+      "last_name": "Henkens",
+      "permalink": "kathryn-henkens",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Guy",
+      "last_name": "Kawasaki",
+      "permalink": "guy-kawasaki",
+      "image":
+       {"available_sizes":
+         [[[124,
+            150],
+           "assets/images/resized/0001/8181/18181v1-max-150x150.jpg"],
+          [[150,
+            181],
+           "assets/images/resized/0001/8181/18181v1-max-250x250.jpg"],
+          [[150,
+            181],
+           "assets/images/resized/0001/8181/18181v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2008/07/10/guy-kawasakis-truemors-gets-acquired-by-nowpublic/",
+   "source_description": "Guy Kawasaki\u00e2\u20ac\u2122s Truemors Gets Acquired By NowPublic",
+   "acquired_year": 2008,
+   "acquired_month": 7,
+   "acquired_day": 10,
+   "acquiring_company":
+    {"name": "NowPublic",
+     "permalink": "nowpublic",
+     "image":
+      {"available_sizes":
+        [[[150,
+           47],
+          "assets/images/resized/0002/1809/21809v1-max-150x150.png"],
+         [[247,
+           78],
+          "assets/images/resized/0002/1809/21809v1-max-250x250.png"],
+         [[247,
+           78],
+          "assets/images/resized/0002/1809/21809v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "360 Bryant Avenuie, Suite 100",
+    "address2": "",
+    "zip_code": "94301",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.446687,
+    "longitude": -122.163189}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

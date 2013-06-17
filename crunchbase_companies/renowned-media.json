@@ -1,0 +1,98 @@
+{"name": "Renowned Media",
+ "permalink": "renowned-media",
+ "crunchbase_url": "http://www.crunchbase.com/company/renowned-media",
+ "homepage_url": "http://www.renownedmedia.com",
+ "blog_url": "http://www.renownedmedia.com/blog",
+ "blog_feed_url": "http://www.renownedmedia.com/feed/",
+ "twitter_username": "renownedmedia",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "php, mysql, javascript, web-2-0",
+ "alias_list": null,
+ "email_address": "tlhunter@renownedmedia.com",
+ "phone_number": "9895135499",
+ "description": "Web Aplication Developer",
+ "created_at": "Mon Dec 13 23:27:51 UTC 2010",
+ "updated_at": "Thu Dec 16 08:27:26 UTC 2010",
+ "overview": "\u003Cp\u003ERenowned Media is a web application development company, specializing in applications which make use of open source technologies. Their debut product is NeoInvoice, an online Time Tracking and Invoicing app.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0011/4045/114045v2-max-150x150.png"],
+     [[250,
+       187],
+      "assets/images/resized/0011/4045/114045v2-max-250x250.png"],
+     [[450,
+       337],
+      "assets/images/resized/0011/4045/114045v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Hunter",
+      "permalink": "thomas-hunter",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zoho Invoice",
+      "permalink": "zoho-invoice",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        77],
+       "assets/images/resized/0011/4044/114044v2-max-150x150.jpg"],
+      [[250,
+        128],
+       "assets/images/resized/0011/4044/114044v2-max-250x250.jpg"],
+      [[450,
+        231],
+       "assets/images/resized/0011/4044/114044v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.neoinvoice.com",
+    "title": "NeoInvoice"}]}

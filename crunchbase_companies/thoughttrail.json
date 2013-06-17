@@ -1,0 +1,113 @@
+{"name": "ThoughtTrail",
+ "permalink": "thoughttrail",
+ "crunchbase_url": "http://www.crunchbase.com/company/thoughttrail",
+ "homepage_url": "http://thoughttrail.com",
+ "blog_url": "http://thoughttrail.com/blog/",
+ "blog_feed_url": "http://thoughttrail.com/blog/feed/",
+ "twitter_username": "thoughttrail",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 14,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "semantic, semantic-desktop, semantic-web, instopix, instant-messenger, contextual-search, seedcamp, seedcamp-2008",
+ "alias_list": null,
+ "email_address": "luke@thoughttrail.com",
+ "phone_number": "",
+ "description": "Contextual semantic software",
+ "created_at": "Wed May 14 01:10:27 UTC 2008",
+ "updated_at": "Fri Oct 09 18:15:39 UTC 2009",
+ "overview": "\u003Cp\u003EThoughtTrail provides Semantic Desktop and Semantic Web solutions.\nThe ThoughtTrail Platform provides API\u0026#8217;s for applications to easily input and filter metadata, creating a Semantic Filesystem, of sorts. \u003C/p\u003E\n\n\u003Cp\u003EIt aims to be a convenient home for the users information, providing a platform for Contextual Search and similar software.\u003C/p\u003E\n\n\u003Cp\u003EInstopix is ThoughtTrail\u0026#8217;s showpiece, it shows images related to users MSN Instant Messenger conversations.\u003C/p\u003E\n\n\u003Cp\u003EThoughtTrail was selected as a \u003Ca href=\"http://www.crunchbase.com/company/seedcamp\" title=\"Seedcamp\"\u003ESeedcamp\u003C/a\u003E 2008 finalist.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[67,
+       69],
+      "assets/images/resized/0001/8528/18528v2-max-150x150.png"],
+     [[67,
+       69],
+      "assets/images/resized/0001/8528/18528v2-max-250x250.png"],
+     [[67,
+       69],
+      "assets/images/resized/0001/8528/18528v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Luke",
+      "last_name": "Stanley",
+      "permalink": "luke-stanley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "AdaptiveBlue",
+      "permalink": "adaptiveblue",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0000/0400/400v1-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0000/0400/400v1-max-250x250.png"],
+          [[327,
+            112],
+           "assets/images/resized/0000/0400/400v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Radar Networks",
+      "permalink": "radar-networks",
+      "image":
+       {"available_sizes":
+         [[[145,
+            135],
+           "assets/images/resized/0001/3453/13453v1-max-150x150.jpg"],
+          [[145,
+            135],
+           "assets/images/resized/0001/3453/13453v1-max-250x250.jpg"],
+          [[145,
+            135],
+           "assets/images/resized/0001/3453/13453v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mozilla",
+      "permalink": "mozilla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            144],
+           "assets/images/resized/0001/8039/18039v7-max-150x150.jpg"],
+          [[229,
+            220],
+           "assets/images/resized/0001/8039/18039v7-max-250x250.jpg"],
+          [[229,
+            220],
+           "assets/images/resized/0001/8039/18039v7-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,112 @@
+{"name": "ZeroVM",
+ "permalink": "zerovm",
+ "crunchbase_url": "http://www.crunchbase.com/company/zerovm",
+ "homepage_url": "http://www.zerovm.org",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-computing, virtualization, openstack, bigdata, paas, iaas, saas, cloud, hadoop, techstars, techstars-cloud-2013",
+ "alias_list": "LiteStack, LiteStack Inc",
+ "email_address": "info@zerovm.org",
+ "phone_number": "",
+ "description": "The Cloud Hypervisor",
+ "created_at": "Tue Apr 30 21:17:08 UTC 2013",
+ "updated_at": "Wed May 29 14:31:49 UTC 2013",
+ "overview": "\u003Cp\u003EZeroVM is the first hypervisor designed specifically for the cloud. It is open-source and free to use.\u003C/p\u003E\n\n\u003Cp\u003EThe current architecture of the cloud is fundamentally broken, because it relies on hypervisors that were designed for a world that doesn\u0026#8217;t exist any more. That world was one where servers lived in-house and heavy client-server applications ruled the enterprise.\u003C/p\u003E\n\n\u003Cp\u003ESo, we built ZeroVM.\u003C/p\u003E\n\n\u003Cp\u003EZeroVM is an open-source lightweight virtualization platform, based on the Google Native Client project. It offers three major benefits:\u003C/p\u003E\n\n\u003Cp\u003ESpeed: The fastest virtual servers in the market today take at least 2 minutes to create. ZeroVM takes less than 5 milliseconds, or about 1/20000th of that time. This huge speedup makes it possible to separate every single task into its own container.\nIsolation: ZeroVM is the first hypervisor to isolate each individual user of an application. Old fashioned hypervisors require sharing of one virtual server between multiple users, making app development much harder.\nEfficiency: ZeroVM only virtualizes the server parts that do the actual work. Existing clouds are giant server farms that are spending precious resources virtualizing unneeded things.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       133],
+      "assets/images/resized/0025/8420/258420v1-max-150x150.png"],
+     [[152,
+       135],
+      "assets/images/resized/0025/8420/258420v1-max-250x250.png"],
+     [[152,
+       135],
+      "assets/images/resized/0025/8420/258420v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Camuel",
+      "last_name": "Gilyadov",
+      "permalink": "camuel-gilyadov",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$518k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "https://angel.co/zerovm",
+    "source_description": "",
+    "raised_amount": 518000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 30,
+    "investments":
+     []},
+   {"round_code": "seed",
+    "source_url": "http://www.rackspace.com/blog/its-demo-daytechstars-cloud-class-of-2013-in-san-antonio/",
+    "source_description": "It\u2019s Demo Day\u2026TechStars Cloud Class Of 2013 In San Antonio",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 1,
+    "funded_day": 14,
+    "investments":
+     [{"company":
+        {"name": "TechStars",
+         "permalink": "techstars",
+         "image":
+          {"available_sizes":
+            [[[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-150x150.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-250x250.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Antonio",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 29.4241219,
+    "longitude": -98.4936282}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,107 @@
+{"name": "Numenus",
+ "permalink": "numenus",
+ "crunchbase_url": "http://www.crunchbase.com/company/numenus",
+ "homepage_url": "http://www.numenus.de",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "numenusgmbh",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@numenus.de",
+ "phone_number": "+49(0)261 88 54-466",
+ "description": "",
+ "created_at": "Fri Aug 26 04:20:32 UTC 2011",
+ "updated_at": "Mon Sep 19 03:08:07 UTC 2011",
+ "overview": "\u003Cp\u003EFounded in 2009 and based in Koblenz, Germany, Numenus specializes in interactive rendering directly from NURBS (Non-Uniform Rational B-Splines) data to provide instant, photorealistic design renderings for designers, engineers and marketing professionals.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[135,
+       38],
+      "assets/images/resized/0015/1193/151193v1-max-150x150.png"],
+     [[135,
+       38],
+      "assets/images/resized/0015/1193/151193v1-max-250x250.png"],
+     [[135,
+       38],
+      "assets/images/resized/0015/1193/151193v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Oliver",
+      "last_name": "Abert",
+      "permalink": "oliver-abert",
+      "image": null}},
+   {"is_past": false,
+    "title": "CIO",
+    "person":
+     {"first_name": "Maik",
+      "last_name": "Stange",
+      "permalink": "maik-stange",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.freshnews.com/news/539034/autodesk-acquires-numenus-ray-tracing-technology",
+   "source_description": "Autodesk Acquires Numenus Ray Tracing Technology",
+   "acquired_year": 2011,
+   "acquired_month": 8,
+   "acquired_day": 25,
+   "acquiring_company":
+    {"name": "Autodesk",
+     "permalink": "autodesk",
+     "image":
+      {"available_sizes":
+        [[[149,
+           35],
+          "assets/images/resized/0002/2543/22543v1-max-150x150.png"],
+         [[149,
+           35],
+          "assets/images/resized/0002/2543/22543v1-max-250x250.png"],
+         [[149,
+           35],
+          "assets/images/resized/0002/2543/22543v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Universit\u00c3\u00a4tsstrasse 3",
+    "address2": "",
+    "zip_code": "56070 ",
+    "city": "Koblenz",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

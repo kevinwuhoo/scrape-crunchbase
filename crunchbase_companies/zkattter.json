@@ -1,0 +1,121 @@
+{"name": "Zkatter",
+ "permalink": "zkattter",
+ "crunchbase_url": "http://www.crunchbase.com/company/zkattter",
+ "homepage_url": "http://www.zkatter.com",
+ "blog_url": "http://twitter.com/zkatter",
+ "blog_feed_url": "",
+ "twitter_username": "zkatter",
+ "category_code": "mobile",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@zkatter.com",
+ "phone_number": "",
+ "description": "Real time discovery",
+ "created_at": "Thu Sep 04 23:13:15 UTC 2008",
+ "updated_at": "Mon Dec 14 18:01:08 UTC 2009",
+ "overview": "\u003Cp\u003EZkatter is a stealth startup working in the real time mobile web broadcasting and discovery space.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0002/5375/25375v7-max-150x150.jpg"],
+     [[250,
+       88],
+      "assets/images/resized/0002/5375/25375v7-max-250x250.jpg"],
+     [[283,
+       100],
+      "assets/images/resized/0002/5375/25375v7-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Hagger",
+      "permalink": "matt-hagger",
+      "image":
+       {"available_sizes":
+         [[[83,
+            150],
+           "assets/images/resized/0002/3918/23918v4-max-150x150.jpg"],
+          [[139,
+            250],
+           "assets/images/resized/0002/3918/23918v4-max-250x250.jpg"],
+          [[251,
+            450],
+           "assets/images/resized/0002/3918/23918v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Strategy and technology",
+    "is_past": false,
+    "provider":
+     {"name": "E-Man",
+      "permalink": "e-man",
+      "image": null}}],
+ "total_money_raised": "$1.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Global Intermedia Ltd",
+         "permalink": "global-intermedia-ltd",
+         "image":
+          {"available_sizes":
+            [[[150,
+               50],
+              "assets/images/resized/0007/3966/73966v2-max-150x150.jpg"],
+             [[204,
+               69],
+              "assets/images/resized/0007/3966/73966v2-max-250x250.jpg"],
+             [[204,
+               69],
+              "assets/images/resized/0007/3966/73966v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Zkatcave",
+    "address1": "Great Portland St",
+    "address2": "",
+    "zip_code": "W1W 6PP",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 37.773508,
+    "longitude": -122.421188}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.zkatter.com",
+    "title": "Home"},
+   {"external_url": "http://developer.yahoo.net/blogs/theater/archives/2008/12/",
+    "title": "Yahoo interview"}]}

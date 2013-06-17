@@ -1,0 +1,116 @@
+{"name": "Withings",
+ "permalink": "withings",
+ "crunchbase_url": "http://www.crunchbase.com/company/withings",
+ "homepage_url": "http://www.withings.com/fr/index/?taranim=5",
+ "blog_url": "http://blog.withings.com/en/",
+ "blog_feed_url": "",
+ "twitter_username": "Withings",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Connected object development",
+ "created_at": "Thu Sep 02 09:26:38 UTC 2010",
+ "updated_at": "Mon Mar 25 14:31:14 UTC 2013",
+ "overview": "\u003Cp\u003EWithings is a Paris-based company that specializes in the development of connected objects. The company\u0026#8217;s first product was the connected body scale, which officially launched in June 2009. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0010/0347/100347v1-max-150x150.png"],
+     [[226,
+       71],
+      "assets/images/resized/0010/0347/100347v1-max-250x250.png"],
+     [[226,
+       71],
+      "assets/images/resized/0010/0347/100347v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Carreel",
+      "permalink": "eric-carreel",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Vuchot",
+      "permalink": "thomas-vuchot",
+      "image": null}},
+   {"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Jean",
+      "last_name": "Bourcereau",
+      "permalink": "jean-bourcereau",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac3M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2010/09/02/the-tweeting-wifi-body-scale-scores-3-million/",
+    "source_description": "The Tweeting Wifi Body Scale Scores 3 Million Euros",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2010,
+    "funded_month": 9,
+    "funded_day": 2,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Ventech",
+         "permalink": "ventech-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               150],
+              "assets/images/resized/0002/9792/29792v4-max-150x150.jpg"],
+             [[250,
+               250],
+              "assets/images/resized/0002/9792/29792v4-max-250x250.jpg"],
+             [[450,
+               450],
+              "assets/images/resized/0002/9792/29792v4-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Withings",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Issy les Moulineaux",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.8245306,
+    "longitude": 2.2743419}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

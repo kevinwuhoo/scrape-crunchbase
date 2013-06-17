@@ -1,0 +1,116 @@
+{"name": "PolyPort",
+ "permalink": "polyport",
+ "crunchbase_url": "http://www.crunchbase.com/company/polyport",
+ "homepage_url": "http://polyport.org",
+ "blog_url": "http://polyport.wordpress.com/",
+ "blog_feed_url": "http://polyport.wordpress.com/feed/",
+ "twitter_username": "PolyPort_team",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "marketplace, transportation, logistics, peer-to-peer, p2p, shipping, mobility, delivery, moving, sustainable, long-tail",
+ "alias_list": null,
+ "email_address": "team@polyport.org",
+ "phone_number": "+41 762 761 762",
+ "description": "",
+ "created_at": "Mon Mar 28 11:10:10 UTC 2011",
+ "updated_at": "Mon May 16 01:14:16 UTC 2011",
+ "overview": "\u003Cp\u003EPolyPort is market for P2P shipping. It adds extra value to existing routes + reduces congestion and pollution. Swiss Venture Leader 2011, winner of StartupCamp Berlin and StartupWeekend Zurich, proud Hub Zurich member and WWF Switzerland mentoree.\u003C/p\u003E\n\n\u003Cp\u003EService will be conveniently accessible through web and mobile applications. Customers with parcels to ship post a request while transporters provide information about their regular or spontaneous routes. A privacy-preserving algorithm will match sending needs with available transport capacities. \u003C/p\u003E\n\n\u003Cp\u003EOnce suitable transporters are identified, the sender can securely communicate with them via the platform to finalize the transaction.\u003C/p\u003E\n\n\u003Cp\u003EAfter the successful delivery sender and transporter can stay connected through their transport networks and award each other peer ratings to monitor the reliability and quality of the transports.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[133,
+       146],
+      "assets/images/resized/0012/8055/128055v2-max-150x150.png"],
+     [[133,
+       146],
+      "assets/images/resized/0012/8055/128055v2-max-250x250.png"],
+     [[133,
+       146],
+      "assets/images/resized/0012/8055/128055v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Philipp",
+      "last_name": "Oberender",
+      "permalink": "philipp-oberender",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Eugene",
+      "last_name": "Filimom",
+      "permalink": "eugene-filimom",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Stella",
+      "last_name": "V. Schieffer",
+      "permalink": "stella-v-schieffer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CitizenShipper",
+      "permalink": "citizenshipper",
+      "image": null}}],
+ "providerships":
+  [{"title": "office",
+    "is_past": false,
+    "provider":
+     {"name": "Hub Zurich",
+      "permalink": "hub-zurich",
+      "image": null}},
+   {"title": "mentor",
+    "is_past": false,
+    "provider":
+     {"name": "WWF",
+      "permalink": "wwf",
+      "image": null}},
+   {"title": "mentor",
+    "is_past": false,
+    "provider":
+     {"name": "ETH Zurich",
+      "permalink": "eth-zurich",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Albisriederstr. 5",
+    "address2": "Postfach 323",
+    "zip_code": "8040",
+    "city": "Zurich",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.themenportal.de/unternehmen/erfolg-auf-ganzer-linie-fuer-das-startup-camp-berlin-2011-45608",
+    "title": "V-Check 1st place at StartupCamp Berlin (in German)"},
+   {"external_url": "http://www.hubzurich.org/wp/2011/01/16/firsthubfellow/",
+    "title": "Hub Zurich Fellowship"},
+   {"external_url": "http://bit.ly/hToVtv",
+    "title": "PolyPort presentation"}]}

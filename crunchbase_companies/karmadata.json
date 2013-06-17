@@ -1,0 +1,136 @@
+{"name": "karmadata",
+ "permalink": "karmadata",
+ "crunchbase_url": "http://www.crunchbase.com/company/karmadata",
+ "homepage_url": "http://www.karmadata.com",
+ "blog_url": "http://blog.karmadata.com",
+ "blog_feed_url": "http://blog.karmadata.com/feed/",
+ "twitter_username": "karmadata",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "big-data, open-data, visualizations, data-api, linked-data, facts, entities, datacards",
+ "alias_list": null,
+ "email_address": "media@karmadata.com",
+ "phone_number": "617-807-0020",
+ "description": "Keeping Data Open",
+ "created_at": "Tue May 07 17:46:45 UTC 2013",
+ "updated_at": "Thu May 09 13:37:39 UTC 2013",
+ "overview": "\u003Cp\u003Ekarmadata\u2019s website enables users to find, visualize, and share data of interest to them and their social networks.   The karmadata API provides standardized linked data from the world\u2019s data sources, allowing developers to design and build their own applications.\u003C/p\u003E\n\n\u003Cp\u003Ekarmadata currently processes high value, open and private data sources on a daily basis like PubMed, ClinicalTrials.gov, the FDA Adverse Events Reporting System, the USPTO databases, among many others.  These sources are primarily semi-structured text or XML, that are not linked to each other, and provide no standards for querying, analyzing, or visualizing.  karmadata has processed over 100 million records to date, and identified over 6.1 milion Entities that are healthcare providers, populated places, clinical investigators, diseases, organizations, drugs and more.  \u003C/p\u003E\n\n\u003Cp\u003Ekarmadata visitors can create \u201cDatacards\u201d\u00a9 which are meant to be mini-blogs, telling a data-driven, visualized story that is personal for the author.  These Datacards can be shared easily on social media, third party websites or embedded in blogs and articles on the web.  Additionally, each of the 6.1 million Entities has its own Poster, with visualizations and an index to all the world\u2019s data where that person, place, organization, product or thing can be found.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0026/0207/260207v2-max-150x150.jpg"],
+     [[250,
+       52],
+      "assets/images/resized/0026/0207/260207v2-max-250x250.jpg"],
+     [[450,
+       93],
+      "assets/images/resized/0026/0207/260207v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Power",
+      "permalink": "sean-power-3",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Thomson Reuters",
+      "permalink": "thomson-reuters",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/4800/24800v3-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/4800/24800v3-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0002/4800/24800v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Informa",
+      "permalink": "informa-plc",
+      "image":
+       {"available_sizes":
+         [[[146,
+            52],
+           "assets/images/resized/0017/0272/170272v1-max-150x150.jpg"],
+          [[146,
+            52],
+           "assets/images/resized/0017/0272/170272v1-max-250x250.jpg"],
+          [[146,
+            52],
+           "assets/images/resized/0017/0272/170272v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wolters Kluwer",
+      "permalink": "wolters-kluwer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0004/9861/49861v1-max-150x150.png"],
+          [[250,
+            58],
+           "assets/images/resized/0004/9861/49861v1-max-250x250.png"],
+          [[286,
+            67],
+           "assets/images/resized/0004/9861/49861v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "McGraw-Hill Companies",
+      "permalink": "mcgraw-hill-companies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0008/8648/88648v1-max-150x150.jpg"],
+          [[250,
+            36],
+           "assets/images/resized/0008/8648/88648v1-max-250x250.jpg"],
+          [[400,
+            58],
+           "assets/images/resized/0008/8648/88648v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "350 Lincoln Street",
+    "address2": "Suite 2216",
+    "zip_code": "02043",
+    "city": "Hingham",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

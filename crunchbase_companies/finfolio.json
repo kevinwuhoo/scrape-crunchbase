@@ -1,0 +1,105 @@
+{"name": "FinFolio",
+ "permalink": "finfolio",
+ "crunchbase_url": "http://www.crunchbase.com/company/finfolio",
+ "homepage_url": "http://www.finfolio.com",
+ "blog_url": "http://www.finfolio.com/Blog/tabid/55/Default.aspx",
+ "blog_feed_url": "http://www.finfolio.com/Blog/tabid/55/rssid/1/Default.aspx",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "finfolio, techfi, advent, portfolio-management, axys, advisor, adviser-planner, money, finance, financial, accounting, account, fund, stock, bond, microsoft, silverlight, open-source, shared-source, rebalance, rebalancing",
+ "alias_list": "",
+ "email_address": "info@finfolio.com",
+ "phone_number": "720-206-0660 x.501",
+ "description": "Investment Management Software",
+ "created_at": "Tue Apr 08 21:29:23 UTC 2008",
+ "updated_at": "Sun Jan 06 17:59:20 UTC 2013",
+ "overview": "\u003Cp\u003EFinFolio provides professional investment management software to investment advisors and money managers. FinFolio is creating a powerful open platform that will be extensible by licensed users, with full access to source code. The platform competes with Advent Axys/APX, Schwab PortfolioCenter, and Albridge; company founders were are some of the principals behind Techfi. \u003C/p\u003E\n\n\u003Cp\u003ESystem features include multi-currency, specific lot accounting, DeepCon\u2122 error checking, benchmarks \u0026amp; composites, fixed income, options and futures, performance attribution, allocation models, fee billing, comprehensive cap gains tax accounting, and all standard portfolio management features.\u003C/p\u003E\n\n\u003Cp\u003EFinFolio can use any database to store data, including Microsoft SQL Server, Oracle, DB2 and MySQL. The front-end user interface is being built in Microsoft\u0026#8217;s new Silverlight\u2122 2.0 technology, and will run in a web browser or on the desktop, on Windows, Apple and Linux platforms.\u003C/p\u003E\n\n\u003Cp\u003EFinFolio is committed to building an open platform, enabling firms to create customized solutions atop the FinFolio framework. The software is being developed as Open Source and released to clients under the Microsoft Shared Source\u2122 license. Developers will be able to create custom interfaces, reports, rebalancing or billing modules, and other software extensions using a wide array of development tools.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0001/9713/19713v1-max-150x150.png"],
+     [[185,
+       63],
+      "assets/images/resized/0001/9713/19713v1-max-250x250.png"],
+     [[185,
+       63],
+      "assets/images/resized/0001/9713/19713v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Abar",
+      "permalink": "matt-abar",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Benson",
+      "permalink": "mike-benson",
+      "image": null}},
+   {"is_past": false,
+    "title": "SVP Operations",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Van Horn",
+      "permalink": "tom-van-horn",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Advent Software",
+      "permalink": "advent-software",
+      "image":
+       {"available_sizes":
+         [[[63,
+            67],
+           "assets/images/resized/0002/1928/21928v1-max-150x150.png"],
+          [[63,
+            67],
+           "assets/images/resized/0002/1928/21928v1-max-250x250.png"],
+          [[63,
+            67],
+           "assets/images/resized/0002/1928/21928v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "2877 Paradise Rd #706",
+    "address2": "",
+    "zip_code": "89109",
+    "city": "Las Vegas",
+    "state_code": "NV",
+    "country_code": "USA",
+    "latitude": 36.136552,
+    "longitude": -115.154816}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

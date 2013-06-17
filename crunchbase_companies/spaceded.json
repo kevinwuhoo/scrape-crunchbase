@@ -1,0 +1,94 @@
+{"name": "SpacedEd",
+ "permalink": "spaceded",
+ "crunchbase_url": "http://www.crunchbase.com/company/spaceded",
+ "homepage_url": "http://qstream.com",
+ "blog_url": "http://qstream.com/blog",
+ "blog_feed_url": "http://qstream.com/feed/",
+ "twitter_username": "qstream",
+ "category_code": "enterprise",
+ "number_of_employees": 6,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "learning, education",
+ "alias_list": null,
+ "email_address": "info@qstream.com",
+ "phone_number": "781-222-2020",
+ "description": "",
+ "created_at": "Wed Sep 09 03:05:45 UTC 2009",
+ "updated_at": "Thu May 09 02:35:34 UTC 2013",
+ "overview": "\u003Cp\u003ESpacedEd changed its name to Qstream in 2011.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0005/9179/59179v2-max-150x150.jpg"],
+     [[250,
+       92],
+      "assets/images/resized/0005/9179/59179v2-max-250x250.jpg"],
+     [[450,
+       167],
+      "assets/images/resized/0005/9179/59179v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Duncan",
+      "last_name": "Lennox",
+      "permalink": "duncan-lennox",
+      "image":
+       {"available_sizes":
+         [[[125,
+            150],
+           "assets/images/resized/0012/8506/128506v2-max-150x150.jpg"],
+          [[209,
+            250],
+           "assets/images/resized/0012/8506/128506v2-max-250x250.jpg"],
+          [[377,
+            450],
+           "assets/images/resized/0012/8506/128506v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Barry",
+      "last_name": "Paul",
+      "permalink": "barry-paul",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://campustechnology.com/Articles/2009/07/22/Harvard-Online-Learning-Technology-Licensed-by-Spaced-Education.aspx",
+    "title": "Harvard Online Learning Technology Licensed by Spaced Education"},
+   {"external_url": "http://www.bersin.com/Blog/post/The-Future-(and-History)-of-Learning2c-in-3-Minutes-a-Day.aspx",
+    "title": "The Future (and History) of Learning, in 3 Minutes a Day"},
+   {"external_url": "http://www.readwriteweb.com/enterprise/2009/12/harvard-medicine-elearning-sys.php",
+    "title": "Harvard Medical School's Learning Technology Must Be Smart...Right?"},
+   {"external_url": "http://www.readwriteweb.com/enterprise/2009/12/harvard-medicine-elearning-sys.php",
+    "title": "Harvard Medical School's Learning Technology Must Be Smart...Right?"}]}

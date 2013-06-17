@@ -1,0 +1,76 @@
+{"name": "Glueo",
+ "permalink": "glueo",
+ "crunchbase_url": "http://www.crunchbase.com/company/glueo",
+ "homepage_url": "http://www.glueo.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "glueo",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "graphics, art",
+ "alias_list": null,
+ "email_address": "info@glueo.com",
+ "phone_number": "",
+ "description": "provides neverending canvases",
+ "created_at": "Wed Feb 08 01:16:13 UTC 2012",
+ "updated_at": "Sun Dec 23 07:39:38 UTC 2012",
+ "overview": "\u003Cp\u003EGlueo is a website that allows people to create never\u2013ending canvases on which they can cooperate in creating big composite artworks.\u003C/p\u003E\n\n\u003Cp\u003EThe editing works in a way that a particular user first claims (checks-out) an area on the canvas, downloads it to his computer, edits it by his favorite bitmap graphic editor (like Photoshop). The modified image then he uploads back to the application.\u003C/p\u003E\n\n\u003Cp\u003EThe picture is stored as a bitmap (is made up of pixels) \u2013 so it is possible to display anything (there is no any restriction like some predefined objects etc\u2026).\u003C/p\u003E\n\n\u003Cp\u003EEvery part of the image (every pixel) has its own metadata (author name, optionally title or URL hyperlink). It is also possible to reference any place on the canvas by URL (which contains coordinates). So the whole canvas can act like a HTML document.\u003C/p\u003E\n\n\u003Cp\u003ESo, the application has following key features\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EMultiple authors can cooperate on one artwork\u003C/li\u003E\n\u003Cli\u003EThe artwork is never\u2013ending \n(can grow dynamically)\u003C/li\u003E\n\u003Cli\u003EAny part of the picture can have its own title and URL hyperlink\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0017/3377/173377v2-max-150x150.png"],
+     [[250,
+       125],
+      "assets/images/resized/0017/3377/173377v2-max-250x250.png"],
+     [[450,
+       225],
+      "assets/images/resized/0017/3377/173377v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "JungleNavigator",
+    "permalink": "junglenavigator",
+    "image":
+     {"available_sizes":
+       [[[150,
+          125],
+         "assets/images/resized/0022/6752/226752v2-max-150x150.png"],
+        [[250,
+          209],
+         "assets/images/resized/0022/6752/226752v2-max-250x250.png"],
+        [[450,
+          377],
+         "assets/images/resized/0022/6752/226752v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

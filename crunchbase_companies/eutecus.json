@@ -1,0 +1,80 @@
+{"name": "Eutecus",
+ "permalink": "eutecus",
+ "crunchbase_url": "http://www.crunchbase.com/company/eutecus",
+ "homepage_url": "http://www.eutecus.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "embedded-video-analytics, fpga, ip-cores, surveillance, security, multi-core-video-analytics-engine, system-on-chip, intelligent-video, configurable-processor, massively-parallel-processing, video-content-analysis",
+ "alias_list": null,
+ "email_address": "info@eutecus.com",
+ "phone_number": "",
+ "description": "FPGA Embedded Video Analytics",
+ "created_at": "Fri Jun 03 15:00:23 UTC 2011",
+ "updated_at": "Tue Jun 07 13:56:46 UTC 2011",
+ "overview": "\u003Cp\u003EEutecus develops and licenses embedded video analytics solutions for the commercial (intelligent video surveillance) and military (intelligence, surveillance and reconnaissance) markets combining special multi-core processing architectures and massively parallel algorithms embedded in programmable logic devices (FPGAs).\u003C/p\u003E\n\n\u003Cp\u003EIts main product is the Multi-core Video Analytics Engine (MVE), which is a scalable, configurable and customizable engine that can be used to implement complete video analytics system-on-chip (SoC) solutions embedded in a single low-cost FPGA chip. MVE-enabled devices (intelligent security cameras, Digital/Network Video Recorders and other devices in a security installation) can detect multiple events in parallel (e.g. forbidden zone, abandoned object, loitering, wrong direction in traffic, illegal lane change, etc.) in High-Definition video streams.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       82],
+      "assets/images/resized/0013/7599/137599v2-max-150x150.png"],
+     [[250,
+       137],
+      "assets/images/resized/0013/7599/137599v2-max-250x250.png"],
+     [[410,
+       225],
+      "assets/images/resized/0013/7599/137599v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "1936 University Ave., Suite 360",
+    "address2": "",
+    "zip_code": "94704",
+    "city": "Berkeley",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "EU Office",
+    "address1": "Petzval Jozsef u. 56.",
+    "address2": "",
+    "zip_code": "1119",
+    "city": "Budapest",
+    "state_code": null,
+    "country_code": "HUN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

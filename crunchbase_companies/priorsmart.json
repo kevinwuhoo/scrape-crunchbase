@@ -1,0 +1,162 @@
+{"name": "PriorSmart",
+ "permalink": "priorsmart",
+ "crunchbase_url": "http://www.crunchbase.com/company/priorsmart",
+ "homepage_url": "http://www.priorsmart.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "patent-search, uspto, epo, patents, copyrights, intellectual-property, ip",
+ "alias_list": "",
+ "email_address": "help@priorsmart.com",
+ "phone_number": "",
+ "description": "Patent Search Engine",
+ "created_at": "Thu Apr 03 11:37:11 UTC 2008",
+ "updated_at": "Wed Apr 27 14:06:45 UTC 2011",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.priorsmart.com\" title=\"PriorSmart\" rel=\"nofollow\"\u003EPriorSmart\u003C/a\u003E is a patent news publisher and a meta-search engine for patent lookups anywhere in the world. PriorSmart\u0026#8217;s patent litigation alerts provide a daily digest of all patent litigation in U.S. district courts, including details on the litigants, attorneys, and patents.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0001/6764/16764v1-max-150x150.png"],
+     [[250,
+       48],
+      "assets/images/resized/0001/6764/16764v1-max-250x250.png"],
+     [[390,
+       76],
+      "assets/images/resized/0001/6764/16764v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "PriorSmart Patent Search",
+    "permalink": "priorsmart",
+    "image": null},
+   {"name": "PriorSmart Patent \u0026 IP News",
+    "permalink": "priorsmart-patent-ip-news",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kyle",
+      "last_name": "Jensen",
+      "permalink": "kyle-jensen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0013/2200/132200v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0013/2200/132200v2-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0013/2200/132200v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Joel",
+      "last_name": "Moxley",
+      "permalink": "joel-moxley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "USPTO",
+      "permalink": "uspto",
+      "image":
+       {"available_sizes":
+         [[[86,
+            87],
+           "assets/images/resized/0006/6111/66111v1-max-150x150.jpg"],
+          [[86,
+            87],
+           "assets/images/resized/0006/6111/66111v1-max-250x250.jpg"],
+          [[86,
+            87],
+           "assets/images/resized/0006/6111/66111v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EPO",
+      "permalink": "epo",
+      "image": null}},
+   {"competitor":
+     {"name": "JPO",
+      "permalink": "jpo",
+      "image": null}},
+   {"competitor":
+     {"name": "Delphion",
+      "permalink": "delphion",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/3114/23114v1-max-150x150.png"],
+          [[158,
+            44],
+           "assets/images/resized/0002/3114/23114v1-max-250x250.png"],
+          [[158,
+            44],
+           "assets/images/resized/0002/3114/23114v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": 37.09024,
+    "longitude": -95.712891}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        114],
+       "assets/images/resized/0013/2197/132197v2-max-150x150.png"],
+      [[250,
+        190],
+       "assets/images/resized/0013/2197/132197v2-max-250x250.png"],
+      [[450,
+        342],
+       "assets/images/resized/0013/2197/132197v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

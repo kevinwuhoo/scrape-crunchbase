@@ -1,0 +1,110 @@
+{"name": "InnovSoft Consulting Limited",
+ "permalink": "innovsoft-consulting-limited",
+ "crunchbase_url": "http://www.crunchbase.com/company/innovsoft-consulting-limited",
+ "homepage_url": "http://www.InstantWebVideos.Com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 7,
+ "founded_year": 2008,
+ "founded_month": 10,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "instant-web-video-web-videos-online-video-editing-online-special-effects",
+ "alias_list": null,
+ "email_address": "brian.mcteigue@gmail.com",
+ "phone_number": "514 707-8192",
+ "description": null,
+ "created_at": "Mon Nov 24 22:49:46 UTC 2008",
+ "updated_at": "Sat Nov 29 14:27:59 UTC 2008",
+ "overview": "\u003Cp\u003EInstantWebVideos.Com is a new web-based service that allows web users to create broadcast quality video presentations in minutes.\u003C/p\u003E\n\n\u003Cp\u003EVideos are assembled through a web interface that allows users to choose from a collection of motion backgrounds, stock footage collections, stock photography, surfaces and gradients, themed backgrounds, musical selections, text effects and sound effects.\u003C/p\u003E\n\n\u003Cp\u003EUsers can upload their own media, (video, still and audio) and store them online in their account. This media can be edited and incorporated into a new video mixing the stock footage and the users footage.\u003C/p\u003E\n\n\u003Cp\u003EThe simple interface allows users to view and preview the graphics and place them on a timeline.\u003C/p\u003E\n\n\u003Cp\u003EThe program has all the standard transitions and effects found in such non-linear editing systems such as Adobe Premiere, Premiere Cut Pro and Sony Vegas)\u003C/p\u003E\n\n\u003Cp\u003EVideos are rendered in near-real time and delivered to the client storage area. Additionally, the videos may be downloaded and submitted to file sharing services such as YouTube.\u003C/p\u003E\n\n\u003Cp\u003EUNLIMITED CAPACITY ARCHITECTURE\u003C/p\u003E\n\n\u003Cp\u003EInstantWebVideos.Com is based upon the Amazon.Com Elastic Cloud Model allowing for unlimited disk storage and virtually unlimited compute power for rendering. \u003C/p\u003E\n\n\u003Cp\u003EUsing the Elastic Cloud System, Instant Web Videos can dynamically scale the web video creation and rendering as demands increase and decrease. \u003C/p\u003E\n\n\u003Cp\u003ELike the Animoto.Com Web Site, (a similar type of service), the system can scale from 1 Server to thousands of servers in under 10 minutes.\u003C/p\u003E\n\n\u003Cp\u003EThe System Architecture is completely distributed and separated. The front end application the user experiences is completely isolated from the rendering back-end.\u003C/p\u003E\n\n\u003Cp\u003EAs a highly complex AJAX enabled application, the user spends virtually all of the time working disconnected from a server. Only when previews are required does the system go to a media server for the video, image or audio media.\u003C/p\u003E\n\n\u003Cp\u003EOnce a user is ready to request their video, a message containing details of their job is sent to the Amazon Message Queue System.\u003C/p\u003E\n\n\u003Cp\u003EEach of the back end rendering systems polls the Request Queue when they are idle and looking for a job to render. All assets required to generate a video are on the a many Terrabyte SAN which is distributed across the globe in Japan, the United States and Europe. In essence, each rendering machine is a clone of one another and has the same assets available in their logical disk drives.\u003C/p\u003E\n\n\u003Cp\u003EOnce a job is completed, the video is stored on the Amazon S3 Network and an email is sent to the user who may play it directly or download it to their local pc. \u003C/p\u003E\n\n\u003Cp\u003EThe output format can be specified by the user (AVI, MOV, WMV, or FLV) and can be automatically submitted to various file sharing sites using web services in a similar fashion to the Tube Mogul web site.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       20],
+      "assets/images/resized/0002/9474/29474v2-max-150x150.jpg"],
+     [[250,
+       34],
+      "assets/images/resized/0002/9474/29474v2-max-250x250.jpg"],
+     [[450,
+       61],
+      "assets/images/resized/0002/9474/29474v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Instant Web Videos",
+    "permalink": "instant-web-videos",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "McPherson",
+      "permalink": "paul-mcpherson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing DIrector",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "McTeigue",
+      "permalink": "brian-mcteigue",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Animoto",
+      "permalink": "animoto",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/0493/493v15-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0000/0493/493v15-max-250x250.png"],
+          [[450,
+            135],
+           "assets/images/resized/0000/0493/493v15-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Canada",
+    "address1": "3860 Notre Dame",
+    "address2": "Suite 304",
+    "zip_code": "H7V 1S1",
+    "city": "Laval",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 45.5411602,
+    "longitude": -73.7481222}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        96],
+       "assets/images/resized/0002/9473/29473v2-max-150x150.jpg"],
+      [[250,
+        160],
+       "assets/images/resized/0002/9473/29473v2-max-250x250.jpg"],
+      [[450,
+        288],
+       "assets/images/resized/0002/9473/29473v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

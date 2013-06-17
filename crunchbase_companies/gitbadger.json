@@ -1,0 +1,146 @@
+{"name": "GitBadger",
+ "permalink": "gitbadger",
+ "crunchbase_url": "http://www.crunchbase.com/company/gitbadger",
+ "homepage_url": "http://www.GitBadger.com",
+ "blog_url": "http://www.GitBadger.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "GitBadgerDC",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "git, project-management, software, software-collaboration, productivity, analytics, data, metrics, python, mongodb, task-management, agile, software-development",
+ "alias_list": null,
+ "email_address": "Info@GitBadger.com",
+ "phone_number": "703-655-5752",
+ "description": "Data Driven Software Development",
+ "created_at": "Wed Apr 24 01:24:37 UTC 2013",
+ "updated_at": "Wed Apr 24 07:31:42 UTC 2013",
+ "overview": "\u003Cp\u003EGitBadger is a web based platform that provides data analytics on your git projects. \u003C/p\u003E\n\n\u003Cp\u003EThe best decisions are ones that are derived from data. By providing a suite of collaborative tools to help speed up development, GitBadger is able to seamlessly extract project information from your development team\u0026#8217;s workflow, and deliver data analytics to project managers to make data driven decisions. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Engineer",
+    "person":
+     {"first_name": "Doug",
+      "last_name": "Akridge",
+      "permalink": "doug-akridge",
+      "image": null}},
+   {"is_past": false,
+    "title": "Client Services",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Miyamoto",
+      "permalink": "kevin-miyamoto",
+      "image": null}},
+   {"is_past": false,
+    "title": "Engineer",
+    "person":
+     {"first_name": "Josh",
+      "last_name": "Buell",
+      "permalink": "josh-buell",
+      "image": null}},
+   {"is_past": false,
+    "title": "Operations",
+    "person":
+     {"first_name": "Megan",
+      "last_name": "Miyamoto",
+      "permalink": "megan-miyamoto",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GitHub",
+      "permalink": "github",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0001/7208/17208v9-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0001/7208/17208v9-max-250x250.png"],
+          [[450,
+            120],
+           "assets/images/resized/0001/7208/17208v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BitBucket",
+      "permalink": "bitbucket",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0005/4406/54406v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0005/4406/54406v2-max-250x250.png"],
+          [[256,
+            256],
+           "assets/images/resized/0005/4406/54406v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Codebase",
+      "permalink": "codebase",
+      "image":
+       {"available_sizes":
+         [[[127,
+            42],
+           "assets/images/resized/0006/3001/63001v2-max-150x150.png"],
+          [[127,
+            42],
+           "assets/images/resized/0006/3001/63001v2-max-250x250.png"],
+          [[127,
+            42],
+           "assets/images/resized/0006/3001/63001v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ProjectLocker",
+      "permalink": "projectlocker",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0001/7187/17187v2-max-150x150.png"],
+          [[244,
+            30],
+           "assets/images/resized/0001/7187/17187v2-max-250x250.png"],
+          [[244,
+            30],
+           "assets/images/resized/0001/7187/17187v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "1776 DC",
+    "address1": "1133 15th St. NW",
+    "address2": "12th Floor",
+    "zip_code": "20005",
+    "city": "Washington",
+    "state_code": "DC",
+    "country_code": "USA",
+    "latitude": 38.904853,
+    "longitude": -77.034003}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

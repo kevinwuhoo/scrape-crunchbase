@@ -1,0 +1,82 @@
+{"name": "mofollow",
+ "permalink": "mofollow",
+ "crunchbase_url": "http://www.crunchbase.com/company/mofollow",
+ "homepage_url": "http://www.mofollow.com",
+ "blog_url": "http://blog.mofollow.com",
+ "blog_feed_url": "http://blog.mofollow.com/rss",
+ "twitter_username": "mofollow",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter-find-friends, twitter-suggest-friends, twitter-user-suggestion, twitter-friend-suggestion",
+ "alias_list": null,
+ "email_address": "webmaster@mofollow.com",
+ "phone_number": "",
+ "description": "twitter user recommendation engine",
+ "created_at": "Tue Aug 10 23:10:24 UTC 2010",
+ "updated_at": "Tue Aug 10 23:48:46 UTC 2010",
+ "overview": "\u003Cp\u003EMofollow analyzes your Twitter social graph, returning a list of the 100 most relevant users to you based on your current friend\u0026#8217;s connections. You can rearrange your results based on a number of criteria, including: most matches, most influential, most friends, and most followers. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Corey",
+      "last_name": "Ballou",
+      "permalink": "corey-ballou",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        71],
+       "assets/images/resized/0009/6977/96977v2-max-150x150.jpg"],
+      [[250,
+        119],
+       "assets/images/resized/0009/6977/96977v2-max-250x250.jpg"],
+      [[450,
+        214],
+       "assets/images/resized/0009/6977/96977v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

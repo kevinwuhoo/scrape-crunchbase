@@ -1,0 +1,211 @@
+{"name": "spotengine",
+ "permalink": "spotengine-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/spotengine-inc",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "microblog, location, mobile, web",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Web/Mobile LBS Technology",
+ "created_at": "Tue Oct 14 19:45:50 UTC 2008",
+ "updated_at": "Mon Oct 25 01:08:57 UTC 2010",
+ "overview": "\u003Cp\u003Espotengine is web/mobile startup- developing mobile, web service for users. Main service is stix \u0026#8216;Location based SNS\u0026#8217;. They are Neowiz Internet\u0026#8217;s startup incubation program \u0026#8216;Neoply\u0026#8217; #4 team, Microsoft BizSpark member.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[145,
+       30],
+      "assets/images/resized/0002/6682/26682v1-max-150x150.png"],
+     [[145,
+       30],
+      "assets/images/resized/0002/6682/26682v1-max-250x250.png"],
+     [[145,
+       30],
+      "assets/images/resized/0002/6682/26682v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Stix",
+    "permalink": "stix",
+    "image":
+     {"available_sizes":
+       [[[92,
+          38],
+         "assets/images/resized/0002/6683/26683v1-max-150x150.png"],
+        [[92,
+          38],
+         "assets/images/resized/0002/6683/26683v1-max-250x250.png"],
+        [[92,
+          38],
+         "assets/images/resized/0002/6683/26683v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO / Strategy Management",
+    "person":
+     {"first_name": "Todd",
+      "last_name": "Oh",
+      "permalink": "todd-oh",
+      "image":
+       {"available_sizes":
+         [[[150,
+            102],
+           "assets/images/resized/0002/7321/27321v7-max-150x150.png"],
+          [[250,
+            170],
+           "assets/images/resized/0002/7321/27321v7-max-250x250.png"],
+          [[346,
+            236],
+           "assets/images/resized/0002/7321/27321v7-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder/CEO / Platform Strategy Management",
+    "person":
+     {"first_name": "Travis",
+      "last_name": "Cunningham",
+      "permalink": "travis-cunningham",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Colum",
+      "last_name": "McGaley",
+      "permalink": "colum-mcgaley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tumblr",
+      "permalink": "tumblr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/1372/1372v3-max-150x150.png"],
+          [[210,
+            55],
+           "assets/images/resized/0000/1372/1372v3-max-250x250.png"],
+          [[210,
+            55],
+           "assets/images/resized/0000/1372/1372v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jaiku",
+      "permalink": "jaiku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            106],
+           "assets/images/resized/0001/3579/13579v6-max-150x150.jpg"],
+          [[250,
+            178],
+           "assets/images/resized/0001/3579/13579v6-max-250x250.jpg"],
+          [[450,
+            320],
+           "assets/images/resized/0001/3579/13579v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Brightkite",
+      "permalink": "brightkite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/5798/15798v6-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0001/5798/15798v6-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/5798/15798v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loopt",
+      "permalink": "loopt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0000/1972/1972v6-max-150x150.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-250x250.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

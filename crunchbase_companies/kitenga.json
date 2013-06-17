@@ -1,0 +1,197 @@
+{"name": "Kitenga",
+ "permalink": "kitenga",
+ "crunchbase_url": "http://www.crunchbase.com/company/kitenga",
+ "homepage_url": "http://www.kitenga.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zettavox",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2003,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hadoop, analytics, big-data",
+ "alias_list": null,
+ "email_address": "zettavox@kitenga.com",
+ "phone_number": "925-456-4869",
+ "description": "Big data search \u0026 analytics platform",
+ "created_at": "Thu Mar 18 22:24:31 UTC 2010",
+ "updated_at": "Wed Jul 25 08:30:41 UTC 2012",
+ "overview": "\u003Cp\u003EKitenga is dedicated to addressing the information overload challenges faced by organizations in today\u2019s Big Data world. Our software platform enables enterprises to monetize and leverage all relevant data resources by transforming huge amounts of unstructured and semi/structured data into actionable intelligence. Kitenga\u2019s solution represents the embodiment of years of hands-on experience in addressing the analytics challenges for commercial enterprises as well as the US national security/intelligence agencies.\u003C/p\u003E\n\n\u003Cp\u003EKitenga is a privately-held company based in Santa Clara, CA.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       92],
+      "assets/images/resized/0008/0912/80912v4-max-150x150.jpg"],
+     [[170,
+       105],
+      "assets/images/resized/0008/0912/80912v4-max-250x250.jpg"],
+     [[170,
+       105],
+      "assets/images/resized/0008/0912/80912v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Anil",
+      "last_name": "Uberoi",
+      "permalink": "anil-uberoi",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Davis",
+      "permalink": "mark-davis-8",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Datameer",
+      "permalink": "datameer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0008/3693/83693v9-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0008/3693/83693v9-max-250x250.jpg"],
+          [[416,
+            93],
+           "assets/images/resized/0008/3693/83693v9-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Karmasphere",
+      "permalink": "karmasphere",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0008/3337/83337v4-max-150x150.jpg"],
+          [[250,
+            93],
+           "assets/images/resized/0008/3337/83337v4-max-250x250.jpg"],
+          [[250,
+            93],
+           "assets/images/resized/0008/3337/83337v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cetas Software",
+      "permalink": "cetas-software",
+      "image": null}},
+   {"competitor":
+     {"name": "Platfora",
+      "permalink": "platfora",
+      "image":
+       {"available_sizes":
+         [[[140,
+            33],
+           "assets/images/resized/0015/3352/153352v1-max-150x150.png"],
+          [[140,
+            33],
+           "assets/images/resized/0015/3352/153352v1-max-250x250.png"],
+          [[140,
+            33],
+           "assets/images/resized/0015/3352/153352v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Quantivo",
+      "permalink": "quantivo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/1297/31297v2-max-150x150.jpg"],
+          [[250,
+            84],
+           "assets/images/resized/0003/1297/31297v2-max-250x250.jpg"],
+          [[450,
+            152],
+           "assets/images/resized/0003/1297/31297v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Context Relevant",
+      "permalink": "context-relevant",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0019/7880/197880v1-max-150x150.jpg"],
+          [[250,
+            56],
+           "assets/images/resized/0019/7880/197880v1-max-250x250.jpg"],
+          [[341,
+            77],
+           "assets/images/resized/0019/7880/197880v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Metamarkets",
+      "permalink": "metamarkets",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0008/7977/87977v11-max-150x150.png"],
+          [[250,
+            55],
+           "assets/images/resized/0008/7977/87977v11-max-250x250.png"],
+          [[335,
+            75],
+           "assets/images/resized/0008/7977/87977v11-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "",
+    "source_description": "US Office of Secretary of Defense",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 1,
+    "funded_day": 4,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "2953 Bunker Hill Lane, Suite 400",
+    "address2": "",
+    "zip_code": "95054",
+    "city": "Santa Clara",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/27294692\" width=\"430\" height=\"242\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EKitenga ZettaVox\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0008/0911/80911v2-max-150x150.png"],
+      [[250,
+        126],
+       "assets/images/resized/0008/0911/80911v2-max-250x250.png"],
+      [[450,
+        227],
+       "assets/images/resized/0008/0911/80911v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

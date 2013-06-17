@@ -1,0 +1,100 @@
+{"name": "ManuscriptTracker",
+ "permalink": "manuscripttracker",
+ "crunchbase_url": "http://www.crunchbase.com/company/manuscripttracker",
+ "homepage_url": "http://www.manuscripttracker.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "academic-journal, peer-review, workflow-automation, manuscript",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "academic journal workflow management",
+ "created_at": "Thu May 26 18:28:14 UTC 2011",
+ "updated_at": "Mon Oct 17 23:14:13 UTC 2011",
+ "overview": "\u003Cp\u003EManuscriptTracker is a SaaS solution which assists academic journals with manuscript submission, review, and editing.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0015/7979/157979v2-max-150x150.png"],
+     [[250,
+       57],
+      "assets/images/resized/0015/7979/157979v2-max-250x250.png"],
+     [[394,
+       91],
+      "assets/images/resized/0015/7979/157979v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Boyer",
+      "permalink": "brian-boyer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "David",
+      "last_name": "Lohnes",
+      "permalink": "david-lohnes",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "web development",
+    "is_past": false,
+    "provider":
+     {"name": "Web Pyro",
+      "permalink": "web-pyro",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0013/6172/136172v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0013/6172/136172v2-max-250x250.jpg"],
+          [[400,
+            400],
+           "assets/images/resized/0013/6172/136172v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquaters",
+    "address1": "1363 Gerlaugh Dr.",
+    "address2": "",
+    "zip_code": "44691",
+    "city": "Wooster",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

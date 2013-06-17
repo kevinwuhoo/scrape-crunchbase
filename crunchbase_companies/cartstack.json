@@ -1,0 +1,138 @@
+{"name": "CartStack",
+ "permalink": "cartstack",
+ "crunchbase_url": "http://www.crunchbase.com/company/cartstack",
+ "homepage_url": "http://www.cartstack.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cartstack",
+ "category_code": "ecommerce",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ecommerce, saas, abandon-cart, marketing, remarketing",
+ "alias_list": null,
+ "email_address": "info@cartstack.com",
+ "phone_number": " (888) 363-3647",
+ "description": "Abandon Cart Re-Marketing System",
+ "created_at": "Fri Dec 28 04:52:28 UTC 2012",
+ "updated_at": "Sun Dec 30 04:48:56 UTC 2012",
+ "overview": "\u003Cp\u003ECartStack is a software as a service solution that allows any company with an ecommerce site or reservation system to increase revenue through reminding/encouraging consumers to return to their abandoned cart and complete their purchase. The system sits behind an existing e-commerce website (simple javascript embed) and takes about 15 minutes to set up.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0022/7174/227174v2-max-150x150.png"],
+     [[250,
+       86],
+      "assets/images/resized/0022/7174/227174v2-max-250x250.png"],
+     [[282,
+       98],
+      "assets/images/resized/0022/7174/227174v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brett",
+      "last_name": "Thoreson",
+      "permalink": "brett-thoreson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Mattson",
+      "permalink": "dave-mattson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SeeWhy",
+      "permalink": "seewhy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0004/3203/43203v1-max-150x150.png"],
+          [[159,
+            86],
+           "assets/images/resized/0004/3203/43203v1-max-250x250.png"],
+          [[159,
+            86],
+           "assets/images/resized/0004/3203/43203v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rejoiner",
+      "permalink": "rejoiner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0015/5054/155054v6-max-150x150.png"],
+          [[250,
+            54],
+           "assets/images/resized/0015/5054/155054v6-max-250x250.png"],
+          [[450,
+            98],
+           "assets/images/resized/0015/5054/155054v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        100],
+       "assets/images/resized/0022/7171/227171v2-max-150x150.png"],
+      [[250,
+        168],
+       "assets/images/resized/0022/7171/227171v2-max-250x250.png"],
+      [[450,
+        302],
+       "assets/images/resized/0022/7171/227171v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0022/7172/227172v2-max-150x150.png"],
+      [[250,
+        159],
+       "assets/images/resized/0022/7172/227172v2-max-250x250.png"],
+      [[450,
+        286],
+       "assets/images/resized/0022/7172/227172v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0022/7173/227173v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0022/7173/227173v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0022/7173/227173v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://tech.mn/news/2012/12/19/beta-byte-cartstack/",
+    "title": "Tech.MN blog post"}]}

@@ -1,0 +1,116 @@
+{"name": "Stackpop",
+ "permalink": "stackpop",
+ "crunchbase_url": "http://www.crunchbase.com/company/stackpop",
+ "homepage_url": "http://stackpop.com",
+ "blog_url": "http://blog.stackpop.com",
+ "blog_feed_url": "http://blog.stackpop.com/rss",
+ "twitter_username": "stackpopinc",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "infrastructure, cloud, marketplace, cost-management",
+ "alias_list": null,
+ "email_address": "support@stackpop.com",
+ "phone_number": "+1 (646) 580-0804",
+ "description": "Infrastructure Management",
+ "created_at": "Fri Jul 27 08:43:01 UTC 2012",
+ "updated_at": "Wed Oct 10 13:33:24 UTC 2012",
+ "overview": "\u003Cp\u003EStackpop helps companies find and manage their optimal infrastructure.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0020/3137/203137v4-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0020/3137/203137v4-max-250x250.png"],
+     [[450,
+       111],
+      "assets/images/resized/0020/3137/203137v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Alban",
+      "last_name": "Dani",
+      "permalink": "alban-dani",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Evans",
+      "permalink": "jason-evans-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Aram",
+      "last_name": "Grigoryan",
+      "permalink": "aram-grigoryan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "High Line Venture Partners",
+         "permalink": "high-line-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               77],
+              "assets/images/resized/0015/7302/157302v1-max-150x150.png"],
+             [[169,
+               87],
+              "assets/images/resized/0015/7302/157302v1-max-250x250.png"],
+             [[169,
+               87],
+              "assets/images/resized/0015/7302/157302v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "36 East 12th St, Suite 200",
+    "address2": "",
+    "zip_code": "10003",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

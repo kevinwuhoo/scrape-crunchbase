@@ -1,0 +1,169 @@
+{"name": "Mojella",
+ "permalink": "mojella",
+ "crunchbase_url": "http://www.crunchbase.com/company/mojella",
+ "homepage_url": "http://www.mojella.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "shopping, prices, compare, deals, reviews",
+ "alias_list": "",
+ "email_address": "john@mojella.com",
+ "phone_number": "",
+ "description": "Price Comparison Portal",
+ "created_at": "Sun Feb 08 22:33:20 UTC 2009",
+ "updated_at": "Tue Mar 31 18:08:28 UTC 2009",
+ "overview": "\u003Cp\u003EShopping portal that lets you compare prices at several online retailers in order to find something that suits your tastes and accommodates your budget.\u003C/p\u003E\n\n\u003Cp\u003EAll the categories that one would expect to see in such an online resource are available. By way of example, these include \u00e2\u20ac\u0153Computer \u0026amp; Software\u00e2\u20ac\u009d, \u00e2\u20ac\u0153Electronics\u00e2\u20ac\u009d, \u00e2\u20ac\u0153Home \u0026amp; Garden\u00e2\u20ac\u009d and \u00e2\u20ac\u0153Movies, TV \u0026amp; Games\u00e2\u20ac\u009d. On the other hand, a \u00e2\u20ac\u0153Shop All\u00e2\u20ac\u009d category is featured for those who have the time and the will to go on a massive shopping spree.\u003C/p\u003E\n\n\u003Cp\u003EOf course, the main page highlights items of note. For instance, if you visit the site right now you can see Valentine Day Gift Ideas. Moreover, the latest additions to the catalog are highlighted for you to see what\u00e2\u20ac\u2122s new at a mere glance.\u003C/p\u003E\n\n\u003Cp\u003EAt the end of the day, those who like to visit every shop in order to arrive at the best deals available will find this site does most of work for you. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0003/5834/35834v2-max-150x150.png"],
+     [[198,
+       44],
+      "assets/images/resized/0003/5834/35834v2-max-250x250.png"],
+     [[198,
+       44],
+      "assets/images/resized/0003/5834/35834v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "John",
+      "last_name": "Krause",
+      "permalink": "john-krause",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PriceGrabber",
+      "permalink": "pricegrabber",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0002/7164/27164v2-max-150x150.png"],
+          [[250,
+            45],
+           "assets/images/resized/0002/7164/27164v2-max-250x250.png"],
+          [[260,
+            47],
+           "assets/images/resized/0002/7164/27164v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NexTag",
+      "permalink": "nextag",
+      "image":
+       {"available_sizes":
+         [[[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-150x150.png"],
+          [[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-250x250.png"],
+          [[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shopzilla",
+      "permalink": "shopzilla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0003/7909/37909v3-max-150x150.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0003/7909/37909v3-max-250x250.jpg"],
+          [[450,
+            83],
+           "assets/images/resized/0003/7909/37909v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pronto",
+      "permalink": "pronto-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0003/6803/36803v2-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0003/6803/36803v2-max-250x250.jpg"],
+          [[319,
+            71],
+           "assets/images/resized/0003/6803/36803v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SHOP.COM",
+      "permalink": "shop-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0003/7906/37906v1-max-150x150.png"],
+          [[182,
+            55],
+           "assets/images/resized/0003/7906/37906v1-max-250x250.png"],
+          [[182,
+            55],
+           "assets/images/resized/0003/7906/37906v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shopping.com",
+      "permalink": "shopping-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0002/7114/27114v1-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0002/7114/27114v1-max-250x250.png"],
+          [[374,
+            69],
+           "assets/images/resized/0002/7114/27114v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        129],
+       "assets/images/resized/0003/5833/35833v2-max-150x150.jpg"],
+      [[250,
+        215],
+       "assets/images/resized/0003/5833/35833v2-max-250x250.jpg"],
+      [[450,
+        388],
+       "assets/images/resized/0003/5833/35833v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.killerstartups.com/eCommerce/mojella-com-a-new-shopping-destination",
+    "title": "KillerStartups Review"}]}

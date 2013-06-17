@@ -1,0 +1,110 @@
+{"name": "Finpago",
+ "permalink": "finpago",
+ "crunchbase_url": "http://www.crunchbase.com/company/finpago",
+ "homepage_url": "http://www.fsaok.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "healthcare",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Healthcare transaction services",
+ "created_at": "Mon Jun 07 17:46:36 UTC 2010",
+ "updated_at": "Wed Jun 09 19:29:42 UTC 2010",
+ "overview": "\u003Cp\u003EFinpago provides healthcare transaction processing services automating claims identification and substantiation from the point of scale to the administrator. Finpago enables independent drug stores to accept Flexible Spending Cards without new hardware while automating the claims process for consumers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[102,
+       32],
+      "assets/images/resized/0008/9786/89786v2-max-150x150.jpg"],
+     [[102,
+       32],
+      "assets/images/resized/0008/9786/89786v2-max-250x250.jpg"],
+     [[102,
+       32],
+      "assets/images/resized/0008/9786/89786v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Fred",
+      "last_name": "Hawkins",
+      "permalink": "fred-hawkins",
+      "image": null}},
+   {"is_past": false,
+    "title": "Manager, Customer Support",
+    "person":
+     {"first_name": "Amy",
+      "last_name": "Manwaring",
+      "permalink": "amy-manwaring",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2006,
+    "funded_month": 8,
+    "funded_day": 31,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Metamorphic Ventures",
+         "permalink": "metamorphic-ventures-llc",
+         "image":
+          {"available_sizes":
+            [[[150,
+               26],
+              "assets/images/resized/0003/1682/31682v2-max-150x150.png"],
+             [[250,
+               44],
+              "assets/images/resized/0003/1682/31682v2-max-250x250.png"],
+             [[450,
+               80],
+              "assets/images/resized/0003/1682/31682v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Finpago, Inc.",
+    "address1": "500 Brook Road",
+    "address2": "",
+    "zip_code": "19428",
+    "city": "Conshohocken",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pharmacytimes.com/issue/pharmacy/2006/2006-10/2006-10-5955",
+    "title": "Finpago to the Rescue for Mass Merchants"}]}

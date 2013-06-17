@@ -1,0 +1,151 @@
+{"name": "USAePay",
+ "permalink": "usaepay",
+ "crunchbase_url": "http://www.crunchbase.com/company/usaepay",
+ "homepage_url": "http://www.usaepay.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "usaepay",
+ "category_code": "ecommerce",
+ "number_of_employees": 52,
+ "founded_year": 1998,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gateway, processing, credit-cards, epay, paysaber, virtual-terminal, ecommerce, mcommerce, mobile-processing, visa, mastercard, pci, pa-dss",
+ "alias_list": null,
+ "email_address": "info@usaepay.com",
+ "phone_number": "866-872-3729",
+ "description": "Credit Card Payment Gateway",
+ "created_at": "Mon Feb 27 23:56:18 UTC 2012",
+ "updated_at": "Sat Mar 03 11:38:54 UTC 2012",
+ "overview": "\u003Cp\u003ESince 1998 USA ePay, a GorCorp Inc. company, has been helping merchants process their credit card and check transactions with speed and security. Founded by the Goretsky brothers, the company is family-owned and based in Los Angeles, CA. Currently the USA ePay gateway supports all of the major platforms (eg. First Data, TSYS, Global, Paymentech) in the credit card industry and works with some of the leading check platforms. USA ePay is also pleased to work with many of the larger merchant service banks in the US and abroad.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       88],
+      "assets/images/resized/0017/6043/176043v2-max-150x150.png"],
+     [[250,
+       147],
+      "assets/images/resized/0017/6043/176043v2-max-250x250.png"],
+     [[311,
+       184],
+      "assets/images/resized/0017/6043/176043v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Goretsky",
+      "permalink": "ben-goretsky",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Goretsky",
+      "permalink": "alex-goretsky",
+      "image": null}},
+   {"is_past": false,
+    "title": "Vice President",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Drake",
+      "permalink": "martin-drake",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "McEwen",
+      "permalink": "tim-mcewen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Authorize.net",
+      "permalink": "authorize-net",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0005/1774/51774v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0005/1774/51774v1-max-250x250.png"],
+          [[450,
+            122],
+           "assets/images/resized/0005/1774/51774v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "eProcessing Network",
+      "permalink": "eprocessing-network",
+      "image": null}},
+   {"competitor":
+     {"name": "LinkPoint360",
+      "permalink": "linkpoint360",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0008/3084/83084v2-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0008/3084/83084v2-max-250x250.png"],
+          [[404,
+            110],
+           "assets/images/resized/0008/3084/83084v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PayPal",
+      "permalink": "paypal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3943/3943v8-max-150x150.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-250x250.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate",
+    "address1": "4929 Wilshire Blvd",
+    "address2": "8th Floor",
+    "zip_code": "90010",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.paysaber.com",
+    "title": "PaySaber Wireless Product"},
+   {"external_url": "http://www.wirelessepay.com",
+    "title": "Wireless Line of Products"},
+   {"external_url": "http://ww.retailepay.com",
+    "title": "Retail ePay Line of Products"}]}

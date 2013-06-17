@@ -1,0 +1,63 @@
+{"name": "Sierraware",
+ "permalink": "sierraware",
+ "crunchbase_url": "http://www.crunchbase.com/company/sierraware",
+ "homepage_url": "http://www.sierraware.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "sierrawarellc",
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "virtualization, embedded, arm-trustzone",
+ "alias_list": null,
+ "email_address": "sales@sierraware.com",
+ "phone_number": "",
+ "description": "Embedded Virtualization Experts",
+ "created_at": "Thu May 24 00:13:20 UTC 2012",
+ "updated_at": "Thu May 24 14:39:40 UTC 2012",
+ "overview": "\u003Cp\u003ESierraware develops virtualization and security software for embedded devices. Sierraware products enable hardware manufacturers to produce secure, feature-rich smart mobile phones, set-top boxes, and headless residential gateways. Sierraware offers a bare metal hypervisor for ARM processors and security and networking applications that support a wide range of ARM architectures and SOCs. \u003C/p\u003E\n\n\u003Cp\u003EConsumer electronic devices like phones and set-top boxes must be open and secure, integrating media codecs while protecting DRM and other valuable assets.     \u003C/p\u003E\n\n\u003Cp\u003E\u003Cem\u003EOpen Virtualization for ARM TrustZone\u003C/em\u003E\nSierraware has also created the first open source implementation of ARM TrustZone API and released it through the Open Virtualization Project. The Open Virtualization software and Open Secure Boot together help OEMs leverage the TrustZone API and add a secure, lightwight kernel to mobile and networking devices. The Open Virtualization project follows the specifications outlined by GlobalPlatform.\u003C/p\u003E\n\n\u003Cp\u003E\u003Cem\u003EProfessional Services\u003C/em\u003E\nThe Sierraware professional services team offers expertise in SOC design to help the OEMs and enterprises create state of the art products. Sierraware professional services consultants are available to assist customers in every phase of development, from product definition to architecture and design through validation and deployment.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        123],
+       "assets/images/resized/0019/1344/191344v2-max-150x150.jpg"],
+      [[250,
+        205],
+       "assets/images/resized/0019/1344/191344v2-max-250x250.jpg"],
+      [[355,
+        292],
+       "assets/images/resized/0019/1344/191344v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.openvirtualization.org/sierraware.html",
+    "title": "Sierraware's Open Source Project for ARM TrustZone"}]}

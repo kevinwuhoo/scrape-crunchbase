@@ -1,0 +1,182 @@
+{"name": "SimpleCDN",
+ "permalink": "simplecdn",
+ "crunchbase_url": "http://www.crunchbase.com/company/simplecdn",
+ "homepage_url": "http://www.SimpleCDN.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 15,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cdn, delivery, content-delivery, content-delivery-network, live-streaming, flash-streaming, windows-media-streaming, streaming, caching",
+ "alias_list": null,
+ "email_address": "info@simplecdn.com",
+ "phone_number": "800-269-3033",
+ "description": null,
+ "created_at": "Fri Oct 10 16:42:40 UTC 2008",
+ "updated_at": "Wed Aug 22 20:23:13 UTC 2012",
+ "overview": "\u003Cp\u003EFounded in 2007, SimpleCDN provides advanced content delivery services which shatter existing price barriers.\u003C/p\u003E\n\n\u003Cp\u003EWith pricing that starts less than single source delivery providers such as Amazon S3, SimpleCDN offers HTTP, HTTPS, RTMP, RTSP \u0026amp; MMS access to objects, supporting not only downloads, but also Flash \u0026amp; Windows Media Streaming. In addition, SimpleCDN is one of the only CDNs which supports on-the-fly gzip compression, and the ability to control cache-control and expires headers.\u003C/p\u003E\n\n\u003Cp\u003EIn September of 2008, SimpleCDN released its live streaming service, with the ability to stream both live Flash \u0026amp; Windows Media to worldwide audiences.\u003C/p\u003E\n\n\u003Cp\u003ESimpleCDN was designed to handle high-bandwidth applications such as HD video delivery, with its 100% solid state and 10Gbe architecture.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0002/6525/26525v2-max-150x150.png"],
+     [[250,
+       86],
+      "assets/images/resized/0002/6525/26525v2-max-250x250.png"],
+     [[450,
+       155],
+      "assets/images/resized/0002/6525/26525v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "On-Demand CDN Services",
+    "permalink": "on-demand-cdn-services",
+    "image": null},
+   {"name": "Live CDN Services",
+    "permalink": "live-cdn-services",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Engineer",
+    "person":
+     {"first_name": "Frank",
+      "last_name": "Wilson",
+      "permalink": "frank-wilson",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/0105/250105v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/0105/250105v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/0105/250105v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Akamai Technologies",
+      "permalink": "akamai-technologies",
+      "image":
+       {"available_sizes":
+         [[[105,
+            45],
+           "assets/images/resized/0000/4285/4285v1-max-150x150.png"],
+          [[105,
+            45],
+           "assets/images/resized/0000/4285/4285v1-max-250x250.png"],
+          [[105,
+            45],
+           "assets/images/resized/0000/4285/4285v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Limelight Networks",
+      "permalink": "limelightnetworks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/4006/4006v3-max-150x150.png"],
+          [[210,
+            67],
+           "assets/images/resized/0000/4006/4006v3-max-250x250.png"],
+          [[210,
+            67],
+           "assets/images/resized/0000/4006/4006v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BitGravity",
+      "permalink": "bitgravity",
+      "image":
+       {"available_sizes":
+         [[[120,
+            90],
+           "assets/images/resized/0001/0770/10770v4-max-150x150.png"],
+          [[120,
+            90],
+           "assets/images/resized/0001/0770/10770v4-max-250x250.png"],
+          [[120,
+            90],
+           "assets/images/resized/0001/0770/10770v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EdgeCast Networks",
+      "permalink": "edgecast",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/2596/2596v3-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0000/2596/2596v3-max-250x250.png"],
+          [[362,
+            99],
+           "assets/images/resized/0000/2596/2596v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Panther Express",
+      "permalink": "panther-express",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0001/3984/13984v1-max-150x150.png"],
+          [[198,
+            78],
+           "assets/images/resized/0001/3984/13984v1-max-250x250.png"],
+          [[198,
+            78],
+           "assets/images/resized/0001/3984/13984v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CDNetworks",
+      "permalink": "cdnetworks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0003/4750/34750v2-max-150x150.jpg"],
+          [[250,
+            75],
+           "assets/images/resized/0003/4750/34750v2-max-250x250.jpg"],
+          [[423,
+            127],
+           "assets/images/resized/0003/4750/34750v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "11 Great Oaks",
+    "address2": "",
+    "zip_code": "95119",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.2318159,
+    "longitude": -121.7822278}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

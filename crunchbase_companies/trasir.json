@@ -1,0 +1,154 @@
+{"name": "Trasir",
+ "permalink": "trasir",
+ "crunchbase_url": "http://www.crunchbase.com/company/trasir",
+ "homepage_url": "http://trasir.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "trasir",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 4,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ip, ip-address, proxy, geolocation, geoip, domains, dns, proxies, networks, hosts, hosting, reverse, trasir, tracing, lookup",
+ "alias_list": null,
+ "email_address": "sysop@trasir.com",
+ "phone_number": "",
+ "description": "IP Address and Domain Lookup",
+ "created_at": "Wed Aug 25 19:13:27 UTC 2010",
+ "updated_at": "Tue Aug 28 07:23:16 UTC 2012",
+ "overview": "\u003Cp\u003ETrasir (the phonetic spelling of \u0026#8220;tracer\u0026#8221;) provides users with the ability to perform reverse domain searches and IP address lookups for the purpose of researching relevant data. Search queries and resulting information are complied from public information and are not collected nor shared by the authoring company.\u003C/p\u003E\n\n\u003Cp\u003EThe website acts as a tool to:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003E\u003Cp\u003EReveal remote details such as IP addresses, ISPs, and locations\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EProvide local info such as browser settings, devices, and displays\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EConvert IPv4 and IPv6 with automatic correction and compression\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EAct as a test for proxy and security configurations\u003C/p\u003E\u003C/li\u003E\n\u003C/ol\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0009/9322/99322v17-max-150x150.png"],
+     [[250,
+       71],
+      "assets/images/resized/0009/9322/99322v17-max-250x250.png"],
+     [[253,
+       72],
+      "assets/images/resized/0009/9322/99322v17-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Harrison",
+      "permalink": "brian-harrison-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "DomainTools",
+      "permalink": "domaintools",
+      "image":
+       {"available_sizes":
+         [[[150,
+            20],
+           "assets/images/resized/0007/7236/77236v7-max-150x150.png"],
+          [[250,
+            34],
+           "assets/images/resized/0007/7236/77236v7-max-250x250.png"],
+          [[372,
+            51],
+           "assets/images/resized/0007/7236/77236v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IP2Location",
+      "permalink": "ip2location",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0003/1428/31428v2-max-150x150.png"],
+          [[160,
+            94],
+           "assets/images/resized/0003/1428/31428v2-max-250x250.png"],
+          [[160,
+            94],
+           "assets/images/resized/0003/1428/31428v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "DNSStuff.com",
+      "permalink": "dnsstuff-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0011/2250/112250v2-max-150x150.jpg"],
+          [[223,
+            55],
+           "assets/images/resized/0011/2250/112250v2-max-250x250.jpg"],
+          [[223,
+            55],
+           "assets/images/resized/0011/2250/112250v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IP-Lookup.net",
+      "permalink": "ip-lookup-net",
+      "image": null}},
+   {"competitor":
+     {"name": "IP-Adress.com",
+      "permalink": "ip-adress-com",
+      "image": null}},
+   {"competitor":
+     {"name": "IPAddress.com",
+      "permalink": "ipaddress-com",
+      "image": null}},
+   {"competitor":
+     {"name": "InfoSniper.net",
+      "permalink": "infosniper-net",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main",
+    "address1": "",
+    "address2": "",
+    "zip_code": "21074",
+    "city": "Hampstead",
+    "state_code": "MD",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        78],
+       "assets/images/resized/0020/6982/206982v2-max-150x150.png"],
+      [[250,
+        131],
+       "assets/images/resized/0020/6982/206982v2-max-250x250.png"],
+      [[450,
+        236],
+       "assets/images/resized/0020/6982/206982v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.makeuseof.com/dir/trasir-look-up-ip-address/",
+    "title": "Trasir: Quickly Lookup Any IP"},
+   {"external_url": "http://www.downloadsquad.com/2010/09/10/trasir-shows-you-what-connection-data-youre-sharing-with-the-wo/",
+    "title": "Trasir Shows You What You're Sharing"},
+   {"external_url": "http://www.switched.com/2010/09/10/trasir-reveals-how-much-of-our-personal-data-websites-can-gather/",
+    "title": "Trasir Reveals How Much Data Websites Can Gather"},
+   {"external_url": "http://www.damego.com/trasir-reveals-how-much-information-internet-users-share",
+    "title": "Trasir Reveals How Much Information Users Share"}]}

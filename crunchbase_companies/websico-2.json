@@ -1,0 +1,95 @@
+{"name": "WEBSICO",
+ "permalink": "websico-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/websico-2",
+ "homepage_url": "http://websico.com/en/home.html",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "websico",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-publishing, website, web-design, website-editor, saas",
+ "alias_list": null,
+ "email_address": "contact@websico.com",
+ "phone_number": "+33 (0)6 32 02 73 28",
+ "description": "web publishing software",
+ "created_at": "Thu May 02 08:53:45 UTC 2013",
+ "updated_at": "Mon May 06 09:47:41 UTC 2013",
+ "overview": "\u003Cp\u003EWEBSICO is a web editor that gives a greater\nease-of-use and freedom to create contents on\nthe blank page of the computer, without hand\ncoding.\nThanks to a WYSIWYG interface and an HTML/CSS code generator, WEBSiCO exempts the user of hand coding, frees him from pre-installed themes and allows him, without needing additional utility software, to create directly on the blank page and publish online unique webpages and websites.\nIt allows also the user insert his own HTML/CSS code and integrate special items or performances (video, social widgets, flash, banner ads, payment buttons, etc\u2026) by importing external code.\nWEBSiCO helps build and publish custom contents on the web: personal pages, corporate websites, catalogs websites, event websites, mobile websites, webzines, landing pages, web docs, prototypes.\nWEBSiCO is addressed to those who wish to create or integrate flexible and changeable architectures, appearances and contents, while being relieved from technical tasks: graphic designers, web designers, webmasters, web project managers\u2026 \nWEBSiCO is available in SaaS mode; a free subscription with no time limit offers a sufficient capacity to learn about WEBSiCO, create a personal page, a website, prototypes, etc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0025/7390/257390v2-max-150x150.png"],
+     [[250,
+       90],
+      "assets/images/resized/0025/7390/257390v2-max-250x250.png"],
+     [[350,
+       127],
+      "assets/images/resized/0025/7390/257390v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO Cofounder",
+    "person":
+     {"first_name": "Minart",
+      "last_name": "Henri",
+      "permalink": "minart-henri",
+      "image": null}},
+   {"is_past": false,
+    "title": "Technical manager Cofounder",
+    "person":
+     {"first_name": "Seston",
+      "last_name": "Olivier",
+      "permalink": "seston-olivier",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquaters",
+    "address1": "131 rue Mandron",
+    "address2": "",
+    "zip_code": "33000",
+    "city": "Bordeaux",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 44.8547835,
+    "longitude": -0.5827375}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003C!-- Styles Flexible iFrame. Should be placed in head section for a better W3C conformance --\u003E\r\n\u003Cstyle\u003E\r\n.Flexible-container {position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;}\r\n.Flexible-container iframe,   \r\n.Flexible-container object,  \r\n.Flexible-container embed {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}\r\n\u003C/style\u003E\r\n\r\n\u003C!-- Responsive iFrame --\u003E\r\n\u003Cdiv class=\"Flexible-container\"\u003E\r\n    \u003Ciframe src=\"http://www.youtube.com/embed/CxoEINGAJk0?rel=0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E\r\n\u003C/div\u003E\r\n",
+    "description": "\u003Cp\u003EMore freedom for web publishing by websico\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        67],
+       "assets/images/resized/0025/7389/257389v2-max-150x150.png"],
+      [[250,
+        112],
+       "assets/images/resized/0025/7389/257389v2-max-250x250.png"],
+      [[450,
+        201],
+       "assets/images/resized/0025/7389/257389v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

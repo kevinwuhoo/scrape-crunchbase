@@ -1,0 +1,248 @@
+{"name": "tymr",
+ "permalink": "tymr",
+ "crunchbase_url": "http://www.crunchbase.com/company/tymr",
+ "homepage_url": "http://tymr.com",
+ "blog_url": "http://tymr.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "tymrapp",
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-network, events, event, places, tickets, event-planning, event-promotion",
+ "alias_list": null,
+ "email_address": "tymr@tymr.com",
+ "phone_number": "+351 229824844",
+ "description": "events social network",
+ "created_at": "Mon Oct 24 12:08:26 UTC 2011",
+ "updated_at": "Thu Feb 02 22:27:04 UTC 2012",
+ "overview": "\u003Cp\u003Etymr.com is a one-in-all solution for planning, managing and promoting any type of events.\u003C/p\u003E\n\n\u003Cp\u003EThe aim of this SaaS is to overcome the lack of a platform (on a global, regional and local level) that combines a dedicated event management tool with a social network, which provides feedback and information about the events and the places where they occur.\u003C/p\u003E\n\n\u003Cp\u003EThe social network platform has a strong focus on geolocation and scheduling. It also integrates all the social aspects of a modern framework.. like real-time updates, followings, ratings, private-messaging and others.\u003C/p\u003E\n\n\u003Cp\u003EBy understanding an event as an action that can be booked, our target costumers can range from a single friends party organizer, to professional conference promoters.\u003C/p\u003E\n\n\u003Cp\u003ETherefore, tymr meets all the characteristics to become a mean of excellence in events publishing. In this regard we intend to surprise users through a detailed recommender system that foresees intended research and find events according to users profile, social graph, location, etc.\u003C/p\u003E\n\n\u003Cp\u003EThis aspects and many more, make tymr a very practical and thus attractive solution, allowing it \u00cc\u0081s users to easily manage their agenda and make it compatible with those of his friends. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       98],
+      "assets/images/resized/0016/1088/161088v2-max-150x150.png"],
+     [[250,
+       164],
+      "assets/images/resized/0016/1088/161088v2-max-250x250.png"],
+     [[336,
+       221],
+      "assets/images/resized/0016/1088/161088v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Francisco",
+      "last_name": "Costa",
+      "permalink": "francisco-costa",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0016/1161/161161v3-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0016/1161/161161v3-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0016/1161/161161v3-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Eventful",
+      "permalink": "eventful",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0024/6014/246014v2-max-150x150.jpg"],
+          [[250,
+            88],
+           "assets/images/resized/0024/6014/246014v2-max-250x250.jpg"],
+          [[450,
+            159],
+           "assets/images/resized/0024/6014/246014v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zvents",
+      "permalink": "zvents",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0001/4245/14245v1-max-150x150.png"],
+          [[196,
+            72],
+           "assets/images/resized/0001/4245/14245v1-max-250x250.png"],
+          [[196,
+            72],
+           "assets/images/resized/0001/4245/14245v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Upcoming",
+      "permalink": "upcoming",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1816/1816v1-max-150x150.png"],
+          [[200,
+            57],
+           "assets/images/resized/0000/1816/1816v1-max-250x250.png"],
+          [[200,
+            57],
+           "assets/images/resized/0000/1816/1816v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventbrite",
+      "permalink": "eventbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/3442/3442v8-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0000/3442/3442v8-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/3442/3442v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Meetup",
+      "permalink": "meetup",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0001/3896/13896v3-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0001/3896/13896v3-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0001/3896/13896v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "amiando",
+      "permalink": "amiando",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/2013/12013v7-max-150x150.png"],
+          [[225,
+            56],
+           "assets/images/resized/0001/2013/12013v7-max-250x250.png"],
+          [[225,
+            56],
+           "assets/images/resized/0001/2013/12013v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventbee",
+      "permalink": "eventbee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/4384/4384v1-max-150x150.png"],
+          [[200,
+            55],
+           "assets/images/resized/0000/4384/4384v1-max-250x250.png"],
+          [[200,
+            55],
+           "assets/images/resized/0000/4384/4384v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EventOrb",
+      "permalink": "eventorb",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0002/3590/23590v4-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0002/3590/23590v4-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0002/3590/23590v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 3,
+    "funded_day": 3,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Portugal Office",
+    "address1": "Rua Augusto Nogueira da Silva",
+    "address2": "763",
+    "zip_code": "4475-615",
+    "city": "Maia",
+    "state_code": null,
+    "country_code": "PRT",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/30852548?title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;color=69c5b5\" width=\"398\" height=\"224\" frameborder=\"0\" webkitAllowFullScreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003Epitch\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.linkedin.com/company/tymr",
+    "title": "LinkedIn"}]}

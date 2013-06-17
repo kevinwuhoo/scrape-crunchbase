@@ -1,0 +1,122 @@
+{"name": "tsumobi",
+ "permalink": "tsumobi",
+ "crunchbase_url": "http://www.crunchbase.com/company/tsumobi",
+ "homepage_url": "http://tsumobi.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 3,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@tsumobi.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Mar 14 20:36:28 UTC 2008",
+ "updated_at": "Thu Mar 21 06:21:19 UTC 2013",
+ "overview": "\u003Cp\u003EMobile applications have so far been nightmares to implement. It\u0026#8217;s often hard to gain adoption due to complicated installs and near impossible to get users to upgrade their version once the product has shipped. Tsumobi hopes to solve this problem by creating their own language. The new language will sit on top of J2ME and process applications downloaded (via URL) for Tsumobi enabled sites. This means that developers will be able to change Tsumobi applications on the fly and have Tsumobi enabled phones automatically get the updates just by visiting a link.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0001/5779/15779v1-max-150x150.png"],
+     [[243,
+       91],
+      "assets/images/resized/0001/5779/15779v1-max-250x250.png"],
+     [[243,
+       91],
+      "assets/images/resized/0001/5779/15779v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.techcrunch.com/2007/03/09/demo-day-y-combinators-spring-chicks/",
+    "source_description": "Demo Day: Y Combinator's Spring Chicks",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]},
+   {"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "XG Ventures",
+         "permalink": "xg-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               150],
+              "assets/images/resized/0003/2234/32234v7-max-150x150.jpg"],
+             [[188,
+               188],
+              "assets/images/resized/0003/2234/32234v7-max-250x250.jpg"],
+             [[188,
+               188],
+              "assets/images/resized/0003/2234/32234v7-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tsumobi, Inc",
+    "address1": "434 Massachusetts Avenue, #2",
+    "address2": "",
+    "zip_code": "02139",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

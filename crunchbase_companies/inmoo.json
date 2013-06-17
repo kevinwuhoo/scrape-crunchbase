@@ -1,0 +1,119 @@
+{"name": "Inmoo",
+ "permalink": "inmoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/inmoo",
+ "homepage_url": "http://www.inmoo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "inmoocom",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, film",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Independent Film Streaming Portal",
+ "created_at": "Wed Aug 24 21:23:00 UTC 2011",
+ "updated_at": "Sun Aug 28 03:52:49 UTC 2011",
+ "overview": "\u003Cp\u003EInmoo is the largest authorized independent entertainment theater on the Web, providing free access to thousands of independent films from your computer, smartphone, tablet or living room.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       62],
+      "assets/images/resized/0015/0950/150950v2-max-150x150.png"],
+     [[156,
+       65],
+      "assets/images/resized/0015/0950/150950v2-max-250x250.png"],
+     [[156,
+       65],
+      "assets/images/resized/0015/0950/150950v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Netflix",
+      "permalink": "netflix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7200/17200v1-max-150x150.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-250x250.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Openfilm",
+      "permalink": "openfilm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/0066/20066v6-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0002/0066/20066v6-max-250x250.png"],
+          [[284,
+            86],
+           "assets/images/resized/0002/0066/20066v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Crackle",
+      "permalink": "crackle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/3862/3862v3-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/3862/3862v3-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0000/3862/3862v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.fierceonlinevideo.com/story/roku-adds-arquette-backed-indie-film-distributor-inmoo-channel-line/2011-05-17",
+    "title": "Roku Ads Inmoo"},
+   {"external_url": "http://crave.cnet.co.uk/televisions/david-arquette-to-launch-inmoo-a-digital-video-distribution-platform-50000219/",
+    "title": "David Arquette to launch inmoo, a digital video distribution platform"}]}

@@ -1,0 +1,71 @@
+{"name": "VelocityDB",
+ "permalink": "velocitydb",
+ "crunchbase_url": "http://www.crunchbase.com/company/velocitydb",
+ "homepage_url": "http://www.velocitydb.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "VelocityDB",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "object-database, database, nosql, embeddable, distributable, scalable, high-performance, c, persistence, oodb, client, server, android, mono, encryption, compression, small-footprint, transactions, multi-user",
+ "alias_list": null,
+ "email_address": "Sales@VelocityDB.com",
+ "phone_number": "",
+ "description": ".NET Object Database",
+ "created_at": "Tue Feb 19 04:16:13 UTC 2013",
+ "updated_at": "Tue Feb 19 21:49:32 UTC 2013",
+ "overview": "\u003Cp\u003EVelocityDB is an Object Database but it is also a NoSQL, a Graph Data Store and an excellent choice for Embedded database or a  Distributed database. By using class BTreeMap, an efficient distributed Key/Value store is provided as well. Value\u003C/p\u003E\n\n\u003Cp\u003EUsing VelocityDB saves time and money for all software requiring reliable, high performance data persistence. The use of VelocityDB can be hidden from your application user\u0026#8217;s and doesn\u0026#8217;t require a team of database administrators (DBA\u0026#8217;s).\u003C/p\u003E\n\n\u003Cp\u003EBenefits\nThe most important benefit is the flexibility that this database system provides. No other types of database system lets you fine tune your application to the finest details. Using VelocityDB, you can choose the best possible data structures for your application. You can control exactly where you place the data persistently. The placement choice can make a huge difference for performance. With VelocityDB you will have the ultimate tool for persisting data efficiently with unbeatable performance.\u003C/p\u003E\n\n\u003Cp\u003EUnstructured Data can be managed efficiently using VelocityDB. Several of the sample applications provided with the download explore unstructured data. The triangle counter test demonstrates how efficient it is to follow association/relations. In memory, an association in VelocityDB is simply a C# object reference. It can\u0026#8217;t get any more efficient than that. The Kevin Bacon Numbers sample is another example showing how efficient we can handle unstructured data. A common way to manage unstructured data is to add such data to an inverted index. That way we can efficiently query such data, like if we want to know what store products that match one or more words. The entire Google search mechanism is based on an inverted index. In some of our samples we use inverted indexes, these samples include; TextIndexer and Wikipedia.\u003C/p\u003E\n\n\u003Cp\u003EVelocityDB is extremely scalable; it can handle small applications with small amounts of persistent data as well as applications using trillions of objects up to about an Yottabyte in size per session. Unlimited number of sessions can be used per application. Performance is fantastic, a billion Person object database is quickly created, a little over 1 hour, and can be browsed with the VelocityDbBrowser.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[45,
+       26],
+      "assets/images/resized/0023/6847/236847v2-max-150x150.jpg"],
+     [[45,
+       26],
+      "assets/images/resized/0023/6847/236847v2-max-250x250.jpg"],
+     [[45,
+       26],
+      "assets/images/resized/0023/6847/236847v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Houston",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

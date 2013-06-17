@@ -1,0 +1,126 @@
+{"name": "Meetro",
+ "permalink": "meetro",
+ "crunchbase_url": "http://www.crunchbase.com/company/meetro",
+ "homepage_url": "http://www.meetro.com",
+ "blog_url": "http://hq.meetro.com",
+ "blog_feed_url": "http://hq.meetro.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": 2008,
+ "deadpooled_month": 4,
+ "deadpooled_day": 9,
+ "deadpooled_url": "http://www.techcrunch.com/2008/04/09/meetro-abandoned-for-lefora-a-hosted-forum-solution/",
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Wed Aug 08 04:40:54 UTC 2007",
+ "updated_at": "Fri May 23 23:58:17 UTC 2008",
+ "overview": "\u003Cp\u003EMeetro was a freely downloadable instant messaging client and real-time social networking application that was for its location awareness.\u003C/p\u003E\n\n\u003Cp\u003EIt detected your own physical location and then let you see which other Meetro users were located nearby.  \u003C/p\u003E\n\n\u003Cp\u003EAvailable for both Windows and Mac, Meetro also supported AIM, MSN, ICQ, and Yahoo IM services so you could combine all of your buddies across different messaging services using Meetro as a singular platform to chat.  \u003C/p\u003E\n\n\u003Cp\u003EMeetro also included a social networking aspect allowing users to create their own profile (complete with picture) in which they could not only provide information about themselves but also link to YouTube videos, their MySpace profile, Flickr account, and others.  \u003C/p\u003E\n\n\u003Cp\u003EMeetro\u0026#8217;s ultimate offering was the ability to let people stay in touch with existing friends, meet new people online, and most importantly provide an avenue to physically meet new people in the real world. \u003C/p\u003E\n\n\u003Cp\u003ESince its basis was centered around providing people\u0026#8217;s general locations, Meetro took steps to safeguard individuals\u0026#8217; privacy by showing only the radial distance between users and never displaying (even to mutual friends) users\u0026#8217; actual addresses.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0001/4249/14249v1-max-150x150.png"],
+     [[210,
+       42],
+      "assets/images/resized/0001/4249/14249v1-max-250x250.png"],
+     [[210,
+       42],
+      "assets/images/resized/0001/4249/14249v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Meetro",
+    "permalink": "meetro",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO, Co-Founder",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Bragiel",
+      "permalink": "paul-bragiel",
+      "image":
+       {"available_sizes":
+         [[[94,
+            105],
+           "assets/images/resized/0001/8914/18914v1-max-150x150.png"],
+          [[94,
+            105],
+           "assets/images/resized/0001/8914/18914v1-max-250x250.png"],
+          [[94,
+            105],
+           "assets/images/resized/0001/8914/18914v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Samuel",
+      "last_name": "Stauffer",
+      "permalink": "samuel-stauffer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "aka-aki networks",
+      "permalink": "akaaki",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0000/0463/463v2-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0000/0463/463v2-max-250x250.jpg"],
+          [[450,
+            99],
+           "assets/images/resized/0000/0463/463v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "imity",
+      "permalink": "imity",
+      "image":
+       {"available_sizes":
+         [[[135,
+            61],
+           "assets/images/resized/0001/6615/16615v1-max-150x150.png"],
+          [[135,
+            61],
+           "assets/images/resized/0001/6615/16615v1-max-250x250.png"],
+          [[135,
+            61],
+           "assets/images/resized/0001/6615/16615v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": null,
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.437328,
+    "longitude": -122.159928}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

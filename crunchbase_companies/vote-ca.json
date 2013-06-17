@@ -1,0 +1,92 @@
+{"name": "Vote.ca",
+ "permalink": "vote-ca",
+ "crunchbase_url": "http://www.crunchbase.com/company/vote-ca",
+ "homepage_url": "http://vote.ca",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "vote",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "vote, voting, election, canada, where-to-vote, candidates",
+ "alias_list": null,
+ "email_address": "contact@vote.ca",
+ "phone_number": "",
+ "description": "Canada's Election Engine",
+ "created_at": "Thu Apr 21 16:36:03 UTC 2011",
+ "updated_at": "Thu Feb 16 20:26:14 UTC 2012",
+ "overview": "\u003Cp\u003EVote.ca organizes voting and election information around your location in Canada.\u003C/p\u003E\n\n\u003Cp\u003EVote works with government and political parties to bring together key voter info in a universal, simple format, across all locations and levels of government in Canada.  \u003C/p\u003E\n\n\u003Cp\u003EFind where to vote and your candidates, mapped around your location.\u003C/p\u003E\n\n\u003Cp\u003ECitizens use vote.ca to get key voting info, candidates use it to get out their supporters and government promotes civic awareness and easy access to the vote.  \u003C/p\u003E\n\n\u003Cp\u003EVote.ca was created by Larry Franschman, with programming by Michael Mulley, as an open data/open government effort, organizing public election info around your ward, electoral district or riding, the building blocks of our democracy in Canada.  \u003C/p\u003E\n\n\u003Cp\u003EThere\u00e2\u20ac\u2122s also an API to tell you which political districts contain any given point in Canada to help sort other data on that basis.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[145,
+       132],
+      "assets/images/resized/0013/1517/131517v2-max-150x150.jpg"],
+     [[145,
+       132],
+      "assets/images/resized/0013/1517/131517v2-max-250x250.jpg"],
+     [[145,
+       132],
+      "assets/images/resized/0013/1517/131517v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Larry",
+      "last_name": "Franschman",
+      "permalink": "larry-franschman",
+      "image": null}},
+   {"is_past": false,
+    "title": "principal",
+    "person":
+     {"first_name": "please",
+      "last_name": "remove",
+      "permalink": "please-remove-5",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google Elections Center (US)",
+      "permalink": "google-elections-center-us",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        80],
+       "assets/images/resized/0013/1516/131516v2-max-150x150.png"],
+      [[250,
+        134],
+       "assets/images/resized/0013/1516/131516v2-max-250x250.png"],
+      [[450,
+        242],
+       "assets/images/resized/0013/1516/131516v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://toronto.ctv.ca/servlet/an/local/CTVNews/20101013/torontovotes-poll-locating-website-vote-101003/20101013/?hub=TorontoNewHome",
+    "title": "Website lets Torontonians locate where they vote"},
+   {"external_url": "http://www.cp24.com/servlet/an/local/CTVNews/20101013/101013_website/20101013/?hub=CP24Home",
+    "title": "Website helps you find your voting place; just type in your address"}]}

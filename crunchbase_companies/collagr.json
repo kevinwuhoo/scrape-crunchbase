@@ -1,0 +1,108 @@
+{"name": "Collagr",
+ "permalink": "collagr",
+ "crunchbase_url": "http://www.crunchbase.com/company/collagr",
+ "homepage_url": "http://www.collagr.com",
+ "blog_url": "http://blog.collagr.com",
+ "blog_feed_url": "http://blog.collagr.com/rss",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Aug 28 13:40:10 UTC 2007",
+ "updated_at": "Thu Jul 19 23:33:08 UTC 2012",
+ "overview": "\u003Cp\u003EWe allow users to create huge collages just by pasting their Flickr or Photobucket urls. We are now implementing MySpace so our engine will be able to crawl through their images and create a large collage to share or use to customize their MySpace pages.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       150],
+      "assets/images/resized/0000/0103/103v6-max-150x150.jpg"],
+     [[166,
+       250],
+      "assets/images/resized/0000/0103/103v6-max-250x250.jpg"],
+     [[300,
+       450],
+      "assets/images/resized/0000/0103/103v6-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Collagr",
+    "permalink": "collagr",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Sanz",
+      "permalink": "christian-sanz",
+      "image":
+       {"available_sizes":
+         [[[118,
+            150],
+           "assets/images/resized/0002/4731/24731v4-max-150x150.jpg"],
+          [[197,
+            250],
+           "assets/images/resized/0002/4731/24731v4-max-250x250.jpg"],
+          [[356,
+            450],
+           "assets/images/resized/0002/4731/24731v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "Andy",
+      "last_name": "Kim",
+      "permalink": "andy-kim",
+      "image":
+       {"available_sizes":
+         [[[97,
+            150],
+           "assets/images/resized/0007/8978/78978v2-max-150x150.jpg"],
+          [[162,
+            250],
+           "assets/images/resized/0007/8978/78978v2-max-250x250.jpg"],
+          [[260,
+            399],
+           "assets/images/resized/0007/8978/78978v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EAndy Kim / [Qikfit]\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "12310 Reva St.",
+    "address2": null,
+    "zip_code": "90703",
+    "city": "Cerritos",
+    "state_code": "CA",
+    "country_code": "AFG",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,77 @@
+{"name": "JSLogger",
+ "permalink": "jslogger",
+ "crunchbase_url": "http://www.crunchbase.com/company/jslogger",
+ "homepage_url": "http://jslogger.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "jsloggercom",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "javascript, error, event, track, cloud, nodejs, ruby, script, browser",
+ "alias_list": null,
+ "email_address": "support@jslogger.com",
+ "phone_number": "",
+ "description": "Javascript errors and events tracker",
+ "created_at": "Sat Jun 01 13:07:52 UTC 2013",
+ "updated_at": "Mon Jun 03 14:31:39 UTC 2013",
+ "overview": "\u003Cp\u003ELogs client-side browser errors and events in the cloud (mostly Javascript).\u003C/p\u003E\n\n\u003Cp\u003EWeb apps generate a lot of errors and exceptions in the client\u0026#8217;s  browser that are never known by the developers or site owners. The interface will simply crash and the customer will abandon the Web Page. JSLogger keeps track of this errors and stores them in the cloud for later debugging.\nIt can also track client-side events while the user surfs the site. This way you can easily \u0026#8220;spy\u0026#8221; on your user\u0026#8217;s behavior and improve the application\u0026#8217;s interface.\u003C/p\u003E\n\n\u003Cp\u003EA great advantage that JSLogger brings is that it saves the events remotely. This way you don\u0026#8217;t have to overload your site with unwanted requests.\u003C/p\u003E\n\n\u003Cp\u003EJSLogger takes care about the mobile devices as well and tells you for which phones and browsers your interface needs to be improved.\u003C/p\u003E\n\n\u003Cp\u003ERecently, JSLogger released backend libraries for NodeJS (Ruby is coming next) that makes possible the BACKEND errors and events tracking. This way you can keep all your logs in the same cloud and manage them through one interface.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0027/0061/270061v2-max-150x150.png"],
+     [[220,
+       220],
+      "assets/images/resized/0027/0061/270061v2-max-250x250.png"],
+     [[220,
+       220],
+      "assets/images/resized/0027/0061/270061v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Dumitru",
+      "last_name": "Glavan",
+      "permalink": "dumitru-glavan-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Office in Antwerp",
+    "address1": "Vloeiende 82 B",
+    "address2": "",
+    "zip_code": "2950",
+    "city": "Kapellen",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": 51.2972415,
+    "longitude": 4.4305484}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

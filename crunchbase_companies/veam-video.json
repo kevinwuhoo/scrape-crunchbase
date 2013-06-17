@@ -1,0 +1,107 @@
+{"name": "Veam Video",
+ "permalink": "veam-video",
+ "crunchbase_url": "http://www.crunchbase.com/company/veam-video",
+ "homepage_url": "http://www.veamvideo.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "public_relations",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "veam, job-interview, video-application, conference, conferencing, video-conference, video-conferencing, branded-video, video-interviews, automated-video-interview",
+ "alias_list": null,
+ "email_address": "info@veam.me",
+ "phone_number": "",
+ "description": "Automated video interviews",
+ "created_at": "Wed Jun 13 13:34:01 UTC 2012",
+ "updated_at": "Thu Oct 04 06:27:32 UTC 2012",
+ "overview": "\u003Cp\u003EVeam provides customizable video recording and video conferencing using a webcam, which can be implemented on any website and multiple devices.\u003C/p\u003E\n\n\u003Cp\u003EVia an automated interview system, interviewees have to answer questions which appear in screen. The webcam records them answering. An easy way to leave a first impression for video pitches, job interviews, focus groups etc.. The applications can be branded and integrated in other websites, to provide a seamless experience.\u003C/p\u003E\n\n\u003Cp\u003EVeam also offers branded live video conferencing. Via an innovative calendar system, multiple people can always find a free spot on which their video conference will start. Companies can brand and integrate it fully into their environments. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0019/5280/195280v2-max-150x150.png"],
+     [[247,
+       83],
+      "assets/images/resized/0019/5280/195280v2-max-250x250.png"],
+     [[247,
+       83],
+      "assets/images/resized/0019/5280/195280v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Stribos",
+      "permalink": "tim-stribos",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Keates",
+      "permalink": "john-keates",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Active Interview",
+      "permalink": "active-interview",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0008/9496/89496v2-max-150x150.png"],
+          [[73,
+            73],
+           "assets/images/resized/0008/9496/89496v2-max-250x250.png"],
+          [[73,
+            73],
+           "assets/images/resized/0008/9496/89496v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac275k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 275000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Veam HQ",
+    "address1": "Nettelbosje 1",
+    "address2": "",
+    "zip_code": "",
+    "city": "Groningen",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

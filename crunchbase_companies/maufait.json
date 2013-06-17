@@ -1,0 +1,112 @@
+{"name": "maufait",
+ "permalink": "maufait",
+ "crunchbase_url": "http://www.crunchbase.com/company/maufait",
+ "homepage_url": "http://www.mosnaps.com",
+ "blog_url": "http://www.mosnaps.com/blog/",
+ "blog_feed_url": "http://www.mosnaps.com/blog/?feed=rss2",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, blackberry, photo-upload, app",
+ "alias_list": "",
+ "email_address": "harish@mosnaps.com",
+ "phone_number": "4022030143",
+ "description": "",
+ "created_at": "Thu Oct 23 18:42:37 UTC 2008",
+ "updated_at": "Thu Jul 29 03:39:15 UTC 2010",
+ "overview": "\u003Cp\u003EMosnaps is a fast and simple Blackberry photo upload application designed for individual users, bloggers and mobile journalists. Now, you can instantly upload and post photos to your preferred web destination in a snap.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       84],
+      "assets/images/resized/0002/7232/27232v2-max-150x150.png"],
+     [[203,
+       115],
+      "assets/images/resized/0002/7232/27232v2-max-250x250.png"],
+     [[203,
+       115],
+      "assets/images/resized/0002/7232/27232v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Mosnaps",
+    "permalink": "mosnaps",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Harish",
+      "last_name": "Bharadhwaj",
+      "permalink": "harish-bharadhwaj",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Amit",
+      "last_name": "Chaudhary",
+      "permalink": "amit-chaudhary",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Shozu",
+      "permalink": "shozu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0000/2872/2872v3-max-150x150.jpg"],
+          [[250,
+            74],
+           "assets/images/resized/0000/2872/2872v3-max-250x250.jpg"],
+          [[450,
+            133],
+           "assets/images/resized/0000/2872/2872v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 7,
+    "funded_day": 3,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Omaha",
+    "state_code": "NE",
+    "country_code": "USA",
+    "latitude": 41.259751,
+    "longitude": -95.942336}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.omaha.com/index.php?u_page=1208\u0026u_sid=10444618",
+    "title": "Omahans create software to post photos in a flash"},
+   {"external_url": "http://www.berryreview.com/2008/10/22/mosnaps-revamped-blackberry-wordpress-photo-upload-gps-support-099-a-month/",
+    "title": ""}]}

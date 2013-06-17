@@ -1,0 +1,143 @@
+{"name": "Xcalia",
+ "permalink": "xcalia",
+ "crunchbase_url": "http://www.crunchbase.com/company/xcalia",
+ "homepage_url": "http://www.xcalia.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@xcalia.com",
+ "phone_number": "+33 (0)1 5656 1250 ",
+ "description": "s",
+ "created_at": "Sat Apr 24 02:31:20 UTC 2010",
+ "updated_at": "Sat Apr 24 02:31:19 UTC 2010",
+ "overview": "\u003Cp\u003EXcalia provides intermediation software to create dynamic transactional composite applications. The Xcalia Intermediation Platform\u00e2\u201e\u00a2 combines legacy, mainframe and database resources with web services to dynamically integrate and orchestrate application business processes. As a critical requirement for implementing SOA, it uses metadata to describe services and automatically executes transactions at runtime. Xcalia allows enterprises to quickly respond to changing business requirements and eliminates the need for costly manual integration. Xcalia, founded in 2000, is powering high-volume transactional environments in over 50 companies. Headquartered in Paris, France, it has offices in the US, UK, and Germany. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       89],
+      "assets/images/resized/0008/4782/84782v1-max-150x150.jpg"],
+     [[177,
+       106],
+      "assets/images/resized/0008/4782/84782v1-max-250x250.jpg"],
+     [[177,
+       106],
+      "assets/images/resized/0008/4782/84782v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chairman and CEO",
+    "person":
+     {"first_name": "Pierre",
+      "last_name": "Violo",
+      "permalink": "pierre-violo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, CTO",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Samson",
+      "permalink": "eric-samson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.66M",
+ "funding_rounds":
+  [{"round_code": "c",
+    "source_url": "http://www.xcalia.com/news/PR_2006-12-05-Xcalia-secures-financing-to-market-and-deliver-its-SOA-software-platform.jsp",
+    "source_description": "Xcalia\u00c2\u00ae Secures Venture Financing to Expand Business and Market SOA Software Platform ",
+    "raised_amount": 2660000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 12,
+    "funded_day": 5,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Innovacom",
+         "permalink": "innovacom",
+         "image":
+          {"available_sizes":
+            [[[150,
+               41],
+              "assets/images/resized/0002/9297/29297v2-max-150x150.png"],
+             [[250,
+               69],
+              "assets/images/resized/0002/9297/29297v2-max-250x250.png"],
+             [[271,
+               75],
+              "assets/images/resized/0002/9297/29297v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Iris Capital",
+         "permalink": "iris-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               99],
+              "assets/images/resized/0005/3840/53840v3-max-150x150.jpg"],
+             [[250,
+               165],
+              "assets/images/resized/0005/3840/53840v3-max-250x250.jpg"],
+             [[372,
+               246],
+              "assets/images/resized/0005/3840/53840v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "I-Source Gestion",
+         "permalink": "i-source-gestion",
+         "image":
+          {"available_sizes":
+            [[[150,
+               148],
+              "assets/images/resized/0001/8136/18136v3-max-150x150.jpg"],
+             [[250,
+               247],
+              "assets/images/resized/0001/8136/18136v3-max-250x250.jpg"],
+             [[260,
+               257],
+              "assets/images/resized/0001/8136/18136v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "71 rue Desnouettes",
+    "address2": "",
+    "zip_code": "75015 ",
+    "city": "Paris ",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

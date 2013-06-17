@@ -1,0 +1,88 @@
+{"name": "Review Signal",
+ "permalink": "review-signal",
+ "crunchbase_url": "http://www.crunchbase.com/company/review-signal",
+ "homepage_url": "http://reviewsignal.com",
+ "blog_url": "http://blog.reviewsignal.com",
+ "blog_feed_url": "http://blog.reviewsignal.com/rss",
+ "twitter_username": "reviewsignal",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "reviews, web-hosting, social-media, twitter, data",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Reviews from Social Media",
+ "created_at": "Mon Oct 01 22:03:38 UTC 2012",
+ "updated_at": "Wed Dec 12 06:57:09 UTC 2012",
+ "overview": "\u003Cp\u003EReview Signal monitors opinions shared on social media and uses them to create a review site for consumers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0021/3760/213760v2-max-150x150.png"],
+     [[203,
+       45],
+      "assets/images/resized/0021/3760/213760v2-max-250x250.png"],
+     [[203,
+       45],
+      "assets/images/resized/0021/3760/213760v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Ohashi",
+      "permalink": "kevin-ohashi",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Review Signal",
+    "address1": "920 U St",
+    "address2": "",
+    "zip_code": "20001",
+    "city": "Washington",
+    "state_code": "DC",
+    "country_code": "USA",
+    "latitude": 38.9168788,
+    "longitude": -77.0247978}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        141],
+       "assets/images/resized/0021/3759/213759v2-max-150x150.png"],
+      [[250,
+        235],
+       "assets/images/resized/0021/3759/213759v2-max-250x250.png"],
+      [[450,
+        423],
+       "assets/images/resized/0021/3759/213759v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/09/25/web-hosting-reviews-are-a-cesspool-review-signal-wants-to-fix-that/",
+    "title": "Web Hosting Reviews Are A Cesspool. Review Signal Wants To Fix That"}]}

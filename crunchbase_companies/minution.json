@@ -1,0 +1,146 @@
+{"name": "Minution",
+ "permalink": "minution",
+ "crunchbase_url": "http://www.crunchbase.com/company/minution",
+ "homepage_url": "http://minution.com",
+ "blog_url": "http://blog.minution.com/",
+ "blog_feed_url": "",
+ "twitter_username": "minution",
+ "category_code": "ecommerce",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "marketplace, auction, bid, sealed-bid, lot, discount, sale, sales, market, ecommerce, b2c, seller, shopper, shop, eshop",
+ "alias_list": null,
+ "email_address": "mail@minution.com",
+ "phone_number": "+380637756666",
+ "description": "Second price auction",
+ "created_at": "Thu Aug 11 11:34:01 UTC 2011",
+ "updated_at": "Thu Jan 12 03:45:10 UTC 2012",
+ "overview": "\u003Cp\u003ESecond-price sealed-bid auction.\nPlatform for promo sales and smart give-aways.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "founder, CEO",
+    "person":
+     {"first_name": "Pavlo",
+      "last_name": "Bogacci",
+      "permalink": "pavlo-bogacci-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CIO",
+    "person":
+     {"first_name": "Yegor",
+      "last_name": "Zubarets",
+      "permalink": "yegor-zubarets",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Rodion",
+      "last_name": "Vshevtsov",
+      "permalink": "rodion-vshevtsov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "eBay",
+      "permalink": "ebay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/3625/3625v1-max-150x150.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-250x250.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Woot",
+      "permalink": "woot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            146],
+           "assets/images/resized/0000/3124/3124v1-max-150x150.png"],
+          [[250,
+            243],
+           "assets/images/resized/0000/3124/3124v1-max-250x250.png"],
+          [[450,
+            438],
+           "assets/images/resized/0000/3124/3124v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "oBaz",
+      "permalink": "obaz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0015/0117/150117v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0015/0117/150117v5-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0015/0117/150117v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Alibaba",
+      "permalink": "alibaba",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0000/4465/4465v3-max-150x150.png"],
+          [[210,
+            46],
+           "assets/images/resized/0000/4465/4465v3-max-250x250.png"],
+          [[210,
+            46],
+           "assets/images/resized/0000/4465/4465v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

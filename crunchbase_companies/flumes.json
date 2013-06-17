@@ -1,0 +1,150 @@
+{"name": "Flumes",
+ "permalink": "flumes",
+ "crunchbase_url": "http://www.crunchbase.com/company/flumes",
+ "homepage_url": "http://flumes.com",
+ "blog_url": "http://flumes.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "flumesnews",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, curation, semantic, sentiment-analysis, citizen-journalism, data-mining",
+ "alias_list": null,
+ "email_address": "hello@flumes.com",
+ "phone_number": "",
+ "description": "Social Media Curation",
+ "created_at": "Fri May 04 11:57:50 UTC 2012",
+ "updated_at": "Wed May 09 22:43:41 UTC 2012",
+ "overview": "\u003Cp\u003EFlumes curates the real-time social web by detecting, analysing and visualising the big stories of the day.\u003C/p\u003E\n\n\u003Cp\u003EFlumes is a UK based technology startup that uses natural language processing to detect important conversations on the real time wen and group the corresponding keywords appropriately. Flumes then analyses these conversations and displays the most engaging photos, videos and tweets and gives details of the sentiment, volume and demographics associated with reactions to the story.\u003C/p\u003E\n\n\u003Cp\u003EFlumes has a consumer news offering as well as a suite of SaaS tools that use the core social media data mining for use in journalism, finance and event marketing.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Butterworth",
+      "permalink": "steve-butterworth",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0018/7835/187835v3-max-150x150.png"],
+          [[180,
+            180],
+           "assets/images/resized/0018/7835/187835v3-max-250x250.png"],
+          [[180,
+            180],
+           "assets/images/resized/0018/7835/187835v3-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Gayle",
+      "last_name": "MacGregor",
+      "permalink": "gayle-macgregor",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Finif",
+      "permalink": "finif-financial-informatics",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0008/7611/87611v4-max-150x150.png"],
+          [[200,
+            69],
+           "assets/images/resized/0008/7611/87611v4-max-250x250.png"],
+          [[200,
+            69],
+           "assets/images/resized/0008/7611/87611v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NewsWhip",
+      "permalink": "newswhip",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0015/5367/155367v2-max-150x150.jpg"],
+          [[250,
+            119],
+           "assets/images/resized/0015/5367/155367v2-max-250x250.jpg"],
+          [[450,
+            214],
+           "assets/images/resized/0015/5367/155367v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Storyful",
+      "permalink": "storyful",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0016/7205/167205v2-max-150x150.png"],
+          [[160,
+            48],
+           "assets/images/resized/0016/7205/167205v2-max-250x250.png"],
+          [[160,
+            48],
+           "assets/images/resized/0016/7205/167205v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Storify",
+      "permalink": "storify",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0009/2806/92806v12-max-150x150.jpg"],
+          [[250,
+            71],
+           "assets/images/resized/0009/2806/92806v12-max-250x250.jpg"],
+          [[400,
+            114],
+           "assets/images/resized/0009/2806/92806v12-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a350k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Anonymous",
+         "last_name": "Angel",
+         "permalink": "anonymous-angel",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

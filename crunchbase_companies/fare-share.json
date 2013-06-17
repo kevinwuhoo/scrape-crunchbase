@@ -1,0 +1,126 @@
+{"name": "Fare/Share",
+ "permalink": "fare-share",
+ "crunchbase_url": "http://www.crunchbase.com/company/fare-share",
+ "homepage_url": "http://www.faresharenyc.com",
+ "blog_url": "http://faresharenyc.tumblr.com/",
+ "blog_feed_url": "http://faresharenyc.tumblr.com/rss",
+ "twitter_username": "FareShare",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "nyc, new-york, taxi, cab, ride, fare, transit, commute, drive, car",
+ "alias_list": "fareshare",
+ "email_address": "jeffnovich@gmail.com",
+ "phone_number": "3473388651",
+ "description": "NYC taxi sharing app",
+ "created_at": "Wed May 05 04:32:20 UTC 2010",
+ "updated_at": "Tue Apr 09 08:31:14 UTC 2013",
+ "overview": "\u003Cp\u003EFare/Share is a mobile application that helps New Yorkers find cabmates for similar routes.\u003C/p\u003E\n\n\u003Cp\u003EAbout 70% of taxi rides in NYC are solo rides.  Two riders leaving from the East Village and heading to the Upper West Side will take two taxis, on two similar or identical routes, and create twice the emissions, twice the traffic, and, (to the detriment of the riders), twice the fare than if they shared the cab.  It is not in most New Yorkers\u0026#8217; nature to stand around at a corner soliciting others to share a taxi.  As a result, more than 13,000 taxis roam the city each day looking for passengers, causing tons of congestion, and running duplicate routes.\u003C/p\u003E\n\n\u003Cp\u003EFare/Share users will be able to quickly enter their destination, while a server will find nearby riders whose routes converge.  You see a list of potential matches which lists the distance to the meeting spot, time of departure, destination and who the other person is (Jon 24M).  When you join and confirm, both users will be alerted and directed towards a convenient, meetup location.\u003C/p\u003E\n\n\u003Cp\u003EWhen you have successfully met up with your riders and you\u0026#8217;re ready to leave the cab the app will tell you roughly how much you owe the other rider.  At that point, you can either pay with cash, or pay via paypal and have the payment routed through fareshare.  we will take a 5% \u0026#8220;convenience fee\u0026#8221; (since cashless transactions are pretty common in cabs - most people pay with credit these days), and guarantee the transfer to the other rider.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       116],
+      "assets/images/resized/0008/5989/85989v6-max-150x150.jpg"],
+     [[250,
+       193],
+      "assets/images/resized/0008/5989/85989v6-max-250x250.jpg"],
+     [[363,
+       281],
+      "assets/images/resized/0008/5989/85989v6-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "FareShare iPhone App",
+    "permalink": "fareshare-iphone-app",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co Founder",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Glazer",
+      "permalink": "aaron-glazer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Novich",
+      "permalink": "jeff-novich",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co Founder",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Hanna",
+      "permalink": "peter-hanna",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "rideamigos.com",
+      "permalink": "rideamigos-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0009/9285/99285v1-max-150x150.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0009/9285/99285v1-max-250x250.jpg"],
+          [[258,
+            88],
+           "assets/images/resized/0009/9285/99285v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "weeels",
+      "permalink": "weeels",
+      "image": null}},
+   {"competitor":
+     {"name": "Hitchsters",
+      "permalink": "hitchsters",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0002/8241/28241v1-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0002/8241/28241v1-max-250x250.png"],
+          [[250,
+            60],
+           "assets/images/resized/0002/8241/28241v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.7143528,
+    "longitude": -74.0059731}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

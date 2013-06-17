@@ -1,0 +1,129 @@
+{"name": "Rayneer",
+ "permalink": "rayneer",
+ "crunchbase_url": "http://www.crunchbase.com/company/rayneer",
+ "homepage_url": "http://www.rayneer.tv",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "rayneertv",
+ "category_code": "games_video",
+ "number_of_employees": 7,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "tv, music-television, social-tv, personalization, personalized-tv",
+ "alias_list": null,
+ "email_address": "oliver@rayneer.tv",
+ "phone_number": "+41445085393",
+ "description": "Personalized music TV",
+ "created_at": "Wed Apr 04 13:52:19 UTC 2012",
+ "updated_at": "Mon Feb 18 05:38:00 UTC 2013",
+ "overview": "\u003Cp\u003ERayneer is a free personalized music television.\u003C/p\u003E\n\n\u003Cp\u003ERayneer analyzes music preferences and socio-demographic information of users and their friends via social networks, and provides an personalized music TV channel for every user. Rayneer is available free of charge on Smartphones, Tablets and the Browser. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[112,
+       150],
+      "assets/images/resized/0018/2611/182611v2-max-150x150.png"],
+     [[187,
+       250],
+      "assets/images/resized/0018/2611/182611v2-max-250x250.png"],
+     [[307,
+       410],
+      "assets/images/resized/0018/2611/182611v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Oliver",
+      "last_name": "Flueckiger",
+      "permalink": "oliver-flueckiger",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Yannick",
+      "last_name": "Koechlin",
+      "permalink": "yannick-koechlin",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Program Strategy",
+    "person":
+     {"first_name": "Ronny",
+      "last_name": "Nenniger",
+      "permalink": "ronny-nenniger",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Shelby.tv",
+      "permalink": "shelby-tv",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0012/5317/125317v4-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0012/5317/125317v4-max-250x250.png"],
+          [[450,
+            109],
+           "assets/images/resized/0012/5317/125317v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "tape.tv",
+      "permalink": "tape-tv",
+      "image":
+       {"available_sizes":
+         [[[90,
+            60],
+           "assets/images/resized/0010/8508/108508v2-max-150x150.png"],
+          [[90,
+            60],
+           "assets/images/resized/0010/8508/108508v2-max-250x250.png"],
+          [[90,
+            60],
+           "assets/images/resized/0010/8508/108508v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Technopark Zurich",
+    "address1": "Technoparkstrasse 1",
+    "address2": "",
+    "zip_code": "8008",
+    "city": "Zurich",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

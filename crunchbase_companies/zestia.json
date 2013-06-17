@@ -1,0 +1,148 @@
+{"name": "Zestia",
+ "permalink": "zestia",
+ "crunchbase_url": "http://www.crunchbase.com/company/zestia",
+ "homepage_url": "http://www.zestia.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "saas, crm, collaboration, software, business-software, consulting, insurance",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Feb 03 12:36:27 UTC 2009",
+ "updated_at": "Sun Jul 26 02:43:14 UTC 2009",
+ "overview": "\u003Cp\u003EZestia provides web-based software and consulting.  Javelin is their hosted CRM product designed for small and medium sized businesses the world over. They also develop bespoke software and provide consulting to corporate customers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0003/5539/35539v2-max-150x150.png"],
+     [[167,
+       60],
+      "assets/images/resized/0003/5539/35539v2-max-250x250.png"],
+     [[167,
+       60],
+      "assets/images/resized/0003/5539/35539v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Capsule",
+    "permalink": "capsule",
+    "image":
+     {"available_sizes":
+       [[[150,
+          67],
+         "assets/images/resized/0003/6382/36382v7-max-150x150.png"],
+        [[190,
+          85],
+         "assets/images/resized/0003/6382/36382v7-max-250x250.png"],
+        [[190,
+          85],
+         "assets/images/resized/0003/6382/36382v7-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Duncan",
+      "last_name": "Stockdill",
+      "permalink": "duncan-stockdill",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Wendy",
+      "last_name": "Rule",
+      "permalink": "wendy-rule",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Phillip",
+      "last_name": "Haines",
+      "permalink": "phillip-haines",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zoho",
+      "permalink": "zoho",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0000/3946/3946v1-max-150x150.png"],
+          [[171,
+            80],
+           "assets/images/resized/0000/3946/3946v1-max-250x250.png"],
+          [[171,
+            80],
+           "assets/images/resized/0000/3946/3946v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NetSuite",
+      "permalink": "netsuite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/3736/3736v1-max-150x150.png"],
+          [[250,
+            76],
+           "assets/images/resized/0000/3736/3736v1-max-250x250.png"],
+          [[250,
+            76],
+           "assets/images/resized/0000/3736/3736v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "Wilmslow",
+    "city": "Wilmsl",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 53.305196,
+    "longitude": -2.237738}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

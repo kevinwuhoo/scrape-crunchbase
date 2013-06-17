@@ -1,0 +1,122 @@
+{"name": "Integration Associates",
+ "permalink": "integration-associates",
+ "crunchbase_url": "http://www.crunchbase.com/company/integration-associates",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "semiconductor",
+ "number_of_employees": null,
+ "founded_year": 1991,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "650-969-4100",
+ "description": "fabless semiconductor",
+ "created_at": "Mon Jul 06 05:58:52 UTC 2009",
+ "updated_at": "Tue May 18 13:26:36 UTC 2010",
+ "overview": "\u003Cp\u003EIntegration Associates, Inc., a fabless semiconductor company, designs and delivers tested wafers and packaged integrated circuits for RF, infrared, modem, and power management applications. The company offers EZRadio ICs, a wireless product to meet the needs of OEMs developing mesh network applications for consumer and industrial monitoring and control; ZigBee USB Dongle that provides a compliant interface, which can be connected to a host computer; EZSwitcher, a device that integrates various functions, which have been implemented discretely; EZ DAA products to span the isolation barriers; and ASIC solutions. It has operations in North America, South America, Asia, the Middle East, Africa, Europe, and the Oceania. \u003C/p\u003E\n\n\u003Cp\u003EIntegration Associates, Inc. was founded in 1991 and is headquartered in Mountain View, California. The company also has offices and design centers in Hungary, Portugal, Hong Kong, and the United Kingdom. As of July 29, 2008, Integration Associates, Inc. operates as a subsidiary of Silicon Laboratories, Inc.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Director of Software",
+    "person":
+     {"first_name": "Ian",
+      "last_name": "Marsden",
+      "permalink": "ian-marsden",
+      "image":
+       {"available_sizes":
+         [[[134,
+            150],
+           "assets/images/resized/0020/0043/200043v2-max-150x150.jpg"],
+          [[179,
+            200],
+           "assets/images/resized/0020/0043/200043v2-max-250x250.jpg"],
+          [[179,
+            200],
+           "assets/images/resized/0020/0043/200043v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 87110000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://news.silabs.com/article_display.cfm?article_id=4561",
+   "source_description": "Silicon Laboratories Completes Acquisition of Integration Associates, Diversified Mixed-Signal Company",
+   "acquired_year": 2008,
+   "acquired_month": 7,
+   "acquired_day": 30,
+   "acquiring_company":
+    {"name": "Silicon Laboratories",
+     "permalink": "silicon-laboratories",
+     "image":
+      {"available_sizes":
+        [[[103,
+           49],
+          "assets/images/resized/0005/1900/51900v1-max-150x150.png"],
+         [[103,
+           49],
+          "assets/images/resized/0005/1900/51900v1-max-250x250.png"],
+         [[103,
+           49],
+          "assets/images/resized/0005/1900/51900v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": "cash_and_stock",
+    "source_url": "http://rfdesign.com/news/Integration-acquires-CompXs/",
+    "source_description": "",
+    "acquired_year": 2005,
+    "acquired_month": 4,
+    "acquired_day": null,
+    "company":
+     {"name": "CompXs",
+      "permalink": "compxs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0021/0169/210169v2-max-150x150.png"],
+          [[190,
+            46],
+           "assets/images/resized/0021/0169/210169v2-max-250x250.png"],
+          [[190,
+            46],
+           "assets/images/resized/0021/0169/210169v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "offices":
+  [{"description": "HQ",
+    "address1": "110 Pioneer Way",
+    "address2": "Unit L",
+    "zip_code": "94041",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

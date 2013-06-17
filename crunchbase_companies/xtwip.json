@@ -1,0 +1,120 @@
+{"name": "XTWIP",
+ "permalink": "xtwip",
+ "crunchbase_url": "http://www.crunchbase.com/company/xtwip",
+ "homepage_url": "http://www.xtwip.com",
+ "blog_url": "http://www.xtwip.com/blog",
+ "blog_feed_url": "http://www.xtwip.com/blog/feed",
+ "twitter_username": "xtwip",
+ "category_code": null,
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-time, collaboration, cooperation, ria, flash, flex",
+ "alias_list": null,
+ "email_address": "office@xtwip.com",
+ "phone_number": "+40 724 714 234",
+ "description": "Delivering real time collaboration",
+ "created_at": "Tue Mar 23 02:41:27 UTC 2010",
+ "updated_at": "Sun Jul 11 07:19:20 UTC 2010",
+ "overview": "\u003Cp\u003EXTWIP provides real time collaboration for third party Rich Internet Applications. \nOffering a simple, plug-and-play SDK, any Flash or Flex application can be turned into an interactive experience of cooperation between users who will be able to change the same content at the same time, everyone seeing what everyone else is modifying in a split second.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0008/1318/81318v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0008/1318/81318v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0008/1318/81318v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Cristian",
+      "last_name": "Andreica",
+      "permalink": "cristian-andreica",
+      "image":
+       {"available_sizes":
+         [[[129,
+            150],
+           "assets/images/resized/0020/5496/205496v2-max-150x150.jpg"],
+          [[215,
+            250],
+           "assets/images/resized/0020/5496/205496v2-max-250x250.jpg"],
+          [[387,
+            450],
+           "assets/images/resized/0020/5496/205496v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Bogdan",
+      "last_name": "Bocse",
+      "permalink": "bogdan-bocse",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BeWeeVee",
+      "permalink": "beweevee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0015/4103/154103v1-max-150x150.jpg"],
+          [[174,
+            88],
+           "assets/images/resized/0015/4103/154103v1-max-250x250.jpg"],
+          [[174,
+            88],
+           "assets/images/resized/0015/4103/154103v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adobe Live Cycle Collaboration Service",
+      "permalink": "adobe-live-cycle-collaboration-service",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac30k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.startups.ro/analize/twip-un-nou-proiect-finantat-de-seed-money-0",
+    "source_description": "TWIP a new project funded by Seed Money",
+    "raised_amount": 30000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2009,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Seedmoney",
+         "permalink": "seedmoney",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.arenabiz.ro/platforma-de-lucru-colaborativ-xtwip-se-lanseaza-in-private-alpha/",
+    "title": "XTWIP launching in private alpha"}]}

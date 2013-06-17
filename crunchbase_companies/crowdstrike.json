@@ -1,0 +1,137 @@
+{"name": "CrowdStrike",
+ "permalink": "crowdstrike",
+ "crunchbase_url": "http://www.crunchbase.com/company/crowdstrike",
+ "homepage_url": "http://www.crowdstrike.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "CrowdStrike",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Feb 24 04:24:12 UTC 2012",
+ "updated_at": "Sat Apr 21 09:49:21 UTC 2012",
+ "overview": "\u003Cp\u003ECrowdStrike is a security technology company focused on helping enterprises and governments protect their most sensitive intellectual property and national security information from cyberespionage threats. Founded by George Kurtz, Dmitri Alperovitch, and Gregg Marston, CrowdStrike is using Big-Data technologies to develop new and innovative approaches to help companies and organizations battle cyber-security challenges. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0017/5682/175682v1-max-150x150.png"],
+     [[243,
+       73],
+      "assets/images/resized/0017/5682/175682v1-max-250x250.png"],
+     [[243,
+       73],
+      "assets/images/resized/0017/5682/175682v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "Dmitri",
+      "last_name": "Alperovitch",
+      "permalink": "dmitri-alperovitch",
+      "image":
+       {"available_sizes":
+         [[[119,
+            150],
+           "assets/images/resized/0016/6158/166158v8-max-150x150.jpg"],
+          [[198,
+            250],
+           "assets/images/resized/0016/6158/166158v8-max-250x250.jpg"],
+          [[357,
+            450],
+           "assets/images/resized/0016/6158/166158v8-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "President \u0026 CEO",
+    "person":
+     {"first_name": "George",
+      "last_name": "Kurtz",
+      "permalink": "george-kurtz-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CFO",
+    "person":
+     {"first_name": "Gregg",
+      "last_name": "Marston",
+      "permalink": "gregg-marston",
+      "image": null}},
+   {"is_past": false,
+    "title": "President, CrowdStrike Services Inc.",
+    "person":
+     {"first_name": "Shawn",
+      "last_name": "Henry",
+      "permalink": "shawn-henry",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$26M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://techcrunch.com/2012/02/23/former-mcafee-cto-debuts-stealthy-security-technology-startup-crowdstrike-with-26m-in-funding/",
+    "source_description": "Former McAfee CTO Debuts Stealthy Security Technology Startup CrowdStrike With $26M In Funding",
+    "raised_amount": 26000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 2,
+    "funded_day": 23,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Warburg Pincus",
+         "permalink": "warburg-pincus",
+         "image":
+          {"available_sizes":
+            [[[150,
+               63],
+              "assets/images/resized/0001/9008/19008v2-max-150x150.png"],
+             [[233,
+               98],
+              "assets/images/resized/0001/9008/19008v2-max-250x250.png"],
+             [[233,
+               98],
+              "assets/images/resized/0001/9008/19008v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/9smxU4gu8ac\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ERSA 2012-Hacking Exposed: Mobile RATs (CrowdStrike) \u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        138],
+       "assets/images/resized/0017/5683/175683v1-max-150x150.png"],
+      [[250,
+        230],
+       "assets/images/resized/0017/5683/175683v1-max-250x250.png"],
+      [[450,
+        414],
+       "assets/images/resized/0017/5683/175683v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

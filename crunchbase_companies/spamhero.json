@@ -1,0 +1,116 @@
+{"name": "SpamHero",
+ "permalink": "spamhero",
+ "crunchbase_url": "http://www.crunchbase.com/company/spamhero",
+ "homepage_url": "http://spamhero.com",
+ "blog_url": "http://spamhero.com/blog",
+ "blog_feed_url": "http://www.spamhero.com/blog/feed/",
+ "twitter_username": "spamhero",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "anti-spam, spam-filtering, hosted-spam-filtering",
+ "alias_list": null,
+ "email_address": "pr@spamhero.com",
+ "phone_number": "spamhero",
+ "description": "Hosted Spam Filtering Service",
+ "created_at": "Thu Sep 17 18:16:26 UTC 2009",
+ "updated_at": "Thu Sep 17 19:27:03 UTC 2009",
+ "overview": "\u003Cp\u003ESpamHero is a spam filtering solution for businesses and domain owners.\u003C/p\u003E\n\n\u003Cp\u003ESpamHero\u0026#8217;s was developed by two brothers, Curtis and Jeremy O\u0026#8217;Reilly.  After 13 years in the web hosting industry they\u0026#8217;ve witnessed first hand the frustrations that business owners have over the cost of fighting spam, and the lackluster performance of existing solutions.\u003C/p\u003E\n\n\u003Cp\u003EWhat makes SpamHero different is that it is powered by a team of human spam-fighting technicians who are updating the filter rules several times a day.  Over 2 million rules have been compiled so far.   Unlike \u0026#8220;robotic\u0026#8221; algorithms that can sometimes mistake real email for spam, each rule is carefully crafted in such a way that  real email does not get blocked.\u003C/p\u003E\n\n\u003Cp\u003EBecause SpamHero is a hosted solution, it requires no new hardware or software installed at a client\u00e2\u20ac\u2122s location.   The client changes what is known as their domain\u0026#8217;s MX record so that email flows through SpamHero\u0026#8217;s filtering servers before it reaches the domain\u0026#8217;s real mail server.  \u003C/p\u003E\n\n\u003Cp\u003EThe filtering service all includes a Web 2.0 email quarantine that allows users to view the spam that is caught by the filter.\u003C/p\u003E\n\n\u003Cp\u003EPricing for the service starts at $4.95 per month for domain-wide filtering, which the company founders believe is much less than similar solutions on the market.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0006/0077/60077v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0006/0077/60077v2-max-250x250.png"],
+     [[390,
+       130],
+      "assets/images/resized/0006/0077/60077v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Curtis",
+      "last_name": "O'Reilly",
+      "permalink": "curtis-oreilly",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co- founder",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "O'Reilly",
+      "permalink": "jeremy-oreilly",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MX Logic",
+      "permalink": "mx-logic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            98],
+           "assets/images/resized/0005/8184/58184v1-max-150x150.png"],
+          [[153,
+            100],
+           "assets/images/resized/0005/8184/58184v1-max-250x250.png"],
+          [[153,
+            100],
+           "assets/images/resized/0005/8184/58184v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MX Force",
+      "permalink": "mx-force",
+      "image": null}},
+   {"competitor":
+     {"name": "SpamStopsHere",
+      "permalink": "spamstopshere",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2657 Windmill Pkwy #175",
+    "address2": "",
+    "zip_code": "89074",
+    "city": "Henderson",
+    "state_code": "NV",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[149,
+        150],
+       "assets/images/resized/0006/0076/60076v2-max-150x150.png"],
+      [[249,
+        250],
+       "assets/images/resized/0006/0076/60076v2-max-250x250.png"],
+      [[448,
+        450],
+       "assets/images/resized/0006/0076/60076v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

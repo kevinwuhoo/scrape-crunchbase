@@ -1,0 +1,105 @@
+{"name": "Piconet",
+ "permalink": "piconet",
+ "crunchbase_url": "http://www.crunchbase.com/company/piconet",
+ "homepage_url": "http://www.tpark.ro/",
+ "blog_url": "http://www.tpark.ro/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "TPark",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sms-parking, anpr, law-enforcement, parking-management",
+ "alias_list": null,
+ "email_address": "contact@tpark.ro",
+ "phone_number": "0755015234",
+ "description": "SMS Parking",
+ "created_at": "Tue May 07 07:32:42 UTC 2013",
+ "updated_at": "Thu May 09 05:00:50 UTC 2013",
+ "overview": "\u003Cp\u003ETPark - SMS parking payment solution\u003C/p\u003E\n\n\u003Cp\u003ETPark is a SaaS (Software as a Service) solution available to parking owners or administrators developed by Piconet since 2006: www.tpark.ro. TPark allows drivers to pay for parking in a very convenient way, using the mobile phone. TPark has two payment models:  pay by premium SMS (MT or MO) and prepaid vouchers with call validation. TPark is working both on smartphones with dedicated Apps \u201cSMS Parking Romania\u201d and normal feature phones.\u003C/p\u003E\n\n\u003Cp\u003ETPark is live in 5 cities in Romania serving over 200K clients: Timisoara, Oradea, Satu-Mare, Arad \u0026amp; Baia Mare since 2006, with more than two million payments last year. TPark by SMS allows payments for fixed parking durations (30 mins, one hour, full day) with a SMS reminder when the time has expired so the driver can extend his parking period without exceeding the duration and the risk of a penalty. The driver only needs to text the license plate number of the car and the code area to a short number to pay for the parking. TPark by voucher allows parking payment for flexible periods of time. The driver calls a number to initiate the parking time and calls back when he wants to leave, like having his own parking meter.\u003C/p\u003E\n\n\u003Cp\u003EAdvantages for drivers:\nThey can pay for the exact duration of the parking, via the voucher system\nFor those who prefer to pay a parking period in advance by SMS, there is the reminder when the time has expired, so they can pay for another period, with no need to go back to the parking space\nThey don\u2019t need change as they use their cell phone to pay for the parking\nThey have detailed information about the parking using the smartphone app, which is very convenient for drivers visiting the area the first time\nIt is convenient as they don\u2019t need to walk to the meter or look for the point of payment\u003C/p\u003E\n\n\u003Cp\u003EAdvantages for parking companies:\nFlexibility: new tariffs, durations, areas, discounts can be easily ad or modify in the system\nNo initial investment\nAllows loyalty programs, each driver is unique identified in the system by his cell phone number\nReduce costs with handling cash and printing parking tickets, TPark by SMS is a green solution, paperless\nMore and more people are using cell phone payment as is much more convenient\nReal time reporting about parking payments and usage. Parking companies can monitor for each parking zone how many parking space are used every hour, when the capacity is full or to low.\nReal time monitoring of parking employees: their activity can be tracked in detail, knowing their location (past and current)\nTPark makes the parking process more easier for both the drivers and parking companies \u003C/p\u003E\n\n\u003Cp\u003EThe system can be hosted on Amazon Web Services, localized to Greek in no time at all. Tpark uses standard communication protocols to the SMSC of the MNOs. PICONET owns IP for the system and can provide round the clock support.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[74,
+       149],
+      "assets/images/resized/0025/9591/259591v2-max-150x150.jpg"],
+     [[74,
+       149],
+      "assets/images/resized/0025/9591/259591v2-max-250x250.jpg"],
+     [[74,
+       149],
+      "assets/images/resized/0025/9591/259591v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Claudiu",
+      "last_name": "Suma",
+      "permalink": "claudiu-suma",
+      "image":
+       {"available_sizes":
+         [[[95,
+            150],
+           "assets/images/resized/0025/8870/258870v2-max-150x150.jpg"],
+          [[158,
+            250],
+           "assets/images/resized/0025/8870/258870v2-max-250x250.jpg"],
+          [[179,
+            282],
+           "assets/images/resized/0025/8870/258870v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Sales \u0026 Marketing Assistant",
+    "person":
+     {"first_name": "Daniela",
+      "last_name": "David",
+      "permalink": "daniela-david",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "Str. Gheorghe Dima nr. 1",
+    "address2": "",
+    "zip_code": "300079",
+    "city": "Timisoara",
+    "state_code": null,
+    "country_code": "ROM",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[90,
+        150],
+       "assets/images/resized/0025/9590/259590v2-max-150x150.png"],
+      [[150,
+        250],
+       "assets/images/resized/0025/9590/259590v2-max-250x250.png"],
+      [[270,
+        450],
+       "assets/images/resized/0025/9590/259590v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

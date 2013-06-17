@@ -1,0 +1,103 @@
+{"name": "Socruise",
+ "permalink": "socruise",
+ "crunchbase_url": "http://www.crunchbase.com/company/socruise",
+ "homepage_url": "http://www.socruise.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cruise-deals, cruise-ship, cruise-reviews-cruise-holidays, cruises",
+ "alias_list": "",
+ "email_address": "info@socruise.com",
+ "phone_number": "0844 418 0002",
+ "description": "cruise social network and ratings",
+ "created_at": "Sat May 24 21:09:59 UTC 2008",
+ "updated_at": "Mon Jul 13 22:40:35 UTC 2009",
+ "overview": "\u003Cp\u003ESocruise provides all the latest cruise deals on the market. Socruise.com works with all the major cruise liners like Royal Caribbean, Cunard and P\u0026amp;O Cruises. Socruise was founded in 2008, but the site was relaunched in July 2009\u003C/p\u003E\n\n\u003Cp\u003ECruise fans who sign-up are able to create a user profile, upload their cruise holiday pictures, add video, and provide feedback, by adding a cruise review.\u003C/p\u003E\n\n\u003Cp\u003EThe site has many other community based features like a cruise forum, latest cruise news, cruise ship overviews, and destination guides.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0001/9289/19289v2-max-150x150.jpg"],
+     [[250,
+       78],
+      "assets/images/resized/0001/9289/19289v2-max-250x250.jpg"],
+     [[450,
+       140],
+      "assets/images/resized/0001/9289/19289v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "TripAdvisor",
+      "permalink": "tripadvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/2953/2953v18-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0000/2953/2953v18-max-250x250.jpg"],
+          [[450,
+            264],
+           "assets/images/resized/0000/2953/2953v18-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "cruisecritic",
+      "permalink": "cruisecritic",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac250k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2008,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Cruise Store",
+    "address1": "32 The Pantiles",
+    "address2": "Tunbridge Wells",
+    "zip_code": "TN2 5TN ",
+    "city": "Kent ",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.125693,
+    "longitude": 0.257568}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://travel.timesonline.co.uk/tol/life_and_style/travel/news/article3986860.ece",
+    "title": "Times Travel"},
+   {"external_url": "http://www.telegraph.co.uk/travel/travelnews/2246519/Travel-news-in-brief.html",
+    "title": "Telegraph Cruise News"},
+   {"external_url": "http://www.travelweekly.co.uk/Articles/2008/07/02/28070/cruise-social-media-site-launched.html",
+    "title": "Travel Weekly"}]}

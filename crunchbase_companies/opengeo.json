@@ -1,0 +1,112 @@
+{"name": "OpenGeo",
+ "permalink": "opengeo",
+ "crunchbase_url": "http://www.crunchbase.com/company/opengeo",
+ "homepage_url": "http://opengeo.org",
+ "blog_url": "http://blog.opengeo.org/",
+ "blog_feed_url": "",
+ "twitter_username": "opengeo",
+ "category_code": "education",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "inquiry@opengeo.org",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu May 16 10:03:48 UTC 2013",
+ "updated_at": "Thu May 16 10:31:16 UTC 2013",
+ "overview": "\u003Cp\u003EOpenGeo provides product support, training, and core development to meet your geospatial requirements. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0026/2960/262960v1-max-150x150.png"],
+     [[250,
+       60],
+      "assets/images/resized/0026/2960/262960v1-max-250x250.png"],
+     [[330,
+       80],
+      "assets/images/resized/0026/2960/262960v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eddie",
+      "last_name": "Pickle",
+      "permalink": "eddie-pickle",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.directionsmag.com/pressreleases/opengeo-completes-3-million-series-a-financing-and-launches-as-indepen/329615",
+    "source_description": "OpenGeo Completes $3 Million Series A Financing and Launches as Independent Open Source Company ",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Vanedge Capital",
+         "permalink": "vanedge",
+         "image":
+          {"available_sizes":
+            [[[150,
+               43],
+              "assets/images/resized/0006/1557/61557v3-max-150x150.jpg"],
+             [[250,
+               71],
+              "assets/images/resized/0006/1557/61557v3-max-250x250.jpg"],
+             [[300,
+               86],
+              "assets/images/resized/0006/1557/61557v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "155 Water Street",
+    "address2": " Suite 4-10",
+    "zip_code": "11201",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.7032884,
+    "longitude": -73.9878525}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        85],
+       "assets/images/resized/0026/2959/262959v1-max-150x150.png"],
+      [[250,
+        141],
+       "assets/images/resized/0026/2959/262959v1-max-250x250.png"],
+      [[450,
+        255],
+       "assets/images/resized/0026/2959/262959v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

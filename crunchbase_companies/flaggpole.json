@@ -1,0 +1,141 @@
+{"name": "Flaggpole",
+ "permalink": "flaggpole",
+ "crunchbase_url": "http://www.crunchbase.com/company/flaggpole",
+ "homepage_url": "http://www.flaggpole.com",
+ "blog_url": "http://blog.flaggpole.com/",
+ "blog_feed_url": "http://blog.flaggpole.com/feed/",
+ "twitter_username": "flaggpole",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "location-based, social-network, hyperlocal",
+ "alias_list": null,
+ "email_address": "mike@flaggpole.com",
+ "phone_number": "",
+ "description": "location-based social network",
+ "created_at": "Tue May 26 06:03:30 UTC 2009",
+ "updated_at": "Sat May 30 20:31:32 UTC 2009",
+ "overview": "\u003Cp\u003EFlaggpole is a place-based social network that connects people through places that are important to them.\u003C/p\u003E\n\n\u003Cp\u003EThe important places Flaggpole organizes around could be a postal code, neighborhood, park, church, school, club or business. After identifying a place, users can form virtual communities related to the place\u00e2\u20ac\u2122s function and use both micro-messaging and Twitter integration to organize meaningful interactions.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0004/5447/45447v2-max-150x150.jpg"],
+     [[250,
+       71],
+      "assets/images/resized/0004/5447/45447v2-max-250x250.jpg"],
+     [[350,
+       100],
+      "assets/images/resized/0004/5447/45447v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Flaggpole",
+    "permalink": "flaggpole",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Nate",
+      "last_name": "Heinrich",
+      "permalink": "nate-heinrich",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Donsbach",
+      "permalink": "aaron-donsbach",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Brightkite",
+      "permalink": "brightkite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/5798/15798v6-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0001/5798/15798v6-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/5798/15798v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loopt",
+      "permalink": "loopt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0000/1972/1972v6-max-150x150.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-250x250.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Plazes",
+      "permalink": "plazes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0000/1843/1843v1-max-150x150.png"],
+          [[200,
+            72],
+           "assets/images/resized/0000/1843/1843v1-max-250x250.png"],
+          [[200,
+            72],
+           "assets/images/resized/0000/1843/1843v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.620973,
+    "longitude": -122.347276}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        123],
+       "assets/images/resized/0004/5446/45446v2-max-150x150.png"],
+      [[250,
+        205],
+       "assets/images/resized/0004/5446/45446v2-max-250x250.png"],
+      [[450,
+        370],
+       "assets/images/resized/0004/5446/45446v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.prweb.com/releases/2009/05/prweb2456904.htm",
+    "title": "Eight New Twitter Applications to Launch at 140 | The Twitter Conference"}]}

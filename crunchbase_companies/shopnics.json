@@ -1,0 +1,124 @@
+{"name": "Shopnics",
+ "permalink": "shopnics",
+ "crunchbase_url": "http://www.crunchbase.com/company/shopnics",
+ "homepage_url": "http://www.shopnics.com",
+ "blog_url": "http://www.shopnics.in",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "hardware",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 5,
+ "deadpooled_day": 17,
+ "deadpooled_url": "",
+ "tag_list": "product-comparison, product-shopping, visual-comparison, product-reviews-and-ratings, consumer-electronics",
+ "alias_list": null,
+ "email_address": "bizdev@shopnics.com",
+ "phone_number": "+919620060551",
+ "description": "Product Comparison Service",
+ "created_at": "Fri Mar 20 13:22:40 UTC 2009",
+ "updated_at": "Mon Mar 14 06:55:23 UTC 2011",
+ "overview": "\u003Cp\u003EShopnics.com is a product comparison shopping engine aiming to help users easily find products based on their needs. Shopnics helps user\u0026#8217;s to make an informed decision based on the product attributes. Shopnics AI Engine rates products based on there specification and user needs and then plots them on a visual graph where users can compare multiple products easily. Shopnics recently launched a quiz module along the lines of educating people about electronics.\u003C/p\u003E\n\n\u003Cp\u003EShopnics A.I Engine analyzes all product attributes and rates products using propitiatory ranking algorithm. Once ranked the products are presented in the unique \u0026#8216;Shopnics Decision Graph\u0026#8217; making easier for users to decide. Shopnics provides flexibility to the users to change product rankings based on features important to them.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0003/8755/38755v2-max-150x150.png"],
+     [[201,
+       79],
+      "assets/images/resized/0003/8755/38755v2-max-250x250.png"],
+     [[201,
+       79],
+      "assets/images/resized/0003/8755/38755v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO (Co-Founder)",
+    "person":
+     {"first_name": "Sachin",
+      "last_name": "Lakharia",
+      "permalink": "sachin-lakharia",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO (Co-Founder)",
+    "person":
+     {"first_name": "Amitav",
+      "last_name": "Chakravartty",
+      "permalink": "amitav-chakravartty",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Retrevo",
+      "permalink": "retrevo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0006/5246/65246v5-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0006/5246/65246v5-max-250x250.png"],
+          [[450,
+            132],
+           "assets/images/resized/0006/5246/65246v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SmartRatings",
+      "permalink": "smartratings",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/5164/15164v1-max-150x150.png"],
+          [[189,
+            48],
+           "assets/images/resized/0001/5164/15164v1-max-250x250.png"],
+          [[189,
+            48],
+           "assets/images/resized/0001/5164/15164v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        88],
+       "assets/images/resized/0003/8754/38754v2-max-150x150.jpg"],
+      [[250,
+        147],
+       "assets/images/resized/0003/8754/38754v2-max-250x250.jpg"],
+      [[450,
+        265],
+       "assets/images/resized/0003/8754/38754v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.scommerce.com/comparison-shop-til-you-drop-with-shopnicscom/",
+    "title": ""},
+   {"external_url": "http://www.killerstartups.com/eCommerce/shopnics-com-visual-comparison-resource",
+    "title": ""},
+   {"external_url": "http://www.feedmyapp.com/p/a/shopnics-com-visual-comparison/7929",
+    "title": ""},
+   {"external_url": "http://myelectronicsblog.blogspot.com/2009/04/shopnicscom-redefining-online-shopping.html",
+    "title": ""},
+   {"external_url": "http://www.pluggd.in/indian-startups/compare-gadget-price-visually-shopnics-3940/",
+    "title": ""}]}

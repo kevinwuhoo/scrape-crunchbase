@@ -1,0 +1,101 @@
+{"name": "SoftwareMill",
+ "permalink": "softwaremill",
+ "crunchbase_url": "http://www.crunchbase.com/company/softwaremill",
+ "homepage_url": "http://softwaremill.com",
+ "blog_url": "http://softwaremill.com/blog",
+ "blog_feed_url": "http://softwaremill.com/blog/?feed=rss2\u0026lang=en",
+ "twitter_username": "softwaremill",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "java, jboss, consulting, it, software",
+ "alias_list": null,
+ "email_address": "info@softwaremill.com",
+ "phone_number": "+48221881133",
+ "description": "Extraordinary software as a standard",
+ "created_at": "Thu Jan 13 15:59:00 UTC 2011",
+ "updated_at": "Mon Jul 18 19:10:57 UTC 2011",
+ "overview": "\u003Cp\u003ESoftwareMill was established to deliver custom, tailored software solutions which fully meet our Customers\u0026#8217; needs. We specialize in developing projects based on the Java Enterprise Edition platform.\u003C/p\u003E\n\n\u003Cp\u003EWhat distinguishes SofwareMill is the use of modern (so-called \u0026#8220;Agile\u0026#8221;) methodologies to run projects. We constantly communicate with the Client to better understand their requirements.\u003C/p\u003E\n\n\u003Cp\u003EAt regular intervals, we present working versions of the commissioned system to our Client. We are flexible in adapting our software so that it matches their requirements precisely.\u003C/p\u003E\n\n\u003Cp\u003EThe SoftwareMill team consists of highly qualified IT specialists, all of whom have several years\u0026#8217; experience in international projects. Our solutions are based on proven technologies and modern standards, such as Java Enterprise Edition 5 and 6.\u003C/p\u003E\n\n\u003Cp\u003EAs a result, we deliver stable software of the highest quality.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0011/7179/117179v2-max-150x150.png"],
+     [[250,
+       63],
+      "assets/images/resized/0011/7179/117179v2-max-250x250.png"],
+     [[450,
+       113],
+      "assets/images/resized/0011/7179/117179v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO, Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Warski",
+      "permalink": "adam-warski",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Tomasz",
+      "last_name": "Szyma\u00c5\u201eski",
+      "permalink": "tomasz-szymaski",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Pawe\u00c5\u201a",
+      "last_name": "Wrzeszcz",
+      "permalink": "pawe-wrzeszcz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jan",
+      "last_name": "Zborowski",
+      "permalink": "jan-zborowski",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Warsaw Office",
+    "address1": "Solec 81b",
+    "address2": "lok A60",
+    "zip_code": "00-382",
+    "city": "Warsaw",
+    "state_code": null,
+    "country_code": "POL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://circular.eu",
+    "title": "Circular"},
+   {"external_url": "https://www.jbison.com",
+    "title": "JBison"}]}

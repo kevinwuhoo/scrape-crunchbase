@@ -1,0 +1,115 @@
+{"name": "iSpyConnect",
+ "permalink": "ispyconnect",
+ "crunchbase_url": "http://www.crunchbase.com/company/ispyconnect",
+ "homepage_url": "http://www.ispyconnect.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ispyconnect",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "security, surveillance, monitoring, remote-access, motion-detection, cameras, webcams",
+ "alias_list": "",
+ "email_address": "admin@ispyconnect.com",
+ "phone_number": "0897572685",
+ "description": "Free Camera Security Software",
+ "created_at": "Thu May 19 07:00:44 UTC 2011",
+ "updated_at": "Fri Mar 29 11:56:10 UTC 2013",
+ "overview": "\u003Cp\u003EiSpy uses your existing webcams, IP cameras and microphones to provide security  and surveillance services with motion/ sound detection, recording and alerts.\u003C/p\u003E\n\n\u003Cp\u003EiSpy is free and open source software so is able to leverage existing open source video and audio processing libraries like VLC, FFMPEG, NAudio and Aforge. iSpy can work with pretty much any video or audio source and supports an unlimited number of cameras and microphones. You can connect multiple computers running iSpy to the web and access all from one account.\u003C/p\u003E\n\n\u003Cp\u003ECaptured content is transcoded automatically and viewable over the web through the website http://www.ispyconnect.com or over mobile devices (iphone, android, blackberry etc). Remote access, email and SMS alerts are available with a subscription from $3 a month. Local access over the web is free.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0013/5346/135346v3-max-150x150.png"],
+     [[250,
+       40],
+      "assets/images/resized/0013/5346/135346v3-max-250x250.png"],
+     [[324,
+       52],
+      "assets/images/resized/0013/5346/135346v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director/ Founder",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Tearney",
+      "permalink": "sean-tearney",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "gotocamera",
+      "permalink": "gotocamera",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0013/7391/137391v2-max-150x150.jpg"],
+          [[250,
+            42],
+           "assets/images/resized/0013/7391/137391v2-max-250x250.jpg"],
+          [[450,
+            76],
+           "assets/images/resized/0013/7391/137391v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        120],
+       "assets/images/resized/0013/5343/135343v2-max-150x150.jpg"],
+      [[250,
+        201],
+       "assets/images/resized/0013/5343/135343v2-max-250x250.jpg"],
+      [[450,
+        362],
+       "assets/images/resized/0013/5343/135343v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        120],
+       "assets/images/resized/0013/5344/135344v2-max-150x150.jpg"],
+      [[250,
+        201],
+       "assets/images/resized/0013/5344/135344v2-max-250x250.jpg"],
+      [[450,
+        362],
+       "assets/images/resized/0013/5344/135344v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        120],
+       "assets/images/resized/0013/5345/135345v2-max-150x150.jpg"],
+      [[250,
+        201],
+       "assets/images/resized/0013/5345/135345v2-max-250x250.jpg"],
+      [[450,
+        362],
+       "assets/images/resized/0013/5345/135345v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,101 @@
+{"name": "Cloudinary",
+ "permalink": "cloudinary",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudinary",
+ "homepage_url": "http://cloudinary.com",
+ "blog_url": "http://cloudinary.com/blog",
+ "blog_feed_url": "http://feeds.feedburner.com/CloudinaryBlog",
+ "twitter_username": "cloudinary",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, saas, image, photos, mobile, web, upload, web-development, image-processing, image-hosting, image-upload, image-transfer, upload-pictures, backend",
+ "alias_list": null,
+ "email_address": "info@cloudinary.com",
+ "phone_number": "",
+ "description": "Image management in the cloud",
+ "created_at": "Tue Jan 15 19:03:09 UTC 2013",
+ "updated_at": "Thu Jan 17 08:03:57 UTC 2013",
+ "overview": "\u003Cp\u003ECloudinary is a cloud-based service that answers a website or mobile application\u0026#8217;s entire image management needs - uploads, storage, manipulations, optimizations and delivery.\u003C/p\u003E\n\n\u003Cp\u003ECloudinary\u0026#8217;s users can easily move all their website\u0026#8217;s images to the cloud. Automatically perform smart image resizing, cropping, merging, overlay, watermark, apply effects, rotations and perform format conversions. All this without installing any complex software. Integrate social website (Facebook, Twitter, etc.) profile image extraction, fetch images from any online resource in any dimension and style to match a website\u0026#8217;s graphics requirements, and much more. \u003C/p\u003E\n\n\u003Cp\u003EWith Cloudinary, all images are then seamlessly delivered through a fast CDN, optimized and using industry best practices. \u003C/p\u003E\n\n\u003Cp\u003ECloudinary offers comprehensive APIs and administration capabilities and is easy to integrate with any web application - Ruby on Rails, Python/Django, PHP, .NET, Java, Node.js and more. In addition, non-developers, bloggers and website administrators can also use Cloudinary with minimal technical know-how.\u003C/p\u003E\n\n\u003Cp\u003EUsers can sign-up to Cloudinary directly or via a multitude of Platform-as-a-Service partnerships, including Heroku, AppFog and EngineYard.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0022/9855/229855v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0022/9855/229855v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0022/9855/229855v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Itai",
+      "last_name": "Lahan",
+      "permalink": "itai-lahan-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Nadav",
+      "last_name": "Soferman",
+      "permalink": "nadav-soferman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Tal",
+      "last_name": "Lev-Ami",
+      "permalink": "tal-lev-ami",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Geva",
+      "last_name": "Perry",
+      "permalink": "geva-perry",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0023/2802/232802v1-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0023/2802/232802v1-max-250x250.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0023/2802/232802v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EGeva Perry\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

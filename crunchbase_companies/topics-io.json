@@ -1,0 +1,115 @@
+{"name": "Topics.io",
+ "permalink": "topics-io",
+ "crunchbase_url": "http://www.crunchbase.com/company/topics-io",
+ "homepage_url": "http://topics.io",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "topicsio",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-time, semantic, search, social",
+ "alias_list": null,
+ "email_address": "contact@mail.topics.io",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Jan 17 03:37:46 UTC 2012",
+ "updated_at": "Fri Jan 20 19:00:47 UTC 2012",
+ "overview": "\u003Cp\u003ETopics.io solves the problem for developers and companies where they want to easily be able to access aggregated content about personalized topics. It offers data from Twitter, Youtube, Bing, Flickr and more. \u003C/p\u003E\n\n\u003Cp\u003ETopics.io provides API\u2019s services. It enables users to define their topics, and then retrieve relevant contents about them.\u003C/p\u003E\n\n\u003Cp\u003EUsually, search engines use \u201ckeywords\u201d to find relevant contents. Topics.io uses a \u201ctopic centric\u201d approach. It\u2019s based on \u201ckeywords\u201d too, but add context information to increase the response quality. \u003C/p\u003E\n\n\u003Cp\u003ESeveral applications, on the web, use this API: \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Ehttp://skeedy.com, a news aggregator where users can define their own topics.\u003C/li\u003E\n\u003Cli\u003Ehttp://diablo-news.com, a blog web site focused on Diablo 3 video game.\u003C/li\u003E\n\u003Cli\u003ESome Twitter accounts are automatically populated with news. By example, @timburton\u003Cem\u003Enews and @almodovar\u003C/em\u003Enews\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EThis company is based in Montreal, QC, Canada, and was founded in 2011.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[64,
+       64],
+      "assets/images/resized/0017/0450/170450v2-max-150x150.png"],
+     [[64,
+       64],
+      "assets/images/resized/0017/0450/170450v2-max-250x250.png"],
+     [[64,
+       64],
+      "assets/images/resized/0017/0450/170450v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "founder",
+    "person":
+     {"first_name": "Didier",
+      "last_name": "Rano",
+      "permalink": "didier-rano",
+      "image": null}},
+   {"is_past": false,
+    "title": "founder",
+    "person":
+     {"first_name": "Wesley",
+      "last_name": "Bouarab",
+      "permalink": "wesley-bouarab",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Gnip",
+      "permalink": "gnip",
+      "image":
+       {"available_sizes":
+         [[[144,
+            104],
+           "assets/images/resized/0001/5747/15747v5-max-150x150.png"],
+          [[144,
+            104],
+           "assets/images/resized/0001/5747/15747v5-max-250x250.png"],
+          [[144,
+            104],
+           "assets/images/resized/0001/5747/15747v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "DataSift",
+      "permalink": "datasift",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0010/2730/102730v1-max-150x150.jpg"],
+          [[250,
+            70],
+           "assets/images/resized/0010/2730/102730v1-max-250x250.jpg"],
+          [[400,
+            113],
+           "assets/images/resized/0010/2730/102730v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        137],
+       "assets/images/resized/0017/0803/170803v2-max-150x150.png"],
+      [[250,
+        229],
+       "assets/images/resized/0017/0803/170803v2-max-250x250.png"],
+      [[450,
+        412],
+       "assets/images/resized/0017/0803/170803v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

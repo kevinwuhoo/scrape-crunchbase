@@ -1,0 +1,78 @@
+{"name": "NEi Software",
+ "permalink": "nei-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/nei-software",
+ "homepage_url": "http://www.NEiSoftware.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 50,
+ "founded_year": 1990,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "finite-element-analysis, nastran, engineering-simulation, digital-prototype, virtual-test, femap, cae, fea",
+ "alias_list": null,
+ "email_address": "info@neisoftware.com",
+ "phone_number": "714-899-1220",
+ "description": "Finite Element Analysis simulation",
+ "created_at": "Wed Aug 12 23:39:06 UTC 2009",
+ "updated_at": "Thu Aug 13 20:58:17 UTC 2009",
+ "overview": "\u003Cp\u003ENEi Software provides analysis, simulation, and virtual test software used by mechanical engineers to virtually determine the stress, deformation, dynamics, vibration modes, fatigue, kinematics, fluid dynamics, heat transfer, and other performance parameters of product designs.  \u003C/p\u003E\n\n\u003Cp\u003EThe software uses 3D digital prototypes, typically imported from 3D CAD software, and applies structural or thermal loads and boundary conditions. The software provides results in the form of data, plots, and 3D graphic visualizations, and animations that show engineers how parts and assemblies will perform. \u003C/p\u003E\n\n\u003Cp\u003ENEi Software saves companies time and money, promotes quality and encourages innovation by improving the design process.   Engineers can more easily explore design alternatives, optimize parts, reduce the number of physical prototypes, catch problem areas, eliminate numerous redesigns, and develop more appropriate test programs.\u003C/p\u003E\n\n\u003Cp\u003EThe main product NEi Nastran is an industry proven Finite Element Analysis solver that works with all major industry pre and post processors including Femap by Siemens PLM Software and in-house brands NEi Fusion and NEi Works for SolidWorks.\u003C/p\u003E\n\n\u003Cp\u003ENEi Nastran is used worldwide in aerospace, automotive, maritime, petroleum, medical, sports and consumer products. The website provides video demos, webinars, White Papers, and tutorials on FEA and engineering simulation topics.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0005/6227/56227v2-max-150x150.png"],
+     [[250,
+       74],
+      "assets/images/resized/0005/6227/56227v2-max-250x250.png"],
+     [[450,
+       134],
+      "assets/images/resized/0005/6227/56227v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "NEi Software",
+    "address1": "5555 Garden Grove Blvd.",
+    "address2": "Suite 300",
+    "zip_code": "92683",
+    "city": "Westminster",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.773547,
+    "longitude": -118.034474}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.nenastran.com/newnoran/pressPDF/ME_Magazine_May_2008_Offshore_analysis.pdf",
+    "title": "FEA in Offshore Analysis"},
+   {"external_url": "http://medicaldesign.com/engineering-prototyping/fea_prosthetic_lens_1008/index.html",
+    "title": "FEA Used in Medical Prosthetic Lens"},
+   {"external_url": "http://www.nenastran.com/newnoran/pressPDF/DEVELOP3D%20NEi%20Fusion%20Review%20by%20Al%20Dean%20in%20Develop3D%20Magazine%20April%202009%20Low%20Res.pdf",
+    "title": "Getting Started in FEA"},
+   {"external_url": "http://www.deskeng.com/articles/aaammy.htm",
+    "title": "FEA in Aircraft Design"}]}

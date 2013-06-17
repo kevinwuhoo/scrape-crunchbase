@@ -1,0 +1,147 @@
+{"name": "Journeys",
+ "permalink": "journeys",
+ "crunchbase_url": "http://www.crunchbase.com/company/journeys",
+ "homepage_url": "http://www.codename-journeys.com/",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 15,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "virtualworlds, virtualworld, virtual-world, travel",
+ "alias_list": null,
+ "email_address": "guy@codename-journeys.com",
+ "phone_number": "+972-3-691-4347",
+ "description": null,
+ "created_at": "Mon Jan 14 15:49:53 UTC 2008",
+ "updated_at": "Thu Oct 27 01:54:09 UTC 2011",
+ "overview": "\u003Cp\u003EJourneys, based in Israel, is a both a virtual world and MMOG (Massively Multiplayer Online Game). Journeys is a participant at the 2008 IsraelWebTour.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       83],
+      "assets/images/resized/0000/3136/3136v1-max-150x150.png"],
+     [[200,
+       111],
+      "assets/images/resized/0000/3136/3136v1-max-250x250.png"],
+     [[200,
+       111],
+      "assets/images/resized/0000/3136/3136v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Journeys",
+    "permalink": "journeys",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, Chief Creative Officer",
+    "person":
+     {"first_name": "Assaf",
+      "last_name": "Priel",
+      "permalink": "assaf-priel",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Sharon",
+      "last_name": "Priel",
+      "permalink": "sharon-priel",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Guy",
+      "last_name": "Bendov",
+      "permalink": "guy-bendov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sparkplay Media",
+      "permalink": "sparkplay-media",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0001/2404/12404v1-max-150x150.png"],
+          [[250,
+            36],
+           "assets/images/resized/0001/2404/12404v1-max-250x250.png"],
+          [[276,
+            40],
+           "assets/images/resized/0001/2404/12404v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Aeria Games \u0026 Entertainment",
+      "permalink": "aeria",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0001/7190/17190v3-max-150x150.png"],
+          [[180,
+            90],
+           "assets/images/resized/0001/7190/17190v3-max-250x250.png"],
+          [[180,
+            90],
+           "assets/images/resized/0001/7190/17190v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$600k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view\u0026newsId=20070701005042\u0026newsLang=en",
+    "source_description": null,
+    "raised_amount": 600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Elron Electronic Industries",
+         "permalink": "elron-electronic-industries",
+         "image":
+          {"available_sizes":
+            [[[150,
+               31],
+              "assets/images/resized/0002/8003/28003v1-max-150x150.jpg"],
+             [[250,
+               52],
+              "assets/images/resized/0002/8003/28003v1-max-250x250.jpg"],
+             [[450,
+               94],
+              "assets/images/resized/0002/8003/28003v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "13 Noah Moses St.",
+    "address2": null,
+    "zip_code": "67442",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

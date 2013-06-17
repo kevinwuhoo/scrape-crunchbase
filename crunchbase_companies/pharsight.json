@@ -1,0 +1,114 @@
+{"name": "Pharsight",
+ "permalink": "pharsight",
+ "crunchbase_url": "http://www.crunchbase.com/company/pharsight",
+ "homepage_url": "http://www.pharsight.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "PharsightCorp",
+ "category_code": "software",
+ "number_of_employees": 113,
+ "founded_year": 1995,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "650-314-3800",
+ "description": "",
+ "created_at": "Mon Aug 31 01:23:28 UTC 2009",
+ "updated_at": "Wed Apr 10 09:55:07 UTC 2013",
+ "overview": "\u003Cp\u003EPharsight Corporation provides software and scientific consulting services to pharmaceutical and biotechnology companies in the United States, Europe, and internationally. Its products include Phoenix WinNonlin and WinNonMix for the statistical analysis and mathematical modeling of pharmacokinetic (PK)/pharmacodynamic data; Trial Simulator for clinical trial simulation and computer-aided trial design; WinNonlin Validation Suite, a solution for the on-site validation of WinNonlin; and WinNonlin AutoPilot, a solution for the creation of formatted PK analysis outputs from clinical study data to be used in standard reports and regulatory submissions. The company\u00e2\u20ac\u2122s products also include IVIVC Toolkit for WinNonlin, a toolkit for in-vitro/in-vivo correlations; Pharsight Knowledgebase Server(PKS) and PKS Reporter for the storage, management, analysis, and regulatory reporting of derived data and models in data repositories; PKS Validation Suite, a solution for the on-site validation of PKS; Phoenix Connect, a solution for data sharing between Phoenix WinNonlin, PKS, and other modeling and analysis tools; and Drug Model Explorer, a solution for the visualization and communication of model-based product profiles. In addition, it offers reporting and analysis services. The company\u00e2\u20ac\u2122s products are used in pharmacology, drug and disease modeling, human genetics, biostatistics, strategic decision-making, and regulatory strategy disciplines. It offers its products to pharmacy and medical schools, students, and teachers through a network of distributors in Australia, New Zealand, Brazil, China, Japan, Korea, Malaysia, and Singapore. Pharsight Corporation has a strategic partnership with InforSense, Ltd. The company was founded in 1995 and is based in Mountain View, California with additional offices in St. Louis, Missouri; Cary, North Carolina; Montreal, Canada; and Munich, Germany. As of October 31, 2008, Pharsight Corporation operates as a subsidiary of Tripos International.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[138,
+       65],
+      "assets/images/resized/0005/8216/58216v1-max-150x150.jpg"],
+     [[138,
+       65],
+      "assets/images/resized/0005/8216/58216v1-max-250x250.jpg"],
+     [[138,
+       65],
+      "assets/images/resized/0005/8216/58216v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Hopkins",
+      "permalink": "jim-hopkins",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "John",
+      "last_name": "D. Yingling",
+      "permalink": "john-d-yingling",
+      "image": null}},
+   {"is_past": true,
+    "title": "Board member",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Chess",
+      "permalink": "robert-chess",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 55470000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 9,
+   "acquired_day": 8,
+   "acquiring_company":
+    {"name": "Tripos International",
+     "permalink": "tripos-international",
+     "image":
+      {"available_sizes":
+        [[[141,
+           72],
+          "assets/images/resized/0005/8219/58219v1-max-150x150.png"],
+         [[141,
+           72],
+          "assets/images/resized/0005/8219/58219v1-max-250x250.png"],
+         [[141,
+           72],
+          "assets/images/resized/0005/8219/58219v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "321 East Evelyn Avenue",
+    "address2": "3rd Floor",
+    "zip_code": "94041",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3889167,
+    "longitude": -122.0628133}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

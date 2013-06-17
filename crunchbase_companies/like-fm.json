@@ -1,0 +1,126 @@
+{"name": "Like.fm",
+ "permalink": "like-fm",
+ "crunchbase_url": "http://www.crunchbase.com/company/like-fm",
+ "homepage_url": "http://like.fm",
+ "blog_url": "http://blog.like.fm/",
+ "blog_feed_url": "",
+ "twitter_username": "likedotfm",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, music, discovery, music-discovery, social-music",
+ "alias_list": "",
+ "email_address": "chris@like.fm",
+ "phone_number": "",
+ "description": "Social music discovery",
+ "created_at": "Sun Sep 05 05:57:00 UTC 2010",
+ "updated_at": "Wed Apr 03 03:02:10 UTC 2013",
+ "overview": "\u003Cp\u003ELike.fm is a fast, beautiful, and fun way to share your favorite songs.\u003C/p\u003E\n\n\u003Cp\u003EPick a song or paste a YouTube link, select a photo, then post to Like.fm. Share to Facebook or Twitter as well.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       95],
+      "assets/images/resized/0010/0593/100593v4-max-150x150.png"],
+     [[250,
+       159],
+      "assets/images/resized/0010/0593/100593v4-max-250x250.png"],
+     [[440,
+       280],
+      "assets/images/resized/0010/0593/100593v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Chen",
+      "permalink": "chris-chen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "iTunes Ping",
+      "permalink": "itunes-ping",
+      "image": null}},
+   {"competitor":
+     {"name": "Last.fm",
+      "permalink": "last-fm",
+      "image":
+       {"available_sizes":
+         [[[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-150x150.png"],
+          [[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-250x250.png"],
+          [[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rdio",
+      "permalink": "rdio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0006/5692/65692v7-max-150x150.png"],
+          [[250,
+            96],
+           "assets/images/resized/0006/5692/65692v7-max-250x250.png"],
+          [[450,
+            173],
+           "assets/images/resized/0006/5692/65692v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        98],
+       "assets/images/resized/0010/0592/100592v2-max-150x150.jpg"],
+      [[250,
+        163],
+       "assets/images/resized/0010/0592/100592v2-max-250x250.jpg"],
+      [[435,
+        285],
+       "assets/images/resized/0010/0592/100592v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0018/1657/181657v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0018/1657/181657v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0018/1657/181657v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://news.cnet.com/8301-13526_3-20015614-27.html?tag=cnetRiver",
+    "title": "Like.fm is how social music should work"},
+   {"external_url": "http://www.indiemusictech.com/music_marketing_for_indie/2010/09/track-and-share-music-listening-activity-like-fm.html",
+    "title": "Track and Share your Music Listening Activity with Like.fm"}]}

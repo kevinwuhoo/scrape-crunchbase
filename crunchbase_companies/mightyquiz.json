@@ -1,0 +1,103 @@
+{"name": "MightyQuiz",
+ "permalink": "mightyquiz",
+ "crunchbase_url": "http://www.crunchbase.com/company/mightyquiz",
+ "homepage_url": "http://mightyquiz.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mightyquiz",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "quizzes, ugc, widget",
+ "alias_list": "",
+ "email_address": "kelly@mightyquiz.com",
+ "phone_number": "",
+ "description": "User generated quiz questions",
+ "created_at": "Mon Mar 10 17:28:09 UTC 2008",
+ "updated_at": "Thu Oct 08 17:27:13 UTC 2009",
+ "overview": "\u003Cp\u003EMightyQuiz powers a collection of user generated quiz questions that can be answered and rated on-site or through a distributable widget.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0001/5029/15029v3-max-150x150.png"],
+     [[220,
+       60],
+      "assets/images/resized/0001/5029/15029v3-max-250x250.png"],
+     [[220,
+       60],
+      "assets/images/resized/0001/5029/15029v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "MightyQuiz",
+    "permalink": "mightyquiz",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.techcrunch.com/2008/03/10/mightyquiz-stump-strangers-with-your-arcane-knowledge/",
+    "source_description": "MightyQuiz: Stump Strangers with Your Arcane Knowledge",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "19 Dorland",
+    "address2": "",
+    "zip_code": "94110",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.762314,
+    "longitude": -122.4244207}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.reddit.com/2009/09/mightyquiz-is-powering-our-reddit.html",
+    "title": "Mightyquiz is powering our reddit census, which is powered by you"},
+   {"external_url": "http://www.artistdirect.com/entertainment-news/article/artistdirect-com-launches-mighty-quiz/6101021",
+    "title": "ARTISTdirect.com Launches MightyQuiz"},
+   {"external_url": "http://www.readwriteweb.com/readwritestart/2009/10/6-great-twitter-quiz-and-polli.php",
+    "title": "6 Great Twitter Quiz and Polling Apps"}]}

@@ -1,0 +1,98 @@
+{"name": "Nephorider",
+ "permalink": "nephorider",
+ "crunchbase_url": "http://www.crunchbase.com/company/nephorider",
+ "homepage_url": "http://www.nephorider.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "nephorider",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": 4,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, visualization, infrastructure, amazon, aws",
+ "alias_list": null,
+ "email_address": "contact@nephorider.com",
+ "phone_number": "",
+ "description": "Infrastructure visualization",
+ "created_at": "Mon Jun 17 12:48:15 UTC 2013",
+ "updated_at": "Mon Jun 17 17:32:05 UTC 2013",
+ "overview": "\u003Cp\u003ENephorider is am infrastructure visualization tool, designed to be both simple and efficient. Enter your credentials to your cloud provider, wait a few seconds and all your machines in the cloud will appear clearly,  in a comprehensible diagram showing the connections between all elements. Detailed characteristics of each item can be displayed, and when possible it is possible to connect in one click to an instance launching directly an SSH connection in a Terminal shell.\u003C/p\u003E\n\n\u003Cp\u003ENephorider was designed to provide clarity to a complete team in regards to the potential problems of cloud infrastructure. As cloud-infrastructure providers offers more and more capabilities, it also become possible to build systems that can easily become oversized or too complex in regards to the original requirements. Tries are done, elements are added and very often dealing with the provider web console can become cumbersome and bring  complexity. Nephorider solves this problem, keeping the infrastructure components constantly revealed, and offering a common language to managers and engineers\u003C/p\u003E\n\n\u003Cp\u003ENephorider is currently in beta and works with Amazon AWS EC2/ELB. It isbot available as a MacOS X application\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0027/6070/276070v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0027/6070/276070v2-max-250x250.png"],
+     [[400,
+       400],
+      "assets/images/resized/0027/6070/276070v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Laurent",
+      "last_name": "Cerveau",
+      "permalink": "laurent-cerveau",
+      "image":
+       {"available_sizes":
+         [[[150,
+            120],
+           "assets/images/resized/0006/0116/60116v4-max-150x150.jpg"],
+          [[250,
+            200],
+           "assets/images/resized/0006/0116/60116v4-max-250x250.jpg"],
+          [[450,
+            360],
+           "assets/images/resized/0006/0116/60116v4-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EWilliam Stewart\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Paris'office",
+    "address1": "231 rue Saint Honor\u00e9",
+    "address2": "",
+    "zip_code": "75001",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.8661114,
+    "longitude": 2.3290928}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        109],
+       "assets/images/resized/0027/6069/276069v2-max-150x150.png"],
+      [[250,
+        182],
+       "assets/images/resized/0027/6069/276069v2-max-250x250.png"],
+      [[450,
+        329],
+       "assets/images/resized/0027/6069/276069v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

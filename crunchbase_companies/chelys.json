@@ -1,0 +1,77 @@
+{"name": "Chelys",
+ "permalink": "chelys",
+ "crunchbase_url": "http://www.crunchbase.com/company/chelys",
+ "homepage_url": "http://www.chelys.it",
+ "blog_url": "http://www.eosnap.com",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2002,
+ "founded_month": 5,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "development, integration, image-processing, satellite-imagery, system-prototyping",
+ "alias_list": null,
+ "email_address": "info@chelys.it",
+ "phone_number": "+39067840024",
+ "description": "software development, integration",
+ "created_at": "Wed Oct 07 14:08:24 UTC 2009",
+ "updated_at": "Thu Oct 08 17:55:05 UTC 2009",
+ "overview": "\u003Cp\u003EChelys was established in 2002 and its core business focuses on software development and supplying services in the Earth Observation sector as a provider of processing stations for Earth observation satellites.\nOur main product, Satellite Rapid Response System, a multimission real-time data processing and quality control system that is able to simultaneously process data coming from several different missions. It can be used to process data from the following satellite instruments:\u0026lt;br/\u0026gt;\n    * ALOS - AVNIR-2, level 0 (raw data) and level 1\n    * ENVISAT - ASAR, level1\n    * ENVISAT - MERIS, levels 0 (raw data), level1 and level2\n    * ENVISAT - MERIS, levels 0 and level1 FAPAR/MGVI Processor for Monitoring Vegetation Cover\n    * METOP/NOAA \u00e2\u20ac\u201c AVHRR\n    * TERRA and AQUA - MODIS\u003C/p\u003E\n\n\u003Cp\u003EOur current areas of activity are:\n    * software development\n    * environmental acquisition and processing systems\n    * direct acquisition systems\n    * image generation from raw data, orthorectification and mosaics\u003C/p\u003E\n\n\u003Cp\u003EWe also provide services such as:\n    * a comprehensive maintenance and support program which provides operational support, software and hardware maintenance and enhancements\n    * technical consultancy\n    * feasibility, design and pre-phase studies\n    * system prototyping\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0006/1941/61941v2-max-150x150.jpg"],
+     [[190,
+       65],
+      "assets/images/resized/0006/1941/61941v2-max-250x250.jpg"],
+     [[190,
+       65],
+      "assets/images/resized/0006/1941/61941v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Luca",
+      "last_name": "Mellano",
+      "permalink": "luca-mellano",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Rome Office",
+    "address1": "Via Erasmo Gattamelata 3",
+    "address2": "",
+    "zip_code": "00176",
+    "city": "Rome",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

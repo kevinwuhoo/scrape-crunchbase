@@ -1,0 +1,127 @@
+{"name": "TV Pixie",
+ "permalink": "tv-pixie",
+ "crunchbase_url": "http://www.crunchbase.com/company/tv-pixie",
+ "homepage_url": "http://tvpixie.com",
+ "blog_url": "http://blog.tvpixie.com",
+ "blog_feed_url": "http://feeds.feedburner.com/TVPixie",
+ "twitter_username": "tvpixie",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-publishing, tv, entertainment, web-2-0",
+ "alias_list": null,
+ "email_address": "info@tvpixie.com",
+ "phone_number": "07715 119 645",
+ "description": "Site for TV enthusiasts",
+ "created_at": "Thu Apr 09 11:30:01 UTC 2009",
+ "updated_at": "Fri Apr 08 02:40:08 UTC 2011",
+ "overview": "\u003Cp\u003ETV Pixie is an online destination for TV enthusiasts. \u003C/p\u003E\n\n\u003Cp\u003EThe site will initially carry a TV listings guide and picks of the day. Further features and functionality are in development. \u003C/p\u003E\n\n\u003Cp\u003ETV Pixie will draw its revenue principally through advertising.\u003C/p\u003E\n\n\u003Cp\u003EThe company is born in the UK and expects to grow and to become a multi-lingual, multi-cultural, global entity. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       70],
+      "assets/images/resized/0004/0679/40679v2-max-150x150.png"],
+     [[250,
+       116],
+      "assets/images/resized/0004/0679/40679v2-max-250x250.png"],
+     [[450,
+       210],
+      "assets/images/resized/0004/0679/40679v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Guest",
+      "permalink": "alex-guest",
+      "image":
+       {"available_sizes":
+         [[[116,
+            150],
+           "assets/images/resized/0005/3800/53800v2-max-150x150.jpg"],
+          [[194,
+            250],
+           "assets/images/resized/0005/3800/53800v2-max-250x250.jpg"],
+          [[350,
+            450],
+           "assets/images/resized/0005/3800/53800v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TV Guide",
+      "permalink": "tv-guide",
+      "image":
+       {"available_sizes":
+         [[[96,
+            70],
+           "assets/images/resized/0001/8945/18945v1-max-150x150.png"],
+          [[96,
+            70],
+           "assets/images/resized/0001/8945/18945v1-max-250x250.png"],
+          [[96,
+            70],
+           "assets/images/resized/0001/8945/18945v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Kemp Little LLP",
+      "permalink": "kemp-little-llp",
+      "image": null}}],
+ "total_money_raised": "\u20ac50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2009,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "NW6 1TE",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5206682,
+    "longitude": -0.1852079}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0012/9304/129304v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0012/9304/129304v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0012/9304/129304v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "https://ktn.innovateuk.org/web/ictomorrow/articles/-/blogs/3442000?ns_33_redirect=%2Fweb%2Fictomorrow%2Farticles",
+    "title": "IC Tomorrow - Film \u0026 TV Panel winners"}]}

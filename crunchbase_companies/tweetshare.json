@@ -1,0 +1,120 @@
+{"name": "Tweetshare",
+ "permalink": "tweetshare",
+ "crunchbase_url": "http://www.crunchbase.com/company/tweetshare",
+ "homepage_url": "http://www.tweetshare.com",
+ "blog_url": "http://blog.tweetshare.com",
+ "blog_feed_url": "http://blog.tweetshare.com/feed",
+ "twitter_username": "tweetshare",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, social-networking, collaboration",
+ "alias_list": null,
+ "email_address": "patrick@fuzebox.com",
+ "phone_number": "408-838-3951",
+ "description": "Twitter Fan Pages",
+ "created_at": "Mon May 24 12:59:40 UTC 2010",
+ "updated_at": "Wed May 26 17:25:47 UTC 2010",
+ "overview": "\u003Cp\u003EA third party Twitter app that allows anyone to immediately publish any type of content to the web, including HD video, presentations, images and more and automatically start Twitter conversation threads around their content. It\u00e2\u20ac\u2122s kind of like FriendFeed meets Twitpic or Twitvid.  Tweetshare was incubated by Fuze Box, a San Francisco company focused on business collaboration.\u003C/p\u003E\n\n\u003Cp\u003ERead more: http://techcrunch.com/2010/03/08/tweetshare-fuze-boxs-take-on-branded-twitter-channels/#ixzz0oqpP2naY\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0008/8303/88303v2-max-150x150.png"],
+     [[206,
+       55],
+      "assets/images/resized/0008/8303/88303v2-max-250x250.png"],
+     [[206,
+       55],
+      "assets/images/resized/0008/8303/88303v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "General Manager",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "Moran",
+      "permalink": "patrick-moran",
+      "image":
+       {"available_sizes":
+         [[[150,
+            149],
+           "assets/images/resized/0007/7159/77159v6-max-150x150.jpg"],
+          [[250,
+            249],
+           "assets/images/resized/0007/7159/77159v6-max-250x250.jpg"],
+          [[450,
+            449],
+           "assets/images/resized/0007/7159/77159v6-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twitpic",
+      "permalink": "twitpic",
+      "image":
+       {"available_sizes":
+         [[[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-150x150.jpg"],
+          [[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-250x250.jpg"],
+          [[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mzinga",
+      "permalink": "mzinga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0001/4271/14271v5-max-150x150.jpg"],
+          [[190,
+            75],
+           "assets/images/resized/0001/4271/14271v5-max-250x250.jpg"],
+          [[190,
+            75],
+           "assets/images/resized/0001/4271/14271v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "San Francisco",
+    "address1": "88 Kearny",
+    "address2": "",
+    "zip_code": "94105",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2010/03/08/tweetshare-fuze-boxs-take-on-branded-twitter-channels/",
+    "title": "TechCrunch's Coverage of Launch"},
+   {"external_url": "http://www.adotas.com/2010/03/fuze-box-launches-tweetshare-for-twitter-fan-pages/",
+    "title": "Adatos Coverage of Tweetshare Fan Pages"}]}

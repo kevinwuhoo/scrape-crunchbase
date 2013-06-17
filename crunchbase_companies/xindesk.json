@@ -1,0 +1,103 @@
+{"name": "Xindesk",
+ "permalink": "xindesk",
+ "crunchbase_url": "http://www.crunchbase.com/company/xindesk",
+ "homepage_url": "http://www.xindesk.com",
+ "blog_url": "http://cloudodev.blogspot.com",
+ "blog_feed_url": "http://cloudodev.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sweden, webos, webtop",
+ "alias_list": null,
+ "email_address": "info@cloudo.com",
+ "phone_number": "+46 709 922 632",
+ "description": null,
+ "created_at": "Mon Dec 03 11:13:51 UTC 2007",
+ "updated_at": "Wed Jan 25 18:56:46 UTC 2012",
+ "overview": "\u003Cp\u003EXindesk is a free WebOS that runs in a web browser. Developed by parent XIN company, from Sweden, Xindesk is another competitor into the crowded field of web desktops or \u0026#8220;webtops\u0026#8221;. The core of Xindesk is a WebOS featuring applications that open and saves the standard office formats.\u003C/p\u003E\n\n\u003Cp\u003EEnd users will find Xindesk to be one to work, manage files and accounts, and collaborate with friends in any place by logging in and out of the highly AJAX-based Xindesk interface. With the tagline, \u0026#8220;Everything is a widget these days\u0026#8221;, users will find various basic applications (or widgets) such as Address book, Calendar, E-mail (with POP and IMAP4 support), File explorer, and Games. Lastly, and importantly, Xindesk offers MS Office support. \u003C/p\u003E\n\n\u003Cp\u003EOne of the main goals of  XIN is to produce next generation applications on the XIN Web OS platform. This is evident, as Xindesk seems to be focusing more on the developer than other WebOSs we\u0026#8217;ve seen. As a developer, you have absolute server-rights for the apps that you create. Lastly, the AJAX interface is implemented automatically for the apps\u003C/p\u003E\n\n\u003Cp\u003EPrimary competitors: \u003Ca href=\"http://www.crunchbase.com/company/youOS\" title=\"YouOS\"\u003EYouOS\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/desktoptwo\" title=\"Desktoptwo\"\u003EDesktoptwo\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/eyeOS\" title=\"eyeOS\"\u003EeyeOS\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/G.ho.st\" title=\"G.ho.st\"\u003EG.ho.st\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0000/2455/2455v1-max-150x150.png"],
+     [[200,
+       42],
+      "assets/images/resized/0000/2455/2455v1-max-250x250.png"],
+     [[200,
+       42],
+      "assets/images/resized/0000/2455/2455v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Xindesk",
+    "permalink": "xindesk",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Mikael",
+      "last_name": "Bergqvist",
+      "permalink": "mikael-bergqvist",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "YouOS",
+      "permalink": "youos",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0000/2305/2305v3-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0000/2305/2305v3-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0000/2305/2305v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Majorsgatan 4",
+    "address2": "",
+    "zip_code": "113 24",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": 59.336527,
+    "longitude": 18.077451}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0017/1500/171500v2-max-150x150.jpg"],
+      [[250,
+        156],
+       "assets/images/resized/0017/1500/171500v2-max-250x250.jpg"],
+      [[450,
+        281],
+       "assets/images/resized/0017/1500/171500v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,98 @@
+{"name": "Famundo",
+ "permalink": "famundo",
+ "crunchbase_url": "http://www.crunchbase.com/company/famundo",
+ "homepage_url": "http://www.famundo.com/",
+ "blog_url": "http://blog.famundo.com/",
+ "blog_feed_url": "http://blog.famundo.com/xml/rss20/feed.xml",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "family, calendar, to-dos, shopping-list, adress-book, outlook-sync, messages, ruby-on-rails",
+ "alias_list": null,
+ "email_address": "press@famundo.com",
+ "phone_number": "888.247.0992",
+ "description": "",
+ "created_at": "Mon Jul 28 08:59:59 UTC 2008",
+ "updated_at": "Fri May 21 15:46:01 UTC 2010",
+ "overview": "\u003Cp\u003EFamundo for Families is your family hub, making your family\u0026#8217;s schedule manageable and giving you control over your daily life.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0002/2744/22744v2-max-150x150.png"],
+     [[250,
+       98],
+      "assets/images/resized/0002/2744/22744v2-max-250x250.png"],
+     [[280,
+       110],
+      "assets/images/resized/0002/2744/22744v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Kuhlenschmidt",
+      "permalink": "richard-kuhlenschmidt",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Cosmin",
+      "last_name": "Andriescu",
+      "permalink": "cosmin-andriescu",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hellofam",
+      "permalink": "hellofam",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0002/3053/23053v7-max-150x150.png"],
+          [[250,
+            131],
+           "assets/images/resized/0002/3053/23053v7-max-250x250.png"],
+          [[450,
+            236],
+           "assets/images/resized/0002/3053/23053v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "15332 Antioch St.",
+    "address2": "#132",
+    "zip_code": "90272",
+    "city": "Pacific Palisades",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.0471094,
+    "longitude": -118.5268914}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

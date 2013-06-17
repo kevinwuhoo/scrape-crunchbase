@@ -1,0 +1,125 @@
+{"name": "ZealCore Embedded Solutions",
+ "permalink": "zealcore-embedded-solutions",
+ "crunchbase_url": "http://www.crunchbase.com/company/zealcore-embedded-solutions",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "46 2 14 48 04 20",
+ "description": "",
+ "created_at": "Thu Apr 29 01:49:27 UTC 2010",
+ "updated_at": "Thu Apr 29 01:49:27 UTC 2010",
+ "overview": "\u003Cp\u003EZealCore Embedded Solutions AB develops technologies for diagnostics and maintenance of software control systems. It offers System Debugger, which collects and refines information contained in logs during development, integration, test, deployment, and operation, as well as enables users to create projects and logsets for tracking down bugs in software and to make post processing of data, including filtering and searches that pinpoint a behavior. The company also provides Model Replay Debugger that enables recording and replay when using UML design and code generating tools, as well as allows users to make analysis on the recorded behavior of UML models, including filtering and searches; and System Recorder, a blackbox recorder for system. It offers field and lab troubleshooting products in failure diagnostics, behavior analysis, profiling, and visualization for tool vendors and solution providers. The company provides products for failure diagnostics of commissioned systems. Its solutions enable users to see the bugs and automate the process of locating them, as well as to record, replay, reanimate, visualize, and analyze computer systems. The company was founded in 2001 and is based in V\u00c3\u00a4ster\u00c3\u00a5s, Sweden. As of July 1, 2008, ZealCore Embedded Solutions AB operates as a subsidiary of Enea Data AB.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Henrik",
+      "last_name": "Thane",
+      "permalink": "henrik-thane",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.54M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 1540000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 3,
+    "funded_day": 14,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Industrifonden",
+         "permalink": "industrifonden",
+         "image":
+          {"available_sizes":
+            [[[150,
+               27],
+              "assets/images/resized/0003/2833/32833v1-max-150x150.png"],
+             [[241,
+               44],
+              "assets/images/resized/0003/2833/32833v1-max-250x250.png"],
+             [[241,
+               44],
+              "assets/images/resized/0003/2833/32833v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "SEB Venture Capital",
+         "permalink": "seb-venture-capital",
+         "image":
+          {"available_sizes":
+            [[[100,
+               70],
+              "assets/images/resized/0002/9960/29960v1-max-150x150.png"],
+             [[100,
+               70],
+              "assets/images/resized/0002/9960/29960v1-max-250x250.png"],
+             [[100,
+               70],
+              "assets/images/resized/0002/9960/29960v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "KTH Chalmers Capital",
+         "permalink": "kth-chalmers-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               26],
+              "assets/images/resized/0007/9459/79459v1-max-150x150.jpg"],
+             [[250,
+               43],
+              "assets/images/resized/0007/9459/79459v1-max-250x250.jpg"],
+             [[253,
+               44],
+              "assets/images/resized/0007/9459/79459v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Vasagatan 15",
+    "address2": "",
+    "zip_code": "722 15",
+    "city": "V\u00c3\u00a4ster\u00c3\u00a5s",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

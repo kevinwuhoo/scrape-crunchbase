@@ -1,0 +1,80 @@
+{"name": "TuuSo.com",
+ "permalink": "tuuso",
+ "crunchbase_url": "http://www.crunchbase.com/company/tuuso",
+ "homepage_url": "http://www.tuuso.com/",
+ "blog_url": "https://www.facebook.com/TuuSo",
+ "blog_feed_url": "",
+ "twitter_username": "TuuSoCom",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search-by-image, visual-shopping, imagerecognition, visualshopping",
+ "alias_list": null,
+ "email_address": "admin@tuuso.com",
+ "phone_number": "(650) 450-9789",
+ "description": "search by image",
+ "created_at": "Sun May 12 18:02:58 UTC 2013",
+ "updated_at": "Tue May 14 03:33:18 UTC 2013",
+ "overview": "\u003Cp\u003ETuuSo.com is a search by image engine, and now focus on improving internet users\u0026#8217; visual shopping experience. User can input an image, and search for visually similar products that s/he want to buy.\u003C/p\u003E\n\n\u003Cp\u003EAs an example:  http://www.tuuso.com/search/http%3A%2F%2Fstatic.lockerz.com%2Fdecalz%2FW600%2Fimage001353330241017bhl3yp.jpeg\u003C/p\u003E\n\n\u003Cp\u003EUser can select the focus area using the cropper UI widget (click \u0026amp; drag on the image) e.g. her boot,  and then choose category \u0026#8220;boot\u0026#8221; from the upper drop down box, the engine will return visually similar boots user can buy.\u003C/p\u003E\n\n\u003Cp\u003ETuuSo mobile application: allows user to take a photo and search for products from their smart phones:\u003C/p\u003E\n\n\u003Cp\u003Ehttps://play.google.com/store/apps/details?id=com.tuuso\u003C/p\u003E\n\n\u003Cp\u003ETuuSo open image search API: allows any 3rd party web/mobile developers to add image search onto their own products.\u003C/p\u003E\n\n\u003Cp\u003Ehttp://www.tuuso.com/doc\u003C/p\u003E\n\n\u003Cp\u003EThe TuuSo image search system is very scaleable: on the demo site, with 4 core and 2G memory (literally with the computing power of a laptop), they indexed 1M  images, with very fast response time, way below the 300ms standard. (Esp compare this with the previous attempt of like.com, http://en.wikipedia.org/wiki/Like.com: \u0026#8220;\u0026#8230; Like.com has raised US$19.5 million \u0026#8230; As of November 2006, the website has about two million unique products \u0026#8230;\u0026#8221;)\u003C/p\u003E\n\n\u003Cp\u003Ehttp://www.tuuso.com/static/about\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0026/1517/261517v2-max-150x150.png"],
+     [[160,
+       40],
+      "assets/images/resized/0026/1517/261517v2-max-250x250.png"],
+     [[160,
+       40],
+      "assets/images/resized/0026/1517/261517v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "YuQian",
+      "last_name": "Zhou",
+      "permalink": "yuqian-zhou",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[120,
+        150],
+       "assets/images/resized/0026/1516/261516v2-max-150x150.png"],
+      [[201,
+        250],
+       "assets/images/resized/0026/1516/261516v2-max-250x250.png"],
+      [[362,
+        450],
+       "assets/images/resized/0026/1516/261516v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.tuuso.com/",
+    "title": "TuuSo image search"}]}

@@ -1,0 +1,82 @@
+{"name": "VIACONT",
+ "permalink": "viacont",
+ "crunchbase_url": "http://www.crunchbase.com/company/viacont",
+ "homepage_url": "http://www.viacont.de",
+ "blog_url": "http://viacont-bg.blogspot.com",
+ "blog_feed_url": "",
+ "twitter_username": "VIACONT",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 2,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bluetooth, telemetry, telematics, sae-j1939, j1939, 1-wire, wireless-trigger, remote-control",
+ "alias_list": null,
+ "email_address": "contact@viacont.de",
+ "phone_number": "",
+ "description": "Telemetry and Telematics",
+ "created_at": "Sun Nov 04 12:18:34 UTC 2012",
+ "updated_at": "Thu Nov 08 03:46:13 UTC 2012",
+ "overview": "\u003Cp\u003EA small startup company for software and hardware solutions for telemetry and telematics.\nCompany\u0026#8217;s focus is mainly gadgets for use with smartphones to help connect different types of electronic equipment with a smartphone.\nCompany products include a Bluetooth replacement for key-fob remote controls for use with smartphones, a Blutooth bridge for 1-wire sensor networks with automotive power supply, a SAE-J1939 to Bluetooth adapter for use as a bridge between a smartphone and a heavy vehicle.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/8686/218686v2-max-150x150.png"],
+     [[160,
+       160],
+      "assets/images/resized/0021/8686/218686v2-max-250x250.png"],
+     [[160,
+       160],
+      "assets/images/resized/0021/8686/218686v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "SAE-j1939-Bluetooth Adapter",
+    "permalink": "sae-j1939-bluetooth-adapter",
+    "image": null},
+   {"name": "1-Wire-Bluetooth Adapter",
+    "permalink": "1-wire-bluetooth-adapter",
+    "image": null},
+   {"name": "Clicko Universal Bluetooth Trigger",
+    "permalink": "clicko-universal-bluetooth-trigger",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        150],
+       "assets/images/resized/0021/9217/219217v2-max-150x150.png"],
+      [[250,
+        250],
+       "assets/images/resized/0021/9217/219217v2-max-250x250.png"],
+      [[256,
+        256],
+       "assets/images/resized/0021/9217/219217v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.indiegogo.com/clicko",
+    "title": "Bluetooth Wireless Trigger Crowdfunding Campign"}]}

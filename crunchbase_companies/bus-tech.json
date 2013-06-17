@@ -1,0 +1,100 @@
+{"name": "Bus-Tech",
+ "permalink": "bus-tech",
+ "crunchbase_url": "http://www.crunchbase.com/company/bus-tech",
+ "homepage_url": "http://www.bustech.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "public_relations",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "(781) 272-8200",
+ "description": "",
+ "created_at": "Thu Nov 11 05:20:40 UTC 2010",
+ "updated_at": "Thu Nov 11 05:20:40 UTC 2010",
+ "overview": "\u003Cp\u003EBus-Tech, Inc. develops and markets mainframe networking and storage products for data center connectivity applications. It offers Mainframe Data Library (MDL), a family of virtual tape library controllers for IBM compatible and Unisys 2200 mainframes; and zDASD 3990 Controller, an emulation product that stores and retrieves files implementing the ECKD file access method on common open system storage arrays. The company also provides Virtuent, a tape-on-disk engine for MDL product line that processes FICON/ESCON channel protocols, as well as writes the tape data sets to industry-standard storage arrays. Its products are used in disaster recovery and business continuation, data backup and restore, converged mainframe and distributed system backup, batch processing, and data archiving applications. Bus-Tech, Inc. was founded in 1987 and is based in Bedford, Massachusetts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[96,
+       27],
+      "assets/images/resized/0010/9758/109758v1-max-150x150.png"],
+     [[96,
+       27],
+      "assets/images/resized/0010/9758/109758v1-max-250x250.png"],
+     [[96,
+       27],
+      "assets/images/resized/0010/9758/109758v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Nicewicz",
+      "permalink": "robert-nicewicz",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.masshightech.com/stories/2010/11/08/daily33-EMC-buys-storage-virtualization-firm-Bus-Tech.html",
+   "source_description": "EMC buys storage virtualization firm Bus-Tech",
+   "acquired_year": 2010,
+   "acquired_month": 11,
+   "acquired_day": 10,
+   "acquiring_company":
+    {"name": "EMC",
+     "permalink": "emc",
+     "image":
+      {"available_sizes":
+        [[[150,
+           150],
+          "assets/images/resized/0002/1658/21658v2-max-150x150.png"],
+         [[250,
+           250],
+          "assets/images/resized/0002/1658/21658v2-max-250x250.png"],
+         [[400,
+           400],
+          "assets/images/resized/0002/1658/21658v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "26 Crosby Drive",
+    "address2": "Suite 100",
+    "zip_code": "01730",
+    "city": "Bedford",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

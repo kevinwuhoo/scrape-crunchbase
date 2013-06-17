@@ -1,0 +1,95 @@
+{"name": "Metrilus",
+ "permalink": "metrilus",
+ "crunchbase_url": "http://www.crunchbase.com/company/metrilus",
+ "homepage_url": "http://www.metrilus.de",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "metrilus",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "time-of-flight-camera, tof-camera, time-of-flight, mesa, pmd, fotonic, primesense, kinect, xtion, camcube, sr4000, -net-wrapper, sdk, pmd--net, fotonic--net, primesense--net, kinect--net, xtion--net, xtionpro--net, camcube--net, camboard, camboard--net, s",
+ "alias_list": null,
+ "email_address": "info@metrilus.de",
+ "phone_number": "+49 9131 9189771",
+ "description": "3-D range imaging applications",
+ "created_at": "Sat Feb 11 12:59:27 UTC 2012",
+ "updated_at": "Thu Apr 11 22:05:27 UTC 2013",
+ "overview": "\u003Cp\u003EIn the beginning of 2010 Metrilus was founded as one of the first companies worldwide to provide a profound and complete solution for real-time 3-D imaging. Metrilus offers its customers tailored software for all kinds of applications within real-time 3-D imaging. This includes the support of a variety of 3-D acquisition modalities, including Time-of-Flight, Structured Light, Light Section and the combination of all these modalities for multi-camera setups. The software supports all major Time-of-Flight cameras and other popular devices, like Mesa Imaging Fotonic, PMD, ifm, Softkinetic, Microsoft Kinect and Asus Xtion.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       95],
+      "assets/images/resized/0017/3845/173845v2-max-150x150.png"],
+     [[180,
+       115],
+      "assets/images/resized/0017/3845/173845v2-max-250x250.png"],
+     [[180,
+       115],
+      "assets/images/resized/0017/3845/173845v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Schaller",
+      "permalink": "christian-schaller",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Balda",
+      "permalink": "michael-balda",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.exist.de",
+    "source_description": "EXIST Gr\u00fcnderstipendium",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2010,
+    "funded_month": 2,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Henkestr. 91",
+    "address2": "",
+    "zip_code": "91052",
+    "city": "Erlangen",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/wQjize2q3S8\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ECorporate presentation of the Metrilus GmbH - In the beginning of 2010 Metrilus was founded as one of the first companies worldwide to provide a profound and complete solution for real-time 3-D imaging. We offer our customers tailored software for all kin\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.youtube.com/metrilus",
+    "title": "Youtube profile"}]}

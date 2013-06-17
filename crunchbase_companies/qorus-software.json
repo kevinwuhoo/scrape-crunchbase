@@ -1,0 +1,166 @@
+{"name": "Qorus Software",
+ "permalink": "qorus-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/qorus-software",
+ "homepage_url": "http://www.qorusdocs.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "qorusdocs",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "document-automation, sharepoint, microsoft-office, word-template, content-management, enterprise-content-management, dynamic-templates, proposal-generation, contract-generation, document-lifecycle, document-workflow",
+ "alias_list": null,
+ "email_address": "jdiaz@qorusdocs.com",
+ "phone_number": "+27 21 948 4524",
+ "description": "Document Automation for SharePoint",
+ "created_at": "Fri Jun 17 12:43:42 UTC 2011",
+ "updated_at": "Wed Aug 15 22:21:47 UTC 2012",
+ "overview": "\u003Cp\u003EQorus Software is a provider of document automation solutions for the Microsoft SharePoint platform. Qorus DocGeneration is used by companies such as Vodafone (UK and Europe), Aerion Fund Management (UK), JO Hambro Capital Management (UK), and Exeter Friendly Society (UK) to dramtically reduce the time and effort required to generate complex, highly customized business documents. \u003C/p\u003E\n\n\u003Cp\u003EBusiness end users can create intelligent templates in Word that dynamically self-populate with relevant data pulled from systems across the enterprise, such as CRM, ERP and financial applications. No coding or development skills required to create these templates, no more manual \u0026#8220;copy / pasting\u0026#8221; into existing documents. Examples of customized, complex business documents include sales proposals, financial reports, welcome kits, contracts, terms \u0026amp; conditions, claims and group policies, which are labor intensive to generate and customize with the most accurate and relevant information..\u003C/p\u003E\n\n\u003Cp\u003ECompanies typically reduce their document generation time from hours to one minute and they improve the quality of output, since branding guidelines are adhered to, data is accurate and up to date, and human error is virtually eliminated.   \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[142,
+       150],
+      "assets/images/resized/0018/9799/189799v2-max-150x150.png"],
+     [[199,
+       210],
+      "assets/images/resized/0018/9799/189799v2-max-250x250.png"],
+     [[199,
+       210],
+      "assets/images/resized/0018/9799/189799v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Qorus DocGeneration",
+    "permalink": "qorus-docgeneration",
+    "image": null},
+   {"name": "Qorus Breeze Proposals",
+    "permalink": "qorus-breeze-proposals",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Ray",
+      "last_name": "Meiring",
+      "permalink": "ray-meiring",
+      "image": null}},
+   {"is_past": false,
+    "title": "Technology Director",
+    "person":
+     {"first_name": "St\u00c3\u00a9phanie",
+      "last_name": "Laurent",
+      "permalink": "stphanie-laurent",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0018/9828/189828v2-max-150x150.jpg"],
+          [[250,
+            167],
+           "assets/images/resized/0018/9828/189828v2-max-250x250.jpg"],
+          [[450,
+            301],
+           "assets/images/resized/0018/9828/189828v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Operations Manager",
+    "person":
+     {"first_name": "Geoff",
+      "last_name": "Lander",
+      "permalink": "geoff-lander",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business Development Director",
+    "person":
+     {"first_name": "Lee",
+      "last_name": "Child",
+      "permalink": "lee-child",
+      "image": null}},
+   {"is_past": false,
+    "title": "Marketing Manager",
+    "person":
+     {"first_name": "Julian",
+      "last_name": "Diaz",
+      "permalink": "julian-diaz",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Activedocs Opus",
+      "permalink": "activedocs-opus",
+      "image": null}},
+   {"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "OpenText",
+      "permalink": "opentext",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/7757/37757v3-max-150x150.png"],
+          [[204,
+            56],
+           "assets/images/resized/0003/7757/37757v3-max-250x250.png"],
+          [[204,
+            56],
+           "assets/images/resized/0003/7757/37757v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Thunderhead NOW",
+      "permalink": "thunderhead-now",
+      "image": null}},
+   {"competitor":
+     {"name": "Intelldox",
+      "permalink": "intelldox",
+      "image": null}},
+   {"competitor":
+     {"name": "Sant",
+      "permalink": "sant",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head office",
+    "address1": "2nd Floor, Corporate Place",
+    "address2": "13 Mispel Road",
+    "zip_code": "7530",
+    "city": "Cape Town",
+    "state_code": null,
+    "country_code": "ZAF",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

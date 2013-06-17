@@ -1,0 +1,107 @@
+{"name": "Virtualmin",
+ "permalink": "virtualmin",
+ "crunchbase_url": "http://www.crunchbase.com/company/virtualmin",
+ "homepage_url": "http://www.virtualmin.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "virtualmin",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Web Server Control Panel",
+ "created_at": "Fri Mar 14 20:32:15 UTC 2008",
+ "updated_at": "Mon Apr 01 15:49:12 UTC 2013",
+ "overview": "\u003Cp\u003EVirtualmin is taking on the lack of innovation in the server admin programs, like Plesk, by making a more accessable version for pages managed by the non-technical crowd. The program will feature simple installs of popular programs like content management systems that often cost extra on other providers. It will also let you administer your website from your desktop and mobile device.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0024/6971/246971v1-max-150x150.png"],
+     [[220,
+       45],
+      "assets/images/resized/0024/6971/246971v1-max-250x250.png"],
+     [[220,
+       45],
+      "assets/images/resized/0024/6971/246971v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.techcrunch.com/2007/03/09/demo-day-y-combinators-spring-chicks/",
+    "source_description": "Demo Day: Y Combinator's Spring Chicks",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "285B Mountain View Ave.",
+    "address2": "",
+    "zip_code": "94041",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3950064,
+    "longitude": -122.0851493}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0004/6328/46328v1-max-150x150.png"],
+      [[250,
+        155],
+       "assets/images/resized/0004/6328/46328v1-max-250x250.png"],
+      [[450,
+        280],
+       "assets/images/resized/0004/6328/46328v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://virtualmin.com",
+    "title": ""}]}

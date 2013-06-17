@@ -1,0 +1,98 @@
+{"name": "BetaCONCEPT",
+ "permalink": "betaconcept",
+ "crunchbase_url": "http://www.crunchbase.com/company/betaconcept",
+ "homepage_url": "http://www.betaconcept.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "betaconcept",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2005,
+ "founded_month": 4,
+ "founded_day": 26,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "structured-data, semantic, graph-database, model-driven-nosql, content-curation",
+ "alias_list": null,
+ "email_address": "info@betaconcept.com",
+ "phone_number": "+302117706789",
+ "description": "Semantic Technologies",
+ "created_at": "Sat Apr 23 14:49:37 UTC 2011",
+ "updated_at": "Sun Mar 04 00:30:24 UTC 2012",
+ "overview": "\u003Cp\u003EBetaCONCEPT is a R\u0026amp;D company that develops an \u0026#8220;Open Internet Repository\u0026#8221; platform that enables users and machines to collect, search, share, mashup, curate and federate structured data.\u003C/p\u003E\n\n\u003Cp\u003EIt offers tools that enable users to easily describe the attributes of items, things or entities and create in a snap repositories to store and share their modeled data.\u003C/p\u003E\n\n\u003Cp\u003EAt the core of the platform lies the Astroboa semantic repository engine.  The engine stores data collected from humans and machines as a graph of nodes (the entities) and properties. Its power lies to the evolving metadata that stores in order to know how to search and assemble the graph into human meaningful entities. For example the engine knows which properties constitute a person and can instantly search the graph and bring back persons without any special queries. Without difficult joins or special business logic as is the case today with databases.\u003C/p\u003E\n\n\u003Cp\u003EWithout any coding from the user or the developer the platform automatically produces forms that allow users to enter complex structured data, for example data for an inscription monument with 100 attributes, with many controlled term vocabularies and with many relations to other entities. Additionally the platform automatically generates RESTful APIs to share and mashup the modeled data in the form of XML, JSON, Excel, CSV or HTML.\u003C/p\u003E\n\n\u003Cp\u003EInternet is quickly transforming from a web of pages to a database of human knowledge. In this direction, BetaCONCEPT seeks to provide evolving, inherently searchable and mashable repositories of structured data. Repositories that connect people and (specially mobile) devices, and provide tools that empower people to maintain and curate their data as well as easily turn them into useful applications. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       138],
+      "assets/images/resized/0013/4053/134053v4-max-150x150.png"],
+     [[250,
+       230],
+      "assets/images/resized/0013/4053/134053v4-max-250x250.png"],
+     [[335,
+       309],
+      "assets/images/resized/0013/4053/134053v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "ASTROBOA",
+    "permalink": "astroboa",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, Managing Director",
+    "person":
+     {"first_name": "Gregory",
+      "last_name": "Chomatas",
+      "permalink": "gregory-chomatas",
+      "image": null}},
+   {"is_past": false,
+    "title": "Community Manager",
+    "person":
+     {"first_name": "Katerina",
+      "last_name": "Kouriati",
+      "permalink": "katerina-kouriati",
+      "image":
+       {"available_sizes":
+         [[[144,
+            150],
+           "assets/images/resized/0014/4421/144421v2-max-150x150.jpg"],
+          [[240,
+            250],
+           "assets/images/resized/0014/4421/144421v2-max-250x250.jpg"],
+          [[433,
+            450],
+           "assets/images/resized/0014/4421/144421v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "Apt 9, Palace Gardens, Exchange Court, Dame Street",
+    "address2": "",
+    "zip_code": "2",
+    "city": "Dublin",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.astroboa.org",
+    "title": "Community Site"}]}

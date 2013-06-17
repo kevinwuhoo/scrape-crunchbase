@@ -1,0 +1,122 @@
+{"name": "MySchoolHelp",
+ "permalink": "myschoolhelp",
+ "crunchbase_url": "http://www.crunchbase.com/company/myschoolhelp",
+ "homepage_url": "http://myschoolhelp.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "myschoolhelp",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education, notes, high-school",
+ "alias_list": null,
+ "email_address": "info@myschoolhelp.com",
+ "phone_number": "9177341927",
+ "description": "High School Note Sharing",
+ "created_at": "Fri Apr 01 01:42:15 UTC 2011",
+ "updated_at": "Mon Aug 29 01:36:46 UTC 2011",
+ "overview": "\u003Cp\u003EMySchoolHelp is a platform where high school students can find and share notes from their school to improve their grades, catch up on classes and assist their friends.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0012/8713/128713v2-max-150x150.png"],
+     [[250,
+       85],
+      "assets/images/resized/0012/8713/128713v2-max-250x250.png"],
+     [[450,
+       154],
+      "assets/images/resized/0012/8713/128713v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Jake",
+      "last_name": "Essman",
+      "permalink": "jake-essman",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Lang",
+      "permalink": "ben-lang",
+      "image":
+       {"available_sizes":
+         [[[150,
+            149],
+           "assets/images/resized/0011/4697/114697v7-max-150x150.png"],
+          [[250,
+            249],
+           "assets/images/resized/0011/4697/114697v7-max-250x250.png"],
+          [[450,
+            449],
+           "assets/images/resized/0011/4697/114697v7-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Ainsberg",
+      "permalink": "alex-ainsberg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "StudyBlue",
+      "permalink": "studyblue",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/8235/28235v9-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0002/8235/28235v9-max-250x250.jpg"],
+          [[251,
+            111],
+           "assets/images/resized/0002/8235/28235v9-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"480\" height=\"300\" src=\"http://www.youtube.com/embed/FNsATy7cm8s?rel=0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EPitch\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/27309144?title=0\u0026amp;byline=0\u0026amp;portrait=0\" width=\"400\" height=\"225\" frameborder=\"0\"\u003E\u003C/iframe\u003E\u003Cp\u003E\u003Ca href=\"http://vimeo.com/27309144\"\u003EMySchoolHelp Demo\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/myschoolhelpsite\"\u003EMySchoolHelp\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EDemo\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        61],
+       "assets/images/resized/0012/8712/128712v2-max-150x150.png"],
+      [[250,
+        102],
+       "assets/images/resized/0012/8712/128712v2-max-250x250.png"],
+      [[450,
+        183],
+       "assets/images/resized/0012/8712/128712v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://eroundtable.net/2011/03/26/company-profile-myschoolhelp/",
+    "title": "Entrepreneur Roundtable"}]}

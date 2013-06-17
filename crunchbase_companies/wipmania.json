@@ -1,0 +1,92 @@
+{"name": "WIPmania",
+ "permalink": "wipmania",
+ "crunchbase_url": "http://www.crunchbase.com/company/wipmania",
+ "homepage_url": "http://www.wipmania.com",
+ "blog_url": "http://www.wipmania.com/en/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/WipmaniaBlogPostsen",
+ "twitter_username": "WIPmania",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ip-address, geo, geolocation, geoip, ip-geolocation, monitoring, website-monitoring, ping, api",
+ "alias_list": null,
+ "email_address": "mail@wipmania.com",
+ "phone_number": "",
+ "description": "IP-geolocation database and services",
+ "created_at": "Mon Feb 08 17:44:30 UTC 2010",
+ "updated_at": "Wed Feb 10 00:54:01 UTC 2010",
+ "overview": "\u003Cp\u003EWIPmania provides a number of free products and services based on WorldIP geolocation database. It allows identification of real geographic location of an IP address.\u003C/p\u003E\n\n\u003Cp\u003EWorldIP often displays different results from similar services, because it is based on data from core routers worldwide, and not just on whois data. There are 1.9 million of routers, the entire Internet including 5 million networks, 45 monitoring points worldwide.\u003C/p\u003E\n\n\u003Cp\u003EIf real-time geolocation information is needed, the service is available in the form of API.\u003C/p\u003E\n\n\u003Cp\u003ETrace and Ping from WIPmania\u0026#8217;s points around the world are useful to test the load on the network or availability of the server all over the world, to choose the \u0026#8220;right\u0026#8221; hoster, to define why and where the server is down, etc.\u003C/p\u003E\n\n\u003Cp\u003EThere is also WorldIP add-on for Firefox based on WorldIP database, that displays up-to-date information about data center and real physical location of a web server.\u003C/p\u003E\n\n\u003Cp\u003EWorldIP can be used for geo targeting in e-commerce, combat with the fraud, spam and so on, protection of servers against various types of attacks on geographical indication.\u003C/p\u003E\n\n\u003Cp\u003EThere are more specific information about all of this and other tools on WIPmania.com.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[64,
+       64],
+      "assets/images/resized/0007/6344/76344v2-max-150x150.png"],
+     [[64,
+       64],
+      "assets/images/resized/0007/6344/76344v2-max-250x250.png"],
+     [[64,
+       64],
+      "assets/images/resized/0007/6344/76344v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "IP2Location",
+      "permalink": "ip2location",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0003/1428/31428v2-max-150x150.png"],
+          [[160,
+            94],
+           "assets/images/resized/0003/1428/31428v2-max-250x250.png"],
+          [[160,
+            94],
+           "assets/images/resized/0003/1428/31428v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0007/6343/76343v2-max-150x150.png"],
+      [[250,
+        187],
+       "assets/images/resized/0007/6343/76343v2-max-250x250.png"],
+      [[450,
+        337],
+       "assets/images/resized/0007/6343/76343v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.killerstartups.com/Web20/wipmania-com-find-an-ip-anywhere",
+    "title": "WipMania.com - Find An IP Anywhere"},
+   {"external_url": "http://www.zdnet.de/software_programme_loesungen_fuer_unternehmen_firefox_add_ons_fuer_bessere_bedienung_und_mehr_sicherheit_story-20000001-41524640-3.htm",
+    "title": "Firefox: Add-ons f\u00c3\u00bcr bessere Bedienung und mehr Sicherheit"},
+   {"external_url": "http://www.xakep.ru/post/45044/default.asp",
+    "title": "WIPmania.com \u00e2\u20ac\u201c \u00d0\u00b1\u00d0\u00b5\u00d1\u0081\u00d0\u00bf\u00d0\u00bb\u00d0\u00b0\u00d1\u201a\u00d0\u00bd\u00d0\u00b0\u00d1\u008f \u00d0\u00b3\u00d0\u00b5\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d0\u00ba\u00d0\u00b0\u00d1\u2020\u00d0\u00b8\u00d0\u00be\u00d0\u00bd\u00d0\u00bd\u00d0\u00b0\u00d1\u008f \u00d0\u00b1\u00d0\u00b0\u00d0\u00b7\u00d0\u00b0 \u00d0\u00b4\u00d0\u00b0\u00d0\u00bd\u00d0\u00bd\u00d1\u2039\u00d1\u2026 IP-\u00d0\u00b0\u00d0\u00b4\u00d1\u20ac\u00d0\u00b5\u00d1\u0081\u00d0\u00be\u00d0\u00b2"}]}

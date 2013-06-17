@@ -1,0 +1,89 @@
+{"name": "Monoloop",
+ "permalink": "monoloop",
+ "crunchbase_url": "http://www.crunchbase.com/company/monoloop",
+ "homepage_url": "http://www.monoloop.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "personalization, onsite, behavioral-targeting, bt, one-to-one, targeting",
+ "alias_list": null,
+ "email_address": "kresten.bergsoe@monoloop.com",
+ "phone_number": "+45 35436500",
+ "description": "Behavioral Targeting",
+ "created_at": "Mon Dec 03 18:50:34 UTC 2012",
+ "updated_at": "Wed Dec 12 08:06:20 UTC 2012",
+ "overview": "\u003Cp\u003EMonoloop is a cloud based behavioral targeting platform that enables site owners to track and profile site visitors and inject personalized content into their existing web content.\u003C/p\u003E\n\n\u003Cp\u003EThe default profile contains more than 50 parameters ready for use (e.g. visitor\u0026#8217;s location, behavioral scores, product interest, category interest, visitor\u0026#8217;s intent, purchase history, visitor engagement, visitor goals, etc).\u003C/p\u003E\n\n\u003Cp\u003EVisitor profiles are extended with predefined trackers covering: categories, products, purchases, downloads, search, basket content. You can extend the profile with any information from the site using wizard style custom trackers or from back-end systems through the RESTfull API.\u003C/p\u003E\n\n\u003Cp\u003EMonoloop is a pay as you go, tag based service and requires no integration.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0022/3606/223606v2-max-150x150.png"],
+     [[237,
+       71],
+      "assets/images/resized/0022/3606/223606v2-max-250x250.png"],
+     [[237,
+       71],
+      "assets/images/resized/0022/3606/223606v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Adobe Test and Target",
+      "permalink": "adobe-test-and-target",
+      "image": null}},
+   {"competitor":
+     {"name": "Personyze",
+      "permalink": "personyze",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0011/7820/117820v2-max-150x150.jpg"],
+          [[150,
+            55],
+           "assets/images/resized/0011/7820/117820v2-max-250x250.jpg"],
+          [[150,
+            55],
+           "assets/images/resized/0011/7820/117820v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main office",
+    "address1": "S\u00f8vej 8",
+    "address2": "Farumg\u00e5rd",
+    "zip_code": "3520",
+    "city": "Farum",
+    "state_code": null,
+    "country_code": "DNK",
+    "latitude": 55.8059301,
+    "longitude": 12.3601663}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

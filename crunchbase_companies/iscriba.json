@@ -1,0 +1,129 @@
+{"name": "iScriba",
+ "permalink": "iscriba",
+ "crunchbase_url": "http://www.crunchbase.com/company/iscriba",
+ "homepage_url": "http://www.iscriba.com",
+ "blog_url": "http://www.iscriba.com/blog",
+ "blog_feed_url": "http://feeds.feedburner.com/blog-iscriba/",
+ "twitter_username": "iScriba",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "invoicing, invoice-service, saas, billing",
+ "alias_list": null,
+ "email_address": "contact@iscriba.com",
+ "phone_number": "",
+ "description": "Online invoicing service",
+ "created_at": "Wed Mar 31 23:58:37 UTC 2010",
+ "updated_at": "Thu Apr 01 20:13:09 UTC 2010",
+ "overview": "\u003Cp\u003EiScriba is a Software as a Service that helps you manage your billing. It\u0026#8217;s primarly targetted at small businesses and freelances that are located in France but can also work well for others (interface is available in english).\u003C/p\u003E\n\n\u003Cp\u003EIt allows you to create and send professional business documents online (estimates, invoices, purchase orders and packing lists), letting your clients access them from anywhere (by visiting a secure URL), saving you time and maximizing your chances of being paid faster.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[147,
+       39],
+      "assets/images/resized/0008/2635/82635v2-max-150x150.png"],
+     [[147,
+       39],
+      "assets/images/resized/0008/2635/82635v2-max-250x250.png"],
+     [[147,
+       39],
+      "assets/images/resized/0008/2635/82635v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder, CTO",
+    "person":
+     {"first_name": "Matthieu",
+      "last_name": "Fauveau",
+      "permalink": "matthieu-fauveau",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, CEO",
+    "person":
+     {"first_name": "Yohann",
+      "last_name": "De Decker",
+      "permalink": "yohann-de-decker",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Invokit",
+      "permalink": "myfacture",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0007/8151/78151v4-max-150x150.jpg"],
+          [[250,
+            83],
+           "assets/images/resized/0007/8151/78151v4-max-250x250.jpg"],
+          [[450,
+            150],
+           "assets/images/resized/0007/8151/78151v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TOOLS4COM",
+      "permalink": "tools4com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/9921/29921v2-max-150x150.png"],
+          [[200,
+            57],
+           "assets/images/resized/0002/9921/29921v2-max-250x250.png"],
+          [[200,
+            57],
+           "assets/images/resized/0002/9921/29921v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Taverny, FRA",
+    "address1": "8 all\u00c3\u00a9e des Artisans",
+    "address2": "ZAE des Ch\u00c3\u00a2taigniers",
+    "zip_code": "95150",
+    "city": "Taverny",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"450\" height=\"273\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/cw18gf8eljw\u0026hl=fr_FR\u0026fs=1\u0026hd=1\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/cw18gf8eljw\u0026hl=fr_FR\u0026fs=1\u0026hd=1\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"450\" height=\"273\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EOverview\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

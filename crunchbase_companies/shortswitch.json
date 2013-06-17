@@ -1,0 +1,101 @@
+{"name": "ShortSwitch",
+ "permalink": "shortswitch",
+ "crunchbase_url": "http://www.crunchbase.com/company/shortswitch",
+ "homepage_url": "http://shortswitch.com",
+ "blog_url": "http://blog.shortswitch.com",
+ "blog_feed_url": "http://blog.shortswitch.com/rss",
+ "twitter_username": "shortswitch",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "white-labeled-url-shortener, custom-url-shortener, branded-url-shortener",
+ "alias_list": null,
+ "email_address": "rob@shortswitch.com",
+ "phone_number": "1-888-237-4478",
+ "description": "Branded Short URLs",
+ "created_at": "Wed Feb 10 17:06:44 UTC 2010",
+ "updated_at": "Thu Feb 11 22:39:15 UTC 2010",
+ "overview": "\u003Cp\u003EShortSwitch is a URL shortening service that allows a customer to use their own domain or sub-domain for shortened URLs. The service provides: \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EBranded Short URLs - The service allows you to have your own short URL service using your own domain, without the need to create it yourself.\u003C/li\u003E\n\u003Cli\u003ESmaller Tokens - The short URL tokens start with a single character, and a user will have to create over 195,000 short URLs before the tokens grow past three characters.\u003C/li\u003E\n\u003Cli\u003EVanity Tokens - The short URL tokens can be customized without worry about their already being in use. The customer can use any token.\u003C/li\u003E\n\u003Cli\u003ESecure Link Creation - Only authorized and authenticated users on the customers account can create short URLs.\u003C/li\u003E\n\u003Cli\u003EAPI Support - The API supports link creation via various tools.\nMultiple Users Per Account - The service supports having multiple users on each account.\u003C/li\u003E\n\u003Cli\u003EReporting - The dashboard provides reporting and statistics on short URLs including the ability to sort and filter by various attributes such as popularity (i.e., most hits) and users.\u003C/li\u003E\n\u003Cli\u003EGoogle Analytics Integration - The service provides built-in support for easy integration with Google Analytics.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       87],
+      "assets/images/resized/0007/6626/76626v2-max-150x150.jpg"],
+     [[250,
+       145],
+      "assets/images/resized/0007/6626/76626v2-max-250x250.jpg"],
+     [[293,
+       170],
+      "assets/images/resized/0007/6626/76626v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Atherton",
+      "permalink": "dave-atherton",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "bitly",
+      "permalink": "bitly-2",
+      "image":
+       {"available_sizes":
+         [[[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-150x150.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-250x250.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "13800 Coppermine Road",
+    "address2": "Suite 206",
+    "zip_code": "20171",
+    "city": "Herndon",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        83],
+       "assets/images/resized/0007/6625/76625v2-max-150x150.png"],
+      [[250,
+        139],
+       "assets/images/resized/0007/6625/76625v2-max-250x250.png"],
+      [[420,
+        235],
+       "assets/images/resized/0007/6625/76625v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

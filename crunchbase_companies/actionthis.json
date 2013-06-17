@@ -1,0 +1,145 @@
+{"name": "ActionThis",
+ "permalink": "actionthis",
+ "crunchbase_url": "http://www.crunchbase.com/company/actionthis",
+ "homepage_url": "http://www.actionthis.com/",
+ "blog_url": "http://www.actionthis.com/blogs/actionthis/default.aspx",
+ "blog_feed_url": "http://www.actionthis.com/blogs/actionthis/default.aspx/Blog/Rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": "64 4 472 2021",
+ "description": null,
+ "created_at": "Fri Nov 02 12:41:43 UTC 2007",
+ "updated_at": "Wed Dec 24 00:10:29 UTC 2008",
+ "overview": "\u003Cp\u003EActionThis is an online project and team management solution. Tailored to small businesses with tighter deadlines, they focus on aiding task completion and improving efficiency. Unlike traditional management software, ActionThis provides features to allow users to execute and complete ongoing tasks in addition to basic planning and collaboration capabilities. \u003C/p\u003E\n\n\u003Cp\u003EThe main ActionThis package is centralized around a web application that is used for managing projects and action items. ActionThis attempts to differentiate themselves from the crowd by going one step further \u0026#8211; they provide Microsoft Office extensions for collaboration. Users can easily create, send, and receive tasks from within Microsoft Outlook. Lastly, ActionThis builds on these core features to help improve their users\u0026#8217; performance. Teams can analyze their efficiency while eliminating weaknesses from ActionThis\u0026#8217; progress reports, alert system, and workflow charts.\u003C/p\u003E\n\n\u003Cp\u003EThe Microsoft Office integration is key to ActionThis\u0026#8217; potential success;  ActionThis differs from Outlook\u0026#8217;s native task management feature in one primary and important aspect: Outlook native tasks are limited to peer-to-peer interactions within groups, whereas ActionThis offers a central overview and additional features in addition to the basic peer-to-peer interaction. As of November 2007, integration with Microsoft Project and Windows Mobile are in the works\u003C/p\u003E\n\n\u003Cp\u003EThere are a plethora of competitors in the crowded market of task management: 37Signals\u0026#8217; \u003Ca href=\"http://www.basecamphq.com/\" title=\"Basecamp\" rel=\"nofollow\"\u003EBasecamp\u003C/a\u003E, \u003Ca href=\"http://www.theonlineceo.com/\" title=\"The Online CEO\" rel=\"nofollow\"\u003EThe Online CEO\u003C/a\u003E, \u003Ca href=\"http://www.orchestratehq.com/\" title=\"Orchestrate\" rel=\"nofollow\"\u003EOrchestrate\u003C/a\u003E, and \u003Ca href=\"http://www.planhq.com/\" title=\"PlanHQ\" rel=\"nofollow\"\u003EPlanHQ\u003C/a\u003E - another Wellington-based startup offering a similar product - include a few.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0000/1801/1801v1-max-150x150.png"],
+     [[200,
+       67],
+      "assets/images/resized/0000/1801/1801v1-max-250x250.png"],
+     [[200,
+       67],
+      "assets/images/resized/0000/1801/1801v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "ActionThis",
+    "permalink": "actionthis",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Marketing Officer",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Howell",
+      "permalink": "tim-howell",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Tony",
+      "last_name": "Stewart",
+      "permalink": "tony-stewart",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "5pm",
+      "permalink": "5pm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            122],
+           "assets/images/resized/0000/3382/3382v1-max-150x150.jpg"],
+          [[217,
+            177],
+           "assets/images/resized/0000/3382/3382v1-max-250x250.jpg"],
+          [[217,
+            177],
+           "assets/images/resized/0000/3382/3382v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PlanHQ",
+      "permalink": "planhq",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/1030/1030v3-max-150x150.png"],
+          [[162,
+            60],
+           "assets/images/resized/0000/1030/1030v3-max-250x250.png"],
+          [[162,
+            60],
+           "assets/images/resized/0000/1030/1030v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Copper Project",
+      "permalink": "copper-project",
+      "image":
+       {"available_sizes":
+         [[[122,
+            48],
+           "assets/images/resized/0002/1315/21315v4-max-150x150.jpg"],
+          [[122,
+            48],
+           "assets/images/resized/0002/1315/21315v4-max-250x250.jpg"],
+          [[122,
+            48],
+           "assets/images/resized/0002/1315/21315v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Level 7, Plunket House,",
+    "address2": "126-132 Lambton Quay",
+    "zip_code": null,
+    "city": "Wellington",
+    "state_code": null,
+    "country_code": "NZL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

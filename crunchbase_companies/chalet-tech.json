@@ -1,0 +1,113 @@
+{"name": "Chalet Tech",
+ "permalink": "chalet-tech",
+ "crunchbase_url": "http://www.crunchbase.com/company/chalet-tech",
+ "homepage_url": "http://www.chalettech.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "chalettech",
+ "category_code": "security",
+ "number_of_employees": 100,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "database, security, adaptive, learning, firewall, sql-server, oracle, teradata",
+ "alias_list": null,
+ "email_address": "info@chalettech.com",
+ "phone_number": "",
+ "description": "Adaptive Database Security",
+ "created_at": "Mon Apr 09 13:46:08 UTC 2012",
+ "updated_at": "Thu Apr 12 22:04:50 UTC 2012",
+ "overview": "\u003Cp\u003EDeveloped in Taipei as a counter to sophisticated attacks from the Chinese Internet Army, we deliver robust protection from the most aggressive and well funded hackers on the planet. Rules based and signature based blocking security tools just don\u2019t work anymore against sophisticated, socially engineed internal and external attacks.\u003C/p\u003E\n\n\u003Cp\u003EChalet Tech has created unique technology and have filed 10 international patents. So far 2 patents have been awarded, with 8 still in the process, we will file a further 6 patents in Q1 2012, with many more in the pipeline.\u003C/p\u003E\n\n\u003Cp\u003EChalet Tech takes a fundamentally different approach that enhances traditional security measures and offers robust protection and mitigation against those attacks that compromise or simply bypass existing measures.\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EAutomatically discover and maintain contol of your most critical business information\u003C/li\u003E\n\u003Cli\u003EAutomatically audit and profile how those assets are being used, internally and externally\u003C/li\u003E\n\u003Cli\u003EAutomatically trigger block, mask, audit and report actions in real time based on unusual behaviour\u003C/li\u003E\n\u003Cli\u003EInsource your critical information asset management controls to enable enterprise migration to Cloud\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0018/3291/183291v2-max-150x150.jpg"],
+     [[250,
+       87],
+      "assets/images/resized/0018/3291/183291v2-max-250x250.jpg"],
+     [[450,
+       157],
+      "assets/images/resized/0018/3291/183291v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "O'Donnell",
+      "permalink": "steve-odonnell",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Imperva",
+      "permalink": "imperva",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0003/8516/38516v2-max-150x150.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0003/8516/38516v2-max-250x250.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0003/8516/38516v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IBM Security Services",
+      "permalink": "ibm-security-services",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1.5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "San Francisco",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "Taipei",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "TWN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

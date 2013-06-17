@@ -1,0 +1,142 @@
+{"name": "Unique Microguides",
+ "permalink": "unique-microguides",
+ "crunchbase_url": "http://www.crunchbase.com/company/unique-microguides",
+ "homepage_url": "http://unique-guides.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "unique_guides",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-travel, destination-guide, video, mobile",
+ "alias_list": null,
+ "email_address": "pverdy@gmail.com",
+ "phone_number": "514 996-1612",
+ "description": "Online travel content",
+ "created_at": "Sun Jun 17 15:18:40 UTC 2012",
+ "updated_at": "Fri Jun 22 01:56:44 UTC 2012",
+ "overview": "\u003Cp\u003EUnique is a new series of video and interactive guides \u2014 which offer up a selection of must-see addresses in the world\u2019s big cities. Restaurants, caf\u00e9s, bars, and experiences : Unique breaks down each destination to their elusive DNA.\u003C/p\u003E\n\n\u003Cp\u003EUnique itself is a hybrid of two distinct strands :\u003C/p\u003E\n\n\u003Cp\u003E\u201c Our Microguides \u201d - Our selection of addresses put together by a first-class editorial team \u2014all of which is presented through video, sound and sensations.\u003C/p\u003E\n\n\u003Cp\u003E\u201c Your Microguides \u201d - An application which allows users to create and share their own list\nof recommendations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       75],
+      "assets/images/resized/0019/5875/195875v2-max-150x150.jpg"],
+     [[120,
+       75],
+      "assets/images/resized/0019/5875/195875v2-max-250x250.jpg"],
+     [[120,
+       75],
+      "assets/images/resized/0019/5875/195875v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Verdy",
+      "permalink": "paul-verdy",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Gogobot",
+      "permalink": "gogobot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0009/0466/90466v4-max-150x150.jpg"],
+          [[250,
+            68],
+           "assets/images/resized/0009/0466/90466v4-max-250x250.jpg"],
+          [[435,
+            120],
+           "assets/images/resized/0009/0466/90466v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Lonely Planet Publications Pt",
+      "permalink": "lonely-planet-publications-pty",
+      "image":
+       {"available_sizes":
+         [[[123,
+            65],
+           "assets/images/resized/0008/5550/85550v1-max-150x150.png"],
+          [[123,
+            65],
+           "assets/images/resized/0008/5550/85550v1-max-250x250.png"],
+          [[123,
+            65],
+           "assets/images/resized/0008/5550/85550v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$575k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.cmf-fmc.ca/news/article/2011/03/cmf-invests-11-5-million-in-36-new-interactive-projects/",
+    "source_description": "",
+    "raised_amount": 575000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Canada media fund",
+         "permalink": "canada-media-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               54],
+              "assets/images/resized/0027/2313/272313v1-max-150x150.png"],
+             [[222,
+               81],
+              "assets/images/resized/0027/2313/272313v1-max-250x250.png"],
+             [[222,
+               81],
+              "assets/images/resized/0027/2313/272313v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "head office",
+    "address1": "1435 Saint-Alexandre #700",
+    "address2": "",
+    "zip_code": "H3A 2G4",
+    "city": "montreal",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0019/5874/195874v2-max-150x150.jpg"],
+      [[250,
+        159],
+       "assets/images/resized/0019/5874/195874v2-max-250x250.jpg"],
+      [[450,
+        287],
+       "assets/images/resized/0019/5874/195874v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://quebec.huffingtonpost.ca/2012/05/02/unique-guides-videos-interactifs_n_1471592.html",
+    "title": "huffpost-qc"}]}

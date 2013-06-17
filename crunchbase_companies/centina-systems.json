@@ -1,0 +1,181 @@
+{"name": "Centina Systems",
+ "permalink": "centina-systems",
+ "crunchbase_url": "http://www.crunchbase.com/company/centina-systems",
+ "homepage_url": "http://www.centinasystems.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 30,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "network-monitoring, performance-management, alarm-management, nms, service-assurance, sla, application-monitoring, fault-management, tl1, snmp, oss, device-manager, event-manager, noc, noc-software, it-software",
+ "alias_list": null,
+ "email_address": "ghara@centinasystems.com",
+ "phone_number": "214-257-0325",
+ "description": "Network Management Software",
+ "created_at": "Wed Jul 28 13:28:23 UTC 2010",
+ "updated_at": "Thu Feb 17 22:24:24 UTC 2011",
+ "overview": "\u003Cp\u003ENetOmnia is a next-generation fault and performance management, application monitoring and service assurance solution to manage any device, service or network.\u003C/p\u003E\n\n\u003Cp\u003EWhat makes NetOmnia unique is that, while it is carrier-grade and extremely scalable, it\u00e2\u20ac\u2122s built using the latest Web technologies so that it deploys very rapidly, is very flexible and easy to learn, use, configure and maintain.\u003C/p\u003E\n\n\u003Cp\u003ENetOmnia was developed in 2006 from the ground-up on the latest technologies focusing on the specific challenges of today\u00e2\u20ac\u2122s network operations.\u003C/p\u003E\n\n\u003Cp\u003ENetOmnia supports any type of device or protocol including SNMP, TL1 and ASCII device streams. \u003C/p\u003E\n\n\u003Cp\u003ENetOmnia\u00e2\u20ac\u2122s front end is 100% web-based and very flexible for configuration of monitoring, thresholding, and workflow automations and notifications. NetOmnia also features automated GIS based topology maps and drag-and-drop configurable dashboards to consolidate any NetOmnia view or external URL onto a single screen.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0011/7791/117791v1-max-150x150.png"],
+     [[170,
+       69],
+      "assets/images/resized/0011/7791/117791v1-max-250x250.png"],
+     [[170,
+       69],
+      "assets/images/resized/0011/7791/117791v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Anand",
+      "last_name": "Gonuguntla",
+      "permalink": "anand-gonuguntla",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Pantages",
+      "permalink": "paul-pantages",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Engineering",
+    "person":
+     {"first_name": "Phillip",
+      "last_name": "Doelling",
+      "permalink": "phillip-doelling",
+      "image": null}},
+   {"is_past": false,
+    "title": "Board of Advisory",
+    "person":
+     {"first_name": "T.",
+      "last_name": "Curtis Holmes",
+      "permalink": "t-curtis-holmes-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "IBM",
+      "permalink": "ibm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hewlett-Packard",
+      "permalink": "hewlett-packard",
+      "image":
+       {"available_sizes":
+         [[[145,
+            150],
+           "assets/images/resized/0001/4529/14529v5-max-150x150.jpg"],
+          [[242,
+            250],
+           "assets/images/resized/0001/4529/14529v5-max-250x250.jpg"],
+          [[291,
+            300],
+           "assets/images/resized/0001/4529/14529v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Computer Associates",
+      "permalink": "computer-associates",
+      "image": null}},
+   {"competitor":
+     {"name": "EMC",
+      "permalink": "emc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/1658/21658v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/1658/21658v2-max-250x250.png"],
+          [[400,
+            400],
+           "assets/images/resized/0002/1658/21658v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Megasys",
+      "permalink": "megasys",
+      "image": null}},
+   {"competitor":
+     {"name": "SolarWinds",
+      "permalink": "solarwinds",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0005/1556/51556v1-max-150x150.png"],
+          [[206,
+            69],
+           "assets/images/resized/0005/1556/51556v1-max-250x250.png"],
+          [[206,
+            69],
+           "assets/images/resized/0005/1556/51556v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "InfoVista",
+      "permalink": "infovista",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0007/2806/72806v2-max-150x150.jpg"],
+          [[226,
+            63],
+           "assets/images/resized/0007/2806/72806v2-max-250x250.jpg"],
+          [[226,
+            63],
+           "assets/images/resized/0007/2806/72806v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Centina Systems",
+    "address1": "1750 N. Collins Blvd",
+    "address2": "Suite 222",
+    "zip_code": "75080",
+    "city": "Richardson",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.centinasystems.com",
+    "title": "Centina Systems"}]}

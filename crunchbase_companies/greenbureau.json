@@ -1,0 +1,103 @@
+{"name": "Greenbureau",
+ "permalink": "greenbureau",
+ "crunchbase_url": "http://www.crunchbase.com/company/greenbureau",
+ "homepage_url": "https://greenbureau.fr",
+ "blog_url": "http://blog.greenbureau.fr",
+ "blog_feed_url": "",
+ "twitter_username": "Greenbureaufr",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "invoices-paperless-centralization",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "invoice centralisation paperless",
+ "created_at": "Sun Nov 25 18:25:38 UTC 2012",
+ "updated_at": "Sun Dec 23 07:39:11 UTC 2012",
+ "overview": "\u003Cp\u003EGreenbureau is a free personal finance service providing centralization of invoices and statements.\u003C/p\u003E\n\n\u003Cp\u003EIt is connected to all the major suppliers and public services in France, and provide its users with :\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EAutomatic retrieval of all invoices and monthly statements\u003C/li\u003E\n\u003Cli\u003ESingle login to the supplier accounts\u003C/li\u003E\n\u003Cli\u003EBudgeting and spending solutions\u003C/li\u003E\n\u003Cli\u003ETime and alert options\u003C/li\u003E\n\u003Cli\u003EUnlimited storage duration and size\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EGreenbureau earns money through partnerships with major providers, thus keeping the service free for its users.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Yan",
+      "last_name": "Tamalet",
+      "permalink": "yan-tamalet",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Fr\u00e9d\u00e9ric",
+      "last_name": "Dermer",
+      "permalink": "frdric-dermer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Mathieu",
+      "last_name": "Delobelle",
+      "permalink": "mathieu-delobelle",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Florian",
+      "last_name": "Nicourt",
+      "permalink": "florian-nicourt",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$400k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://www.presse-citron.net/la-start-up-francaise-de-la-semaine-greenbureau",
+    "source_description": "Press Citron",
+    "raised_amount": 400000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 9,
+    "funded_day": 10,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Michel",
+         "last_name": "Paulin",
+         "permalink": "michel-paulin",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.856614,
+    "longitude": 2.3522219}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://greenbureau.fr",
+    "title": ""}]}

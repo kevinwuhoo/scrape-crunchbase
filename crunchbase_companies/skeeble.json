@@ -1,0 +1,153 @@
+{"name": "Skeeble",
+ "permalink": "skeeble",
+ "crunchbase_url": "http://www.crunchbase.com/company/skeeble",
+ "homepage_url": "http://www.skeeble.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "AskSkeeble",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "iphone, android, windowsphone, diy, mobile, app, switzerland, worldwide",
+ "alias_list": null,
+ "email_address": "info@skeeble.com",
+ "phone_number": "",
+ "description": "the simplest way to create mobile apps",
+ "created_at": "Sat Feb 18 18:40:35 UTC 2012",
+ "updated_at": "Wed May 29 05:42:16 UTC 2013",
+ "overview": "\u003Cp\u003EWe developped an internet platform which allows to easily create mobile applications for mobile phones.\u003C/p\u003E\n\n\u003Cp\u003EWe allow to easily create, without any technical knowledge, multilingual and multiplatform mobile applications. Our customers can generate their mobile application for the mobile phones of their choice, and distribute it to their own prospects and customers in a simple way. We are mainly oriented toward corner shops and event organizers. The goal is to offer our customers the opportunity to access directly to users of mobile app. Once the application is created, customers can modify it and update it at anytime, and thus can use it as a promotion tool to attract people to come to their point of sale or to their event. Moreover, it gives the opportunity to see the statistics concerning the usage of the application and the number of downloads.\nSpecialties\u003C/p\u003E\n\n\u003Cp\u003Emobile, android, html5, do it yourself \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       78],
+      "assets/images/resized/0017/5743/175743v2-max-150x150.jpg"],
+     [[250,
+       131],
+      "assets/images/resized/0017/5743/175743v2-max-250x250.jpg"],
+     [[450,
+       236],
+      "assets/images/resized/0017/5743/175743v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Xavier",
+      "last_name": "Bertschy",
+      "permalink": "xavier-bertschy",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mehdi",
+      "last_name": "Radgohar",
+      "permalink": "mehdi-radgohar",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mobile Roadie",
+      "permalink": "mobile-roadie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/1979/41979v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0004/1979/41979v3-max-250x250.png"],
+          [[450,
+            131],
+           "assets/images/resized/0004/1979/41979v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "DudaMobile",
+      "permalink": "duda-mobile",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0025/0233/250233v1-max-150x150.jpg"],
+          [[172,
+            44],
+           "assets/images/resized/0025/0233/250233v1-max-250x250.jpg"],
+          [[172,
+            44],
+           "assets/images/resized/0025/0233/250233v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sweb Apps",
+      "permalink": "sweb-apps",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0005/6924/56924v1-max-150x150.png"],
+          [[218,
+            84],
+           "assets/images/resized/0005/6924/56924v1-max-250x250.png"],
+          [[218,
+            84],
+           "assets/images/resized/0005/6924/56924v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://startupticker.ch/news/september-2011/xb83studio-decroche-un-soutien-financier-de-la-fon.aspx",
+    "source_description": "xb83studio d\u00e9croche un soutien financier de la fondation \"Seed Capital Fribourg\"",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Seed Capital Fribourg",
+         "permalink": "seed-capital-fribourg",
+         "image":
+          {"available_sizes":
+            [[[150,
+               56],
+              "assets/images/resized/0027/2191/272191v1-max-150x150.png"],
+             [[196,
+               74],
+              "assets/images/resized/0027/2191/272191v1-max-250x250.png"],
+             [[196,
+               74],
+              "assets/images/resized/0027/2191/272191v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Route de la Fonderie 2",
+    "address2": "",
+    "zip_code": "1705",
+    "city": "Fribourg",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

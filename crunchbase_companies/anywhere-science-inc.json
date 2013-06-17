@@ -1,0 +1,105 @@
+{"name": "Anywhere Science",
+ "permalink": "anywhere-science-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/anywhere-science-inc",
+ "homepage_url": "http://www.anywherescience.com",
+ "blog_url": "http://www.anywherescience.com/blog",
+ "blog_feed_url": "http://www.anywherescience.com/feed",
+ "twitter_username": "anywherescience",
+ "category_code": "hardware",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@anywherescience.com",
+ "phone_number": "(951) 221-0081",
+ "description": "Doing Science Anywhere",
+ "created_at": "Wed Feb 29 01:55:11 UTC 2012",
+ "updated_at": "Mon Mar 19 22:09:20 UTC 2012",
+ "overview": "\u003Cp\u003EAt Anywhere Science we realize that science often happens outside of a laboratory and is routinely conducted by non-scientists. Every day, millions of test strips are used in order to make a myriad of chemistry of measurements. Many of these strips rely on user interpretation of colors or indicator lines in order to make estimations of analyte concentrations. For this reason, test strips are often viewed as \u201csemi-quantitative\u201d or even just simply \u201cqualitative.\u201d We realize that there exists tremendous opportunity to leverage the native capabilities of today\u2019s smartphones with their massive install bases in order to convert \u201cquick-and-dirty\u201d test strips to powerful tools for rapid quantitative measurement.\u003C/p\u003E\n\n\u003Cp\u003EOur platform, LabStrip, is designed to transform the iPhone 4 series of smartphone into a deployable mobile laboratory. Each lot of test strips is meticulously calibrated in our laboratory using liquid standards of known value and the resultant calibration file is downloaded to the phone by scanning a QR code applied to each box of strips we sell. The user is able to make instant measurements in the field with no calibration required because we use the exact same LabStrip meters to calibrate and release product. We then feed the measurements from the LabStrip App to our cloud storage center, LabCloud, where it can be married with a host of other metadata for later data mining by the user. In addition to high-quality measurements, the iPhone 4 provides GPS location, date/time stamps, and the option to add annotations.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "LabStrip",
+    "permalink": "labstrip",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Noland",
+      "permalink": "brian-noland",
+      "image":
+       {"available_sizes":
+         [[[142,
+            150],
+           "assets/images/resized/0017/9916/179916v2-max-150x150.jpg"],
+          [[184,
+            194],
+           "assets/images/resized/0017/9916/179916v2-max-250x250.jpg"],
+          [[184,
+            194],
+           "assets/images/resized/0017/9916/179916v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Cas",
+      "last_name": "Hoefman",
+      "permalink": "cas-hoefman",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0017/9915/179915v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0017/9915/179915v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0017/9915/179915v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Brandon",
+      "last_name": "Sherman",
+      "permalink": "brandon-sherman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Murrieta Office",
+    "address1": "25185 Madison Ave",
+    "address2": "Suite A",
+    "zip_code": "92562",
+    "city": "Murrieta",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://LabStrip.com",
+    "title": ""}]}

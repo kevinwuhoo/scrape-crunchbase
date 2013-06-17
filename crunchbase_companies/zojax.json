@@ -1,0 +1,80 @@
+{"name": "Zojax",
+ "permalink": "zojax",
+ "crunchbase_url": "http://www.crunchbase.com/company/zojax",
+ "homepage_url": "http://www.zojax.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "deanpowers",
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 2003,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter-mashup-zope-django",
+ "alias_list": null,
+ "email_address": "dean@zojax.com",
+ "phone_number": "2063340301",
+ "description": "Python/Django Software Development.",
+ "created_at": "Fri May 07 23:39:52 UTC 2010",
+ "updated_at": "Tue Dec 25 05:34:55 UTC 2012",
+ "overview": "\u003Cp\u003EZojax develops custom social networking and mashup sites.\u003C/p\u003E\n\n\u003Cp\u003EThe expertise of the company is in the area of data mining of web content from Twitter, Facebook, RSS, and Amazon. This expertise is used to develop custom social networking or mashup sites and applications.\u003C/p\u003E\n\n\u003Cp\u003ECurrently, Zojax is focused on the development of web sites that gather subject specific web content and collects in user manageable content categories. An example of this technology is viewable at http://www.wefollowipad.com\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dean",
+      "last_name": "Powers",
+      "permalink": "dean-powers",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TweetMeme",
+      "permalink": "tweetmeme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            11],
+           "assets/images/resized/0001/7282/17282v4-max-150x150.png"],
+          [[250,
+            19],
+           "assets/images/resized/0001/7282/17282v4-max-250x250.png"],
+          [[407,
+            32],
+           "assets/images/resized/0001/7282/17282v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "555 Bryant St.",
+    "address2": "Suite 396",
+    "zip_code": "94301",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

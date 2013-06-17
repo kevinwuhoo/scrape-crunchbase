@@ -1,0 +1,151 @@
+{"name": "Gigulate",
+ "permalink": "gigulate",
+ "crunchbase_url": "http://www.crunchbase.com/company/gigulate",
+ "homepage_url": "http://www.gigulate.com/",
+ "blog_url": "http://blog.gigulate.com/",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Music Aggregator",
+ "created_at": "Thu Feb 05 19:59:46 UTC 2009",
+ "updated_at": "Fri Mar 19 19:17:13 UTC 2010",
+ "overview": "\u003Cp\u003EGigulate is a UK startup which aims to match music news, blogs and gig listings against each other. \u003C/p\u003E\n\n\u003Cp\u003EGigulate is the musical radar: it sorts through all the music news and gig listings across the web to give you info on your favourite bands, and discover new ones.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0003/5689/35689v5-max-150x150.jpg"],
+     [[250,
+       56],
+      "assets/images/resized/0003/5689/35689v5-max-250x250.jpg"],
+     [[250,
+       56],
+      "assets/images/resized/0003/5689/35689v5-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Perreau",
+      "permalink": "ben-perreau",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0004/1887/41887v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0004/1887/41887v2-max-250x250.jpg"],
+          [[200,
+            300],
+           "assets/images/resized/0004/1887/41887v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Duncan",
+      "last_name": "Amey",
+      "permalink": "duncan-amey",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0004/1889/41889v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0004/1889/41889v2-max-250x250.jpg"],
+          [[200,
+            300],
+           "assets/images/resized/0004/1889/41889v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CCO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Martin",
+      "permalink": "john-martin-3",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0004/1888/41888v4-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0004/1888/41888v4-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0004/1888/41888v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Setlist.fm",
+      "permalink": "setlist-fm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/7145/37145v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0003/7145/37145v1-max-250x250.png"],
+          [[272,
+            75],
+           "assets/images/resized/0003/7145/37145v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        89],
+       "assets/images/resized/0004/1679/41679v1-max-150x150.jpg"],
+      [[250,
+        149],
+       "assets/images/resized/0004/1679/41679v1-max-250x250.jpg"],
+      [[450,
+        269],
+       "assets/images/resized/0004/1679/41679v1-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        142],
+       "assets/images/resized/0008/0990/80990v2-max-150x150.png"],
+      [[250,
+        238],
+       "assets/images/resized/0008/0990/80990v2-max-250x250.png"],
+      [[450,
+        428],
+       "assets/images/resized/0008/0990/80990v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

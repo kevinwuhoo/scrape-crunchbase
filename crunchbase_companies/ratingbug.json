@@ -1,0 +1,126 @@
+{"name": "RatingBug",
+ "permalink": "ratingbug",
+ "crunchbase_url": "http://www.crunchbase.com/company/ratingbug",
+ "homepage_url": "http://www.ratingbug.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mdierolf",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "widgets, ratings, comment, rate, javascript, widget",
+ "alias_list": null,
+ "email_address": "info@ratingbug.com",
+ "phone_number": "650-286-9702",
+ "description": "Rate Everything",
+ "created_at": "Thu Jul 30 21:33:32 UTC 2009",
+ "updated_at": "Fri Jul 31 16:37:56 UTC 2009",
+ "overview": "\u003Cp\u003ERatingBug provides social media widgets for commenting and rating content on websites and blogs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0005/4802/54802v2-max-150x150.png"],
+     [[250,
+       66],
+      "assets/images/resized/0005/4802/54802v2-max-250x250.png"],
+     [[379,
+       101],
+      "assets/images/resized/0005/4802/54802v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "DeWeese",
+      "permalink": "brian-deweese",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Dierolf",
+      "permalink": "mark-dierolf-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Holland",
+      "permalink": "ben-holland",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Wing",
+      "last_name": "Yu",
+      "permalink": "wing-yu",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Echo",
+      "permalink": "echo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0013/2159/132159v3-max-150x150.jpg"],
+          [[250,
+            74],
+           "assets/images/resized/0013/2159/132159v3-max-250x250.jpg"],
+          [[450,
+            133],
+           "assets/images/resized/0013/2159/132159v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Agile Opportunity Fund",
+         "permalink": "agile-opportunity-fund",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "101 Lincoln Centre Dr #410",
+    "address2": "",
+    "zip_code": "94404",
+    "city": "Foster City",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.570409,
+    "longitude": -122.268534}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

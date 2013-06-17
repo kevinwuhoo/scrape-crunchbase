@@ -1,0 +1,148 @@
+{"name": "SageCloud",
+ "permalink": "sagecloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/sagecloud",
+ "homepage_url": "http://sagecloud.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "sagecloudboston",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "1 617 431 8000",
+ "description": "",
+ "created_at": "Mon Feb 11 18:01:01 UTC 2013",
+ "updated_at": "Tue Jun 11 12:42:45 UTC 2013",
+ "overview": "\u003Cp\u003ESageCloud is delivering breakthrough price points for Cold Storage Tiering \u2013 cost-effectively managing petabyte-scale storage of data that is written once but infrequently accessed. With SageCloud, data center professionals can reap the benefits of storage on disk at the price points of storage on \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0027/3943/273943v1-max-150x150.jpg"],
+     [[250,
+       47],
+      "assets/images/resized/0027/3943/273943v1-max-250x250.jpg"],
+     [[321,
+       61],
+      "assets/images/resized/0027/3943/273943v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Flowers",
+      "permalink": "jeff-flowers",
+      "image":
+       {"available_sizes":
+         [[[144,
+            150],
+           "assets/images/resized/0026/1498/261498v1-max-150x150.jpg"],
+          [[240,
+            250],
+           "assets/images/resized/0026/1498/261498v1-max-250x250.jpg"],
+          [[300,
+            312],
+           "assets/images/resized/0026/1498/261498v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Board of Directors",
+    "person":
+     {"first_name": "David",
+      "last_name": "Skok",
+      "permalink": "david-skok",
+      "image":
+       {"available_sizes":
+         [[[150,
+            125],
+           "assets/images/resized/0008/4328/84328v4-max-150x150.jpg"],
+          [[250,
+            208],
+           "assets/images/resized/0008/4328/84328v4-max-250x250.jpg"],
+          [[450,
+            375],
+           "assets/images/resized/0008/4328/84328v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$10M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://finance.yahoo.com/news/sagecloud-raises-10-million-series-113000920.html?utm_source=dlvr.it\u0026utm_medium=twitter",
+    "source_description": "SageCloud Raises $10 Million in Series B Funding",
+    "raised_amount": 10000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 6,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Braemar Energy Ventures",
+         "permalink": "braemar-energy-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               34],
+              "assets/images/resized/0005/1049/51049v1-max-150x150.png"],
+             [[250,
+               57],
+              "assets/images/resized/0005/1049/51049v1-max-250x250.png"],
+             [[262,
+               60],
+              "assets/images/resized/0005/1049/51049v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Matrix Partners",
+         "permalink": "matrix-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               71],
+              "assets/images/resized/0001/8684/18684v5-max-150x150.jpg"],
+             [[250,
+               119],
+              "assets/images/resized/0001/8684/18684v5-max-250x250.jpg"],
+             [[450,
+               215],
+              "assets/images/resized/0001/8684/18684v5-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Two Oliver Street",
+    "address2": "Suite 702",
+    "zip_code": "02109",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

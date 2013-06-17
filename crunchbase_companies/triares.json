@@ -1,0 +1,130 @@
+{"name": "Triares",
+ "permalink": "triares",
+ "crunchbase_url": "http://www.crunchbase.com/company/triares",
+ "homepage_url": "http://www.triares.com",
+ "blog_url": "http://blog.triares.com",
+ "blog_feed_url": "http://blog.triares.com/feed",
+ "twitter_username": "triares",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hardhat, hedralink, web-based, software, technology",
+ "alias_list": "",
+ "email_address": "hello@triares.com",
+ "phone_number": "",
+ "description": "Business Application Developer ",
+ "created_at": "Thu Aug 06 22:48:30 UTC 2009",
+ "updated_at": "Mon May 16 00:57:20 UTC 2011",
+ "overview": "\u003Cp\u003ETriares.com offers a comprehensive suite of award-winning online business, productivity \u0026amp; collaboration applications. Customers use Triares Applications to run their business processes, manage their information and be more productive while at the office or on the go, without having to worry about expensive or outdated hardware or software.\u003C/p\u003E\n\n\u003Cp\u003EWe pride ourselves in building small, simple products that meet and exceed specifications. We are committed to the uncompromised professionalism of our people and quality of processes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[136,
+       43],
+      "assets/images/resized/0005/5571/55571v2-max-150x150.png"],
+     [[136,
+       43],
+      "assets/images/resized/0005/5571/55571v2-max-250x250.png"],
+     [[136,
+       43],
+      "assets/images/resized/0005/5571/55571v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "eHARDHAT",
+    "permalink": "hardhat",
+    "image":
+     {"available_sizes":
+       [[[150,
+          40],
+         "assets/images/resized/0008/9964/89964v5-max-150x150.png"],
+        [[208,
+          56],
+         "assets/images/resized/0008/9964/89964v5-max-250x250.png"],
+        [[208,
+          56],
+         "assets/images/resized/0008/9964/89964v5-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "Hedralink",
+    "permalink": "hedralink",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Eduardo",
+      "last_name": "Leitao",
+      "permalink": "eduardo-leitao",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Fabio",
+      "last_name": "Espindula",
+      "permalink": "fabio-espindula",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Madeira",
+      "permalink": "bill-madeira",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Quickbooks",
+      "permalink": "quickbooks",
+      "image": null}},
+   {"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[127,
+        150],
+       "assets/images/resized/0010/4338/104338v2-max-150x150.jpg"],
+      [[212,
+        250],
+       "assets/images/resized/0010/4338/104338v2-max-250x250.jpg"],
+      [[382,
+        450],
+       "assets/images/resized/0010/4338/104338v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://ehardhat.com",
+    "title": "eHardhat"},
+   {"external_url": "http://hedralink.com",
+    "title": "Hedralink"}]}

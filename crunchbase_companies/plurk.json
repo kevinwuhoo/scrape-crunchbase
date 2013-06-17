@@ -1,0 +1,197 @@
+{"name": "Plurk",
+ "permalink": "plurk",
+ "crunchbase_url": "http://www.crunchbase.com/company/plurk",
+ "homepage_url": "http://www.plurk.com/",
+ "blog_url": "http://blog.plurk.com",
+ "blog_feed_url": "http://blog.plurk.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 7,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, short-messaging",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Microblogging Service",
+ "created_at": "Thu May 29 19:23:45 UTC 2008",
+ "updated_at": "Thu Jan 17 04:00:03 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.plurk.com/\" title=\"Plurk\" rel=\"nofollow\"\u003EPlurk\u003C/a\u003E offers users a way to chronicle and share the things they do, the way they feel, and all the other things. Plurk is similar to \u003Ca href=\"http://www.crunchbase.com/company/twitter\" title=\"Twitter\"\u003ETwitter\u003C/a\u003E in its basic functionality, except that each initial comment is given a thread of responses, making it more conversational in style. Plurk asks users to select qualifiers such as loves, likes, is, hates, etc for each message.  This means every message you write is in third person.\u003C/p\u003E\n\n\u003Cp\u003ELike \u003Ca href=\"http://www.crunchbase.com/company/pownce\" title=\"Pownce\"\u003EPownce\u003C/a\u003E, Plurk lets you embed Flickr images and YouTube videos. Plurk has added image hosting to the site to ease the posting of photos.\u003C/p\u003E\n\n\u003Cp\u003EAdditionally, Plurk differs from \u003Ca href=\"/company/twitter\" title=\"Twitter\" rel=\"nofollow\"\u003ETwitter\u003C/a\u003E in its user interface. Plurk shows your friends\u0026#8217; updates in a horizontally scrolling timeline.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[81,
+       38],
+      "assets/images/resized/0001/9619/19619v1-max-150x150.png"],
+     [[81,
+       38],
+      "assets/images/resized/0001/9619/19619v1-max-250x250.png"],
+     [[81,
+       38],
+      "assets/images/resized/0001/9619/19619v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Plurk",
+    "permalink": "plurk",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Managing Director, Asia Pacific",
+    "person":
+     {"first_name": "Danny",
+      "last_name": "Lin",
+      "permalink": "danny-lin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            129],
+           "assets/images/resized/0014/9309/149309v2-max-150x150.jpg"],
+          [[200,
+            173],
+           "assets/images/resized/0014/9309/149309v2-max-250x250.jpg"],
+          [[200,
+            173],
+           "assets/images/resized/0014/9309/149309v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EDanny Lin\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FriendFeed",
+      "permalink": "friendfeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1096/1096v1-max-150x150.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-250x250.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Edmodo",
+      "permalink": "edmodo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6596/16596v6-max-150x150.png"],
+          [[250,
+            109],
+           "assets/images/resized/0001/6596/16596v6-max-250x250.png"],
+          [[450,
+            196],
+           "assets/images/resized/0001/6596/16596v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Lifeblob",
+      "permalink": "lifeblob",
+      "image":
+       {"available_sizes":
+         [[[131,
+            40],
+           "assets/images/resized/0002/5933/25933v2-max-150x150.png"],
+          [[131,
+            40],
+           "assets/images/resized/0002/5933/25933v2-max-250x250.png"],
+          [[131,
+            40],
+           "assets/images/resized/0002/5933/25933v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "StatusNet",
+      "permalink": "statusnet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            90],
+           "assets/images/resized/0002/1436/21436v7-max-150x150.png"],
+          [[250,
+            150],
+           "assets/images/resized/0002/1436/21436v7-max-250x250.png"],
+          [[300,
+            180],
+           "assets/images/resized/0002/1436/21436v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CitySpeek",
+      "permalink": "cityspeek",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0003/1711/31711v1-max-150x150.png"],
+          [[204,
+            49],
+           "assets/images/resized/0003/1711/31711v1-max-250x250.png"],
+          [[204,
+            49],
+           "assets/images/resized/0003/1711/31711v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shoutitout",
+      "permalink": "shoutitout",
+      "image":
+       {"available_sizes":
+         [[[150,
+            15],
+           "assets/images/resized/0007/6149/76149v2-max-150x150.jpg"],
+          [[250,
+            25],
+           "assets/images/resized/0007/6149/76149v2-max-250x250.jpg"],
+          [[450,
+            46],
+           "assets/images/resized/0007/6149/76149v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "2425 Matheson Blvd",
+    "address2": "8th Floor, Suite 813",
+    "zip_code": "L4W 5K4",
+    "city": "Mississauga",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 43.657979,
+    "longitude": -79.603622}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/plurk_unique_or_just_another_t.php",
+    "title": "Plurk: Unique or Just Another Twitter Clone?"},
+   {"external_url": "http://venturebeat.com/2008/05/06/pluck-twitter-meets-friendfeed/",
+    "title": "Plurk: Twitter meets FriendFeed"}]}

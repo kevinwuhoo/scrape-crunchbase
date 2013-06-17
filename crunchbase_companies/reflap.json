@@ -1,0 +1,182 @@
+{"name": "Reflap",
+ "permalink": "reflap",
+ "crunchbase_url": "http://www.crunchbase.com/company/reflap",
+ "homepage_url": "http://www.reflap.com",
+ "blog_url": "http://www.reflap.com/blog",
+ "blog_feed_url": "http://www.reflap.com/blog/feed/",
+ "twitter_username": "reflap",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video-chat, video-call, video-conference, web-app, communication, voip",
+ "alias_list": null,
+ "email_address": "michael@reflap.com",
+ "phone_number": "",
+ "description": "Awesome video chat",
+ "created_at": "Wed Feb 13 04:37:03 UTC 2013",
+ "updated_at": "Mon Jun 03 04:09:31 UTC 2013",
+ "overview": "\u003Cp\u003EReflap is a web app that allows you to remain connected to your friends and family through video chat. With Reflap you can call your friends and family with a simple click even if they aren\u2019t a Reflap user and also start awesome group video chats. Also when you register on Reflap you set yourself up with a unique call address which is like your phone number and with that anyone can contact you using your call address even if they aren\u2019t a user. We want to make the phone number portable. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/5535/235535v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0023/5535/235535v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0023/5535/235535v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Nana",
+      "permalink": "michael-nana-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FaceFlow",
+      "permalink": "faceflow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0011/0202/110202v4-max-150x150.png"],
+          [[227,
+            61],
+           "assets/images/resized/0011/0202/110202v4-max-250x250.png"],
+          [[227,
+            61],
+           "assets/images/resized/0011/0202/110202v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "vox.io",
+      "permalink": "vox-io",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0013/3042/133042v2-max-150x150.png"],
+          [[200,
+            64],
+           "assets/images/resized/0013/3042/133042v2-max-250x250.png"],
+          [[200,
+            64],
+           "assets/images/resized/0013/3042/133042v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bistri",
+      "permalink": "bistri",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0013/0627/130627v8-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0013/0627/130627v8-max-250x250.png"],
+          [[261,
+            71],
+           "assets/images/resized/0013/0627/130627v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Runfaces",
+      "permalink": "runfaces",
+      "image":
+       {"available_sizes":
+         [[[150,
+            69],
+           "assets/images/resized/0017/7770/177770v6-max-150x150.png"],
+          [[180,
+            83],
+           "assets/images/resized/0017/7770/177770v6-max-250x250.png"],
+          [[180,
+            83],
+           "assets/images/resized/0017/7770/177770v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ooVoo",
+      "permalink": "oovoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0018/9684/189684v2-max-150x150.jpg"],
+          [[250,
+            125],
+           "assets/images/resized/0018/9684/189684v2-max-250x250.jpg"],
+          [[300,
+            150],
+           "assets/images/resized/0018/9684/189684v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"430\" height=\"270\" src=\"http://www.youtube.com/embed/-TlpNhM-0yI\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EIntroducing Reflap\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/59535541\" width=\"430\" height=\"270\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E \u003Cp\u003E\u003Ca href=\"http://vimeo.com/59535541\"\u003EIntroducing Reflap video chat\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/reflap\"\u003EReflap\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EReflap\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0023/5533/235533v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0023/5533/235533v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0023/5533/235533v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0023/5534/235534v2-max-150x150.png"],
+      [[250,
+        141],
+       "assets/images/resized/0023/5534/235534v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0023/5534/235534v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,136 @@
+{"name": "qyoo",
+ "permalink": "qyoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/qyoo",
+ "homepage_url": "http://www.qyooniverse.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "qyooniverse",
+ "category_code": "mobile",
+ "number_of_employees": 11,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "barcode, mobile-marketing, 2d-code",
+ "alias_list": null,
+ "email_address": "info@qyooniverse.com",
+ "phone_number": "",
+ "description": "mobile 2d barcode",
+ "created_at": "Wed Jun 02 20:45:45 UTC 2010",
+ "updated_at": "Wed Jun 02 21:55:35 UTC 2010",
+ "overview": "\u003Cp\u003EQyoos are patent-pending 2d barcodes that enable mobile users to experience multimedia content (such as entertainment, marketing messages, coupons, or augmented reality).  Qyoo has developed a custom barcode (the \u0026#8220;qyoo\u0026#8221;) as well as an iPhone application (Android and Blackberry are being developed), and a proprietary back-end system for creating the content and tracking user statistics (such as location, gender, age, and other behavioral targeting).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0008/9331/89331v2-max-150x150.png"],
+     [[250,
+       79],
+      "assets/images/resized/0008/9331/89331v2-max-250x250.png"],
+     [[450,
+       143],
+      "assets/images/resized/0008/9331/89331v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Stafford",
+      "permalink": "mark-stafford",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Stafira",
+      "permalink": "john-stafira",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jeffrey",
+      "last_name": "Berthiaume",
+      "permalink": "jeffrey-berthiaume",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Scanbuy",
+      "permalink": "scanbuy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0001/7535/17535v1-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0001/7535/17535v1-max-250x250.png"],
+          [[450,
+            95],
+           "assets/images/resized/0001/7535/17535v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "JagTag",
+      "permalink": "jagtag",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0007/0202/70202v1-max-150x150.png"],
+          [[241,
+            100],
+           "assets/images/resized/0007/0202/70202v1-max-250x250.png"],
+          [[241,
+            100],
+           "assets/images/resized/0007/0202/70202v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Dallas Office",
+    "address1": "3100 Main Street #35",
+    "address2": "",
+    "zip_code": "75226",
+    "city": "Dallas",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.nbcdfw.com/news/business/There_s_a__Qyoo__for_That_Dallas-Fort_Worth.html",
+    "title": "NBC-DFW There's a Qyoo for That"}]}

@@ -1,0 +1,98 @@
+{"name": "Burger Function Games",
+ "permalink": "burger-function-games",
+ "crunchbase_url": "http://www.crunchbase.com/company/burger-function-games",
+ "homepage_url": "http://burgerfunction.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "burgerfunction",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "games, atomic, brawl, video, independent",
+ "alias_list": null,
+ "email_address": "contact@burgerfunction.com",
+ "phone_number": "",
+ "description": "independent video game company",
+ "created_at": "Thu Feb 07 17:01:53 UTC 2013",
+ "updated_at": "Sat Feb 09 07:20:55 UTC 2013",
+ "overview": "\u003Cp\u003EBurger Function Games is a small independent game studio located in Vancouver, BC, Canada. Our launch product is Atomic Brawl (http://atomicbrawl.com) which is a in-browser and mobile multiplayer strategy game. Our goal is to provide deep and addictive gaming experiences that can be played on a casual timeline.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       115],
+      "assets/images/resized/0023/4428/234428v2-max-150x150.png"],
+     [[183,
+       141],
+      "assets/images/resized/0023/4428/234428v2-max-250x250.png"],
+     [[183,
+       141],
+      "assets/images/resized/0023/4428/234428v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Atomic Brawl",
+    "permalink": "atomic-brawl",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ken",
+      "last_name": "Pratt",
+      "permalink": "ken-pratt",
+      "image": null}},
+   {"is_past": false,
+    "title": " Co-Founder / Code Monkey ",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Shorrock",
+      "permalink": "chris-shorrock",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0023/4274/234274v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0023/4274/234274v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0023/4274/234274v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "3728 154A Street",
+    "address2": "",
+    "zip_code": "V3S0H2",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://atomicbrawl.com",
+    "title": "Atomic Brawl"}]}

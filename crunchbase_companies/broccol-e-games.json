@@ -1,0 +1,130 @@
+{"name": "Broccol-e-games",
+ "permalink": "broccol-e-games",
+ "crunchbase_url": "http://www.crunchbase.com/company/broccol-e-games",
+ "homepage_url": "http://broccol-e-games.com",
+ "blog_url": "http://broccol-e-games.com/blog",
+ "blog_feed_url": "http://broccol-e-games.com/blog/rss",
+ "twitter_username": "broccolegames",
+ "category_code": "education",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education, mobile-games, educational-games, games, e-learning",
+ "alias_list": null,
+ "email_address": "david@broccol-e-games.com",
+ "phone_number": "+61403550002",
+ "description": "Mobile educational games for kids!",
+ "created_at": "Fri Aug 10 04:33:44 UTC 2012",
+ "updated_at": "Thu Sep 20 14:16:27 UTC 2012",
+ "overview": "\u003Cp\u003EBroccol-e-games Pty Ltd is a mobile educational games company specialising in maths learning games for children aged 4-6 years old, on the iOS platform. Broccol-e-games focuses on creating fun, educational and convenient games that can be played anywhere. \u003C/p\u003E\n\n\u003Cp\u003EBroccol-e-games was formed in Melbourne in late November 2011, and officially became a company in April 2012. After being accepted into the acclaimed Melbourne accelerator program, AngelCube, Broccol-e-games quietly released their first product on the App Store in April 2012. After much feedback, advice and iteration, Maths with Springbird was officially launched on 19th July 2012.\u003C/p\u003E\n\n\u003Cp\u003EMaths with Springbird was subsequently featured by Apple and became the #1 educational iPad app in the Australian and New Zealand App Stores, reaching 10,000 downloads within a week of launch.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0020/5397/205397v2-max-150x150.png"],
+     [[250,
+       52],
+      "assets/images/resized/0020/5397/205397v2-max-250x250.png"],
+     [[450,
+       94],
+      "assets/images/resized/0020/5397/205397v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Truong",
+      "permalink": "david-truong",
+      "image":
+       {"available_sizes":
+         [[[150,
+            148],
+           "assets/images/resized/0026/8152/268152v1-max-150x150.png"],
+          [[247,
+            245],
+           "assets/images/resized/0026/8152/268152v1-max-250x250.png"],
+          [[247,
+            245],
+           "assets/images/resized/0026/8152/268152v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yogome",
+      "permalink": "yogome",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0020/7149/207149v5-max-150x150.png"],
+          [[250,
+            125],
+           "assets/images/resized/0020/7149/207149v5-max-250x250.png"],
+          [[450,
+            225],
+           "assets/images/resized/0020/7149/207149v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.angelcube.com/2012/04/angelcube-2012-the-story-so-far/",
+    "source_description": "AngelCube, the story so far",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "AngelCube",
+         "permalink": "angelcube",
+         "image":
+          {"available_sizes":
+            [[[150,
+               150],
+              "assets/images/resized/0021/0165/210165v2-max-150x150.jpg"],
+             [[250,
+               250],
+              "assets/images/resized/0021/0165/210165v2-max-250x250.jpg"],
+             [[450,
+               450],
+              "assets/images/resized/0021/0165/210165v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Melbourne, Australia",
+    "address1": "1/41 Stewart Street",
+    "address2": "",
+    "zip_code": "3121",
+    "city": "Richmond",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techinasia.com/broccol-e-games/",
+    "title": "Mobile Game Startup \u2018Math with Springbird\u2019 Aims to Fly to Asia"},
+   {"external_url": "http://www.techinasia.com/news_ticker/broccol-e-games/",
+    "title": "Mobile Game \u2018Math with Springbird\u2019 Hits 10,000 Downloads in First Week"}]}

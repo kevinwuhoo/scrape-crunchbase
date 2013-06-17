@@ -1,0 +1,113 @@
+{"name": "Curvanade",
+ "permalink": "curvanade",
+ "crunchbase_url": "http://www.crunchbase.com/company/curvanade",
+ "homepage_url": "http://www.curvanademobile.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bass, backedn-as-a-service, big-data, nosql",
+ "alias_list": "",
+ "email_address": "mikael.eriksson@curvanade.com",
+ "phone_number": "46707680178",
+ "description": "Backend as a Service",
+ "created_at": "Fri Feb 10 08:37:17 UTC 2012",
+ "updated_at": "Sat Oct 06 07:42:14 UTC 2012",
+ "overview": "\u003Cp\u003ECurvanade is a Backend as a Service\u0026#8221; (BaaS) company Curvanade provides an easily integrated cloud-based backends for mobile app developers. \u003C/p\u003E\n\n\u003Cp\u003EEasy to use, Fast and Powerful backend that will take care of everything on the Server side for Mobile App Developers so they can focus on building rich and cool Apps for Business and Consumers.\u003C/p\u003E\n\n\u003Cp\u003ECurvanadeMobile is a Game changer when it comes to Mobile App Development. No more headache about how to Store, Search and Push Data, or what platform to use for the backend. It is all taken care of by Curvanade.\u003C/p\u003E\n\n\u003Cp\u003EWe use Microsofts Cloud Infrastucture, this means we have multiple redundant datacenters all over the world.\u003C/p\u003E\n\n\u003Cp\u003ESince CurvanadeMobile has public SDKs and APIs for all major platforms, it is extremely easy to use the same backend and data for your website as well as your mobile devices.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mikael",
+      "last_name": "Eriksson",
+      "permalink": "mikael-eriksson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CouchDB",
+      "permalink": "couchdb",
+      "image": null}},
+   {"competitor":
+     {"name": "MongoDB",
+      "permalink": "mongodb",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0024/7310/247310v1-max-150x150.png"],
+          [[217,
+            90],
+           "assets/images/resized/0024/7310/247310v1-max-250x250.png"],
+          [[217,
+            90],
+           "assets/images/resized/0024/7310/247310v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sitefinity",
+      "permalink": "sitefinity",
+      "image": null}},
+   {"competitor":
+     {"name": "mobDB",
+      "permalink": "mobdb",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0018/2121/182121v2-max-150x150.jpg"],
+          [[250,
+            75],
+           "assets/images/resized/0018/2121/182121v2-max-250x250.jpg"],
+          [[250,
+            75],
+           "assets/images/resized/0018/2121/182121v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "V\u00e4stmannagatan 15",
+    "address2": "",
+    "zip_code": "111 24",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0017/3741/173741v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0017/3741/173741v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0017/3741/173741v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

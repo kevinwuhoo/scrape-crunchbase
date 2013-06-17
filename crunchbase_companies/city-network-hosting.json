@@ -1,0 +1,93 @@
+{"name": "City Network Hosting",
+ "permalink": "city-network-hosting",
+ "crunchbase_url": "http://www.crunchbase.com/company/city-network-hosting",
+ "homepage_url": "http://www.citynetwork.se",
+ "blog_url": "http://blog.citynetwork.se",
+ "blog_feed_url": "http://blog.citynetwork.se/?feed=rss2",
+ "twitter_username": "citynetwork",
+ "category_code": "network_hosting",
+ "number_of_employees": 11,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "domain, hosting, dedicated-servers, virtual-servers",
+ "alias_list": "",
+ "email_address": "info@citynetwork.se",
+ "phone_number": "46455690001",
+ "description": "Hosting Provider",
+ "created_at": "Wed Jun 24 08:17:51 UTC 2009",
+ "updated_at": "Wed Jun 24 18:00:39 UTC 2009",
+ "overview": "\u003Cp\u003ECity Network is a hosting provider offering services that include domain registration, web hosting, dedicated servers and virtual servers. City Network has many customers around the world and is head quartered in Sweden.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0005/0569/50569v1-max-150x150.png"],
+     [[250,
+       64],
+      "assets/images/resized/0005/0569/50569v1-max-250x250.png"],
+     [[255,
+       66],
+      "assets/images/resized/0005/0569/50569v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Dedicated server options",
+    "permalink": "dedicated-server-options",
+    "image": null},
+   {"name": "Virtual servers",
+    "permalink": "virtual-servers-2",
+    "image": null},
+   {"name": "Co-location",
+    "permalink": "co-location",
+    "image": null},
+   {"name": "Domain registration and handling",
+    "permalink": "domain-registration-and-handling",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Anders",
+      "last_name": "Christenson",
+      "permalink": "anders-christenson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "CPA, Audit services",
+    "is_past": false,
+    "provider":
+     {"name": "KPMG",
+      "permalink": "kpmg",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Borgm\u00c3\u00a4staregatan 18",
+    "address2": "",
+    "zip_code": "37137",
+    "city": "Karlskrona",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": 56.1617201,
+    "longitude": 15.5835706}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

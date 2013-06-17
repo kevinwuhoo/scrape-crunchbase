@@ -1,0 +1,87 @@
+{"name": "Viprinet Europe",
+ "permalink": "viprinet-europe",
+ "crunchbase_url": "http://www.crunchbase.com/company/viprinet-europe",
+ "homepage_url": "http://www.viprinet.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Viprinet",
+ "category_code": "network_hosting",
+ "number_of_employees": 30,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "multichannel-router, vpn, reliable-internet, mobile-internet, networking, load-balancing",
+ "alias_list": null,
+ "email_address": "info@viprinet.com",
+ "phone_number": "+49 6721 490 30-0",
+ "description": "German router manufacturer",
+ "created_at": "Thu Aug 30 07:54:18 UTC 2012",
+ "updated_at": "Tue Sep 04 13:31:32 UTC 2012",
+ "overview": "\u003Cp\u003EEstablished in 2006 and located in Bingen, Germany, Viprinet GmbH develops and produces innovative technologies for bonding 3G and DSL, and thus provides highly reliable Internet. Up to 6 Internet connections of different providers and technologies can be bonded to, for instance, achieve higher LTE bandwidths. Due to that, Viprinet is better than load balancing.\u003C/p\u003E\n\n\u003Cp\u003EThe Multichannel VPN Router is the core of the Viprinet technology. With this device, several broadband lines can be combined into a single, highly available joint line. Unlike load-balancing which can only distribute load to several WAN links, real bonding of all connections available is realized here.\u003C/p\u003E\n\n\u003Cp\u003EViprinet can combine all different types of access media, be they ADSL, SDSL, UMTS / HSPA+ / 3G, or LTE / 4G. The LAN sees these connections as one single line providing the accumulated up- and downstream of the different links even for single downloads.\u003C/p\u003E\n\n\u003Cp\u003EViprinet uses an exceptional VPN tunnel technique with a star topology for secure and fast site, facility and vehicle linkage. For this purpose, the integration of two different devices is needed: A Multichannel VPN Router establishes an encrypted VPN tunnel to a single central remote station, the Multichannel VPN Hub, via each Internet line available. These VPN tunnels are then bundled into one tunnel through which the data is then transferred.\u003C/p\u003E\n\n\u003Cp\u003EWhether cloud computing, IT virtualization, unified communications or multi-media content: We connect your mobile and stationary devices to your company network or to the Internet.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[125,
+       150],
+      "assets/images/resized/0020/8863/208863v2-max-150x150.png"],
+     [[208,
+       250],
+      "assets/images/resized/0020/8863/208863v2-max-250x250.png"],
+     [[300,
+       360],
+      "assets/images/resized/0020/8863/208863v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, founder",
+    "person":
+     {"first_name": "Simon",
+      "last_name": "Kissel",
+      "permalink": "simon-kissel",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Mainzer Str. 43",
+    "address2": "",
+    "zip_code": "55411",
+    "city": "Bingen am Rhein",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        42],
+       "assets/images/resized/0020/8862/208862v2-max-150x150.jpg"],
+      [[250,
+        71],
+       "assets/images/resized/0020/8862/208862v2-max-250x250.jpg"],
+      [[450,
+        128],
+       "assets/images/resized/0020/8862/208862v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

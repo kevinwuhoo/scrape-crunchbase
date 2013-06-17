@@ -1,0 +1,99 @@
+{"name": "Broong",
+ "permalink": "broong",
+ "crunchbase_url": "http://www.crunchbase.com/company/broong",
+ "homepage_url": "http://www.broong.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, network, serive, note, content, multimedia, share, store, collect, create",
+ "alias_list": null,
+ "email_address": "info@broong.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Jul 29 21:24:10 UTC 2008",
+ "updated_at": "Sat Sep 06 14:04:29 UTC 2008",
+ "overview": "\u003Cp\u003EBroong is the creator of an online social note service that lets people search, create and share content via a quick note from anywhere with everyone. Geared at online users, the company\u0026#8217;s interactive web service allows users to share images, video, maps as well as the ability to link to relevant content.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0002/2919/22919v2-max-150x150.jpg"],
+     [[250,
+       66],
+      "assets/images/resized/0002/2919/22919v2-max-250x250.jpg"],
+     [[450,
+       119],
+      "assets/images/resized/0002/2919/22919v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Broong Notes",
+    "permalink": "broong-notes",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, VP of Technology \u0026 Operations",
+    "person":
+     {"first_name": "Dongjin",
+      "last_name": "Han",
+      "permalink": "dongjin-han",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "S.",
+      "last_name": "Jean Hong",
+      "permalink": "s-jean-hong",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, VP of Marketing \u0026 Communications",
+    "person":
+     {"first_name": "Sun",
+      "last_name": "Young Moon",
+      "permalink": "sun-young-moon",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Public Relations (US)",
+    "is_past": false,
+    "provider":
+     {"name": "The Hoffman Agency",
+      "permalink": "the-hoffman-agency",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "795 Folsom St. 1st Floor ",
+    "address2": "",
+    "zip_code": "94107",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.socialcomputingmagazine.com/viewcolumn.cfm?colid=566",
+    "title": "Introducing Broong, A New Social Note Service"}]}

@@ -1,0 +1,90 @@
+{"name": "Zipeg",
+ "permalink": "zipeg",
+ "crunchbase_url": "http://www.crunchbase.com/company/zipeg",
+ "homepage_url": "http://www.zipeg.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zipeg",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rar, zip, unarchiver, winrar, winzip",
+ "alias_list": null,
+ "email_address": "support@zipeg.com",
+ "phone_number": "",
+ "description": "Zipeg is free open source WinRar for Mac",
+ "created_at": "Tue Dec 15 22:15:23 UTC 2009",
+ "updated_at": "Fri Dec 24 19:19:37 UTC 2010",
+ "overview": "\u003Cp\u003EZipeg is an open source free software utility that extracts files from ZIP, RAR and other archives that works on Mac OS X and Windows. \u003C/p\u003E\n\n\u003Cp\u003EZipeg is best known for its file preview ability. It is incapable of compressing files, although it is able to extract compressed ones; it supports RAR, ZIP and other formats. Zipeg is built on top of 7zip backend. Its UI is implemented in Java and is open source.\u003C/p\u003E\n\n\u003Cp\u003EZipeg automatically detects filenames in national alphabets (code pages) and correctly translates them to Unicode. Zipeg reads EXIF thumbnails from JPEG digital photographs and uses them for \u0026#8220;tool tip\u0026#8221; style preview and item icons.\u003C/p\u003E\n\n\u003Cp\u003EZipeg is file decompression tool that offers the convenience of previewing an entire file before extracting it, and it does so free of charge.\u003C/p\u003E\n\n\u003Cp\u003EZipeg for Windows and Macintosh has a very simple interface that will appeal to all users. The minimal command buttons allow you to open files, and extract and preview them. There is also an Options button that lets you select the file you would like the program to open by default, and also where to place the destination file. When Zipeg opens compressed archive, the file\u0026#8217;s contents were displayed in the main window and the structure of the archive is displayed as a navigatable folder tree view in the left pane. Hovering the mouse over each individual file displayed the file\u0026#8217;s size, including the compression size and the modification date. The preview option allowed us to view the entire file without having to extract it first.\u003C/p\u003E\n\n\u003Cp\u003EZipeg keeps user in charge of the extraction process.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       128],
+      "assets/images/resized/0006/9786/69786v2-max-150x150.png"],
+     [[128,
+       128],
+      "assets/images/resized/0006/9786/69786v2-max-250x250.png"],
+     [[128,
+       128],
+      "assets/images/resized/0006/9786/69786v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "zipeg.com shipped new more stable and more powerful version 2.9.2 of its` ever popular Zipeg application",
+    "stoned_year": 2010,
+    "stoned_month": 12,
+    "stoned_day": 20,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "Zipeg 2.9.2 for Mac and Windows",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Zipeg",
+      "permalink": "zipeg"}}],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"480\" height=\"385\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/qpgBL3dqeug?fs=1\u0026amp;hl=en_US\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/qpgBL3dqeug?fs=1\u0026amp;hl=en_US\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"480\" height=\"385\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EHow to user Zipeg on Mac\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        83],
+       "assets/images/resized/0006/9785/69785v2-max-150x150.png"],
+      [[250,
+        138],
+       "assets/images/resized/0006/9785/69785v2-max-250x250.png"],
+      [[450,
+        249],
+       "assets/images/resized/0006/9785/69785v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://zipeg.com",
+    "title": "Zipeg"},
+   {"external_url": "http://zipeg.googlecode.com/",
+    "title": "Zipeg source code"}]}

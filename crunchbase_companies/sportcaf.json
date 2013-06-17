@@ -1,0 +1,106 @@
+{"name": "SportCaf\u00e9",
+ "permalink": "sportcaf",
+ "crunchbase_url": "http://www.crunchbase.com/company/sportcaf",
+ "homepage_url": "http://sportcafe.ca",
+ "blog_url": "",
+ "blog_feed_url": "http://sportcafe.ca/feed/",
+ "twitter_username": "sportcafe_ca",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "digital-media, olympics, sports, canada, olympian, blogging, blogs",
+ "alias_list": null,
+ "email_address": "info@sportcafe.ca",
+ "phone_number": "",
+ "description": "ESPN for Canadian Olympic Sports ",
+ "created_at": "Tue Aug 14 15:26:58 UTC 2012",
+ "updated_at": "Fri Aug 17 14:52:25 UTC 2012",
+ "overview": "\u003Cp\u003ESportCaf\u00e9 gives you an inside look at the lifestyle of Canadian athletes. It brings you their blogs all in one place.\u003C/p\u003E\n\n\u003Cp\u003EWe are building an online media company that exclusively covers Olympic sports.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0020/6003/206003v2-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0020/6003/206003v2-max-250x250.png"],
+     [[354,
+       88],
+      "assets/images/resized/0020/6003/206003v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Antoine",
+      "last_name": "Meunier",
+      "permalink": "antoine-meunier",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Etienne",
+      "last_name": "Morneau",
+      "permalink": "etienne-morneau",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TSN.ca",
+      "permalink": "tsn-ca",
+      "image": null}},
+   {"competitor":
+     {"name": "RDS.ca",
+      "permalink": "rds-ca",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "335, rue St-Joseph Est",
+    "address2": "Suite 500",
+    "zip_code": "G1K 3B4",
+    "city": "Quebec",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0020/6002/206002v2-max-150x150.png"],
+      [[250,
+        151],
+       "assets/images/resized/0020/6002/206002v2-max-250x250.png"],
+      [[450,
+        273],
+       "assets/images/resized/0020/6002/206002v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.cbc.ca/breakaway/quebec-city/2012/07/26/a-taste-of-the-olympics-from-sportcafeca/",
+    "title": "CBC Radio"},
+   {"external_url": "http://www.radio-canada.ca/emissions/en_supplementaire/2011-2012/",
+    "title": "Radio-Canada TV"},
+   {"external_url": "http://www.radio-canada.ca/emissions/retour_sur_le_monde/2011-2012/chronique.asp?idChronique=235342",
+    "title": "Radio-Canada Radio"}]}

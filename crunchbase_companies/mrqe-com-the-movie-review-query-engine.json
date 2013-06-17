@@ -1,0 +1,124 @@
+{"name": "MRQE.com, The Movie Review Query Engine",
+ "permalink": "mrqe-com-the-movie-review-query-engine",
+ "crunchbase_url": "http://www.crunchbase.com/company/mrqe-com-the-movie-review-query-engine",
+ "homepage_url": "http://www.mrqe.com",
+ "blog_url": "http://blog.mrqe.com",
+ "blog_feed_url": "http://blog.mrqe.com/feeds/posts/default",
+ "twitter_username": "MRQE",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 1993,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "movies, films, entertainment, reviews, review-aggregators, ratings",
+ "alias_list": null,
+ "email_address": "info@mrqe.com",
+ "phone_number": "646-233-5872",
+ "description": "Movie review aggregator",
+ "created_at": "Wed Jun 03 15:56:09 UTC 2009",
+ "updated_at": "Sat Mar 19 03:36:29 UTC 2011",
+ "overview": "\u003Cp\u003EMRQE.com, the Movie Review Query Engine is the Internet\u00e2\u20ac\u2122s largest  database for movie reviews.  Founded in 1993, the site provides a searchable index of all published and available movie reviews.  Films with at least 15 reviews are accompanied by a numeric score - or ranking - on a scale of 1-100, as well as a five-bar graph which displays the spectrum of critical opinion from A-F.  Users are also able to provide their own review and rating for any film, which then generates a second, comparable graph.  MRQE aggregates reviews, news, interviews, and other material associated to specific movies.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       84],
+      "assets/images/resized/0004/6503/46503v2-max-150x150.jpg"],
+     [[250,
+       140],
+      "assets/images/resized/0004/6503/46503v2-max-250x250.jpg"],
+     [[288,
+       162],
+      "assets/images/resized/0004/6503/46503v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, Editor-in-Chief",
+    "person":
+     {"first_name": "Stewart",
+      "last_name": "M. Clamen",
+      "permalink": "stewart-m-clamen",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "David",
+      "last_name": "Larkin",
+      "permalink": "david-larkin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rotten Tomatoes",
+      "permalink": "rottentomatoes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0002/1100/21100v3-max-150x150.png"],
+          [[250,
+            81],
+           "assets/images/resized/0002/1100/21100v3-max-250x250.png"],
+          [[450,
+            146],
+           "assets/images/resized/0002/1100/21100v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MetaCritic",
+      "permalink": "metacritic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0003/9800/39800v3-max-150x150.png"],
+          [[224,
+            68],
+           "assets/images/resized/0003/9800/39800v3-max-250x250.png"],
+          [[224,
+            68],
+           "assets/images/resized/0003/9800/39800v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "295 Greenwich St.",
+    "address2": "#114",
+    "zip_code": "10007",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.715946,
+    "longitude": -74.010728}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        111],
+       "assets/images/resized/0004/6502/46502v2-max-150x150.jpg"],
+      [[250,
+        186],
+       "assets/images/resized/0004/6502/46502v2-max-250x250.jpg"],
+      [[450,
+        335],
+       "assets/images/resized/0004/6502/46502v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.thewrap.com/ind-column/twitter-assault-studios-and-movie-critics",
+    "title": "Twitter Assault on the Studios -- and Movie Critics"}]}

@@ -1,0 +1,132 @@
+{"name": "Vision Smarts",
+ "permalink": "vision-smarts",
+ "crunchbase_url": "http://www.crunchbase.com/company/vision-smarts",
+ "homepage_url": "http://www.visionsmarts.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, image, computer-vision, algorithms, software, barcode, library, sdk, iphone, android",
+ "alias_list": null,
+ "email_address": "benoit.maison@visionsmarts.com",
+ "phone_number": "+32 484 430 936",
+ "description": "Video analysis software",
+ "created_at": "Wed Oct 06 10:40:26 UTC 2010",
+ "updated_at": "Sun Sep 25 03:01:29 UTC 2011",
+ "overview": "\u003Cp\u003EVision Smarts develops and licenses real-time image and video analysis software for mobile phones, such as barcode, QR code or AR tag readers. \u003C/p\u003E\n\n\u003Cp\u003EApplication developers big and small use Vision Smarts libraries to add powerful new features to their products, at a fraction of the cost and the risk of doing it themselves. \u003C/p\u003E\n\n\u003Cp\u003EVision Smarts\u0026#8217; flagship product is the VSBarcodeReader library, which reads UPC/EAN barcodes using the built-in camera of all Apple iPhone models, the iPod Touch, iPad2, Android phones and Windows Phone 7. UPCs and EANs are the types of barcode found on virtually all retail products, from books to cereal boxes. The library and SDK is used by the mobile applications of many international brands.\u003C/p\u003E\n\n\u003Cp\u003EVision Smarts also publishes the barcode scanner and comparison shopping app pic2shop.  Pic2shop is free, available for iPhone, Android and Windows Phone 7 worldwide, and indexes tens of millions of products from thousands of retailers. It has been installed by well over two million users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0010/4379/104379v4-max-150x150.png"],
+     [[250,
+       80],
+      "assets/images/resized/0010/4379/104379v4-max-250x250.png"],
+     [[450,
+       144],
+      "assets/images/resized/0010/4379/104379v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Benoit",
+      "last_name": "Maison",
+      "permalink": "benoit-maison",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0015/2721/152721v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0015/2721/152721v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0015/2721/152721v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Occipital",
+      "permalink": "occipital",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/3922/23922v4-max-150x150.png"],
+          [[173,
+            49],
+           "assets/images/resized/0002/3922/23922v4-max-250x250.png"],
+          [[173,
+            49],
+           "assets/images/resized/0002/3922/23922v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Big In Japan",
+      "permalink": "big-in-japan",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0002/5721/25721v5-max-150x150.png"],
+          [[250,
+            187],
+           "assets/images/resized/0002/5721/25721v5-max-250x250.png"],
+          [[450,
+            337],
+           "assets/images/resized/0002/5721/25721v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Scanbuy",
+      "permalink": "scanbuy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0001/7535/17535v1-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0001/7535/17535v1-max-250x250.png"],
+          [[450,
+            95],
+           "assets/images/resized/0001/7535/17535v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Rue du Sol 1",
+    "address2": "",
+    "zip_code": "1301",
+    "city": "Wavre",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

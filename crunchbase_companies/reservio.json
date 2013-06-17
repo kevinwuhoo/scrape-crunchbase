@@ -1,0 +1,118 @@
+{"name": "Reservio",
+ "permalink": "reservio",
+ "crunchbase_url": "http://www.crunchbase.com/company/reservio",
+ "homepage_url": "http://www.reservio.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Reservio",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "appointment-scheduling, scheduling, calendar",
+ "alias_list": null,
+ "email_address": "info@reservio.com",
+ "phone_number": "",
+ "description": "Appointment scheduling software",
+ "created_at": "Mon Apr 22 22:33:08 UTC 2013",
+ "updated_at": "Fri Apr 26 23:31:46 UTC 2013",
+ "overview": "\u003Cp\u003EReservio is an online scheduling software for small and medium business currently used in over 40 countries. Offered in 3 languages optimized for 38 business categories in personal care, healtcare and services.\u003C/p\u003E\n\n\u003Cp\u003EFounded by Boris Bosiak and Frantisek Mazuch, winning a startup accelerator StarCube in May 2012.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Boris",
+      "last_name": "Bosiak",
+      "permalink": "boris-bosiak",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Frantisek",
+      "last_name": "Mazuch",
+      "permalink": "frantisek-mazuch",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Appointment-Plus",
+      "permalink": "stormsource-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0017/8040/178040v2-max-150x150.jpg"],
+          [[250,
+            61],
+           "assets/images/resized/0017/8040/178040v2-max-250x250.jpg"],
+          [[450,
+            111],
+           "assets/images/resized/0017/8040/178040v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SuperSaaS",
+      "permalink": "supersaas",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0002/3941/23941v2-max-150x150.png"],
+          [[168,
+            65],
+           "assets/images/resized/0002/3941/23941v2-max-250x250.png"],
+          [[168,
+            65],
+           "assets/images/resized/0002/3941/23941v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Setster",
+      "permalink": "setster",
+      "image":
+       {"available_sizes":
+         [[[120,
+            42],
+           "assets/images/resized/0003/9369/39369v2-max-150x150.jpg"],
+          [[120,
+            42],
+           "assets/images/resized/0003/9369/39369v2-max-250x250.jpg"],
+          [[120,
+            42],
+           "assets/images/resized/0003/9369/39369v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Brno offices",
+    "address1": "U vod\u00e1rny 2a",
+    "address2": "",
+    "zip_code": "61600",
+    "city": "Brno",
+    "state_code": null,
+    "country_code": "CZE",
+    "latitude": 49.2240051,
+    "longitude": 16.5747142}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://thenextweb.com/eu/2012/06/11/czech-startup-accelerator-starcube-hosts-portals-for-flyers-skiers-bikers-and-more/",
+    "title": "Czech startup accelerator Starcube hosts portals for flyers, skiers, bikers and more"}]}

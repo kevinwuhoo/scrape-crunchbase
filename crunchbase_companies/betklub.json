@@ -1,0 +1,131 @@
+{"name": "BetKlub",
+ "permalink": "betklub",
+ "crunchbase_url": "http://www.crunchbase.com/company/betklub",
+ "homepage_url": "http://www.betklub.com",
+ "blog_url": "http://blog.betklub.com",
+ "blog_feed_url": "http://feeds2.feedburner.com/betklub",
+ "twitter_username": "jpreaumont",
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-betting, social-gambling, gaming, betting",
+ "alias_list": null,
+ "email_address": "julien@betklub.com",
+ "phone_number": "+33647570815",
+ "description": "Social Betting",
+ "created_at": "Thu Jun 18 14:50:03 UTC 2009",
+ "updated_at": "Thu Jun 18 23:54:30 UTC 2009",
+ "overview": "\u003Cp\u003EBetKlub is a social based online betting platform that lets its users bet freely on any area of interest and against any member of the community.\u003C/p\u003E\n\n\u003Cp\u003ERegistered users can send private bets to direct friend(s) or specific groups of interest. They can also set their bet as public and let the whole community bet on it. Other members are informed about their network\u00e2\u20ac\u2122s activity through information feeds and can easily jump in, transfer or comment any bet that comes around.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0004/9445/49445v2-max-150x150.jpg"],
+     [[250,
+       93],
+      "assets/images/resized/0004/9445/49445v2-max-250x250.jpg"],
+     [[289,
+       108],
+      "assets/images/resized/0004/9445/49445v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 founder",
+    "person":
+     {"first_name": "Julien",
+      "last_name": "de Pr\u00c3\u00a9aumont",
+      "permalink": "julien-de-praumont",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MyPronostic",
+      "permalink": "mypronostic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/0107/20107v2-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0002/0107/20107v2-max-250x250.png"],
+          [[450,
+            128],
+           "assets/images/resized/0002/0107/20107v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FanDuel",
+      "permalink": "fanduel",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0010/8342/108342v1-max-150x150.png"],
+          [[193,
+            46],
+           "assets/images/resized/0010/8342/108342v1-max-250x250.png"],
+          [[193,
+            46],
+           "assets/images/resized/0010/8342/108342v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Alexandre Diehl",
+      "permalink": "alexandre-diehl",
+      "image": null}}],
+ "total_money_raised": "\u20ac91k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 91000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2009,
+    "funded_month": 6,
+    "funded_day": 8,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Paris Office",
+    "address1": "17 rue Eug\u00c3\u00a8ne Varlin",
+    "address2": "",
+    "zip_code": "75010",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.8787606,
+    "longitude": 2.3639174}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[86,
+        150],
+       "assets/images/resized/0004/9444/49444v2-max-150x150.jpg"],
+      [[143,
+        250],
+       "assets/images/resized/0004/9444/49444v2-max-250x250.jpg"],
+      [[258,
+        450],
+       "assets/images/resized/0004/9444/49444v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://apps.facebook.com/betklub",
+    "title": "Facebook application"}]}

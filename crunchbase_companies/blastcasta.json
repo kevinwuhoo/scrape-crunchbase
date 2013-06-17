@@ -1,0 +1,98 @@
+{"name": "BlastCasta",
+ "permalink": "blastcasta",
+ "crunchbase_url": "http://www.crunchbase.com/company/blastcasta",
+ "homepage_url": "http://www.blastcasta.com/",
+ "blog_url": "http://www.blastcasta.com/blog.aspx",
+ "blog_feed_url": "http://www.blastcasta.com/rss.aspx",
+ "twitter_username": null,
+ "category_code": "public_relations",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rss, atom, feed-processing, feed-tools, feed-landing-page, api, add-fresh-content, add-news-ticker, mashup",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Dec 16 06:25:00 UTC 2008",
+ "updated_at": "Wed Dec 31 19:04:28 UTC 2008",
+ "overview": "\u003Cp\u003EBlastCasta\u0026#8217;s main goal is to promote RSS and Atom feed usage by providing a number of content feed tools to publishers, developers, and readers. Users of BlastCasta\u0026#8217;s services can customize feeds, add feed content to their websites, and use customized feeds directly in their applications by calling the BlastCasta API.\u003C/p\u003E\n\n\u003Cp\u003EBlastCasta allows any user to combine, filter, sort, convert format, and translate feeds between different languages. Feed publishers can create custom feed-landing pages for their feeds that allow readers to subscribe and use most of the BlastCasta services on a feed in one place. In this way, the BlastCasta feed-landing page helps readers gain an appreciation for the power of content feeds. As an example, readers that view a feed-landing page for a particular feed can get a translated version of the feed on-the-fly with just a few clicks, and can then subscribe to it or add the content to one of their websites, which could help the feed publisher gain international visitors.\u003C/p\u003E\n\n\u003Cp\u003EBlastCasta also provides a feed-creation service to users so they can easily generate their own feeds from scratch and also use the BlastCasta services on their feeds.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0003/1808/31808v2-max-150x150.png"],
+     [[200,
+       40],
+      "assets/images/resized/0003/1808/31808v2-max-250x250.png"],
+     [[200,
+       40],
+      "assets/images/resized/0003/1808/31808v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "BlastCasta Feed-Processing Engine",
+    "permalink": "blastcasta-feed-processing-engine",
+    "image": null},
+   {"name": "BlastCasta Add News Wizard",
+    "permalink": "blastcasta-add-news-wizard",
+    "image": null},
+   {"name": "BlastCasta API",
+    "permalink": "blastcasta-api",
+    "image": null},
+   {"name": "BlastCasta Feed-Landing Page",
+    "permalink": "blastcasta-feed-landing-page",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "FeedBurner",
+      "permalink": "feedburner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            120],
+           "assets/images/resized/0000/3292/3292v9-max-150x150.png"],
+          [[250,
+            200],
+           "assets/images/resized/0000/3292/3292v9-max-250x250.png"],
+          [[325,
+            260],
+           "assets/images/resized/0000/3292/3292v9-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        113],
+       "assets/images/resized/0003/1807/31807v2-max-150x150.png"],
+      [[250,
+        189],
+       "assets/images/resized/0003/1807/31807v2-max-250x250.png"],
+      [[450,
+        341],
+       "assets/images/resized/0003/1807/31807v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

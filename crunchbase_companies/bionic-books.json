@@ -1,0 +1,134 @@
+{"name": "Bionic Books",
+ "permalink": "bionic-books",
+ "crunchbase_url": "http://www.crunchbase.com/company/bionic-books",
+ "homepage_url": "http://www.bionicbooks.com",
+ "blog_url": "http://bionicbooks.wordpress.com/",
+ "blog_feed_url": "http://bionicbooks.wordpress.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "accountancy, startup, bookkeeping, accounting, business-services",
+ "alias_list": null,
+ "email_address": "jsvaughan@gmail.com",
+ "phone_number": "+44 1276 22251",
+ "description": null,
+ "created_at": "Wed Sep 03 14:09:32 UTC 2008",
+ "updated_at": "Sat Mar 14 14:42:53 UTC 2009",
+ "overview": "\u003Cp\u003EBionic Books is a web based accountancy application.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       59],
+      "assets/images/resized/0002/4524/24524v2-max-150x150.png"],
+     [[200,
+       79],
+      "assets/images/resized/0002/4524/24524v2-max-250x250.png"],
+     [[200,
+       79],
+      "assets/images/resized/0002/4524/24524v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Bionic Books",
+    "permalink": "bionic-books",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Coding monkey",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Vaughan",
+      "permalink": "jon-vaughan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Accounting genius",
+    "person":
+     {"first_name": "Trish",
+      "last_name": "Monks",
+      "permalink": "trish-monks",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Xero",
+      "permalink": "xero",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-150x150.png"],
+          [[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-250x250.png"],
+          [[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Quickbooks",
+      "permalink": "quickbooks",
+      "image": null}},
+   {"competitor":
+     {"name": "LessAccounting",
+      "permalink": "lessaccounting",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0001/7409/17409v4-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0001/7409/17409v4-max-250x250.jpg"],
+          [[450,
+            300],
+           "assets/images/resized/0001/7409/17409v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "38 Watchetts Road",
+    "address2": "",
+    "zip_code": "GU152PB",
+    "city": "Camberley",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,109 @@
+{"name": "SoundOut",
+ "permalink": "soundout",
+ "crunchbase_url": "http://www.crunchbase.com/company/soundout",
+ "homepage_url": "http://www.soundout.com",
+ "blog_url": "http://www.soundout.com/Blog.php",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music, music-analytics, music-insights",
+ "alias_list": null,
+ "email_address": "info@soundout.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Jan 09 17:54:29 UTC 2012",
+ "updated_at": "Fri Jan 13 00:44:03 UTC 2012",
+ "overview": "\u003Cp\u003ESoundOut is the market research and audience insight tool for new music.\u003C/p\u003E\n\n\u003Cp\u003EEvery track submitted to SoundOut is fed randomly and in real-time to 80 independent reviewers on the sister site, Slicethepie (or 200 reviewers for SoundOut Plus reports). They are asked to respond objectively with their rating and honest feedback. These reviews and ratings are then automatically analysed by semantic technologies and compared against over 50,000 other tracks that have already been processed through SoundOut to produce a detailed SoundOut report.\u003C/p\u003E\n\n\u003Cp\u003ERecord labels, publishers and managers can use SoundOut to assist in their A\u0026amp;R work for artists and songs, and decisions around next single releases and album choices, pre-mastered recordings and marketing strategies for tracks and artists. Radio stations are using the service to help structure their weekly playlists.\u003C/p\u003E\n\n\u003Cp\u003ESoundOut is a product of Slicethepie, a company founded by David Courtier-Dutton in 2006 to help unknown artists get funding. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0016/9388/169388v2-max-150x150.png"],
+     [[216,
+       60],
+      "assets/images/resized/0016/9388/169388v2-max-250x250.png"],
+     [[216,
+       60],
+      "assets/images/resized/0016/9388/169388v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Courtier-Dutton",
+      "permalink": "david-courtier-dutton",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "HitPredictor",
+      "permalink": "hitpredictor",
+      "image": null}},
+   {"competitor":
+     {"name": "RateTheMusic",
+      "permalink": "ratethemusic",
+      "image": null}},
+   {"competitor":
+     {"name": "MusicXray",
+      "permalink": "musicxray",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0006/4830/64830v2-max-150x150.jpg"],
+          [[250,
+            50],
+           "assets/images/resized/0006/4830/64830v2-max-250x250.jpg"],
+          [[350,
+            71],
+           "assets/images/resized/0006/4830/64830v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.soundout.com/Article.php?thisArticle=2164",
+    "source_description": "Leading music insight provider SoundOut secures $2 million funding",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 7,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.bloomberg.com/news/2011-11-01/soundout-predicts-music-hits-with-reviews-linguistic-analysis.html",
+    "title": "SoundOut Predicts Music Hits With Reviews, Linguistic Analysis"}]}

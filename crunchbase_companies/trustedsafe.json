@@ -1,0 +1,157 @@
+{"name": "trustedsafe",
+ "permalink": "trustedsafe",
+ "crunchbase_url": "http://www.crunchbase.com/company/trustedsafe",
+ "homepage_url": "http://www.trustedsafe.de",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "trustedsafe",
+ "category_code": "security",
+ "number_of_employees": 8,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 16,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, document-store, privacy, data-protection-law, compliance, security",
+ "alias_list": null,
+ "email_address": "walter.seemayer@trustedsafe.de",
+ "phone_number": "+493039809107",
+ "description": "Privacy for the cloud",
+ "created_at": "Thu Sep 13 07:26:38 UTC 2012",
+ "updated_at": "Tue Sep 18 20:33:55 UTC 2012",
+ "overview": "\u003Cp\u003ESecure and data protection law compliant storage and transfer of documents in the clouds\u003C/p\u003E\n\n\u003Cp\u003EBased on the research of the Fraunhofer Institute FOKUS, trustedSafe GmbH is developing a product, the trustedSafe that enables trustworthy, secure and data protection law compliant storage and transfer of documents in public and private clouds. The trustedSafe product ensures that only the owner of a document (not the provider of the system) has full control over it and can grant access to it. \nThe cloud distributed environment provides the necessary infrastructure for trust and safety through a combination of secure methods that also ensure that data is accessible in case a storage location is not available. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Walter",
+      "last_name": "Seemayer",
+      "permalink": "walter-seemayer",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mario",
+      "last_name": "Briana",
+      "permalink": "mario-briana",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Brainloop",
+      "permalink": "brainloop",
+      "image":
+       {"available_sizes":
+         [[[149,
+            66],
+           "assets/images/resized/0007/9024/79024v1-max-150x150.jpg"],
+          [[149,
+            66],
+           "assets/images/resized/0007/9024/79024v1-max-250x250.jpg"],
+          [[149,
+            66],
+           "assets/images/resized/0007/9024/79024v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TeamDrive",
+      "permalink": "teamdrive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0011/7852/117852v2-max-150x150.png"],
+          [[204,
+            44],
+           "assets/images/resized/0011/7852/117852v2-max-250x250.png"],
+          [[204,
+            44],
+           "assets/images/resized/0011/7852/117852v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wuala",
+      "permalink": "wuala",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0002/2340/22340v4-max-150x150.png"],
+          [[240,
+            160],
+           "assets/images/resized/0002/2340/22340v4-max-250x250.png"],
+          [[240,
+            160],
+           "assets/images/resized/0002/2340/22340v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "HTGF",
+         "permalink": "htgf-2",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquater",
+    "address1": "Helmholzstr. 13/14",
+    "address2": "",
+    "zip_code": "10587",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        78],
+       "assets/images/resized/0021/1121/211121v2-max-150x150.png"],
+      [[250,
+        130],
+       "assets/images/resized/0021/1121/211121v2-max-250x250.png"],
+      [[450,
+        235],
+       "assets/images/resized/0021/1121/211121v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://innovation.mfg.de/de/ueber-die-mfg/presse/sichere-datenubertragung-im-cloud-computing-uberzeugt-datenschutzer-und-investoren-1.10441",
+    "title": "winner of the bwcon best business idea award"}]}

@@ -1,0 +1,96 @@
+{"name": "myContactCard",
+ "permalink": "mycontactcard",
+ "crunchbase_url": "http://www.crunchbase.com/company/mycontactcard",
+ "homepage_url": "http://www.mycontactcard.com/",
+ "blog_url": "http://blog.mycontactcard.com/",
+ "blog_feed_url": "feed://blog.mycontactcard.com/feed/rss/",
+ "twitter_username": "mycontactcard",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "949-309-3099",
+ "description": "Email Signature Cards",
+ "created_at": "Thu Dec 24 21:54:27 UTC 2009",
+ "updated_at": "Mon Feb 08 19:19:40 UTC 2010",
+ "overview": "\u003Cp\u003EmyContactCard is an innovator of Email Signature Technology Headquartered in Irvine, California. The company has developed the next generation of email signature applications for personal and business usage. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0007/1122/71122v1-max-150x150.png"],
+     [[250,
+       36],
+      "assets/images/resized/0007/1122/71122v1-max-250x250.png"],
+     [[254,
+       37],
+      "assets/images/resized/0007/1122/71122v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Leon",
+      "last_name": "Shwetz",
+      "permalink": "leon-shwetz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Lambright",
+      "permalink": "richard-lambright",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$60k",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1420178/000101968709004683/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC D",
+    "raised_amount": 60000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 12,
+    "funded_day": 24,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "8001 Irvine Center Drive",
+    "address2": "Suite 400",
+    "zip_code": "92618",
+    "city": "Irvine",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.facebook.com/pages/myContactCard/36780150862",
+    "title": "Facebook"},
+   {"external_url": "http://www.myspace.com/mycontactcard",
+    "title": "MySpace"}]}

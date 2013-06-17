@@ -1,0 +1,105 @@
+{"name": "FatFractal",
+ "permalink": "fatfractal",
+ "crunchbase_url": "http://www.crunchbase.com/company/fatfractal",
+ "homepage_url": "http://www.fatfractal.com",
+ "blog_url": "http://fatfractal.com/beta/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "fatfractal",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "backend, client-side, server-side, events, custom-code, api, apis, server-extension, console, programming, programmer, language, platform, mobile, web, application, javascript, html5, objective-c, java, jvm, service, cloud, baas, paas, iaas, server, socia",
+ "alias_list": null,
+ "email_address": "info@fatfractal.com",
+ "phone_number": "",
+ "description": "Platform for Apps with Cloud Backends",
+ "created_at": "Sun Sep 09 18:05:36 UTC 2012",
+ "updated_at": "Tue Sep 18 20:47:16 UTC 2012",
+ "overview": "\u003Cp\u003EFatFractal offers an applications development platform that combines the power of an engine-based Platform as a Service (PaaS) with the elegance and simplicity of a Backend as a Service (BaaS), so developers can easily go from code to cloud. \u003C/p\u003E\n\n\u003Cp\u003EDevelopers build native apps for mobile, web and any connected device the way they should be built: quickly and efficiently, leveraging native code on the clientside as well as harnessing the power of the backend.  \u003C/p\u003E\n\n\u003Cp\u003EAs developers ourselves, the founders of the company recognized that creating applications with a cloud backend was far too hard. Since we couldn\u2019t find a solution for creating apps with the optimal application architecture for the cloud, we built one. \u003C/p\u003E\n\n\u003Cp\u003EBefore FatFractal, developers could spend half their effort on busy-work, configuring an infrastructure, setting up a software stack, managing scalability and optimizing performance and security. FatFractal eliminates all that busy work as well as the need to write boilerplate code. With FatFractal, developers can focus on creating engaging and dynamic apps. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0021/0539/210539v2-max-150x150.jpg"],
+     [[250,
+       63],
+      "assets/images/resized/0021/0539/210539v2-max-250x250.jpg"],
+     [[450,
+       114],
+      "assets/images/resized/0021/0539/210539v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Lasner",
+      "permalink": "david-lasner",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Nickels",
+      "permalink": "kevin-nickels",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Gary",
+      "last_name": "Casey",
+      "permalink": "gary-casey",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Wells",
+      "permalink": "dave-wells",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head Business Development",
+    "person":
+     {"first_name": "Dina",
+      "last_name": "Matta",
+      "permalink": "dina-matta",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Mic",
+      "last_name": "Holst",
+      "permalink": "mic-holst",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blogs.wsj.com/venturecapital/2012/09/10/the-daily-start-up-fashionplaytes-stitches-up-5m-for-tween-clothing-design/?mod=google_news_blog",
+    "title": "WSJ Announces FatFractal"}]}

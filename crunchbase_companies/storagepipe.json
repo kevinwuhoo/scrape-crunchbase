@@ -1,0 +1,102 @@
+{"name": "Storagepipe",
+ "permalink": "storagepipe",
+ "crunchbase_url": "http://www.crunchbase.com/company/storagepipe",
+ "homepage_url": "http://www.storagepipe.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 20,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-backup, backup, online-data-backup, email-archiving, e-mail-archiving, online-storage, online-data-storage, remote-backup, remote-data-backup",
+ "alias_list": null,
+ "email_address": "sales@storagepipe.com",
+ "phone_number": "416-657-2200",
+ "description": null,
+ "created_at": "Wed Jun 11 13:31:48 UTC 2008",
+ "updated_at": "Wed Apr 15 06:12:20 UTC 2009",
+ "overview": "\u003Cp\u003EStoragepipe provides online storage and data protection solutions. The services help companies and users protect information including backup, recovery and archiving.   In addition to online data backup, Storagepipe offers continuous data protection and email archiving services.  All of Storagepipe\u0026#8217;s services are offered in a hosted software-as-a-service model.  Storagepipe also offers partnership programs for service providers to offer online backup.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0002/0259/20259v2-max-150x150.png"],
+     [[250,
+       71],
+      "assets/images/resized/0002/0259/20259v2-max-250x250.png"],
+     [[450,
+       129],
+      "assets/images/resized/0002/0259/20259v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Storagepipe CDP",
+    "permalink": "storagepipe-cdp",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Steven",
+      "last_name": "Rodin",
+      "permalink": "steven-rodin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SwapDrive",
+      "permalink": "swapdrive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0002/0220/20220v1-max-150x150.png"],
+          [[175,
+            62],
+           "assets/images/resized/0002/0220/20220v1-max-250x250.png"],
+          [[175,
+            62],
+           "assets/images/resized/0002/0220/20220v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Livevault",
+      "permalink": "livevault",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "95 St. Clair Ave.",
+    "address2": "W Suite 1403",
+    "zip_code": "M4V-1N6",
+    "city": "Toronto",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 43.6870156,
+    "longitude": -79.3990795}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://searchitchannel.techtarget.com/generic/0,295582,sid96_gci1296406,00.html#",
+    "title": "Partner Program Checklist"},
+   {"external_url": "http://biz.yahoo.com/iw/071003/0310474.html",
+    "title": "Service Provider Platform Launch"},
+   {"external_url": "http://www.theglobeandmail.com/servlet/story/RTGAM.20070516.wgtdataback0517/BNStory/GlobeTQ/home",
+    "title": "Globe and Mail - Online Storage for Business"}]}

@@ -1,0 +1,123 @@
+{"name": "Shoutify",
+ "permalink": "shoutify",
+ "crunchbase_url": "http://www.crunchbase.com/company/shoutify",
+ "homepage_url": "http://www.shoutify.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Shoutify",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, location-based, offers, discover, real-time, mobile-marketing",
+ "alias_list": null,
+ "email_address": "info@shoutify.de",
+ "phone_number": "",
+ "description": "Discover new places and get shoutify'd!",
+ "created_at": "Tue Nov 15 13:39:35 UTC 2011",
+ "updated_at": "Wed May 23 03:07:29 UTC 2012",
+ "overview": "\u003Cp\u003EShoutify is a location based mobile application to discover new places nearby and to get the latest news (we call it shouts) of the locations.\u003C/p\u003E\n\n\u003Cp\u003ETo the users Shoutify offers a great place to discover new Places around them and to get the latest news e.g. offers or event information. Our users can use Shoutify e.g. to organize trips by collecting locations in lists, or stay tuned with their favorite locations with a personal news feed. More to come\u0026#8230;\u003C/p\u003E\n\n\u003Cp\u003EOn the other side Shoutify provides shops and local businesses a very simple and secure marketing service to publish their offers, events or news to customers near them. Directly on their mobile phone.\u003C/p\u003E\n\n\u003Cp\u003EWe\u0026#8217;re are a startup from germany, just beginning. Our plan for the future is to simplify the mobile experience for discovering great new places nearby and to offer a huge variety of usefull content to our users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       82],
+      "assets/images/resized/0016/2472/162472v4-max-150x150.png"],
+     [[200,
+       110],
+      "assets/images/resized/0016/2472/162472v4-max-250x250.png"],
+     [[200,
+       110],
+      "assets/images/resized/0016/2472/162472v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Kacmaczyk",
+      "permalink": "daniel-kacmaczyk",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Dahmer",
+      "permalink": "david-dahmer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Frank",
+      "last_name": "Kacmaczyk",
+      "permalink": "frank-kacmaczyk",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Everplaces",
+      "permalink": "everplaces",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0014/3259/143259v2-max-150x150.png"],
+          [[196,
+            98],
+           "assets/images/resized/0014/3259/143259v2-max-250x250.png"],
+          [[196,
+            98],
+           "assets/images/resized/0014/3259/143259v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "urbantag",
+      "permalink": "urbantag",
+      "image":
+       {"available_sizes":
+         [[[150,
+            118],
+           "assets/images/resized/0018/1198/181198v2-max-150x150.png"],
+          [[188,
+            148],
+           "assets/images/resized/0018/1198/181198v2-max-250x250.png"],
+          [[188,
+            148],
+           "assets/images/resized/0018/1198/181198v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        85],
+       "assets/images/resized/0018/5025/185025v10-max-150x150.jpg"],
+      [[250,
+        141],
+       "assets/images/resized/0018/5025/185025v10-max-250x250.jpg"],
+      [[450,
+        255],
+       "assets/images/resized/0018/5025/185025v10-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://partner.shoutify.de",
+    "title": "Partner-Information"}]}

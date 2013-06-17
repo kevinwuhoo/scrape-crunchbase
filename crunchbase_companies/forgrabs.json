@@ -1,0 +1,133 @@
+{"name": "ForGrabs",
+ "permalink": "forgrabs",
+ "crunchbase_url": "http://www.crunchbase.com/company/forgrabs",
+ "homepage_url": "http://4grabs.org",
+ "blog_url": "http://forgrabs.com",
+ "blog_feed_url": "http://forgrabs.com/index.php?format=feed\u0026type=rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "classified-ads, user-contributed-local-news, job-listings, resumes",
+ "alias_list": "",
+ "email_address": "steveruss@forgrabs.com",
+ "phone_number": "831/239-8078",
+ "description": "Local Community Building",
+ "created_at": "Wed Nov 12 01:51:02 UTC 2008",
+ "updated_at": "Tue Apr 07 13:23:46 UTC 2009",
+ "overview": "\u003Cp\u003EForGrabs develops tools that helps individuals build community at the hyper-local level.\u003C/p\u003E\n\n\u003Cp\u003EForGrabs first internet tool is 4grabs.org Incorporating elements of Craigslist, Kijiji, Gumtree, Freecycle and other online classified sites.\u003C/p\u003E\n\n\u003Cp\u003EUnlike these other classified listing sites which establish context by defining geographical regions or cities, 4grabs.org geo-tags user contributed postings by latitude and longitude. The search engine then returns the 50 closest postings displayed on a community map by proximity to the users search location using the Google Maps api.\u003C/p\u003E\n\n\u003Cp\u003EBecause 4grabs.org doesn\u0026#8217;t define areas by region/city, it works in every city and rural area in the world.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0002/8331/28331v2-max-150x150.png"],
+     [[201,
+       49],
+      "assets/images/resized/0002/8331/28331v2-max-250x250.png"],
+     [[201,
+       49],
+      "assets/images/resized/0002/8331/28331v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "4grabs.org",
+    "permalink": "4grabs-org",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Russ",
+      "permalink": "steve-russ",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Mueller",
+      "permalink": "andrew-mueller",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Craigslist",
+      "permalink": "craigslist",
+      "image":
+       {"available_sizes":
+         [[[127,
+            39],
+           "assets/images/resized/0001/2301/12301v1-max-150x150.png"],
+          [[127,
+            39],
+           "assets/images/resized/0001/2301/12301v1-max-250x250.png"],
+          [[127,
+            39],
+           "assets/images/resized/0001/2301/12301v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Topix",
+      "permalink": "topix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/0706/706v1-max-150x150.png"],
+          [[200,
+            101],
+           "assets/images/resized/0000/0706/706v1-max-250x250.png"],
+          [[200,
+            101],
+           "assets/images/resized/0000/0706/706v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gumtree",
+      "permalink": "gumtree",
+      "image":
+       {"available_sizes":
+         [[[139,
+            138],
+           "assets/images/resized/0002/6239/26239v1-max-150x150.png"],
+          [[139,
+            138],
+           "assets/images/resized/0002/6239/26239v1-max-250x250.png"],
+          [[139,
+            138],
+           "assets/images/resized/0002/6239/26239v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "p.o.box 1618",
+    "address2": "",
+    "zip_code": "95073",
+    "city": "Soquel",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.0391044,
+    "longitude": -121.958687}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.scsextra.com/story.php?sid=79798",
+    "title": "Soquel Man Launches Web Search Company"},
+   {"external_url": "http://www.gtweekly.com/a-e/people/where-in-the-web",
+    "title": "Cyberspace gets even more 'local'"}]}

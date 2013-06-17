@@ -1,0 +1,114 @@
+{"name": "Baduku",
+ "permalink": "baduku",
+ "crunchbase_url": "http://www.crunchbase.com/company/baduku",
+ "homepage_url": "http://www.baduku.com",
+ "blog_url": "http://www.baduku.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "baduku",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "reviews, public-opinion, review-organization, realtime, realtime-crunchup09",
+ "alias_list": "",
+ "email_address": "nam@baduku.com",
+ "phone_number": "949-579-2238",
+ "description": "Opinion and Reviews Engine",
+ "created_at": "Fri Nov 20 21:50:41 UTC 2009",
+ "updated_at": "Thu May 30 12:22:33 UTC 2013",
+ "overview": "\u003Cp\u003EBaduku is an opinion engine that helps people make informed decisions or gauge public opinions about anything. Unlike other review sites that are just a collection of individual opinions presented separately, Baduku offers organization of opinions that merges the opinions of all users and ranks them by order of consensus.\u003C/p\u003E\n\n\u003Cp\u003EThe best way of describing it is that rather than having to read hundreds of individual reviews to get the whole picture about a topic. \u003C/p\u003E\n\n\u003Cp\u003EBaduku is scheduled to launch on January 15, 2010. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[134,
+       43],
+      "assets/images/resized/0006/7050/67050v1-max-150x150.png"],
+     [[134,
+       43],
+      "assets/images/resized/0006/7050/67050v1-max-250x250.png"],
+     [[134,
+       43],
+      "assets/images/resized/0006/7050/67050v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Founder",
+    "person":
+     {"first_name": "Namanh",
+      "last_name": "Vu Hoang",
+      "permalink": "namanh-vu-hoang-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO / Founder",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "Chang",
+      "permalink": "patrick-chang",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hunch",
+      "permalink": "hunch",
+      "image":
+       {"available_sizes":
+         [[[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-150x150.png"],
+          [[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-250x250.png"],
+          [[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Media Temple",
+      "permalink": "media-temple-2",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1722 W.  ",
+    "address2": "Adams Santa Ana,",
+    "zip_code": "CA 92704",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": 37.2980469,
+    "longitude": -121.951926}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\"480\" height=\"386\" id=\"utv402016\" name=\"utv_n_353899\"\u003E\u003Cparam name=\"flashvars\" value=\"loc=%2F\u0026amp;autoplay=false\u0026amp;vid=2602842\" /\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"src\" value=\"http://www.ustream.tv/flash/video/2602842\" /\u003E\u003Cembed flashvars=\"loc=%2F\u0026amp;autoplay=false\u0026amp;vid=2602842\" width=\"480\" height=\"386\" allowfullscreen=\"true\" allowscriptaccess=\"always\" id=\"utv402016\" name=\"utv_n_353899\" src=\"http://www.ustream.tv/flash/video/2602842\" type=\"application/x-shockwave-flash\" /\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EBaduku Demo at Real-Time Crunch Up 09\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[90,
+        150],
+       "assets/images/resized/0006/7171/67171v2-max-150x150.jpg"],
+      [[151,
+        250],
+       "assets/images/resized/0006/7171/67171v2-max-250x250.jpg"],
+      [[272,
+        450],
+       "assets/images/resized/0006/7171/67171v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

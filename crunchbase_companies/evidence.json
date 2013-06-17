@@ -1,0 +1,125 @@
+{"name": "Evidence",
+ "permalink": "evidence",
+ "crunchbase_url": "http://www.crunchbase.com/company/evidence",
+ "homepage_url": "http://www.evidence.eu.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "EvidenceTweets",
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 2002,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "embedded, linux, windows, android, vxworks, operating-system, os, c, software, control-system, matlab, scicoslab, labview, robotics, robot, computer-vision, motion-control, motor-control, automotive, erika-enterprise, qt",
+ "alias_list": null,
+ "email_address": "info@evidence.eu.com",
+ "phone_number": "",
+ "description": "Embedded software and Operating System",
+ "created_at": "Thu May 30 15:00:56 UTC 2013",
+ "updated_at": "Fri May 31 20:31:58 UTC 2013",
+ "overview": "\u003Cp\u003EWe are a company of about 20 high qualified Engineers. One third of us have a PhD degree. We also have over 10 years of experience in national and international research projects.\nJust like Paolo Gai \u201cpj\u201d says, we are \u201cHappy and Running\u201d.\nHappy because our company is young and open to innovation. This creates a suitable environment to exchange ideas and share competences between colleagues.\nRunning because our brains run really fast while solving problems and finding solutions to meet the needs of our customers.\nAre we smart enough to solve your technological problem?\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Sales and Marketing",
+    "person":
+     {"first_name": "Davide",
+      "last_name": "Migliore",
+      "permalink": "davide-migliore",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Wind River",
+      "permalink": "wind-river",
+      "image":
+       {"available_sizes":
+         [[[150,
+            16],
+           "assets/images/resized/0004/6783/46783v1-max-150x150.png"],
+          [[250,
+            26],
+           "assets/images/resized/0004/6783/46783v1-max-250x250.png"],
+          [[271,
+            29],
+           "assets/images/resized/0004/6783/46783v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MontaVista Software",
+      "permalink": "montavista",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/2491/32491v1-max-150x150.png"],
+          [[168,
+            56],
+           "assets/images/resized/0003/2491/32491v1-max-250x250.png"],
+          [[168,
+            56],
+           "assets/images/resized/0003/2491/32491v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "VECTOR",
+      "permalink": "vector",
+      "image":
+       {"available_sizes":
+         [[[144,
+            40],
+           "assets/images/resized/0001/9946/19946v2-max-150x150.jpg"],
+          [[144,
+            40],
+           "assets/images/resized/0001/9946/19946v2-max-250x250.jpg"],
+          [[144,
+            40],
+           "assets/images/resized/0001/9946/19946v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Develer",
+      "permalink": "develer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0016/7355/167355v2-max-150x150.png"],
+          [[250,
+            76],
+           "assets/images/resized/0016/7355/167355v2-max-250x250.png"],
+          [[450,
+            137],
+           "assets/images/resized/0016/7355/167355v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Evidence Srl",
+    "address1": "Via Carducci 56",
+    "address2": "",
+    "zip_code": "56010",
+    "city": "Pisa",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": 43.725898,
+    "longitude": 10.4207598}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

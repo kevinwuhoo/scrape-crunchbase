@@ -1,0 +1,139 @@
+{"name": "Streamy",
+ "permalink": "streamy",
+ "crunchbase_url": "http://www.crunchbase.com/company/streamy",
+ "homepage_url": "http://www.streamy.com/",
+ "blog_url": "http://blog.streamy.com/",
+ "blog_feed_url": "http://blog.streamy.com/?feed=atom",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2007,
+ "founded_month": 2,
+ "founded_day": 15,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 3,
+ "deadpooled_day": 2,
+ "deadpooled_url": "http://techcrunch.com/2010/03/02/streamy-zynga-facebook/",
+ "tag_list": "streamy, social-news, rss, feeds, data-portability",
+ "alias_list": null,
+ "email_address": "info@streamy.com",
+ "phone_number": "3109399278",
+ "description": "Discover and Share",
+ "created_at": "Mon May 12 22:46:17 UTC 2008",
+ "updated_at": "Tue Mar 02 18:39:31 UTC 2010",
+ "overview": "\u003Cp\u003EStreamy is a real-time personalized news site.  Our service aggregates news and activity, helps to filter it, and lets you share easily.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0001/8430/18430v6-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0001/8430/18430v6-max-250x250.png"],
+     [[300,
+       300],
+      "assets/images/resized/0001/8430/18430v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder and CEO",
+    "person":
+     {"first_name": "Don",
+      "last_name": "Mosites",
+      "permalink": "don-c-mosites",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0007/6956/76956v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0007/6956/76956v2-max-250x250.jpg"],
+          [[200,
+            300],
+           "assets/images/resized/0007/6956/76956v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder and CTO",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Gray",
+      "permalink": "jonathan-gray",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FriendFeed",
+      "permalink": "friendfeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1096/1096v1-max-150x150.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-250x250.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Netvibes",
+      "permalink": "netvibes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2974/2974v8-max-150x150.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-250x250.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bloglines",
+      "permalink": "bloglines",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0000/2734/2734v8-max-150x150.png"],
+          [[206,
+            60],
+           "assets/images/resized/0000/2734/2734v8-max-250x250.png"],
+          [[206,
+            60],
+           "assets/images/resized/0000/2734/2734v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "3701 Highland Ave",
+    "address2": "Ste 100",
+    "zip_code": "90266",
+    "city": "Manhattan Beach",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.901121,
+    "longitude": -118.418098}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

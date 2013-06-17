@@ -1,0 +1,114 @@
+{"name": "MelPay",
+ "permalink": "melpay",
+ "crunchbase_url": "http://www.crunchbase.com/company/melpay",
+ "homepage_url": "http://www.melpay.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "ecommerce",
+ "number_of_employees": 0,
+ "founded_year": 1985,
+ "founded_month": 2,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "payment-gateway, payment-service-provider, open-source-company",
+ "alias_list": null,
+ "email_address": "mmtercan@gmail.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sat Feb 14 20:06:44 UTC 2009",
+ "updated_at": "Mon May 11 17:57:25 UTC 2009",
+ "overview": "\u003Cp\u003EMelPay is an order process environment that enables advertisers to turn their ads into direct selling points.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0003/6584/36584v2-max-150x150.jpg"],
+     [[250,
+       96],
+      "assets/images/resized/0003/6584/36584v2-max-250x250.jpg"],
+     [[407,
+       157],
+      "assets/images/resized/0003/6584/36584v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "MelPay",
+    "permalink": "melpayments",
+    "image":
+     {"available_sizes":
+       [[[150,
+          57],
+         "assets/images/resized/0003/6587/36587v2-max-150x150.jpg"],
+        [[250,
+          96],
+         "assets/images/resized/0003/6587/36587v2-max-250x250.jpg"],
+        [[407,
+          157],
+         "assets/images/resized/0003/6587/36587v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Elshout",
+      "permalink": "mike-elshout",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder ",
+    "person":
+     {"first_name": "Melvin",
+      "last_name": "Tercan",
+      "permalink": "melvin-m-tercan",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0003/6578/36578v2-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0003/6578/36578v2-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0003/6578/36578v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EMelvin Tercan\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PayPal",
+      "permalink": "paypal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3943/3943v8-max-150x150.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-250x250.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

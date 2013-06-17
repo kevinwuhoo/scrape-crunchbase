@@ -1,0 +1,102 @@
+{"name": "hubbuzz.com",
+ "permalink": "hubbuzz",
+ "crunchbase_url": "http://www.crunchbase.com/company/hubbuzz",
+ "homepage_url": "http://www.hubbuzz.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 12,
+ "deadpooled_day": 15,
+ "deadpooled_url": "",
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@hubbuzz.com",
+ "phone_number": "720-407-2000",
+ "description": "Apartment search by neighborhood",
+ "created_at": "Tue Feb 12 19:33:21 UTC 2008",
+ "updated_at": "Thu Oct 06 00:34:42 UTC 2011",
+ "overview": "\u003Cp\u003EHubbuzz.com is a website that lets you search for apartment rentals in more than 650 neighborhoods across 15 U.S. markets to help you find the perfect place.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0001/1884/11884v1-max-150x150.png"],
+     [[168,
+       69],
+      "assets/images/resized/0001/1884/11884v1-max-250x250.png"],
+     [[168,
+       69],
+      "assets/images/resized/0001/1884/11884v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Hubbuzz",
+    "permalink": "hubbuzz",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder and Manager",
+    "person":
+     {"first_name": "April",
+      "last_name": "Thayer",
+      "permalink": "april-thayer-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rent.com",
+      "permalink": "rent-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0002/6242/26242v3-max-150x150.png"],
+          [[191,
+            55],
+           "assets/images/resized/0002/6242/26242v3-max-250x250.png"],
+          [[191,
+            55],
+           "assets/images/resized/0002/6242/26242v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$750k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 750000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "9000 E Nichols Ave  Ste 170",
+    "address2": "",
+    "zip_code": "80112",
+    "city": "Centennial",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.571417,
+    "longitude": -104.919597}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

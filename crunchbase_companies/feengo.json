@@ -1,0 +1,111 @@
+{"name": "Feengo",
+ "permalink": "feengo",
+ "crunchbase_url": "http://www.crunchbase.com/company/feengo",
+ "homepage_url": "http://www.feengo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "feengo",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "contact@feengo.com",
+ "phone_number": "",
+ "description": "Networking with a purpose",
+ "created_at": "Sat Sep 04 00:24:43 UTC 2010",
+ "updated_at": "Mon Feb 25 04:15:34 UTC 2013",
+ "overview": "\u003Cp\u003EFeengo is a web utility that connects people in a productive way.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0012/0183/120183v2-max-150x150.jpg"],
+     [[250,
+       108],
+      "assets/images/resized/0012/0183/120183v2-max-250x250.jpg"],
+     [[320,
+       139],
+      "assets/images/resized/0012/0183/120183v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co- Founder - COO",
+    "person":
+     {"first_name": "Andre",
+      "last_name": "Green",
+      "permalink": "andre-green",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, CEO",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Theogene",
+      "permalink": "stephen-theogene",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0023/6805/236805v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0023/6805/236805v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0023/6805/236805v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder, CDO",
+    "person":
+     {"first_name": "Luis",
+      "last_name": "Zamora",
+      "permalink": "luis-zamora",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, R\u0026D",
+    "person":
+     {"first_name": "Manny",
+      "last_name": "Mars",
+      "permalink": "manny-mars",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/44393786\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.feengo.com",
+    "title": "Feengo"}]}

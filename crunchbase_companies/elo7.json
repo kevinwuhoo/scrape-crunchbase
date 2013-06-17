@@ -1,0 +1,144 @@
+{"name": "Elo7",
+ "permalink": "elo7",
+ "crunchbase_url": "http://www.crunchbase.com/company/elo7",
+ "homepage_url": "http://www.elo7.com.br/",
+ "blog_url": "http://blog.elo7.com.br/",
+ "blog_feed_url": "",
+ "twitter_username": "elo7",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Jan 10 21:38:16 UTC 2012",
+ "updated_at": "Mon Mar 18 16:51:53 UTC 2013",
+ "overview": "\u003Cp\u003EElo7, a Brazilian marketplace for buying and selling handicraft products. Founded in 2008 by entrepreneurs Julian and Monica Ipolito and led by CEO Carlos Curioni, Elo7 is a marketplace that aims to foster trade handicraft products on-line, providing and a platform for both buyers and sellers. According to a written statement, the site has more than 75k registered craftsmen offering over 1.5m products. It has more than 40 million pageviews and 5 million visits per month.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0017/9243/179243v3-max-150x150.jpg"],
+     [[250,
+       105],
+      "assets/images/resized/0017/9243/179243v3-max-250x250.jpg"],
+     [[450,
+       189],
+      "assets/images/resized/0017/9243/179243v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Carlos",
+      "last_name": "Curioni",
+      "permalink": "carlos-curioni",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Guto",
+      "last_name": "Araujo",
+      "permalink": "guto-araujo",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Cukier",
+      "permalink": "daniel-cukier",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Ofelia Feliz",
+      "permalink": "ofelia-feliz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            113],
+           "assets/images/resized/0016/3173/163173v2-max-150x150.jpg"],
+          [[200,
+            152],
+           "assets/images/resized/0016/3173/163173v2-max-250x250.jpg"],
+          [[200,
+            152],
+           "assets/images/resized/0016/3173/163173v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.finsmes.com/2012/03/elo7-raises-funding-insight-venture-partners.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "Elo7 Raises Funding from Insight Venture Partners",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2012,
+    "funded_month": 3,
+    "funded_day": 16,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Insight Venture Partners",
+         "permalink": "insight-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               24],
+              "assets/images/resized/0001/0995/10995v3-max-150x150.png"],
+             [[250,
+               40],
+              "assets/images/resized/0001/0995/10995v3-max-250x250.png"],
+             [[303,
+               49],
+              "assets/images/resized/0001/0995/10995v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": null,
+    "source_url": "http://thenextweb.com/la/2012/07/30/brazilian-etsy-elo7-buys-argentine-competitor-bixti-to-expand-across-latin-america/http://thenextweb.com/la/2012/07/30/brazilian-etsy-elo7-buys-argentine-competitor-bixti-to-expand-across-latin-america/",
+    "source_description": "Brazilian Etsy Elo7 buys Argentine competitor Bixti to expand across Latin America",
+    "acquired_year": 2012,
+    "acquired_month": 7,
+    "acquired_day": 30,
+    "company":
+     {"name": "Bixti.com",
+      "permalink": "bixti-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            80],
+           "assets/images/resized/0015/4826/154826v2-max-150x150.jpg"],
+          [[250,
+            133],
+           "assets/images/resized/0015/4826/154826v2-max-250x250.jpg"],
+          [[450,
+            240],
+           "assets/images/resized/0015/4826/154826v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,78 @@
+{"name": "FeedFlix",
+ "permalink": "feedflix",
+ "crunchbase_url": "http://www.crunchbase.com/company/feedflix",
+ "homepage_url": "http://feedflix.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "feedflix-netflix-movies-dvd-rental",
+ "alias_list": null,
+ "email_address": "feedback@feedflix.com",
+ "phone_number": "408-835-0153",
+ "description": null,
+ "created_at": "Tue Apr 22 18:51:48 UTC 2008",
+ "updated_at": "Sat Sep 13 14:28:22 UTC 2008",
+ "overview": "\u003Cp\u003EFeedFlix is a free, 3rd party service for Netflix subscribers. Using the Personalized RSS feeds that Netflix makes available, FeedFlix allows a Netflix user to understand their own rental patterns better with the help of stats and graphs as well as enables them to  share a link to their Queue or Reviews. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0001/7576/17576v1-max-150x150.png"],
+     [[172,
+       52],
+      "assets/images/resized/0001/7576/17576v1-max-250x250.png"],
+     [[172,
+       52],
+      "assets/images/resized/0001/7576/17576v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Raghu",
+      "last_name": "Srinivasan",
+      "permalink": "raghu-srinivasan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "94087",
+    "city": "Sunnyvale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.35351,
+    "longitude": -122.030476}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://feedflix.com",
+    "title": "FeedFlix"}]}

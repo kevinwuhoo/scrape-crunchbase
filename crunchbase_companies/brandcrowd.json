@@ -1,0 +1,123 @@
+{"name": "BrandCrowd",
+ "permalink": "brandcrowd",
+ "crunchbase_url": "http://www.crunchbase.com/company/brandcrowd",
+ "homepage_url": "http://www.brandcrowd.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "brand_crowd",
+ "category_code": "public_relations",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "crowdsourcing, design, logos, ready-made-logos, graphic-design-services, template-logos, brands",
+ "alias_list": null,
+ "email_address": "help@brandcrowd.com",
+ "phone_number": "",
+ "description": "Online marketplace for ready-made logos",
+ "created_at": "Mon Jan 09 08:01:35 UTC 2012",
+ "updated_at": "Fri Jan 13 02:39:06 UTC 2012",
+ "overview": "\u003Cp\u003EBrandCrowd (formerly \u003Ca href=\"http://www.crunchbase.com/company/brandstack\" title=\"Brandstack\"\u003EBrandstack\u003C/a\u003E) is an online marketplace for premium, ready-made logos and brands. \u003C/p\u003E\n\n\u003Cp\u003EDesigners create a portfolio where they can upload completed but unused logos and brands. Buyers can freely browse thousands of designs for sale and purchase them for the price listed or make an offer for the designer to consider. Because the logos are pre-made, buyers can see them before they buy and once they\u0026#8217;ve bought the design, the buyer can download all the logo files immediately.\u003C/p\u003E\n\n\u003Cp\u003EBrandstack was acquired by crowdsourcing marketplace, \u003Ca href=\"http://www.crunchbase.com/company/designcrowd\" title=\"DesignCrowd\"\u003EDesignCrowd\u003C/a\u003E in December 2011. Following the acquisition DesignCrowd launched \u003Ca href=\"http://www.brandcrowd.com\" title=\"BrandCrowd\" rel=\"nofollow\"\u003EBrandCrowd\u003C/a\u003E and has combined the Brandstack service with the existing DesignCrowd community. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0016/9345/169345v2-max-150x150.png"],
+     [[250,
+       57],
+      "assets/images/resized/0016/9345/169345v2-max-250x250.png"],
+     [[292,
+       67],
+      "assets/images/resized/0016/9345/169345v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alec",
+      "last_name": "Lynch",
+      "permalink": "alec-lynch",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/1488/221488v2-max-150x150.png"],
+          [[230,
+            230],
+           "assets/images/resized/0022/1488/221488v2-max-250x250.png"],
+          [[230,
+            230],
+           "assets/images/resized/0022/1488/221488v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Arbolino",
+      "permalink": "adam-arbolino",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "http://www.brandbucket.com/",
+      "permalink": "http-www-brandbucket-com",
+      "image": null}},
+   {"competitor":
+     {"name": "http://www.99designs.com",
+      "permalink": "http-www-99designs-com",
+      "image": null}},
+   {"competitor":
+     {"name": "http://www.crowdspring.com",
+      "permalink": "http-www-crowdspring-com",
+      "image": null}},
+   {"competitor":
+     {"name": "http://www.stocklogos.com",
+      "permalink": "http-www-stocklogos-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "2000",
+    "city": "Sydney",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0016/9958/169958v2-max-150x150.png"],
+      [[250,
+        161],
+       "assets/images/resized/0016/9958/169958v2-max-250x250.png"],
+      [[450,
+        291],
+       "assets/images/resized/0016/9958/169958v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.startupsmart.com.au/growth/designcrowd-acquires-brandstack-launches-brandcrowd/201112214939.html",
+    "title": "DesignCrowd acquires Brandstack, launches BrandCrowd"},
+   {"external_url": "http://techcrunch.com/2011/12/20/brandstack-pulled-from-the-deadpool-acquired-by-designcrowd/",
+    "title": "Brandstack Pulled From The Deadpool, Acquired By DesignCrowd"}]}

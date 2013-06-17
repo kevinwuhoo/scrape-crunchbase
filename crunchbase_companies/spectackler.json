@@ -1,0 +1,121 @@
+{"name": "Spectackler",
+ "permalink": "spectackler",
+ "crunchbase_url": "http://www.crunchbase.com/company/spectackler",
+ "homepage_url": "http://www.spectackler.com",
+ "blog_url": "http://www.spectackler.com/posts",
+ "blog_feed_url": "http://www.spectackler.com/posts.rss",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "shopping, comparison, consumer-electronics",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Electronic Specification Comparisons",
+ "created_at": "Thu Dec 18 18:50:03 UTC 2008",
+ "updated_at": "Fri Nov 27 18:55:12 UTC 2009",
+ "overview": "\u003Cp\u003ESpectackler is an electronics specification comparison engine. It aims to tackle several major problems with online shopping:\n     - Searching is slow and cumbersome. On a usual online store you specify your search criteria, press submit, wait and see your results. If you change your mind you have to go through the same slow process again.\n     - Most comparison engines only let you search on a few attributes, like price and manufacturer.\n     - You may not make your mind up straight away and you need to come back to the search multiple times before you buy.\u003C/p\u003E\n\n\u003Cp\u003ESpectackler tries to solve these problems by offering a different search interface. The user is presented with a series of filters, e.g. sliders, tick boxes etc. which they can move and click. When the user changes a filter, the products on display change according to the filters in realtime. For an example see the notebooks page: http://www.spectackler.com/categories/2419-Notebooks.\u003C/p\u003E\n\n\u003Cp\u003EWhen the user has narrowed down their choices they can view a single page comparison of all their choices. If they still can\u0026#8217;t decide they can save their search and come back to it later or send it to a friend. For example here\u0026#8217;s a search I\u0026#8217;ve saved of laptops between $400-$1000 that have a 2GHz processor speed http://www.spectackler.com/saved_spectackles/21-Notebooks%20I%20like-Notebooks .\u003C/p\u003E\n\n\u003Cp\u003EWe\u0026#8217;ve done a screencast showing all the features in action here http://www.spectackler.com/pages/8-Screencast . \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       22],
+      "assets/images/resized/0003/2178/32178v1-max-150x150.png"],
+     [[250,
+       37],
+      "assets/images/resized/0003/2178/32178v1-max-250x250.png"],
+     [[349,
+       52],
+      "assets/images/resized/0003/2178/32178v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Spectackler comparison engine",
+    "permalink": "spectackler-comparison-engine",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Andy",
+      "last_name": "Dyer-Smith",
+      "permalink": "andy-dyer-smith",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TheFind",
+      "permalink": "thefind",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/3307/3307v10-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0000/3307/3307v10-max-250x250.png"],
+          [[450,
+            109],
+           "assets/images/resized/0000/3307/3307v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twenga",
+      "permalink": "twenga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0000/2551/2551v5-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0000/2551/2551v5-max-250x250.png"],
+          [[450,
+            132],
+           "assets/images/resized/0000/2551/2551v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        103],
+       "assets/images/resized/0003/2018/32018v2-max-150x150.png"],
+      [[250,
+        172],
+       "assets/images/resized/0003/2018/32018v2-max-250x250.png"],
+      [[450,
+        311],
+       "assets/images/resized/0003/2018/32018v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.appscout.com/2008/12/spectackler_compare_items_befo_1.php",
+    "title": "Spectackler: Compare Items Before Buying"},
+   {"external_url": "http://www.killerstartups.com/eCommerce/spectackler-com-find-compare-electronics-specs",
+    "title": "Spectackler.com - Find \u0026 Compare Electronics Specs"}]}

@@ -1,0 +1,152 @@
+{"name": "Offerti",
+ "permalink": "offerti",
+ "crunchbase_url": "http://www.crunchbase.com/company/offerti",
+ "homepage_url": "http://www.offerti.nl",
+ "blog_url": "http://blog.offerti.nl/",
+ "blog_feed_url": "http://blog.offerti.nl/feed",
+ "twitter_username": "Offerti",
+ "category_code": "enterprise",
+ "number_of_employees": 12,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "demand-based, marketplace, professional-services",
+ "alias_list": null,
+ "email_address": "helpdesk@offerti.nl",
+ "phone_number": "+31(0)20-6249345",
+ "description": "Demand-based services platf",
+ "created_at": "Mon Apr 02 12:39:51 UTC 2012",
+ "updated_at": "Thu Mar 14 16:41:48 UTC 2013",
+ "overview": "\u003Cp\u003Ewww.offerti.nl is demand-based platform for professional services. Companies looking for a professional place their assignment on this site for free. All the connected professionals have the chance to send out their offer within 24 hours.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       128],
+      "assets/images/resized/0018/3477/183477v2-max-150x150.png"],
+     [[128,
+       128],
+      "assets/images/resized/0018/3477/183477v2-max-250x250.png"],
+     [[128,
+       128],
+      "assets/images/resized/0018/3477/183477v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing director",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Seuren",
+      "permalink": "tom-seuren",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing director",
+    "person":
+     {"first_name": "Jules",
+      "last_name": "Weijdema",
+      "permalink": "jules-weijdema",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Daan",
+      "last_name": "Sanders",
+      "permalink": "daan-sanders",
+      "image": null}},
+   {"is_past": true,
+    "title": "COO",
+    "person":
+     {"first_name": "Mathieu",
+      "last_name": "Halkes",
+      "permalink": "mathieu-halkes",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Elance",
+      "permalink": "elance",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0001/7890/17890v17-max-150x150.jpg"],
+          [[250,
+            106],
+           "assets/images/resized/0001/7890/17890v17-max-250x250.jpg"],
+          [[377,
+            161],
+           "assets/images/resized/0001/7890/17890v17-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Marktplaats.nl",
+      "permalink": "marktplaats-nl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0002/6244/26244v1-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0002/6244/26244v1-max-250x250.png"],
+          [[255,
+            53],
+           "assets/images/resized/0002/6244/26244v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://www.nuzakelijk.nl/e-business/2667499/tmg-neemt-belang-in-offertinl.html",
+    "source_description": "TMG neemt belang in Offerti.nl ",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Telegraaf Media Groep (TMG)",
+         "permalink": "telegraaf-media-groep-tmg",
+         "image":
+          {"available_sizes":
+            [[[150,
+               35],
+              "assets/images/resized/0010/8243/108243v1-max-150x150.png"],
+             [[250,
+               59],
+              "assets/images/resized/0010/8243/108243v1-max-250x250.png"],
+             [[315,
+               75],
+              "assets/images/resized/0010/8243/108243v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Herengracht 262",
+    "address2": "",
+    "zip_code": "1016BV",
+    "city": "Amsterdam",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

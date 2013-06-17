@@ -1,0 +1,207 @@
+{"name": "whos.amung.us",
+ "permalink": "whos-amung-us",
+ "crunchbase_url": "http://www.crunchbase.com/company/whos-amung-us",
+ "homepage_url": "http://whos.amung.us",
+ "blog_url": "http://whos.amung.us/blog/",
+ "blog_feed_url": "http://feeds.amung.us/whosamungus",
+ "twitter_username": "whosamungus",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 3,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "widget, widgets, counter, stats, analytics, maps, real-time, tracking, live, blog",
+ "alias_list": "",
+ "email_address": "whos@amung.us",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Sep 19 23:34:04 UTC 2008",
+ "updated_at": "Wed Apr 10 21:57:34 UTC 2013",
+ "overview": "\u003Cp\u003EReal time analytics for your website, blog or social network profile.\u003C/p\u003E\n\n\u003Cp\u003Ewhos.amung.us provides a unique spin on traditional hit counters. The widget shows the number of live readers viewing your page, in real time. \u003C/p\u003E\n\n\u003Cp\u003EThe positive response to the whos.amung.us counter spawned a sister product, maps.amung.us. The maps widget shows in real time, the location of your site\u0026#8217;s current and previous visitors.\u003C/p\u003E\n\n\u003Cp\u003Ewhos.amung.us has unified stats pages, so no matter which widget you choose to display on your website, the stats pages present all information which may be gathered. For instance, if you elect to only use a counter widget, a map of your visitors is still available at the click of a button. \u003C/p\u003E\n\n\u003Cp\u003EStats pages include information on:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EPages being read, and the number of people reading them\u003C/li\u003E\n\u003Cli\u003EGeographic mapping of your visitors\u003C/li\u003E\n\u003Cli\u003EHistorical graphs, showing previous visits.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[57,
+       57],
+      "assets/images/resized/0002/5430/25430v4-max-150x150.jpg"],
+     [[57,
+       57],
+      "assets/images/resized/0002/5430/25430v4-max-250x250.jpg"],
+     [[57,
+       57],
+      "assets/images/resized/0002/5430/25430v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder and President",
+    "person":
+     {"first_name": "Christopher",
+      "last_name": "Shannon",
+      "permalink": "christopher-shannon",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Bart",
+      "last_name": "Bobrowski",
+      "permalink": "bart-bobrowski",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "W3Counter",
+      "permalink": "w3counter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0001/7378/17378v1-max-150x150.png"],
+          [[203,
+            40],
+           "assets/images/resized/0001/7378/17378v1-max-250x250.png"],
+          [[203,
+            40],
+           "assets/images/resized/0001/7378/17378v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "StatCounter",
+      "permalink": "statcounter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0005/3167/53167v1-max-150x150.png"],
+          [[250,
+            42],
+           "assets/images/resized/0005/3167/53167v1-max-250x250.png"],
+          [[275,
+            47],
+           "assets/images/resized/0005/3167/53167v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Woopra",
+      "permalink": "woopra",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/6588/16588v8-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0001/6588/16588v8-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/6588/16588v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Clicky Web Analytics",
+      "permalink": "get-clicky",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0002/4546/24546v1-max-150x150.png"],
+          [[250,
+            67],
+           "assets/images/resized/0002/4546/24546v1-max-250x250.png"],
+          [[254,
+            69],
+           "assets/images/resized/0002/4546/24546v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Chartbeat",
+      "permalink": "chartbeat",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0006/9595/69595v7-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0006/9595/69595v7-max-250x250.jpg"],
+          [[450,
+            93],
+           "assets/images/resized/0006/9595/69595v7-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MapLoco",
+      "permalink": "maploco",
+      "image": null}},
+   {"competitor":
+     {"name": "ClustrMaps",
+      "permalink": "clustrmaps",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0011/1365/111365v1-max-150x150.jpg"],
+          [[250,
+            59],
+           "assets/images/resized/0011/1365/111365v1-max-250x250.jpg"],
+          [[254,
+            60],
+           "assets/images/resized/0011/1365/111365v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sitemeter",
+      "permalink": "sitemeter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/3238/23238v1-max-150x150.png"],
+          [[226,
+            44],
+           "assets/images/resized/0002/3238/23238v1-max-250x250.png"],
+          [[226,
+            44],
+           "assets/images/resized/0002/3238/23238v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Calgary, ",
+    "address2": "",
+    "zip_code": "",
+    "city": "Alberta",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 51.022159,
+    "longitude": -114.09633}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0003/4285/34285v1-max-150x150.png"],
+      [[250,
+        136],
+       "assets/images/resized/0003/4285/34285v1-max-250x250.png"],
+      [[450,
+        245],
+       "assets/images/resized/0003/4285/34285v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.techcrunch.com/2007/03/31/more-traffic-transparency-with-whoamungus/",
+    "title": "TechCrunch first review"},
+   {"external_url": "http://news.cnet.com/8301-17939_109-9770608-2.html?tag=mncol",
+    "title": "CNET maps.amung.us review"},
+   {"external_url": "http://lifehacker.com/software/web-site-traffic/monitor-site-traffic-in-real+time-with-whosamungus-widget-247741.php",
+    "title": "Lifehacker review"}]}

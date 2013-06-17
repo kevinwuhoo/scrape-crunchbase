@@ -1,0 +1,83 @@
+{"name": "TidePowerd",
+ "permalink": "tidepowerd",
+ "crunchbase_url": "http://www.crunchbase.com/company/tidepowerd",
+ "homepage_url": "http://www.tidepowerd.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "tidepowerd",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gpu, gpgpu, hpc, high-performance-computing, -net, c, f, parallel, software-tools",
+ "alias_list": null,
+ "email_address": "info@tidepowerd.com",
+ "phone_number": "",
+ "description": "GPU computing made easy.",
+ "created_at": "Mon Nov 02 21:30:28 UTC 2009",
+ "updated_at": "Wed Oct 27 17:59:16 UTC 2010",
+ "overview": "\u003Cp\u003ETidePowerd is reducing the learning curve and development time associated with programming for Graphics Processor Units (GPUs) by allowing developers to write optimized code to GPUs using high-level (.NET-based) languages they are familiar with (C#, F#, VB.NET, etc\u00e2\u20ac\u00a6).\u003C/p\u003E\n\n\u003Cp\u003EGPU .NET:\u003C/p\u003E\n\n\u003Cp\u003ETheir flagship product contains a runtime and compiler integrated into Visual Studio that dynamically generates (JIT-compiles) hardware vendor-specific device code. \nThis means developers only need to write their program once, and it will run on different graphics hardware without the need to re-write. If there is no GPU in the system, the program will fall-back to regular .NET on the CPU.\u003C/p\u003E\n\n\u003Cp\u003EIt interoperates directly at the device driver level, not through proprietary compilers or SDKs, allowing the user to achieve much more flexibility than with other tools. \u003C/p\u003E\n\n\u003Cp\u003EVisit [www.tidepowerd.com] for more information. \u003C/p\u003E\n\n\u003Cp\u003EFollow them on twitter at @tidepowerd\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       106],
+      "assets/images/resized/0006/4727/64727v2-max-150x150.png"],
+     [[250,
+       177],
+      "assets/images/resized/0006/4727/64727v2-max-250x250.png"],
+     [[450,
+       320],
+      "assets/images/resized/0006/4727/64727v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "GPU.NET",
+    "permalink": "gpu-net",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Jack",
+      "last_name": "Pappas",
+      "permalink": "jack-pappas",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Nicolas",
+      "last_name": "Beecroft",
+      "permalink": "nicolas-beecroft",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.anandtech.com/show/3972/nvidia-gtc-2010-wrapup/6",
+    "title": "NVIDIA GTC 2010 Wrapup"},
+   {"external_url": "http://www.nvidia.com/content/GTC-2010/pdfs/2294_GTC2010.pdf",
+    "title": "GPU.NET with TidePowerd (GTC 2010)"},
+   {"external_url": "http://www.itwriting.com/blog/3198-gpu-programming-for-net.html",
+    "title": "GPU programming for .NET"}]}

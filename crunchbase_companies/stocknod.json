@@ -1,0 +1,108 @@
+{"name": "StockNod",
+ "permalink": "stocknod",
+ "crunchbase_url": "http://www.crunchbase.com/company/stocknod",
+ "homepage_url": "http://www.stocknod.com",
+ "blog_url": "http://blog.stocknod.com",
+ "blog_feed_url": "http://feeds.stocknod.com/stocknodblog",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 22,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "stock-trading-software, stock-alerts, stock-picks, saas-stock-analysis",
+ "alias_list": "",
+ "email_address": "jason@stocknod.com",
+ "phone_number": "866-845-3456",
+ "description": "Stock trading software",
+ "created_at": "Tue Feb 03 03:56:05 UTC 2009",
+ "updated_at": "Wed Dec 08 19:03:53 UTC 2010",
+ "overview": "\u003Cp\u003EStockNod is a stock trading software that automatically alerts you on when to buy and sell the stocks you own.  The webservice does this by leveraging the Nod\u0026#8217;s neural network that constantly monitors the stock markets; alerting on key news stories, industry related events, economic indicators, earnings announcements and estimates, and incorporates key technical and fundamental stock market analysis.  With StockNod stock alerts, subscribers simply sign up for an alerts account, add stock symbols, and the Nod takes over.  StockNod sends alerts on when to buy and when to sell your stocks. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       136],
+      "assets/images/resized/0003/5519/35519v2-max-150x150.png"],
+     [[250,
+       226],
+      "assets/images/resized/0003/5519/35519v2-max-250x250.png"],
+     [[450,
+       408],
+      "assets/images/resized/0003/5519/35519v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Stock Alerts",
+    "permalink": "stock-alerts-2",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Information Officer",
+    "person":
+     {"first_name": "David",
+      "last_name": "Yang",
+      "permalink": "david-yang",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Executive Officer",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "McGuire",
+      "permalink": "jason-mcguire",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Strategy Officer",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Collins",
+      "permalink": "ryan-collins",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Stock Market Data Feeds",
+    "is_past": false,
+    "provider":
+     {"name": "FinancialContent",
+      "permalink": "financialcontent",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Austin Office",
+    "address1": "5403 Carbine Circle",
+    "address2": "",
+    "zip_code": "78738",
+    "city": "Bee Cave",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.298143,
+    "longitude": -97.96114}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        117],
+       "assets/images/resized/0003/5518/35518v2-max-150x150.png"],
+      [[250,
+        196],
+       "assets/images/resized/0003/5518/35518v2-max-250x250.png"],
+      [[450,
+        353],
+       "assets/images/resized/0003/5518/35518v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,144 @@
+{"name": "Driftr",
+ "permalink": "driftr",
+ "crunchbase_url": "http://www.crunchbase.com/company/driftr",
+ "homepage_url": "http://www.driftr.com",
+ "blog_url": "http://blog.driftr.com",
+ "blog_feed_url": "http://blog.driftr.com/rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 0,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, community, trips, photos, flickr, slideshow, map, ajax, world, social, destinations, blogs, recommendations, tips",
+ "alias_list": null,
+ "email_address": "hello@driftr.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Jan 02 10:49:48 UTC 2008",
+ "updated_at": "Thu May 19 01:17:03 UTC 2011",
+ "overview": "\u003Cp\u003EDriftr is a new travel social network. With a sleek and simple web interface, Driftr lets users detail past trips or those in progress, ranking places to eat, places to stay and attractions. It includes a blog for each day of the trips users create. Driftr appears to have hundreds of thousands of locations built in when creating trips; users can add their own if it\u0026#8217;s not listed already.  \u003C/p\u003E\n\n\u003Cp\u003ETo set themselves apart from the crowd, Driftr uses a custom-made world map instead of the standard Google Maps mashup. The site\u0026#8217;s advertising is minimal and allows users to upload pictures associated with various parts of theirs trips or pulled up from Flickr. Driftr showcases these pictures with slideshows throughout the site.\u003C/p\u003E\n\n\u003Cp\u003EThe web travel industry is competitive with sites like \u003Ca href=\"http://www.crunchbase.com/company/plazes\" title=\"Plazes\"\u003EPlazes\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/TripAdvisor\" title=\"TripAdvisor\"\u003ETripAdvisor\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/TripAdvisor\" title=\"Dopplr\"\u003EDopplr\u003C/a\u003E. Expect Driftr to come out with some great features to help differentiate themselves from the slew of competitors.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0001/7283/17283v1-max-150x150.png"],
+     [[226,
+       70],
+      "assets/images/resized/0001/7283/17283v1-max-250x250.png"],
+     [[226,
+       70],
+      "assets/images/resized/0001/7283/17283v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Driftr.com",
+    "permalink": "driftr-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder, CCO",
+    "person":
+     {"first_name": "Sandra",
+      "last_name": "Eddy",
+      "permalink": "sandra-eddy",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder, CEO",
+    "person":
+     {"first_name": "Erick",
+      "last_name": "Laubach",
+      "permalink": "erick-laubach",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0001/6303/16303v6-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0001/6303/16303v6-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0001/6303/16303v6-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder, CTO",
+    "person":
+     {"first_name": "Ismail",
+      "last_name": "Elshareef",
+      "permalink": "ismail-elshareef",
+      "image":
+       {"available_sizes":
+         [[[141,
+            150],
+           "assets/images/resized/0003/6142/36142v4-max-150x150.jpg"],
+          [[235,
+            250],
+           "assets/images/resized/0003/6142/36142v4-max-250x250.jpg"],
+          [[410,
+            436],
+           "assets/images/resized/0003/6142/36142v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TripAdvisor",
+      "permalink": "tripadvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/2953/2953v18-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0000/2953/2953v18-max-250x250.jpg"],
+          [[450,
+            264],
+           "assets/images/resized/0000/2953/2953v18-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dopplr",
+      "permalink": "dopplr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0000/0436/436v1-max-150x150.png"],
+          [[186,
+            34],
+           "assets/images/resized/0000/0436/436v1-max-250x250.png"],
+          [[186,
+            34],
+           "assets/images/resized/0000/0436/436v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "90291",
+    "city": "Venice",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.994162,
+    "longitude": -118.46371}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

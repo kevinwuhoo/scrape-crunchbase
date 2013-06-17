@@ -1,0 +1,87 @@
+{"name": "TestingBot",
+ "permalink": "testingbot",
+ "crunchbase_url": "http://www.crunchbase.com/company/testingbot",
+ "homepage_url": "http://testingbot.com",
+ "blog_url": "http://blog.testingbot.com",
+ "blog_feed_url": "http://blog.testingbot.com/feed",
+ "twitter_username": "testingb0t",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cross-browser-testing, browser-tests, selenium-testing",
+ "alias_list": null,
+ "email_address": "info@testingbot.com",
+ "phone_number": "003242343",
+ "description": "Cross Browser Testing",
+ "created_at": "Sun Dec 04 20:04:16 UTC 2011",
+ "updated_at": "Thu May 03 08:45:50 UTC 2012",
+ "overview": "\u003Cp\u003ETestingBot provides a service where website owners can run cross browser tests through our cloud infrastructure.\u003C/p\u003E\n\n\u003Cp\u003EWe test your website on several different browsers to make sure your website looks and behaves the same on all browsers.\u003C/p\u003E\n\n\u003Cp\u003EThese days you need to test your website on several different browsers: Internet Explorer, Firefox, Chrome and Safari. By using TestingBot, you can save a lot of time.\u003C/p\u003E\n\n\u003Cp\u003EWe continuously monitor your website for bugs and mistakes, by using Selenium tests. When a test fails, we\u0026#8217;ll alert you. This way your website stays free of bugs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       71],
+      "assets/images/resized/0016/5098/165098v3-max-150x150.png"],
+     [[234,
+       111],
+      "assets/images/resized/0016/5098/165098v3-max-250x250.png"],
+     [[234,
+       111],
+      "assets/images/resized/0016/5098/165098v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jochen",
+      "last_name": "Delabie",
+      "permalink": "jochen-delabie",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "TestingBot HQ",
+    "address1": "Ruitersweg 66",
+    "address2": "",
+    "zip_code": "8520",
+    "city": "Kuurne",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        66],
+       "assets/images/resized/0016/5097/165097v2-max-150x150.png"],
+      [[250,
+        111],
+       "assets/images/resized/0016/5097/165097v2-max-250x250.png"],
+      [[450,
+        200],
+       "assets/images/resized/0016/5097/165097v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,91 @@
+{"name": "Subsidence",
+ "permalink": "subsidence",
+ "crunchbase_url": "http://www.crunchbase.com/company/subsidence",
+ "homepage_url": "http://www.subsidence.io",
+ "blog_url": "http://www.subsidence.io/blog",
+ "blog_feed_url": "http://www.subsidence.io/feed/",
+ "twitter_username": "SubsidenceInc",
+ "category_code": "enterprise",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "weather, hardware, analytics, big-data",
+ "alias_list": null,
+ "email_address": "alex@subsidence.io",
+ "phone_number": "262-374-2088",
+ "description": "Weather hardware and data",
+ "created_at": "Wed May 22 21:12:54 UTC 2013",
+ "updated_at": "Fri May 24 06:32:18 UTC 2013",
+ "overview": "\u003Cp\u003ESubsidence (WInstruments, Inc.) develops smart weather station micro-grids that collect tactical weather data and analytics for extreme weather events. Its patent-pending weather technology creates localized atmospheric data through a new method of gathering wind, rain, and hail information. These weather micro-grids enable infrastructure companies (i.e. insurance, utility, transportation, telecommunications) to visualize severe weather conditions in real-time, send alarm notifications, and provide analytics from a storm event reducing economic losses and protecting mission critical assets and infrastructure.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Kubicek",
+      "permalink": "alex-kubicek",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$28k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://thenextweb.com/insider/2012/08/23/meet-7-startups-milwaukee-wisconsins-gener8tor-accelerator/",
+    "source_description": "Meet the 7 startups from Milwaukee, Wisconsin\u2019s Gener8tor accelerator",
+    "raised_amount": 28000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 8,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "gener8tor",
+         "permalink": "gener8tor",
+         "image":
+          {"available_sizes":
+            [[[150,
+               97],
+              "assets/images/resized/0019/5407/195407v3-max-150x150.png"],
+             [[180,
+               117],
+              "assets/images/resized/0019/5407/195407v3-max-250x250.png"],
+             [[180,
+               117],
+              "assets/images/resized/0019/5407/195407v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1 East Main St.",
+    "address2": "",
+    "zip_code": "53703",
+    "city": "Madison",
+    "state_code": "WI",
+    "country_code": "USA",
+    "latitude": 43.0739707,
+    "longitude": -89.3827247}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,92 @@
+{"name": "TestLab\u00c2\u00b2",
+ "permalink": "testlab",
+ "crunchbase_url": "http://www.crunchbase.com/company/testlab",
+ "homepage_url": "http://www.testlab2.com",
+ "blog_url": "http://blog.testlab2.com",
+ "blog_feed_url": "http://blog.testlab2.com/feed/",
+ "twitter_username": "testlab2",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2009,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "testing, quality-assurance, software",
+ "alias_list": null,
+ "email_address": "mad@testlab2.com",
+ "phone_number": "+380667584303",
+ "description": "Software testing services provider",
+ "created_at": "Sat Feb 20 00:51:59 UTC 2010",
+ "updated_at": "Mon Feb 22 20:11:55 UTC 2010",
+ "overview": "\u003Cp\u003ETestLab\u00c2\u00b2 is a software testing and quality assurance services provider.\u003C/p\u003E\n\n\u003Cp\u003ECompany specifics is its strong focus on quality assurance. Whether its a one-person software project or a millions-invested Web 3.0 startup, TestLab\u00c2\u00b2 can help it with assuring a hi-quality public product release.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       88],
+      "assets/images/resized/0007/7662/77662v2-max-150x150.png"],
+     [[171,
+       101],
+      "assets/images/resized/0007/7662/77662v2-max-250x250.png"],
+     [[171,
+       101],
+      "assets/images/resized/0007/7662/77662v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Balabanov",
+      "permalink": "alexander-balabanov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "QStart Labs",
+      "permalink": "qstart-labs",
+      "image":
+       {"available_sizes":
+         [[[147,
+            150],
+           "assets/images/resized/0006/5541/65541v5-max-150x150.jpg"],
+          [[245,
+            250],
+           "assets/images/resized/0006/5541/65541v5-max-250x250.jpg"],
+          [[442,
+            450],
+           "assets/images/resized/0006/5541/65541v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Dobrohotova str.7, ap.14",
+    "address2": "",
+    "zip_code": "03187",
+    "city": "Kyiv",
+    "state_code": null,
+    "country_code": "UKR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://habrahabr.ru/linker/go/80763/",
+    "title": "Interview"}]}

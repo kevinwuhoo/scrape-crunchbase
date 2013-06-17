@@ -1,0 +1,167 @@
+{"name": "JellyCloud",
+ "permalink": "jellycloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/jellycloud",
+ "homepage_url": "http://www.jellycloud.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": 2008,
+ "deadpooled_month": 10,
+ "deadpooled_day": 4,
+ "deadpooled_url": "http://venturebeat.com/2008/10/06/controversial-ad-company-jellycloud-shuts-down-citing-industry-consolidation/",
+ "tag_list": "behavioral-advertising, ads, web-analytics",
+ "alias_list": "",
+ "email_address": "contact@jellycloud.com",
+ "phone_number": "650-716-5000",
+ "description": "Behavioral advertising network",
+ "created_at": "Tue May 20 04:46:57 UTC 2008",
+ "updated_at": "Thu Feb 26 00:01:10 UTC 2009",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.jellycloud.com/\" title=\"JellyCloud\" rel=\"nofollow\"\u003EJellyCloud\u003C/a\u003E is a behavioral advertising network which leverages patented behavioral targeting technology on behalf of Advertisers, Publishers, Software providers and ISPs.  The company aims to drive high consumer engagement rates for their advertising and publisher platforms.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0001/8889/18889v1-max-150x150.jpg"],
+     [[250,
+       110],
+      "assets/images/resized/0001/8889/18889v1-max-250x250.jpg"],
+     [[257,
+       114],
+      "assets/images/resized/0001/8889/18889v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "VanDeVelde",
+      "permalink": "scott-vandevelde",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$6.6M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.thealarmclock.com/mt/archives/2008/05/behavioral_ad_n_1.html",
+    "source_description": "Behavioral Ad Network JellyCloud Raises $11.5M",
+    "raised_amount": 6600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 5,
+    "funded_day": 16,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "SoftBank Capital",
+         "permalink": "softbank-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               36],
+              "assets/images/resized/0000/3955/3955v3-max-150x150.png"],
+             [[250,
+               60],
+              "assets/images/resized/0000/3955/3955v3-max-250x250.png"],
+             [[358,
+               86],
+              "assets/images/resized/0000/3955/3955v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "US Venture Partners",
+         "permalink": "us-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[103,
+               58],
+              "assets/images/resized/0001/5080/15080v1-max-150x150.png"],
+             [[103,
+               58],
+              "assets/images/resized/0001/5080/15080v1-max-250x250.png"],
+             [[103,
+               58],
+              "assets/images/resized/0001/5080/15080v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Crosslink Capital",
+         "permalink": "crosslink-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               27],
+              "assets/images/resized/0002/3495/23495v1-max-150x150.jpg"],
+             [[250,
+               45],
+              "assets/images/resized/0002/3495/23495v1-max-250x250.jpg"],
+             [[355,
+               64],
+              "assets/images/resized/0002/3495/23495v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Sand Hill Capital",
+         "permalink": "sand-hill-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               37],
+              "assets/images/resized/0002/9836/29836v1-max-150x150.png"],
+             [[212,
+               53],
+              "assets/images/resized/0002/9836/29836v1-max-250x250.png"],
+             [[212,
+               53],
+              "assets/images/resized/0002/9836/29836v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "555 Broadway St.",
+    "address2": "",
+    "zip_code": "94063",
+    "city": "Redwood City",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.485786,
+    "longitude": -122.206246}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

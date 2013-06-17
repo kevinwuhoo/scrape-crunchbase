@@ -1,0 +1,87 @@
+{"name": "RTCKit",
+ "permalink": "rtckit",
+ "crunchbase_url": "http://www.crunchbase.com/company/rtckit",
+ "homepage_url": "http://rtckit.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "rtckit",
+ "category_code": "public_relations",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rtckit, voip, webrtc",
+ "alias_list": null,
+ "email_address": "info@rtckit.com",
+ "phone_number": "",
+ "description": "cloud telephony API",
+ "created_at": "Thu Apr 26 15:47:09 UTC 2012",
+ "updated_at": "Tue May 08 00:45:12 UTC 2012",
+ "overview": "\u003Cp\u003ERTCKit is a cloud telephony platform, that allows developers to easily integrate telephony features into their web and mobile apps.\u003C/p\u003E\n\n\u003Cp\u003EUsing RTCKit and only basic web development skills it is very easy to integrate audio and video calls into any web application. Unlike most other solutions, users will not need to install any additional software to make calls from their browser to any mobile or landline in the world or to SIP and Jingle networks.\u003C/p\u003E\n\n\u003Cp\u003EAudio calls made through RTCKit have superior quality and tolerance to network problems due to usage of cutting edge Flash RTMFP and WebRTC technologies.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Roman",
+      "last_name": "Grachev",
+      "permalink": "roman-grachev",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ruslan",
+      "last_name": "Bukin",
+      "permalink": "ruslan-bukin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CallFire",
+      "permalink": "callfire-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0006/3929/63929v7-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0006/3929/63929v7-max-250x250.png"],
+          [[403,
+            142],
+           "assets/images/resized/0006/3929/63929v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Moscow office",
+    "address1": "Leninskaya sloboda 26 building 2 office 6",
+    "address2": "",
+    "zip_code": "115280",
+    "city": "Moscow",
+    "state_code": null,
+    "country_code": "RUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

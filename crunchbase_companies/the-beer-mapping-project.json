@@ -1,0 +1,101 @@
+{"name": "The Beer Mapping Project",
+ "permalink": "the-beer-mapping-project",
+ "crunchbase_url": "http://www.crunchbase.com/company/the-beer-mapping-project",
+ "homepage_url": "http://beermapping.com",
+ "blog_url": "http://beermapping.com",
+ "blog_feed_url": "http://beermapping.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2005,
+ "founded_month": 10,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "beer, reviews, travel, brewery, brewpub, bar",
+ "alias_list": null,
+ "email_address": "jonathan@beermapping.com",
+ "phone_number": "773-366-0652",
+ "description": null,
+ "created_at": "Sun Apr 13 00:28:35 UTC 2008",
+ "updated_at": "Mon Jun 08 18:38:07 UTC 2009",
+ "overview": "\u003Cp\u003EThe Beer Mapping Project began in late 2005 as a project to place Breweries and Brewpubs in geographical context using the Google Mapping API.  Soon other web based applications based around beer friendly locations were underway.\u003C/p\u003E\n\n\u003Cp\u003ECurrently, Beer Mapping offers features like a full mobile site (beermapping.com/m), a customizable POI subscription system, a full location review system, code generators so users can place custom maps on their blog as well as forums and other community fed content.\u003C/p\u003E\n\n\u003Cp\u003EThe site (both regular and mobile) also interface with twitter\u0026#8217;s api and OAuth system to allow Beer Mapping users the ability to tweet from Breweries and other beer locations. They can also track their past travels on twitter maps through this interface.\u003C/p\u003E\n\n\u003Cp\u003EA Beer Mapping API was launched in summer of 2009.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       22],
+      "assets/images/resized/0001/7220/17220v1-max-150x150.png"],
+     [[250,
+       38],
+      "assets/images/resized/0001/7220/17220v1-max-250x250.png"],
+     [[450,
+       68],
+      "assets/images/resized/0001/7220/17220v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Cartography Officer",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Surratt",
+      "permalink": "jonathan-surratt",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Beer Universe",
+      "permalink": "beer-universe",
+      "image":
+       {"available_sizes":
+         [[[150,
+            147],
+           "assets/images/resized/0001/7493/17493v1-max-150x150.jpg"],
+          [[200,
+            196],
+           "assets/images/resized/0001/7493/17493v1-max-250x250.jpg"],
+          [[200,
+            196],
+           "assets/images/resized/0001/7493/17493v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "2434 N Spaulding Ave",
+    "address2": "",
+    "zip_code": "60647",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": 41.925823,
+    "longitude": -87.711114}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0004/7418/47418v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0004/7418/47418v1-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0004/7418/47418v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

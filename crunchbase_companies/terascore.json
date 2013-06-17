@@ -1,0 +1,125 @@
+{"name": "Terascore",
+ "permalink": "terascore",
+ "crunchbase_url": "http://www.crunchbase.com/company/terascore",
+ "homepage_url": "http://www.terascore.com",
+ "blog_url": "http://blog.terascore.com",
+ "blog_feed_url": "",
+ "twitter_username": "terascore",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 12,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education, saas, software, online-exam, test, quiz",
+ "alias_list": "Nextest",
+ "email_address": "info@terascore.com",
+ "phone_number": "(408) 329-6663 ",
+ "description": "Testing Tools for Teachers",
+ "created_at": "Tue Mar 19 23:10:59 UTC 2013",
+ "updated_at": "Tue May 14 15:03:39 UTC 2013",
+ "overview": "\u003Cp\u003ETerascore is developing an educational tool for teachers to create, administer, and manage tests entirely online.   Scores and results are available immediately and  teachers get instant analytics on question quality, difficulty, student performance.   Any questions created can be stored in a question bank for reuse. \u003C/p\u003E\n\n\u003Cp\u003ETerascore aims to move all tests online and in doing so make learning more effective and teachers more efficient.  The results are shortening the feedback loop for learning and are better for teachers and students.\u003C/p\u003E\n\n\u003Cp\u003ETerascore makes creating tests radically easier, as it has a WYSIWYG browser-based test authoring tool.  Terascore allows teachers to easily integrate images, links, and videos into tests to make them more fun, engaging, and relevant.  The inclusion of mathematic equations is also supported.\u003C/p\u003E\n\n\u003Cp\u003ETerascore was founded in 2012, funded by Y Combinator.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0026/2212/262212v1-max-150x150.png"],
+     [[154,
+       36],
+      "assets/images/resized/0026/2212/262212v1-max-250x250.png"],
+     [[154,
+       36],
+      "assets/images/resized/0026/2212/262212v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Zsolt",
+      "last_name": "Muller",
+      "permalink": "zsolt-muller",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Balazs",
+      "last_name": "Moldovanyi",
+      "permalink": "balazs-moldovanyi",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Helybely",
+      "permalink": "adam-helybely",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Viktor",
+      "last_name": "Takacs",
+      "permalink": "viktor-takacs",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 12,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0026/2214/262214v1-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0026/2214/262214v1-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0026/2214/262214v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

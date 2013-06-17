@@ -1,0 +1,87 @@
+{"name": "LendingKarma",
+ "permalink": "lendingkarma",
+ "crunchbase_url": "http://www.crunchbase.com/company/lendingkarma",
+ "homepage_url": "http://www.lendingkarma.com",
+ "blog_url": "http://twitter.com/lendingkarma",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "legal",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 26,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "loans, person-to-person, lending, p2p, peer-to-peer-lending, loan-tracking",
+ "alias_list": null,
+ "email_address": "contact@lendingkarma.com",
+ "phone_number": "",
+ "description": "Online person-to-person lending",
+ "created_at": "Mon May 04 19:56:52 UTC 2009",
+ "updated_at": "Tue Mar 13 08:25:36 UTC 2012",
+ "overview": "\u003Cp\u003ELendingKarma helps people that know one another document and track person-to-person loans amongst themselves.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0004/3159/43159v4-max-150x150.jpg"],
+     [[250,
+       39],
+      "assets/images/resized/0004/3159/43159v4-max-250x250.jpg"],
+     [[320,
+       50],
+      "assets/images/resized/0004/3159/43159v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "LendingKarma Basic",
+    "permalink": "lendingkarma-basic",
+    "image": null},
+   {"name": "LendingKarma Premium",
+    "permalink": "lendingkarma-premium",
+    "image": null},
+   {"name": "LendingKarma Loan Forms",
+    "permalink": "lendingkarma-loan-forms",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Virgin Money Group",
+      "permalink": "virginmoney",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "San Franscisco",
+    "address1": "P.O. Box 640211",
+    "address2": "",
+    "zip_code": "94164-0211",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7753,
+    "longitude": -122.4186}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blogs.wsj.com/wallet/2009/04/28/finovate-startup-2009-preview/",
+    "title": ""},
+   {"external_url": "http://blog.creditkarma.com/reviews/lending-karma-review/",
+    "title": ""},
+   {"external_url": "http://prosperlending.blogspot.com/2009/04/finovate-2009-participant-profile.html",
+    "title": ""}]}

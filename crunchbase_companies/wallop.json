@@ -1,0 +1,168 @@
+{"name": "Wallop",
+ "permalink": "wallop",
+ "crunchbase_url": "http://www.crunchbase.com/company/wallop",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Mon Mar 23 21:17:58 UTC 2009",
+ "updated_at": "Sat Jul 10 00:31:22 UTC 2010",
+ "overview": "\u003Cp\u003EWallop is a social networking site that was spun out of a \u003Ca href=\"/company/microsoft\" title=\"Microsoft\" rel=\"nofollow\"\u003EMicrosoft\u003C/a\u003E research on the social networking space.  It was founded by Sean Uberoi Kelly.\u003C/p\u003E\n\n\u003Cp\u003EWallop is now \u003Ca href=\"/company/coveroo\" title=\"Coveroo\" rel=\"nofollow\"\u003ECoveroo\u003C/a\u003E. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0009/2901/92901v1-max-150x150.jpg"],
+     [[250,
+       95],
+      "assets/images/resized/0009/2901/92901v1-max-250x250.jpg"],
+     [[441,
+       168],
+      "assets/images/resized/0009/2901/92901v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Uberoi Kelly",
+      "permalink": "sean-uberoi-kelly",
+      "image":
+       {"available_sizes":
+         [[[127,
+            150],
+           "assets/images/resized/0003/9057/39057v3-max-150x150.jpg"],
+          [[212,
+            250],
+           "assets/images/resized/0003/9057/39057v3-max-250x250.jpg"],
+          [[382,
+            450],
+           "assets/images/resized/0003/9057/39057v3-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "VP Product",
+    "person":
+     {"first_name": "Anita",
+      "last_name": "Garimella Andrews",
+      "permalink": "anita-garimella-andrews",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0016/4163/164163v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0016/4163/164163v2-max-250x250.jpg"],
+          [[288,
+            432],
+           "assets/images/resized/0016/4163/164163v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Director, Engineering",
+    "person":
+     {"first_name": "Chandru",
+      "last_name": "Venkataraman",
+      "permalink": "chandru-venkataraman",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0010/3920/103920v6-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0010/3920/103920v6-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0010/3920/103920v6-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$13.6M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://gigaom.com/2006/09/26/wallop-shows-up-to-party/",
+    "source_description": "Wallop Shows Up to the Party",
+    "raised_amount": 10000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 9,
+    "funded_day": 26,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Norwest Venture Partners",
+         "permalink": "norwest-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[86,
+               88],
+              "assets/images/resized/0001/5074/15074v1-max-150x150.png"],
+             [[86,
+               88],
+              "assets/images/resized/0001/5074/15074v1-max-250x250.png"],
+             [[86,
+               88],
+              "assets/images/resized/0001/5074/15074v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Bay Partners",
+         "permalink": "bay-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               21],
+              "assets/images/resized/0000/3577/3577v1-max-150x150.png"],
+             [[250,
+               35],
+              "assets/images/resized/0000/3577/3577v1-max-250x250.png"],
+             [[342,
+               48],
+              "assets/images/resized/0000/3577/3577v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]},
+   {"round_code": "a",
+    "source_url": "http://sec.gov/Archives/edgar/data/1353923/999999999706005797/9999999997-06-005797-index.htm",
+    "source_description": "",
+    "raised_amount": 3600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 2,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

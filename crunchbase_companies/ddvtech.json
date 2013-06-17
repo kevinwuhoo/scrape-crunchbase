@@ -1,0 +1,154 @@
+{"name": "DDVTECH",
+ "permalink": "ddvtech",
+ "crunchbase_url": "http://www.crunchbase.com/company/ddvtech",
+ "homepage_url": "http://www.ddvtech.com",
+ "blog_url": "http://www.mistserver.org",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2009,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "multimedia, rtmp, dynamic, flash, silverlight, streaming, server, web, embed, load-balancing, automatic, reactive, modular",
+ "alias_list": null,
+ "email_address": "info@ddvtech.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Oct 02 21:37:09 UTC 2012",
+ "updated_at": "Wed Dec 12 06:58:14 UTC 2012",
+ "overview": "\u003Cp\u003EDDVTECH is a software company which specializes in web streaming technologies.\u003C/p\u003E\n\n\u003Cp\u003EDDVTECH operates the mistserver.org open-source multimedia streaming server as well as a number of other paid solutions.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and President",
+    "person":
+     {"first_name": "Alfred",
+      "last_name": "Dijs",
+      "permalink": "alfred-dijs",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and CTO",
+    "person":
+     {"first_name": "Jaron",
+      "last_name": "Vi\u00ebtor",
+      "permalink": "jaron-vitor",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and CMO",
+    "person":
+     {"first_name": "Bob",
+      "last_name": "Dijs",
+      "permalink": "bob-dijs",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Wowza Media",
+      "permalink": "wowza-media",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0005/3876/53876v1-max-150x150.png"],
+          [[215,
+            70],
+           "assets/images/resized/0005/3876/53876v1-max-250x250.png"],
+          [[215,
+            70],
+           "assets/images/resized/0005/3876/53876v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adobe Systems",
+      "permalink": "adobe-systems",
+      "image":
+       {"available_sizes":
+         [[[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-150x150.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-250x250.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Real Networks",
+      "permalink": "realnetworks",
+      "image":
+       {"available_sizes":
+         [[[83,
+            45],
+           "assets/images/resized/0002/1291/21291v2-max-150x150.png"],
+          [[83,
+            45],
+           "assets/images/resized/0002/1291/21291v2-max-250x250.png"],
+          [[83,
+            45],
+           "assets/images/resized/0002/1291/21291v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2009,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Rassat Investment",
+         "permalink": "rassat-investment",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Rotterdam Office",
+    "address1": "Johan de Wittlaan 10",
+    "address2": "",
+    "zip_code": "3054AA",
+    "city": "Rotterdam",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 51.9461239,
+    "longitude": 4.4834826}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.mistserver.org",
+    "title": "Mistserver.org"}]}

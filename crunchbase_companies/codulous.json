@@ -1,0 +1,97 @@
+{"name": "Codulous",
+ "permalink": "codulous",
+ "crunchbase_url": "http://www.crunchbase.com/company/codulous",
+ "homepage_url": "http://codulo.us",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Codulous",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 22,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software-development, ide, cloud-software",
+ "alias_list": null,
+ "email_address": "team@codulo.us",
+ "phone_number": "831-212-3900",
+ "description": "Cloud-Based IDE",
+ "created_at": "Thu Jul 14 19:47:19 UTC 2011",
+ "updated_at": "Mon Jul 18 19:54:25 UTC 2011",
+ "overview": "\u003Cp\u003ECodulous is a browser-based IDE in the cloud. \nUsers can upload files to its servers and edit their code from any computer. It supports  syntax highlighting for many languages. \nIn addition to uploading files manually, users can sync Codulous with many online services, including Git, Github, Bitbucket and Dropbox. They can also use FTP to transfer files or download a small program to sync with code stored on their computer.\nCodulous truly allows users to code anywhere.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Amis",
+      "permalink": "andrew-amis",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Raphie",
+      "last_name": "Palefsky-Smith",
+      "permalink": "raphie-palefsky-smith",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kai",
+      "last_name": "Tamkun",
+      "permalink": "kai-tamkun",
+      "image": null}},
+   {"is_past": false,
+    "title": "Designer",
+    "person":
+     {"first_name": "Marc",
+      "last_name": "Laugharn",
+      "permalink": "marc-laugharn",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "440 N Bernardo Ave",
+    "address2": "",
+    "zip_code": "94043",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        104],
+       "assets/images/resized/0014/4688/144688v2-max-150x150.png"],
+      [[250,
+        173],
+       "assets/images/resized/0014/4688/144688v2-max-250x250.png"],
+      [[450,
+        312],
+       "assets/images/resized/0014/4688/144688v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,105 @@
+{"name": "Yodio",
+ "permalink": "yodio",
+ "crunchbase_url": "http://www.crunchbase.com/company/yodio",
+ "homepage_url": "http://www.yodio.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2005,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "clay@yodio.com",
+ "phone_number": "206.423.6553",
+ "description": "Graphic-rich music files",
+ "created_at": "Wed Feb 13 00:47:08 UTC 2008",
+ "updated_at": "Thu Apr 02 21:03:00 UTC 2009",
+ "overview": "\u003Cp\u003EYodio operates services for anyone to record, illustrate, publish and sell graphic-rich MP3 and MP4 files.  Through the synchronization of photos with personal audio recordings, Yodio enables professionals as well as non-professionals to create a new category known as rich media podcasting. Yodio\u0026#8217;s start-to-finish audio publishing system employs voice recognition and other speech technologies to automate many features of the recording and production services.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[87,
+       89],
+      "assets/images/resized/0001/1939/11939v1-max-150x150.jpg"],
+     [[87,
+       89],
+      "assets/images/resized/0001/1939/11939v1-max-250x250.jpg"],
+     [[87,
+       89],
+      "assets/images/resized/0001/1939/11939v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": null,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Whiting",
+      "permalink": "jon-whiting",
+      "image": null}},
+   {"is_past": null,
+    "title": "President",
+    "person":
+     {"first_name": "Clayton",
+      "last_name": "Loges",
+      "permalink": "clayton-loges",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal ",
+    "is_past": null,
+    "provider":
+     {"name": "Davis Wright Tremaine",
+      "permalink": "davis-wright-tremaine",
+      "image": null}},
+   {"title": "accounting",
+    "is_past": null,
+    "provider":
+     {"name": "RSM McGladrey",
+      "permalink": "rsm-mcgladrey",
+      "image": null}}],
+ "total_money_raised": "$850k",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 850000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 2,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "P.O. Box 3067",
+    "address2": "",
+    "zip_code": "98009",
+    "city": "Bellevue",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.6106,
+    "longitude": -122.1997}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.yodio.com",
+    "title": "Yodio"}]}

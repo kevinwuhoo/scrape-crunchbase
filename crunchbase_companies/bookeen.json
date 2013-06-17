@@ -1,0 +1,108 @@
+{"name": "Bookeen",
+ "permalink": "bookeen",
+ "crunchbase_url": "http://www.crunchbase.com/company/bookeen",
+ "homepage_url": "http://www.bookeen.com",
+ "blog_url": "http://bookeen.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "BookeenTeam",
+ "category_code": "hardware",
+ "number_of_employees": null,
+ "founded_year": 2003,
+ "founded_month": 4,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "develops electronic books and e-readers",
+ "created_at": "Mon Apr 19 08:30:26 UTC 2010",
+ "updated_at": "Thu Nov 08 03:48:15 UTC 2012",
+ "overview": "\u003Cp\u003EBookeen\u0026#8217;s mission is to develop and propose best-of-breed eBook readers to book lovers all over the world. \u003C/p\u003E\n\n\u003Cp\u003ESince 2003, Bookeen has successfully launched more than 4 generation products. \u003C/p\u003E\n\n\u003Cp\u003EBookeen is partnering with large Bookstore chains in Germany, Switzerland, France, Italy, Sweden\u0026#8230;\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0008/4110/84110v4-max-150x150.png"],
+     [[250,
+       44],
+      "assets/images/resized/0008/4110/84110v4-max-250x250.png"],
+     [[450,
+       79],
+      "assets/images/resized/0008/4110/84110v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Cybook Odyssey",
+    "permalink": "cybook-odyssey",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO \u0026 co-founder",
+    "person":
+     {"first_name": "Laurent",
+      "last_name": "Picard",
+      "permalink": "laurent-picard",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Dahan",
+      "permalink": "michael-dahan",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Sales \u0026 Marketing",
+    "person":
+     {"first_name": "Jean-Luc",
+      "last_name": "Satin",
+      "permalink": "jean-luc-satin",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac1.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2009,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "ISF Capital D\u00e9veloppement 2015",
+         "permalink": "isf-capital-dveloppement-2015",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Bookeen",
+    "address1": "27, rue de la Vistule",
+    "address2": "",
+    "zip_code": "75013",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.bookeenstore.com",
+    "title": "Bookeen eBook Store"}]}

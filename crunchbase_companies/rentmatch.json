@@ -1,0 +1,123 @@
+{"name": "RentMatch",
+ "permalink": "rentmatch",
+ "crunchbase_url": "http://www.crunchbase.com/company/rentmatch",
+ "homepage_url": "http://www.rentmatch.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "rentmatchcom",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-estate, apartments, techstars, multifamily, property, rental, seattle, techstars-seattle-2010",
+ "alias_list": "Kinizi",
+ "email_address": "help@rentmatch.com",
+ "phone_number": "206-883-4747",
+ "description": "Apartment Rental Search",
+ "created_at": "Mon Nov 01 12:26:16 UTC 2010",
+ "updated_at": "Wed Jul 04 02:29:23 UTC 2012",
+ "overview": "\u003Cp\u003ERentMatch is the best website to find an apartment for rent. They help renters find a place to rent by partnering with the top apartment rental websites like Rent.com, MyNewplace.com, Apartments.com, Apartment Finder and ForRent to offer you thousands of quality rental listing nationwide all on one website. Whether you are looking for cheap apartments for rent in New York or a house for rent in Seattle, they can help you find a new place to rent. With easy to use filters and tools for renters, you.ll be able to sort through thousands of cheap apartment rental listings nationwide and find the perfect place to rent.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0010/8193/108193v3-max-150x150.png"],
+     [[250,
+       44],
+      "assets/images/resized/0010/8193/108193v3-max-250x250.png"],
+     [[412,
+       74],
+      "assets/images/resized/0010/8193/108193v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder/CEO",
+    "person":
+     {"first_name": "Phillip",
+      "last_name": "Lee",
+      "permalink": "phillip-lee",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder/CTO",
+    "person":
+     {"first_name": "Bryan",
+      "last_name": "Leptich",
+      "permalink": "bryan-leptich",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Oodle",
+      "permalink": "oodle",
+      "image":
+       {"available_sizes":
+         [[[109,
+            46],
+           "assets/images/resized/0000/3559/3559v4-max-150x150.jpg"],
+          [[109,
+            46],
+           "assets/images/resized/0000/3559/3559v4-max-250x250.jpg"],
+          [[109,
+            46],
+           "assets/images/resized/0000/3559/3559v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2010/11/11/techstars-launches-ten-new-startups-in-seattle/",
+    "source_description": "TechStars Launches Ten New Startups In Seattle",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2010,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "TechStars",
+         "permalink": "techstars",
+         "image":
+          {"available_sizes":
+            [[[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-150x150.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-250x250.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "TechStars Seattle Office",
+    "address1": "511 Boren Ave N",
+    "address2": "Suite #200",
+    "zip_code": "98109",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

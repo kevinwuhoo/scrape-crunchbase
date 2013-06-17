@@ -1,0 +1,106 @@
+{"name": "Astute Hosting",
+ "permalink": "astute-hosting",
+ "crunchbase_url": "http://www.crunchbase.com/company/astute-hosting",
+ "homepage_url": "http://astutehosting.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "astutehosting",
+ "category_code": "network_hosting",
+ "number_of_employees": 4,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "dedicated-hosting, dedicated-servers, cdn",
+ "alias_list": null,
+ "email_address": "corporate@astutehosting.com",
+ "phone_number": "",
+ "description": "Internet Infrastructure",
+ "created_at": "Wed Jul 25 16:08:02 UTC 2012",
+ "updated_at": "Thu Jul 26 04:56:40 UTC 2012",
+ "overview": "\u003Cp\u003EDedicated Hosting solutions out of Vancouver and Seattle, specializing in customized multi-server configurations for scalability and high availability.\u003C/p\u003E\n\n\u003Cp\u003EContent Distribution Network service out of Vancouver, Seattle, Los Angeles, Toronto, New York City, Miami, and London. Currently includes traditional reverse proxy caching as well as static file hosting.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0020/2796/202796v2-max-150x150.jpg"],
+     [[250,
+       106],
+      "assets/images/resized/0020/2796/202796v2-max-250x250.jpg"],
+     [[450,
+       191],
+      "assets/images/resized/0020/2796/202796v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Han Hwei",
+      "last_name": "Woo",
+      "permalink": "han-hwei-woo",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SoftLayer",
+      "permalink": "softlayer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            12],
+           "assets/images/resized/0005/1564/51564v6-max-150x150.png"],
+          [[250,
+            21],
+           "assets/images/resized/0005/1564/51564v6-max-250x250.png"],
+          [[450,
+            38],
+           "assets/images/resized/0005/1564/51564v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CloudFlare",
+      "permalink": "cloudflare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            76],
+           "assets/images/resized/0006/7767/67767v6-max-150x150.png"],
+          [[250,
+            127],
+           "assets/images/resized/0006/7767/67767v6-max-250x250.png"],
+          [[378,
+            193],
+           "assets/images/resized/0006/7767/67767v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "#626 - 470 Granville St",
+    "address2": "",
+    "zip_code": "V6C 1V5",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

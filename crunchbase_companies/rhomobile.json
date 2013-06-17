@@ -1,0 +1,118 @@
+{"name": "Rhomobile",
+ "permalink": "rhomobile",
+ "crunchbase_url": "http://www.crunchbase.com/company/rhomobile",
+ "homepage_url": "http://www.rhomobile.com",
+ "blog_url": "http://rhomobile.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "rhomobile",
+ "category_code": "mobile",
+ "number_of_employees": 15,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@rhomobile.com",
+ "phone_number": "800.RHO.0334",
+ "description": "The Enterprise Mobility Company",
+ "created_at": "Tue Sep 29 15:23:06 UTC 2009",
+ "updated_at": "Tue Sep 18 13:48:57 UTC 2012",
+ "overview": "\u003Cp\u003ERhomobile provides a free and open source framework, Rhodes, for cross-platform smartphone application development.  \u003C/p\u003E\n\n\u003Cp\u003ERhodes allows you to use familiar web skills (HTML, HTML5, CSS, and JavaScript) to create a native app, and then deploy that app across all the major smartphone OSes: Android, iPhone, BlackBerry, Windows Mobile, and more are on the way.  \u003C/p\u003E\n\n\u003Cp\u003EIn addition, Rhomobile allows you to access and edit your data regardless of connectivity with the optional RhoSync, the world\u0026#8217;s fastest, most scalable sync server.  \u003C/p\u003E\n\n\u003Cp\u003ERhomobile has combined Rhodes and RhoSync in a hosted offering called RhoHub.  RhoHub allows developers to deploy apps, builds, and sync servers to the cloud.  RhoHub.com is the world\u0026#8217;s first development as a service.\u003C/p\u003E\n\n\u003Cp\u003ERhomobile completes the enterprise mobility offering with RhoGallery - the Enterprise App Store.  RhoGallery is the first hosted mobile app management solution.  RhoGallery makes it easy to provision apps directly to your employees\u0026#8217; smartphones (regardless of the OS), and then easily manage and provision updates in the future.  \u003C/p\u003E\n\n\u003Cp\u003ERhomobile\u0026#8217;s entire product suite allows enterprises to easily develop, distribute, deploy, and manage all enterprise apps and data.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       89],
+      "assets/images/resized/0008/6161/86161v1-max-150x150.png"],
+     [[172,
+       103],
+      "assets/images/resized/0008/6161/86161v1-max-250x250.png"],
+     [[172,
+       103],
+      "assets/images/resized/0008/6161/86161v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO/Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Blum",
+      "permalink": "adam-blum",
+      "image": null}},
+   {"is_past": true,
+    "title": "VP of Sales",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "McMillen",
+      "permalink": "rob-mcmillen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Loc8 Solutions",
+      "permalink": "loc8-solutions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0006/1180/61180v1-max-150x150.jpg"],
+          [[250,
+            65],
+           "assets/images/resized/0006/1180/61180v1-max-250x250.jpg"],
+          [[380,
+            100],
+           "assets/images/resized/0006/1180/61180v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PhoneGap",
+      "permalink": "phonegap",
+      "image": null}},
+   {"competitor":
+     {"name": "Appcelerator",
+      "permalink": "appcelerator",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0003/1295/31295v2-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0003/1295/31295v2-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0003/1295/31295v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters ",
+    "address1": "3031 Tisch Way ",
+    "address2": "Suite 704",
+    "zip_code": "95128",
+    "city": "San Jose ",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\"320\" height=\"265\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0\"\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"src\" value=\"http://www.youtube.com/v/T2pztOky_L0\u0026amp;hl=en_US\u0026amp;fs=1\u0026amp;\" /\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cembed type=\"application/x-shockwave-flash\" width=\"320\" height=\"265\" src=\"http://www.youtube.com/v/T2pztOky_L0\u0026amp;hl=en_US\u0026amp;fs=1\u0026amp;\" allowscriptaccess=\"always\" allowfullscreen=\"true\"\u003E \u003C/embed\u003E\u003C/object\u003E\r\n",
+    "description": "\u003Cp\u003EBuilding Cross-platform Mobile Apps with Rhodes\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

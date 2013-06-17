@@ -1,0 +1,127 @@
+{"name": "DataVote",
+ "permalink": "datavote",
+ "crunchbase_url": "http://www.crunchbase.com/company/datavote",
+ "homepage_url": "http://www.datavote.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise, big-data, daas, data-quality, email-marketing, social-media",
+ "alias_list": null,
+ "email_address": "info@datavote.com",
+ "phone_number": "",
+ "description": "Contact Data Scoring",
+ "created_at": "Tue Jan 03 23:15:30 UTC 2012",
+ "updated_at": "Fri May 11 11:07:13 UTC 2012",
+ "overview": "\u003Cp\u003ECross Enterprise Data Quality Collaboration\u003C/p\u003E\n\n\u003Cp\u003EDatavote validates customer information for businesses by comparing the data they hold on their customers with other businesses using our service. \u003C/p\u003E\n\n\u003Cp\u003EDatavote does not share customer information between subscribers, but scores the customer data that businesses give to us by comparing it to our community driven customer data hub. This is a secure and anonymous way for companies to share their data without revealing customer information to other subscribers allowing everyone to validate their own data by comparing it to the community consensus. \u003C/p\u003E\n\n\u003Cp\u003EDatavote can provide companies with a customer data scoring API or do manual upload/downloads.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0016/8817/168817v2-max-150x150.jpg"],
+     [[250,
+       50],
+      "assets/images/resized/0016/8817/168817v2-max-250x250.jpg"],
+     [[450,
+       90],
+      "assets/images/resized/0016/8817/168817v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO and Founder",
+    "person":
+     {"first_name": "Richie",
+      "last_name": "Hawksworth",
+      "permalink": "richie-hawksworth",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Piers",
+      "last_name": "Cooper",
+      "permalink": "piers-cooper",
+      "image":
+       {"available_sizes":
+         [[[131,
+            150],
+           "assets/images/resized/0009/4329/94329v2-max-150x150.jpg"],
+          [[219,
+            250],
+           "assets/images/resized/0009/4329/94329v2-max-250x250.jpg"],
+          [[395,
+            450],
+           "assets/images/resized/0009/4329/94329v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Senior Engineer",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Pimshin",
+      "permalink": "nick-pimshin",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO Founder",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Lee",
+      "permalink": "tom-lee",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Jim",
+         "last_name": "Whitehurst",
+         "permalink": "jim-whitehurst",
+         "image":
+          {"available_sizes":
+            [[[150,
+               112],
+              "assets/images/resized/0016/8818/168818v2-max-150x150.png"],
+             [[250,
+               187],
+              "assets/images/resized/0016/8818/168818v2-max-250x250.png"],
+             [[400,
+               300],
+              "assets/images/resized/0016/8818/168818v2-max-450x450.png"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

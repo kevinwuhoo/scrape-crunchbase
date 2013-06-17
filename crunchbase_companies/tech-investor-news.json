@@ -1,0 +1,92 @@
+{"name": "Tech Investor News",
+ "permalink": "tech-investor-news",
+ "crunchbase_url": "http://www.crunchbase.com/company/tech-investor-news",
+ "homepage_url": "http://www.techinvestornews.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "TechInvestNews",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "aggregator, news, technology, tech, investing",
+ "alias_list": null,
+ "email_address": "frank@techinvestornews.com",
+ "phone_number": "",
+ "description": "Intelligent news aggregator",
+ "created_at": "Tue Jul 21 18:42:45 UTC 2009",
+ "updated_at": "Tue Jul 21 20:36:29 UTC 2009",
+ "overview": "\u003Cp\u003ETech Investor News is an intelligent news aggregator for investors and professionals who want all their technology sector news in one website. It is also a network of single-company news aggregators for each of the top 20 technology stocks.\u003C/p\u003E\n\n\u003Cp\u003EThe home tech sector site and company-specific sites each cluster headlines into multiple sub-topic categories, more useful than a single undifferentiated column of search results (example: our Apple site has 23 distinct news categories). \u003C/p\u003E\n\n\u003Cp\u003ETIN\u00e2\u20ac\u2122s automated news selection engine uses a process called Intelligent News Search, which uses layers of complex search filters to deliver headline results. The search filters and news source choices that drive this automated process are developed and continually updated by human editors to provide more accurate search results than fully automated systems.\u003C/p\u003E\n\n\u003Cp\u003EHeadlines are always updating, all day, every day. The sites auto-refresh every 15 minutes. \u003C/p\u003E\n\n\u003Cp\u003ETech Investor News was launched May 28, 2009. The company\u00e2\u20ac\u2122s first beta site, Apple Investor News, was launched in May of 2007 and is now a part of the Tech Investor News network of company-specific aggregation sites. The company also launched Apple|Enthusiast, a news aggregation site focusing solely on Apple product user news, tips and information.\u003C/p\u003E\n\n\u003Cp\u003ETech Investor News was founded by Frank Cioffi, a former AP radio reporter, television news producer and marketing communications veteran specializing in technology media relations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0005/3743/53743v2-max-150x150.png"],
+     [[250,
+       59],
+      "assets/images/resized/0005/3743/53743v2-max-250x250.png"],
+     [[304,
+       72],
+      "assets/images/resized/0005/3743/53743v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Frank",
+      "last_name": "Cioffi",
+      "permalink": "frank-cioffi",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "94945",
+    "city": "Novato",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 38.1218145,
+    "longitude": -122.5485873}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        148],
+       "assets/images/resized/0005/3742/53742v2-max-150x150.png"],
+      [[250,
+        247],
+       "assets/images/resized/0005/3742/53742v2-max-250x250.png"],
+      [[450,
+        445],
+       "assets/images/resized/0005/3742/53742v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://online.barrons.com/article/SB124363533234767649.html",
+    "title": "Barron's"},
+   {"external_url": "http://www.ritholtz.com/blog/2009/05/tech-investor-news-2/",
+    "title": "The Big Picture"},
+   {"external_url": "http://blogs.barrons.com/techtraderdaily/2007/08/28/all-the-apple-news-you-could-want-to-read-and-more/",
+    "title": "Tech Trader Daily"}]}

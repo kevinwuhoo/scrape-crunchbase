@@ -1,0 +1,108 @@
+{"name": "PacsDrive",
+ "permalink": "pacsdrive",
+ "crunchbase_url": "http://www.crunchbase.com/company/pacsdrive",
+ "homepage_url": "http://www.pacsdrive.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "pacsdrive",
+ "category_code": "biotech",
+ "number_of_employees": 7,
+ "founded_year": 2009,
+ "founded_month": 3,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "health-care, storage, cloud-services, dicom, medical-imaging, radiology",
+ "alias_list": "",
+ "email_address": "info@pacsdrive.com",
+ "phone_number": "801-448-7309",
+ "description": "Simplified Medical Image Archiving",
+ "created_at": "Wed Jul 29 21:03:04 UTC 2009",
+ "updated_at": "Fri Aug 07 19:21:51 UTC 2009",
+ "overview": "\u003Cp\u003EPacsDrive provides low cost dicom storage and medical image archiving.\u003C/p\u003E\n\n\u003Cp\u003EGreat technology services in health care don\u0026#8217;t have to be prohibitively expensive. PacsDrive is helping small to medium sized health care providers to cut costs and provide better patient care.\u003C/p\u003E\n\n\u003Cp\u003EThe company supports all DICOM compliant medical image modalities, so health care providers can easily archive their MRI, CT, Digital X-Ray, Ultrasound, et. al. exams without the expensive overhead of in house server and storage arrays.\u003C/p\u003E\n\n\u003Cp\u003EPacsDrive enables health care providers to maintain adequate offsite backups of their patient data in compliance with HIPAA regulations. PacsDrive archiving is cost-effective, secure, and easy to use. The signup to archiving process takes only minutes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0005/4670/54670v2-max-150x150.png"],
+     [[250,
+       55],
+      "assets/images/resized/0005/4670/54670v2-max-250x250.png"],
+     [[450,
+       99],
+      "assets/images/resized/0005/4670/54670v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "PacsDrive DICOM Storage",
+    "permalink": "pacsdrive-dicom-storage",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Donnie",
+      "last_name": "Millar",
+      "permalink": "donnie-millar",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "InSiteOne",
+      "permalink": "insiteone",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0008/7569/87569v1-max-150x150.jpg"],
+          [[211,
+            87],
+           "assets/images/resized/0008/7569/87569v1-max-250x250.jpg"],
+          [[211,
+            87],
+           "assets/images/resized/0008/7569/87569v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Karl Israelsen",
+      "permalink": "karl-israelsen",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "105 N 400 W",
+    "address2": "",
+    "zip_code": "84103",
+    "city": "Salt Lake City",
+    "state_code": "UT",
+    "country_code": "USA",
+    "latitude": 40.7730737,
+    "longitude": -111.9025038}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        136],
+       "assets/images/resized/0005/4669/54669v2-max-150x150.png"],
+      [[250,
+        227],
+       "assets/images/resized/0005/4669/54669v2-max-250x250.png"],
+      [[450,
+        408],
+       "assets/images/resized/0005/4669/54669v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

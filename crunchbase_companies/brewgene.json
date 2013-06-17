@@ -1,0 +1,82 @@
+{"name": "BrewGene",
+ "permalink": "brewgene",
+ "crunchbase_url": "http://www.crunchbase.com/company/brewgene",
+ "homepage_url": "http://www.brewgene.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "connort@gmail.com",
+ "phone_number": "617-834-8621",
+ "description": "Beer recommendation engine",
+ "created_at": "Tue Jul 05 13:19:17 UTC 2011",
+ "updated_at": "Wed Jul 06 18:57:56 UTC 2011",
+ "overview": "\u003Cp\u003EBeer recommendation engine used by members to find new beers which match their beer drinking preferences.  User give beers a rating from 1-10 and the system identifies other beers which correlate with, but which are not yet rated by, that user.  System tracks beers in its \u0026#8220;beer cellar\u0026#8221;, allows users to find likeminded users through \u0026#8220;beer buddies\u0026#8221;, \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0014/2750/142750v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0014/2750/142750v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0014/2750/142750v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Connor",
+      "last_name": "Tyrrell",
+      "permalink": "connor-tyrrell",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "PR \u0026 marketing",
+    "is_past": false,
+    "provider":
+     {"name": "Duffy \u0026 Shanley",
+      "permalink": "duffy-shanley",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "15 Parmenter Road",
+    "address2": "",
+    "zip_code": "01772",
+    "city": "Southborough",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,93 @@
+{"name": "Druidly",
+ "permalink": "druidly",
+ "crunchbase_url": "http://www.crunchbase.com/company/druidly",
+ "homepage_url": "http://www.druidly.com",
+ "blog_url": "http://www.druidly.com/blog",
+ "blog_feed_url": "http://www.druidly.com/blog/feed/",
+ "twitter_username": "druidly",
+ "category_code": "mobile",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, windows-8, android, ios",
+ "alias_list": null,
+ "email_address": "hello@druidly.com",
+ "phone_number": "+420774303305",
+ "description": "",
+ "created_at": "Thu Sep 20 07:44:27 UTC 2012",
+ "updated_at": "Mon Oct 08 13:43:15 UTC 2012",
+ "overview": "\u003Cp\u003EDruidly develops platform for automatic content distribution to mobile phones, tablets and computers.\u003C/p\u003E\n\n\u003Cp\u003ECustomer come to druidly homepage and fill the basic info (e.g. for newspapers it is just a RSS URL). Druidly then check if everything is OK, giving back an advices to make whole thing more comfortable, presenting a preview of application in a real time. Customer can make some customizations (look and feel). At the end of this process customer enters billing information.\u003C/p\u003E\n\n\u003Cp\u003EDruidly build an application based on that request and publish it to Windows Store / App Store / Google Play like a regular app.\u003C/p\u003E\n\n\u003Cp\u003EBehind the scene is a big data processing engine. That engine grabs all that data from customers, parsing them, and publish in our CDN. It does push notifications too for faster delivering information to the people with an application installed.\u003C/p\u003E\n\n\u003Cp\u003EThe last big part of whole thing is analytics. Druidly have a lot of statistical and behavioral data about the content and its consumers. Analytics works on the top of this data, giving very valuable feedback and insight for customers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0021/2906/212906v3-max-150x150.png"],
+     [[178,
+       48],
+      "assets/images/resized/0021/2906/212906v3-max-250x250.png"],
+     [[178,
+       48],
+      "assets/images/resized/0021/2906/212906v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "\u0160mehl\u00edk",
+      "permalink": "david-mehlk",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Mal\u00fd",
+      "permalink": "martin-mal",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$110k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://druidly.com/blog/%EF%BB%BFpress-release-druidly-got-an-investment-of-110k-and-hiring/",
+    "source_description": "Druidly got an investment of $110k and hiring",
+    "raised_amount": 110000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 8,
+    "funded_day": 9,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "European Office",
+    "address1": "Vladislavova 16",
+    "address2": "",
+    "zip_code": "11000",
+    "city": "Prague",
+    "state_code": null,
+    "country_code": "CZE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

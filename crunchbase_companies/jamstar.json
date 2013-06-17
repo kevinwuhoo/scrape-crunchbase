@@ -1,0 +1,129 @@
+{"name": "JamStar",
+ "permalink": "jamstar",
+ "crunchbase_url": "http://www.crunchbase.com/company/jamstar",
+ "homepage_url": "http://www.jamstar.co/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "jamstarapp",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Guitar Teaching App",
+ "created_at": "Tue May 21 05:48:07 UTC 2013",
+ "updated_at": "Wed May 29 17:19:04 UTC 2013",
+ "overview": "\u003Cp\u003EJamStar is a guitar teaching app, designed by an Israeli programming house.\u003C/p\u003E\n\n\u003Cp\u003EThe premise is simple \u2013 you tune your guitar and then play notes or chords. The app (which runs on a phone or your browser) senses your strum and lets you move on or asks you to repeat the notes. You do this, ad infinitum, until you get good. The app gives you feedback as you play, offering pointers, and you can move from basic G-C-D strumming patterns to, say, more complex folks songs. \u003C/p\u003E\n\n\u003Cp\u003EThe app came to be when Stok noticed his friends playing Guitar Hero and learning nothing from the experience. The app, in turn, acts as sort of a \u201creal\u201d guitar hero. By listening to how you play and responding with almost no latency, JamStar gives you a helpful look at how bad you sound.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       146],
+      "assets/images/resized/0026/8779/268779v1-max-150x150.png"],
+     [[165,
+       161],
+      "assets/images/resized/0026/8779/268779v1-max-250x250.png"],
+     [[165,
+       161],
+      "assets/images/resized/0026/8779/268779v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kobi",
+      "last_name": "Stok",
+      "permalink": "kobi-stok",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisory Board",
+    "person":
+     {"first_name": "Maor",
+      "last_name": "Ezer",
+      "permalink": "maor-ezer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0018/1762/181762v3-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0018/1762/181762v3-max-250x250.jpg"],
+          [[450,
+            300],
+           "assets/images/resized/0018/1762/181762v3-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$800k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2013/05/29/jamstar-is-a-cool-free-app-that-teaches-you-to-play-the-guitar/",
+    "source_description": "JamStar Is A Cool Free App That Teaches You To Play The Guitar",
+    "raised_amount": 800000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Jeff",
+         "last_name": "Pulver",
+         "permalink": "jeff-pulver",
+         "image":
+          {"available_sizes":
+            [[[150,
+               96],
+              "assets/images/resized/0001/6267/16267v1-max-150x150.jpg"],
+             [[197,
+               127],
+              "assets/images/resized/0001/6267/16267v1-max-250x250.jpg"],
+             [[197,
+               127],
+              "assets/images/resized/0001/6267/16267v1-max-450x450.jpg"]],
+           "attribution": ""}}},
+      {"company": null,
+       "financial_org":
+        {"name": "Micro Angel Fund",
+         "permalink": "micro-angel-fund",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        65],
+       "assets/images/resized/0026/8780/268780v1-max-150x150.png"],
+      [[250,
+        108],
+       "assets/images/resized/0026/8780/268780v1-max-250x250.png"],
+      [[450,
+        195],
+       "assets/images/resized/0026/8780/268780v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

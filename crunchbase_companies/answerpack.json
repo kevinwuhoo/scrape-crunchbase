@@ -1,0 +1,122 @@
+{"name": "AnswerPack",
+ "permalink": "answerpack",
+ "crunchbase_url": "http://www.crunchbase.com/company/answerpack",
+ "homepage_url": "http://www.answerpack.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "answerpack",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "answers, questions, reference",
+ "alias_list": null,
+ "email_address": "info@answerpack.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sat Dec 04 06:22:59 UTC 2010",
+ "updated_at": "Tue Dec 07 09:51:39 UTC 2010",
+ "overview": "\u003Cp\u003EAnswerPack is a Questions \u0026amp; Answers search engine that helps askers for any question by connecting them with approved online experts and community.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0011/2837/112837v2-max-150x150.png"],
+     [[250,
+       41],
+      "assets/images/resized/0011/2837/112837v2-max-250x250.png"],
+     [[294,
+       49],
+      "assets/images/resized/0011/2837/112837v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Sezgin",
+      "last_name": "Morgul",
+      "permalink": "sezgin-morgul",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Answers Corporation",
+      "permalink": "answers",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/2311/2311v3-max-150x150.png"],
+          [[218,
+            66],
+           "assets/images/resized/0000/2311/2311v3-max-250x250.png"],
+          [[218,
+            66],
+           "assets/images/resized/0000/2311/2311v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AnswerBag",
+      "permalink": "answerbag",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0002/2011/22011v1-max-150x150.png"],
+          [[240,
+            61],
+           "assets/images/resized/0002/2011/22011v1-max-250x250.png"],
+          [[240,
+            61],
+           "assets/images/resized/0002/2011/22011v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "InboxQ",
+      "permalink": "answerly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0003/2678/32678v4-max-150x150.png"],
+          [[250,
+            97],
+           "assets/images/resized/0003/2678/32678v4-max-250x250.png"],
+          [[342,
+            133],
+           "assets/images/resized/0003/2678/32678v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Istanbul",
+    "state_code": null,
+    "country_code": "TUR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.cariasoftware.com",
+    "title": "Caria Software"}]}

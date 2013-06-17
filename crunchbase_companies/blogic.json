@@ -1,0 +1,98 @@
+{"name": "Blogic",
+ "permalink": "blogic",
+ "crunchbase_url": "http://www.crunchbase.com/company/blogic",
+ "homepage_url": "http://www.blogic.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "blogic",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "blog, blogging-software",
+ "alias_list": null,
+ "email_address": "company@blogic.com",
+ "phone_number": "",
+ "description": "Better blogging software",
+ "created_at": "Wed Jun 22 07:36:04 UTC 2011",
+ "updated_at": "Sun Sep 25 03:20:07 UTC 2011",
+ "overview": "\u003Cp\u003EBlogic is a blogging platform that instantly generates a branded theme matching a company\u0026#8217;s website. It saves website owners time, money and headaches from recreating their site\u0026#8217;s existing theme in another platform such as WordPress.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0014/0533/140533v2-max-150x150.png"],
+     [[250,
+       95],
+      "assets/images/resized/0014/0533/140533v2-max-250x250.png"],
+     [[450,
+       172],
+      "assets/images/resized/0014/0533/140533v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder/CTO",
+    "person":
+     {"first_name": "Alan",
+      "last_name": "Hogan",
+      "permalink": "alan-hogan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder/CEO",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Coleman",
+      "permalink": "sean-coleman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.azdisruptors.com/blog/2011/6/20/az-disruptor-companies-announced.html",
+    "source_description": "AZ Disruptor Companies Announced",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 15,
+    "investments":
+     [{"company":
+        {"name": "AZ Disruptors",
+         "permalink": "az-disruptors",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "AZ Disruptors",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Scottsdale",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,96 @@
+{"name": "Netelligent Hosting",
+ "permalink": "netelligent-hosting",
+ "crunchbase_url": "http://www.crunchbase.com/company/netelligent-hosting",
+ "homepage_url": "http://www.netelligent.ca",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "netelhosting",
+ "category_code": "network_hosting",
+ "number_of_employees": 32,
+ "founded_year": 2000,
+ "founded_month": 9,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-hosting, dedicated-server, cloud, colocation, web-cluster, vm-server",
+ "alias_list": null,
+ "email_address": "info@netelligent.ca",
+ "phone_number": "888-369-2209",
+ "description": "Web Hosting Company",
+ "created_at": "Sat Oct 27 04:39:58 UTC 2012",
+ "updated_at": "Wed Dec 12 07:23:52 UTC 2012",
+ "overview": "\u003Cp\u003EFounded in 2000, Netelligent Hosting Services provides a complete range of customized, scalable hosting solutions specializing in dedicated hosting, colocation and bandwidth services.\u003C/p\u003E\n\n\u003Cp\u003EBased out of Montreal Quebec, we currently occupy space within 6 datacenters in Montreal and planning to expend in a close future to a 7th data center. We own and operate our own BGP4 network (AS10929) and only choose the highest quality providers to be added into our mix.\u003C/p\u003E\n\n\u003Cp\u003EOur varied client base has allowed us to gain valuable experience in all areas of Internet business, from single to complex server clusters on a variety of different platforms as well as colocation, high density, and point-to-point connections.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0021/7508/217508v8-max-150x150.jpg"],
+     [[250,
+       45],
+      "assets/images/resized/0021/7508/217508v8-max-250x250.jpg"],
+     [[450,
+       82],
+      "assets/images/resized/0021/7508/217508v8-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director of Sales and Marketing",
+    "person":
+     {"first_name": "Maxime",
+      "last_name": "Mourieras-Boutin",
+      "permalink": "maxime-mourieras-boutin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "iWeb Technologies",
+      "permalink": "iweb-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            111],
+           "assets/images/resized/0002/7188/27188v5-max-150x150.jpg"],
+          [[240,
+            178],
+           "assets/images/resized/0002/7188/27188v5-max-250x250.jpg"],
+          [[240,
+            178],
+           "assets/images/resized/0002/7188/27188v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Netel-1250",
+    "address1": "1250 Rene-Levesque W.",
+    "address2": "",
+    "zip_code": "H3B4W8",
+    "city": "Montreal",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 45.497356,
+    "longitude": -73.5715126}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pingzine.com/netelligent-upgrades-dedicated-with-intel-xeon-18804/",
+    "title": "Latest upgrade of dedicated servers CPU"},
+   {"external_url": "http://www.thewhir.com/web-hosting-news/canadian-web-host-netelligent-launches-cloud-reseller-hosting-services",
+    "title": "Netelligent Launches Cloud Reseller Services"},
+   {"external_url": "http://www.pingzine.com/netelligent-unveils-new-website-features-18480/",
+    "title": "Netelligent unveils new website"}]}

@@ -1,0 +1,116 @@
+{"name": "MultiMap",
+ "permalink": "multimap",
+ "crunchbase_url": "http://www.crunchbase.com/company/multimap",
+ "homepage_url": "http://www.multimap.com",
+ "blog_url": "http://blog.multimap.com/",
+ "blog_feed_url": "http://blog.multimap.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "map, mapping, geo-tagging",
+ "alias_list": null,
+ "email_address": "info@multimap.com",
+ "phone_number": "+4+44 (0) 20 7632 7777",
+ "description": null,
+ "created_at": "Fri Oct 17 19:49:26 UTC 2008",
+ "updated_at": "Sun Oct 19 19:20:52 UTC 2008",
+ "overview": "\u003Cp\u003EMultimap provides mapping and location-based services. The company delivers online maps, point-to-point driving directions and geo-spatial (\u0026#8220;where\u0026#8217;s my nearest?\u0026#8221;) searches.  All services are offered on mobile, PDA, kiosk, and interactive TV platforms. They also offer a highly-functional API (Application Programming Interface).\u003C/p\u003E\n\n\u003Cp\u003EThe public website, www.multimap.com, provides a range of free, useful services to assist with everyday life. Key features include street-level maps of Europe, USA, Canada, New Zealand, Australia, and some countries in Asia; road maps of the world; door-to-door travel directions; aerial photographs; links to location information; and services such as hotel, restaurant and entertainment booking. www.multimap.com registers more than 190 million page impressions every month, and is the UK\u0026#8217;s most popular online mapping website.\u003C/p\u003E\n\n\u003Cp\u003EMultimap operates as a wholly-owned subsidiary of Microsoft, as part of the Virtual Earth and Search teams in the Online Services Group.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[135,
+       52],
+      "assets/images/resized/0002/6903/26903v1-max-150x150.png"],
+     [[135,
+       52],
+      "assets/images/resized/0002/6903/26903v1-max-250x250.png"],
+     [[135,
+       52],
+      "assets/images/resized/0002/6903/26903v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "MultiMap",
+    "permalink": "multimap",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Web Development Lead",
+    "person":
+     {"first_name": "Andy",
+      "last_name": "Hume",
+      "permalink": "andy-hume",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MapQuest",
+      "permalink": "mapquest",
+      "image":
+       {"available_sizes":
+         [[[140,
+            95],
+           "assets/images/resized/0002/7661/27661v4-max-150x150.png"],
+          [[140,
+            95],
+           "assets/images/resized/0002/7661/27661v4-max-250x250.png"],
+          [[140,
+            95],
+           "assets/images/resized/0002/7661/27661v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.guardian.co.uk/media/2007/dec/12/microsoft.digitalmedia",
+   "source_description": "Microsoft buys Multimap",
+   "acquired_year": 2007,
+   "acquired_month": 12,
+   "acquired_day": 12,
+   "acquiring_company":
+    {"name": "Microsoft",
+     "permalink": "microsoft",
+     "image":
+      {"available_sizes":
+        [[[150,
+           32],
+          "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+         [[250,
+           53],
+          "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+         [[450,
+           96],
+          "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Multimap, UK",
+    "address1": "165 Fleet Street",
+    "address2": "",
+    "zip_code": "EC4A 2DY",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.514165,
+    "longitude": -0.109017}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

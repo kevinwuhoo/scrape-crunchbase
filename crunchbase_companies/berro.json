@@ -1,0 +1,87 @@
+{"name": "Berro",
+ "permalink": "berro",
+ "crunchbase_url": "http://www.crunchbase.com/company/berro",
+ "homepage_url": "http://www.berro.pt",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2003,
+ "founded_month": 9,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "tourism, hotel-reservations, hotel-booking",
+ "alias_list": null,
+ "email_address": "faleconnosco@berro.pt",
+ "phone_number": "+351 291241464",
+ "description": null,
+ "created_at": "Thu Apr 10 08:24:10 UTC 2008",
+ "updated_at": "Thu Dec 01 07:41:44 UTC 2011",
+ "overview": "\u003Cp\u003EBerro is a company specialized in communication solutions for the tourism industry.\u003C/p\u003E\n\n\u003Cp\u003EIn recent years, it has designed, developed, and deployed several projects to small and medium-sized hotels and hotel chains.\nMore recently Berro developed an advanced and scalable web reservations product and service for hotels named Bookyo.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[123,
+       150],
+      "assets/images/resized/0001/7103/17103v1-max-150x150.png"],
+     [[146,
+       177],
+      "assets/images/resized/0001/7103/17103v1-max-250x250.png"],
+     [[146,
+       177],
+      "assets/images/resized/0001/7103/17103v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Bookyo",
+    "permalink": "bookyo",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Pedro",
+      "last_name": "Teixeira",
+      "permalink": "pedro-teixeira",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Rodrigo",
+      "last_name": "Pestana",
+      "permalink": "rodrigo-pestana",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Rua da Mouraria, 50",
+    "address2": "3\u00c2\u00ba",
+    "zip_code": "9000",
+    "city": "Funchal",
+    "state_code": null,
+    "country_code": "PRT",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://bookyo.net",
+    "title": "Bookyo Hotel Web reservation solution"}]}

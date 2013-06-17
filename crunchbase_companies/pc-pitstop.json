@@ -1,0 +1,100 @@
+{"name": "PC Pitstop",
+ "permalink": "pc-pitstop",
+ "crunchbase_url": "http://www.crunchbase.com/company/pc-pitstop",
+ "homepage_url": "http://www.pcpitstop.com/",
+ "blog_url": "http://techtalk.pcpitstop.com/category/the-pit-blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/PcPitstop",
+ "twitter_username": "pcoptimize",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "computer, pc, windows, microsoft, maintenance, error, crash, speed, slow",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Free PC Scan",
+ "created_at": "Sat Feb 27 03:36:41 UTC 2010",
+ "updated_at": "Wed Mar 03 06:17:34 UTC 2010",
+ "overview": "\u003Cp\u003EPC Pitstop offers free computer help.  They have free diagnostic tools to help speed up your computer.  You can scan your computer with their \u0026#8220;Overdrive,\u0026#8221; or their PC health scan, to find out what is slowing down your computer.  They also have several products, including Optimize (a program that performs actions to help speed up your computer), Driver Alert (checks your computer for updated drivers), Exterminate (removes malware), Disk MD (defragments your hard drive), and Erase (removes private data), and PC Matic (all those programs in one).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       64],
+      "assets/images/resized/0007/8864/78864v2-max-150x150.jpg"],
+     [[200,
+       86],
+      "assets/images/resized/0007/8864/78864v2-max-250x250.jpg"],
+     [[200,
+       86],
+      "assets/images/resized/0007/8864/78864v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "PC Pitstop Overdrive",
+    "permalink": "pc-pitstop-overdrive",
+    "image":
+     {"available_sizes":
+       [[[150,
+          64],
+         "assets/images/resized/0007/8867/78867v2-max-150x150.png"],
+        [[229,
+          99],
+         "assets/images/resized/0007/8867/78867v2-max-250x250.png"],
+        [[229,
+          99],
+         "assets/images/resized/0007/8867/78867v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Executive Officer",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Cheng",
+      "permalink": "rob-cheng",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Methvin",
+      "permalink": "dave-methvin",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "PC Pitstop LLC",
+    "address1": "2515 W 22nd St.",
+    "address2": "",
+    "zip_code": "51103",
+    "city": "Sioux City",
+    "state_code": "IA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pcworld.com/article/54826/tools_for_your_pc.html",
+    "title": "Tools for Your PC"},
+   {"external_url": "http://www.ctpc.org/nltr0809/iw0809.htm",
+    "title": "PC PitStop OverDrive \u00e2\u20ac\u201c Free Online Testing and Analysis"}]}

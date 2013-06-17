@@ -1,0 +1,109 @@
+{"name": "SpreadShape",
+ "permalink": "spreadshape",
+ "crunchbase_url": "http://www.crunchbase.com/company/spreadshape",
+ "homepage_url": "http://www.spreadshape.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mipanga, software-development, web-development, web-design",
+ "alias_list": null,
+ "email_address": "office@spreadshape.com",
+ "phone_number": "+43 650 50 15 167",
+ "description": "Web Development",
+ "created_at": "Mon Oct 12 06:58:02 UTC 2009",
+ "updated_at": "Mon Oct 12 21:46:15 UTC 2009",
+ "overview": "\u003Cp\u003ESpreadShape focuses on web development / design and created the social bookmarking service MiPanga.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0006/2441/62441v2-max-150x150.png"],
+     [[245,
+       79],
+      "assets/images/resized/0006/2441/62441v2-max-250x250.png"],
+     [[245,
+       79],
+      "assets/images/resized/0006/2441/62441v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Birke",
+      "permalink": "alexander-birke",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Dominik",
+      "last_name": "Hackl",
+      "permalink": "dominik-hackl",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Mittergasse 25",
+    "address2": "",
+    "zip_code": "3420",
+    "city": "Kritzendorf",
+    "state_code": null,
+    "country_code": "AUT",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0006/2440/62440v2-max-150x150.png"],
+      [[250,
+        125],
+       "assets/images/resized/0006/2440/62440v2-max-250x250.png"],
+      [[450,
+        226],
+       "assets/images/resized/0006/2440/62440v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.mipanga.com",
+    "title": "MiPanga"}]}

@@ -1,0 +1,121 @@
+{"name": "deploydo",
+ "permalink": "deploydo",
+ "crunchbase_url": "http://www.crunchbase.com/company/deploydo",
+ "homepage_url": "https://www.deploy.do",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "deploydo",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 12,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "deployment, php, ruby, servers, amazon-web-services, rackspace",
+ "alias_list": null,
+ "email_address": "support@deploy.do",
+ "phone_number": "",
+ "description": "Deployment Made Easy",
+ "created_at": "Wed Dec 12 18:22:19 UTC 2012",
+ "updated_at": "Sat Dec 22 02:24:40 UTC 2012",
+ "overview": "\u003Cp\u003Edeploydo is a SaaS tool for deploying source code to one or multiple servers. The main features include line-by-line comparisons before actually deploying and the highly optimized process that guarantees a minimum downtime.\u003C/p\u003E\n\n\u003Cp\u003EThe target audience of deploydo includes tech startups, agencies and individual developers and sysadmins.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0022/6287/226287v2-max-150x150.png"],
+     [[250,
+       65],
+      "assets/images/resized/0022/6287/226287v2-max-250x250.png"],
+     [[450,
+       118],
+      "assets/images/resized/0022/6287/226287v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Peiniger",
+      "permalink": "alexander-peiniger",
+      "image":
+       {"available_sizes":
+         [[[94,
+            150],
+           "assets/images/resized/0022/7065/227065v2-max-150x150.jpg"],
+          [[158,
+            250],
+           "assets/images/resized/0022/7065/227065v2-max-250x250.jpg"],
+          [[284,
+            450],
+           "assets/images/resized/0022/7065/227065v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Frederik",
+      "last_name": "Peiniger",
+      "permalink": "frederik-peiniger",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Cologne Office",
+    "address1": "Im Klapperhof 7-23",
+    "address2": "",
+    "zip_code": "50670",
+    "city": "Cologne",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0022/5089/225089v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0022/5089/225089v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0022/5089/225089v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

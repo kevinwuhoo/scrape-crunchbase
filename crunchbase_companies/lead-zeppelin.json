@@ -1,0 +1,131 @@
+{"name": "Lead Zeppelin",
+ "permalink": "lead-zeppelin",
+ "crunchbase_url": "http://www.crunchbase.com/company/lead-zeppelin",
+ "homepage_url": "http://www.leadzep.com",
+ "blog_url": "http://blog.leadzep.com",
+ "blog_feed_url": "http://blog.leadzep.com/feed/",
+ "twitter_username": "leadzeppelin",
+ "category_code": "ecommerce",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "crm",
+ "alias_list": null,
+ "email_address": "info@leadzep.com",
+ "phone_number": "",
+ "description": "Web based CRM",
+ "created_at": "Tue Dec 08 05:13:07 UTC 2009",
+ "updated_at": "Wed Apr 27 18:19:55 UTC 2011",
+ "overview": "\u003Cp\u003ELead Zeppelin is an easy-to-use web CRM that keeps your contacts (customers) separate from your leads. Add your team and you can assign leads to them, share files and add tasks. Web-to-lead forms can be created for integration with your website.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0007/0665/70665v2-max-150x150.png"],
+     [[250,
+       49],
+      "assets/images/resized/0007/0665/70665v2-max-250x250.png"],
+     [[328,
+       65],
+      "assets/images/resized/0007/0665/70665v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Gockel",
+      "permalink": "eric-gockel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SugarCRM",
+      "permalink": "sugarcrm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            16],
+           "assets/images/resized/0000/3001/3001v5-max-150x150.png"],
+          [[250,
+            28],
+           "assets/images/resized/0000/3001/3001v5-max-250x250.png"],
+          [[450,
+            50],
+           "assets/images/resized/0000/3001/3001v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bantam Live",
+      "permalink": "bantam",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/0421/40421v3-max-150x150.png"],
+          [[172,
+            50],
+           "assets/images/resized/0004/0421/40421v3-max-250x250.png"],
+          [[172,
+            50],
+           "assets/images/resized/0004/0421/40421v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "60607",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        89],
+       "assets/images/resized/0006/9244/69244v2-max-150x150.png"],
+      [[250,
+        149],
+       "assets/images/resized/0006/9244/69244v2-max-250x250.png"],
+      [[450,
+        268],
+       "assets/images/resized/0006/9244/69244v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

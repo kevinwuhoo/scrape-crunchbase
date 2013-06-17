@@ -1,0 +1,136 @@
+{"name": "PayLoadz",
+ "permalink": "payloadz",
+ "crunchbase_url": "http://www.crunchbase.com/company/payloadz",
+ "homepage_url": "http://www.payloadz.com",
+ "blog_url": "http://blog.payloadz.com",
+ "blog_feed_url": "http://payloadz.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": "payloadz",
+ "category_code": "web",
+ "number_of_employees": 15,
+ "founded_year": 2004,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "downloads, digital-goods, virtual-goods",
+ "alias_list": null,
+ "email_address": "support@payloadz.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Feb 28 20:13:32 UTC 2008",
+ "updated_at": "Thu May 10 14:06:43 UTC 2012",
+ "overview": "\u003Cp\u003EPayLoadz provides a downloadable goods ecommerce platform for people to sell digital items, such as: Software, eBooks, music, movies, digital art, manuals, articles, certificates, forms, files, and anything else that can be downloaded. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0002/7060/27060v2-max-150x150.png"],
+     [[155,
+       64],
+      "assets/images/resized/0002/7060/27060v2-max-250x250.png"],
+     [[155,
+       64],
+      "assets/images/resized/0002/7060/27060v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Downloadable Goods eCommerce",
+    "permalink": "downloadable-goods-ecommerce",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Shannon",
+      "last_name": "Sofield",
+      "permalink": "shannon-sofield",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "E-junkie",
+      "permalink": "e-junkie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0001/3993/13993v1-max-150x150.png"],
+          [[229,
+            81],
+           "assets/images/resized/0001/3993/13993v1-max-250x250.png"],
+          [[229,
+            81],
+           "assets/images/resized/0001/3993/13993v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "DPD: Digital Product Delivery",
+      "permalink": "dpd-digital-product-delivery",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0008/7605/87605v2-max-150x150.png"],
+          [[178,
+            53],
+           "assets/images/resized/0008/7605/87605v2-max-250x250.png"],
+          [[178,
+            53],
+           "assets/images/resized/0008/7605/87605v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gumroad",
+      "permalink": "gumroad-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0016/3936/163936v4-max-150x150.png"],
+          [[248,
+            64],
+           "assets/images/resized/0016/3936/163936v4-max-250x250.png"],
+          [[248,
+            64],
+           "assets/images/resized/0016/3936/163936v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main",
+    "address1": "",
+    "address2": "",
+    "zip_code": "19106",
+    "city": "Philadelphia",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": 40.738832,
+    "longitude": -73.981534}],
+ "milestones":
+  [{"description": "$50M in Transactions Processed",
+    "stoned_year": 2011,
+    "stoned_month": 7,
+    "stoned_day": 26,
+    "source_url": "http://www.prweb.com/releases/PayLoadz/Digital-Download/prweb8655759.htm",
+    "source_text": null,
+    "source_description": "PayLoadz Digital Download Service Reaches $50M in Transactions Processed",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "PayLoadz",
+      "permalink": "payloadz"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

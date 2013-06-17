@@ -1,0 +1,155 @@
+{"name": "Go2it",
+ "permalink": "go2it",
+ "crunchbase_url": "http://www.crunchbase.com/company/go2it",
+ "homepage_url": "http://www.go2it.com",
+ "blog_url": "http://www.go2it.com/blog",
+ "blog_feed_url": "http://go2it.com/blog/feed/",
+ "twitter_username": "mygo2it",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "trip-planner, event-planner, organize-bills, organize-expenses, plan-trips, plan-events, easy-trip-planner",
+ "alias_list": null,
+ "email_address": "contact@go2it.com",
+ "phone_number": "4086570092",
+ "description": "Events, Trips and Bills",
+ "created_at": "Thu Apr 07 17:53:45 UTC 2011",
+ "updated_at": "Tue Apr 10 21:41:33 UTC 2012",
+ "overview": "\u003Cp\u003EGo2it is a one-stop shop to organize events, trips and expenses.  Go2it\u0026#8217;s web application seamlessly integrates the core planning tools that would allow users to plan trips, events and figure out costs.  \u003C/p\u003E\n\n\u003Cp\u003EFeatures of Go2it include:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ECollaborate with friends and family to plan events and trips\u003C/li\u003E\n\u003Cli\u003EPersonalize event invitations with video messages\u003C/li\u003E\n\u003Cli\u003EReceive recommendations on what to do, where to go and see\u003C/li\u003E\n\u003Cli\u003EKeep track of trip and event expenses\u003C/li\u003E\n\u003Cli\u003ECreate money pools for trips and events ahead of time\u003C/li\u003E\n\u003Cli\u003ESettle trip and event-related expenses afterwards\u003C/li\u003E\n\u003Cli\u003EInvite friends and family members from social networks\u003C/li\u003E\n\u003Cli\u003EShare photos and videos from trips and events on social networks \u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0012/9663/129663v2-max-150x150.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0012/9663/129663v2-max-250x250.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0012/9663/129663v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Anh",
+      "last_name": "Nguyen",
+      "permalink": "anh-nguyen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Technical Officer",
+    "person":
+     {"first_name": "Manimaran",
+      "last_name": "Gunasekaran",
+      "permalink": "manimaran-gunasekaran",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Karthik",
+      "last_name": "Chandhramoulie",
+      "permalink": "karthik-chandhramoulie",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Designer \u0026 UI",
+    "person":
+     {"first_name": "Santhana",
+      "last_name": "Krishnan",
+      "permalink": "santhana-krishnan-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Sampath",
+      "last_name": "Lakshmanan",
+      "permalink": "sampath-lakshmanan",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Punchbowl",
+      "permalink": "mypunchbowl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0001/3280/13280v3-max-150x150.png"],
+          [[232,
+            48],
+           "assets/images/resized/0001/3280/13280v3-max-250x250.png"],
+          [[232,
+            48],
+           "assets/images/resized/0001/3280/13280v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TripIt",
+      "permalink": "tripit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0000/0274/274v1-max-150x150.png"],
+          [[200,
+            108],
+           "assets/images/resized/0000/0274/274v1-max-250x250.png"],
+          [[200,
+            108],
+           "assets/images/resized/0000/0274/274v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BillMonk",
+      "permalink": "billmonk",
+      "image":
+       {"available_sizes":
+         [[[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-150x150.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-250x250.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Visitors can now sign up to be invited as beta users for Go2it.",
+    "stoned_year": 2011,
+    "stoned_month": 5,
+    "stoned_day": 26,
+    "source_url": "http://beta.mygo2it.com",
+    "source_text": null,
+    "source_description": "Sign up for Go2it beta is open",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Go2it",
+      "permalink": "go2it"}}],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe title=\"YouTube video player\" width=\"450\" height=\"283\" src=\"http://www.youtube.com/embed/sX_4Tq8WeYs?rel=0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EWhat is Go2it?\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

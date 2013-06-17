@@ -1,0 +1,89 @@
+{"name": "Netemic",
+ "permalink": "netemic",
+ "crunchbase_url": "http://www.crunchbase.com/company/netemic",
+ "homepage_url": "http://netemic.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2006,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-media, monitoring, analysis, tracking, nlp, metrics, blogosphere, user-generated-content",
+ "alias_list": null,
+ "email_address": "info@netemic.com",
+ "phone_number": "+44(0)208 392 4080",
+ "description": null,
+ "created_at": "Wed Jul 09 18:07:56 UTC 2008",
+ "updated_at": "Sat Sep 06 13:55:48 UTC 2008",
+ "overview": "\u003Cp\u003ENetemic is a UK-based media software company whose product iFeed is an automated online media monitoring and analysis tool that provides user-driven, real time access to social media content.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0002/1731/21731v2-max-150x150.png"],
+     [[250,
+       53],
+      "assets/images/resized/0002/1731/21731v2-max-250x250.png"],
+     [[450,
+       97],
+      "assets/images/resized/0002/1731/21731v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "iFeed",
+    "permalink": "ifeed",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Orchard",
+      "permalink": "andrew-orchard",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO, Founder",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Quick",
+      "permalink": "tom-quick",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London Office",
+    "address1": "Prospect Studios",
+    "address2": "67 Barnes High Street",
+    "zip_code": "SW13 9LE",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.brandrepublic.com/Discipline/Digital/News/809215/PRCA-endorses-Netemics-Web-20-monitoring-tool/",
+    "title": "PRCA endorses Netemic's Web 2.0 monitoring tool"},
+   {"external_url": "http://www.marketingservicestalk.com/news/nem/nem100.html",
+    "title": "Netemic launches iFeed tool for blog monitoring"}]}

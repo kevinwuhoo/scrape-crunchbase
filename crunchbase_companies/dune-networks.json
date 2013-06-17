@@ -1,0 +1,105 @@
+{"name": "Dune Networks",
+ "permalink": "dune-networks",
+ "crunchbase_url": "http://www.crunchbase.com/company/dune-networks",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "public_relations",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "408-738-3322",
+ "description": "",
+ "created_at": "Sun Feb 07 09:37:19 UTC 2010",
+ "updated_at": "Thu Aug 12 02:17:27 UTC 2010",
+ "overview": "\u003Cp\u003EDune Networks, Inc. operates as a fabless semiconductor supplier of networking devices that facilitate the building of data center, and enterprise and carrier Ethernet switching platforms. It provides SAND chip-set that includes a family of fabric element devices and fabric access processor (FAP) devices. The company offers SAND fabric that is used to build a single and unified hardware-switching platform for carrier core and edge router platforms, carrier Ethernet switching platforms, carrier next generation packet transport platforms, enterprise Ethernet switches and routers, and data center switching platforms. It also provides FAP devices that work as stand-alone traffic managers; Petra solution, which enables system vendors to design switching line cards for data center and carrier access applications; carrier-grade MAC devices that provides traffic-management and congestion-management capabilities; and reference systems for various configurations and applications. The company was founded in 2000 and is headquartered in Sunnyvale, California with an additional office in Yakum, Israel. As of December 14, 2009, Dune Networks, Inc. operates as a subsidiary of Broadcom Corp.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eyal",
+      "last_name": "Dagan",
+      "permalink": "eyal-dagan-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Fisher",
+      "permalink": "adam-fisher",
+      "image": null}},
+   {"is_past": true,
+    "title": "Observer",
+    "person":
+     {"first_name": "Jacques",
+      "last_name": "Benkoski",
+      "permalink": "jacques-benkoski",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 8,
+    "funded_day": 12,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Siemens Venture Capital",
+         "permalink": "siemens-venture-capital",
+         "image":
+          {"available_sizes":
+            [[[129,
+               20],
+              "assets/images/resized/0003/0265/30265v1-max-150x150.jpg"],
+             [[129,
+               20],
+              "assets/images/resized/0003/0265/30265v1-max-250x250.jpg"],
+             [[129,
+               20],
+              "assets/images/resized/0003/0265/30265v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "710 Lakeway Drive",
+    "address2": "Suite 265",
+    "zip_code": "94085",
+    "city": "Sunnyvale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,113 @@
+{"name": "GridVirt",
+ "permalink": "gridvirt",
+ "crunchbase_url": "http://www.crunchbase.com/company/gridvirt",
+ "homepage_url": "http://www.gridvirt.com",
+ "blog_url": "http://www.gridvirt.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "GridVirt",
+ "category_code": "network_hosting",
+ "number_of_employees": 10,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "linux-vps, windows-vps, ssd-cloud, solid-state-drive-hosting",
+ "alias_list": null,
+ "email_address": "pr@gridvirt.com",
+ "phone_number": "NA",
+ "description": "SSD Cloud Hosting",
+ "created_at": "Mon Aug 27 17:23:34 UTC 2012",
+ "updated_at": "Wed Aug 29 20:55:43 UTC 2012",
+ "overview": "\u003Cp\u003EGridVirt.com is an Industry leader in IO intensive VPS offerings. While they are little known at this point they are starting to make waves in the community with their extreme performance.\u003C/p\u003E\n\n\u003Cp\u003EGridVirt just recently switched to full SSD Cloud services. Their base plan the \u0026#8220;1 Node\u0026#8221; averages 900MB/sec sequential throughput, and 100K+ random R/W IOPS. This makes their Windows VPS and Linux VPS the highest performance to price ratio in the Industry today with a price tag of only $25.\u003C/p\u003E\n\n\u003Cp\u003EGridVirt uses strictly KVM Virtualization in their VPS Cloud. KVM while not well known to the consumer is quickly gaining recognition for its true hardware paravirtualization and better isolation of resources compared to OpenVZ and Xen. GridVirt\u0026#8217;s cloud is purely SSD (Solid State Drive). \u0026#8220;Both myself and Seann believe that SSD based Cloud hosting is the way of the future and we have put everything into this belief\u0026#8221;, says Co-Owner and COO Lorne Wanamaker. There are very few purely SSD based Cloud services out there at this time and they are gaining popularity with users that need serious IO performance. When asked about GridVirt\u0026#8217;s extreme cloud performance and how they managed to get to the top Lorne said \u0026#8220;We worked hard for almost a year testing different combinations of hardware and software before we came up with the \u0026#8220;secret sauce\u0026#8221;. That\u2019s about all you will get out of me on that subject!\u201d\u003C/p\u003E\n\n\u003Cp\u003ECloud hosting is continually gaining more support with more and more hosting companies making the switch. The increased flexibility, power, and redundancy are hard to ignore. More consumers are letting go of their shared hosting, and regular VPS to get in the cloud. Many are even dumping there dedicated servers in favor of Cloud hosting. When you buy VPS hosting today there really is no reason not to go with a cloud based provider.\u003C/p\u003E\n\n\u003Cp\u003E\u0026#8220;We are happy, at the same time as this move \u0026#8220;Into The Cloud\u0026#8221;, to also offer our customers SSL, Domains, and Managed DNS Services (free up to 20 domains), and a new East Coast Location. This is an exciting time for GridVirt\u0026#8221;, says Lorne Wanamaker. GridVirt\u0026#8217;s new East Coast location is the State Of The Art DuPont Fabros NJ1 top tier SAS 70 Type II audited Piscataway, New Jersey facility. This Data Center is considered by many to be the best connected datacenter on the East Coast. \u0026#8220;We knew people in Europe were really wanting a service like ours (SSD) and received many requests for an East Coast location and this is our answer\u0026#8221;, says Lorne Wanamaker.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       79],
+      "assets/images/resized/0020/8345/208345v2-max-150x150.png"],
+     [[250,
+       132],
+      "assets/images/resized/0020/8345/208345v2-max-250x250.png"],
+     [[450,
+       238],
+      "assets/images/resized/0020/8345/208345v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Mr",
+    "person":
+     {"first_name": "Lorne",
+      "last_name": "Wanamaker",
+      "permalink": "lorne-wanamaker",
+      "image": null}},
+   {"is_past": true,
+    "title": "Mr",
+    "person":
+     {"first_name": "Seann",
+      "last_name": "Gearheart",
+      "permalink": "seann-gearheart",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "vpsdeploy",
+      "permalink": "vpsdeploy",
+      "image": null}},
+   {"competitor":
+     {"name": "dotblock",
+      "permalink": "dotblock",
+      "image": null}},
+   {"competitor":
+     {"name": "vpsville",
+      "permalink": "vpsville",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0020/8343/208343v2-max-150x150.png"],
+      [[250,
+        159],
+       "assets/images/resized/0020/8343/208343v2-max-250x250.png"],
+      [[450,
+        287],
+       "assets/images/resized/0020/8343/208343v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0020/8344/208344v2-max-150x150.png"],
+      [[250,
+        159],
+       "assets/images/resized/0020/8344/208344v2-max-250x250.png"],
+      [[450,
+        287],
+       "assets/images/resized/0020/8344/208344v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://serverbear.com/9778/gridvirt#review",
+    "title": "GridVirt ServerBear Review/Benchmark"},
+   {"external_url": "http://vpseer.com/blog/22/gridvirt-switch-hyperspeed",
+    "title": "GridVirt VPSeer Review/Benchmark"},
+   {"external_url": "http://reviews.myhken.com/?page_id=36",
+    "title": "GridVirt Myhken Review/Benchmark"}]}

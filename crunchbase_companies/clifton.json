@@ -1,0 +1,102 @@
+{"name": "Clifton",
+ "permalink": "clifton",
+ "crunchbase_url": "http://www.crunchbase.com/company/clifton",
+ "homepage_url": "http://www.clifton.ee/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "semiconductor",
+ "number_of_employees": 20,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "power-electronics, power-semiconductors, gallium-arsenide, epitaxy",
+ "alias_list": null,
+ "email_address": "info@clifton.ee",
+ "phone_number": "+372 730 1540",
+ "description": "GaAs structures manufacturer",
+ "created_at": "Fri Apr 02 15:25:45 UTC 2010",
+ "updated_at": "Mon Apr 05 02:28:02 UTC 2010",
+ "overview": "\u003Cp\u003EClifton has developed an industrially stable process for gallium arsenide Liquid Phase Epitaxy, and is using it to manufacture dies for high temperature ultra-fast recovery PIN power diodes. Compared to conventional Silicon diodes, GaAs has superior performance characteristics, including:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Ehigher maximum junction temperature (up to +260 Celsius)\u003C/li\u003E\n\u003Cli\u003Etemperature independent dynamic recovery characteristics\u003C/li\u003E\n\u003Cli\u003Elower leakage current\u003C/li\u003E\n\u003Cli\u003Eradiation hardness\u003C/li\u003E\n\u003Cli\u003Ehigh reverse voltage capability (up to 1000V)\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0008/2865/82865v1-max-150x150.png"],
+     [[193,
+       74],
+      "assets/images/resized/0008/2865/82865v1-max-250x250.png"],
+     [[193,
+       74],
+      "assets/images/resized/0008/2865/82865v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jaak",
+      "last_name": "Anton",
+      "permalink": "jaak-anton",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.asi.ee/news/ambient_invests_in_semiconductor_maker",
+    "source_description": "ASI invests in semiconductor maker",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 3,
+    "funded_day": 27,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Ambient Sound Investments",
+         "permalink": "ambient-sound-investments",
+         "image":
+          {"available_sizes":
+            [[[150,
+               8],
+              "assets/images/resized/0002/2826/22826v5-max-150x150.png"],
+             [[250,
+               14],
+              "assets/images/resized/0002/2826/22826v5-max-250x250.png"],
+             [[250,
+               14],
+              "assets/images/resized/0002/2826/22826v5-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Riia 185a",
+    "address2": "",
+    "zip_code": "51014",
+    "city": "Tartu",
+    "state_code": null,
+    "country_code": "EST",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,118 @@
+{"name": "Pcsso",
+ "permalink": "pcsso",
+ "crunchbase_url": "http://www.crunchbase.com/company/pcsso",
+ "homepage_url": "http://www.pcsso.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "product-suggestion, image-search, product-search, cbir, image-retrieval",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "image based product suggestion",
+ "created_at": "Mon Feb 04 23:12:05 UTC 2013",
+ "updated_at": "Tue May 28 21:36:38 UTC 2013",
+ "overview": "\u003Cp\u003EPcsso is an API for product suggestion based on image search (i.e. Content-Based Image Retrieval).  It\u0026#8217;s suitable for a wide variety of product types, from fashion to electronics and enables merchants to give their users an optimal product browsing and purchasing experience.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[90,
+       150],
+      "assets/images/resized/0023/3615/233615v2-max-150x150.jpg"],
+     [[100,
+       165],
+      "assets/images/resized/0023/3615/233615v2-max-250x250.jpg"],
+     [[100,
+       165],
+      "assets/images/resized/0023/3615/233615v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Kris",
+      "last_name": "Woodbeck",
+      "permalink": "kris-woodbeck",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Marco",
+      "last_name": "Janeczek",
+      "permalink": "marco-janeczek",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "Rachel Chen",
+      "permalink": "dr-rachel-chen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$10k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.hatchbrands.com/hatchbrands-fund-i.html",
+    "source_description": "",
+    "raised_amount": 10000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "hatchbrands",
+         "permalink": "hatchbrands",
+         "image":
+          {"available_sizes":
+            [[[150,
+               42],
+              "assets/images/resized/0014/1458/141458v2-max-150x150.png"],
+             [[250,
+               71],
+              "assets/images/resized/0014/1458/141458v2-max-250x250.png"],
+             [[299,
+               85],
+              "assets/images/resized/0014/1458/141458v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0023/3614/233614v2-max-150x150.jpg"],
+      [[250,
+        152],
+       "assets/images/resized/0023/3614/233614v2-max-250x250.jpg"],
+      [[450,
+        275],
+       "assets/images/resized/0023/3614/233614v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

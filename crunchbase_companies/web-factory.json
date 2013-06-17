@@ -1,0 +1,116 @@
+{"name": "Web Factory",
+ "permalink": "web-factory",
+ "crunchbase_url": "http://www.crunchbase.com/company/web-factory",
+ "homepage_url": "http://webfactory.mk",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "webfactory_mk",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "iphone, ipad, ios, android, windows-phone, mobile-applications",
+ "alias_list": null,
+ "email_address": "info@webfactory.mk",
+ "phone_number": "+38926142030",
+ "description": "mobile \u0026 web development",
+ "created_at": "Sat Mar 10 00:21:52 UTC 2012",
+ "updated_at": "Mon Mar 19 04:02:09 UTC 2012",
+ "overview": "\u003Cp\u003ECompany with aim to implement of innovative ideas in the field of domestic and global web.\u003C/p\u003E\n\n\u003Cp\u003EMain fields, which the company is interested in, are: mobile application, web based systems, data mining, etc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0017/7518/177518v2-max-150x150.png"],
+     [[250,
+       187],
+      "assets/images/resized/0017/7518/177518v2-max-250x250.png"],
+     [[400,
+       300],
+      "assets/images/resized/0017/7518/177518v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Stefan",
+      "last_name": "Traykovski",
+      "permalink": "stefan-traykovski",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mihajlo",
+      "last_name": "Shterjov",
+      "permalink": "mihajlo-shterjov",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Todor",
+      "last_name": "Panev",
+      "permalink": "todor-panev",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ilija",
+      "last_name": "Lalkovski",
+      "permalink": "ilija-lalkovski",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Second place on the Macedonian national VIP mobile operator Android mobile development contest",
+      "permalink": "second-place-on-the-macedonian-national-vip-mobile-operator-android-mobile-development-contest",
+      "image": null}},
+   {"competitor":
+     {"name": "1st to get the 4shared award for implementig their API into mobile application - QikCam",
+      "permalink": "1st-to-get-the-4shared-award-for-implementig-their-api-into-mobile-application-qikcam",
+      "image": null}},
+   {"competitor":
+     {"name": "1st place (winners) in the Android video category on Best Apps 2011 Contest",
+      "permalink": "1st-place-winners-in-the-android-video-category-on-best-apps-2011-contest",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Gjuro Gjakovik Street, No 16/10",
+    "address2": "",
+    "zip_code": "1000",
+    "city": "Skopje",
+    "state_code": null,
+    "country_code": "MKD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://thenextweb.com/apps/2011/06/12/5-free-must-have-android-apps-for-photographers/",
+    "title": "TNW for QikCam by Web Factory"},
+   {"external_url": "http://howto.cnet.com/8301-11310_39-20081194-285/how-to-take-one-press-pictures-and-videos-with-your-android-device/",
+    "title": "c|net for QikCam by Web Factory"},
+   {"external_url": "http://appscout.pcmag.com/android/268235-qikcam-widget-for-android-never-miss-a-photo-opp",
+    "title": "PC Magazine for QikCam by Web Factory"},
+   {"external_url": "http://bestappever.com/awards/2011/winner/vido",
+    "title": "Best App Ever Awards 2011"}]}

@@ -1,0 +1,63 @@
+{"name": "MongoDB",
+ "permalink": "mongodb",
+ "crunchbase_url": "http://www.crunchbase.com/company/mongodb",
+ "homepage_url": "http://mongodb.org",
+ "blog_url": "http://blog.mongodb.org",
+ "blog_feed_url": "",
+ "twitter_username": "MongoDB",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Feb 10 08:37:16 UTC 2012",
+ "updated_at": "Wed Apr 03 10:36:19 UTC 2013",
+ "overview": "\u003Cp\u003EMongoDB is a document database that provides high performance, high availability, and easy scalability.\u003C/p\u003E\n\n\u003Cp\u003EDocument Database\u003C/p\u003E\n\n\u003Cp\u003EDocuments (objects) map nicely to programming language data types.\nEmbedded documents and arrays reduce need for joins.\nDynamic schema makes polymorphism easier.\u003C/p\u003E\n\n\u003Cp\u003EHigh Performance\u003C/p\u003E\n\n\u003Cp\u003EEmbedding makes reads and writes fast.\nIndexes can include keys from embedded documents and arrays.\nOptional streaming writes (no acknowledgments).\u003C/p\u003E\n\n\u003Cp\u003EHigh Availability\u003C/p\u003E\n\n\u003Cp\u003EReplicated servers with automatic master failover.\u003C/p\u003E\n\n\u003Cp\u003EEasy Scalability\u003C/p\u003E\n\n\u003Cp\u003EAutomatic sharding distributes collection data across machines.\nEventually-consistent reads can be distributed over replicated servers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       62],
+      "assets/images/resized/0024/7310/247310v1-max-150x150.png"],
+     [[217,
+       90],
+      "assets/images/resized/0024/7310/247310v1-max-250x250.png"],
+     [[217,
+       90],
+      "assets/images/resized/0024/7310/247310v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

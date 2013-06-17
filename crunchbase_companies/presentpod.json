@@ -1,0 +1,126 @@
+{"name": "PresentPod",
+ "permalink": "presentpod",
+ "crunchbase_url": "http://www.crunchbase.com/company/presentpod",
+ "homepage_url": "http://presentpod.com",
+ "blog_url": "http://about.presentpod.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "PresentPod",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, product-discovery, gift-list, wishlist, gift, present-planning",
+ "alias_list": null,
+ "email_address": "hello@presentpod.com",
+ "phone_number": "",
+ "description": "Gift wishlist \u0026 product discovery",
+ "created_at": "Tue Jan 17 11:14:35 UTC 2012",
+ "updated_at": "Wed Jan 18 23:20:16 UTC 2012",
+ "overview": "\u003Cp\u003EPresent Pod is social product sharing and discovery site providing users a single place to capture stuff they have purchased, or wish to purchase.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[148,
+       90],
+      "assets/images/resized/0017/0506/170506v2-max-150x150.png"],
+     [[148,
+       90],
+      "assets/images/resized/0017/0506/170506v2-max-250x250.png"],
+     [[148,
+       90],
+      "assets/images/resized/0017/0506/170506v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "William",
+      "last_name": "Simmons",
+      "permalink": "william-simmons",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Colman",
+      "permalink": "stephen-colman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Kastner",
+      "permalink": "chris-kastner",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "wishlistr.com",
+      "permalink": "wishlistr-com",
+      "image": null}},
+   {"competitor":
+     {"name": "WishList.com",
+      "permalink": "wishlist-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/1396/41396v2-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0004/1396/41396v2-max-250x250.png"],
+          [[450,
+            131],
+           "assets/images/resized/0004/1396/41396v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shopography",
+      "permalink": "shopography",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0011/9651/119651v4-max-150x150.png"],
+          [[250,
+            36],
+           "assets/images/resized/0011/9651/119651v4-max-250x250.png"],
+          [[438,
+            64],
+           "assets/images/resized/0011/9651/119651v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        108],
+       "assets/images/resized/0017/0505/170505v2-max-150x150.png"],
+      [[250,
+        181],
+       "assets/images/resized/0017/0505/170505v2-max-250x250.png"],
+      [[450,
+        326],
+       "assets/images/resized/0017/0505/170505v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

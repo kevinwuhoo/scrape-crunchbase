@@ -1,0 +1,132 @@
+{"name": "Flavorize",
+ "permalink": "flavorize",
+ "crunchbase_url": "http://www.crunchbase.com/company/flavorize",
+ "homepage_url": "http://www.flavorize.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "flavorize",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "food, recommendation-engine, dining-out, restaurants, menus, tastes, ordering",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Food recommendation engine",
+ "created_at": "Fri Nov 12 20:14:28 UTC 2010",
+ "updated_at": "Mon Apr 25 05:31:21 UTC 2011",
+ "overview": "\u003Cp\u003EFlavorize helps you figure out where and what to eat by recommending dishes that you\u00e2\u20ac\u2122ll love at restaurants based on your tastes - think of us as Pandora for food.\u003C/p\u003E\n\n\u003Cp\u003EAll a user has to do is rate a handful of dishes and we can start recommending dishes tailored to their tastes.  We\u0026#8217;ve built a food ontology to create pre-generated flavor profiles for most dishes (breaking a dish down into flavors, textures, preparations and dietary restrictions) and a recommendation engine that generates FlavorMatch scores between a user and a dish as well as for other users.  \u003C/p\u003E\n\n\u003Cp\u003EAfter signing up for free, you\u0026#8217;ll review a few dishes or take one of our food quizzes.  In as little as ten reviews, you\u0026#8217;ll have your unique Flavorize Taste Profile.  Then, when you\u0026#8217;re craving something sweet and salty while out and about in, say, The East Village, your Flavorize mobile app will recommend that you\u0026#8217;ll love the fried chicken and waffles at Five Points.  It\u0026#8217;ll even provide a SmartMenu that will show you exactly what\u0026#8217;s good at Five Points according to your tastes.  How does Flavorize know?  We calculate dish compatibility based on your Flavorize dish reviews of other dishes from other restaurants.  You loved the glazed ribs (sweet) at Agozar and Belgian frites (salty and crunchy) at Pommes Frites?  Flavorize recommends chicken and waffles - and the best place to get it near you.\u003C/p\u003E\n\n\u003Cp\u003EFlavorize works when you\u0026#8217;re in a restaurant (mobile app) or when you\u0026#8217;re at home ordering in (desktop).  And the more you use Flavorize, the better the recommendations. \u003C/p\u003E\n\n\u003Cp\u003EFlavorize is currently in private beta in NYC and SF and the team is based in NYC.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0011/1257/111257v4-max-150x150.jpg"],
+     [[209,
+       79],
+      "assets/images/resized/0011/1257/111257v4-max-250x250.jpg"],
+     [[209,
+       79],
+      "assets/images/resized/0011/1257/111257v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Product Lead",
+    "person":
+     {"first_name": "Eunice",
+      "last_name": "Chou",
+      "permalink": "eunice-chou",
+      "image":
+       {"available_sizes":
+         [[[108,
+            150],
+           "assets/images/resized/0011/2541/112541v2-max-150x150.png"],
+          [[180,
+            250],
+           "assets/images/resized/0011/2541/112541v2-max-250x250.png"],
+          [[325,
+            450],
+           "assets/images/resized/0011/2541/112541v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Tech Advisor",
+    "person":
+     {"first_name": "Franco",
+      "last_name": "Yuvienco",
+      "permalink": "franco-yuvienco",
+      "image": null}},
+   {"is_past": false,
+    "title": "Engineering",
+    "person":
+     {"first_name": "Graham",
+      "last_name": "Gibbons",
+      "permalink": "graham-gibbons",
+      "image": null}},
+   {"is_past": false,
+    "title": "Tech Lead",
+    "person":
+     {"first_name": "Dami",
+      "last_name": "Omojola",
+      "permalink": "dami-oomojola",
+      "image": null}},
+   {"is_past": true,
+    "title": "Design Lead",
+    "person":
+     {"first_name": "Danika",
+      "last_name": "Landers",
+      "permalink": "danika-landers",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0022/8662/228662v2-max-150x150.jpg"],
+          [[249,
+            250],
+           "assets/images/resized/0022/8662/228662v2-max-250x250.jpg"],
+          [[449,
+            450],
+           "assets/images/resized/0022/8662/228662v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Incubation",
+    "is_past": false,
+    "provider":
+     {"name": "Churnless",
+      "permalink": "churnless",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "New York City",
+    "address1": "34 Avenue A",
+    "address2": "Third Floor",
+    "zip_code": "10009",
+    "city": "New York City",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

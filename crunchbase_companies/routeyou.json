@@ -1,0 +1,100 @@
+{"name": "RouteYou",
+ "permalink": "routeyou",
+ "crunchbase_url": "http://www.crunchbase.com/company/routeyou",
+ "homepage_url": "http://www.routeyou.com",
+ "blog_url": "http://twitter.com/routeyou",
+ "blog_feed_url": "http://twitter.com/statuses/user_timeline/18190827.rss",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 7,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "navigation, routes, route-search, route-database, walking, cycling, route-planning, outdoor-navigation",
+ "alias_list": null,
+ "email_address": "info@routeyou.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Sep 04 20:12:22 UTC 2008",
+ "updated_at": "Wed Aug 26 14:11:13 UTC 2009",
+ "overview": "\u003Cp\u003ERouteYou produces and translates raw route information into digital structured data. It also creates route networks for GPS navigation systems. The focus is mainly on outdoor navigation for tourists, hikers, cyclists and motorbikers. During the outdoor activity, the user wants to be navigated via the most suitable and relaxing route, rather than the shortest or fastest.\u003C/p\u003E\n\n\u003Cp\u003ERouteYou produces these kind of routes and route networks which allow route planning and turn-by-turn navigation for cyclists, hikers, citytrippers, motorbikers\u0026#8230;\u003C/p\u003E\n\n\u003Cp\u003ERouteYou also offers hosting services to make this data and the applications that use it (e.g. Route Viewer and Route Planner) available on the web.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0002/4581/24581v2-max-150x150.png"],
+     [[250,
+       103],
+      "assets/images/resized/0002/4581/24581v2-max-250x250.png"],
+     [[450,
+       185],
+      "assets/images/resized/0002/4581/24581v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Route Viewer Plugin",
+    "permalink": "routeviewer-plugin",
+    "image": null},
+   {"name": "RouteYou Community Website",
+    "permalink": "routeyou",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Philiep",
+      "last_name": "De Sutter",
+      "permalink": "philiep-de-sutter",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Partner Operation",
+    "person":
+     {"first_name": "Pascal",
+      "last_name": "Brackman",
+      "permalink": "pascal-brackman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Partner Marketing \u0026 Sales",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Van der Putten",
+      "permalink": "philip-van-der-putten",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Bikely",
+      "permalink": "bikely",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Kerkstraat 108",
+    "address2": "",
+    "zip_code": "9050",
+    "city": "Ghent",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": 51.044163,
+    "longitude": 3.75144}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://geertmak.nl/aktueel/201.html",
+    "title": "RouteViewer Plugin"}]}

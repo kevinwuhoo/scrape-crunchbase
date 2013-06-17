@@ -1,0 +1,73 @@
+{"name": "ChronicDB",
+ "permalink": "chronicdb",
+ "crunchbase_url": "http://www.crunchbase.com/company/chronicdb",
+ "homepage_url": "http://chronicdb.com",
+ "blog_url": "",
+ "blog_feed_url": "http://chronicdb.com/press_releases_rss",
+ "twitter_username": "chronicdb",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "database, change-management, data-virtualization, high-availability, replication",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Database updates without downtime",
+ "created_at": "Sat Jul 31 06:54:42 UTC 2010",
+ "updated_at": "Tue Apr 02 08:44:04 UTC 2013",
+ "overview": "\u003Cp\u003EChronicDB applies dynamic database upgrades with zero database downtime and zero data inconsistencies. Imagine version control for live databases.\u003C/p\u003E\n\n\u003Cp\u003EChronicDB can relocate databases on the fly, reorganize database schemas (partition, merge, relocate, rename, and generally update fields and tables, both horizontally and vertically), reverse schema changes, and preserve execution of unmodified legacy database applications alongside their new version, all without bringing either the database or the database application down. ChronicDB provides a virtualized environment that guards data from unnecessary expansion and simplifies the change management process.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[68,
+       68],
+      "assets/images/resized/0009/5566/95566v2-max-150x150.png"],
+     [[68,
+       68],
+      "assets/images/resized/0009/5566/95566v2-max-250x250.png"],
+     [[68,
+       68],
+      "assets/images/resized/0009/5566/95566v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0009/5565/95565v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0009/5565/95565v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0009/5565/95565v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

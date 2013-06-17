@@ -1,0 +1,158 @@
+{"name": "TimeXchange",
+ "permalink": "timexchange",
+ "crunchbase_url": "http://www.crunchbase.com/company/timexchange",
+ "homepage_url": "http://www.timexchange.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": 6,
+ "founded_year": 2004,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "time-tracking, time-sheet, project, collaboration, cloud, saas",
+ "alias_list": "",
+ "email_address": "joep@actustech.com",
+ "phone_number": "3124204160",
+ "description": "Cloud-based Time Reporting",
+ "created_at": "Thu Jan 22 22:15:56 UTC 2009",
+ "updated_at": "Wed May 09 21:14:59 UTC 2012",
+ "overview": "\u003Cp\u003EBeing a network that is part web app and part social network is why TimeXchange is the only web service for anyone who tracks, reports or approves time against projects. \u003C/p\u003E\n\n\u003Cp\u003EUnlike other server-based or web-based solutions that are \u0026#8220;walled gardens\u0026#8221; within a single organization (intra-company), TimeXchange recognizes that projects often involve people from different companies and it facilitates the inter-company collaboration. A TimeXchange project can include employees, freelancers, contractors, clients, you name it. Simply define the project and roles involved, invite the team members, and start reporting and approving time. Anyone with an email address can join a project by simply being invited.\u003C/p\u003E\n\n\u003Cp\u003EOne TimeXchange account can manage all your time reporting relationships with no limits on the number of projects you can join, or your role on any given project. It\u0026#8217;s not an application, it\u0026#8217;s network collaboration. Time reporting and approval should be simple, convenient, and inexpensive. TimeXchange is all three.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0003/5426/35426v3-max-150x150.png"],
+     [[250,
+       68],
+      "assets/images/resized/0003/5426/35426v3-max-250x250.png"],
+     [[250,
+       68],
+      "assets/images/resized/0003/5426/35426v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "TimeXchange.net",
+    "permalink": "timexchange-net",
+    "image":
+     {"available_sizes":
+       [[[150,
+          40],
+         "assets/images/resized/0005/4995/54995v2-max-150x150.png"],
+        [[250,
+          68],
+         "assets/images/resized/0005/4995/54995v2-max-250x250.png"],
+        [[250,
+          68],
+         "assets/images/resized/0005/4995/54995v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Maripa",
+      "last_name": "Abella-Davison",
+      "permalink": "maripa-abella-davison",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "Piekarz",
+      "permalink": "joe-piekarz",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director Biz Dev",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Figliulo",
+      "permalink": "jim-figliulo",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tsheets",
+      "permalink": "tsheets",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0001/7531/17531v3-max-150x150.png"],
+          [[250,
+            77],
+           "assets/images/resized/0001/7531/17531v3-max-250x250.png"],
+          [[295,
+            91],
+           "assets/images/resized/0001/7531/17531v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Click Time",
+      "permalink": "click-time",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0011/1157/111157v1-max-150x150.png"],
+          [[182,
+            28],
+           "assets/images/resized/0011/1157/111157v1-max-250x250.png"],
+          [[182,
+            28],
+           "assets/images/resized/0011/1157/111157v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "PR",
+    "is_past": false,
+    "provider":
+     {"name": "FutureWorks ",
+      "permalink": "futureworks",
+      "image":
+       {"available_sizes":
+         [[[66,
+            150],
+           "assets/images/resized/0002/1090/21090v1-max-150x150.png"],
+          [[110,
+            250],
+           "assets/images/resized/0002/1090/21090v1-max-250x250.png"],
+          [[114,
+            258],
+           "assets/images/resized/0002/1090/21090v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1553 West Jackson",
+    "address2": "Suite 100",
+    "zip_code": "60607",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": 41.87743,
+    "longitude": -87.666193}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,86 @@
+{"name": "3Scan",
+ "permalink": "3scan",
+ "crunchbase_url": "http://www.crunchbase.com/company/3scan",
+ "homepage_url": "http://www.3scan.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "3ScanTweets",
+ "category_code": "biotech",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "Todd@3scan.com",
+ "phone_number": "619 -212- 6574",
+ "description": "Automated Pathology",
+ "created_at": "Tue Apr 24 04:17:27 UTC 2012",
+ "updated_at": "Thu Mar 28 12:03:41 UTC 2013",
+ "overview": "\u003Cp\u003EOur microscope utilizes a novel serial sectioning technique to create three dimensional models of large volume tissue samples. 3Scan uses the cutting edge technology of the KESM (Knife Edge Scanning Microscope) to automatically section and image samples.\u003C/p\u003E\n\n\u003Cp\u003EKnife-edge scanning, introduced in the KESM instrument, not only preserves image registration throughout the depth of the specimen block but also isolates the tissue above the knife from that below to eliminate undesirable events (back-scattering of light and bleaching of fluorescent-stained tissue below the knife). Knife-edge scanning supports all known forms of microscopy (absorption imaging using transmitted light, and reflected light imaging using bright-field, dark-field, DIC, and GFP fluorescence). Using the KESM, 3Scan is able to scan a one cc^3 block of tissue (for example, a whole mouse brain) at submicron resolution in under 100 hours. With this resolution (a voxel size of 0.6 um x 0.7 um x 1.0 um) 3Scan is able to show cell scale phenomena in the context of a compete organ. In the example of a whole mouse brain this means that 3Scan is able to accurately model every neuron in the mouse brain sample.\u003C/p\u003E\n\n\u003Cp\u003E3Scan currently utilizes this amazingly accurate imaging technology to advance the fields of drug discovery, connectomics, and medical devices, there are many more applications of this exciting technology.While 3Scan is a for profit company we care more about interesting projects than profit margins. If you are working on something that would benefit from 3Scan\u2019s unique imaging technique please do not hesitate to contact us about collaborating!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0018/5605/185605v1-max-150x150.jpg"],
+     [[250,
+       187],
+      "assets/images/resized/0018/5605/185605v1-max-250x250.jpg"],
+     [[300,
+       225],
+      "assets/images/resized/0018/5605/185605v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$350k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "http://www.finsmes.com/2012/04/3scan-receives-350k-grant.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "3Scan Receives $350K Grant",
+    "raised_amount": 350000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 4,
+    "funded_day": 23,
+    "investments":
+     [{"company":
+        {"name": "Thiel Foundation",
+         "permalink": "thiel-foundation",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1087 Mission St",
+    "address2": "",
+    "zip_code": "94103",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://radar.oreilly.com/2012/12/the-industrial-internet-from-a-startup-perspective.html",
+    "title": "O'reilly radar | The industrial Internet from a startup perspective"}]}

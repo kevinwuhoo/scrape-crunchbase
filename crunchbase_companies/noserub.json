@@ -1,0 +1,85 @@
+{"name": "NoseRub",
+ "permalink": "noserub",
+ "crunchbase_url": "http://www.crunchbase.com/company/noserub",
+ "homepage_url": "http://www.noserub.com",
+ "blog_url": "http://www.noserub.com/blog",
+ "blog_feed_url": "http://noserub.com/blog/feeds/index.rss2",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sat Mar 29 23:24:15 UTC 2008",
+ "updated_at": "Fri Apr 04 09:29:48 UTC 2008",
+ "overview": "\u003Cp\u003EIn short, NoseRub is a protocol. NoseRub allows users to synchronize accounts across the Web with applications that use the NoseRub protocol in conjunction with OpenID, RSS, and FOAF.\u003C/p\u003E\n\n\u003Cp\u003EAs of 2008, NoseRub is released under the MIT License.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[70,
+       118],
+      "assets/images/resized/0001/6534/16534v1-max-150x150.png"],
+     [[70,
+       118],
+      "assets/images/resized/0001/6534/16534v1-max-250x250.png"],
+     [[70,
+       118],
+      "assets/images/resized/0001/6534/16534v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "NoseRub",
+    "permalink": "noserub",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Main Developer",
+    "person":
+     {"first_name": "Dirk",
+      "last_name": "Olbertz",
+      "permalink": "dirk-olbertz",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Hofstetter",
+      "permalink": "daniel-hofstetter",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Kaiser",
+      "permalink": "alexander-kaiser",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

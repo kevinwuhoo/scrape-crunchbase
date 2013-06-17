@@ -1,0 +1,134 @@
+{"name": "GlocalReach",
+ "permalink": "glocalreach",
+ "crunchbase_url": "http://www.crunchbase.com/company/glocalreach",
+ "homepage_url": "http://www.glocalreach.com",
+ "blog_url": "http://blog.glocalreach.com",
+ "blog_feed_url": "http://blog.glocalreach.com/feed/",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "voip-messaging-glocalreach-reachcards-reachmanagement",
+ "alias_list": null,
+ "email_address": "nicolai@glocalreach.com",
+ "phone_number": "+44 20 70 999412",
+ "description": null,
+ "created_at": "Wed Jul 02 18:09:33 UTC 2008",
+ "updated_at": "Sun Jan 27 04:26:22 UTC 2013",
+ "overview": "\u003Cp\u003EGlocalReach builds a service for efficient and personal Reach\nManagement. The value proposition of the service is to be available for relevant calls and message while preventing disturbing phone calls and messages when your attention is needed elsewhere.\u003C/p\u003E\n\n\u003Cp\u003EAt the core of the service is an \u0026#8220;active inbox\u0026#8221; with a Semantic\nPresence engine that decides how relevant incoming phone calls and messages are for the user at any given time.\u003C/p\u003E\n\n\u003Cp\u003EAn integral part of the service offering is the ReachCard, which is the central point of the users different social contexts and is used for initiating communication with the user. It is a web based point of contact that has a unique URL that can be shared and communicated and each ReachCard comes with Internet Communication services built-in, such as E-Mail, SMS and Voice over IP and traditional phone numbers.\u003C/p\u003E\n\n\u003Cp\u003EThe service works much like a proxy that sits in between the user\u0026#8217;s different points of contact, and their personal communication tool or device (e-mail client, IM-client, mobile phone etc).\u003C/p\u003E\n\n\u003Cp\u003EGlocalReach is essentially offering the ability to manage and prioritize interruptions, and to be reachable, but not disturbed.\u003C/p\u003E\n\n\u003Cp\u003EAll products are delivered as a service over the Internet, with-no requirements to install software or hardware, but will offer add-ons such as mobile applications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       89],
+      "assets/images/resized/0002/1416/21416v2-max-150x150.png"],
+     [[250,
+       149],
+      "assets/images/resized/0002/1416/21416v2-max-250x250.png"],
+     [[439,
+       262],
+      "assets/images/resized/0002/1416/21416v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO/Co-founder",
+    "person":
+     {"first_name": "Erik",
+      "last_name": "Starck",
+      "permalink": "erik-starck",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Nicolai",
+      "last_name": "Wadstrom",
+      "permalink": "nicolai-wadstrom-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            139],
+           "assets/images/resized/0002/4175/24175v4-max-150x150.jpg"],
+          [[180,
+            167],
+           "assets/images/resized/0002/4175/24175v4-max-250x250.jpg"],
+          [[180,
+            167],
+           "assets/images/resized/0002/4175/24175v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GrandCentral",
+      "permalink": "grandcentral",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/0445/445v1-max-150x150.png"],
+          [[200,
+            49],
+           "assets/images/resized/0000/0445/445v1-max-250x250.png"],
+          [[200,
+            49],
+           "assets/images/resized/0000/0445/445v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Business development",
+    "is_past": false,
+    "provider":
+     {"name": "BootstrapLabs",
+      "permalink": "bootstraplabs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0002/4966/24966v2-max-150x150.png"],
+          [[180,
+            78],
+           "assets/images/resized/0002/4966/24966v2-max-250x250.png"],
+          [[180,
+            78],
+           "assets/images/resized/0002/4966/24966v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Founders/Angels",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "27 Old Gloucester Street",
+    "address2": "",
+    "zip_code": "WC1N 3XX",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5208247,
+    "longitude": -0.1219851}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

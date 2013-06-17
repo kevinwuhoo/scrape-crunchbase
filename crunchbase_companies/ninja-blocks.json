@@ -1,0 +1,81 @@
+{"name": "Ninja Blocks",
+ "permalink": "ninja-blocks",
+ "crunchbase_url": "http://www.crunchbase.com/company/ninja-blocks",
+ "homepage_url": "http://ninjablocks.com",
+ "blog_url": "http://ninjablocks.com/blog",
+ "blog_feed_url": "http://ninjablocks.com/blogs/news.atom",
+ "twitter_username": "ninjablocks",
+ "category_code": "hardware",
+ "number_of_employees": 9,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "internet-of-things, iot, open-source, open-source-hardware, open-source-software, api",
+ "alias_list": null,
+ "email_address": "pete@ninjablocks.com",
+ "phone_number": "415-6709637",
+ "description": "Open Source IoTs",
+ "created_at": "Thu Jan 17 01:07:40 UTC 2013",
+ "updated_at": "Sat Jan 19 22:31:21 UTC 2013",
+ "overview": "\u003Cp\u003EThe Ninja Blocks Platform makes connecting so called \u0026#8220;things\u0026#8221; to the internet and each other easy through open source hardware, software and an API service.\u003C/p\u003E\n\n\u003Cp\u003ENinja Blocks are tiny open source computers that can sense and react to their environment. They support RF out of the box and are designed to be extended to support everything.\u003C/p\u003E\n\n\u003Cp\u003EThe Ninja Blocks API makes it simple to create apps (webapps, widgets, phone apps) that interact with a users devices. The block software \u0026#8220;wraps\u0026#8221; proprietary devices and offers their features through a RESTful API. Ninja Blocks address the critical element of interoperability - addressing (how do you identify a device), authentication (are you allowed to talk to a device) and protocol (how do you control a device). \u003C/p\u003E\n\n\u003Cp\u003EThe Ninja Blocks mission is to enable real interoperability in the fledgling world of the Internet of Things. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[111,
+       150],
+      "assets/images/resized/0023/0100/230100v2-max-150x150.png"],
+     [[186,
+       250],
+      "assets/images/resized/0023/0100/230100v2-max-250x250.png"],
+     [[335,
+       450],
+      "assets/images/resized/0023/0100/230100v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Sydney Headquarters",
+    "address1": "Suite 145 National Innovation Centre",
+    "address2": "4 Cornwallis St",
+    "zip_code": "2015",
+    "city": "Eveleigh",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -33.8973422,
+    "longitude": 151.1951971}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0023/0099/230099v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0023/0099/230099v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0023/0099/230099v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

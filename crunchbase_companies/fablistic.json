@@ -1,0 +1,177 @@
+{"name": "Fablistic",
+ "permalink": "fablistic",
+ "crunchbase_url": "http://www.crunchbase.com/company/fablistic",
+ "homepage_url": "http://www.fablistic.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "fablistic",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "personal-recommendations, personal-ratings-and-reviews, social-networking, social-recommendations, social-search, social-discovery",
+ "alias_list": null,
+ "email_address": "malcolm@fablistic.com",
+ "phone_number": "4256985384",
+ "description": "Social network for personal opinions",
+ "created_at": "Wed Sep 08 15:05:48 UTC 2010",
+ "updated_at": "Thu Oct 11 17:21:16 UTC 2012",
+ "overview": "\u003Cp\u003EFablistic is is a personalized recommendation service. We help you find new things to do and places to go based on recommendations from people with similar tastes and interests.\u003C/p\u003E\n\n\u003Cp\u003EUse it for beers, books, movies, recipes, restaurants, stores, tv shows, websites, wines, anything!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0010/3502/103502v1-max-150x150.png"],
+     [[195,
+       47],
+      "assets/images/resized/0010/3502/103502v1-max-250x250.png"],
+     [[195,
+       47],
+      "assets/images/resized/0010/3502/103502v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Malcolm",
+      "last_name": "Lewis",
+      "permalink": "malcolm-lewis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hollrr",
+      "permalink": "hollrr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0006/9321/69321v1-max-150x150.jpg"],
+          [[246,
+            147],
+           "assets/images/resized/0006/9321/69321v1-max-250x250.jpg"],
+          [[246,
+            147],
+           "assets/images/resized/0006/9321/69321v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Droolr",
+      "permalink": "droolr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0015/8122/158122v1-max-150x150.jpg"],
+          [[250,
+            68],
+           "assets/images/resized/0015/8122/158122v1-max-250x250.jpg"],
+          [[272,
+            75],
+           "assets/images/resized/0015/8122/158122v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LikeList",
+      "permalink": "likelist",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0007/0136/70136v8-max-150x150.png"],
+          [[250,
+            98],
+           "assets/images/resized/0007/0136/70136v8-max-250x250.png"],
+          [[262,
+            103],
+           "assets/images/resized/0007/0136/70136v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LikeMe",
+      "permalink": "likeme",
+      "image": null}},
+   {"competitor":
+     {"name": "blippr",
+      "permalink": "blippr",
+      "image":
+       {"available_sizes":
+         [[[124,
+            49],
+           "assets/images/resized/0002/2831/22831v1-max-150x150.png"],
+          [[124,
+            49],
+           "assets/images/resized/0002/2831/22831v1-max-250x250.png"],
+          [[124,
+            49],
+           "assets/images/resized/0002/2831/22831v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GetGlue",
+      "permalink": "getglue",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0011/9707/119707v3-max-150x150.png"],
+          [[250,
+            98],
+           "assets/images/resized/0011/9707/119707v3-max-250x250.png"],
+          [[412,
+            162],
+           "assets/images/resized/0011/9707/119707v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Self-Funded",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2009,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Bellevue",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Fablistic acquired by Local Corporation.",
+    "stoned_year": 2011,
+    "stoned_month": 1,
+    "stoned_day": null,
+    "source_url": "http://malcolmlewis.org",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Fablistic",
+      "permalink": "fablistic"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

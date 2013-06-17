@@ -1,0 +1,178 @@
+{"name": "Foodista",
+ "permalink": "foodista",
+ "crunchbase_url": "http://www.crunchbase.com/company/foodista",
+ "homepage_url": "http://www.foodista.com/",
+ "blog_url": "http://blog.foodista.com/",
+ "blog_feed_url": "http://blog.foodista.com/feed/",
+ "twitter_username": "foodista",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "food, recipes, wiki, cooking",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Recipe Wiki",
+ "created_at": "Fri Aug 29 15:13:12 UTC 2008",
+ "updated_at": "Tue Mar 26 11:58:19 UTC 2013",
+ "overview": "\u003Cp\u003EFoodista is a Wikipedia for recipes, food, and cooking.  Recipes are contributed and edited in a wiki in an attempt to avoid numerous repeats of the same recipe.  The site takes a structured data approach akin to IMDB, where every ingredient, cooking technique, utensil, and dish links to every other mention on the site.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0003/1955/31955v1-max-150x150.png"],
+     [[158,
+       57],
+      "assets/images/resized/0003/1955/31955v1-max-250x250.png"],
+     [[158,
+       57],
+      "assets/images/resized/0003/1955/31955v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Barnaby",
+      "last_name": "Dorfman",
+      "permalink": "barnaby-dorfman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder \u0026 CTO",
+    "person":
+     {"first_name": "Colin",
+      "last_name": "M. Saunders",
+      "permalink": "colin-m-saunders",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "AllRecipes",
+      "permalink": "allrecipes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0006/4465/64465v1-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0006/4465/64465v1-max-250x250.png"],
+          [[280,
+            96],
+           "assets/images/resized/0006/4465/64465v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cookstr",
+      "permalink": "cookstr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            139],
+           "assets/images/resized/0002/7728/27728v3-max-150x150.jpg"],
+          [[250,
+            231],
+           "assets/images/resized/0002/7728/27728v3-max-250x250.jpg"],
+          [[450,
+            417],
+           "assets/images/resized/0002/7728/27728v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Open Source Food",
+      "permalink": "open-source-food",
+      "image":
+       {"available_sizes":
+         [[[150,
+            96],
+           "assets/images/resized/0001/2692/12692v1-max-150x150.png"],
+          [[180,
+            116],
+           "assets/images/resized/0001/2692/12692v1-max-250x250.png"],
+          [[180,
+            116],
+           "assets/images/resized/0001/2692/12692v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FoodNetwork.com",
+      "permalink": "foodnetwork-com",
+      "image":
+       {"available_sizes":
+         [[[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-150x150.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-250x250.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1.3M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.techcrunch.com/2009/04/22/foodista-raises-550000-from-amazon-and-other-angels/",
+    "source_description": "TechCrunch",
+    "raised_amount": 550000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 4,
+    "funded_day": 16,
+    "investments":
+     [{"company":
+        {"name": "Amazon",
+         "permalink": "amazon",
+         "image":
+          {"available_sizes":
+            [[[150,
+               66],
+              "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+             [[200,
+               89],
+              "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+             [[200,
+               89],
+              "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]},
+   {"round_code": "unattributed",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1462079/000146207910000002/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC D",
+    "raised_amount": 750000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 4,
+    "funded_day": 8,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "24 Roy Street,",
+    "address2": "Suite 210",
+    "zip_code": "98109",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.6254784,
+    "longitude": -122.3564234}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

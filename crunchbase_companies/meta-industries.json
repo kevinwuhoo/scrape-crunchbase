@@ -1,0 +1,154 @@
+{"name": "Meta Industries",
+ "permalink": "meta-industries",
+ "crunchbase_url": "http://www.crunchbase.com/company/meta-industries",
+ "homepage_url": "http://www.combo.com",
+ "blog_url": "http://www.combo.com/blog",
+ "blog_feed_url": "http://www.combo.com/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, mobile-web-dashboard, aggregation, api, communication, im, networking, iphone, blackberry, symbian, windows-mobile, nyc",
+ "alias_list": null,
+ "email_address": "info@combo.com",
+ "phone_number": "347 683 2016",
+ "description": null,
+ "created_at": "Thu May 29 15:57:51 UTC 2008",
+ "updated_at": "Tue Jun 12 12:00:44 UTC 2012",
+ "overview": "\u003Cp\u003EMeta Industries is the developer of Combo, a dashboard that combines social networking, communication, blogging and account management for mobile and web devices.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0001/9610/19610v6-max-150x150.png"],
+     [[250,
+       52],
+      "assets/images/resized/0001/9610/19610v6-max-250x250.png"],
+     [[354,
+       74],
+      "assets/images/resized/0001/9610/19610v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Combo",
+    "permalink": "combo",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Raskin",
+      "permalink": "aaron-raskin",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Chad",
+      "last_name": "Specter",
+      "permalink": "chad-specter",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Plaxo",
+      "permalink": "plaxo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/3880/3880v7-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0000/3880/3880v7-max-250x250.png"],
+          [[450,
+            141],
+           "assets/images/resized/0000/3880/3880v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ZYB",
+      "permalink": "zyb-2",
+      "image":
+       {"available_sizes":
+         [[[32,
+            32],
+           "assets/images/resized/0000/4450/4450v3-max-150x150.png"],
+          [[32,
+            32],
+           "assets/images/resized/0000/4450/4450v3-max-250x250.png"],
+          [[32,
+            32],
+           "assets/images/resized/0000/4450/4450v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Socialthing",
+      "permalink": "socialthing",
+      "image":
+       {"available_sizes":
+         [[[150,
+            83],
+           "assets/images/resized/0000/4378/4378v5-max-150x150.jpg"],
+          [[250,
+            138],
+           "assets/images/resized/0000/4378/4378v5-max-250x250.jpg"],
+          [[450,
+            249],
+           "assets/images/resized/0000/4378/4378v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "8hands",
+      "permalink": "8hands",
+      "image":
+       {"available_sizes":
+         [[[150,
+            76],
+           "assets/images/resized/0000/3130/3130v1-max-150x150.png"],
+          [[200,
+            102],
+           "assets/images/resized/0000/3130/3130v1-max-250x250.png"],
+          [[200,
+            102],
+           "assets/images/resized/0000/3130/3130v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "93 2nd Place, BSMT",
+    "address2": "",
+    "zip_code": "11231",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

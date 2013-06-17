@@ -1,0 +1,90 @@
+{"name": "Sepia Labs",
+ "permalink": "sepia-labs",
+ "crunchbase_url": "http://www.crunchbase.com/company/sepia-labs",
+ "homepage_url": "http://www.sepialabs.com",
+ "blog_url": "http://www.sepialabs.com",
+ "blog_feed_url": "http://sepialabs.com/blog/?feed=rss2",
+ "twitter_username": "sepialabs",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "glassboard, mobile, sharing, private",
+ "alias_list": null,
+ "email_address": "info@sepialabs.com",
+ "phone_number": "303-552-2025",
+ "description": "mobile software",
+ "created_at": "Wed Jun 08 15:15:09 UTC 2011",
+ "updated_at": "Wed Jun 15 22:57:54 UTC 2011",
+ "overview": "\u003Cp\u003EThe flagship application of Sepia Labs is Glassboard. Glassboard is an app for sharing information privately, with groups. The way people use the service is alot like Facebook or Twitter, sharing messages, photos, videos, location, etc - just with small groups, or \u0026#8216;boards\u0026#8217; in the Glassboard context.\u003C/p\u003E\n\n\u003Cp\u003ETo join a board, you have to be invited. There is no way to search or discover a board unless you are invited. The app was developed for iPhone and Android, and there is a web based app that can be integrated into just about anything, and APIs that others can develop their own clients against as well. \u003C/p\u003E\n\n\u003Cp\u003EWe\u0026#8217;re trying to put privacy back into seamless group communication and sharing.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0013/8260/138260v2-max-150x150.png"],
+     [[250,
+       57],
+      "assets/images/resized/0013/8260/138260v2-max-250x250.png"],
+     [[450,
+       103],
+      "assets/images/resized/0013/8260/138260v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Walker",
+      "last_name": "Fenton",
+      "permalink": "walker-fenton",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0002/5141/25141v2-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0002/5141/25141v2-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0002/5141/25141v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EBrian Reischl / \u003Ca href=\"http://beakerbrain.blogspot.com\" title=\"BeaKeR\u0026#8217;s Brain\" rel=\"nofollow\"\u003EBeaKeR\u0026#8217;s Brain\u003C/a\u003E\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Tore",
+      "last_name": "Pein Jensen",
+      "permalink": "tore-pein-jensen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/glassboard_rock_star_team_regroups_from_rss-land_t.php",
+    "title": "Glassboard: Rock Star Team Regroups From RSS-Land to Tackle Private Mobile Content Sharing"},
+   {"external_url": "http://www.cmswire.com/cms/enterprise-20/like-facebooks-functionality-but-not-its-privacy-settings-check-out-glassboard-011535.php",
+    "title": "Like Facebook's Functionality, But Not Its Privacy Settings? Check out Glassboard"}]}

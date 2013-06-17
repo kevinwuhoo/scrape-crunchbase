@@ -1,0 +1,94 @@
+{"name": "Ontodia",
+ "permalink": "ontodia",
+ "crunchbase_url": "http://www.crunchbase.com/company/ontodia",
+ "homepage_url": "http://ontodia.com",
+ "blog_url": "http://www.pediacities.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/pediacities",
+ "twitter_username": "ontodia",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web30, semantic-web, smart-cities, linked-data, open-data",
+ "alias_list": null,
+ "email_address": "info@ontodia.com",
+ "phone_number": "",
+ "description": "Big Linked Open Data Exchange",
+ "created_at": "Tue Oct 09 19:02:03 UTC 2012",
+ "updated_at": "Wed Dec 12 07:03:43 UTC 2012",
+ "overview": "\u003Cp\u003EOntodia creates Human-powered, Machine-accelerated, Collective Knowledge Systems.\u003C/p\u003E\n\n\u003Cp\u003EIts first offering is pediacities - a Smarter City platform that marries the converging trends of Big Data, Linked Data (Web 3.0), and Open Data (Gov 2.0) in its mission to become the \u0026#8220;Bloomberg of Big Linked Open Data\u0026#8221;.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0021/4919/214919v2-max-150x150.png"],
+     [[250,
+       100],
+      "assets/images/resized/0021/4919/214919v2-max-250x250.png"],
+     [[450,
+       180],
+      "assets/images/resized/0021/4919/214919v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Co-founder",
+    "person":
+     {"first_name": "Joel",
+      "last_name": "Natividad",
+      "permalink": "joel-natividad",
+      "image": null}},
+   {"is_past": false,
+    "title": "President \u0026 Co-founder",
+    "person":
+     {"first_name": "Sami",
+      "last_name": "Baig",
+      "permalink": "sami-baig",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Wilmer Hale",
+      "permalink": "wilmer-hale",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "137 Varick Street",
+    "address2": "",
+    "zip_code": "10013",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.72582,
+    "longitude": -74.005966}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://semanticweb.com/ontodia-preps-smart-city-data-marketplace-platform-previews-at-semtech-nyc_b32352",
+    "title": "Ontodia Preps Smart City Data Marketplace; Platform Previews At SemTech NYC"},
+   {"external_url": "http://semanticweb.com/nycfacets-takes-big-win-at-bigapps-3-0-content_b28331",
+    "title": "NYCFacets Takes Big Win At BigApps 3.0 Content"},
+   {"external_url": "http://semanticweb.com/nycfacets-wants-to-be-the-key-to-the-digital-city-of-new-yorks-future_b27205",
+    "title": "NYCFacets Wants To Be the Key to the Digital City of New York\u2019s Future"}]}

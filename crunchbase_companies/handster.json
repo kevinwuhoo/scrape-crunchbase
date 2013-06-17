@@ -1,0 +1,130 @@
+{"name": "Handster",
+ "permalink": "handster",
+ "crunchbase_url": "http://www.crunchbase.com/company/handster",
+ "homepage_url": "http://Handster.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 12,
+ "founded_year": 2005,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "appstore, google-android, windows-mobile, symbian, blackberry, java, mobile-billing, content-aggregation",
+ "alias_list": "",
+ "email_address": "contact@handster.com",
+ "phone_number": "847 380 1551",
+ "description": "Smartphone software distributor",
+ "created_at": "Tue Nov 24 07:02:21 UTC 2009",
+ "updated_at": "Wed Apr 10 12:36:59 UTC 2013",
+ "overview": "\u003Cp\u003EHandster is an AppStore solution company offering a white label platform and a branded AppStore (Handster.com). \u003C/p\u003E\n\n\u003Cp\u003EThe platform supports Windows Mobile, Google Android, BlackBerry, Symbian and Java applications. Smart phone users can access the store via a website, mobile web and an on-device client.\nThe company offers a scalable white label AppStore solution for mobile operators, handset manufacturers and distributors. The Company powers the application store for HP EMEA and provides aggregated content for the LG App Store.\nFounded in 2004, Handster is a privately owned company with operations in the US, Germany and Ukraine.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0006/7378/67378v7-max-150x150.png"],
+     [[207,
+       37],
+      "assets/images/resized/0006/7378/67378v7-max-250x250.png"],
+     [[207,
+       37],
+      "assets/images/resized/0006/7378/67378v7-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Victor",
+      "last_name": "Shaburov",
+      "permalink": "victor-shaburov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Handmark",
+      "permalink": "handmark",
+      "image":
+       {"available_sizes":
+         [[[125,
+            36],
+           "assets/images/resized/0002/0284/20284v1-max-150x150.jpg"],
+          [[125,
+            36],
+           "assets/images/resized/0002/0284/20284v1-max-250x250.jpg"],
+          [[125,
+            36],
+           "assets/images/resized/0002/0284/20284v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Handango",
+      "permalink": "handango",
+      "image":
+       {"available_sizes":
+         [[[150,
+            20],
+           "assets/images/resized/0007/7857/77857v1-max-150x150.png"],
+          [[250,
+            33],
+           "assets/images/resized/0007/7857/77857v1-max-250x250.png"],
+          [[339,
+            46],
+           "assets/images/resized/0007/7857/77857v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/09/19/opera-acquires-mobile-app-store-handster/",
+   "source_description": "Opera Acquires Mobile App Store Handster",
+   "acquired_year": 2011,
+   "acquired_month": 9,
+   "acquired_day": 19,
+   "acquiring_company":
+    {"name": "Opera Software",
+     "permalink": "opera-software",
+     "image":
+      {"available_sizes":
+        [[[150,
+           100],
+          "assets/images/resized/0001/3433/13433v4-max-150x150.png"],
+         [[250,
+           166],
+          "assets/images/resized/0001/3433/13433v4-max-250x250.png"],
+         [[300,
+           200],
+          "assets/images/resized/0001/3433/13433v4-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "601 Skokie Blvd, Suite 105",
+    "address2": "",
+    "zip_code": "60062",
+    "city": "Northbrook",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.handster.com/press_release_20110624.php",
+    "title": "Handster leads Android independent stores"}]}

@@ -1,0 +1,168 @@
+{"name": "OneTravel",
+ "permalink": "onetravel",
+ "crunchbase_url": "http://www.crunchbase.com/company/onetravel",
+ "homepage_url": "http://www.onetravel.com",
+ "blog_url": "http://onetravel.wordpress.com",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, hotels, travel-deals, airfare, car-rentals",
+ "alias_list": null,
+ "email_address": "erin@onetravel.com",
+ "phone_number": "866-883-0908",
+ "description": "online travel deals",
+ "created_at": "Tue Apr 28 03:53:02 UTC 2009",
+ "updated_at": "Thu Apr 30 18:24:51 UTC 2009",
+ "overview": "\u003Cp\u003EOneTravel.com is a travel website offering flights, hotels and packages to destinations throughout the world. \u003C/p\u003E\n\n\u003Cp\u003EOneTravel was launched in the mid nineties in Pennsylvania. OneTravel is one of the oldest and most recognized travel sites, offering low airfares, last minute flight deals, cheap business class flights, affordable first class fares, discount hotels, car rental deals, and vacation packages. \u003C/p\u003E\n\n\u003Cp\u003EOneTravel works with all major airlines, hotels and car rental companies around the world.  \u003C/p\u003E\n\n\u003Cp\u003EOneTravel caters to all types of consumer demographics. A few specialties include, Student Travel, Senior Travel, Ethnic Travel with a focus on India and Gay and Lesbian Travel.\u003C/p\u003E\n\n\u003Cp\u003EOneTravel will soon introduce membership benefits and customer profile management which will include storing traveler profiles for easy purchasing and management with history of all past and future trips.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0004/2729/42729v2-max-150x150.jpg"],
+     [[250,
+       89],
+      "assets/images/resized/0004/2729/42729v2-max-250x250.jpg"],
+     [[290,
+       104],
+      "assets/images/resized/0004/2729/42729v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Werner",
+      "last_name": "Kunz",
+      "permalink": "werner-kunz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Senior Vice President",
+    "person":
+     {"first_name": "Thom",
+      "last_name": "Spagnola",
+      "permalink": "thom-spagnola",
+      "image": null}},
+   {"is_past": true,
+    "title": "Engineering Manager",
+    "person":
+     {"first_name": "Roby",
+      "last_name": "John",
+      "permalink": "roby-john",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0015/0068/150068v2-max-150x150.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0015/0068/150068v2-max-250x250.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0015/0068/150068v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003ERoby John\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Travelocity",
+      "permalink": "travelocity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0001/6858/16858v1-max-150x150.png"],
+          [[210,
+            83],
+           "assets/images/resized/0001/6858/16858v1-max-250x250.png"],
+          [[210,
+            83],
+           "assets/images/resized/0001/6858/16858v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Expedia",
+      "permalink": "expedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0001/6749/16749v3-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0001/6749/16749v3-max-250x250.jpg"],
+          [[450,
+            347],
+           "assets/images/resized/0001/6749/16749v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cheapflights",
+      "permalink": "cheapflights",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/5715/15715v1-max-150x150.jpg"],
+          [[250,
+            75],
+           "assets/images/resized/0001/5715/15715v1-max-250x250.jpg"],
+          [[450,
+            136],
+           "assets/images/resized/0001/5715/15715v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Orbitz Worldwide",
+      "permalink": "orbitz",
+      "image":
+       {"available_sizes":
+         [[[128,
+            39],
+           "assets/images/resized/0001/6753/16753v1-max-150x150.png"],
+          [[128,
+            39],
+           "assets/images/resized/0001/6753/16753v1-max-250x250.png"],
+          [[128,
+            39],
+           "assets/images/resized/0001/6753/16753v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hotwire",
+      "permalink": "hotwire",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0003/4949/34949v1-max-150x150.png"],
+          [[165,
+            33],
+           "assets/images/resized/0003/4949/34949v1-max-250x250.png"],
+          [[165,
+            33],
+           "assets/images/resized/0003/4949/34949v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

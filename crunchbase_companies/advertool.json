@@ -1,0 +1,120 @@
+{"name": "advertool",
+ "permalink": "advertool",
+ "crunchbase_url": "http://www.crunchbase.com/company/advertool",
+ "homepage_url": "http://advertool.org",
+ "blog_url": "http://blog.advertool.org",
+ "blog_feed_url": "http://feeds.feedburner.com/advertool",
+ "twitter_username": "advertool",
+ "category_code": "advertising",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "advertisement, tool, google, yahoo, microsoft, facebook, ria, open-source",
+ "alias_list": null,
+ "email_address": "admin@advertool.com",
+ "phone_number": "+34 675 119 888",
+ "description": "Online marketing campaigns tool",
+ "created_at": "Mon May 03 17:17:22 UTC 2010",
+ "updated_at": "Mon May 03 21:04:48 UTC 2010",
+ "overview": "\u003Cp\u003EAn open source project to easily manage your online campaigns. Intended to those with a small budget and an minimum number of campaigns to those with hundred of active campaigns for different clients and projects.\nIntegrate many advertisement networks in just one place.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[73,
+       73],
+      "assets/images/resized/0008/5775/85775v2-max-150x150.png"],
+     [[73,
+       73],
+      "assets/images/resized/0008/5775/85775v2-max-250x250.png"],
+     [[73,
+       73],
+      "assets/images/resized/0008/5775/85775v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Santiago",
+      "last_name": "Lizardo",
+      "permalink": "santiago-lizardo",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0003/1732/31732v4-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0003/1732/31732v4-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0003/1732/31732v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Invite Media",
+      "permalink": "invitemedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/0718/10718v5-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0001/0718/10718v5-max-250x250.png"],
+          [[450,
+            133],
+           "assets/images/resized/0001/0718/10718v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyAdEngine",
+      "permalink": "myadengine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0006/8134/68134v2-max-150x150.png"],
+          [[189,
+            43],
+           "assets/images/resized/0006/8134/68134v2-max-250x250.png"],
+          [[189,
+            43],
+           "assets/images/resized/0006/8134/68134v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.advertool.org",
+    "title": "Blog"},
+   {"external_url": "http://forums.advertool.org",
+    "title": "Forums"}]}

@@ -1,0 +1,100 @@
+{"name": "CloudTran",
+ "permalink": "cloudtran",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudtran",
+ "homepage_url": "http://www.CloudTran.com",
+ "blog_url": "http://cloudtran.blogspot.com/",
+ "blog_feed_url": "feed://cloudtran.blogspot.com/feeds/posts/default",
+ "twitter_username": "cloudtran",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-computing, cloud-oltp, oltp, distributed-computing, transaction-manager",
+ "alias_list": null,
+ "email_address": "ajb@CloudTran.com",
+ "phone_number": "925-271-5512",
+ "description": "Cloud transaction management",
+ "created_at": "Mon May 23 14:03:03 UTC 2011",
+ "updated_at": "Tue May 24 04:11:51 UTC 2011",
+ "overview": "\u003Cp\u003ECloudTran provides a Transaction Manager for cloud computing (distributed) environments. The system manages business transactions within in-memory data grids and from the grids to distributed data stores. This allows developers to easily incorporate complex business transactions into their applications and provides a single view of a data architecture that spans Java objects, data grids, and data stores (SQL and NoSQL).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0013/5918/135918v2-max-150x150.png"],
+     [[200,
+       41],
+      "assets/images/resized/0013/5918/135918v2-max-250x250.png"],
+     [[200,
+       41],
+      "assets/images/resized/0013/5918/135918v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder, CTO",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Fowler",
+      "permalink": "matthew-fowler",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, CMO",
+    "person":
+     {"first_name": "AJ",
+      "last_name": "Brown",
+      "permalink": "aj-brown",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, CEO/President",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Henn",
+      "permalink": "tom-henn",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$600k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.cloudtran.com/news.php",
+    "source_description": "Strategic Partner",
+    "raised_amount": 600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 23,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "4000 Pimlico Drive",
+    "address2": "Suite 114",
+    "zip_code": "94588",
+    "city": "Pleasanton",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

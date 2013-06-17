@@ -1,0 +1,128 @@
+{"name": "Sharein",
+ "permalink": "sharein",
+ "crunchbase_url": "http://www.crunchbase.com/company/sharein",
+ "homepage_url": "http://www.sharein.com",
+ "blog_url": "http://blog.sharein.com",
+ "blog_feed_url": "http://blog.sharein.com/rss",
+ "twitter_username": "sharein",
+ "category_code": "web",
+ "number_of_employees": 8,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bookmarklet, social-media, link-sharing",
+ "alias_list": null,
+ "email_address": "info@sharein.com",
+ "phone_number": "206.801.1138",
+ "description": "Web 2.0 company",
+ "created_at": "Fri Oct 09 02:38:32 UTC 2009",
+ "updated_at": "Fri Oct 09 17:18:42 UTC 2009",
+ "overview": "\u003Cp\u003ESharein provides a browser tool to share links on Facebook, Twitter and via e-mail. \u003C/p\u003E\n\n\u003Cp\u003ESharein has a bookmarklet that you can embed on your browser\u0026#8217;s toolbar. You can share to email up to 3 times faster and as easy as two clicks to Twitter and Facebook. You can save your favorite links, organize them and access them from any computer.\u003C/p\u003E\n\n\u003Cp\u003EIn addition, Sharein provides sophisticated influence tracking to measure your impact. It\u0026#8217;s analytics provides reach, clicks and re-share information for Facebook, Twitter and email sharing. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0006/2165/62165v2-max-150x150.png"],
+     [[250,
+       60],
+      "assets/images/resized/0006/2165/62165v2-max-250x250.png"],
+     [[450,
+       108],
+      "assets/images/resized/0006/2165/62165v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Colin",
+      "last_name": "Wong",
+      "permalink": "colin-wong",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Jin",
+      "last_name": "Shien Ling",
+      "permalink": "jin-shien-ling",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Shareaholic",
+      "permalink": "shareaholic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0004/4262/44262v2-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0004/4262/44262v2-max-250x250.png"],
+          [[256,
+            51],
+           "assets/images/resized/0004/4262/44262v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ShareThis",
+      "permalink": "sharethis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/5706/15706v1-max-150x150.png"],
+          [[208,
+            55],
+           "assets/images/resized/0001/5706/15706v1-max-250x250.png"],
+          [[208,
+            55],
+           "assets/images/resized/0001/5706/15706v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Davis Wright Tremaine",
+      "permalink": "davis-wright-tremaine",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Malaysia Office",
+    "address1": "826, Level 8, Block A, Damansara Intan, No.1",
+    "address2": "SS20/27",
+    "zip_code": "47400",
+    "city": "Petaling Jaya",
+    "state_code": null,
+    "country_code": "MYS",
+    "latitude": null,
+    "longitude": null},
+   {"description": "US Office",
+    "address1": "2620 Bellevue Way NE",
+    "address2": "#114",
+    "zip_code": "98004",
+    "city": "Bellevue",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/sharein_launches_new_features_becomes_must-have_for_marketers.php",
+    "title": "Sharein Launches New Features, Becomes Must-Have For Social Media Marketers"}]}

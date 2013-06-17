@@ -1,0 +1,103 @@
+{"name": "MPOWERD",
+ "permalink": "mpowerd",
+ "crunchbase_url": "http://www.crunchbase.com/company/mpowerd",
+ "homepage_url": "http://www.mpowerd.com",
+ "blog_url": "http://www.mpowerd.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "MPOWERDinc",
+ "category_code": "cleantech",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "solar, clean-energy, energy-poverty, solar-justice",
+ "alias_list": null,
+ "email_address": "info@mpowerd.com",
+ "phone_number": "917-402-7102",
+ "description": "Micro Power Design",
+ "created_at": "Mon Feb 04 02:54:06 UTC 2013",
+ "updated_at": "Thu Feb 07 00:11:17 UTC 2013",
+ "overview": "\u003Cp\u003EMPOWERD (Micro Power Design) is a for purpose technology incubator, accelerator and manufacturer providing lifestyle innovations to those who need it most.\u003C/p\u003E\n\n\u003Cp\u003EMPOWERD manufactures \u0026#8220;Luci,\u0026#8221; the solar-powered light. \u003C/p\u003E\n\n\u003Cp\u003ELuci is a low cost, long lasting, durable, lighting solution for camping, sports, those who live off the grid, cannot afford to live on the grid or emergency situations and disasters. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0023/3367/233367v2-max-150x150.png"],
+     [[250,
+       39],
+      "assets/images/resized/0023/3367/233367v2-max-250x250.png"],
+     [[376,
+       60],
+      "assets/images/resized/0023/3367/233367v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Luci",
+    "permalink": "luci",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Salzinger",
+      "permalink": "john-salzinger",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Alan Snyder",
+      "permalink": "jason-alan-snyder",
+      "image":
+       {"available_sizes":
+         [[[144,
+            150],
+           "assets/images/resized/0008/5255/85255v4-max-150x150.jpg"],
+          [[201,
+            209],
+           "assets/images/resized/0008/5255/85255v4-max-250x250.jpg"],
+          [[201,
+            209],
+           "assets/images/resized/0008/5255/85255v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"430\" height=\"242\" src=\"http://www.youtube.com/embed/am2jy7fbGSg\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EMpowerd\u0026#8217;s Luci solar lantern hands on\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"430\" height=\"242\" src=\"http://www.youtube.com/embed/Ll_r1roCTvY\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESay Hello To Luci\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"430\" height=\"242\" src=\"http://www.youtube.com/embed/ZwbddKQezrg\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EMpowered Luci Micro Solar Powered Light | TechCrunch At CES 2013\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.latimes.com/business/technology/la-fi-tn-ces-mpowerd-luci-solar-20130110,0,983018.story",
+    "title": "CES 2013: MPowerd's Luci solar lamp is collapsible and waterproof"},
+   {"external_url": "http://www.businessinsider.com/mpowerd-luci-solar-powered-light-2013-1",
+    "title": "1.6 Billion People In The World Don't Have Electricity \u2014 So Here's A Cool Solar-Powered Light Called 'Luci' "},
+   {"external_url": "http://news.discovery.com/tech/alternative-power-sources/solar-powered-bulbs-brighten-off-grid-homes-130117.htm",
+    "title": "Solar-Powered Bulbs Brighten Off-Grid Homes"},
+   {"external_url": "http://bostonglobe.com/business/2013/01/21/luci-solar-powered-lantern-bright-idea-and-could-aid-worthy-cause/IaywIfBa3kofQXLxWMe8GK/story.html",
+    "title": "Solar-powered lantern is a bright idea"},
+   {"external_url": "http://www.technewsdaily.com/15905-luci-inflatable-lamp.html",
+    "title": "Inflatable Lamp Lights Up Places Off the Grid"}]}

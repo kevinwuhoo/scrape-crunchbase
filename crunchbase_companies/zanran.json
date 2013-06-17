@@ -1,0 +1,147 @@
+{"name": "Zanran",
+ "permalink": "zanran",
+ "crunchbase_url": "http://www.crunchbase.com/company/zanran",
+ "homepage_url": "http://www.zanran.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ZanranSearch",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, data, statistics, graphs, search-engine",
+ "alias_list": null,
+ "email_address": "helpdesk@zanran.com",
+ "phone_number": "+44 20 7354 6333",
+ "description": "search engine for data",
+ "created_at": "Mon May 16 16:23:48 UTC 2011",
+ "updated_at": "Thu May 03 09:38:35 UTC 2012",
+ "overview": "\u003Cp\u003EZanran is a search engine for data and statistics.  It was launched as an early beta version in April 2011.\u003C/p\u003E\n\n\u003Cp\u003EIt is the focus on finding graphs, charts and tables that differentiates Zanran from Google or Bing.  \u003C/p\u003E\n\n\u003Cp\u003EA good feature of this search engine is its preview capability.  If you hover your mouse over the icons to the left of the results, you get a view of the result\u0026#8217;s content.  This is particularly welcome if the results are in large PDF or Excel files - which you\u0026#8217;d otherwise have to download and open.\u003C/p\u003E\n\n\u003Cp\u003EZanran is based in London, UK.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Goldhill",
+      "permalink": "jon-goldhill",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Yves",
+      "last_name": "Dassas",
+      "permalink": "yves-dassas",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google Public Data",
+      "permalink": "google-public-data",
+      "image": null}},
+   {"competitor":
+     {"name": "Wolfram Alpha",
+      "permalink": "wolfram-alpha",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0003/7594/37594v1-max-150x150.png"],
+          [[250,
+            54],
+           "assets/images/resized/0003/7594/37594v1-max-250x250.png"],
+          [[261,
+            57],
+           "assets/images/resized/0003/7594/37594v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Infochimps",
+      "permalink": "infochimps",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0004/2624/42624v8-max-150x150.png"],
+          [[250,
+            77],
+           "assets/images/resized/0004/2624/42624v8-max-250x250.png"],
+          [[280,
+            87],
+           "assets/images/resized/0004/2624/42624v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Junar",
+      "permalink": "junar",
+      "image":
+       {"available_sizes":
+         [[[150,
+            74],
+           "assets/images/resized/0017/2988/172988v2-max-150x150.png"],
+          [[250,
+            124],
+           "assets/images/resized/0017/2988/172988v2-max-250x250.png"],
+          [[450,
+            224],
+           "assets/images/resized/0017/2988/172988v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "26 Danbury Street",
+    "address2": "Islington",
+    "zip_code": "N1 8JU",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        120],
+       "assets/images/resized/0013/4849/134849v2-max-150x150.jpg"],
+      [[250,
+        200],
+       "assets/images/resized/0013/4849/134849v2-max-250x250.jpg"],
+      [[450,
+        360],
+       "assets/images/resized/0013/4849/134849v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://selnd.com/lxNfgD",
+    "title": "SearchEngineLand"}]}

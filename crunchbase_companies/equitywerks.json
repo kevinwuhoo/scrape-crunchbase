@@ -1,0 +1,82 @@
+{"name": "Equitywerks",
+ "permalink": "equitywerks",
+ "crunchbase_url": "http://www.crunchbase.com/company/equitywerks",
+ "homepage_url": "http://www.equitywerks.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "finance, commodity, brokerage, fixed-income, equities, trade-accounting, portfolio-accounting, hedge-func",
+ "alias_list": null,
+ "email_address": "frank.campagna@gmail.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Jan 06 15:47:41 UTC 2009",
+ "updated_at": "Sat Jan 10 14:45:00 UTC 2009",
+ "overview": "\u003Cp\u003EEquitywerks is a financial software services company specializing in trade accounting software for commodity, equity, and fixed income brokerage companies.  Equitycalc software is a secure, modern, web-based interface for the Equitywerks database engine.  \u003C/p\u003E\n\n\u003Cp\u003EAll software was created using open source tools and applications, such as MySQL, Apache, PHP, Perl, etc, and since there is a robust API layer, applications written in .NET, Xcode, Perl, Python, (or anything) can be created to interface with the Equitywerks engine.\u003C/p\u003E\n\n\u003Cp\u003EThe company is slowly growing and currently seeking new clients, investors, and opportunities.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0003/3160/33160v2-max-150x150.png"],
+     [[250,
+       187],
+      "assets/images/resized/0003/3160/33160v2-max-250x250.png"],
+     [[450,
+       337],
+      "assets/images/resized/0003/3160/33160v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Equitywerks Engine",
+    "permalink": "equitywerks-engine",
+    "image": null},
+   {"name": "Equitycalc Software",
+    "permalink": "equitycalc-software",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Data Architect",
+    "person":
+     {"first_name": "Frank",
+      "last_name": "Campagna",
+      "permalink": "frank-campagna",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "38103",
+    "city": "Memphis",
+    "state_code": "TN",
+    "country_code": "USA",
+    "latitude": 35.1653557,
+    "longitude": -90.0700051}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

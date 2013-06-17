@@ -1,0 +1,117 @@
+{"name": "WebDNA Software Corporation",
+ "permalink": "webdna-software-corporation",
+ "crunchbase_url": "http://www.crunchbase.com/company/webdna-software-corporation",
+ "homepage_url": "http://www.webdna.us",
+ "blog_url": "http://forum.webdna.us",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-scripting, web-database, cgi, apache, unix, windows, iis, os-x, osx",
+ "alias_list": "",
+ "email_address": "business@webdna.us",
+ "phone_number": "",
+ "description": "Server-Side Software Development",
+ "created_at": "Sat Dec 27 23:57:38 UTC 2008",
+ "updated_at": "Fri Oct 28 19:10:33 UTC 2011",
+ "overview": "\u003Cp\u003EWebDNA Software Corporation develops and markets a server-side software called WebDNA. WebDNA is a combination of scripting language and database. The scripting language uses a simple syntax and is intuitive and easy to learn. It also incorporates a built-in database that also uses the same simple syntax. By combining the two parts of language and database, making data-driven websites and web applications is much simpler and can be accomplished in much less time. The software is compatible with most major platforms and web servers. The product was originally created by Pacific Coast Software in 1994. It was purchased by Smith Micro Software, but was not actively developed because Smith Micro was experiencing dramatic growth in their cellular operating systems division. WebDNA Software Corporation was formed in 2008 and purchased WebDNA from Smith Micro and began actively developing the product again, starting with producing a version compatible with Intel based Macintosh computers and the latest version of the Apache web server.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0003/2556/32556v2-max-150x150.png"],
+     [[250,
+       85],
+      "assets/images/resized/0003/2556/32556v2-max-250x250.png"],
+     [[450,
+       153],
+      "assets/images/resized/0003/2556/32556v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "WebDNA",
+    "permalink": "webdna",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Christophe",
+      "last_name": "Billiottet",
+      "permalink": "christophe-billiottet",
+      "image": null}},
+   {"is_past": true,
+    "title": "Vice President",
+    "person":
+     {"first_name": "Donovan",
+      "last_name": "Brooke",
+      "permalink": "donovan-brooke",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "McCormick",
+      "permalink": "patrick-mccormick",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PHP",
+      "permalink": "php",
+      "image": null}},
+   {"competitor":
+     {"name": "Lasso Logic",
+      "permalink": "lasso",
+      "image": null}},
+   {"competitor":
+     {"name": "Cold Fusion",
+      "permalink": "cold-fusion",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate HQ",
+    "address1": "16192 Coastal Highway",
+    "address2": "",
+    "zip_code": "19958",
+    "city": "Lewes",
+    "state_code": "DE",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Added Dan Strong as Chief Marketing Officer",
+    "stoned_year": 2010,
+    "stoned_month": 2,
+    "stoned_day": 1,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "WebDNA Software Corporation",
+      "permalink": "webdna-software-corporation"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

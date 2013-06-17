@@ -1,0 +1,86 @@
+{"name": "Icosystem",
+ "permalink": "icosystem",
+ "crunchbase_url": "http://www.crunchbase.com/company/icosystem",
+ "homepage_url": "http://www.icosystem.com/",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 25,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@icosystem.com",
+ "phone_number": "617.520.1000",
+ "description": null,
+ "created_at": "Sat Dec 29 07:22:45 UTC 2007",
+ "updated_at": "Fri Jan 28 23:31:38 UTC 2011",
+ "overview": "\u003Cp\u003EIcosystem is a Boston-based consulting firm founded by complexity scientist Eric Bonabeau. Icosystem\u0026#8217;s primary business comes from helping Fortune 500 companies like Eli Lilly with drug discovery or Harrah\u0026#8217;s Casinos with data mining consumer behavior.\u003C/p\u003E\n\n\u003Cp\u003EYet, founder Bonabeau plans on transitioning Icosystem\u0026#8217;s business in 2008 towards more of a software model by taking some of his custom algorithms and turning them into more generic software that is easier to deploy. Bonabeau\u0026#8217;s Hunch Engine uses behavioral clustering to make personalized suggestions based on no more than two or three clicks by a user. \u0026#8220;How can I help you make better decisions, especially when you don\u0026#8217;t know what you are looking for?\u0026#8221; asks Bonabeau. The Hunch Engine currently powers Nymbler (see below).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0000/2920/2920v1-max-150x150.png"],
+     [[200,
+       54],
+      "assets/images/resized/0000/2920/2920v1-max-250x250.png"],
+     [[200,
+       54],
+      "assets/images/resized/0000/2920/2920v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Nymbler",
+    "permalink": "nymbler",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO \u0026 Chief Scientific Officer",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Bonabeau",
+      "permalink": "eric-bonabeau",
+      "image": null}},
+   {"is_past": null,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Paolo",
+      "last_name": "Gaudiano",
+      "permalink": "paolo-gaudiano",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "10 Fawcett St.",
+    "address2": null,
+    "zip_code": "02318",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.38941,
+    "longitude": -71.146011}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

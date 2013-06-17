@@ -1,0 +1,128 @@
+{"name": "Asankya",
+ "permalink": "asankya",
+ "crunchbase_url": "http://www.crunchbase.com/company/asankya",
+ "homepage_url": "http://www.asankya.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 13,
+ "founded_year": 2004,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "streaming-media, media-delivery-network",
+ "alias_list": null,
+ "email_address": "info@asankya.com",
+ "phone_number": "404-214-0722",
+ "description": "",
+ "created_at": "Tue May 20 19:06:05 UTC 2008",
+ "updated_at": "Wed Jun 12 06:04:40 UTC 2013",
+ "overview": "\u003Cp\u003EAsankya provides solutions to companies in the rapidly growing market of cloud-based applications and streaming services. The ubiquity of reliable, always-on Internet connections has made it possible for companies to move applications, data, and media from disk-based distribution to cloud-based services. Analyst firm William Blair and Co. predicts the cloud services market to reach $34 billion per year by 2012, but the growth of cloud applications and media is currently limited by the quality of experience of transferring data into and out of the cloud.\u003C/p\u003E\n\n\u003Cp\u003EPrevious solution attempts do not adequately address the problems cloud service providers are facing. Content Delivery Networks focus only on downloading content and are highly application specific. WAN Optimization devices, built for point-to-point communication, require high capital expenditure and were not designed for the variability of the Internet and mobile networks. Peer-to-Peer networks are inherently insecure, underperforming, and cannot accommodate real-time interactive content.\u003C/p\u003E\n\n\u003Cp\u003EAsankya\u0026#8217;s solution optimizes transport speed bi-directionally in a way that supports encrypted communications and even streaming services for a significantly enhanced experience. Asankya has developed patent-pending technology that provides intelligent network characterization and scheduling capabilities to manage data flows. Asankya\u0026#8217;s Hypermesh service enables each packet of a data stream to be sent along a different network path, dynamically avoiding bottlenecks and congestion points that currently limit speed and quality, while still maintaining packet order. As more applications, data, and media services move to the cloud, Asankya\u0026#8217;s innovative capabilities enhance the performance of cloud-based services for a fast, secure, and globally consistent experience.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0001/8935/18935v2-max-150x150.jpg"],
+     [[250,
+       86],
+      "assets/images/resized/0001/8935/18935v2-max-250x250.jpg"],
+     [[450,
+       156],
+      "assets/images/resized/0001/8935/18935v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Technology Officer ",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "Raghupathy Sivakumar",
+      "permalink": "dr-raghupathy-sivakumar",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO \u0026 Co-founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Ryan",
+      "permalink": "scott-ryan",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BitTorrent",
+      "permalink": "bittorrent",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0001/0743/10743v6-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0001/0743/10743v6-max-250x250.png"],
+          [[450,
+            192],
+           "assets/images/resized/0001/0743/10743v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Joost",
+      "permalink": "joost",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0000/3715/3715v1-max-150x150.jpg"],
+          [[211,
+            83],
+           "assets/images/resized/0000/3715/3715v1-max-250x250.jpg"],
+          [[211,
+            83],
+           "assets/images/resized/0000/3715/3715v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BitGravity",
+      "permalink": "bitgravity",
+      "image":
+       {"available_sizes":
+         [[[120,
+            90],
+           "assets/images/resized/0001/0770/10770v4-max-150x150.png"],
+          [[120,
+            90],
+           "assets/images/resized/0001/0770/10770v4-max-250x250.png"],
+          [[120,
+            90],
+           "assets/images/resized/0001/0770/10770v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "75 5th St. ",
+    "address2": "Suite 230",
+    "zip_code": "30308",
+    "city": "Atlanta",
+    "state_code": "GA",
+    "country_code": "USA",
+    "latitude": 33.776198,
+    "longitude": -84.385257}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

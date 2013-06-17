@@ -1,0 +1,145 @@
+{"name": "Wi-Not",
+ "permalink": "wi-not",
+ "crunchbase_url": "http://www.crunchbase.com/company/wi-not",
+ "homepage_url": "http://www.wi-not.com",
+ "blog_url": "http://www.wi-not.com/blogs",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, free, application, windows, multimedia, im",
+ "alias_list": "",
+ "email_address": "info@wi-not.com",
+ "phone_number": "+306972442769",
+ "description": "Windows Mobile Software",
+ "created_at": "Sat Jul 05 22:40:43 UTC 2008",
+ "updated_at": "Thu Dec 01 07:50:05 UTC 2011",
+ "overview": "\u003Cp\u003EWi-Not is a mobile software house, which creates on-demand and general-purpose applications mainly for Windows Mobile devices.\u003C/p\u003E\n\n\u003Cp\u003EIts flagship product is Wi-Not Mobile, a mobile application that offers 9 widgets related to TV, radio, IM, games, browser, social networking, music, mobile shopping and extensions. The application is web-based in the sense that there is nothing pre-installed on the device or there is no subscription to access the content.\u003C/p\u003E\n\n\u003Cp\u003EWi-Not Mobile application is built on the company\u0026#8217;s technology, Wi-Tags, which is a web scraping framework, that strips down popular web places into services fitted for mobiles. This gives the application the ability to have features that commonly cannot be found or not possible through \u0026#8216;traditional\u0026#8217; programming techniques.\u003C/p\u003E\n\n\u003Cp\u003EAs an example, Wi-Not IM (Wi-Tok) is enabled with automatic translation based on widely and freely available translation services on the web. Games are also located in the web in a search-keyword fashion, and games can be played on the fly. Listening to music follows the same pattern with users entering the song to listen to and then selecting upon results.\u003C/p\u003E\n\n\u003Cp\u003EWi-Not Inc. is a Greece-based company and locally offers software services to businesses in all sectors.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[142,
+       150],
+      "assets/images/resized/0002/1502/21502v2-max-150x150.png"],
+     [[200,
+       210],
+      "assets/images/resized/0002/1502/21502v2-max-250x250.png"],
+     [[200,
+       210],
+      "assets/images/resized/0002/1502/21502v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Wi-Not Mobile",
+    "permalink": "wi-not-mobile",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Simos",
+      "last_name": "Tsiolas",
+      "permalink": "simos-tsiolas",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Software Engineer",
+    "person":
+     {"first_name": "Panos",
+      "last_name": "Loutis",
+      "permalink": "panos-toulis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yahoo!",
+      "permalink": "yahoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0001/0836/10836v9-max-150x150.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-250x250.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MobiTV",
+      "permalink": "mobitv",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/4360/4360v4-max-150x150.png"],
+          [[182,
+            52],
+           "assets/images/resized/0000/4360/4360v4-max-250x250.png"],
+          [[182,
+            52],
+           "assets/images/resized/0000/4360/4360v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "fring Ltd",
+      "permalink": "fring",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0020/5659/205659v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0020/5659/205659v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0020/5659/205659v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Offical Office Base",
+    "address1": "Solonos 33",
+    "address2": "",
+    "zip_code": "55132",
+    "city": "Thessaloniki",
+    "state_code": null,
+    "country_code": "GRC",
+    "latitude": 40.6072691,
+    "longitude": 22.9600935}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

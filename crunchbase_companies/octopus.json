@@ -1,0 +1,666 @@
+{"name": "Octopus",
+ "permalink": "octopus",
+ "crunchbase_url": "http://www.crunchbase.com/company/octopus",
+ "homepage_url": "http://octopus.org",
+ "blog_url": "http://blog.octopus.org",
+ "blog_feed_url": "http://feeds.feedburner.com/OctopusOfficialBlog",
+ "twitter_username": "octopusorg",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ecommerce, e-commerce, shared-database, data-web, semantic, wikipedia, advertising, community, consulting, internet, marketing, mobile, search, software, technology",
+ "alias_list": null,
+ "email_address": "am@octopus.org",
+ "phone_number": "",
+ "description": "Free Commerce Database",
+ "created_at": "Sun Oct 31 20:06:09 UTC 2010",
+ "updated_at": "Fri Jun 03 19:49:10 UTC 2011",
+ "overview": "\u003Cp\u003EOctopus contains information on products, manufacturers, retailers and services that anyone can edit and comment upon.\u003C/p\u003E\n\n\u003Cp\u003EThe mission of Octopus is to be a useful source of knowledge about the things we own and want, as well as the companies we buy from. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[98,
+       150],
+      "assets/images/resized/0011/1928/111928v2-max-150x150.jpg"],
+     [[163,
+       250],
+      "assets/images/resized/0011/1928/111928v2-max-250x250.jpg"],
+     [[200,
+       306],
+      "assets/images/resized/0011/1928/111928v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Epinions",
+      "permalink": "epinions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0001/5458/15458v1-max-150x150.png"],
+          [[218,
+            71],
+           "assets/images/resized/0001/5458/15458v1-max-250x250.png"],
+          [[218,
+            71],
+           "assets/images/resized/0001/5458/15458v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ConsumerSearch.com",
+      "permalink": "consumersearch-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0003/9053/39053v2-max-150x150.jpg"],
+          [[250,
+            58],
+           "assets/images/resized/0003/9053/39053v2-max-250x250.jpg"],
+          [[343,
+            80],
+           "assets/images/resized/0003/9053/39053v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ProductWiki",
+      "permalink": "productwiki",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0000/2260/2260v3-max-150x150.png"],
+          [[184,
+            26],
+           "assets/images/resized/0000/2260/2260v3-max-250x250.png"],
+          [[184,
+            26],
+           "assets/images/resized/0000/2260/2260v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Crowdstorm USA",
+      "permalink": "crowdstorm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0000/0010/10v5-max-150x150.png"],
+          [[199,
+            42],
+           "assets/images/resized/0000/0010/10v5-max-250x250.png"],
+          [[199,
+            42],
+           "assets/images/resized/0000/0010/10v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bazaarvoice",
+      "permalink": "bazaarvoice",
+      "image":
+       {"available_sizes":
+         [[[135,
+            150],
+           "assets/images/resized/0002/7021/27021v3-max-150x150.jpg"],
+          [[180,
+            200],
+           "assets/images/resized/0002/7021/27021v3-max-250x250.jpg"],
+          [[180,
+            200],
+           "assets/images/resized/0002/7021/27021v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Manta",
+      "permalink": "manta",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0006/3701/63701v12-max-150x150.png"],
+          [[212,
+            62],
+           "assets/images/resized/0006/3701/63701v12-max-250x250.png"],
+          [[212,
+            62],
+           "assets/images/resized/0006/3701/63701v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CNET Reviews",
+      "permalink": "cnet-reviews",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0011/1379/111379v1-max-150x150.jpg"],
+          [[174,
+            72],
+           "assets/images/resized/0011/1379/111379v1-max-250x250.jpg"],
+          [[174,
+            72],
+           "assets/images/resized/0011/1379/111379v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Squidoo",
+      "permalink": "squidoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/2698/2698v1-max-150x150.png"],
+          [[184,
+            59],
+           "assets/images/resized/0000/2698/2698v1-max-250x250.png"],
+          [[184,
+            59],
+           "assets/images/resized/0000/2698/2698v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shopzilla",
+      "permalink": "shopzilla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0003/7909/37909v3-max-150x150.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0003/7909/37909v3-max-250x250.jpg"],
+          [[450,
+            83],
+           "assets/images/resized/0003/7909/37909v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BizRate",
+      "permalink": "bizrate",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0001/9984/19984v2-max-150x150.png"],
+          [[236,
+            90],
+           "assets/images/resized/0001/9984/19984v2-max-250x250.png"],
+          [[236,
+            90],
+           "assets/images/resized/0001/9984/19984v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ask.com",
+      "permalink": "ask-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0001/0842/10842v6-max-150x150.png"],
+          [[250,
+            165],
+           "assets/images/resized/0001/0842/10842v6-max-250x250.png"],
+          [[365,
+            241],
+           "assets/images/resized/0001/0842/10842v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wakoopa",
+      "permalink": "wakoopa",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0000/2464/2464v1-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0000/2464/2464v1-max-250x250.png"],
+          [[450,
+            153],
+           "assets/images/resized/0000/2464/2464v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Answers Corporation",
+      "permalink": "answers",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/2311/2311v3-max-150x150.png"],
+          [[218,
+            66],
+           "assets/images/resized/0000/2311/2311v3-max-250x250.png"],
+          [[218,
+            66],
+           "assets/images/resized/0000/2311/2311v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MerchantCircle",
+      "permalink": "merchantcircle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0017/3364/173364v1-max-150x150.jpg"],
+          [[250,
+            60],
+           "assets/images/resized/0017/3364/173364v1-max-250x250.jpg"],
+          [[310,
+            75],
+           "assets/images/resized/0017/3364/173364v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Goodzer",
+      "permalink": "goodzer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0010/5608/105608v7-max-150x150.png"],
+          [[250,
+            192],
+           "assets/images/resized/0010/5608/105608v7-max-250x250.png"],
+          [[260,
+            200],
+           "assets/images/resized/0010/5608/105608v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HubPages",
+      "permalink": "hubpages",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2695/2695v3-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0000/2695/2695v3-max-250x250.png"],
+          [[450,
+            117],
+           "assets/images/resized/0000/2695/2695v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Svpply",
+      "permalink": "svpply",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0011/1221/111221v1-max-150x150.png"],
+          [[209,
+            48],
+           "assets/images/resized/0011/1221/111221v1-max-250x250.png"],
+          [[209,
+            48],
+           "assets/images/resized/0011/1221/111221v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ChaCha",
+      "permalink": "chacha",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0010/6139/106139v1-max-150x150.jpg"],
+          [[240,
+            143],
+           "assets/images/resized/0010/6139/106139v1-max-250x250.jpg"],
+          [[240,
+            143],
+           "assets/images/resized/0010/6139/106139v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CNET Reviews",
+      "permalink": "cnet-reviews",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0011/1379/111379v1-max-150x150.jpg"],
+          [[174,
+            72],
+           "assets/images/resized/0011/1379/111379v1-max-250x250.jpg"],
+          [[174,
+            72],
+           "assets/images/resized/0011/1379/111379v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NexTag",
+      "permalink": "nextag",
+      "image":
+       {"available_sizes":
+         [[[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-150x150.png"],
+          [[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-250x250.png"],
+          [[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TheFind",
+      "permalink": "thefind",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/3307/3307v10-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0000/3307/3307v10-max-250x250.png"],
+          [[450,
+            109],
+           "assets/images/resized/0000/3307/3307v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Become",
+      "permalink": "become",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0001/6396/16396v1-max-150x150.png"],
+          [[230,
+            64],
+           "assets/images/resized/0001/6396/16396v1-max-250x250.png"],
+          [[230,
+            64],
+           "assets/images/resized/0001/6396/16396v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ThisNext",
+      "permalink": "thisnext",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0000/0412/412v1-max-150x150.png"],
+          [[152,
+            80],
+           "assets/images/resized/0000/0412/412v1-max-250x250.png"],
+          [[152,
+            80],
+           "assets/images/resized/0000/0412/412v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Knol",
+      "permalink": "knol",
+      "image": null}},
+   {"competitor":
+     {"name": "Kaboodle",
+      "permalink": "kaboodle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0001/6674/16674v3-max-150x150.jpg"],
+          [[171,
+            171],
+           "assets/images/resized/0001/6674/16674v3-max-250x250.jpg"],
+          [[171,
+            171],
+           "assets/images/resized/0001/6674/16674v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wikia",
+      "permalink": "wikia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/3895/3895v11-max-150x150.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/3895/3895v11-max-250x250.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/3895/3895v11-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hakia",
+      "permalink": "hakia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0000/2632/2632v1-max-150x150.png"],
+          [[200,
+            96],
+           "assets/images/resized/0000/2632/2632v1-max-250x250.png"],
+          [[200,
+            96],
+           "assets/images/resized/0000/2632/2632v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nuji",
+      "permalink": "nuji",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0010/1442/101442v8-max-150x150.png"],
+          [[250,
+            131],
+           "assets/images/resized/0010/1442/101442v8-max-250x250.png"],
+          [[450,
+            236],
+           "assets/images/resized/0010/1442/101442v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pronto",
+      "permalink": "pronto-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0003/6803/36803v2-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0003/6803/36803v2-max-250x250.jpg"],
+          [[319,
+            71],
+           "assets/images/resized/0003/6803/36803v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shoplocal",
+      "permalink": "shoplocal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/2049/22049v5-max-150x150.png"],
+          [[237,
+            48],
+           "assets/images/resized/0002/2049/22049v5-max-250x250.png"],
+          [[237,
+            48],
+           "assets/images/resized/0002/2049/22049v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Retrevo",
+      "permalink": "retrevo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0006/5246/65246v5-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0006/5246/65246v5-max-250x250.png"],
+          [[450,
+            132],
+           "assets/images/resized/0006/5246/65246v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SmartRatings",
+      "permalink": "smartratings",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/5164/15164v1-max-150x150.png"],
+          [[189,
+            48],
+           "assets/images/resized/0001/5164/15164v1-max-250x250.png"],
+          [[189,
+            48],
+           "assets/images/resized/0001/5164/15164v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PowerReviews",
+      "permalink": "powerreviews",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0015/5096/155096v2-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0015/5096/155096v2-max-250x250.png"],
+          [[384,
+            95],
+           "assets/images/resized/0015/5096/155096v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wize",
+      "permalink": "wize",
+      "image":
+       {"available_sizes":
+         [[[90,
+            60],
+           "assets/images/resized/0000/1156/1156v4-max-150x150.png"],
+          [[90,
+            60],
+           "assets/images/resized/0000/1156/1156v4-max-250x250.png"],
+          [[90,
+            60],
+           "assets/images/resized/0000/1156/1156v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "gdgt",
+      "permalink": "gdgt",
+      "image":
+       {"available_sizes":
+         [[[147,
+            68],
+           "assets/images/resized/0004/4881/44881v3-max-150x150.png"],
+          [[147,
+            68],
+           "assets/images/resized/0004/4881/44881v3-max-250x250.png"],
+          [[147,
+            68],
+           "assets/images/resized/0004/4881/44881v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Clarinova",
+      "permalink": "clarinova",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0015/4280/154280v1-max-150x150.jpg"],
+          [[221,
+            62],
+           "assets/images/resized/0015/4280/154280v1-max-250x250.jpg"],
+          [[221,
+            62],
+           "assets/images/resized/0015/4280/154280v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NearbyNow",
+      "permalink": "nearbynow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/9324/19324v1-max-150x150.png"],
+          [[250,
+            58],
+           "assets/images/resized/0001/9324/19324v1-max-250x250.png"],
+          [[279,
+            65],
+           "assets/images/resized/0001/9324/19324v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Retailigence",
+      "permalink": "retailigence",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0009/6394/96394v8-max-150x150.png"],
+          [[250,
+            50],
+           "assets/images/resized/0009/6394/96394v8-max-250x250.png"],
+          [[250,
+            50],
+           "assets/images/resized/0009/6394/96394v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shopatron",
+      "permalink": "shopatron",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0006/2974/62974v9-max-150x150.jpg"],
+          [[250,
+            98],
+           "assets/images/resized/0006/2974/62974v9-max-250x250.jpg"],
+          [[450,
+            177],
+           "assets/images/resized/0006/2974/62974v9-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shoplocal",
+      "permalink": "shoplocal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/2049/22049v5-max-150x150.png"],
+          [[237,
+            48],
+           "assets/images/resized/0002/2049/22049v5-max-250x250.png"],
+          [[237,
+            48],
+           "assets/images/resized/0002/2049/22049v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hunch",
+      "permalink": "hunch",
+      "image":
+       {"available_sizes":
+         [[[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-150x150.png"],
+          [[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-250x250.png"],
+          [[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

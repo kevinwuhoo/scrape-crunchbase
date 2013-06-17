@@ -1,0 +1,160 @@
+{"name": "Bluyah",
+ "permalink": "bluyah",
+ "crunchbase_url": "http://www.crunchbase.com/company/bluyah",
+ "homepage_url": "http://bluyah.com",
+ "blog_url": "http://blog.bluyah.com",
+ "blog_feed_url": "http://blog.bluyah.com/feed/",
+ "twitter_username": "bluyah",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, data-transformation, maps, charts, reporting, xml-transformation",
+ "alias_list": null,
+ "email_address": "support@bluyah.com",
+ "phone_number": "206-356-3506",
+ "description": "On-Demand Data Transformation",
+ "created_at": "Mon Aug 17 20:16:13 UTC 2009",
+ "updated_at": "Mon Aug 17 20:59:35 UTC 2009",
+ "overview": "\u003Cp\u003EBluyah provides on-demand, real-time data transformation services for small and medium sized businesses needing to cut their development costs and/or speed time to market.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       73],
+      "assets/images/resized/0005/6780/56780v2-max-150x150.png"],
+     [[222,
+       109],
+      "assets/images/resized/0005/6780/56780v2-max-250x250.png"],
+     [[222,
+       109],
+      "assets/images/resized/0005/6780/56780v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder / CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Luck",
+      "permalink": "richard-luck",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Crowder",
+      "permalink": "tom-crowder",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Sales",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Plenkovich",
+      "permalink": "adam-plenkovich",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Alexandira",
+      "last_name": "Maruska",
+      "permalink": "alexandira-maruska",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Jesse",
+      "last_name": "Lee",
+      "permalink": "jesse-lee",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Kurt",
+      "last_name": "Maass",
+      "permalink": "kurt-maass",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Datamash",
+      "permalink": "datamash",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0011/1684/111684v2-max-150x150.jpg"],
+          [[250,
+            76],
+           "assets/images/resized/0011/1684/111684v2-max-250x250.jpg"],
+          [[253,
+            77],
+           "assets/images/resized/0011/1684/111684v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "youcalc",
+      "permalink": "youcalc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0002/7395/27395v3-max-150x150.png"],
+          [[205,
+            79],
+           "assets/images/resized/0002/7395/27395v3-max-250x250.png"],
+          [[205,
+            79],
+           "assets/images/resized/0002/7395/27395v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mapspread",
+      "permalink": "mapspread",
+      "image": null}},
+   {"competitor":
+     {"name": "LogiXML",
+      "permalink": "logixml",
+      "image":
+       {"available_sizes":
+         [[[147,
+            38],
+           "assets/images/resized/0005/1537/51537v3-max-150x150.jpg"],
+          [[147,
+            38],
+           "assets/images/resized/0005/1537/51537v3-max-250x250.jpg"],
+          [[147,
+            38],
+           "assets/images/resized/0005/1537/51537v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.620973,
+    "longitude": -122.347276}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

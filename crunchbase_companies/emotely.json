@@ -1,0 +1,121 @@
+{"name": "Emotely",
+ "permalink": "emotely",
+ "crunchbase_url": "http://www.crunchbase.com/company/emotely",
+ "homepage_url": "http://emotely.com/",
+ "blog_url": "http://emotely.com/blog/",
+ "blog_feed_url": "http://emotely.com/blog/feed/",
+ "twitter_username": "emotely",
+ "category_code": "games_video",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "games, controllers, remotes, media-players, input-devices",
+ "alias_list": null,
+ "email_address": "info@emotely.com",
+ "phone_number": "",
+ "description": "A Wireless Controller Platform",
+ "created_at": "Thu Jan 27 19:41:40 UTC 2011",
+ "updated_at": "Sat Jun 04 17:25:34 UTC 2011",
+ "overview": "\u003Cp\u003EEmotely turns Phones into Wireless Controllers for Web Apps/Games.\u003C/p\u003E\n\n\u003Cp\u003EThe Emotely Platform provides an expanding set of Controllers that can be installed from within their iPhone/Android app. We are focused on making controllers that communicate with anything that runs in a webpage. Types of Controllers include using iPhones as a Video Game Controller, a Media Remote for Video/Music playback, slideshow clickers, browser navigation, and using the iPad for drawing programs instead of your mouse.\u003C/p\u003E\n\n\u003Cp\u003ENo software installation is required on the receiving PC. Once installed on the Mobile Device you can walk up to any PC, open up any Emotely-enabled webpage, and begin controlling it. The communication between the Mobile Device and the PC is at near instantaneous speeds ( Over 60 frames per second, which is faster than the eye can perceive. ).\u003C/p\u003E\n\n\u003Cp\u003EThird-party developers can use the Emotely SDK to build their own custom Controllers which they can then sell through Emotely\u0026#8217;s Mobile App using In App Payments or via the Emotely Website. The Controllers are built using HTML/Javascript, so anyone with basic Web Programming skills can easily build a simple Controller in just a few hours. More advanced Controllers that are as sophisticated as Web Applications themselves can end up taking up time in the order of weeks.\u003C/p\u003E\n\n\u003Cp\u003EMore than PCs can be controlled. The early focus is on Controlling Web Applications within Browsers. Their SDK will support hardware integration in the future.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0011/9287/119287v10-max-150x150.png"],
+     [[241,
+       70],
+      "assets/images/resized/0011/9287/119287v10-max-250x250.png"],
+     [[241,
+       70],
+      "assets/images/resized/0011/9287/119287v10-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "21",
+    "permalink": "21",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Francois",
+      "last_name": "Laberge",
+      "permalink": "francois-laberge",
+      "image":
+       {"available_sizes":
+         [[[120,
+            120],
+           "assets/images/resized/0013/7060/137060v2-max-150x150.jpg"],
+          [[120,
+            120],
+           "assets/images/resized/0013/7060/137060v2-max-250x250.jpg"],
+          [[120,
+            120],
+           "assets/images/resized/0013/7060/137060v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TubeMote",
+      "permalink": "tubemote",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.masshightech.com/stories/2011/05/30/daily35-Brass-Monkey-buys-HTML5-shop-Emotely.html",
+   "source_description": "Brass Monkey buys HTML5 shop Emotely",
+   "acquired_year": 2011,
+   "acquired_month": 6,
+   "acquired_day": 2,
+   "acquiring_company":
+    {"name": "Brass Monkey",
+     "permalink": "brass-monkey",
+     "image":
+      {"available_sizes":
+        [[[150,
+           142],
+          "assets/images/resized/0013/7052/137052v3-max-150x150.jpg"],
+         [[180,
+           171],
+          "assets/images/resized/0013/7052/137052v3-max-250x250.jpg"],
+         [[180,
+           171],
+          "assets/images/resized/0013/7052/137052v3-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "The Private Beta of Emotely was announced.",
+    "stoned_year": 2011,
+    "stoned_month": 3,
+    "stoned_day": 14,
+    "source_url": "http://twitter.com/#!/emotely/status/47392652617986048",
+    "source_text": null,
+    "source_description": "Emotely on Twitter",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Emotely",
+      "permalink": "emotely"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

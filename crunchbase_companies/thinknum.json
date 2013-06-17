@@ -1,0 +1,113 @@
+{"name": "ThinkNum",
+ "permalink": "thinknum",
+ "crunchbase_url": "http://www.crunchbase.com/company/thinknum",
+ "homepage_url": "http://www.thinknum.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "finance, data, analysis, graphs, plots, data-sets",
+ "alias_list": null,
+ "email_address": "thinknum@thinknum.com",
+ "phone_number": "",
+ "description": "financial data analysis engine",
+ "created_at": "Tue Apr 09 23:10:53 UTC 2013",
+ "updated_at": "Mon May 06 03:57:57 UTC 2013",
+ "overview": "\u003Cp\u003EThinkNum is a financial analysis engine which brings the functionality traditionally found on wall street proprietary trading desks to an open platform.\u003C/p\u003E\n\n\u003Cp\u003EThinkNum provides a data library with over 7 million data-series and an analysis library with over a thousand functions that can be evaluated directly over the web. It includes data from corporate filings, stock prices and macro data on one platform. Our app allows users to find, save and share data analysis.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0025/0026/250026v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0025/0026/250026v2-max-250x250.jpg"],
+     [[400,
+       400],
+      "assets/images/resized/0025/0026/250026v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Bloomberg",
+      "permalink": "bloomberg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0002/1883/21883v1-max-150x150.png"],
+          [[171,
+            42],
+           "assets/images/resized/0002/1883/21883v1-max-250x250.png"],
+          [[171,
+            42],
+           "assets/images/resized/0002/1883/21883v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FactSet Research Systems",
+      "permalink": "factset-research-systems",
+      "image":
+       {"available_sizes":
+         [[[135,
+            35],
+           "assets/images/resized/0011/2989/112989v2-max-150x150.jpg"],
+          [[135,
+            35],
+           "assets/images/resized/0011/2989/112989v2-max-250x250.jpg"],
+          [[135,
+            35],
+           "assets/images/resized/0011/2989/112989v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Stanford University",
+    "address2": "",
+    "zip_code": "94305",
+    "city": "Stanford",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"430\" height=\"270\" src=\"http://www.youtube.com/embed/EqDOMFRm-Bs\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EDemo\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"430\" height=\"270\" src=\"http://www.youtube.com/embed/r-YGAm4UwOI?feature=player_embedded\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ECreating and saving charts \u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0025/0025/250025v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0025/0025/250025v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0025/0025/250025v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

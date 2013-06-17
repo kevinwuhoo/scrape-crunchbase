@@ -1,0 +1,111 @@
+{"name": "Dubit",
+ "permalink": "dubit",
+ "crunchbase_url": "http://www.crunchbase.com/company/dubit",
+ "homepage_url": "http://dubitlimited.com",
+ "blog_url": "http://www.dubitlimited.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "dubit",
+ "category_code": "web",
+ "number_of_employees": 30,
+ "founded_year": 2003,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "matthew@dubitlimited.com",
+ "phone_number": "0113 394 7950",
+ "description": "",
+ "created_at": "Tue Aug 07 09:04:35 UTC 2007",
+ "updated_at": "Thu Apr 04 11:13:51 UTC 2013",
+ "overview": "\u003Cp\u003ECreated as a virtual hangout for UK teens by Adam Hildreth when he was a teen, Dubit 3D Chat offers users a place where they can socialize and chat in a 3D virtual world called Dubit Island.  Signing up for an account is free and besides their 3D chat, the site also offers a number of online games, message boards with posts concerning a variety of topics, and member blogs.  Fairly popular amongst UK teens, Dubit has nearly 505,000 active members as of August 2007.  As a virtual world, Dubit competes with other sites like \u003Ca href=\"http://www.crunchbase.com/company/habbohotel\" title=\"Habbo Hotel\"\u003EHabbo Hotel\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/secondlife\" title=\"Second Life\"\u003ESecond Life\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/kaneva\" title=\"Kaneva\"\u003EKaneva\u003C/a\u003E, and others.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0002/5445/25445v2-max-150x150.jpg"],
+     [[250,
+       58],
+      "assets/images/resized/0002/5445/25445v2-max-250x250.jpg"],
+     [[255,
+       60],
+      "assets/images/resized/0002/5445/25445v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Dubit 3D Chat",
+    "permalink": "dubit-3d-chat",
+    "image": null},
+   {"name": "Dubit Platform",
+    "permalink": "dubit-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Ian",
+      "last_name": "Douthwaite",
+      "permalink": "ian-douthwaite",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder \u0026 CTO",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Warneford",
+      "permalink": "matthew-warneford",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/0756/260756v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0756/260756v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0756/260756v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Hildreth",
+      "permalink": "adam-hildreth",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Habbo",
+      "permalink": "habbo-hotel",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "The Half Roundhouse",
+    "address2": "Wellington Road",
+    "zip_code": "LS12 1DR",
+    "city": "Leeds",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://interactive.dubitlimited.com",
+    "title": "Technology Microsite "}]}

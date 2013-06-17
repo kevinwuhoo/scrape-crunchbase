@@ -1,0 +1,97 @@
+{"name": "Chirp",
+ "permalink": "chirp-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/chirp-2",
+ "homepage_url": "http://chirp.io",
+ "blog_url": "http://chirp.io/blog",
+ "blog_feed_url": "",
+ "twitter_username": "chirp_io",
+ "category_code": null,
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "audio, sound, data, data-transfer",
+ "alias_list": null,
+ "email_address": "info@chirp.io",
+ "phone_number": "",
+ "description": "Share anything with sound",
+ "created_at": "Sat Nov 17 13:30:47 UTC 2012",
+ "updated_at": "Wed Dec 12 07:46:12 UTC 2012",
+ "overview": "\u003Cp\u003EChirp is a new way to share your stuff \u2013 using sound. Chirp sings information from one device to another.\u003C/p\u003E\n\n\u003Cp\u003EThe app uses special electronic birdsong to \u2018chirp\u2019 information over the air to your friends. Users can share photos, webpages, contacts.\u003C/p\u003E\n\n\u003Cp\u003EEvery chirp is a little song that links to anything you want to share. It can quickly send data to multiple devices at once without them needing to be either paired or have a wireless connection.\u003C/p\u003E\n\n\u003Cp\u003EChirp solves the problem of having to pair devices to move data, and allows users and broadcasters alike to transmit information to anyone who is in earshot - so a large number of devices can share the same information at the same time.\u003C/p\u003E\n\n\u003Cp\u003EThe platform was developed by Animal Systems, a spin-off business from University College London (UCL) Department of Computer Science.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[104,
+       150],
+      "assets/images/resized/0022/0823/220823v2-max-150x150.png"],
+     [[174,
+       250],
+      "assets/images/resized/0022/0823/220823v2-max-250x250.png"],
+     [[313,
+       450],
+      "assets/images/resized/0022/0823/220823v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO \u0026 Founder",
+    "person":
+     {"first_name": "Anthony",
+      "last_name": "Steed",
+      "permalink": "anthony-steed-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "Bergel",
+      "permalink": "patrick-bergel",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Argyle House ",
+    "address2": "29 - 31 Euston Road,",
+    "zip_code": "NW1 2SD",
+    "city": "LONDON",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5297461,
+    "longitude": -0.1238954}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[79,
+        150],
+       "assets/images/resized/0022/0822/220822v2-max-150x150.png"],
+      [[132,
+        250],
+       "assets/images/resized/0022/0822/220822v2-max-250x250.png"],
+      [[237,
+        450],
+       "assets/images/resized/0022/0822/220822v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://vimeo.com/45838932",
+    "title": "Introducing Chirp (Vimeo)"},
+   {"external_url": "http://www.bbc.co.uk/news/technology-18927928",
+    "title": "BBC News: Chirp sends data with digital birdsong"}]}

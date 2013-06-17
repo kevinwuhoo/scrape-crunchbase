@@ -1,0 +1,117 @@
+{"name": "SindiceTech",
+ "permalink": "sindicetech",
+ "crunchbase_url": "http://www.crunchbase.com/company/sindicetech",
+ "homepage_url": "http://sindicetech.com",
+ "blog_url": "http://www.sindicetech.com/blog/",
+ "blog_feed_url": "http://www.sindicetech.com/blog/?feed=rss2",
+ "twitter_username": "sindicetech",
+ "category_code": "enterprise",
+ "number_of_employees": 10,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "big-data, cloud-computing, rdf, semantic-web, etl, data-warehousing",
+ "alias_list": null,
+ "email_address": "info@sindice.com",
+ "phone_number": "+353871272938",
+ "description": "Enterprise Linked Data Clouds",
+ "created_at": "Tue Sep 11 15:17:38 UTC 2012",
+ "updated_at": "Wed Oct 03 15:29:59 UTC 2012",
+ "overview": "\u003Cp\u003ESindiceTech deployes \u0026#8220;Enterprise Linked Data Clouds\u0026#8221;\u003C/p\u003E\n\n\u003Cp\u003EKnowledge centered enterprises (Bio, Pharma, Scientific and Technical publishing, Defense..) can live or die by their ability to leverage more and more internal and external datasets. \u003C/p\u003E\n\n\u003Cp\u003ETraditional data warehousing and ETL systems fall flat in such high \u0026#8220;data variability\u0026#8221; scenarios, as they inherit RDBMS inflexibility. \u003C/p\u003E\n\n\u003Cp\u003EAt the other end of the spectrum, Semantic Web technologies (RDF Knowledge graphs) are long been considered by advanced knowledge workers the best technologies for data variability, but have so far\nlacked the scale and the enterprise readiness.\u003C/p\u003E\n\n\u003Cp\u003ESindiceTech is a Big Data company which merges the two, providing enterprises with the ability to do large scale Semantic Web based ETL on public or private clouds.\u003C/p\u003E\n\n\u003Cp\u003EOur products include\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cp\u003ECloudSpace - the stuff \u0026#8220;Linked Data Clouds\u0026#8221; are made of, a powered middleware for large scale semistructured data (RDF) workflows and ETL. \u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003ESIREn - A plug in to Solr to boost your semistructured data search capabilities. \u003C/p\u003E\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0021/1928/211928v2-max-150x150.png"],
+     [[250,
+       68],
+      "assets/images/resized/0021/1928/211928v2-max-250x250.png"],
+     [[450,
+       122],
+      "assets/images/resized/0021/1928/211928v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Giovanni",
+      "last_name": "Tummarello",
+      "permalink": "giovanni-tummarello",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Renaud",
+      "last_name": "Delbru",
+      "permalink": "renaud-delbru",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Revelytix",
+      "permalink": "revelytix",
+      "image": null}},
+   {"competitor":
+     {"name": "EMC",
+      "permalink": "emc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/1658/21658v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/1658/21658v2-max-250x250.png"],
+          [[400,
+            400],
+           "assets/images/resized/0002/1658/21658v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Greenplum Software",
+      "permalink": "greenplum",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/3256/3256v1-max-150x150.png"],
+          [[173,
+            52],
+           "assets/images/resized/0000/3256/3256v1-max-250x250.png"],
+          [[173,
+            52],
+           "assets/images/resized/0000/3256/3256v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "DERI IDA Business Park",
+    "address2": "Lower Dangan",
+    "zip_code": "00000",
+    "city": "Galway",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

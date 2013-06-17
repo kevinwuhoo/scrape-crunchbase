@@ -1,0 +1,104 @@
+{"name": "PriceTag",
+ "permalink": "pricetag",
+ "crunchbase_url": "http://www.crunchbase.com/company/pricetag",
+ "homepage_url": "http://www.PriceTag.eu",
+ "blog_url": "http://hgstartup.tumblr.com/",
+ "blog_feed_url": "",
+ "twitter_username": "HgStartup",
+ "category_code": "mobile",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-web, search, crowdsourced, local-business",
+ "alias_list": null,
+ "email_address": "martinbrn007@gmail.com",
+ "phone_number": "+372 56242279",
+ "description": "mobile price-tagging map layer",
+ "created_at": "Sun Jun 19 16:10:30 UTC 2011",
+ "updated_at": "Mon Jun 20 21:54:01 UTC 2011",
+ "overview": "\u003Cp\u003ECrowd sourced platform for mobile price tagging \u0026amp; mobile web search for local businesses \u0026amp; brands + tracking/acquiring their loyal customers.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Born",
+      "permalink": "martin-born",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "cherry.ee",
+      "permalink": "cherry-ee",
+      "image": null}},
+   {"competitor":
+     {"name": "supercompare",
+      "permalink": "supercompare",
+      "image": null}},
+   {"competitor":
+     {"name": "wibbit",
+      "permalink": "wibbit",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 1000,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home office",
+    "address1": "Tatari 44",
+    "address2": "",
+    "zip_code": "10134",
+    "city": "Tallinn",
+    "state_code": null,
+    "country_code": "EST",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.startupgarage.eu/summer-of-startups/teams",
+    "title": "acceptance to accelerator"},
+   {"external_url": "http://www.tehnopol.ee/et/uudised/uudised/653/suvel-alustab-summer-of-startups-ettevotlusprogramm/",
+    "title": "mentors for accelerator"}]}

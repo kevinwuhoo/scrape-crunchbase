@@ -1,0 +1,112 @@
+{"name": "Tutorialize",
+ "permalink": "tutorialize",
+ "crunchbase_url": "http://www.crunchbase.com/company/tutorialize",
+ "homepage_url": "https://tutorialize.me",
+ "blog_url": "http://blog.tutorialize.me",
+ "blog_feed_url": "",
+ "twitter_username": "tutorializeme",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-development, user-engagement, interactive-website-guides",
+ "alias_list": null,
+ "email_address": "team@tutorialize.me",
+ "phone_number": "6468019625",
+ "description": "interactive website tutorials service",
+ "created_at": "Tue May 21 15:31:09 UTC 2013",
+ "updated_at": "Fri May 24 17:47:24 UTC 2013",
+ "overview": "\u003Cp\u003ETutorialize allows website owners to create rich on-screen website tutorials that guide their users around their site.\u003C/p\u003E\n\n\u003Cp\u003EUtilizing a simple point-and-click Google Chrome extension Tutorialize users can add tooltips to any elements on their pages. Each tooltip can be customized with a title and additional content, in order to best describe the element that is currently being targeted. \u003C/p\u003E\n\n\u003Cp\u003EUsers can customize the look and feel of a tutorial by changing the CSS and the HTML directly in the extension. In addition multiple languages are supported.\u003C/p\u003E\n\n\u003Cp\u003ETutorials are automatically synced against the Tutorialize database so that logged in users will only ever see a tutorial once. Tutorialize gathers metrics on live tutorials and provides a rich set of graphs in the admin portal. Users can use these graphs to tweak their tutorials, and to ensure that they are as effective as possible.\u003C/p\u003E\n\n\u003Cp\u003ETutorialize currently offers three pricing tiers of $9/mo, $19/mo, and $49/mo.\u003C/p\u003E\n\n\u003Cp\u003EAll plans get a 30 day free trial\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       128],
+      "assets/images/resized/0026/6477/266477v2-max-150x150.png"],
+     [[128,
+       128],
+      "assets/images/resized/0026/6477/266477v2-max-250x250.png"],
+     [[128,
+       128],
+      "assets/images/resized/0026/6477/266477v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Leo",
+      "last_name": "Shemesh",
+      "permalink": "leo-shemesh",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "WalkMe",
+      "permalink": "walkme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0018/3918/183918v1-max-150x150.jpg"],
+          [[250,
+            88],
+           "assets/images/resized/0018/3918/183918v1-max-250x250.jpg"],
+          [[266,
+            94],
+           "assets/images/resized/0018/3918/183918v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "New York Office",
+    "address1": "175 Varick st",
+    "address2": "Tutorialize",
+    "zip_code": "10014",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.7275169,
+    "longitude": -74.0057193}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0026/5106/265106v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0026/5106/265106v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0026/5106/265106v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0026/5107/265107v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0026/5107/265107v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0026/5107/265107v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

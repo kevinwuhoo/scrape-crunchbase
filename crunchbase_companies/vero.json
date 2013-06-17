@@ -1,0 +1,113 @@
+{"name": "Vero",
+ "permalink": "vero",
+ "crunchbase_url": "http://www.crunchbase.com/company/vero",
+ "homepage_url": "http://www.getvero.com",
+ "blog_url": "http://blog.getvero.com",
+ "blog_feed_url": "http://feeds.feedburner.com/getveroblog",
+ "twitter_username": "veroapp",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email-marketing, marketing, direct-marketing, marketing-automation, customer-service, crm, urm",
+ "alias_list": null,
+ "email_address": "support@getvero.com",
+ "phone_number": "4155628376",
+ "description": "Email marketing automation",
+ "created_at": "Wed Jun 20 17:53:36 UTC 2012",
+ "updated_at": "Fri Jun 22 17:38:08 UTC 2012",
+ "overview": "\u003Cp\u003EVero enables companies to send event-based emails in order to increase conversions and improve customer satisfaction.\u003C/p\u003E\n\n\u003Cp\u003EBy tracking events, Vero let\u0026#8217;s users build automated workflows to guide their users through the customer lifecycle funnel.\u003C/p\u003E\n\n\u003Cp\u003EA simple example is a cart abandonment email: if a customer adds an item to their shopping cart, views the cart and leaves the site, they may be followed up the next day with a reminder or discount offer.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0019/6444/196444v2-max-150x150.png"],
+     [[188,
+       60],
+      "assets/images/resized/0019/6444/196444v2-max-250x250.png"],
+     [[188,
+       60],
+      "assets/images/resized/0019/6444/196444v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Hexton",
+      "permalink": "chris-hexton",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Lamont",
+      "permalink": "james-lamont-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Marketo",
+      "permalink": "marketo",
+      "image":
+       {"available_sizes":
+         [[[136,
+            59],
+           "assets/images/resized/0001/6526/16526v1-max-150x150.png"],
+          [[136,
+            59],
+           "assets/images/resized/0001/6526/16526v1-max-250x250.png"],
+          [[136,
+            59],
+           "assets/images/resized/0001/6526/16526v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bronto Software",
+      "permalink": "bronto-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/1749/21749v2-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0002/1749/21749v2-max-250x250.png"],
+          [[251,
+            76],
+           "assets/images/resized/0002/1749/21749v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "880 Harrison St",
+    "address2": "",
+    "zip_code": "94104",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

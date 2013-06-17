@@ -1,0 +1,86 @@
+{"name": "DotGov",
+ "permalink": "dotgov",
+ "crunchbase_url": "http://www.crunchbase.com/company/dotgov",
+ "homepage_url": "http://dotgov.com/",
+ "blog_url": "http://dotgov.com/blog/",
+ "blog_feed_url": "feed://www.dotgov.com/feed/",
+ "twitter_username": "DotGovInc",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gov-2-0, open-government, open-data, mobile-government, e-government",
+ "alias_list": null,
+ "email_address": "info@dotgov.com",
+ "phone_number": "1.888.916.3999",
+ "description": "Gov 2.0 start-up",
+ "created_at": "Wed Feb 23 04:22:30 UTC 2011",
+ "updated_at": "Wed Jun 20 19:28:32 UTC 2012",
+ "overview": "\u003Cp\u003EDotGov is a Seattle-based Gov2.0 startup dedicated to improving communication between people and their local governments. The company is currently focused on developing and perfecting YouTown, a mobile application that makes municipal information easily accessible to citizens. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[112,
+       100],
+      "assets/images/resized/0012/3489/123489v2-max-150x150.png"],
+     [[112,
+       100],
+      "assets/images/resized/0012/3489/123489v2-max-250x250.png"],
+     [[112,
+       100],
+      "assets/images/resized/0012/3489/123489v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Riedyk",
+      "permalink": "michael-riedyk",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "DotGov, Inc.",
+    "address1": "24 Roy Street",
+    "address2": "#406",
+    "zip_code": "98101",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://gcn.com/articles/2010/11/16/mobile-app-for-city-county-governments.aspx",
+    "title": "GCN: Cities, counties, get app for delivering services"},
+   {"external_url": "http://www.govtech.com/e-government/Citizen-to-Government-Feedback-YouTown-Mobile-App.html",
+    "title": "GovTech: Citizen-to-government Feedback at Heart of New Mobile App"},
+   {"external_url": "http://azcivicleadership.org/2010/12/15/community-feedback-tool-of-the-day-youtown/",
+    "title": "Community-Feedback Tool of the Day: YouTown"},
+   {"external_url": "http://ow.ly/4zNEW",
+    "title": "YouTown featured on TV"},
+   {"external_url": "http://youtown.com/blog/youtown/whats-the-news/",
+    "title": "YouTown recognized by White House"}]}

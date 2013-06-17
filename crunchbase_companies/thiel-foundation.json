@@ -1,0 +1,177 @@
+{"name": "Thiel Foundation",
+ "permalink": "thiel-foundation",
+ "crunchbase_url": "http://www.crunchbase.com/company/thiel-foundation",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Sat May 28 14:21:42 UTC 2011",
+ "updated_at": "Wed Jun 01 15:38:34 UTC 2011",
+ "overview": null,
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Thiel Fellow",
+    "person":
+     {"first_name": "Dale J.",
+      "last_name": "Stephens",
+      "permalink": "dale-j-stephens",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0006/9441/69441v6-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0006/9441/69441v6-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0006/9441/69441v6-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "grant",
+      "source_url": "http://www.finsmes.com/2012/04/immusoft-receives-350k-grant.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+      "source_description": "Immusoft Receives up to $350K Grant",
+      "raised_amount": 350000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 4,
+      "funded_day": 21,
+      "company":
+       {"name": "Immusoft",
+        "permalink": "immusoft",
+        "image":
+         {"available_sizes":
+           [[[150,
+              30],
+             "assets/images/resized/0024/8977/248977v1-max-150x150.png"],
+            [[250,
+              51],
+             "assets/images/resized/0024/8977/248977v1-max-250x250.png"],
+            [[450,
+              91],
+             "assets/images/resized/0024/8977/248977v1-max-450x450.png"]],
+          "attribution": null}}}},
+   {"funding_round":
+     {"round_code": "grant",
+      "source_url": "http://www.finsmes.com/2012/04/inspirotec-receives-350k-grant.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+      "source_description": "Inspirotec Receives $350K Grant",
+      "raised_amount": 350000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 4,
+      "funded_day": 23,
+      "company":
+       {"name": "Inspirotec",
+        "permalink": "inspirotec",
+        "image":
+         {"available_sizes":
+           [[[150,
+              41],
+             "assets/images/resized/0018/5604/185604v1-max-150x150.png"],
+            [[154,
+              43],
+             "assets/images/resized/0018/5604/185604v1-max-250x250.png"],
+            [[154,
+              43],
+             "assets/images/resized/0018/5604/185604v1-max-450x450.png"]],
+          "attribution": null}}}},
+   {"funding_round":
+     {"round_code": "grant",
+      "source_url": "http://www.finsmes.com/2012/04/3scan-receives-350k-grant.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+      "source_description": "3Scan Receives $350K Grant",
+      "raised_amount": 350000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 4,
+      "funded_day": 23,
+      "company":
+       {"name": "3Scan",
+        "permalink": "3scan",
+        "image":
+         {"available_sizes":
+           [[[150,
+              112],
+             "assets/images/resized/0018/5605/185605v1-max-150x150.jpg"],
+            [[250,
+              187],
+             "assets/images/resized/0018/5605/185605v1-max-250x250.jpg"],
+            [[300,
+              225],
+             "assets/images/resized/0018/5605/185605v1-max-450x450.jpg"]],
+          "attribution": null}}}},
+   {"funding_round":
+     {"round_code": "grant",
+      "source_url": "http://www.finsmes.com/2012/04/longevity-biotech-receives-350k-grant.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+      "source_description": "Longevity Biotech Receives $350K Grant",
+      "raised_amount": 350000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 4,
+      "funded_day": 26,
+      "company":
+       {"name": "Longevity Biotech",
+        "permalink": "longevity-biotech",
+        "image": null}}},
+   {"funding_round":
+     {"round_code": "grant",
+      "source_url": "http://www.finsmes.com/2012/04/positron-dynamics-receives-350k-grant.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+      "source_description": "Positron Dynamics Receives $350K Grant",
+      "raised_amount": 350000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 4,
+      "funded_day": 29,
+      "company":
+       {"name": "Positron Dynamics",
+        "permalink": "positron-dynamics",
+        "image":
+         {"available_sizes":
+           [[[150,
+              34],
+             "assets/images/resized/0018/7087/187087v1-max-150x150.png"],
+            [[250,
+              57],
+             "assets/images/resized/0018/7087/187087v1-max-250x250.png"],
+            [[412,
+              94],
+             "assets/images/resized/0018/7087/187087v1-max-450x450.png"]],
+          "attribution": null}}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,95 @@
+{"name": "Detectify",
+ "permalink": "detectify",
+ "crunchbase_url": "http://www.crunchbase.com/company/detectify",
+ "homepage_url": "https://www.detectify.com/",
+ "blog_url": "http://blog.detectify.com/",
+ "blog_feed_url": "http://blog.detectify.com/rss",
+ "twitter_username": "detectify",
+ "category_code": "security",
+ "number_of_employees": 6,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "security, web-application-scanner",
+ "alias_list": null,
+ "email_address": "hello@detectify.com",
+ "phone_number": "+46 70 620 03 36",
+ "description": "Cloudbased web security analysis",
+ "created_at": "Wed Sep 26 21:11:45 UTC 2012",
+ "updated_at": "Wed Dec 12 06:54:00 UTC 2012",
+ "overview": "\u003Cp\u003ECloud-based tool for security analysis of web applications.\u003C/p\u003E\n\n\u003Cp\u003EDetectify is a service where website owners and developers can enter the domain name of a website and let Detectify analyze its security level by applying a broad range of emulated hacker attacks. Detectify then provides the owner with an easy to understand report that describes the identified vulnerabilities and their potential risk in the hands of malicious hackers. Detectify has been in beta mode since the summer of  2012 and already has hundreds of grateful users that now can sleep good at night.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/3208/213208v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/3208/213208v2-max-250x250.png"],
+     [[300,
+       300],
+      "assets/images/resized/0021/3208/213208v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Tinfoil Security",
+      "permalink": "tinfoil-security",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0013/8108/138108v4-max-150x150.png"],
+          [[250,
+            156],
+           "assets/images/resized/0013/8108/138108v4-max-250x250.png"],
+          [[450,
+            281],
+           "assets/images/resized/0013/8108/138108v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Detectify HQ",
+    "address1": "Br\u00e4nnkyrkagatan 16",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": 59.3198598,
+    "longitude": 18.0651095}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        120],
+       "assets/images/resized/0021/3207/213207v2-max-150x150.png"],
+      [[250,
+        200],
+       "assets/images/resized/0021/3207/213207v2-max-250x250.png"],
+      [[450,
+        360],
+       "assets/images/resized/0021/3207/213207v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

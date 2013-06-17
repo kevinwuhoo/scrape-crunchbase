@@ -1,0 +1,131 @@
+{"name": "4Blox",
+ "permalink": "4blox",
+ "crunchbase_url": "http://www.crunchbase.com/company/4blox",
+ "homepage_url": "http://www.4blox.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@4blox.com",
+ "phone_number": "408.702.2768",
+ "description": "",
+ "created_at": "Thu Jan 15 18:31:23 UTC 2009",
+ "updated_at": "Fri May 13 20:40:49 UTC 2011",
+ "overview": "\u003Cp\u003EIncrease the performance of iSCSI-based SAN\u00e2\u20ac\u2122s through software\u003C/p\u003E\n\n\u003Cp\u003E4Blox\u00e2\u201e\u00a2 Inc., is the first software company dedicated to improving iSCSI SAN performance. The most important hardware resource for efficiently handling increased load in iSCSI processing is CPU capacity. The core product from 4Blox\u00e2\u201e\u00a2 is a family of software components used to expand CPU processing capacity in iSCSI Storage Area Networks.\u003C/p\u003E\n\n\u003Cp\u003EThe 4Mezzo\u00e2\u201e\u00a2 product line of software accelerators from 4Blox\u00e2\u201e\u00a2  dramatically reduces host CPU processing overhead associated with iSCSI in standalone and virtual machines enabling higher connection loads, better iSCSI processing efficiency for Guest Operating Systems, and the ability to take advantage of higher network line speeds like multiple 1GbE connections and 10GbE. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       80],
+      "assets/images/resized/0003/3950/33950v3-max-150x150.png"],
+     [[236,
+       127],
+      "assets/images/resized/0003/3950/33950v3-max-250x250.png"],
+     [[236,
+       127],
+      "assets/images/resized/0003/3950/33950v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO / Board Member",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Munro",
+      "permalink": "dan-munro-3",
+      "image":
+       {"available_sizes":
+         [[[126,
+            150],
+           "assets/images/resized/0013/9428/139428v2-max-150x150.png"],
+          [[211,
+            250],
+           "assets/images/resized/0013/9428/139428v2-max-250x250.png"],
+          [[380,
+            450],
+           "assets/images/resized/0013/9428/139428v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Blaine",
+      "last_name": "Kohl",
+      "permalink": "blaine-kohl",
+      "image":
+       {"available_sizes":
+         [[[104,
+            150],
+           "assets/images/resized/0023/1852/231852v2-max-150x150.jpg"],
+          [[128,
+            183],
+           "assets/images/resized/0023/1852/231852v2-max-250x250.jpg"],
+          [[128,
+            183],
+           "assets/images/resized/0023/1852/231852v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://venturebeat.com/2007/09/10/4blox-software-company-for-storage-raises-cash/",
+    "source_description": "4Blox, software company for storage, raises cash",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 9,
+    "funded_day": 10,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Flywheel Ventures",
+         "permalink": "flywheel-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               56],
+              "assets/images/resized/0002/2058/22058v1-max-150x150.png"],
+             [[233,
+               88],
+              "assets/images/resized/0002/2058/22058v1-max-250x250.png"],
+             [[233,
+               88],
+              "assets/images/resized/0002/2058/22058v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2880 Zanker Road",
+    "address2": "Suite #203",
+    "zip_code": "95134",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.396586,
+    "longitude": -121.928619}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

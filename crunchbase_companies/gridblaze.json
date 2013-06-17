@@ -1,0 +1,161 @@
+{"name": "GRIDBLAZE",
+ "permalink": "gridblaze",
+ "crunchbase_url": "http://www.crunchbase.com/company/gridblaze",
+ "homepage_url": "http://www.gridblaze.com",
+ "blog_url": "http://www.gridblaze.com/blog",
+ "blog_feed_url": "http://www.gridblaze.com/blog/rss",
+ "twitter_username": "gridblaze",
+ "category_code": "network_hosting",
+ "number_of_employees": 8,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "infrastructure, cdn, storage, user-generated-content, network, speed, acceleration, hosting",
+ "alias_list": null,
+ "email_address": "contact@gridblaze.com",
+ "phone_number": "",
+ "description": "Making Data Local Again",
+ "created_at": "Wed Sep 05 05:24:38 UTC 2012",
+ "updated_at": "Sun Sep 09 19:01:06 UTC 2012",
+ "overview": "\u003Cp\u003EA Storage As A Service platform that provides a global proximity based storage network for developers to create smart applications that are location aware; thus providing super fast uploads and downloads for users.\u003C/p\u003E\n\n\u003Cp\u003EIt\u0026#8217;s like a CDN but for storage.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       100],
+      "assets/images/resized/0020/9738/209738v2-max-150x150.jpg"],
+     [[180,
+       121],
+      "assets/images/resized/0020/9738/209738v2-max-250x250.jpg"],
+     [[180,
+       121],
+      "assets/images/resized/0020/9738/209738v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Mikhail",
+      "last_name": "Choo",
+      "permalink": "mikhail-choo",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon-web-services",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0011/3626/113626v1-max-150x150.png"],
+          [[164,
+            60],
+           "assets/images/resized/0011/3626/113626v1-max-250x250.png"],
+          [[164,
+            60],
+           "assets/images/resized/0011/3626/113626v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+          [[300,
+            109],
+           "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EdgeCast Networks",
+      "permalink": "edgecast",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/2596/2596v3-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0000/2596/2596v3-max-250x250.png"],
+          [[362,
+            99],
+           "assets/images/resized/0000/2596/2596v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SoftLayer",
+      "permalink": "softlayer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            12],
+           "assets/images/resized/0005/1564/51564v6-max-150x150.png"],
+          [[250,
+            21],
+           "assets/images/resized/0005/1564/51564v6-max-250x250.png"],
+          [[450,
+            38],
+           "assets/images/resized/0005/1564/51564v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "XDN/3Crowd Technologies",
+      "permalink": "3crowd-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            83],
+           "assets/images/resized/0007/0846/70846v1-max-150x150.jpg"],
+          [[250,
+            139],
+           "assets/images/resized/0007/0846/70846v1-max-250x250.jpg"],
+          [[250,
+            139],
+           "assets/images/resized/0007/0846/70846v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Singapopre",
+    "address1": "32 Eng Hoon Street",
+    "address2": "",
+    "zip_code": "169780",
+    "city": "Singapore",
+    "state_code": null,
+    "country_code": "SGP",
+    "latitude": null,
+    "longitude": null},
+   {"description": "United States",
+    "address1": "524 Union Street #312",
+    "address2": "",
+    "zip_code": "94133",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://fi.co/posts/683",
+    "title": "Founder's Institute Post"}]}

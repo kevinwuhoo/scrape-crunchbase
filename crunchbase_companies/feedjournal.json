@@ -1,0 +1,88 @@
+{"name": "FeedJournal",
+ "permalink": "feedjournal",
+ "crunchbase_url": "http://www.crunchbase.com/company/feedjournal",
+ "homepage_url": "http://feedjournal.com",
+ "blog_url": "http://feedjournal.blogspot.com",
+ "blog_feed_url": "http://feedjournal.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@feedjournal.com",
+ "phone_number": "+972 526840760",
+ "description": "Your Personal Newspaper",
+ "created_at": "Sun Feb 17 21:01:34 UTC 2008",
+ "updated_at": "Wed Sep 09 05:56:50 UTC 2009",
+ "overview": "\u003Cp\u003EFeedJournal was conceived in 2006, when it was pitted against 1,500 competing entries in Microsoft\u0026#8217;s Made In Express developer contest. After many busy months FeedJournal won the competition and was awarded $10,000 in First Prize.\u003C/p\u003E\n\n\u003Cp\u003EFollowing the competition, the Windows Desktop application was converted into an Ajax Web application, to reach a broader audience. Subsequent development introduced a commercial FeedJournal Publisher service in conjunction with FeedJournal Reader, both described in more detail below.\u003C/p\u003E\n\n\u003Cp\u003EFeedJournal Reader offers a free web-based service where users aggregate their favorite news sources (RSS feeds) and receive a professional-looking personalized newspaper in PDF format. Articles since the last issue was published (or from the last X days) are used. This newspaper can then be printed on the user\u0026#8217;s printer, or downloaded to an e-reader device.\u003C/p\u003E\n\n\u003Cp\u003EFeedJournal Publisher lets content providers easily generate a custom newspaper or magazine in PDF format from any digital content. Users can customize the layout of the newspaper, including sections, page size, font size, number of columns, as well as the logotype for branding. As new issues are ready, they are automatically e-mailed to subscribers. The service uses the Software as a Service (SaaS)/subscription model. A free version of the Publish service is also available, limited to one feed and without options.\u003C/p\u003E\n\n\u003Cp\u003EFeedJournal Reader and FeedJournal Publisher are based on the same back-end engine, where feeds are aggregated and laid out in a PDF file using a fully customizable newspaper format.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0001/2659/12659v1-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0001/2659/12659v1-max-250x250.png"],
+     [[450,
+       102],
+      "assets/images/resized/0001/2659/12659v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jonas",
+      "last_name": "Martinsson",
+      "permalink": "jonas-martinsson",
+      "image":
+       {"available_sizes":
+         [[[144,
+            143],
+           "assets/images/resized/0005/9183/59183v2-max-150x150.png"],
+          [[144,
+            143],
+           "assets/images/resized/0005/9183/59183v2-max-250x250.png"],
+          [[144,
+            143],
+           "assets/images/resized/0005/9183/59183v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": 31.046051,
+    "longitude": 34.851612}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

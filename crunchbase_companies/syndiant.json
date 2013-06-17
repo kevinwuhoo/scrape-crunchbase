@@ -1,0 +1,153 @@
+{"name": "Syndiant",
+ "permalink": "syndiant",
+ "crunchbase_url": "http://www.crunchbase.com/company/syndiant",
+ "homepage_url": "http://www.syndiant.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "semiconductor",
+ "number_of_employees": null,
+ "founded_year": 2004,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "handheld device to large screen",
+ "created_at": "Mon Oct 20 19:46:44 UTC 2008",
+ "updated_at": "Fri Apr 02 20:50:41 UTC 2010",
+ "overview": "\u003Cp\u003ESyndiant Inc. is a fabless semiconductor company founded in 2004. Syndiant has designed, for industry use, light modulating panels for high resolution displays used in ultra-portable projectors small enough to embed in a cell phone.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0003/7705/37705v1-max-150x150.png"],
+     [[250,
+       150],
+      "assets/images/resized/0003/7705/37705v1-max-250x250.png"],
+     [[450,
+       270],
+      "assets/images/resized/0003/7705/37705v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "VueG8",
+    "permalink": "vueg8",
+    "image":
+     {"available_sizes":
+       [[[150,
+          39],
+         "assets/images/resized/0003/7706/37706v1-max-150x150.jpg"],
+        [[250,
+          66],
+         "assets/images/resized/0003/7706/37706v1-max-250x250.jpg"],
+        [[450,
+          119],
+         "assets/images/resized/0003/7706/37706v1-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "M/C/C",
+      "permalink": "m-c-c",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0002/7024/27024v2-max-150x150.jpg"],
+          [[160,
+            43],
+           "assets/images/resized/0002/7024/27024v2-max-250x250.jpg"],
+          [[160,
+            43],
+           "assets/images/resized/0002/7024/27024v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$18.6M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://finance.yahoo.com/news/Syndiant-Receives-35-Million-bw-14581126.html",
+    "source_description": "Syndiant Receives $3.5 Million Investment from Texas Emerging Technology Fund; Recruiting to Fill New Jobs",
+    "raised_amount": 3500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 3,
+    "funded_day": 9,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "The Texas Emerging Technology Fund",
+         "permalink": "the-texas-emerging-technology-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               59],
+              "assets/images/resized/0003/0335/30335v2-max-150x150.png"],
+             [[250,
+               99],
+              "assets/images/resized/0003/0335/30335v2-max-250x250.png"],
+             [[302,
+               120],
+              "assets/images/resized/0003/0335/30335v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]},
+   {"round_code": "b",
+    "source_url": "http://venturebeat.com/2009/08/19/syndiant-maker-of-pico-projector-chips-raises-107m/",
+    "source_description": "Syndiant, maker of pico-projector chips, raises $10.7M",
+    "raised_amount": 10700000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 8,
+    "funded_day": 20,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "The Texas Emerging Technology Fund",
+         "permalink": "the-texas-emerging-technology-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               59],
+              "assets/images/resized/0003/0335/30335v2-max-150x150.png"],
+             [[250,
+               99],
+              "assets/images/resized/0003/0335/30335v2-max-250x250.png"],
+             [[302,
+               120],
+              "assets/images/resized/0003/0335/30335v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]},
+   {"round_code": "b",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1358516/000135851610000001/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC D",
+    "raised_amount": 4400000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 3,
+    "funded_day": 26,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

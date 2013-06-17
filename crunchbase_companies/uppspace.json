@@ -1,0 +1,139 @@
+{"name": "Uppspace",
+ "permalink": "uppspace",
+ "crunchbase_url": "http://www.crunchbase.com/company/uppspace",
+ "homepage_url": "http://www.uppspace.com",
+ "blog_url": "http://www.uppspace.com/blog.html",
+ "blog_feed_url": "http://www.uppspace.com/press_room.html",
+ "twitter_username": "Uppspace",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bigdata, apm, performance-monitoring, crash-prevention, crash-prediction, cloud, saas, software, predictive-analytics",
+ "alias_list": "",
+ "email_address": "info@uppspace.com",
+ "phone_number": "+972.73.2008000",
+ "description": "BigData/SaaS crash prevention ",
+ "created_at": "Mon Jul 16 04:02:46 UTC 2012",
+ "updated_at": "Tue Apr 02 10:49:17 UTC 2013",
+ "overview": "\u003Cp\u003EUppspace develops a performance monitoring and crash prevention system for Cloud/BigData Consumer websites.\nWakeApp is our core solution and is aimed to help high-traffic and performance-intensive websites that cannot afford even a second of downtime, and wish to be always up for their customers.\nUppspace provides a unique end-to-end performance monitoring and data analysis of Cloud/BigData systems, using innovative AI algorithms and advanced machine learning capabilities.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Roman",
+      "last_name": "Lasker",
+      "permalink": "roman-lasker",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0020/5730/205730v2-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0020/5730/205730v2-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0020/5730/205730v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Alexey",
+      "last_name": "Sapozhnikov",
+      "permalink": "alexey-sapozhnikovalexey-sapozhnikov",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0008/0877/80877v2-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0008/0877/80877v2-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0008/0877/80877v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Splunk",
+      "permalink": "splunk",
+      "image":
+       {"available_sizes":
+         [[[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-150x150.png"],
+          [[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-250x250.png"],
+          [[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AlertSite",
+      "permalink": "alertsite",
+      "image":
+       {"available_sizes":
+         [[[147,
+            52],
+           "assets/images/resized/0009/4999/94999v1-max-150x150.png"],
+          [[147,
+            52],
+           "assets/images/resized/0009/4999/94999v1-max-250x250.png"],
+          [[147,
+            52],
+           "assets/images/resized/0009/4999/94999v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WatchMouse",
+      "permalink": "watchmouse",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0002/1744/21744v6-max-150x150.png"],
+          [[250,
+            56],
+           "assets/images/resized/0002/1744/21744v6-max-250x250.png"],
+          [[450,
+            102],
+           "assets/images/resized/0002/1744/21744v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "13 Hatnufa",
+    "address2": "",
+    "zip_code": "20692",
+    "city": "Yokneam",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

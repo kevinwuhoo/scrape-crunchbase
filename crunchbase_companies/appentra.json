@@ -1,0 +1,210 @@
+{"name": "Appentra",
+ "permalink": "appentra",
+ "crunchbase_url": "http://www.crunchbase.com/company/appentra",
+ "homepage_url": "http://www.appentra.com/",
+ "blog_url": "http://blog.appentra.com/",
+ "blog_feed_url": "http://blog.appentra.com/feed/",
+ "twitter_username": "Appentra",
+ "category_code": "software",
+ "number_of_employees": 7,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "automatic-parallelization, hpc, software, high-performance-computing, development, software-tools, automatize-software-acceleration, acceleration-of-application, higher-productivity",
+ "alias_list": null,
+ "email_address": "marketing@appentra.com",
+ "phone_number": "+34981167000 Ext. 2626",
+ "description": "Automatic Software Acceleration",
+ "created_at": "Wed Mar 13 11:38:56 UTC 2013",
+ "updated_at": "Wed Mar 13 11:39:04 UTC 2013",
+ "overview": "\u003Cp\u003EAppentra\u0026#8217;s mission is to provide top quality software tools that allow extensive use of High Performance Computing (HPC) techniques in all application areas of engineering, science and industry.\u003C/p\u003E\n\n\u003Cp\u003EOur target clients are companies and organizations that run frequently updated compute-intensive applications in markets like aerospace, automotive, civil engineering, biomedicine or chemistry.\u003C/p\u003E\n\n\u003Cp\u003EThe development of HPC applications requires skills and expertise that go far beyond the techniques, methods and tools used in an engineering, scientific or industrial field. Skills in parallel programming and HPC techniques are a must in order to take advantage of the computational power of modern multi-core/many-core systems. Our HPC software tools simplify multi-core/many-core programming by reducing the need for parallel programming and HPC skills, thus increasing the productivity of our clients.\u003C/p\u003E\n\n\u003Cp\u003EOur main product is ParallWare. ParallWare is an auto-parallelizing source-to-source compiler for sequential applications. ParallWare automatically discovers the parallelism available in the input sequential code, and automatically generates parallel-equivalent source code annotated with compiler directives. The targets are HPC systems based on multi-core and many-core processors.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       141],
+      "assets/images/resized/0024/2195/242195v2-max-150x150.png"],
+     [[150,
+       141],
+      "assets/images/resized/0024/2195/242195v2-max-250x250.png"],
+     [[150,
+       141],
+      "assets/images/resized/0024/2195/242195v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jorge",
+      "last_name": "Allo Maneiro",
+      "permalink": "jorge-allo-maneiro",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Manuel",
+      "last_name": "Arenaz Silva",
+      "permalink": "manuel-arenaz-silva",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Rosa",
+      "last_name": "V\u00e1zquez Rogel",
+      "permalink": "rosa-vzquez-rogel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "IBM",
+      "permalink": "ibm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Xcelerit",
+      "permalink": "xcelerit",
+      "image": null}},
+   {"competitor":
+     {"name": "PathScale",
+      "permalink": "pathscale-2",
+      "image": null}},
+   {"competitor":
+     {"name": "Reservoir Labs",
+      "permalink": "reservoir-labs",
+      "image": null}},
+   {"competitor":
+     {"name": "SGI",
+      "permalink": "sgi",
+      "image":
+       {"available_sizes":
+         [[[112,
+            60],
+           "assets/images/resized/0006/7617/67617v1-max-150x150.png"],
+          [[112,
+            60],
+           "assets/images/resized/0006/7617/67617v1-max-250x250.png"],
+          [[112,
+            60],
+           "assets/images/resized/0006/7617/67617v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Crescent Bay Software",
+      "permalink": "crescent-bay-software",
+      "image": null}},
+   {"competitor":
+     {"name": "The Portland Group",
+      "permalink": "the-portland-group",
+      "image": null}},
+   {"competitor":
+     {"name": "SILKAN",
+      "permalink": "silkan",
+      "image": null}},
+   {"competitor":
+     {"name": "CAPS Entreprise",
+      "permalink": "caps-entreprise",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0008/3586/83586v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0008/3586/83586v3-max-250x250.png"],
+          [[450,
+            130],
+           "assets/images/resized/0008/3586/83586v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Ed. de Servicios Centrales de Investigaci\u00f3n.   Campus de Elvi\u00f1a S/N.",
+    "address2": "",
+    "zip_code": "15071",
+    "city": "A Coru\u00f1a",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[99,
+        150],
+       "assets/images/resized/0024/2193/242193v2-max-150x150.png"],
+      [[166,
+        250],
+       "assets/images/resized/0024/2193/242193v2-max-250x250.png"],
+      [[299,
+        450],
+       "assets/images/resized/0024/2193/242193v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        146],
+       "assets/images/resized/0024/2194/242194v2-max-150x150.png"],
+      [[250,
+        244],
+       "assets/images/resized/0024/2194/242194v2-max-250x250.png"],
+      [[450,
+        439],
+       "assets/images/resized/0024/2194/242194v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

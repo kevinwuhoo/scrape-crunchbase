@@ -1,0 +1,102 @@
+{"name": "SurDoc",
+ "permalink": "surdoc",
+ "crunchbase_url": "http://www.crunchbase.com/company/surdoc",
+ "homepage_url": "http://www.surdoc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "SurDoc",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software, backup, document",
+ "alias_list": "",
+ "email_address": "pr@surdoc.com",
+ "phone_number": "",
+ "description": "Document Portal \u0026 Backup",
+ "created_at": "Wed Dec 21 16:39:18 UTC 2011",
+ "updated_at": "Mon Apr 01 09:13:54 UTC 2013",
+ "overview": "\u003Cp\u003ESurDoc\u2122 Corporation is an innovation leader in document processing and backup technology \u003C/p\u003E\n\n\u003Cp\u003ELaunched with $4M in funding from IDG Ventures, SurDoc offers the unique ability to share any kind of document with exceptional layout fidelity across mobile and desktop in an open fashion using any HTML 5-enabled Web browser (no plugins) or email client. \u003C/p\u003E\n\n\u003Cp\u003ESeeking to redefine what consumers should expect from a free backup service, SurDoc offers users on all platforms this new open document sharing capability \u2013 a feat made possible through UOML (Unstructured Operation Markup Language) technology. UOML is an OASIS global standard that defines instructions on how to process documents, i.e., any information that can be printed on paper. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0016/7288/167288v2-max-150x150.jpg"],
+     [[164,
+       35],
+      "assets/images/resized/0016/7288/167288v2-max-250x250.jpg"],
+     [[164,
+       35],
+      "assets/images/resized/0016/7288/167288v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Wang",
+      "permalink": "alex-wang-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$4M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2011/12/21/surdoc-raises-4-million-for-sharing-formatted-documents-across-all-platforms/",
+    "source_description": "SurDoc Raises $4 Million For Sharing Formatted Documents Across All Platforms",
+    "raised_amount": 4000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 12,
+    "funded_day": 21,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "IDG Ventures",
+         "permalink": "idg-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               29],
+              "assets/images/resized/0002/9640/29640v2-max-150x150.png"],
+             [[171,
+               34],
+              "assets/images/resized/0002/9640/29640v2-max-250x250.png"],
+             [[171,
+               34],
+              "assets/images/resized/0002/9640/29640v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1370 Willow Road",
+    "address2": "",
+    "zip_code": "94025",
+    "city": "Menlo Park",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,123 @@
+{"name": "CityIN",
+ "permalink": "cityin",
+ "crunchbase_url": "http://www.crunchbase.com/company/cityin",
+ "homepage_url": "http://www.cityin.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 11,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "socialnetworking, china, recommendations",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Chinese Social Network",
+ "created_at": "Sun Mar 09 19:45:40 UTC 2008",
+ "updated_at": "Tue Jul 27 19:42:00 UTC 2010",
+ "overview": "\u003Cp\u003ECityIN.com is a China-based social networking site that aims to differentiate itself by having superior recommendation tools.  For instance, as users are browsing and rating items within the social networking site, CityIn.com will recommend like-minded users for the person in question to add to their network of friends.  \u003C/p\u003E\n\n\u003Cp\u003EIn April 2008, CityIn released support for OpenSocial.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0001/4953/14953v2-max-150x150.png"],
+     [[207,
+       68],
+      "assets/images/resized/0001/4953/14953v2-max-250x250.png"],
+     [[207,
+       68],
+      "assets/images/resized/0001/4953/14953v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "CityIn",
+    "permalink": "cityin",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Tam",
+      "permalink": "alex-tam",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "56.com",
+      "permalink": "56-com",
+      "image":
+       {"available_sizes":
+         [[[122,
+            60],
+           "assets/images/resized/0000/2557/2557v1-max-150x150.png"],
+          [[122,
+            60],
+           "assets/images/resized/0000/2557/2557v1-max-250x250.png"],
+          [[122,
+            60],
+           "assets/images/resized/0000/2557/2557v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://social.venturebeat.com/2008/03/08/cityncom-prepares-for-launch-in-china/",
+    "source_description": "City!N prepares for launch in China",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Dr.",
+         "last_name": "Samson Tam",
+         "permalink": "dr-samson-tam",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "CHN",
+    "latitude": 35.86166,
+    "longitude": 104.195397}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

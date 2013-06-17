@@ -1,0 +1,119 @@
+{"name": "3DSoC",
+ "permalink": "3dsoc",
+ "crunchbase_url": "http://www.crunchbase.com/company/3dsoc",
+ "homepage_url": "http://www.3dsoc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "3dsoc",
+ "category_code": "mobile",
+ "number_of_employees": 22,
+ "founded_year": 2006,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, 3d, mobile-applications, 3d-mobile-platform",
+ "alias_list": null,
+ "email_address": "krishnan@3dsoc.com",
+ "phone_number": "+91-80-41513240",
+ "description": "Interactive 3D mobile platform",
+ "created_at": "Thu Aug 05 07:55:48 UTC 2010",
+ "updated_at": "Thu Aug 05 17:12:46 UTC 2010",
+ "overview": "\u003Cp\u003E3DSoC enables creation, collaboration, communication and consumption of  interactive 3D applications on the mobile platform using its patented technology for representing 3D models. We have a technology (VIS) to represent 3D models in a concise manner, typically 100 to 1000 times smaller than competing 3D representations. The 3D models created using VIS allows for interactivity and has animation and multimedia capabilities built into the representation. Such a representation allows us to create rich interactive 3D applications on a resource constrained platform such as mobile devices. The technology was developed out of Stanford University and Indian Institute of Science, Bangalore.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       41],
+      "assets/images/resized/0009/6103/96103v2-max-150x150.png"],
+     [[128,
+       41],
+      "assets/images/resized/0009/6103/96103v2-max-250x250.png"],
+     [[128,
+       41],
+      "assets/images/resized/0009/6103/96103v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Krishnan",
+      "last_name": "Ramaswami",
+      "permalink": "krishnan-ramaswami",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Adobe Systems",
+      "permalink": "adobe-systems",
+      "image":
+       {"available_sizes":
+         [[[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-150x150.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-250x250.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.vccircle.com/2007/12/19/idg-ventures-invests-in-3d-tech-company-incubated-at-stanford-iisc/",
+    "source_description": "IDG Ventures Invests In 3D Tech Company Incubated At Stanford, IISc",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 12,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "IDG Ventures India",
+         "permalink": "idg-ventures-india",
+         "image":
+          {"available_sizes":
+            [[[150,
+               26],
+              "assets/images/resized/0002/9767/29767v1-max-150x150.png"],
+             [[250,
+               44],
+              "assets/images/resized/0002/9767/29767v1-max-250x250.png"],
+             [[295,
+               53],
+              "assets/images/resized/0002/9767/29767v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Office",
+    "address1": "372-20, Princeton Court",
+    "address2": "Sadashivnagar",
+    "zip_code": "560054",
+    "city": "Bangalore",
+    "state_code": null,
+    "country_code": "IND",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://businesstoday.intoday.in/index.php?option=com_content\u0026task=view\u0026id=4948\u0026Itemid=1\u0026issueid=27\u0026sectionid=5\u0026page=archieve\u0026limit=1\u0026limitstart=8",
+    "title": "India's Hottest Startups"},
+   {"external_url": "http://www.efytimes.com/e1/fullnews.asp?edid=34593",
+    "title": "3DSoC wins sony ericsson developer award"}]}

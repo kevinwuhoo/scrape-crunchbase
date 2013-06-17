@@ -1,0 +1,156 @@
+{"name": "Microgen Plc",
+ "permalink": "microgen-plc",
+ "crunchbase_url": "http://www.crunchbase.com/company/microgen-plc",
+ "homepage_url": "http://www.microgen.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "MCGN_Aptitude",
+ "category_code": "enterprise",
+ "number_of_employees": 350,
+ "founded_year": 1974,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "in-memory-processing, application-development, in-database-processing, ide, soa, service-oriented-architecture, enterprise-software, big-data, business-rules-engine",
+ "alias_list": null,
+ "email_address": "rosse.chapman@microgen.com",
+ "phone_number": "442074968100",
+ "description": "Enterprise Software Provider",
+ "created_at": "Tue Aug 21 21:19:53 UTC 2012",
+ "updated_at": "Thu Aug 23 19:12:50 UTC 2012",
+ "overview": "\u003Cp\u003EMicrogen provides enterprise software platforms and applications that its customers use to automate business processes and build new services.\u003C/p\u003E\n\n\u003Cp\u003EThe company\u2019s flagship software platform, Microgen Aptitude, is termed an Enterprise Application Platform that is used by enterprises to quickly design and develop software applications. \u003C/p\u003E\n\n\u003Cp\u003EThe Microgen Aptitude platform provides a comprehensive range of components including a business rules engine, BPMS, data and application integration, in-database processing and web workflow development. \u003C/p\u003E\n\n\u003Cp\u003EThe Microgen Aptitude platform is unique in several ways. First, Microgen Aptitude\u2019s all graphical approach to development enables cross-functional teams, including Business and IT users, to collaboratively develop business applications. \u003C/p\u003E\n\n\u003Cp\u003ESecond, by providing a comprehensive set of components within a single development environment, Microgen Aptitude reduces the need for development cycles used to bolt together disparate technologies. \u003C/p\u003E\n\n\u003Cp\u003EFinally, Microgen Aptitude is capable of processing hundreds of millions of transactions per hour, without the need for the usual complex code optimisation cycles. Microgen Aptitude leverages in-memory processing. The platform\u2019s common execution environment equals the performance of modern hard-coded applications but scales without the usual extensive code reconfiguration required to meet increased performance demands. \u003C/p\u003E\n\n\u003Cp\u003EMicrogen is also recognised for its expertise in the areas of finance integration with the Microgen Accounting Hub product.\u003C/p\u003E\n\n\u003Cp\u003EExamples of applications built using Microgen technology platforms include custom finance systems for large banks, royalty management systems for digital media companies, new digital services for education and utilities clients, and operations platforms for trust and fund administrators. \u003C/p\u003E\n\n\u003Cp\u003EFounded in 1974 and listed on the London Stock Exchange (MCGN) from 1983 Microgen is headquartered in London with offices worldwide.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0020/7316/207316v2-max-150x150.jpg"],
+     [[204,
+       40],
+      "assets/images/resized/0020/7316/207316v2-max-250x250.jpg"],
+     [[204,
+       40],
+      "assets/images/resized/0020/7316/207316v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SAP",
+      "permalink": "sap",
+      "image":
+       {"available_sizes":
+         [[[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-150x150.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-250x250.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TIBCO Software",
+      "permalink": "tibco-software-inc",
+      "image":
+       {"available_sizes":
+         [[[126,
+            56],
+           "assets/images/resized/0001/9681/19681v1-max-150x150.jpg"],
+          [[126,
+            56],
+           "assets/images/resized/0001/9681/19681v1-max-250x250.jpg"],
+          [[126,
+            56],
+           "assets/images/resized/0001/9681/19681v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IBM",
+      "permalink": "ibm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FinArch",
+      "permalink": "finarch",
+      "image":
+       {"available_sizes":
+         [[[119,
+            44],
+           "assets/images/resized/0020/1177/201177v1-max-150x150.jpg"],
+          [[119,
+            44],
+           "assets/images/resized/0020/1177/201177v1-max-250x250.jpg"],
+          [[119,
+            44],
+           "assets/images/resized/0020/1177/201177v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Old Change House",
+    "address2": "128 Queen Victoria Street",
+    "zip_code": "EC4V 4BJ",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null},
+   {"description": "US Headquarters",
+    "address1": "Independence Wharf ",
+    "address2": "470 Atlantic Avenue  (4th Floor) ",
+    "zip_code": "02210",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"253\" src=\"http://www.youtube.com/embed/ecsCMahCUW4\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EIntroducing Microgen Aptitude \u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.zdnet.com/blog/btl/big-data-blowout-microgen-posts-7-billion-transactions-per-hour/78700",
+    "title": "ZDNet Performance Coverage"}]}

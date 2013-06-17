@@ -1,0 +1,125 @@
+{"name": "Fare Buzz",
+ "permalink": "farebuzz",
+ "crunchbase_url": "http://www.crunchbase.com/company/farebuzz",
+ "homepage_url": "http://www.farebuzz.com",
+ "blog_url": "http://www.farebuzz.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "FareBuzz",
+ "category_code": "ecommerce",
+ "number_of_employees": 50,
+ "founded_year": 1994,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, travel-technology",
+ "alias_list": "",
+ "email_address": "walter@farebuzz.com",
+ "phone_number": "888-808-4123",
+ "description": "",
+ "created_at": "Thu Feb 12 17:32:13 UTC 2009",
+ "updated_at": "Tue Apr 09 08:33:24 UTC 2013",
+ "overview": "\u003Cp\u003EFareBuzz is a travel supplier that provides technology solutons for Travel Agents, Online Travel Agents or any .com company that wish to incorporate live travel booking into their websites. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0003/6257/36257v1-max-150x150.png"],
+     [[201,
+       58],
+      "assets/images/resized/0003/6257/36257v1-max-250x250.png"],
+     [[201,
+       58],
+      "assets/images/resized/0003/6257/36257v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Travel Technology",
+    "permalink": "travel-technology",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Arnold",
+      "last_name": "Walter",
+      "permalink": "arnold-walter",
+      "image": null}},
+   {"is_past": true,
+    "title": "Online Marketing Director",
+    "person":
+     {"first_name": "Joseph",
+      "last_name": "Maresca",
+      "permalink": "joseph-maresca",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Travelocity",
+      "permalink": "travelocity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0001/6858/16858v1-max-150x150.png"],
+          [[210,
+            83],
+           "assets/images/resized/0001/6858/16858v1-max-250x250.png"],
+          [[210,
+            83],
+           "assets/images/resized/0001/6858/16858v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Expedia",
+      "permalink": "expedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0001/6749/16749v3-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0001/6749/16749v3-max-250x250.jpg"],
+          [[450,
+            347],
+           "assets/images/resized/0001/6749/16749v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "213 West 35th st",
+    "address2": "",
+    "zip_code": "10001",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.752143,
+    "longitude": -73.990675}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[88,
+        150],
+       "assets/images/resized/0016/5880/165880v2-max-150x150.jpg"],
+      [[146,
+        250],
+       "assets/images/resized/0016/5880/165880v2-max-250x250.jpg"],
+      [[264,
+        450],
+       "assets/images/resized/0016/5880/165880v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

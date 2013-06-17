@@ -1,0 +1,131 @@
+{"name": "Haloweb",
+ "permalink": "haloweb",
+ "crunchbase_url": "http://www.crunchbase.com/company/haloweb",
+ "homepage_url": "http://www.haloweb.co.uk",
+ "blog_url": "http://www.haloweb.co.uk/blog",
+ "blog_feed_url": "http://www.haloweb.co.uk/blog/feed",
+ "twitter_username": "stulogy",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-applications, saas, codeigniter, php, mysql, productivity, project-management, invoicing, micro-business",
+ "alias_list": null,
+ "email_address": "enquiries@haloweb.co.uk",
+ "phone_number": "484 319 4055",
+ "description": "Web Application Design",
+ "created_at": "Fri Oct 08 15:00:59 UTC 2010",
+ "updated_at": "Fri Oct 08 18:26:46 UTC 2010",
+ "overview": "\u003Cp\u003EHaloweb is a UK based web application design and development company. The company mostly develops and supports its own SaaS applications which focus on providing productivity solutions to the \u0026#8216;micro-business\u0026#8217; market. However they have been known to develop bespoke applications for clients in the UK and the US.\u003C/p\u003E\n\n\u003Cp\u003ETheir applications range from a Content Management System with easy editing and built-in E-Commerce modules (called Halogy), through to online project management and invoicing applications (Project Bubble and Invoice Bubble). \u003C/p\u003E\n\n\u003Cp\u003EThe company was founded in 2008 by web designer and developer Stu Green. The team has recently started growing with the addition of a projects and accounts manager in 2010. Haloweb is boot-strapped with no investment to date.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[135,
+       150],
+      "assets/images/resized/0010/4759/104759v2-max-150x150.jpg"],
+     [[192,
+       213],
+      "assets/images/resized/0010/4759/104759v2-max-250x250.jpg"],
+     [[192,
+       213],
+      "assets/images/resized/0010/4759/104759v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Stu",
+      "last_name": "Green",
+      "permalink": "stu-green",
+      "image": null}},
+   {"is_past": true,
+    "title": "Account Manager",
+    "person":
+     {"first_name": "Jude",
+      "last_name": "Green",
+      "permalink": "jude-green",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ZURB",
+      "permalink": "zurb",
+      "image":
+       {"available_sizes":
+         [[[100,
+            17],
+           "assets/images/resized/0006/0205/60205v2-max-150x150.png"],
+          [[100,
+            17],
+           "assets/images/resized/0006/0205/60205v2-max-250x250.png"],
+          [[100,
+            17],
+           "assets/images/resized/0006/0205/60205v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Carsonified",
+      "permalink": "carsonified",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/7514/17514v3-max-150x150.jpg"],
+          [[250,
+            75],
+           "assets/images/resized/0001/7514/17514v3-max-250x250.jpg"],
+          [[300,
+            90],
+           "assets/images/resized/0001/7514/17514v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Haloweb Office",
+    "address1": "5 Snowshill Drive",
+    "address2": "",
+    "zip_code": "GL52 8SY",
+    "city": "Cheltenham",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mashable.com/2010/04/10/invoice-bubble/",
+    "title": "Mashable Feature Invoice Bubble"},
+   {"external_url": "http://web.appstorm.net/reviews/web-dev/multi-website-publishing-with-halogy/",
+    "title": "AppStorm Feature Halogy"}]}

@@ -1,0 +1,90 @@
+{"name": "A Big Important Company",
+ "permalink": "a-big-important-comapny",
+ "crunchbase_url": "http://www.crunchbase.com/company/a-big-important-comapny",
+ "homepage_url": "http://www.moneycms.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "abictower",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "symfony, php, css, xhtml, markup, freelance, web-design, design, web-development, development",
+ "alias_list": null,
+ "email_address": "tower@abigimportant.com",
+ "phone_number": "",
+ "description": "Web design \u0026 development.",
+ "created_at": "Sat Jun 13 23:44:08 UTC 2009",
+ "updated_at": "Thu Apr 11 10:27:31 UTC 2013",
+ "overview": "\u003Cp\u003EA Big Important Company create beautiful web design and poetic code both for themselves and their clients. They are the mother company of the Filmstacks web-app.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0004/8418/48418v3-max-150x150.jpg"],
+     [[181,
+       29],
+      "assets/images/resized/0004/8418/48418v3-max-250x250.jpg"],
+     [[181,
+       29],
+      "assets/images/resized/0004/8418/48418v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Filmstacks",
+    "permalink": "filmstacks",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director/Developer",
+    "person":
+     {"first_name": "Nicholas",
+      "last_name": "Pellant",
+      "permalink": "nicholas-pellant",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0004/8492/48492v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0004/8492/48492v2-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0004/8492/48492v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Business Director",
+    "person":
+     {"first_name": "Lewis",
+      "last_name": "Forbes",
+      "permalink": "lewis-forbes",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.zco.com/mobile-app-development.aspx",
+    "title": "Check Our Site"}]}

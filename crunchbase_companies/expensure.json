@@ -1,0 +1,139 @@
+{"name": "Expensure",
+ "permalink": "expensure",
+ "crunchbase_url": "http://www.crunchbase.com/company/expensure",
+ "homepage_url": "http://expensure.com",
+ "blog_url": "http://blog.expensure.com",
+ "blog_feed_url": "http://blog.expensure.com/index.rdf",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 3,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "flatshare-expense, flatmates, travelmates, roomates, expense, management, travel-expense, mobile, socialmoney, moneymanagement",
+ "alias_list": null,
+ "email_address": "general@expensure.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon Jun 30 15:43:44 UTC 2008",
+ "updated_at": "Mon Jan 21 02:21:49 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://expensure.com\" title=\"Expensure\" rel=\"nofollow\"\u003EExpensure\u003C/a\u003E is a free, secure, online tool that helps flatmates and travelmates track, manage and resolve their shared bills and expenses. Expensure uses a Circular Debt Resolution algorithm to work out who owes who what in just a few seconds, saving you from the pain of working it all out manually.\u003C/p\u003E\n\n\u003Cp\u003EExpensure looks at who you owe money to, who owes you money, and what money these other people owe to each other. Expensure then applies the Circular Debt Resolution algorithm to work out which debts cancel each other and what is the simplest way to clear any outstanding debts using the fewest transactions possible.\u003C/p\u003E\n\n\u003Cp\u003EExpensure is also optimized for use on your mobile phone, letting you add bills, purchases and expenses as and when they come to you. Use the collaborative Shopping List at the supermarket or supplies store \u2014 flatmates and travelmates can tick off items as they\u0026#8217;re bought.\u003C/p\u003E\n\n\u003Cp\u003EThis means you can resolve your shared rental, power, broadband, gas, food, flights, car rental and living essential expenses in just a few seconds.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0002/1263/21263v2-max-150x150.png"],
+     [[237,
+       88],
+      "assets/images/resized/0002/1263/21263v2-max-250x250.png"],
+     [[237,
+       88],
+      "assets/images/resized/0002/1263/21263v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ebony",
+      "last_name": "Charlton",
+      "permalink": "ebony-charlton",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "McPhee",
+      "permalink": "andrew-mcphee",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Evans",
+      "permalink": "mike-evans",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BillMonk",
+      "permalink": "billmonk",
+      "image":
+       {"available_sizes":
+         [[[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-150x150.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-250x250.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Scred",
+      "permalink": "scred",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0001/3540/13540v1-max-150x150.png"],
+          [[226,
+            75],
+           "assets/images/resized/0001/3540/13540v1-max-250x250.png"],
+          [[226,
+            75],
+           "assets/images/resized/0001/3540/13540v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Product Incubation",
+    "is_past": false,
+    "provider":
+     {"name": "Harmonypark",
+      "permalink": "harmonypark-2",
+      "image":
+       {"available_sizes":
+         [[[50,
+            50],
+           "assets/images/resized/0008/0810/80810v6-max-150x150.png"],
+          [[50,
+            50],
+           "assets/images/resized/0008/0810/80810v6-max-250x250.png"],
+          [[50,
+            50],
+           "assets/images/resized/0008/0810/80810v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.500152,
+    "longitude": -0.126236}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://expensure.com",
+    "title": ""},
+   {"external_url": "http://blog.expensure.com/press.html",
+    "title": "Expensure Press FAQ"}]}

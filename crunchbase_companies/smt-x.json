@@ -1,0 +1,98 @@
+{"name": "SMT-X",
+ "permalink": "smt-x",
+ "crunchbase_url": "http://www.crunchbase.com/company/smt-x",
+ "homepage_url": "http://www.smt-x.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "smt_x",
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "service-catalog, self-service-portal, request-management, workflow, audit",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Service Catalog software",
+ "created_at": "Thu Feb 21 17:27:12 UTC 2013",
+ "updated_at": "Fri Feb 22 23:34:01 UTC 2013",
+ "overview": "\u003Cp\u003ESMT-X provides software for Service Catalog and workflow automation. With a variaty of request types and an advanced workflow engine, any employee request can be managed from order to delivery.\u003C/p\u003E\n\n\u003Cp\u003EThanks to integrations with back-end solutions like IT Service Management tools, SAP and Facility Service tools, staff from service providers are triggered by the request portal, but keep using their own toolset.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0023/7481/237481v2-max-150x150.png"],
+     [[250,
+       42],
+      "assets/images/resized/0023/7481/237481v2-max-250x250.png"],
+     [[450,
+       76],
+      "assets/images/resized/0023/7481/237481v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director and founder ",
+    "person":
+     {"first_name": "Raymond",
+      "last_name": "Crijnen",
+      "permalink": "raymond-crijnen",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/3305/253305v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/3305/253305v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/3305/253305v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Netherlands Office",
+    "address1": "Heyedaal 10",
+    "address2": "",
+    "zip_code": "6228 GW",
+    "city": "Maastricht",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 50.821419,
+    "longitude": 5.7218824},
+   {"description": "Belgium Office",
+    "address1": "Legeweg 157A",
+    "address2": "",
+    "zip_code": "8020",
+    "city": "Oostkamp",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": 51.1724337,
+    "longitude": 3.2488801}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.trysmtx.com",
+    "title": "Try SMT-X Service Catalog"}]}

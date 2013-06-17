@@ -1,0 +1,146 @@
+{"name": "Zigtag",
+ "permalink": "zigtag",
+ "crunchbase_url": "http://www.crunchbase.com/company/zigtag",
+ "homepage_url": "http://www.zigtag.com",
+ "blog_url": "http://blog.zigtag.com",
+ "blog_feed_url": "http://zigtag.wordpress.com/feed/",
+ "twitter_username": null,
+ "category_code": "advertising",
+ "number_of_employees": 9,
+ "founded_year": 2006,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "Zigtag, Semantic-Web, Social-Bookmarking, Bookmarking, Technology, web-2.0",
+ "alias_list": null,
+ "email_address": "scott@zigtag.com",
+ "phone_number": "780-628-2709",
+ "description": null,
+ "created_at": "Tue Mar 25 20:32:25 UTC 2008",
+ "updated_at": "Sat Jan 05 20:20:57 UTC 2013",
+ "overview": "\u003Cp\u003EZigtag is an intelligent, semantic, social bookmarking service. The Zigtag sidebar provides both an intuitive way of tagging web pages (using descriptive words or phrases) and a user-friendly way of quickly retrieving tagged pages.\u003C/p\u003E\n\n\u003Cp\u003EUsers tag web pages with semantic tags (tags which have definitions) e.g. if you tag a page with \u0026#8220;Apple\u0026#8221; you can choose \u0026#8220;Apple (computer company)\u0026#8221;, \u0026#8220;Apple (fruit)\u0026#8221;, \u0026#8220;Apple (record label)\u0026#8221; etc.  Pages can be retrieved using any of the tags which were previously entered or using synonyms for those tags, e.g. a page tagged with \u0026#8220;Car\u0026#8221; can be retrieved by searching for pages tagged with \u0026#8220;Car\u0026#8221;\u009d or \u0026#8220;Automobile\u0026#8221; (Zigtag understands Car and Automobile are the same). This allows you to:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EKeep your tag space organized \u2014 you don\u0026#8217;t end up with \u0026#8220;New_York\u009d,\u0026#8221; \u0026#8220;New-York\u0026#8221;\u009d and \u0026#8220;NewYork\u0026#8221; \u2014 Zigtag has only one \u0026#8220;New York (the city)\u0026#8221;\u009d (although you can search for using \u0026#8220;NY\u009d,\u0026#8221; \u0026#8220;NYC\u0026#8221;\u009d or even \u0026#8220;Big Apple\u0026#8221;\u009d)\u003C/li\u003E\n\u003Cli\u003ESearch for your bookmarks quickly and efficiently \u2014 the type-ahead helps you choose from tags you\u0026#8217;ve used and also shows their definitions\u003C/li\u003E\n\u003Cli\u003EFind what others have tagged effectively \u2014 no confusion between \u0026#8220;Stock (soup base),\u0026#8221; \u0026#8220;Stock (equities)\u0026#8221;\u009d or \u0026#8220;Stock (inventory)\u0026#8221;\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EZigtag also has a major social networking component; you can see what your friends are tagging and create and join special interest groups. The sidebar notifies you when your friends tag something new, and a news feed allows you to see what your friends are tagging at a glance. It\u0026#8217;s kind of a \u0026#8220;personal Digg\u0026#8221;\u2014your friends\u0026#8217; interesting sites are likely to be interesting to you. Zigtag groups form the focal point for collaboration and a central gathering point for people with shared interests.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       71],
+      "assets/images/resized/0001/6353/16353v1-max-150x150.png"],
+     [[250,
+       118],
+      "assets/images/resized/0001/6353/16353v1-max-250x250.png"],
+     [[300,
+       142],
+      "assets/images/resized/0001/6353/16353v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bruce",
+      "last_name": "Johnson",
+      "permalink": "bruce-johnson",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Montgomerie",
+      "permalink": "scott-montgomerie",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Reg",
+      "last_name": "Cheramy",
+      "permalink": "reg-cheramy",
+      "image":
+       {"available_sizes":
+         [[[125,
+            150],
+           "assets/images/resized/0007/0149/70149v2-max-150x150.jpg"],
+          [[209,
+            250],
+           "assets/images/resized/0007/0149/70149v2-max-250x250.jpg"],
+          [[376,
+            450],
+           "assets/images/resized/0007/0149/70149v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ma.gnolia",
+      "permalink": "magnolia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0002/7992/27992v1-max-150x150.png"],
+          [[200,
+            105],
+           "assets/images/resized/0002/7992/27992v1-max-250x250.png"],
+          [[200,
+            105],
+           "assets/images/resized/0002/7992/27992v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bonzobox",
+      "permalink": "bonzobox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            84],
+           "assets/images/resized/0003/2727/32727v2-max-150x150.png"],
+          [[250,
+            140],
+           "assets/images/resized/0003/2727/32727v2-max-250x250.png"],
+          [[450,
+            253],
+           "assets/images/resized/0003/2727/32727v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "#206 - 9650 - 20 Avenue T6N 1G1",
+    "address2": "",
+    "zip_code": "T6E 6V7",
+    "city": "Edmonton",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

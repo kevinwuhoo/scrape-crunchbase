@@ -1,0 +1,87 @@
+{"name": "Taskii",
+ "permalink": "taskii",
+ "crunchbase_url": "http://www.crunchbase.com/company/taskii",
+ "homepage_url": "http://www.taskii.com",
+ "blog_url": "http://www.taskii.com/category/blog/",
+ "blog_feed_url": "http://www.taskii.com/feed/",
+ "twitter_username": "taskii",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 14,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "taskii, project, management, basecamp, french",
+ "alias_list": null,
+ "email_address": "contact@taskii.com",
+ "phone_number": "",
+ "description": "Online Project management Tool",
+ "created_at": "Fri Feb 12 10:26:34 UTC 2010",
+ "updated_at": "Sun Feb 14 02:46:37 UTC 2010",
+ "overview": "\u003Cp\u003ETaskii is a french Web Project Management Tool like Basecamp.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       100],
+      "assets/images/resized/0007/6957/76957v2-max-150x150.jpg"],
+     [[250,
+       167],
+      "assets/images/resized/0007/6957/76957v2-max-250x250.jpg"],
+     [[450,
+       301],
+      "assets/images/resized/0007/6957/76957v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Vincenzo",
+      "last_name": "Ruggiero",
+      "permalink": "vincenzo-ruggiero",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Hulet",
+      "permalink": "michael-hulet",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "P\u0026K HQ",
+    "address1": "chemin de la Foliette 4",
+    "address2": "",
+    "zip_code": "5000",
+    "city": "Namur",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.taskii.com",
+    "title": "Taskii Homepage"},
+   {"external_url": "https://signup.taskii.com/taskii/Free/fr",
+    "title": "Taskii Free Signup"}]}

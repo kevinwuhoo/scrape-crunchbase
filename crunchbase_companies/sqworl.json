@@ -1,0 +1,145 @@
+{"name": "Sqworl",
+ "permalink": "sqworl",
+ "crunchbase_url": "http://www.crunchbase.com/company/sqworl",
+ "homepage_url": "http://sqworl.com",
+ "blog_url": "http://sqworl.com/blog/",
+ "blog_feed_url": "http://sqworl.com/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bookmark, visual, organize",
+ "alias_list": null,
+ "email_address": "help@sqworl.com",
+ "phone_number": "",
+ "description": "Sqworl is focused on visual bookmarking.",
+ "created_at": "Fri Feb 27 09:03:40 UTC 2009",
+ "updated_at": "Wed Apr 15 13:56:57 UTC 2009",
+ "overview": "\u003Cp\u003ESqworl focuses on providing a clean and simple web application for bookmarking multiple URLs.   Sqworl uses web previews to give the user a visual representation of what the URL is before they click it.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       77],
+      "assets/images/resized/0003/7044/37044v2-max-150x150.png"],
+     [[250,
+       129],
+      "assets/images/resized/0003/7044/37044v2-max-250x250.png"],
+     [[342,
+       177],
+      "assets/images/resized/0003/7044/37044v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Sqworl",
+    "permalink": "sqworl",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Caleb",
+      "last_name": "Brown",
+      "permalink": "caleb-brown",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0003/7247/37247v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0003/7247/37247v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0003/7247/37247v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Shaun",
+      "last_name": "Chapman",
+      "permalink": "shaun-chapman",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0011/6739/116739v2-max-150x150.png"],
+          [[218,
+            218],
+           "assets/images/resized/0011/6739/116739v2-max-250x250.png"],
+          [[218,
+            218],
+           "assets/images/resized/0011/6739/116739v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "buncholinks",
+      "permalink": "buncholinks",
+      "image": null}},
+   {"competitor":
+     {"name": "Krunchd",
+      "permalink": "krunchd",
+      "image": null}},
+   {"competitor":
+     {"name": "Shrink2One",
+      "permalink": "shrink2one",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0003/7043/37043v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0003/7043/37043v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0003/7043/37043v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.techcrunch.com/2009/01/16/elevator-pitch-friday-sqworl-one-link-to-rule-them-all/",
+    "title": "Techcrunch"},
+   {"external_url": "http://www.readwriteweb.com/archives/sqworl_lightbox_links.php",
+    "title": "RWW"},
+   {"external_url": "http://www.killerstartups.com/Web-App-Tools/sqworl-com-a-classy-way-to-preview-websites",
+    "title": "KillerStartups"},
+   {"external_url": "http://blog.makezine.com/archive/2009/01/sqworl_-_share_link_presentations.html",
+    "title": "Make:Mag"},
+   {"external_url": "http://blogs.bnet.com/businesstips/?p=2422",
+    "title": "bnet"}]}

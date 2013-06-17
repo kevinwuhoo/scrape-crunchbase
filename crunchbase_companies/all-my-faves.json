@@ -1,0 +1,148 @@
+{"name": "All My Faves",
+ "permalink": "all-my-faves",
+ "crunchbase_url": "http://www.crunchbase.com/company/all-my-faves",
+ "homepage_url": "http://www.allmyfaves.com",
+ "blog_url": "http://www.allmyfaves.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/allmyfaves",
+ "twitter_username": "allmyfaves",
+ "category_code": "search",
+ "number_of_employees": 6,
+ "founded_year": 2006,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, bookmarks, homepage, personalized-homepage, favorites, portal, visual, logo",
+ "alias_list": null,
+ "email_address": "info@allmyfaves.com",
+ "phone_number": "",
+ "description": "visual homepage \u0026 bookmarks",
+ "created_at": "Mon Jun 27 13:14:29 UTC 2011",
+ "updated_at": "Tue Jun 28 15:00:19 UTC 2011",
+ "overview": "\u003Cp\u003EWith over 5 million monthly visitors, allmyfaves.com is a free visual gateway to the web listing the best sites in various categories, and also the provider of a personalized visual homepage tool.\u003C/p\u003E\n\n\u003Cp\u003EIn addition to the site\u0026#8217;s homepage where the most practical categories can be found in visual form (including news, weather, email and video), All My Faves offers designated pages for blogs, business, education, games, kids, travel, video and shopping. AllMyFaves\u00e2\u20ac\u2122 most recent feature, MyFaves, allows users to create their very own homepage made up of a visual display of all their bookmarks and favorites in one easily accessible page. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0014/1387/141387v2-max-150x150.png"],
+     [[250,
+       60],
+      "assets/images/resized/0014/1387/141387v2-max-250x250.png"],
+     [[254,
+       61],
+      "assets/images/resized/0014/1387/141387v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co Founder",
+    "person":
+     {"first_name": "Shachar",
+      "last_name": "Pessis",
+      "permalink": "shachar-pessis",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co Founder",
+    "person":
+     {"first_name": "Roy",
+      "last_name": "Pessis",
+      "permalink": "roy-pessis",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co Founder",
+    "person":
+     {"first_name": "Roy",
+      "last_name": "Pessis",
+      "permalink": "roy-pessis-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Symbaloo",
+      "permalink": "symbaloo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0009/9388/99388v2-max-150x150.png"],
+          [[250,
+            41],
+           "assets/images/resized/0009/9388/99388v2-max-250x250.png"],
+          [[450,
+            75],
+           "assets/images/resized/0009/9388/99388v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Netvibes",
+      "permalink": "netvibes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2974/2974v8-max-150x150.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-250x250.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Xmarks",
+      "permalink": "xmarks",
+      "image":
+       {"available_sizes":
+         [[[132,
+            150],
+           "assets/images/resized/0003/7252/37252v2-max-150x150.jpg"],
+          [[220,
+            250],
+           "assets/images/resized/0003/7252/37252v2-max-250x250.jpg"],
+          [[396,
+            450],
+           "assets/images/resized/0003/7252/37252v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Offices",
+    "address1": "39 Bilu St.",
+    "address2": "",
+    "zip_code": "64256",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0014/1182/141182v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0014/1182/141182v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0014/1182/141182v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://money.cnn.com/2009/03/25/technology/allmyfaves_discovery_sites.fortune/index.htm",
+    "title": "The new search: Discovery sites. Fortune Magazine article by Beth Kowitt, March 2009."},
+   {"external_url": "http://www.makeuseof.com/tag/aggregate-your-favorite-websites-on-one-page/",
+    "title": "Aggregate your Favorite Websites on One Page "}]}

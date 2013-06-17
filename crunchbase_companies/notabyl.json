@@ -1,0 +1,173 @@
+{"name": "Notabyl",
+ "permalink": "notabyl",
+ "crunchbase_url": "http://www.crunchbase.com/company/notabyl",
+ "homepage_url": "http://www.notabyl.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, location, location-based, gps, geo, maps",
+ "alias_list": null,
+ "email_address": "charley.severs@notabyl.com",
+ "phone_number": "917-747-3649",
+ "description": "Bookmark your places",
+ "created_at": "Wed May 19 17:31:41 UTC 2010",
+ "updated_at": "Fri May 21 16:41:01 UTC 2010",
+ "overview": "\u003Cp\u003ENotabyl provides application software that lets you bookmark places with your mobile phone, add and share information about those places, and build unique content around those places such as journals and itineraries.\u003C/p\u003E\n\n\u003Cp\u003ENotabyl manages a database of over 24 million places in the US and provides a search engine which returns basic information about those places such as address, phone number and website as well as other information including pictures and reviews.\u003C/p\u003E\n\n\u003Cp\u003ENotabyl provides a web and mobile interface allowing users to bookmark places that are important to them in their home town and around the world and use their account as a reference to find those places, as a utility to find directions and other useful information about those places and as a tool to share those places with friends.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0008/7769/87769v2-max-150x150.png"],
+     [[250,
+       187],
+      "assets/images/resized/0008/7769/87769v2-max-250x250.png"],
+     [[450,
+       337],
+      "assets/images/resized/0008/7769/87769v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Charley",
+      "last_name": "Severs",
+      "permalink": "charley-severs",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Vijay",
+      "last_name": "Onteddu",
+      "permalink": "vijay-onteddu",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gowalla",
+      "permalink": "gowalla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/5118/25118v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Brightkite",
+      "permalink": "brightkite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/5798/15798v6-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0001/5798/15798v6-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/5798/15798v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SCVNGR",
+      "permalink": "scvngr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0003/9052/39052v5-max-150x150.jpg"],
+          [[206,
+            56],
+           "assets/images/resized/0003/9052/39052v5-max-250x250.jpg"],
+          [[206,
+            56],
+           "assets/images/resized/0003/9052/39052v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Evernote",
+      "permalink": "evernote",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/3178/13178v3-max-150x150.jpg"],
+          [[250,
+            129],
+           "assets/images/resized/0001/3178/13178v3-max-250x250.jpg"],
+          [[315,
+            163],
+           "assets/images/resized/0001/3178/13178v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Booyah",
+      "permalink": "booyah",
+      "image":
+       {"available_sizes":
+         [[[150,
+            98],
+           "assets/images/resized/0002/6698/26698v6-max-150x150.png"],
+          [[250,
+            164],
+           "assets/images/resized/0002/6698/26698v6-max-250x250.png"],
+          [[450,
+            296],
+           "assets/images/resized/0002/6698/26698v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Notabyl",
+    "address1": "41 East 11th Street",
+    "address2": "11th Floor",
+    "zip_code": "10003",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

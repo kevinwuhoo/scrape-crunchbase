@@ -1,0 +1,94 @@
+{"name": "OblakSoft",
+ "permalink": "oblaksoft",
+ "crunchbase_url": "http://www.crunchbase.com/company/oblaksoft",
+ "homepage_url": "http://www.oblaksoft.com",
+ "blog_url": "http://www.oblaksoft.com/",
+ "blog_feed_url": "http://www.oblaksoft.com/feed",
+ "twitter_username": "oblaksoft",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "clouse, storage-engine, mysql, s3, cloud-storage, sql, rdbms, database",
+ "alias_list": null,
+ "email_address": "info@oblaksoft.com",
+ "phone_number": "(425) 998-7638",
+ "description": "Your way to the cloud",
+ "created_at": "Thu Jan 12 08:17:36 UTC 2012",
+ "updated_at": "Wed May 23 00:37:36 UTC 2012",
+ "overview": "\u003Cp\u003EOblakSoft focuses on technologies that simplify adoption of cloud computing.  OblaskSoft offers ClouSE \u2013 a technology that allows cloud storage to be \u0026#8220;plugged into\u0026#8221; MySQL in a seamless and secure manner.\u003C/p\u003E\n\n\u003Cp\u003EClouSE is the Cloud Storage Engine for MySQL that can utilize cloud storage such as Amazon S3 to store relational and blob data.  ClouSE provides fully functional, transactional and ACID-compliant relational data management on top of cloud storage.\u003C/p\u003E\n\n\u003Cp\u003EKey advantages of ClouSE include:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EIt provides transactional (ACID) guarantees to the users, with transactions featuring commit, rollback, and crash-recovery capabilities to protect user data\u003C/li\u003E\n\u003Cli\u003EIt allows utilizing cloud storage to store user data\u003C/li\u003E\n\u003Cli\u003EIt supports on-the-fly encryption of user data to guarantee its full confidentiality in the cloud\u003C/li\u003E\n\u003Cli\u003EIt supports direct access to blob content (a.k.a. weblobs) to enable scaling out content delivery of large data objects (e.g. pictures, movies)\u003C/li\u003E\n\u003Cli\u003EIt supports public, private and hybrid cloud configurations\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EDesigned and optimized for cloud storage from ground up ClouSE uses eventual consistency management, compression and caching techniques to smooth out cloud storage adoption bumps such as non-strict data consistency, high-latency storage access, and higher storage access failure rate due to network failures.  As a transactional storage engine for MySQL ClouSE opens cloud storage to SQL developers and SQL-based applications and reduces the need to retrain developers and rewrite applications to use new data processing paradigms, thus lowering the barrier for cloud storage adoption.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       137],
+      "assets/images/resized/0016/9811/169811v2-max-150x150.png"],
+     [[250,
+       228],
+      "assets/images/resized/0016/9811/169811v2-max-250x250.png"],
+     [[300,
+       274],
+      "assets/images/resized/0016/9811/169811v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Cloud Storage Engine (ClouSE)",
+    "permalink": "cloud-storage-engine-clouse",
+    "image": null},
+   {"name": "WebStor",
+    "permalink": "webstor",
+    "image": null},
+   {"name": "Yapixx - WordPress on Cloud Storage",
+    "permalink": "yapixx-wordpress-on-s3",
+    "image": null},
+   {"name": "WP2Cloud - WordPress to Cloud",
+    "permalink": "wp2cloud-wordpress-to-cloud",
+    "image": null},
+   {"name": "ClouSE",
+    "permalink": "clouse",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Artem",
+      "last_name": "Livshits",
+      "permalink": "artem-livshits",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/5494/265494v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5494/265494v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5494/265494v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

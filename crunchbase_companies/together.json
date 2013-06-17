@@ -1,0 +1,94 @@
+{"name": "Together",
+ "permalink": "together",
+ "crunchbase_url": "http://www.crunchbase.com/company/together",
+ "homepage_url": "http://together.is",
+ "blog_url": "http://together.is/blog",
+ "blog_feed_url": "",
+ "twitter_username": "eriklarsson",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "realtime, ipad, social-shopping, cobrowsing, shared-browsing-screensharing",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Co-browsing app for the iPad",
+ "created_at": "Tue Oct 09 12:30:41 UTC 2012",
+ "updated_at": "Thu Oct 18 00:09:55 UTC 2012",
+ "overview": "\u003Cp\u003ETogether is an iPad app that help you co-browse and collaborate on websites with your friends without having to be physically present in the same room.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Erik",
+      "last_name": "Larsson",
+      "permalink": "erik-larsson",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jacob",
+      "last_name": "Oscarson",
+      "permalink": "jacob-oscarson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GoInstant",
+      "permalink": "goinstant",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0015/3994/153994v1-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0015/3994/153994v1-max-250x250.png"],
+          [[283,
+            60],
+           "assets/images/resized/0015/3994/153994v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

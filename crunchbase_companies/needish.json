@@ -1,0 +1,136 @@
+{"name": "Needish",
+ "permalink": "needish",
+ "crunchbase_url": "http://www.crunchbase.com/company/needish",
+ "homepage_url": "http://www.needish.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web2-0, social-network, marketplace",
+ "alias_list": null,
+ "email_address": "oskar@needish.com",
+ "phone_number": "6507967936",
+ "description": null,
+ "created_at": "Wed Jun 25 16:54:20 UTC 2008",
+ "updated_at": "Fri Apr 16 20:45:03 UTC 2010",
+ "overview": "\u003Cp\u003ENeedish is a marketplace for services integrated as a social network that enables people to find solutions to their needs.  \u003C/p\u003E\n\n\u003Cp\u003EFriends and interested users are notified of Needs. Company claims law of attraction is one reason for posting Needs, as the API permits sharing those Needs all over the place.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0002/0984/20984v2-max-150x150.png"],
+     [[208,
+       79],
+      "assets/images/resized/0002/0984/20984v2-max-250x250.png"],
+     [[208,
+       79],
+      "assets/images/resized/0002/0984/20984v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Oskar",
+      "last_name": "Hjertonsson",
+      "permalink": "oskar-hjertonsson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and CTO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Undurraga",
+      "permalink": "daniel-undurraga",
+      "image": null}},
+   {"is_past": false,
+    "title": "Project Lead and Core Developer",
+    "person":
+     {"first_name": "Pablo",
+      "last_name": "Viojo",
+      "permalink": "pablo-viojo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Project Lead and Core Developer",
+    "person":
+     {"first_name": "Pablo",
+      "last_name": "Viojo",
+      "permalink": "pablo-viojo-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0008/5126/85126v2-max-150x150.jpg"],
+          [[240,
+            240],
+           "assets/images/resized/0008/5126/85126v2-max-250x250.jpg"],
+          [[240,
+            240],
+           "assets/images/resized/0008/5126/85126v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Wilson Sonsini Goodrich \u0026 Rosati",
+      "permalink": "wilson-sonsini-goodrich-rosati",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/9486/19486v1-max-150x150.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-250x250.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://www.webprendedor.com/2007/12/13/otra-de-needish-ahora-son-us-500-mil/",
+    "source_description": "Otra de Needish",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 12,
+    "funded_day": 15,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        90],
+       "assets/images/resized/0008/3928/83928v2-max-150x150.png"],
+      [[250,
+        151],
+       "assets/images/resized/0008/3928/83928v2-max-250x250.png"],
+      [[450,
+        272],
+       "assets/images/resized/0008/3928/83928v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

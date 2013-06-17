@@ -1,0 +1,105 @@
+{"name": "Bioalma",
+ "permalink": "bioalma",
+ "crunchbase_url": "http://www.crunchbase.com/company/bioalma",
+ "homepage_url": "http://www.bioalma.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "information-retrieval, search-engine, biomedicine, bioinformatics",
+ "alias_list": null,
+ "email_address": "bioalma@bioalma.com",
+ "phone_number": "+341417150",
+ "description": null,
+ "created_at": "Mon Jul 28 09:46:31 UTC 2008",
+ "updated_at": "Sat Sep 06 14:03:41 UTC 2008",
+ "overview": "\u003Cp\u003EBioalma develops software for information retrieval and analysis of text biomedical data.\u003C/p\u003E\n\n\u003Cp\u003EBioalma has build the technology to analyze biomedical text with text mining algorithms,  index and organize the information of that analysis and distribute that information through a web search engine our in-house install software.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0002/2745/22745v2-max-150x150.jpg"],
+     [[250,
+       102],
+      "assets/images/resized/0002/2745/22745v2-max-250x250.jpg"],
+     [[300,
+       123],
+      "assets/images/resized/0002/2745/22745v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Novoseek",
+    "permalink": "novoseek",
+    "image":
+     {"available_sizes":
+       [[[150,
+          38],
+         "assets/images/resized/0003/7762/37762v1-max-150x150.png"],
+        [[200,
+          51],
+         "assets/images/resized/0003/7762/37762v1-max-250x250.png"],
+        [[200,
+          51],
+         "assets/images/resized/0003/7762/37762v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "General Manager",
+    "person":
+     {"first_name": "Luis",
+      "last_name": "Cornide",
+      "permalink": "luis-cornide",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business Development",
+    "person":
+     {"first_name": "Ramon",
+      "last_name": "Alonso-Allende",
+      "permalink": "ramon-alonso-allende",
+      "image": null}},
+   {"is_past": false,
+    "title": "Scientific Director",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Blaschke",
+      "permalink": "christian-blaschke",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Ronda de Poniente 4 Bajo C",
+    "address2": "",
+    "zip_code": "28760",
+    "city": "Tres Cantos, Madrid",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.novoseek.com",
+    "title": "Novoseek"}]}

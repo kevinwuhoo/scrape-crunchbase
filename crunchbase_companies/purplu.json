@@ -1,0 +1,151 @@
+{"name": "Purplu",
+ "permalink": "purplu",
+ "crunchbase_url": "http://www.crunchbase.com/company/purplu",
+ "homepage_url": "http://www.purplu.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "purplulogistics",
+ "category_code": "mobile",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "logistics, real-time, gps, nfc, barcode, wms, erp, crm",
+ "alias_list": null,
+ "email_address": "rab@purplu.com",
+ "phone_number": "",
+ "description": "Real Time Logistics",
+ "created_at": "Tue Apr 23 18:36:14 UTC 2013",
+ "updated_at": "Fri Apr 26 23:37:22 UTC 2013",
+ "overview": "\u003Cp\u003EPurplu is a chilean Startup born in 2012, specialized in logistics. Its team members are involved in barcode, RFID, technologies and development and started working together as part of Id-Latam, an auto-id company founded by 2 of its team members back in 2005.\u003C/p\u003E\n\n\u003Cp\u003EThe differenciating aspect of Purplu is to conceive a powerful logistic platform based on iOS, reading barcodes and NFC, and changing the focus of logistics from pictures to actual movements.\u003C/p\u003E\n\n\u003Cp\u003EThe startup has been accelerated by Wayra Chile(Telef\u00f3nica) for the 2013 period with 50.000 USD.\u003C/p\u003E\n\n\u003Cp\u003EFurthermore, the company has already sold the solution to first customers in arround 30000 USD, being one of the first interested a Mining Company, not just any, but the biggest Copper Mine in the world, Escondida, from BHP Billiton.\u003C/p\u003E\n\n\u003Cp\u003EFuture is projected to keep defining the Mining, Seafood and Industrial Segments they are targetting right now.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Head of Product /CEO",
+    "person":
+     {"first_name": "Ra\u00fal",
+      "last_name": "Aranguiz Borgeaud",
+      "permalink": "ral-aranguiz-borgeaud",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Marketing",
+    "person":
+     {"first_name": "Jos\u00e9",
+      "last_name": "Antonio Rodr\u00edguez",
+      "permalink": "jos-antonio-rodrguez",
+      "image": null}},
+   {"is_past": false,
+    "title": "Back-end Engineer",
+    "person":
+     {"first_name": "Javier",
+      "last_name": "Jaramillo",
+      "permalink": "javier-jaramillo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Development",
+    "person":
+     {"first_name": "Cale",
+      "last_name": "Lares",
+      "permalink": "cale-lares",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Honeywell",
+      "permalink": "honeywell",
+      "image":
+       {"available_sizes":
+         [[[146,
+            26],
+           "assets/images/resized/0005/2088/52088v1-max-150x150.png"],
+          [[146,
+            26],
+           "assets/images/resized/0005/2088/52088v1-max-250x250.png"],
+          [[146,
+            26],
+           "assets/images/resized/0005/2088/52088v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Intermec",
+      "permalink": "intermec",
+      "image":
+       {"available_sizes":
+         [[[116,
+            50],
+           "assets/images/resized/0008/7614/87614v1-max-150x150.png"],
+          [[116,
+            50],
+           "assets/images/resized/0008/7614/87614v1-max-250x250.png"],
+          [[116,
+            50],
+           "assets/images/resized/0008/7614/87614v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Opticon",
+      "permalink": "opticon",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://cl.wayra.org/es/noticia/wayra-chile-escogio-su-generacion-de-startups-2013",
+    "source_description": "Wayra Elige sus Startups 2013",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Wayra Chile",
+         "permalink": "wayra-chile",
+         "image": null},
+       "person": null},
+      {"company":
+        {"name": "id-latam",
+         "permalink": "id-latam",
+         "image":
+          {"available_sizes":
+            [[[123,
+               150],
+              "assets/images/resized/0018/7945/187945v2-max-150x150.jpg"],
+             [[205,
+               250],
+              "assets/images/resized/0018/7945/187945v2-max-250x250.jpg"],
+             [[369,
+               450],
+              "assets/images/resized/0018/7945/187945v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Santiago Headquarters",
+    "address1": "Villaseca 21",
+    "address2": "Of. 805-6",
+    "zip_code": "7770563",
+    "city": "Santiago",
+    "state_code": null,
+    "country_code": "CHL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

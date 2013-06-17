@@ -1,0 +1,142 @@
+{"name": "CX",
+ "permalink": "cx",
+ "crunchbase_url": "http://www.crunchbase.com/company/cx",
+ "homepage_url": "https://www.cx.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "CXthecloud",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Personal Cloud Computing",
+ "created_at": "Mon May 03 17:47:26 UTC 2010",
+ "updated_at": "Tue Mar 26 11:16:11 UTC 2013",
+ "overview": "\u003Cp\u003ECx is a personal cloud computing and productivity platform designed as a simple, self-managing system that frees you from the restrictions of any of your individual devices and puts all of your information in a single, safe place that you can reach from anywhere.  Cx pulls together all the pieces of your technology life so that you can spend less time managing it and more time living your actual life.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       95],
+      "assets/images/resized/0008/5822/85822v4-max-150x150.png"],
+     [[250,
+       159],
+      "assets/images/resized/0008/5822/85822v4-max-250x250.png"],
+     [[450,
+       287],
+      "assets/images/resized/0008/5822/85822v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2009,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "TomorrowVentures",
+         "permalink": "tomorrow-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               32],
+              "assets/images/resized/0008/4313/84313v2-max-150x150.png"],
+             [[250,
+               53],
+              "assets/images/resized/0008/4313/84313v2-max-250x250.png"],
+             [[317,
+               68],
+              "assets/images/resized/0008/4313/84313v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]},
+   {"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2011/07/21/cloud-storage-company-cx-raises-5m-from-eric-schmidt-and-others-acquires-fileden/",
+    "source_description": "Cloud Storage Company CX Raises $5M From Eric Schmidt And Others, Acquires FileDen",
+    "raised_amount": 5000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 7,
+    "funded_day": 21,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "TomorrowVentures",
+         "permalink": "tomorrow-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               32],
+              "assets/images/resized/0008/4313/84313v2-max-150x150.png"],
+             [[250,
+               53],
+              "assets/images/resized/0008/4313/84313v2-max-250x250.png"],
+             [[317,
+               68],
+              "assets/images/resized/0008/4313/84313v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Hanna Ventures",
+         "permalink": "hanna-ventures",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "314 Lytton Avenue",
+    "address2": "Suite 100",
+    "zip_code": "94301",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

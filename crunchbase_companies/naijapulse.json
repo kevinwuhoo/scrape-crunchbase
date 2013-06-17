@@ -1,0 +1,84 @@
+{"name": "NaijaPulse",
+ "permalink": "naijapulse",
+ "crunchbase_url": "http://www.crunchbase.com/company/naijapulse",
+ "homepage_url": "http://naijapulse.com",
+ "blog_url": "",
+ "blog_feed_url": "http://www.naijapulse.com/api/statuses/public_timeline.rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "microblogging, nigeria, africa",
+ "alias_list": null,
+ "email_address": "technosexy@naijapulse.com",
+ "phone_number": "",
+ "description": "Microblogging and Social Networking",
+ "created_at": "Mon Apr 06 22:41:34 UTC 2009",
+ "updated_at": "Thu Apr 09 03:32:59 UTC 2009",
+ "overview": "\u003Cp\u003ENaijaPulse is Africa\u0026#8217;s first microblogging service.\u003C/p\u003E\n\n\u003Cp\u003ENaijaPulse lets you share short text updates about yourself and what is happening around you with friends, colleagues, family and fans. \u003C/p\u003E\n\n\u003Cp\u003EYou can start or follow a discussion, share a link or news item, ask questions, join or create groups, remote subscribe to a compatible service, connect to Twitter and Facebook etc. NaijaPulse is based on the openmicroblogging protocol and powered by laconica.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[136,
+       104],
+      "assets/images/resized/0004/0451/40451v2-max-150x150.png"],
+     [[136,
+       104],
+      "assets/images/resized/0004/0451/40451v2-max-250x250.png"],
+     [[136,
+       104],
+      "assets/images/resized/0004/0451/40451v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Yinka",
+      "last_name": "Adeyeye",
+      "permalink": "yinka-adeyeye",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0004/0450/40450v2-max-150x150.png"],
+      [[250,
+        126],
+       "assets/images/resized/0004/0450/40450v2-max-250x250.png"],
+      [[450,
+        227],
+       "assets/images/resized/0004/0450/40450v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://whiteafrican.com/2009/02/23/naijapulse-microblogging-in-nigeria/",
+    "title": "Review by Erik Hersman"},
+   {"external_url": "http://www.startupafrica.com/2009/02/naijapulse-nigerias-version-of-twitter/",
+    "title": "Review by Loy Okezie"},
+   {"external_url": "http://josefscarantino.com/2009/03/02/introducing-naijapulse-nigerias-foray-into-microblogging/",
+    "title": "Review by Josef Scarantino"}]}

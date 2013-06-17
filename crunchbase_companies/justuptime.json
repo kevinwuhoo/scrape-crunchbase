@@ -1,0 +1,156 @@
+{"name": "JustUptime",
+ "permalink": "justuptime",
+ "crunchbase_url": "http://www.crunchbase.com/company/justuptime",
+ "homepage_url": "http://www.justuptime.com/",
+ "blog_url": "http://www.justuptime.com/blog/",
+ "blog_feed_url": "http://www.justuptime.com/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "server, monitoring, uptime, downtime",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "480-304-5437",
+ "description": "Uptime Monitor",
+ "created_at": "Wed Jun 11 13:11:33 UTC 2008",
+ "updated_at": "Tue Jan 11 03:14:05 UTC 2011",
+ "overview": "\u003Cp\u003EJust Uptime is a server monitoring service that monitors your website/server from 3 location worldwide. When an issue arrises, JustUptime alerts the user via there mobile using SMS.\u003C/p\u003E\n\n\u003Cp\u003EUsers have permenant access to their logs which can be used to generate flash graphs displaying there uptime and response time over a given period.\u003C/p\u003E\n\n\u003Cp\u003EJust Uptime can perform a variety of checks including HTTP/HTTPS, Ping, TCP/UDP, DNS and POP3/IMAP/SMTP every 1-60 minutes. Everything is done through an online control panel and there is no software or scripts to install.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0002/0258/20258v2-max-150x150.png"],
+     [[250,
+       49],
+      "assets/images/resized/0002/0258/20258v2-max-250x250.png"],
+     [[315,
+       62],
+      "assets/images/resized/0002/0258/20258v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "JustUptime Basic",
+    "permalink": "justuptime-basic",
+    "image": null},
+   {"name": "JustUptime Premium",
+    "permalink": "justuptime-premium",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Marketing Manager",
+    "person":
+     {"first_name": "Luke",
+      "last_name": "Kendall",
+      "permalink": "luke-kendall",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pingdom",
+      "permalink": "pingdom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/8963/18963v1-max-150x150.png"],
+          [[250,
+            91],
+           "assets/images/resized/0001/8963/18963v1-max-250x250.png"],
+          [[255,
+            93],
+           "assets/images/resized/0001/8963/18963v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pingability",
+      "permalink": "pingability",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0001/8961/18961v1-max-150x150.png"],
+          [[250,
+            41],
+           "assets/images/resized/0001/8961/18961v1-max-250x250.png"],
+          [[450,
+            74],
+           "assets/images/resized/0001/8961/18961v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Down For Everyone Or Just Me",
+      "permalink": "downforeveryoneorjustme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0001/7049/17049v1-max-150x150.png"],
+          [[229,
+            30],
+           "assets/images/resized/0001/7049/17049v1-max-250x250.png"],
+          [[229,
+            30],
+           "assets/images/resized/0001/7049/17049v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AlertFox",
+      "permalink": "alertfox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0004/2468/42468v5-max-150x150.png"],
+          [[239,
+            84],
+           "assets/images/resized/0004/2468/42468v5-max-250x250.png"],
+          [[239,
+            84],
+           "assets/images/resized/0004/2468/42468v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Monitis",
+      "permalink": "monitis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0008/7686/87686v4-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0008/7686/87686v4-max-250x250.jpg"],
+          [[300,
+            300],
+           "assets/images/resized/0008/7686/87686v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "UK Office",
+    "address1": "A2, Segensworth Business Centre",
+    "address2": "Segensworth Road",
+    "zip_code": "PO15 5RQ",
+    "city": "Fareham",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

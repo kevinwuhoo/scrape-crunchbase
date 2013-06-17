@@ -1,0 +1,101 @@
+{"name": "cobaltbox",
+ "permalink": "cobaltbox",
+ "crunchbase_url": "http://www.crunchbase.com/company/cobaltbox",
+ "homepage_url": "http://cobaltbox.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cobaltbox",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web, widget, embed, platform, marketplace, store, profiling, user, visitor, page, browser, firefox, addon, developer, algorithm, enrich, improve",
+ "alias_list": null,
+ "email_address": "feedback@cobaltbox.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Mar 19 16:19:15 UTC 2010",
+ "updated_at": "Fri Mar 19 18:46:54 UTC 2010",
+ "overview": "\u003Cp\u003Ecobaltbox is a platform empowering anyone to create applications which appear embedded in any webpage on the internet.\u003C/p\u003E\n\n\u003Cp\u003EPractically, on every webpage our users visit somewhere on the web one or more frames (or \u0026#8216;widgets\u0026#8217;) are overlayed. Within these widgets new functionality and content which is external to the webpage is imported dynamically. The cobaltbox platform decides automatically which widgets are to appear on a given webpage so that they are relevant to the webpage and to the particular visitor\u0026#8217;s profile. The widgets\u0026#8217; exact placement on the webpage is also determined by the cobaltbox platform based on the combined preference of their developers and those viewing them  The widgets are marked as cobaltbox-generated in such a way as to balance blending in and standing out.\u003C/p\u003E\n\n\u003Cp\u003EThe new functionality and content is drawn using the publicly available APIs commonly offered by most online services these days and by combining them with plain JavaScript, HTML and CSS code. The end result is a widget with dynamically generated content and an interface designed by the developer. For example, an online shop for clothes could create a widget which would display one or more products which are on sale accompanied by additional information from Wikipedia regarding these particular types of clothing (e.g. designer data, historical origins, etc) as well as a possible price comparison of these items in ebay or Amazon. Such a widget can enrich the visitors\u0026#8217; experience, save them time and clicks while the online shop also benefits from drawing customers to their website. Finally, the webpage the widget appears at gains additional content with zero effort.\u003C/p\u003E\n\n\u003Cp\u003EThe webpages on which a given widget will be overlayed are determined by algorithmically matching the profile of the webpage being viewed, the profile associated with that visitor (based on their browsing and other information they have submitted) and the widget\u0026#8217;s profile (determined by its developer when they submit it). As such, it is ensured that only widgets which display content that is relevant to both the visitor and the current webpage will be displayed. Widget developers can tap these webpage and visitor profiles by including cobaltbox-specific code in their widget and they can use this information dynamically in their widget functionality. In the previous example, the widget developed by the online clothes\u0026#8217; shop should appear only in webpages regarding clothes and only to visitors who have previously viewed pages about clothes.\u003C/p\u003E\n\n\u003Cp\u003EThe widget can be overlayed anywhere on the webpage starting with the developer\u0026#8217;s preference. Following that, each visitor is able to further define their preferred position per specific page and widget, if they wish to. For example, widgets can initially appear on the top of a webpage, at its bottom or in the sidebars (if they exist).  Visitors can then drag and drop the widget to a new position on the webpage which better suits their preference. In any case, the cobaltbox branding allows the additional content to stand out from the original website.\u003C/p\u003E\n\n\u003Cp\u003ECurrently, the cobaltbox platform is implemented only as a Mozilla Firefox addon - future releases will operate with other browsers as well as through a stand-alone website. In addition to this, currently only the webpage profiling is operational - visitor profiling is implemented at a very early stage and developer widgets cannot be accepted in the cobaltbox platform yet. Finally, the widget placement algorithm is also at a very early stage.\u003C/p\u003E\n\n\u003Cp\u003EGiven the current level of maturity of the project, as of now, the Firefox addon is shipped bundled together with the first cobaltbox widget: Parallel Links. Parallel Links has been developed by the cobaltbox team and is to serve as a proof of concept and an example of cobaltbox\u0026#8217;s potential. Its placement and functionality is identical regardless of the visitor viewing it: it appears on every webpage visited, it is placed at its top, it reads the webpage profile and automatically displays links drawn from popular websites (incl. Twitter, Wikipedia, Amazon, and others) that are directly relevant to the current webpage.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[81,
+       78],
+      "assets/images/resized/0008/0988/80988v2-max-150x150.png"],
+     [[81,
+       78],
+      "assets/images/resized/0008/0988/80988v2-max-250x250.png"],
+     [[81,
+       78],
+      "assets/images/resized/0008/0988/80988v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dimitris",
+      "last_name": "Athanasiadis",
+      "permalink": "dimitris-athanasiadis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dapper",
+      "permalink": "dapper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2506/2506v1-max-150x150.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/2506/2506v1-max-250x250.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/2506/2506v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Athens",
+    "state_code": null,
+    "country_code": "GRC",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        15],
+       "assets/images/resized/0008/0987/80987v2-max-150x150.png"],
+      [[250,
+        26],
+       "assets/images/resized/0008/0987/80987v2-max-250x250.png"],
+      [[450,
+        47],
+       "assets/images/resized/0008/0987/80987v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

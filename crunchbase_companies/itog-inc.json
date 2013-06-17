@@ -1,0 +1,120 @@
+{"name": "ITOG, Inc.",
+ "permalink": "itog-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/itog-inc",
+ "homepage_url": "http://www.itog.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 5,
+ "founded_year": 2006,
+ "founded_month": 9,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-networking, social-network, social-networks, opinions, ratings, recommendations, reviews",
+ "alias_list": "",
+ "email_address": "rfeldman@itog.com",
+ "phone_number": "",
+ "description": "Rating and review tools",
+ "created_at": "Tue Aug 26 21:38:17 UTC 2008",
+ "updated_at": "Mon Mar 02 01:15:19 UTC 2009",
+ "overview": "\u003Cp\u003EThe founders of ITOG.com (short for Is That One Good?) describe it as \u0026#8220;Flixster meets StumbleUpon.\u0026#8221; It provides tools for ratings, reviews, discussions, social networking, and recommendations across many areas of interest.\u003C/p\u003E\n\n\u003Cp\u003EUsers can rate items (one to five stars) from any of 26 categories, including films, websites, actors, books, games, music, drinks, animals, and restaurants.\u003C/p\u003E\n\n\u003Cp\u003EITOG uses these ratings to recommend items that the user has not rated, allowing discovery of new items based on past preference much as StumbleUpon does. Like Netflix, ITOG uses a collaborative filtering algorithm to make these recommendations rather than the common \u0026#8220;people who liked X also like Y\u0026#8221; alternative.\u003C/p\u003E\n\n\u003Cp\u003EOther features include integrated discussions, lists, comparing percent similarity in tastes to friends, and polls.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0002/4297/24297v2-max-150x150.png"],
+     [[250,
+       39],
+      "assets/images/resized/0002/4297/24297v2-max-250x250.png"],
+     [[396,
+       63],
+      "assets/images/resized/0002/4297/24297v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "itog.com",
+    "permalink": "itog-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Feldman",
+      "permalink": "richard-feldman",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0002/5110/25110v2-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0002/5110/25110v2-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0002/5110/25110v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Accounting",
+    "is_past": false,
+    "provider":
+     {"name": "RubinBrown LLP",
+      "permalink": "rubinbrown-llp",
+      "image": null}}],
+ "total_money_raised": "$205k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.bizjournals.com/stlouis/stories/2008/02/11/daily7.html",
+    "source_description": "St. Louis Business Journal",
+    "raised_amount": 205000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 2,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Olin Cup",
+         "permalink": "olin-cup",
+         "image":
+          {"available_sizes":
+            [[[150,
+               86],
+              "assets/images/resized/0003/1397/31397v1-max-150x150.jpg"],
+             [[160,
+               92],
+              "assets/images/resized/0003/1397/31397v1-max-250x250.jpg"],
+             [[160,
+               92],
+              "assets/images/resized/0003/1397/31397v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "5A Worthington Access Drive",
+    "address2": "",
+    "zip_code": "63043",
+    "city": "Saint Louis",
+    "state_code": "MO",
+    "country_code": "USA",
+    "latitude": 38.703764,
+    "longitude": -90.443832}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

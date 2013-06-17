@@ -1,0 +1,208 @@
+{"name": "TextPayMe",
+ "permalink": "textpayme",
+ "crunchbase_url": "http://www.crunchbase.com/company/textpayme",
+ "homepage_url": "http://www.textpayme.com",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "media@textpayme.com",
+ "phone_number": null,
+ "description": null,
+ "created_at": "Wed Aug 01 05:56:53 UTC 2007",
+ "updated_at": "Fri Dec 16 22:49:03 UTC 2011",
+ "overview": "\u003Cp\u003EFounded in 2005, TextPayMe is an SMS payment service that lets you send money to other people using cell phone text messaging.  TextPayMe lets you send money to anyone else in the US with an SMS-capable cell phone, and while phone carriers may charge for the actual text message sent/received, sending and receiving money is free while TextPayMe remains in Beta.   \u003C/p\u003E\n\n\u003Cp\u003EIn July 2006, the TextPayMe team started working for Amazon and, as of 2011, the site redirects to an Amazon\u0026#8217;s mobile payment website.  There was no press release related to this event but it\u0026#8217;s assumed the company was acquired. \u003C/p\u003E\n\n\u003Cp\u003ESending and receiving payments through TextPayMe is easy: simply write a text message to SMS@TextPayMe.com with \u0026#8220;pay amount phonenumber\u0026#8221; in the body (i.e. to send $5 to 123-456-7890, text \u0026#8220;pay 5 1234567890\u0026#8221;).  The service is secure as well, as each payment needs to be confirmed by a user-created PIN.  To fund your transactions, TextPayMe lets you add money directly from your bank account and now also lets you link your credit card as well.   Currently, the maximum amount that can be sent or received per month is $500.  \u003C/p\u003E\n\n\u003Cp\u003ETextPayMe\u0026#8217;s service is both useful and easy-to-use.  However, the company\u0026#8217;s future success is directly dependent on how well they can compete with other rivals such as \u003Ca href=\"http://www.crunchbase.com/company/KushCash\" title=\"KushCash\"\u003EKushCash\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/Obopay\" title=\"Obopay\"\u003EObopay\u003C/a\u003E, and the formidable \u003Ca href=\"http://www.crunchbase.com/product/paypal-mobile\" title=\"Paypal Mobile\"\u003EPaypal Mobile\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       121],
+      "assets/images/resized/0001/9258/19258v5-max-150x150.jpg"],
+     [[250,
+       201],
+      "assets/images/resized/0001/9258/19258v5-max-250x250.jpg"],
+     [[389,
+       314],
+      "assets/images/resized/0001/9258/19258v5-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "TextPayMe",
+    "permalink": "textpayme",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Gerald",
+      "last_name": "Yuen",
+      "permalink": "gerald-yuen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder and CEO",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Yuen",
+      "permalink": "philip-yuen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "CJ",
+      "last_name": "Huang",
+      "permalink": "cj-huang",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "KushCash",
+      "permalink": "kushcash",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0000/3937/3937v1-max-150x150.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0000/3937/3937v1-max-250x250.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0000/3937/3937v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "obopay",
+      "permalink": "obopay",
+      "image":
+       {"available_sizes":
+         [[[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-150x150.jpg"],
+          [[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-250x250.jpg"],
+          [[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PayPal",
+      "permalink": "paypal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3943/3943v8-max-150x150.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-250x250.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mpayy",
+      "permalink": "mpayy",
+      "image":
+       {"available_sizes":
+         [[[140,
+            45],
+           "assets/images/resized/0001/2289/12289v1-max-150x150.png"],
+          [[140,
+            45],
+           "assets/images/resized/0001/2289/12289v1-max-250x250.png"],
+          [[140,
+            45],
+           "assets/images/resized/0001/2289/12289v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "mBlox",
+      "permalink": "mblox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6866/16866v7-max-150x150.jpg"],
+          [[250,
+            109],
+           "assets/images/resized/0001/6866/16866v7-max-250x250.jpg"],
+          [[316,
+            138],
+           "assets/images/resized/0001/6866/16866v7-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "obopay",
+      "permalink": "obopay",
+      "image":
+       {"available_sizes":
+         [[[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-150x150.jpg"],
+          [[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-250x250.jpg"],
+          [[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2005,
+    "funded_month": 12,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": null,
+    "city": "Redmond",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.672229,
+    "longitude": -122.115633}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.seattlepi.nwsource.com/venture/archives/101538.asp",
+    "title": "Inside look at TextPayMe"}]}

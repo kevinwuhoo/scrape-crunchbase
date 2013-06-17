@@ -1,0 +1,92 @@
+{"name": "PaperCritic",
+ "permalink": "papercritic",
+ "crunchbase_url": "http://www.crunchbase.com/company/papercritic",
+ "homepage_url": "http://www.papercritic.com",
+ "blog_url": "http://webscio.wordpress.com/category/papercritic/",
+ "blog_feed_url": "http://webscio.wordpress.com/category/papercritic/feed",
+ "twitter_username": "PaperCritic",
+ "category_code": "education",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "academics, academic-publishing, altmetrics, peer-review, research, research-papers",
+ "alias_list": null,
+ "email_address": "papercritic@webscio.net",
+ "phone_number": "",
+ "description": "Open scientific review",
+ "created_at": "Thu Oct 06 12:27:39 UTC 2011",
+ "updated_at": "Wed Sep 05 05:38:47 UTC 2012",
+ "overview": "\u003Cp\u003EPaperCritic offers researchers a way of monitoring all types of feedback about their scientific work, as well as allowing everyone to easily review the work of others, in a fully open and transparent environment.\u003C/p\u003E\n\n\u003Cp\u003EApart from helping the scientific community, PaperCritic also helps you as a researcher or a science enthusiast organize your publication library even better. If you\u0026#8217;re using Mendeley (which you should!), you\u0026#8217;ve already embraced all the neat things it offers, such as tags, summaries and in-text notes. With the help of PaperCritic you can now also rate and review any publication in your library.\u003C/p\u003E\n\n\u003Cp\u003EPaperCritic is powered by the Mendeley API that provides all the publication details and connects your PaperCritic and Mendeley accounts. We strive to cooperate with the Mendeley API developers wherever possible in order to bring you the best experience of both these products!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0016/9121/169121v2-max-150x150.jpg"],
+     [[231,
+       66],
+      "assets/images/resized/0016/9121/169121v2-max-250x250.jpg"],
+     [[231,
+       66],
+      "assets/images/resized/0016/9121/169121v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "B.",
+      "permalink": "martin-b",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Z.",
+      "permalink": "paul-z",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Mendeley/PLoS API Binary Battle runners up",
+    "stoned_year": 2011,
+    "stoned_month": 11,
+    "stoned_day": 30,
+    "source_url": "http://www.mendeley.com/blog/design-research-tools/winners-of-the-first-binary-battle-apps-for-science-contest",
+    "source_text": null,
+    "source_description": "Winners of the first Binary Battle Apps for Science Contest",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "PaperCritic",
+      "permalink": "papercritic"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.mendeley.com/design-research-tools/winners-of-the-first-binary-battle-apps-for-science-contest/",
+    "title": "Winners of the first Binary Battle Apps for Science Contest"},
+   {"external_url": "http://chronicle.com/blogs/profhacker/how-to-get-started-with-papercritic-and-why-youd-want-to/38669",
+    "title": "How to Get Started with PaperCritic (and Why You\u2019d Want To)"}]}

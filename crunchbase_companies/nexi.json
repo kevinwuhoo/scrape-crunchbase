@@ -1,0 +1,131 @@
+{"name": "Nexi",
+ "permalink": "nexi",
+ "crunchbase_url": "http://www.crunchbase.com/company/nexi",
+ "homepage_url": "http://nexi.me/",
+ "blog_url": "http://nexi.me/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "nexi_me",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "saas, b2b, recruitment, referral-recruitment",
+ "alias_list": null,
+ "email_address": "hello@nexi.me",
+ "phone_number": "",
+ "description": "Referral Recruiting Platform",
+ "created_at": "Fri Aug 10 17:43:55 UTC 2012",
+ "updated_at": "Tue Jan 15 21:57:47 UTC 2013",
+ "overview": "\u003Cp\u003ENexi is an online platform that helps HR departments reach top talents through the social networks of their employees.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       67],
+      "assets/images/resized/0020/5497/205497v2-max-150x150.png"],
+     [[250,
+       112],
+      "assets/images/resized/0020/5497/205497v2-max-250x250.png"],
+     [[450,
+       202],
+      "assets/images/resized/0020/5497/205497v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Cristian",
+      "last_name": "Andreica",
+      "permalink": "cristian-andreica",
+      "image":
+       {"available_sizes":
+         [[[129,
+            150],
+           "assets/images/resized/0020/5496/205496v2-max-150x150.jpg"],
+          [[215,
+            250],
+           "assets/images/resized/0020/5496/205496v2-max-250x250.jpg"],
+          [[387,
+            450],
+           "assets/images/resized/0020/5496/205496v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ciprian",
+      "last_name": "Mardare",
+      "permalink": "ciprian-mardare",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac35k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Alexandre",
+         "last_name": "Almajeanu",
+         "permalink": "alexandre-almajeanu",
+         "image": null}}]},
+   {"round_code": "seed",
+    "source_url": "http://rockstart.com/accelerator/2012/03/26/nexi-me/",
+    "source_description": "Nexi.me accepted in Rockstart Accelerator",
+    "raised_amount": 15000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 3,
+    "funded_day": 26,
+    "investments":
+     [{"company":
+        {"name": "Rockstart Accelerator",
+         "permalink": "rockstart-acclerator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               37],
+              "assets/images/resized/0014/3838/143838v2-max-150x150.png"],
+             [[250,
+               63],
+              "assets/images/resized/0014/3838/143838v2-max-250x250.png"],
+             [[450,
+               113],
+              "assets/images/resized/0014/3838/143838v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"430\" height=\"242\" src=\"http://www.youtube.com/embed/jspplqe3aQI?rel=0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ENexi.me Demo Day @rockstartaccel\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"430\"  height=\"242\" src=\"http://www.youtube.com/embed/1Yy-5_ZNdVk?rel=0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ENexi.me Product Demo\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

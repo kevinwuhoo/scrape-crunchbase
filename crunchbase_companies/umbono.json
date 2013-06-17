@@ -1,0 +1,136 @@
+{"name": "Umbono",
+ "permalink": "umbono",
+ "crunchbase_url": "http://www.crunchbase.com/company/umbono",
+ "homepage_url": "http://www.google.co.za/intl/en/umbono/index.html",
+ "blog_url": "http://www.google.co.za/intl/en/umbono/news.html",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "google, umbono, startup, south-africa, africa, incubator, technology, business-development, seed-funding, mentor, mentor-program, venture-capital",
+ "alias_list": "Google-Umbono",
+ "email_address": "umbonoza@gmail.com",
+ "phone_number": "",
+ "description": "South African Startup Incubator",
+ "created_at": "Sat Apr 09 01:48:26 UTC 2011",
+ "updated_at": "Tue Apr 12 06:02:56 UTC 2011",
+ "overview": "\u003Cp\u003EUmbono is a startup seed fund, mentor program, and business incubator for African technology companies, founded by Google.\u003C/p\u003E\n\n\u003Cp\u003EIt offers $25k to $50k seed capital, so that your team can focus on developing your idea, free collaborative workspace and bandwidth in Cape Town.\u003C/p\u003E\n\n\u003Cp\u003EThe incubator also offers a full curriculum to help with business strategy and planning, and has a deep bench of mentors, including Googlers, VCs, and Angels to allow your startup to tap into business and product development expertise unlike any other.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       72],
+      "assets/images/resized/0012/9840/129840v1-max-150x150.png"],
+     [[250,
+       121],
+      "assets/images/resized/0012/9840/129840v1-max-250x250.png"],
+     [[320,
+       155],
+      "assets/images/resized/0012/9840/129840v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Mentor",
+    "person":
+     {"first_name": "Ahmad",
+      "last_name": "Hamzawi",
+      "permalink": "ahmad-hamzawi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0012/9841/129841v1-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0012/9841/129841v1-max-250x250.jpg"],
+          [[450,
+            298],
+           "assets/images/resized/0012/9841/129841v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "seed",
+      "source_url": "http://memeburn.com/2011/11/google-announces-umbono-winners/",
+      "source_description": "Memeburn",
+      "raised_amount": 25000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2011,
+      "funded_month": 10,
+      "funded_day": 1,
+      "company":
+       {"name": "LocalSort",
+        "permalink": "localsort",
+        "image":
+         {"available_sizes":
+           [[[150,
+              36],
+             "assets/images/resized/0016/3137/163137v2-max-150x150.png"],
+            [[250,
+              60],
+             "assets/images/resized/0016/3137/163137v2-max-250x250.png"],
+            [[450,
+              109],
+             "assets/images/resized/0016/3137/163137v2-max-450x450.png"]],
+          "attribution": null}}}},
+   {"funding_round":
+     {"round_code": "seed",
+      "source_url": "http://www.travelwires.com/wp/localsort-com-concierge/",
+      "source_description": "TravelWires",
+      "raised_amount": 25000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 1,
+      "funded_day": 1,
+      "company":
+       {"name": "LocalSort",
+        "permalink": "localsort",
+        "image":
+         {"available_sizes":
+           [[[150,
+              36],
+             "assets/images/resized/0016/3137/163137v2-max-150x150.png"],
+            [[250,
+              60],
+             "assets/images/resized/0016/3137/163137v2-max-250x250.png"],
+            [[450,
+              109],
+             "assets/images/resized/0016/3137/163137v2-max-450x450.png"]],
+          "attribution": null}}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Unit 201 Old Castle Brewery ",
+    "address2": "6 Beach Road, Woodstock 7429",
+    "zip_code": "8001",
+    "city": "Cape Town",
+    "state_code": null,
+    "country_code": "ZAF",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://bernardmoon.blogspot.com/2011/04/googles-south-africa-incubator-project.html",
+    "title": "Google's South Africa Incubator Project"}]}

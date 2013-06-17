@@ -1,0 +1,266 @@
+{"name": "Totspot",
+ "permalink": "totspot",
+ "crunchbase_url": "http://www.crunchbase.com/company/totspot",
+ "homepage_url": "http://www.totspot.com",
+ "blog_url": "http://blog.totspot.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/totspot/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "parent-journal, baby-book, scrapbooking, kids",
+ "alias_list": "",
+ "email_address": "hello@totspot.com",
+ "phone_number": "",
+ "description": "Parent Scrapbooking and Social network",
+ "created_at": "Sat Mar 01 10:29:15 UTC 2008",
+ "updated_at": "Fri Jan 04 21:50:10 UTC 2013",
+ "overview": "\u003Cp\u003ENew York based Totspot, founded in January 2008, is a place for parents to publish a page about their kids and share with family and friends. It\u0026#8217;s part online babybook, parent journal, and social network.\u003C/p\u003E\n\n\u003Cp\u003EEverything on TotSpot is structured to ensure easy data portability, both online and off, including a robust API and extensive printing options, which are currently under development.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       59],
+      "assets/images/resized/0001/4136/14136v1-max-150x150.png"],
+     [[250,
+       99],
+      "assets/images/resized/0001/4136/14136v1-max-250x250.png"],
+     [[450,
+       178],
+      "assets/images/resized/0001/4136/14136v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Totspot",
+    "permalink": "totspot",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Katz",
+      "permalink": "adam-katz",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Fred",
+      "last_name": "Oliveira",
+      "permalink": "fred-oliveira",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Broukhim",
+      "permalink": "michael-broukhim",
+      "image":
+       {"available_sizes":
+         [[[150,
+            104],
+           "assets/images/resized/0006/2166/62166v2-max-150x150.jpg"],
+          [[250,
+            173],
+           "assets/images/resized/0006/2166/62166v2-max-250x250.jpg"],
+          [[450,
+            313],
+           "assets/images/resized/0006/2166/62166v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BabyCenter",
+      "permalink": "babycenter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0000/0109/109v1-max-150x150.png"],
+          [[200,
+            67],
+           "assets/images/resized/0000/0109/109v1-max-250x250.png"],
+          [[200,
+            67],
+           "assets/images/resized/0000/0109/109v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Maya's Mom",
+      "permalink": "mayasmom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0000/0106/106v1-max-150x150.png"],
+          [[200,
+            47],
+           "assets/images/resized/0000/0106/106v1-max-250x250.png"],
+          [[200,
+            47],
+           "assets/images/resized/0000/0106/106v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Minti",
+      "permalink": "minti",
+      "image":
+       {"available_sizes":
+         [[[146,
+            77],
+           "assets/images/resized/0000/2977/2977v1-max-150x150.png"],
+          [[146,
+            77],
+           "assets/images/resized/0000/2977/2977v1-max-250x250.png"],
+          [[146,
+            77],
+           "assets/images/resized/0000/2977/2977v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BabySpot",
+      "permalink": "babyspot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0001/4331/14331v1-max-150x150.png"],
+          [[223,
+            42],
+           "assets/images/resized/0001/4331/14331v1-max-250x250.png"],
+          [[223,
+            42],
+           "assets/images/resized/0001/4331/14331v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bundlo",
+      "permalink": "bundlo",
+      "image":
+       {"available_sizes":
+         [[[135,
+            56],
+           "assets/images/resized/0001/4368/14368v1-max-150x150.png"],
+          [[135,
+            56],
+           "assets/images/resized/0001/4368/14368v1-max-250x250.png"],
+          [[135,
+            56],
+           "assets/images/resized/0001/4368/14368v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kidmondo",
+      "permalink": "kidmondo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0001/8224/18224v3-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0001/8224/18224v3-max-250x250.png"],
+          [[378,
+            75],
+           "assets/images/resized/0001/8224/18224v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Baveo",
+      "permalink": "baveo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0002/6953/26953v2-max-150x150.jpg"],
+          [[250,
+            117],
+           "assets/images/resized/0002/6953/26953v2-max-250x250.jpg"],
+          [[280,
+            132],
+           "assets/images/resized/0002/6953/26953v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Parentricity",
+      "permalink": "parentricity",
+      "image": null}},
+   {"competitor":
+     {"name": "Emmbook",
+      "permalink": "emmbook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0006/8515/68515v2-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0006/8515/68515v2-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0006/8515/68515v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Trinity Law Group ",
+      "permalink": "trinity-law-group-llc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            91],
+           "assets/images/resized/0001/4149/14149v1-max-150x150.png"],
+          [[200,
+            122],
+           "assets/images/resized/0001/4149/14149v1-max-250x250.png"],
+          [[200,
+            122],
+           "assets/images/resized/0001/4149/14149v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2010,
+   "acquired_month": 6,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "Charlie",
+     "permalink": "charlie",
+     "image":
+      {"available_sizes":
+        [[[150,
+           47],
+          "assets/images/resized/0010/2948/102948v2-max-150x150.jpg"],
+         [[250,
+           78],
+          "assets/images/resized/0010/2948/102948v2-max-250x250.jpg"],
+         [[450,
+           141],
+          "assets/images/resized/0010/2948/102948v2-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.757929,
+    "longitude": -73.985506}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

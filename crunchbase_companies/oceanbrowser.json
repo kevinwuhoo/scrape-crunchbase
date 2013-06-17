@@ -1,0 +1,97 @@
+{"name": "OceanBrowser",
+ "permalink": "oceanbrowser",
+ "crunchbase_url": "http://www.crunchbase.com/company/oceanbrowser",
+ "homepage_url": "http://oceanbrowser.com",
+ "blog_url": "http://www.oceanbrowser.com/hello-ob3/index.php/news/",
+ "blog_feed_url": "http://www.oceanbrowser.com/hello-ob3/index.php/news/rss",
+ "twitter_username": "ocnb3",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2004,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "elearning, cme, education, distance-education, sas",
+ "alias_list": null,
+ "email_address": "rodney@oceanbrowser.com",
+ "phone_number": "6434742102",
+ "description": "medical elearning",
+ "created_at": "Fri Mar 12 04:40:19 UTC 2010",
+ "updated_at": "Wed May 25 17:07:47 UTC 2011",
+ "overview": "\u003Cp\u003EOceanBrowser Ltd provides software and services for online medical and executive education. Since 2004, it has worked with leading universities and organizations in Australia, New Zealand and the Middle East, focusing on understanding the needs of, and providing solutions for, the high-end distance education market.\u003C/p\u003E\n\n\u003Cp\u003EOceanBrowser\u00e2\u20ac\u2122s flagship web application, OB3 (and which recently has won the 2010 Otago Business Excellence Awards, Research and Innovation Prize) will revolutionise how online content is delivered in postgraduate education, with an entirely new way to create, manage, and interact with online documents.\u003C/p\u003E\n\n\u003Cp\u003EFor a sneak preview, and to sign-up for the beta, go to http://oceanbrowser.com Update (May 2011) our new site is up!  This now includes information on OB3, news feed, and a preview video.  Check it out - and we\u0026#8217;d love to hear from you, sign-up on the site, or connect with us on: Facebook (http://on.fb.me/fUrn1U), Linked-in (http://linkd.in/eoeM6B), or Twitter \u00e2\u20ac\u0153ocnb3\u00e2\u20ac\u009d\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       147],
+      "assets/images/resized/0008/0060/80060v2-max-150x150.png"],
+     [[150,
+       147],
+      "assets/images/resized/0008/0060/80060v2-max-250x250.png"],
+     [[150,
+       147],
+      "assets/images/resized/0008/0060/80060v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "OB3",
+    "permalink": "ob3",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Rodney",
+      "last_name": "Tamblyn",
+      "permalink": "rodney-tamblyn",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0008/3150/83150v2-max-150x150.png"],
+          [[167,
+            250],
+           "assets/images/resized/0008/3150/83150v2-max-250x250.png"],
+          [[199,
+            297],
+           "assets/images/resized/0008/3150/83150v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "44 Melville St",
+    "address2": "",
+    "zip_code": "9016",
+    "city": "Dunedin",
+    "state_code": null,
+    "country_code": "NZL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.silverstripe.org/a-sapphire-framework-for-oceanbrowser/",
+    "title": "A Sapphire Framework for OB3"},
+   {"external_url": "http://www.silverstripe.org/a-sapphire-framework-for-oceanbrowser/",
+    "title": "A Sapphire Framework for OB3"},
+   {"external_url": "http://www.silverstripe.org/a-sapphire-framework-for-oceanbrowser/",
+    "title": "A Sapphire Framework for OB3"},
+   {"external_url": "http://sticknz.net/2011/03/01/learning-geared-for-the-web-age-oceanbrowser-sails-to-the-world/",
+    "title": "OB3 Learning Geared for the web age"}]}

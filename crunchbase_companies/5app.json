@@ -1,0 +1,93 @@
+{"name": "5app",
+ "permalink": "5app",
+ "crunchbase_url": "http://www.crunchbase.com/company/5app",
+ "homepage_url": "http://www.5app.co.uk",
+ "blog_url": "http://5app.co.uk/blog",
+ "blog_feed_url": "http://www.5app.co.uk/index.php/tools/blocks/problog_list/rss?cID=164",
+ "twitter_username": "5app",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise-apps, mobile-apps, reliable-data-communications, work-flow, geolocation, html5, javascript, css, meap",
+ "alias_list": null,
+ "email_address": "sales@5app.co.uk",
+ "phone_number": "+44-3333-445533",
+ "description": "mobile app development platform",
+ "created_at": "Tue Jul 17 15:48:58 UTC 2012",
+ "updated_at": "Wed Jul 18 00:06:23 UTC 2012",
+ "overview": "\u003Cp\u003E5app is a mobile application software toolkit vendor which provides an environment for the rapid application development of robust, real-time, enterprise-scale mobile business applications with built-in workflow, geolocation reporting and full data reliability. \u003C/p\u003E\n\n\u003Cp\u003E5app enables businesses to develop applications once only and then to deploy a single version across all types of smartphones and tablets (e.g. iOS, Android, BlackBerry, Windows and Symbian) thereby avoiding the need to develop native applications for each device.\u003C/p\u003E\n\n\u003Cp\u003EDevelopers use standard web-programming tools - HTML5, CSS and Javascript - and can readily connect their apps to any enterprise system using standard calls. Through the use of innovative real-time communications, data reliability and transactional integrity are guaranteed even when remote mobile devices are \u2018sleeping\u2019 or phone reception is intermittent.\u003C/p\u003E\n\n\u003Cp\u003E5app\u2019s unique \u2018engine\u2019 runs on any type of remote handset and removes the need for app store-style downloads of new or updated software, whilst ensuring that all users always have the latest version of software.  The 5app system manages the deployment of apps, ensuring that each end user only has the appropriate apps; additional security is provided through user authentication and optional encryption of communications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0020/1519/201519v2-max-150x150.jpg"],
+     [[250,
+       59],
+      "assets/images/resized/0020/1519/201519v2-max-250x250.jpg"],
+     [[450,
+       106],
+      "assets/images/resized/0020/1519/201519v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "King",
+      "permalink": "tim-king",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Sykes",
+      "permalink": "david-sykes",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Kemp House",
+    "address2": "152-160 City Road",
+    "zip_code": "EC1V 2NP",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null},
+   {"description": "",
+    "address1": "Dirac Crescent",
+    "address2": "Bristol \u0026 Bath Science Park",
+    "zip_code": "BS16 7FR",
+    "city": "Bristol",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

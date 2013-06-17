@@ -1,0 +1,129 @@
+{"name": "Tuneo",
+ "permalink": "tuneo",
+ "crunchbase_url": "http://www.crunchbase.com/company/tuneo",
+ "homepage_url": "http://tuneo.com",
+ "blog_url": "http://blog.tuneo.com",
+ "blog_feed_url": "http://blog.tuneo.com/feed/",
+ "twitter_username": "Tuneo",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "contact@tuneo.com",
+ "phone_number": "",
+ "description": "event scheduling organizing service",
+ "created_at": "Wed Apr 20 08:05:17 UTC 2011",
+ "updated_at": "Mon Sep 12 01:25:09 UTC 2011",
+ "overview": "\u003Cp\u003ETuneo is a service that helps you organize social activities with friends.\u003C/p\u003E\n\n\u003Cp\u003ETuneo has released its first product: Tuneo Events. Tuneo Events is a Facebook application that helps you to easily schedule events with friends. Find the most convenient date and time for all your friends with votes. It\u0026#8217;s especially useful for a get-together, a meeting, group events, etc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[148,
+       150],
+      "assets/images/resized/0013/1457/131457v2-max-150x150.png"],
+     [[246,
+       250],
+      "assets/images/resized/0013/1457/131457v2-max-250x250.png"],
+     [[306,
+       310],
+      "assets/images/resized/0013/1457/131457v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Fabrice",
+      "last_name": "Marguerie",
+      "permalink": "fabrice-marguerie",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dimas",
+      "last_name": "Azis",
+      "permalink": "dimas-azis",
+      "image":
+       {"available_sizes":
+         [[[113,
+            150],
+           "assets/images/resized/0013/1299/131299v2-max-150x150.jpg"],
+          [[140,
+            185],
+           "assets/images/resized/0013/1299/131299v2-max-250x250.jpg"],
+          [[140,
+            185],
+           "assets/images/resized/0013/1299/131299v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Doodle",
+      "permalink": "doodle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0002/3167/23167v4-max-150x150.png"],
+          [[170,
+            44],
+           "assets/images/resized/0002/3167/23167v4-max-250x250.png"],
+          [[170,
+            44],
+           "assets/images/resized/0002/3167/23167v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tungle.me",
+      "permalink": "tungle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0001/7376/17376v5-max-150x150.png"],
+          [[200,
+            57],
+           "assets/images/resized/0001/7376/17376v5-max-250x250.png"],
+          [[200,
+            57],
+           "assets/images/resized/0001/7376/17376v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Tuneo's product, Tuneo Events, reaches Beta 3.\r\nTuneo's API gets available. It allows websites to integrate Event Planning services.",
+    "stoned_year": 2011,
+    "stoned_month": 8,
+    "stoned_day": 23,
+    "source_url": "http://blog.tuneo.com/2011/08/23/tuneo-events-beta-3-adds-new-features-and-tuneo-events-planning-service-is-now-available-via-api/",
+    "source_text": null,
+    "source_description": "Tuneo Events Beta 3 adds new features and Tuneo Events Planning Service is now available via API!",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Tuneo",
+      "permalink": "tuneo"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,127 @@
+{"name": "Plannr",
+ "permalink": "plannr",
+ "crunchbase_url": "http://www.crunchbase.com/company/plannr",
+ "homepage_url": "http://www.useplannr.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Plannr",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Real-time planmaking",
+ "created_at": "Thu Aug 05 22:07:53 UTC 2010",
+ "updated_at": "Mon Oct 11 18:41:29 UTC 2010",
+ "overview": "\u003Cp\u003EPlannr is an online, email/mobile based plan-maker and event coordinator. \u003C/p\u003E\n\n\u003Cp\u003EWhen you invite someone to a plan via email, Plannr sends them one email on your behalf. The email contains all the details of the plan\u0026#8211; the time, location, and who else is coming.\nWhen you update a plan, the change is pushed to your friends via whatever contact settings they have set. This can include email, txting, or a push notification to the iPhone app.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[133,
+       60],
+      "assets/images/resized/0009/6248/96248v1-max-150x150.png"],
+     [[133,
+       60],
+      "assets/images/resized/0009/6248/96248v1-max-250x250.png"],
+     [[133,
+       60],
+      "assets/images/resized/0009/6248/96248v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Eidelson",
+      "permalink": "ben-eidelson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Prado",
+      "permalink": "jason-prado",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hot Potato",
+      "permalink": "hotpotato",
+      "image":
+       {"available_sizes":
+         [[[150,
+            120],
+           "assets/images/resized/0006/4779/64779v6-max-150x150.png"],
+          [[250,
+            201],
+           "assets/images/resized/0006/4779/64779v6-max-250x250.png"],
+          [[397,
+            320],
+           "assets/images/resized/0006/4779/64779v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2010/09/28/google-plannr/",
+   "source_description": "Google Buys Schedule Management Startup Plannr",
+   "acquired_year": 2010,
+   "acquired_month": 9,
+   "acquired_day": 28,
+   "acquiring_company":
+    {"name": "Google",
+     "permalink": "google",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+         [[250,
+           85],
+          "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+         [[450,
+           154],
+          "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"448\" height=\"272\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/B8qJPHBIxOs\u0026rel=0\u0026color1=0xb1b1b1\u0026color2=0xd0d0d0\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowScriptAccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/B8qJPHBIxOs\u0026rel=0\u0026color1=0xb1b1b1\u0026color2=0xd0d0d0\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"448\" height=\"272\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[78,
+        150],
+       "assets/images/resized/0009/6249/96249v1-max-150x150.png"],
+      [[130,
+        250],
+       "assets/images/resized/0009/6249/96249v1-max-250x250.png"],
+      [[234,
+        450],
+       "assets/images/resized/0009/6249/96249v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://itunes.apple.com/us/app/plannr/id365234736?mt=8",
+    "title": "iPhone App"},
+   {"external_url": "http://lifehacker.com/5606003/plannr-is-an-up+to+the+minute-group-schedule-manager",
+    "title": "Lifehacker Post"}]}

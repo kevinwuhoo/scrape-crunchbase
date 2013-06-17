@@ -1,0 +1,128 @@
+{"name": "Stellarray",
+ "permalink": "stellarray",
+ "crunchbase_url": "http://www.crunchbase.com/company/stellarray",
+ "homepage_url": "http://stellar-ray.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "x-ray, source, ct, medical-imaging, phase-contrast, blood, irradiation",
+ "alias_list": null,
+ "email_address": "eaton@stellar-micro.com",
+ "phone_number": "512-997-7781",
+ "description": "novel x-ray source and systems",
+ "created_at": "Thu Jun 06 23:00:16 UTC 2013",
+ "updated_at": "Fri Jun 07 17:31:00 UTC 2013",
+ "overview": "\u003Cp\u003EStellarray develops and manufactures flat panel radiation sources and systems using them to solve important problems in irradiation and imaging.  Our first major product is a self-contained blood irradiator (SCBI) which uses our proprietary flat panel x-ray sources (FPXS) to ensure the safety of transfusion blood supplies.  We are also developing smart, digitally addressable x-ray sources (DAXS), to enable CT systems with no moving parts for improved medical and industrial imaging.  We have government and strategic partner funding for the smart x-ray sources and imaging systems.  Our next FPXS irradiator products following SCBI will be larger units for sterilizing medical and other products.  \u003C/p\u003E\n\n\u003Cp\u003EIn our smart-source DAXS panels, small groups of cold cathodes are addressed electronically to make \u201cx-ray pixels\u201d and thereby enable computed tomography (CT) and other imaging systems with no moving parts, faster imaging speeds, small size and portability, lower costs and unique image programming capabilities.  Stellarray has been awarded several contracts from NIH and other agencies to develop DAXS-based stationary CT systems, for the next generation of CT.   A microfocus array version of DAXS is a potential breakthrough in the emerging field of phase contrast imaging, which can lower radiation doses by a factor of 100.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "President \u0026 CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Eaton",
+      "permalink": "mark-eaton",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Xintek",
+      "permalink": "xintek",
+      "image": null}},
+   {"competitor":
+     {"name": "Radius Health",
+      "permalink": "radius-health",
+      "image":
+       {"available_sizes":
+         [[[150,
+            73],
+           "assets/images/resized/0007/9893/79893v1-max-150x150.jpg"],
+          [[163,
+            80],
+           "assets/images/resized/0007/9893/79893v1-max-250x250.jpg"],
+          [[163,
+            80],
+           "assets/images/resized/0007/9893/79893v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rad Source",
+      "permalink": "rad-source",
+      "image": null}}],
+ "providerships":
+  [{"title": "legal",
+    "is_past": false,
+    "provider":
+     {"name": "Hajjar Sutherland Peters \u0026 Washmon, LLP",
+      "permalink": "hajjar-sutherland-peters-washmon-llp",
+      "image": null}}],
+ "total_money_raised": "$750k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 750000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 7,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Emerging Technology Fund",
+         "permalink": "emerging-technology-fund",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "9210 Cameron Road",
+    "address2": "Suite 300",
+    "zip_code": "78754",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.349864,
+    "longitude": -97.677025}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0027/2483/272483v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0027/2483/272483v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0027/2483/272483v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0027/2484/272484v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0027/2484/272484v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0027/2484/272484v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

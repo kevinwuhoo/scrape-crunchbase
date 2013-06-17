@@ -1,0 +1,134 @@
+{"name": "Jaxified",
+ "permalink": "jaxified",
+ "crunchbase_url": "http://www.crunchbase.com/company/jaxified",
+ "homepage_url": "http://www.jaxified.com/",
+ "blog_url": "http://blog.jaxified.com/",
+ "blog_feed_url": "http://blog.jaxified.com/feed/",
+ "twitter_username": "jaxified",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 26,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "blogging, social-media, analytics",
+ "alias_list": null,
+ "email_address": "hello@jaxified.com",
+ "phone_number": "",
+ "description": "Real-time social analytics for blogs",
+ "created_at": "Mon Mar 07 04:53:37 UTC 2011",
+ "updated_at": "Wed Apr 18 04:02:55 UTC 2012",
+ "overview": "\u003Cp\u003EJaxified helps bloggers measure the social reach of your their and blogs in their industry to find breaking stories and key influencers that can help them write better content and build stronger connections.\u003C/p\u003E\n\n\u003Cp\u003EIn real time, we can:\u003C/p\u003E\n\n\u003Cpre\u003E\u003Ccode\u003E* Show you the most popular posts on your blog and others.\n* Show you content that is going viral.\n* Help you find the key influencers who make it happen.\n\u003C/code\u003E\u003C/pre\u003E\n\n\u003Cp\u003EWith this information you can predict trends, write better content, target those influencers, and compare your performance to industry leaders to push your blog forward.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0012/5264/125264v2-max-150x150.jpg"],
+     [[250,
+       61],
+      "assets/images/resized/0012/5264/125264v2-max-250x250.jpg"],
+     [[450,
+       110],
+      "assets/images/resized/0012/5264/125264v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Terry",
+      "last_name": "Smith",
+      "permalink": "terry-smith-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "System Architect",
+    "person":
+     {"first_name": "Lee",
+      "last_name": "Newton",
+      "permalink": "lee-newton-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "Taiabjee",
+      "permalink": "joe-taiabjee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            138],
+           "assets/images/resized/0002/4198/24198v2-max-150x150.jpg"],
+          [[250,
+            230],
+           "assets/images/resized/0002/4198/24198v2-max-250x250.jpg"],
+          [[450,
+            414],
+           "assets/images/resized/0002/4198/24198v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJoe Taiabjee\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PostRank",
+      "permalink": "aiderss",
+      "image":
+       {"available_sizes":
+         [[[90,
+            90],
+           "assets/images/resized/0001/4392/14392v3-max-150x150.png"],
+          [[90,
+            90],
+           "assets/images/resized/0001/4392/14392v3-max-250x250.png"],
+          [[90,
+            90],
+           "assets/images/resized/0001/4392/14392v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BackType",
+      "permalink": "backtype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/3718/23718v1-max-150x150.jpg"],
+          [[250,
+            76],
+           "assets/images/resized/0002/3718/23718v1-max-250x250.jpg"],
+          [[255,
+            78],
+           "assets/images/resized/0002/3718/23718v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        128],
+       "assets/images/resized/0012/5263/125263v2-max-150x150.jpg"],
+      [[250,
+        213],
+       "assets/images/resized/0012/5263/125263v2-max-250x250.jpg"],
+      [[450,
+        384],
+       "assets/images/resized/0012/5263/125263v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2011/03/12/jaxified-real-time-social-analytics-for-your-blogs/",
+    "title": "StartupTunes"}]}

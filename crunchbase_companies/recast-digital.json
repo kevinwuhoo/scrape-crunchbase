@@ -1,0 +1,180 @@
+{"name": "Recast Digital",
+ "permalink": "recast-digital",
+ "crunchbase_url": "http://www.crunchbase.com/company/recast-digital",
+ "homepage_url": "http://www.recastdigital.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "advertising",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-video, high-definition-video, video-streaming, web-video, flash-streaming, flash-development, interactive-video, 720p-video, 1080p-video, video-over-broadband, video-on-demand, pay-per-view, video-advertising",
+ "alias_list": null,
+ "email_address": "info@recastdigital.com",
+ "phone_number": "0044 (0)207 101 1988",
+ "description": null,
+ "created_at": "Fri Oct 31 18:16:32 UTC 2008",
+ "updated_at": "Sat Nov 08 14:35:21 UTC 2008",
+ "overview": "\u003Cp\u003ERecast Digital is a provider of High Definition (HD) Internet video streaming services.  \u003C/p\u003E\n\n\u003Cp\u003ERecast Digital combines advanced Flash Player development with vastly scalable video delivery mechanisms to offer content owners, media businesses, and online advertisers, a highly effective method of serving ultra-high quality interactive on-demand - and live - video to large audiences.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       18],
+      "assets/images/resized/0002/7654/27654v2-max-150x150.jpg"],
+     [[250,
+       31],
+      "assets/images/resized/0002/7654/27654v2-max-250x250.jpg"],
+     [[450,
+       56],
+      "assets/images/resized/0002/7654/27654v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "On-Demand HD Video Streaming",
+    "permalink": "on-demand-hd-video-streaming",
+    "image": null},
+   {"name": "Live HD Video Streaming",
+    "permalink": "live-hd-video-streaming",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Vusion",
+      "permalink": "vusion",
+      "image":
+       {"available_sizes":
+         [[[148,
+            38],
+           "assets/images/resized/0002/0322/20322v1-max-150x150.jpg"],
+          [[148,
+            38],
+           "assets/images/resized/0002/0322/20322v1-max-250x250.jpg"],
+          [[148,
+            38],
+           "assets/images/resized/0002/0322/20322v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GridNetworks",
+      "permalink": "gridnetworks",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0001/5128/15128v6-max-150x150.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0001/5128/15128v6-max-250x250.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0001/5128/15128v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Swarmcast",
+      "permalink": "swarmcast",
+      "image":
+       {"available_sizes":
+         [[[132,
+            51],
+           "assets/images/resized/0001/3277/13277v1-max-150x150.png"],
+          [[132,
+            51],
+           "assets/images/resized/0001/3277/13277v1-max-250x250.png"],
+          [[132,
+            51],
+           "assets/images/resized/0001/3277/13277v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Move Networks",
+      "permalink": "movenetworks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0001/1034/11034v1-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0001/1034/11034v1-max-250x250.png"],
+          [[295,
+            71],
+           "assets/images/resized/0001/1034/11034v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vividas",
+      "permalink": "vividas",
+      "image":
+       {"available_sizes":
+         [[[150,
+            86],
+           "assets/images/resized/0006/5927/65927v1-max-150x150.jpg"],
+          [[250,
+            144],
+           "assets/images/resized/0006/5927/65927v1-max-250x250.jpg"],
+          [[354,
+            205],
+           "assets/images/resized/0006/5927/65927v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EdgeStream",
+      "permalink": "edgestream",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0011/3770/113770v1-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0011/3770/113770v1-max-250x250.jpg"],
+          [[270,
+            56],
+           "assets/images/resized/0011/3770/113770v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Public Relations",
+    "is_past": false,
+    "provider":
+     {"name": "The SPA Way",
+      "permalink": "the-spa-way",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "50 Braodway",
+    "address2": "",
+    "zip_code": "SW1H 0RG",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.499671,
+    "longitude": -0.132894}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0002/7653/27653v2-max-150x150.jpg"],
+      [[250,
+        156],
+       "assets/images/resized/0002/7653/27653v2-max-250x250.jpg"],
+      [[450,
+        281],
+       "assets/images/resized/0002/7653/27653v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

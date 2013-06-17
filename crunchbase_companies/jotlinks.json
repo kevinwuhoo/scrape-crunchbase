@@ -1,0 +1,210 @@
+{"name": "JotLinks",
+ "permalink": "jotlinks",
+ "crunchbase_url": "http://www.crunchbase.com/company/jotlinks",
+ "homepage_url": "http://www.jotlinks.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "jotlinks",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-bookmarking, social-media, social-discovery",
+ "alias_list": null,
+ "email_address": "info@jotlinks.com",
+ "phone_number": "",
+ "description": "Social discovery and bookmarking.",
+ "created_at": "Mon Jan 31 22:43:16 UTC 2011",
+ "updated_at": "Mon Jul 25 18:16:28 UTC 2011",
+ "overview": "\u003Cp\u003EJotLinks is a user driven social bookmarking and discovery engine. Everything on JotLinks is submitted by the community and is rated, organized and categorized based on how many \u0026#8220;Likes\u0026#8221; each bookmark has.  Users can also find new content quickly and easily using the \u0026#8220;View Random Bookmark\u0026#8221; feature.  Everything a user likes is stored in their \u0026#8220;My Likes\u0026#8221; section making their likes and interests online easily accessible from around the globe and at any given time.     \u003C/p\u003E\n\n\u003Cp\u003ETaylor Jay, a 17 year old high school student, came up with the idea of JotLinks in the fall of 2010 and worked throughout the year to perfect and finalize the project.  He then found a programmer through Guru and paid him $25/hour to develop the idea. In January of 2011, Taylor launched his creation to the world through online media and various social networks.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0011/9780/119780v2-max-150x150.png"],
+     [[200,
+       50],
+      "assets/images/resized/0011/9780/119780v2-max-250x250.png"],
+     [[200,
+       50],
+      "assets/images/resized/0011/9780/119780v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Taylor",
+      "last_name": "Jay",
+      "permalink": "taylor-jay-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0024/9665/249665v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0024/9665/249665v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0024/9665/249665v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Reddit",
+      "permalink": "reddit",
+      "image":
+       {"available_sizes":
+         [[[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-150x150.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-250x250.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mixx",
+      "permalink": "mixx",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0000/0949/949v1-max-150x150.png"],
+          [[225,
+            105],
+           "assets/images/resized/0000/0949/949v1-max-250x250.png"],
+          [[225,
+            105],
+           "assets/images/resized/0000/0949/949v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pligg LLC",
+      "permalink": "pligg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/1619/11619v4-max-150x150.png"],
+          [[232,
+            80],
+           "assets/images/resized/0001/1619/11619v4-max-250x250.png"],
+          [[232,
+            80],
+           "assets/images/resized/0001/1619/11619v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "StumbleUpon",
+      "permalink": "stumbleupon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0004/1614/41614v6-max-150x150.png"],
+          [[250,
+            64],
+           "assets/images/resized/0004/1614/41614v6-max-250x250.png"],
+          [[302,
+            78],
+           "assets/images/resized/0004/1614/41614v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Media Temple",
+      "permalink": "media-temple-2",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0011/9779/119779v2-max-150x150.png"],
+      [[250,
+        141],
+       "assets/images/resized/0011/9779/119779v2-max-250x250.png"],
+      [[450,
+        254],
+       "assets/images/resized/0011/9779/119779v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0012/8018/128018v2-max-150x150.jpg"],
+      [[250,
+        143],
+       "assets/images/resized/0012/8018/128018v2-max-250x250.jpg"],
+      [[450,
+        258],
+       "assets/images/resized/0012/8018/128018v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

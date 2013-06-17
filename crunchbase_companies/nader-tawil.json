@@ -1,0 +1,87 @@
+{"name": "Nader Tawil",
+ "permalink": "nader-tawil",
+ "crunchbase_url": "http://www.crunchbase.com/company/nader-tawil",
+ "homepage_url": "http://www.knowledgeblocks.eu",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "business-intelligence, data-analysis, parallel-sets-analysis, sql, reports, adhoc-analysis, knowledge-blocks",
+ "alias_list": null,
+ "email_address": "office@knowledgeblocks.eu",
+ "phone_number": "",
+ "description": "Data analysis tool",
+ "created_at": "Mon Apr 12 11:36:07 UTC 2010",
+ "updated_at": "Mon Apr 19 18:13:50 UTC 2010",
+ "overview": "\u003Cp\u003ENader Tawil developed Knowledge blocks, a new type of data analysis software that is designed for non-technical business professionals. The intuitive system helps users create amazing reports, with complex nested filters, without SQL knowledge. The system provides 3 basic building blocks (Filter, Logical \u0026amp; Result). A drag and drop interface allows combining these blocks to reports.\u003C/p\u003E\n\n\u003Cp\u003EVisual presentation of queries:\nFilter blocks define filter criteria on 1 database column. Logical blocks are used to combine 2 or more blocks to create more complex filters. The innovative presentation of SQL queries ensures that any user understands the filter criteria set. The color coding assigned to filter blocks is visible throughout the entire document, allowing the user to easily identify which filters are active on result blocks.\u003C/p\u003E\n\n\u003Cp\u003EResult blocks are used to present query results in different formats: \n1.Summary result block: displays 1 or more aggregations based on database columns combined with text.\n2.Detail result block: displays results, with or without aggregations, in tabular form.\n3.Parallel sets block: used to visualize and interactively explore categorical data.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[133,
+       150],
+      "assets/images/resized/0008/3466/83466v2-max-150x150.jpg"],
+     [[222,
+       250],
+      "assets/images/resized/0008/3466/83466v2-max-250x250.jpg"],
+     [[400,
+       450],
+      "assets/images/resized/0008/3466/83466v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Knowledge blocks shortlisted for \"Microsoft Austria Innovation Award 2010\"",
+    "stoned_year": 2010,
+    "stoned_month": 4,
+    "stoned_day": 15,
+    "source_url": "http://www.microsoft.com/austria/innovation/award/default.aspx",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Nader Tawil",
+      "permalink": "nader-tawil"}}],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"450\" height=\"350\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/-_wekGzvWto\u0026hl=en_US\u0026fs=1\u0026\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/-_wekGzvWto\u0026hl=en_US\u0026fs=1\u0026\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"450\" height=\"350\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        90],
+       "assets/images/resized/0008/3465/83465v2-max-150x150.jpg"],
+      [[250,
+        150],
+       "assets/images/resized/0008/3465/83465v2-max-250x250.jpg"],
+      [[450,
+        270],
+       "assets/images/resized/0008/3465/83465v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

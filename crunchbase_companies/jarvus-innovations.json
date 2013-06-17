@@ -1,0 +1,112 @@
+{"name": "Jarvus Innovations",
+ "permalink": "jarvus-innovations",
+ "crunchbase_url": "http://www.crunchbase.com/company/jarvus-innovations",
+ "homepage_url": "http://jarv.us",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "wearejarvus",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web, development, engineering, php, html, css, html5, javascript, extjs, sencha, sencha-touch, mobile",
+ "alias_list": null,
+ "email_address": "hello@jarv.us",
+ "phone_number": "",
+ "description": "Web software engineering firm",
+ "created_at": "Tue Dec 04 18:41:24 UTC 2012",
+ "updated_at": "Wed Dec 12 08:08:28 UTC 2012",
+ "overview": "\u003Cp\u003EJarvus is a web software development firm in Philadelphia, PA, offering its engineering services to medium and large businesses, as well as maintaining in-house software-as-a-service products.\u003C/p\u003E\n\n\u003Cp\u003EIn addition to its own open-source PHP development platform, Emergence, Jarvus specializes in Sencha\u2019s ExtJS and Sencha Touch Javascript frameworks.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0022/3841/223841v2-max-150x150.png"],
+     [[250,
+       72],
+      "assets/images/resized/0022/3841/223841v2-max-250x250.png"],
+     [[450,
+       131],
+      "assets/images/resized/0022/3841/223841v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder, CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Fazio",
+      "permalink": "john-fazio-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, CTO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Alfano",
+      "permalink": "chris-alfano",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Modus Create,Inc.",
+      "permalink": "modus-create-inc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0022/8892/228892v2-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0022/8892/228892v2-max-250x250.png"],
+          [[300,
+            64],
+           "assets/images/resized/0022/8892/228892v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Baer Crossey",
+      "permalink": "baer-crossey",
+      "image": null}},
+   {"title": "Accounting",
+    "is_past": false,
+    "provider":
+     {"name": "Maguire Hegarty",
+      "permalink": "maguire-hegarty",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Devnuts",
+    "address1": "908A N 3rd St",
+    "address2": "",
+    "zip_code": "19123",
+    "city": "Philadelphia",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": 39.965352,
+    "longitude": -75.1425431}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://technicallyphilly.com/2011/08/26/jarvus-innovations-northern-liberties-web-development-firm-grows-up",
+    "title": "Jarvus Innovations: Northern Liberties web development firm grows up"},
+   {"external_url": "http://technicallyphilly.com/2010/10/13/jarvus-northern-liberties-development-firm-cofounded-by-drexel-dropout-former-hacker",
+    "title": "Jarvus: dev firm co-founded by 22-year-old Drexel dropout, former hacker, whiz kid"}]}

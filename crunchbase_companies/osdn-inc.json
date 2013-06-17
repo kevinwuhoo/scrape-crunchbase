@@ -1,0 +1,86 @@
+{"name": "OSDN Inc.",
+ "permalink": "osdn-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/osdn-inc",
+ "homepage_url": "http://osdn.jp/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 16,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Jan 09 06:47:46 UTC 2009",
+ "updated_at": "Sat Jan 17 14:37:21 UTC 2009",
+ "overview": "\u003Cp\u003EOSDN Inc. is Japan-based web services company operationg Open Source Development Network, Slashdot Japan and SorceForge.JP.\u003C/p\u003E\n\n\u003Cp\u003EOSDN is spin-off from VA Linux Systems Japan K.K.. a subsidiary of SourceForge, Inc. and Sumisho Computer Systems Corp.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0003/3611/33611v1-max-150x150.png"],
+     [[200,
+       55],
+      "assets/images/resized/0003/3611/33611v1-max-250x250.png"],
+     [[200,
+       55],
+      "assets/images/resized/0003/3611/33611v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Open Source Development Network",
+    "permalink": "open-source-development-network",
+    "image": null},
+   {"name": "Slashdot Japan",
+    "permalink": "slashdot-japan",
+    "image": null},
+   {"name": "SourceForge.JP",
+    "permalink": "sourceforge-jp",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Shuji",
+      "last_name": "Sado",
+      "permalink": "shuji-sado",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Ebisu Business Tower 13F, 1-19-19 Ebisu, Shibuya-ku, Tokyo",
+    "address2": "",
+    "zip_code": "1500013",
+    "city": "Tokyo",
+    "state_code": null,
+    "country_code": "JPN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://osdn.jp/about.shtml",
+    "title": "About OSDN (Japanese)"}]}

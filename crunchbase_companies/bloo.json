@@ -1,0 +1,89 @@
+{"name": "Bloo",
+ "permalink": "bloo",
+ "crunchbase_url": "http://www.crunchbase.com/company/bloo",
+ "homepage_url": "http://www.bloo.se",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "lbs, mobile-web-service, flirt, blooflirt, proximity-dating, bloomingle, location-based",
+ "alias_list": null,
+ "email_address": "info@bloo.se",
+ "phone_number": "",
+ "description": "Location based web services",
+ "created_at": "Mon May 04 12:13:47 UTC 2009",
+ "updated_at": "Thu May 07 16:00:30 UTC 2009",
+ "overview": "\u003Cp\u003EEnabling proximity communication between mobile users\u003C/p\u003E\n\n\u003Cp\u003EBloo AB is a swedish tech company recently started up in Stockholm and is operating under the umbrella of STING (Stockholm Innovation \u0026amp; Growth).\u003C/p\u003E\n\n\u003Cp\u003EBloo develops a platform with a new positioning method which enables communication between mobile clients that are geographically close to each other. Neither GPS, Wifi nor GSM triangulation is required; therefore the client application can run on almost all available mobile phone models.\u003C/p\u003E\n\n\u003Cp\u003EThe unique positioning method is simpler than GSP and smarter than Bluetooth! Bloo has a pending patent application.\u003C/p\u003E\n\n\u003Cp\u003EBloo also develops several mobile applications upon their lightweight positioning platform, first out is BlooFlirt.\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003E\u003Cp\u003EBlooFlirt\nBlooFlirt is the best mobile flirting application in the world!\nFlirt spontaneously with geographically nearby interesting people via your mobile phone to ease the social ice-breaking.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EBlooMingle\nEnables automatic business card exchange with mobile phones between members that are within eye sight, without requiring any mobile phone numbers!\u003C/p\u003E\u003C/li\u003E\n\u003C/ol\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0004/3131/43131v2-max-150x150.jpg"],
+     [[250,
+       81],
+      "assets/images/resized/0004/3131/43131v2-max-250x250.jpg"],
+     [[450,
+       146],
+      "assets/images/resized/0004/3131/43131v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "BlooFlirt",
+    "permalink": "blooflirt",
+    "image": null},
+   {"name": "BlooMingle",
+    "permalink": "bloomingle",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Dennis",
+      "last_name": "Korkchi",
+      "permalink": "dennis-korkchi",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder ",
+    "person":
+     {"first_name": "Tommy",
+      "last_name": "Jonsson",
+      "permalink": "tommy-jonsson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Teknikringen 33",
+    "address2": "",
+    "zip_code": "",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": 59.3494046,
+    "longitude": 18.073094}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

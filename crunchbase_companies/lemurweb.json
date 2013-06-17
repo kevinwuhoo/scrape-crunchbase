@@ -1,0 +1,147 @@
+{"name": "LemurWeb",
+ "permalink": "lemurweb",
+ "crunchbase_url": "http://www.crunchbase.com/company/lemurweb",
+ "homepage_url": "http://www.LemurWeb.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "LemurWeb",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "collection, data-management, collaborate, curate, data, information, hobby, website",
+ "alias_list": null,
+ "email_address": "support@lemurweb.com",
+ "phone_number": "650-776-7028",
+ "description": "Collect data about anything!",
+ "created_at": "Thu May 30 19:38:13 UTC 2013",
+ "updated_at": "Mon Jun 03 23:54:50 UTC 2013",
+ "overview": "\u003Cp\u003ELemurWeb allows users to collect, manage, share, and discover relevant electronic information about specific topics.\u003C/p\u003E\n\n\u003Cp\u003EWhat we found is that most people have multiple collections of information, including local files on a pc, files in the cloud on Dropbox and other providers, notes and web pages clipped to Evernote, images on Pinterest, and a plethora of bookmarks in across various browsers.  Needless to say, this is not very efficient and locating something is often an exercise in frustration. \u003C/p\u003E\n\n\u003Cp\u003ELemurWeb allows individuals to create collections of web pages, documents, images, videos, audio, and even entire websites in the cloud.  Most importantly, users can link similar collections from other users to their own collections.  We believe that while only some people are motivated to collect and curate large collections, everyone would like to have the benefits without the investment in time and effort.  With LemurWeb, that\u2019s exactly what you get.  \u003C/p\u003E\n\n\u003Cp\u003EWhat differentiates LemurWeb is how we find and present other similar collections.  Our secret sauce starts with how we solve the \u0026#8220;Apple App Store dilemma\u0026#8221; (ie how do you find anything in a sea of options.  We run a two stage, real time ranking to show you collections that are both similar and high quality.  Note that any collections you add (ie child collections) are fully searchable from your own parent collection and become a seamless addition.\u003C/p\u003E\n\n\u003Cp\u003EBeing able to link and leverage other people\u0026#8217;s curated collections represents an exponential increase in relevant content with minimal effort.  Not only do you have complete access to the content you curate, but also to the content they curate, and so on down the tree as far as you care to go.  As linked collections add new content, this makes for a compelling activity stream for users to browse.  Think of it like a simpler, easy to use Evernote with Facebook-like benefits from linking similar interests rather than people.\u003C/p\u003E\n\n\u003Cp\u003ELastly, if you can\u0026#8217;t find what you\u0026#8217;re looking for inside your collection, we allow you to search the contents of websites you\u0026#8217;ve added to your collection - essentially a white list of sites to search.  If you want to further broaden your search, we use the contents of your collection to create a custom search engine across the entire internet that filters and ranks results through Google based on the contents of your sphere.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Tech Guy",
+    "person":
+     {"first_name": "Carl",
+      "last_name": "Schroeder",
+      "permalink": "carl-schroeder",
+      "image": null}},
+   {"is_past": false,
+    "title": "Operations Guy",
+    "person":
+     {"first_name": "Ken",
+      "last_name": "McConnell",
+      "permalink": "ken-mcconnell",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Clipboard",
+      "permalink": "clipboard",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0016/0831/160831v3-max-150x150.jpg"],
+          [[250,
+            69],
+           "assets/images/resized/0016/0831/160831v3-max-250x250.jpg"],
+          [[299,
+            83],
+           "assets/images/resized/0016/0831/160831v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kippt",
+      "permalink": "kippt",
+      "image":
+       {"available_sizes":
+         [[[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-150x150.png"],
+          [[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-250x250.png"],
+          [[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dragdis",
+      "permalink": "dragdis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/0130/260130v2-max-150x150.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0026/0130/260130v2-max-250x250.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0026/0130/260130v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Moxtra",
+      "permalink": "moxtra",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0023/2378/232378v1-max-150x150.png"],
+          [[223,
+            62],
+           "assets/images/resized/0023/2378/232378v1-max-250x250.png"],
+          [[223,
+            62],
+           "assets/images/resized/0023/2378/232378v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pinterest",
+      "permalink": "pinterest",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0017/4502/174502v6-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0017/4502/174502v6-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0017/4502/174502v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "2933 Bunker Hill",
+    "address2": "Suite 100",
+    "zip_code": "95054",
+    "city": "Santa Clara",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.4069445,
+    "longitude": -121.9797628}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

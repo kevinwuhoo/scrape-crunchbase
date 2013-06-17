@@ -1,0 +1,132 @@
+{"name": "MouseTrace",
+ "permalink": "mousetrace",
+ "crunchbase_url": "http://www.crunchbase.com/company/mousetrace",
+ "homepage_url": "http://mousetrace.com",
+ "blog_url": "http://blog.mousetrace.com",
+ "blog_feed_url": "",
+ "twitter_username": "MouseTrace",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-stats, web-analytics, website-reports, visit-tracking, eye-tracking, stats",
+ "alias_list": null,
+ "email_address": "support@mousetrace.com",
+ "phone_number": "441536201890",
+ "description": "Real insight into website visitors",
+ "created_at": "Mon Aug 23 19:51:58 UTC 2010",
+ "updated_at": "Tue Aug 24 19:53:14 UTC 2010",
+ "overview": "\u003Cp\u003EWatch how your website visitors actually use your website, in real-time replays to help you optimize and improve your website or blog.  Its just like sitting next to your site visitors, watching every action as they navigate through your website.\u003C/p\u003E\n\n\u003Cp\u003ENo more guessing why your site visits aren\u0026#8217;t  converting into sales, or why your blog readers are not engaging.  Find out exactly how people use your sites by adding 1 simple line of code to your HTML.\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cp\u003EWatch replays showing exactly what your website visitors are doing.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003ESee every click, mouse movement, page scroll actions and how they move through your website.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EOptimize your site, blog, landing pages and checkout process.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EEasy to use, just add 1 line of HTML to your website.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EInstant reports - no waiting for the information.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EAlso records visits from iPhone users, including replaying pinch-and-zoom and orientation change actions.\u003C/p\u003E\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EMouseTrace also keeps a full record of the page as seen by every visitor\u0026#8230; so if your page content regularly changes or you show custom content to different types of users - you will also be able to see the page exactly as the visitor did, at the time of their visit.\u003C/p\u003E\n\n\u003Cp\u003EThe iPhone is one of the fatest growing devices being used to access websites and blogs. Your website may not work very well on an iPhone or be difficult to navigate, find out by using our unique iPhone recording technology.\u003C/p\u003E\n\n\u003Cp\u003EFor iPhone users we record every activity including:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cp\u003EPage scrolls\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EPage Zooms - The visitor enlarging or decreasing the size of your web pages\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EGestures - The visitor clicking or pressing one or more fingers onto areas of your website\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EDevice Rotation - The visitor rotating their iPhone to alter how your website looks\u003C/p\u003E\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003ETime is crucial when it comes to optimizing your website or blog, so we give you instant access to your visitor reports. No waiting around, as soon as someone visitors your website you will be able to start watching how they navigate and use your site!  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0009/9017/99017v2-max-150x150.png"],
+     [[250,
+       85],
+      "assets/images/resized/0009/9017/99017v2-max-250x250.png"],
+     [[450,
+       154],
+      "assets/images/resized/0009/9017/99017v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "MD",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Field",
+      "permalink": "dan-field",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ClickTale",
+      "permalink": "clicktale",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0000/2521/2521v3-max-150x150.jpg"],
+          [[250,
+            54],
+           "assets/images/resized/0000/2521/2521v3-max-250x250.jpg"],
+          [[250,
+            54],
+           "assets/images/resized/0000/2521/2521v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Crazy Egg",
+      "permalink": "crazyegg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0002/1107/21107v1-max-150x150.png"],
+          [[250,
+            87],
+           "assets/images/resized/0002/1107/21107v1-max-250x250.png"],
+          [[260,
+            91],
+           "assets/images/resized/0002/1107/21107v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "EC2 \u0026 S3",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "1st Floor",
+    "address2": "7 The Jamb",
+    "zip_code": "NN17 1AY",
+    "city": "Corby",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        118],
+       "assets/images/resized/0009/9016/99016v2-max-150x150.png"],
+      [[250,
+        197],
+       "assets/images/resized/0009/9016/99016v2-max-250x250.png"],
+      [[450,
+        356],
+       "assets/images/resized/0009/9016/99016v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

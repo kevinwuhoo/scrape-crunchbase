@@ -1,0 +1,109 @@
+{"name": "SignalFuse",
+ "permalink": "signalfuse",
+ "crunchbase_url": "http://www.crunchbase.com/company/signalfuse",
+ "homepage_url": "http://signalfuse.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@signalfuse.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sat Apr 06 03:55:26 UTC 2013",
+ "updated_at": "Mon May 13 11:47:25 UTC 2013",
+ "overview": "\u003Cp\u003EWe are a stealth-mode company led by former Facebook and VMware executives that has raised $8M in venture financing from Andreessen Horowitz. We are hiring world-class engineers who want to work on hard problems with smart peers and build software that will be used by millions of people.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0024/9001/249001v1-max-150x150.jpg"],
+     [[250,
+       66],
+      "assets/images/resized/0024/9001/249001v1-max-250x250.jpg"],
+     [[450,
+       120],
+      "assets/images/resized/0024/9001/249001v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Karthik",
+      "last_name": "Rau",
+      "permalink": "karthik-rau",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Phillip",
+      "last_name": "Liu",
+      "permalink": "phillip-liu",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$8.5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1573467/000157346713000002/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC Form D",
+    "raised_amount": 8500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 4,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Andreessen Horowitz",
+         "permalink": "andreessen-horowitz",
+         "image":
+          {"available_sizes":
+            [[[150,
+               51],
+              "assets/images/resized/0006/5679/65679v3-max-150x150.png"],
+             [[250,
+               85],
+              "assets/images/resized/0006/5679/65679v3-max-250x250.png"],
+             [[316,
+               108],
+              "assets/images/resized/0006/5679/65679v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Mateo",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

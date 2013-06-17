@@ -1,0 +1,125 @@
+{"name": "TDC LLC",
+ "permalink": "tdc",
+ "crunchbase_url": "http://www.crunchbase.com/company/tdc",
+ "homepage_url": "http://www.taskpoint.com",
+ "blog_url": "http://blog.taskpoint.com/",
+ "blog_feed_url": "http://blog.taskpoint.com/feed/",
+ "twitter_username": "taskpoint",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "project-management, online-project-management, online-collaboration, wiki, issue-tracking, file-sharing, calendar, iphone",
+ "alias_list": "pmphq",
+ "email_address": "pr@taskpoint.com",
+ "phone_number": "",
+ "description": "Online project management made simple.",
+ "created_at": "Thu Oct 15 12:48:45 UTC 2009",
+ "updated_at": "Fri Jul 16 00:34:39 UTC 2010",
+ "overview": "\u003Cp\u003EFlagship product of TDC LLC - TaskPoint provides small and medium size businesses with an innovative new way for online project management and collaboration by combining a comprehensive project management suite with an arsenal of collaboration tools including wiki, file sharing, version control integration and much more.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0006/2801/62801v5-max-150x150.png"],
+     [[203,
+       38],
+      "assets/images/resized/0006/2801/62801v5-max-250x250.png"],
+     [[203,
+       38],
+      "assets/images/resized/0006/2801/62801v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "TaskPoint",
+    "permalink": "taskpoint",
+    "image": null},
+   {"name": "iGomoku",
+    "permalink": "igomoku",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wrike",
+      "permalink": "wrike",
+      "image":
+       {"available_sizes":
+         [[[150,
+            90],
+           "assets/images/resized/0001/5756/15756v7-max-150x150.png"],
+          [[250,
+            150],
+           "assets/images/resized/0001/5756/15756v7-max-250x250.png"],
+          [[250,
+            150],
+           "assets/images/resized/0001/5756/15756v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LiquidPlanner",
+      "permalink": "liquidplanner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0001/1493/11493v11-max-150x150.jpg"],
+          [[250,
+            40],
+           "assets/images/resized/0001/1493/11493v11-max-250x250.jpg"],
+          [[450,
+            73],
+           "assets/images/resized/0001/1493/11493v11-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "258 harvard Street #352",
+    "address2": "",
+    "zip_code": "02446",
+    "city": "Brookline",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.prweb.com/releases/tdc/pmphq/prweb3003554.htm",
+    "title": ""},
+   {"external_url": "http://www.forbes.com/feeds/prnewswire/2009/11/02/prnewswire200911020900PR_NEWS_USPR_____PH02931.html",
+    "title": ""},
+   {"external_url": "http://www.computerwoche.de/software/office-collaboration/1912659/",
+    "title": "PMP HQ named #9 in list of best PM tools by ComputerWoche.de"}]}

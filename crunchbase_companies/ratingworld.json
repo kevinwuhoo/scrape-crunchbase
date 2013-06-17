@@ -1,0 +1,203 @@
+{"name": "Ratingworld",
+ "permalink": "ratingworld",
+ "crunchbase_url": "http://www.crunchbase.com/company/ratingworld",
+ "homepage_url": "http://ratingworld.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ratingworld",
+ "category_code": "network_hosting",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 26,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rate-everything, ratings, user-generated, rate, rating-site",
+ "alias_list": null,
+ "email_address": "ratingworld.com@gmail.com",
+ "phone_number": "508-801-7259",
+ "description": "User-generated ratings for everything.",
+ "created_at": "Fri Aug 28 16:06:04 UTC 2009",
+ "updated_at": "Sat Aug 29 09:22:43 UTC 2009",
+ "overview": "\u003Cp\u003ERatingworld is a user-generated ratings site for everything imaginable.\u003C/p\u003E\n\n\u003Cp\u003ERatingworld provides a forum in which anything can be rated and \ndiscussed. Users may rate anonymously, create rating topics, add entities to be rated, and discuss ratings with other users. Ratingworld creates a space which allows people to help and inform one another.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0005/8022/58022v2-max-150x150.jpg"],
+     [[250,
+       49],
+      "assets/images/resized/0005/8022/58022v2-max-250x250.jpg"],
+     [[450,
+       88],
+      "assets/images/resized/0005/8022/58022v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "O'Connor",
+      "permalink": "sean-oconnor",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "RateItAll",
+      "permalink": "rateitall",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0002/0651/20651v8-max-150x150.png"],
+          [[250,
+            111],
+           "assets/images/resized/0002/0651/20651v8-max-250x250.png"],
+          [[384,
+            172],
+           "assets/images/resized/0002/0651/20651v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rate Beer",
+      "permalink": "rate-beer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0001/9521/19521v1-max-150x150.png"],
+          [[156,
+            44],
+           "assets/images/resized/0001/9521/19521v1-max-250x250.png"],
+          [[156,
+            44],
+           "assets/images/resized/0001/9521/19521v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ratemyemployer",
+      "permalink": "ratemyemployer",
+      "image": null}},
+   {"competitor":
+     {"name": "Ratemyideas",
+      "permalink": "ratemyideas",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0002/2675/22675v2-max-150x150.jpg"],
+          [[250,
+            58],
+           "assets/images/resized/0002/2675/22675v2-max-250x250.jpg"],
+          [[450,
+            106],
+           "assets/images/resized/0002/2675/22675v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PlanetRate",
+      "permalink": "planetrate",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0002/5328/25328v2-max-150x150.png"],
+          [[210,
+            50],
+           "assets/images/resized/0002/5328/25328v2-max-250x250.png"],
+          [[210,
+            50],
+           "assets/images/resized/0002/5328/25328v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HOT or NOT",
+      "permalink": "hotornot",
+      "image":
+       {"available_sizes":
+         [[[112,
+            23],
+           "assets/images/resized/0000/1207/1207v6-max-150x150.png"],
+          [[112,
+            23],
+           "assets/images/resized/0000/1207/1207v6-max-250x250.png"],
+          [[112,
+            23],
+           "assets/images/resized/0000/1207/1207v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ratemyprofessor.com",
+      "permalink": "ratemyprofessor-om",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0009/7496/97496v1-max-150x150.jpg"],
+          [[238,
+            75],
+           "assets/images/resized/0009/7496/97496v1-max-250x250.jpg"],
+          [[238,
+            75],
+           "assets/images/resized/0009/7496/97496v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RateMyDrawings",
+      "permalink": "ratemydrawings",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0002/5077/25077v2-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0002/5077/25077v2-max-250x250.png"],
+          [[265,
+            69],
+           "assets/images/resized/0002/5077/25077v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        139],
+       "assets/images/resized/0005/8021/58021v2-max-150x150.jpg"],
+      [[250,
+        232],
+       "assets/images/resized/0005/8021/58021v2-max-250x250.jpg"],
+      [[450,
+        419],
+       "assets/images/resized/0005/8021/58021v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://dartboston.com/pokin-holes-podcast-rating-world/",
+    "title": "Ratingworld featured on Pokin' Holes"}]}

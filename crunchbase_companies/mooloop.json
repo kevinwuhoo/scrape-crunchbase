@@ -1,0 +1,188 @@
+{"name": "Mooloop",
+ "permalink": "mooloop",
+ "crunchbase_url": "http://www.crunchbase.com/company/mooloop",
+ "homepage_url": "http://www.mooloop.com/",
+ "blog_url": "http://www.mooloop.com/articles/",
+ "blog_feed_url": "http://feeds2.feedburner.com/MooloopNews",
+ "twitter_username": "mooloop",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2006,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "accounting, business-software, business-management, project-management, online-invoicing, ecommerce, email-marketing, crm, content-management",
+ "alias_list": null,
+ "email_address": "hello@mooloop.com",
+ "phone_number": "+44(0)8451235488",
+ "description": "Develops \u0026 implements webware. ",
+ "created_at": "Mon Jul 13 21:00:58 UTC 2009",
+ "updated_at": "Mon May 16 01:11:48 UTC 2011",
+ "overview": "\u003Cp\u003EMooloop develops and implements web-based software products for small businesses. Their main product is the \u003Ca href=\"http://www.jumplead.com\" title=\"lead generation product - Jumplead\" rel=\"nofollow\"\u003Elead generation product - Jumplead\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[75,
+       53],
+      "assets/images/resized/0005/2801/52801v2-max-150x150.jpg"],
+     [[75,
+       53],
+      "assets/images/resized/0005/2801/52801v2-max-250x250.jpg"],
+     [[75,
+       53],
+      "assets/images/resized/0005/2801/52801v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Fenn",
+      "permalink": "matt-fenn",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director",
+    "person":
+     {"first_name": "Wes",
+      "last_name": "Hooper",
+      "permalink": "wes-hooper",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Xero",
+      "permalink": "xero",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-150x150.png"],
+          [[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-250x250.png"],
+          [[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NetSuite",
+      "permalink": "netsuite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/3736/3736v1-max-150x150.png"],
+          [[250,
+            76],
+           "assets/images/resized/0000/3736/3736v1-max-250x250.png"],
+          [[250,
+            76],
+           "assets/images/resized/0000/3736/3736v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Less Everything",
+      "permalink": "less-everything",
+      "image":
+       {"available_sizes":
+         [[[150,
+            108],
+           "assets/images/resized/0001/5965/15965v2-max-150x150.png"],
+          [[197,
+            143],
+           "assets/images/resized/0001/5965/15965v2-max-250x250.png"],
+          [[197,
+            143],
+           "assets/images/resized/0001/5965/15965v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Huddle",
+      "permalink": "huddle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/6947/16947v8-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0001/6947/16947v8-max-250x250.png"],
+          [[450,
+            133],
+           "assets/images/resized/0001/6947/16947v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "jaded Pixel",
+      "permalink": "jaded-pixel",
+      "image":
+       {"available_sizes":
+         [[[88,
+            31],
+           "assets/images/resized/0001/7017/17017v1-max-150x150.png"],
+          [[88,
+            31],
+           "assets/images/resized/0001/7017/17017v1-max-250x250.png"],
+          [[88,
+            31],
+           "assets/images/resized/0001/7017/17017v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "6 Princess Road West",
+    "address2": "",
+    "zip_code": "LE1 6TP",
+    "city": "Leicester",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 52.62982,
+    "longitude": -1.1312388}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

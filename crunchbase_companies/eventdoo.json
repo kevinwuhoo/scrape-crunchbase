@@ -1,0 +1,99 @@
+{"name": "Eventdoo",
+ "permalink": "eventdoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/eventdoo",
+ "homepage_url": "http://www.eventdoo.com",
+ "blog_url": "http://blog.eventdoo.com",
+ "blog_feed_url": "",
+ "twitter_username": "eventdoo",
+ "category_code": "ecommerce",
+ "number_of_employees": 8,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ticketing, tickets, crowdfunding, crowdsourcing, events, collaborative-ticketing, collaborative-commerce, long-tail-ticketing, social-ticketing",
+ "alias_list": null,
+ "email_address": "nico@eventdoo.com",
+ "phone_number": "",
+ "description": "Online Collaborative Ticketing Platform",
+ "created_at": "Wed Jun 05 17:44:23 UTC 2013",
+ "updated_at": "Wed Jun 05 18:51:06 UTC 2013",
+ "overview": "\u003Cp\u003EEventdoo is a collaborative ticketing platform.\u003C/p\u003E\n\n\u003Cp\u003EEventdoo believes that anyone can create and organize an event.\u003C/p\u003E\n\n\u003Cp\u003EEventdoo leverages collaborative commerce tools (crowd-funding and crowd-sourcing), with long tail ticketing solutions bringing an integral event making platform. \u003C/p\u003E\n\n\u003Cp\u003EWith Eventdoo, event organizers can create, promote, and sell their events, reducing attendance and financial risks.\u003C/p\u003E\n\n\u003Cp\u003ECustomers of the platform range from brands, agencies, major event producers to the millions of individuals organizing an event from scratch (from B2B to the long-tail of events). \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0027/1684/271684v1-max-150x150.png"],
+     [[173,
+       45],
+      "assets/images/resized/0027/1684/271684v1-max-250x250.png"],
+     [[173,
+       45],
+      "assets/images/resized/0027/1684/271684v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Nicolas",
+      "last_name": "Cavaliere",
+      "permalink": "nicolas-cavaliere",
+      "image": null}},
+   {"is_past": true,
+    "title": "COO",
+    "person":
+     {"first_name": "Sebastian",
+      "last_name": "Uchitel",
+      "permalink": "sebastian-uchitel",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ariel",
+      "last_name": "Manduca",
+      "permalink": "ariel-manduca",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "eventbrite, ticketleap, ticketfly, picatic, queremos, wedemand, bandtastic",
+      "permalink": "eventbrite-ticketleap-ticketfly-picatic-queremos-wedemand-bandtastic",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Latin America",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "ARG",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.lanacion.com.ar/1508109-eventdoo-como-realizar-una-fiesta-o-un-recital-sin-perder-dinero",
+    "title": "La Nacion "},
+   {"external_url": "http://mirabaires.com/estilo-mb/negocios/item/2139-eventdoo-la-primera-plataforma-social-para-eventos",
+    "title": "Mirabaires"},
+   {"external_url": "http://pulsosocial.com/2012/12/13/eventdoo-o-como-organizar-un-evento-sin-comerte-las-unas/",
+    "title": "Pulsosocial"}]}

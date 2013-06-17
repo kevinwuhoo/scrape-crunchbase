@@ -1,0 +1,129 @@
+{"name": "gopogo",
+ "permalink": "gopogo",
+ "crunchbase_url": "http://www.crunchbase.com/company/gopogo",
+ "homepage_url": "http://www.gopogo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 30,
+ "founded_year": 2009,
+ "founded_month": 11,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "geo-services, social-commerce, geolocation",
+ "alias_list": null,
+ "email_address": "info@gopogo.com",
+ "phone_number": "855-446-7646",
+ "description": "A utility to chronicle discovery",
+ "created_at": "Fri Sep 09 04:02:12 UTC 2011",
+ "updated_at": "Thu May 10 08:46:25 UTC 2012",
+ "overview": "\u003Cp\u003Egopogo is a social commerce utility that chronicles discovery by connecting people, places and things through self-expression. It has two primary audiences:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EPeople that want to share, document and discover\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003Eand\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EBusinesses that want to connect with those peoples\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0015/3346/153346v8-max-150x150.jpg"],
+     [[250,
+       53],
+      "assets/images/resized/0015/3346/153346v8-max-250x250.jpg"],
+     [[269,
+       58],
+      "assets/images/resized/0015/3346/153346v8-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO + Founder",
+    "person":
+     {"first_name": "Charles",
+      "last_name": "Meyer",
+      "permalink": "charles-meyer",
+      "image":
+       {"available_sizes":
+         [[[139,
+            150],
+           "assets/images/resized/0016/1994/161994v4-max-150x150.jpg"],
+          [[231,
+            250],
+           "assets/images/resized/0016/1994/161994v4-max-250x250.jpg"],
+          [[417,
+            450],
+           "assets/images/resized/0016/1994/161994v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Founder, CTO",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Alan Snyder",
+      "permalink": "jason-alan-snyder",
+      "image":
+       {"available_sizes":
+         [[[144,
+            150],
+           "assets/images/resized/0008/5255/85255v4-max-150x150.jpg"],
+          [[201,
+            209],
+           "assets/images/resized/0008/5255/85255v4-max-250x250.jpg"],
+          [[201,
+            209],
+           "assets/images/resized/0008/5255/85255v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/04/26/gopogo-beta-launch/",
+    "source_description": "With $3M In Hand, Gopogo Launches To Let You Create, Share \u0026 Discover Location-Based Stories",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 4,
+    "funded_day": 26,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "NYC",
+    "address1": "349 5th Avenue",
+    "address2": "",
+    "zip_code": "10016",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

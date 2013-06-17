@@ -1,0 +1,131 @@
+{"name": "MyWikiBiz",
+ "permalink": "mywikibiz",
+ "crunchbase_url": "http://www.crunchbase.com/company/mywikibiz",
+ "homepage_url": "http://www.mywikibiz.com",
+ "blog_url": "http://mywikibiz-com.blogspot.com",
+ "blog_feed_url": "http://mywikibiz-com.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "public_relations",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wiki, business, directory, entrepreneurs, artists, small-business",
+ "alias_list": null,
+ "email_address": "ResearchBiz@gmail.com",
+ "phone_number": "302.463.1354",
+ "description": null,
+ "created_at": "Thu Jul 17 18:08:27 UTC 2008",
+ "updated_at": "Mon Sep 13 17:35:11 UTC 2010",
+ "overview": "\u003Cp\u003EMyWikiBiz is a wiki directory business that allows people and enterprises to author their own legacy on the Internet. \u003C/p\u003E\n\n\u003Cp\u003EThe brand began as a service creating Wikipedia articles for paying corporations. The current Internet publishing site at MyWikiBiz.com uses a semantic web version of the famous MediaWiki software. The MyWikiBiz directory currently contains over 60,000 pages of content about corporations and individuals. Over 1,000,000 page loads have been documented since 2008, and growth continues.  The business is headquartered in West Chester, Pennsylvania, with its web server in Texas. \u003C/p\u003E\n\n\u003Cp\u003EAccording to its main page: \u003C/p\u003E\n\n\u003Cp\u003EMyWikiBiz is a new directory where you can author your legacy on the Internet. We think you are notable, even if Wikipedia has rejected an article about you or your enterprise as being \u0026#8220;non-notable\u0026#8221;. With MyWikiBiz, you create a beautiful, reader-friendly page that will get picked up by Google, Yahoo!, and MSN Search engines.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[135,
+       135],
+      "assets/images/resized/0002/2277/22277v2-max-150x150.png"],
+     [[135,
+       135],
+      "assets/images/resized/0002/2277/22277v2-max-250x250.png"],
+     [[135,
+       135],
+      "assets/images/resized/0002/2277/22277v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Gregory",
+      "last_name": "Kohs",
+      "permalink": "gregory-kohs",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "AboutUs.org",
+      "permalink": "aboutus-org",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0001/9261/19261v1-max-150x150.png"],
+          [[166,
+            250],
+           "assets/images/resized/0001/9261/19261v1-max-250x250.png"],
+          [[190,
+            286],
+           "assets/images/resized/0001/9261/19261v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wikimedia Foundation",
+      "permalink": "wikimedia-foundation",
+      "image":
+       {"available_sizes":
+         [[[143,
+            143],
+           "assets/images/resized/0001/6361/16361v2-max-150x150.png"],
+          [[143,
+            143],
+           "assets/images/resized/0001/6361/16361v2-max-250x250.png"],
+          [[143,
+            143],
+           "assets/images/resized/0001/6361/16361v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wikia",
+      "permalink": "wikia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/3895/3895v11-max-150x150.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/3895/3895v11-max-250x250.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/3895/3895v11-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "PR",
+    "is_past": true,
+    "provider":
+     {"name": "Idea Grove",
+      "permalink": "idea-grove",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home office",
+    "address1": "489 Lake George Cir",
+    "address2": "",
+    "zip_code": "19382",
+    "city": "West Chester",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": 39.939529,
+    "longitude": -75.61185}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.washingtonpost.com/wp-dyn/content/article/2007/01/24/AR2007012401590.html",
+    "title": "Washington Post, on MyWikiBiz"},
+   {"external_url": "http://chronicle.com/wiredcampus/index.php?id=1831",
+    "title": "Chronicle of Higher Education, on MyWikiBiz"},
+   {"external_url": "http://www.prlog.org/10046846-mywikibiz-sets-audacious-goal-265-million-pages.html",
+    "title": "MyWikiBiz Sets Audacious Goal"}]}

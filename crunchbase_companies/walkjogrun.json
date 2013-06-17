@@ -1,0 +1,133 @@
+{"name": "WalkJogRun",
+ "permalink": "walkjogrun",
+ "crunchbase_url": "http://www.crunchbase.com/company/walkjogrun",
+ "homepage_url": "http://www.walkjogrun.net",
+ "blog_url": "http://www.walkjogrun.net/blog",
+ "blog_feed_url": "http://feeds.feedburner.com/walkblogrun",
+ "twitter_username": "walkjogrun",
+ "category_code": "other",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 22,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "running-routes, running, fitness",
+ "alias_list": null,
+ "email_address": "adam@walkjogrun.net",
+ "phone_number": "312 772 6277",
+ "description": "Running routes and training partner.",
+ "created_at": "Wed Feb 29 23:12:44 UTC 2012",
+ "updated_at": "Mon Mar 05 02:57:03 UTC 2012",
+ "overview": "\u003Cp\u003EWalkJogRun helps runners find or create running routes around the world and provides the tools to help them train effectively.\u003C/p\u003E\n\n\u003Cp\u003EThe site delivers everything a runner needs, regardless of their goals. \u003C/p\u003E\n\n\u003Cp\u003ERunners looking to lose weight will be able to track calories burned against weight in their training diaries over time and share their workouts with their social networks to get support and motivation from friends and families.  Runners interested in improving their race times will find competitive training plans and can track progress over time as their pace increases.\u003C/p\u003E\n\n\u003Cp\u003EThe iPhone and iPad apps make it easy for runners who travel to find running routes wherever they may roam.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0017/6427/176427v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0017/6427/176427v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0017/6427/176427v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Howitt",
+      "permalink": "adam-howitt",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Kenny",
+      "permalink": "jeff-kenny",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MapMyFitness",
+      "permalink": "mapmyfitness",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0009/4572/94572v10-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0009/4572/94572v10-max-250x250.png"],
+          [[348,
+            103],
+           "assets/images/resized/0009/4572/94572v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FitnessKeeper",
+      "permalink": "fitnesskeeper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0002/4463/24463v3-max-150x150.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0002/4463/24463v3-max-250x250.jpg"],
+          [[407,
+            76],
+           "assets/images/resized/0002/4463/24463v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Hayes Lango",
+      "permalink": "hayes-lango",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "3759 N Ravenswood Ave",
+    "address2": "Suite 226A",
+    "zip_code": "60613",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        98],
+       "assets/images/resized/0017/6426/176426v2-max-150x150.jpg"],
+      [[250,
+        164],
+       "assets/images/resized/0017/6426/176426v2-max-250x250.jpg"],
+      [[450,
+        295],
+       "assets/images/resized/0017/6426/176426v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.time.com/time/specials/packages/completelist/0,29569,2012721,00.html",
+    "title": "Time Magazine 50 Best Websites 2010"},
+   {"external_url": "http://www.mensfitness.co.uk/exercise/running_races/7639/the_webs_best_running_resources.html",
+    "title": "Men's Fitness \"Web's best running resources\""},
+   {"external_url": "http://crave.cnet.co.uk/gadgets/best-fitness-gadgets-50006651/",
+    "title": "CNET Best Fitness Gadgets"}]}

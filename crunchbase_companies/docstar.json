@@ -1,0 +1,148 @@
+{"name": "docSTAR",
+ "permalink": "docstar",
+ "crunchbase_url": "http://www.crunchbase.com/company/docstar",
+ "homepage_url": "http://www.docstar.com/",
+ "blog_url": "http://www.docstar.com/resources/document-management-software-blog.html",
+ "blog_feed_url": "http://feeds.feedburner.com/DocumentManagementSoftwareBlog",
+ "twitter_username": "docstarsoftware",
+ "category_code": "software",
+ "number_of_employees": 50,
+ "founded_year": 1996,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "document-management, document-management-software, document-management-solution, paperless-software",
+ "alias_list": null,
+ "email_address": "info@docstar.com",
+ "phone_number": "518-836-2700",
+ "description": "document management solutions",
+ "created_at": "Wed Feb 09 22:05:48 UTC 2011",
+ "updated_at": "Thu Nov 03 21:32:20 UTC 2011",
+ "overview": "\u003Cp\u003EdocSTAR is a document management and imaging company that provides software solutions to mid to small sized businesses across the US. \u003C/p\u003E\n\n\u003Cp\u003EdocSTAR provides both hosted and cloud based products as well as introductory level up to enterprise level document management solutions.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0012/1290/121290v4-max-150x150.jpg"],
+     [[250,
+       45],
+      "assets/images/resized/0012/1290/121290v4-max-250x250.jpg"],
+     [[292,
+       53],
+      "assets/images/resized/0012/1290/121290v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and President",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Franceski",
+      "permalink": "tom-franceski",
+      "image": null}},
+   {"is_past": false,
+    "title": "EVP ",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Frankel",
+      "permalink": "jeff-frankel",
+      "image": null}},
+   {"is_past": false,
+    "title": "EVP",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Laird",
+      "permalink": "greg-laird",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "document locator",
+      "permalink": "document-locator",
+      "image": null}},
+   {"competitor":
+     {"name": "Laserfiche",
+      "permalink": "laserfiche",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0008/8060/88060v1-max-150x150.png"],
+          [[170,
+            43],
+           "assets/images/resized/0008/8060/88060v1-max-250x250.png"],
+          [[170,
+            43],
+           "assets/images/resized/0008/8060/88060v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "KnowledgeTree",
+      "permalink": "knowledgetree",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0001/7756/17756v11-max-150x150.png"],
+          [[192,
+            33],
+           "assets/images/resized/0001/7756/17756v11-max-250x250.png"],
+          [[192,
+            33],
+           "assets/images/resized/0001/7756/17756v11-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "itaz",
+      "permalink": "itaz",
+      "image": null}},
+   {"competitor":
+     {"name": "Perceptive Software",
+      "permalink": "perceptive-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0008/8410/88410v1-max-150x150.png"],
+          [[250,
+            50],
+           "assets/images/resized/0008/8410/88410v1-max-250x250.png"],
+          [[252,
+            51],
+           "assets/images/resized/0008/8410/88410v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarter",
+    "address1": "2165 Technology Dr.",
+    "address2": "",
+    "zip_code": "12308",
+    "city": "Schenectady",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.bizjournals.com/albany/stories/2007/06/04/daily25.html",
+    "title": "Sale of docSTAR Final"},
+   {"external_url": "http://en.wikipedia.org/wiki/DocSTAR",
+    "title": "Wikipedia"},
+   {"external_url": "http://www.youtube.com/docstarsoftware",
+    "title": "docSTAR on Youtube"}]}

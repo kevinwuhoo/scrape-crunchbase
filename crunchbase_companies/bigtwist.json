@@ -1,0 +1,134 @@
+{"name": "BigTwist",
+ "permalink": "bigtwist",
+ "crunchbase_url": "http://www.crunchbase.com/company/bigtwist",
+ "homepage_url": "http://www.bigtwist.com",
+ "blog_url": "http://www.bigtwist.com/category/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "bigtwistpres",
+ "category_code": "enterprise",
+ "number_of_employees": 7,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "presentations, interactive, cloud, mobile, 3d, unity3d",
+ "alias_list": null,
+ "email_address": "info@bigtwist.com",
+ "phone_number": "(917) 951-0790",
+ "description": "Stunning Interactive Presentations",
+ "created_at": "Sat Jul 07 16:25:11 UTC 2012",
+ "updated_at": "Fri Feb 01 06:38:02 UTC 2013",
+ "overview": "\u003Cp\u003EBigTwist helps business professionals easily create stunning and interactive presentations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0020/4263/204263v2-max-150x150.jpg"],
+     [[250,
+       89],
+      "assets/images/resized/0020/4263/204263v2-max-250x250.jpg"],
+     [[363,
+       130],
+      "assets/images/resized/0020/4263/204263v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Irwin",
+      "permalink": "greg-irwin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            141],
+           "assets/images/resized/0020/5808/205808v2-max-150x150.jpg"],
+          [[250,
+            236],
+           "assets/images/resized/0020/5808/205808v2-max-250x250.jpg"],
+          [[450,
+            425],
+           "assets/images/resized/0020/5808/205808v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder, CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Moore",
+      "permalink": "michael-moore-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Prezi",
+      "permalink": "prezi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            86],
+           "assets/images/resized/0002/2746/22746v13-max-150x150.jpg"],
+          [[250,
+            144],
+           "assets/images/resized/0002/2746/22746v13-max-250x250.jpg"],
+          [[342,
+            197],
+           "assets/images/resized/0002/2746/22746v13-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$620k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 620000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 1,
+    "funded_day": 19,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "BigTwist",
+    "address1": "68 Jay Street",
+    "address2": "Suite 201",
+    "zip_code": "11201",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"253\" src=\"http://www.youtube.com/embed/mCmtHKQdcOw\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EDemo Presentation\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

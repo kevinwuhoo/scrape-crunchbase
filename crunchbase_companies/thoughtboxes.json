@@ -1,0 +1,170 @@
+{"name": "Thoughtboxes",
+ "permalink": "thoughtboxes",
+ "crunchbase_url": "http://www.crunchbase.com/company/thoughtboxes",
+ "homepage_url": "http://thoughtbox.es",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "thoughtboxes",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "organizational-web-app, lists, mind-mapping, tasks, thoughts",
+ "alias_list": null,
+ "email_address": "hello@thoughtbox.es",
+ "phone_number": "",
+ "description": "Organize everything you do",
+ "created_at": "Sun Dec 19 20:28:57 UTC 2010",
+ "updated_at": "Wed Dec 19 18:08:33 UTC 2012",
+ "overview": "\u003Cp\u003EThoughtboxes is a simple web application that helps to organize your thoughts so you can make things happen. You can keep track of just about anything, and share your thoughts with friends.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0011/4806/114806v5-max-150x150.png"],
+     [[250,
+       101],
+      "assets/images/resized/0011/4806/114806v5-max-250x250.png"],
+     [[450,
+       182],
+      "assets/images/resized/0011/4806/114806v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Captain",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Heijkenskj\u00f6ld",
+      "permalink": "martin-heijkenskjld",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Evernote",
+      "permalink": "evernote",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/3178/13178v3-max-150x150.jpg"],
+          [[250,
+            129],
+           "assets/images/resized/0001/3178/13178v3-max-250x250.jpg"],
+          [[315,
+            163],
+           "assets/images/resized/0001/3178/13178v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Producteev",
+      "permalink": "producteev",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0002/4705/24705v7-max-150x150.png"],
+          [[250,
+            39],
+           "assets/images/resized/0002/4705/24705v7-max-250x250.png"],
+          [[450,
+            71],
+           "assets/images/resized/0002/4705/24705v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "XMind",
+      "permalink": "xmind",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0002/6628/26628v6-max-150x150.png"],
+          [[250,
+            125],
+           "assets/images/resized/0002/6628/26628v6-max-250x250.png"],
+          [[280,
+            140],
+           "assets/images/resized/0002/6628/26628v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Remember The Milk",
+      "permalink": "remember-the-milk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/9117/29117v2-max-150x150.png"],
+          [[188,
+            83],
+           "assets/images/resized/0002/9117/29117v2-max-250x250.png"],
+          [[188,
+            83],
+           "assets/images/resized/0002/9117/29117v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tadalist",
+      "permalink": "tadalist",
+      "image": null}}],
+ "providerships":
+  [{"title": "Payment processing",
+    "is_past": false,
+    "provider":
+     {"name": "Beanstream",
+      "permalink": "beanstream",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0011/4684/114684v2-max-150x150.png"],
+      [[250,
+        158],
+       "assets/images/resized/0011/4684/114684v2-max-250x250.png"],
+      [[450,
+        284],
+       "assets/images/resized/0011/4684/114684v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0011/4685/114685v2-max-150x150.png"],
+      [[250,
+        158],
+       "assets/images/resized/0011/4685/114685v2-max-250x250.png"],
+      [[450,
+        284],
+       "assets/images/resized/0011/4685/114685v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        98],
+       "assets/images/resized/0022/2851/222851v2-max-150x150.png"],
+      [[250,
+        164],
+       "assets/images/resized/0022/2851/222851v2-max-250x250.png"],
+      [[450,
+        295],
+       "assets/images/resized/0022/2851/222851v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2011/02/11/thoughtboxes-a-better-way-to-organize-your-thoughts/",
+    "title": ""}]}

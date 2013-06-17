@@ -1,0 +1,110 @@
+{"name": "fefoo",
+ "permalink": "fefoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/fefoo",
+ "homepage_url": "http://fefoo.com/",
+ "blog_url": "http://blog.fefoo.com/",
+ "blog_feed_url": "http://blog.fefoo.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, offline",
+ "alias_list": "",
+ "email_address": "fefoo@vivekjishtu.com",
+ "phone_number": "",
+ "description": "Search Multiple Engines",
+ "created_at": "Tue Jan 06 19:19:50 UTC 2009",
+ "updated_at": "Mon Mar 30 21:55:43 UTC 2009",
+ "overview": "\u003Cp\u003EFefoo is a search application and helps the user search multiple search engines in different categories. Fefoo is not a search engine but an application to search the different search engines effectively. It helps target a search based on a category. It has been designed to run like an offline application and once its completely loaded, it runs from the client computer. Its targeted to be made the homepage as it loads in less than a second, since it completely runs from the cache.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       70],
+      "assets/images/resized/0003/3192/33192v2-max-150x150.png"],
+     [[244,
+       115],
+      "assets/images/resized/0003/3192/33192v2-max-250x250.png"],
+     [[244,
+       115],
+      "assets/images/resized/0003/3192/33192v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yahoo!",
+      "permalink": "yahoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0001/0836/10836v9-max-150x150.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-250x250.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "mimime",
+      "permalink": "mimime",
+      "image": null}},
+   {"competitor":
+     {"name": "shifu",
+      "permalink": "shifu",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0003/7697/37697v1-max-150x150.png"],
+      [[250,
+        135],
+       "assets/images/resized/0003/7697/37697v1-max-250x250.png"],
+      [[450,
+        244],
+       "assets/images/resized/0003/7697/37697v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

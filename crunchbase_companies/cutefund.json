@@ -1,0 +1,154 @@
+{"name": "Cutefund",
+ "permalink": "cutefund",
+ "crunchbase_url": "http://www.crunchbase.com/company/cutefund",
+ "homepage_url": "http://www.cutefund.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cutefund",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "crowdsourcing, social-investment, stocks, market, trading",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "+44 20 328 666 11",
+ "description": "Crowdsourced mutual fund",
+ "created_at": "Fri Mar 19 18:04:41 UTC 2010",
+ "updated_at": "Wed May 12 23:40:33 UTC 2010",
+ "overview": "\u003Cp\u003ECuteFund.com is a crowdsourced mutual fund. Like a usual mutual fund, it buys and sells stocks; the main difference is that CuteFund doesn\u0026#8217;t have fund manager. All the users can vote for stocks, so the most popular stocks are bought and the less popular are sold instead.\u003C/p\u003E\n\n\u003Cp\u003EThe project is launched in beta at Geek\u0026#8217;n\u0026#8217;Rolla 2010. Users can vote for stocks and compete with Wall Street Analysts; CuteFund is in the process of obtaining the license. CuteFund is trading with real money but will be able to accept investments from users only after the license is granted.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0008/0993/80993v2-max-150x150.png"],
+     [[250,
+       124],
+      "assets/images/resized/0008/0993/80993v2-max-250x250.png"],
+     [[355,
+       177],
+      "assets/images/resized/0008/0993/80993v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Andrei",
+      "last_name": "Korobeinik",
+      "permalink": "andrei-korobeinik",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Evgeny",
+      "last_name": "Psenichnikov",
+      "permalink": "evgeny-psenichnikov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Covestor",
+      "permalink": "covestor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/4453/4453v7-max-150x150.png"],
+          [[250,
+            80],
+           "assets/images/resized/0000/4453/4453v7-max-250x250.png"],
+          [[450,
+            144],
+           "assets/images/resized/0000/4453/4453v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SocialPicks",
+      "permalink": "socialpicks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0000/2479/2479v1-max-150x150.png"],
+          [[200,
+            41],
+           "assets/images/resized/0000/2479/2479v1-max-250x250.png"],
+          [[200,
+            41],
+           "assets/images/resized/0000/2479/2479v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "The Motley Fool",
+      "permalink": "the-motley-fool",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/8287/18287v2-max-150x150.png"],
+          [[220,
+            56],
+           "assets/images/resized/0001/8287/18287v2-max-250x250.png"],
+          [[220,
+            56],
+           "assets/images/resized/0001/8287/18287v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wealthfront",
+      "permalink": "wealthfront",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0003/1806/31806v7-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0003/1806/31806v7-max-250x250.jpg"],
+          [[450,
+            347],
+           "assets/images/resized/0003/1806/31806v7-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a320k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.thedifferenceengine.eu",
+    "source_description": "",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2010,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0008/0992/80992v2-max-150x150.png"],
+      [[250,
+        144],
+       "assets/images/resized/0008/0992/80992v2-max-250x250.png"],
+      [[450,
+        260],
+       "assets/images/resized/0008/0992/80992v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,95 @@
+{"name": "Django Stars",
+ "permalink": "django-stars",
+ "crunchbase_url": "http://www.crunchbase.com/company/django-stars",
+ "homepage_url": "http://djangostars.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "djangostars",
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "python, django, web-apps, agile, web-development, startups",
+ "alias_list": "",
+ "email_address": "info@djangostars.com",
+ "phone_number": "+380 50 692 88 23",
+ "description": "Python/Django Web Development",
+ "created_at": "Wed Dec 09 14:56:44 UTC 2009",
+ "updated_at": "Tue Feb 22 00:28:25 UTC 2011",
+ "overview": "\u003Cp\u003EDjango Stars is a young growing company registered in the US with a representative office in Kiev, Ukraine. We are a team of star geeks with expertise in custom web application development with Python / Django, design, consulting, social media and cloud computing.\u003C/p\u003E\n\n\u003Cp\u003ESince 2008 we have designed and built complex web applications for companies around the world, ranging from web startups and international corporations to nonprofit organizations.\u003C/p\u003E\n\n\u003Cp\u003EWe are experts at producing custom web-based solutions for our Clients from concept to launch using Agile methodologies, as well as at designing and developing web apps for everyone, as we love to build our own products. With a long experience in harnessing the power of the latest technology, we would be happy to devote our expertise, talents and knowledge to working with our Clients.\u003C/p\u003E\n\n\u003Cp\u003ESpecialties:\ncustom python django development, web apps development, Mobile Development, Website Design / User Interface, Technical Consultancy \u003C/p\u003E\n\n\u003Cp\u003ETechnologies:\nPython, Django, Tornado, django CMS, Google App Engine, Facebook/Flickr/Twitter APIs, Google Maps, Amazon Web Services, PostgreSQL, MongoDB, Mercurial, Flask, Twisted, Werkzeug, Jinja, JavaScript, jQuery, Ajax, JSON, xhtml, html5, css3,\u0026#8230;\u003C/p\u003E\n\n\u003Cp\u003Ewww.djangostars.com\ninfo@djangostars.com\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0007/5296/75296v7-max-150x150.jpg"],
+     [[150,
+       27],
+      "assets/images/resized/0007/5296/75296v7-max-250x250.jpg"],
+     [[150,
+       27],
+      "assets/images/resized/0007/5296/75296v7-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Roman",
+      "last_name": "Gaponov",
+      "permalink": "roman-gaponov",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Roman",
+      "last_name": "Osipenko",
+      "permalink": "roman-osipenko",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Moldavska street 2, office 118",
+    "address2": "",
+    "zip_code": "",
+    "city": "Kiev",
+    "state_code": null,
+    "country_code": "UKR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"501\" height=\"313\"\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=10210127\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=c9ff23\u0026amp;fullscreen=1\" /\u003E\u003Cembed src=\"http://vimeo.com/moogaloop.swf?clip_id=10210127\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=c9ff23\u0026amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"501\" height=\"313\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cp\u003E\u003Ca href=\"http://vimeo.com/10210127\"\u003EWine\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/djangostars\"\u003EDjango Stars\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[121,
+        150],
+       "assets/images/resized/0012/3180/123180v2-max-150x150.jpg"],
+      [[201,
+        250],
+       "assets/images/resized/0012/3180/123180v2-max-250x250.jpg"],
+      [[363,
+        450],
+       "assets/images/resized/0012/3180/123180v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,93 @@
+{"name": "ViewHire",
+ "permalink": "viewhire",
+ "crunchbase_url": "http://www.crunchbase.com/company/viewhire",
+ "homepage_url": "http://www.viewhire.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "viewhire",
+ "category_code": "search",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hire, video-introduction, job-seeker, interview, career-openings, jobs, resume",
+ "alias_list": null,
+ "email_address": "info@viewhire.com",
+ "phone_number": "",
+ "description": "Video introduction hiring",
+ "created_at": "Tue Mar 06 17:59:36 UTC 2012",
+ "updated_at": "Sun Mar 25 17:44:59 UTC 2012",
+ "overview": "\u003Cp\u003EWe flip the script and allow job seekers to view video introductions of their next boss. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       29],
+      "assets/images/resized/0017/7257/177257v2-max-150x150.png"],
+     [[100,
+       29],
+      "assets/images/resized/0017/7257/177257v2-max-250x250.png"],
+     [[100,
+       29],
+      "assets/images/resized/0017/7257/177257v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CoFounder",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Williams",
+      "permalink": "richard-williams",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GetHired.com",
+      "permalink": "gethired-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0017/2142/172142v5-max-150x150.jpg"],
+          [[250,
+            44],
+           "assets/images/resized/0017/2142/172142v5-max-250x250.jpg"],
+          [[450,
+            79],
+           "assets/images/resized/0017/2142/172142v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0017/9205/179205v2-max-150x150.jpg"],
+      [[250,
+        125],
+       "assets/images/resized/0017/9205/179205v2-max-250x250.jpg"],
+      [[450,
+        226],
+       "assets/images/resized/0017/9205/179205v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

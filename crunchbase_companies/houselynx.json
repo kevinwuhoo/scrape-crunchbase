@@ -1,0 +1,171 @@
+{"name": "HouseLynx",
+ "permalink": "houselynx",
+ "crunchbase_url": "http://www.crunchbase.com/company/houselynx",
+ "homepage_url": "http://houselynx.com",
+ "blog_url": "http://blog.houselynx.com",
+ "blog_feed_url": "",
+ "twitter_username": "houselynx",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "home-automation, zigbee, energy-management, ip-thermostat, hvac, hvac-zoning, clean-tech, smart-grid",
+ "alias_list": null,
+ "email_address": "dane@houselynx.com",
+ "phone_number": "8322321361",
+ "description": "Residential Energy Management/Automation",
+ "created_at": "Tue Apr 12 15:00:27 UTC 2011",
+ "updated_at": "Sat Apr 16 18:28:40 UTC 2011",
+ "overview": "\u003Cp\u003EHouseLynx\u00e2\u201e\u00a2 LLC delivers hardware and software for the residential home automation industry with home energy management being the first target application.\u003C/p\u003E\n\n\u003Cp\u003EHouseLynx has two customers.  1.) Retail Electric Providers (REP) in de-regulated energy markets need products and services that entice consumers to sign up with their service. HouseLynx enables REP\u00e2\u20ac\u2122s to bundle electricity with a tangible product and service (remote thermostat control).  This equates to longer, more profitable contracts and improves customer retention significantly. 2.) Consumers are frustrated with the lack of transparency and control they have with regards to their energy usage.  In addition, many home owners have large temperature gradients across their home, or sections of their home that go long periods of time without being occupied. HVAC zoning through wireless vent registers has been shown to reduce the total energy consumption by up to 30% while increasing comfort simultaneously.  HouseLynx patent pending wireless vent register and back-end software controls enable affordable, self-installable, home zoning for hte first time.  Social web integration makes energy saving a team effort, and will drive adoption as friends keep up with friends with regards to their \u00e2\u20ac\u0153green\u00e2\u20ac\u009d living expectations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0013/0215/130215v2-max-150x150.png"],
+     [[250,
+       67],
+      "assets/images/resized/0013/0215/130215v2-max-250x250.png"],
+     [[300,
+       81],
+      "assets/images/resized/0013/0215/130215v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President \u0026 Co-founder",
+    "person":
+     {"first_name": "Dane",
+      "last_name": "Witbeck",
+      "permalink": "dane-witbeck",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "EcoFactor",
+      "permalink": "ecofactor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0007/1738/71738v2-max-150x150.png"],
+          [[249,
+            72],
+           "assets/images/resized/0007/1738/71738v2-max-250x250.png"],
+          [[249,
+            72],
+           "assets/images/resized/0007/1738/71738v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Comverge",
+      "permalink": "comverge",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0009/8974/98974v3-max-150x150.jpg"],
+          [[250,
+            76],
+           "assets/images/resized/0009/8974/98974v3-max-250x250.jpg"],
+          [[260,
+            80],
+           "assets/images/resized/0009/8974/98974v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Control4",
+      "permalink": "control4",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/8092/18092v2-max-150x150.png"],
+          [[151,
+            33],
+           "assets/images/resized/0001/8092/18092v2-max-250x250.png"],
+          [[151,
+            33],
+           "assets/images/resized/0001/8092/18092v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tendril",
+      "permalink": "tendril",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0003/3088/33088v3-max-150x150.jpg"],
+          [[250,
+            52],
+           "assets/images/resized/0003/3088/33088v3-max-250x250.jpg"],
+          [[450,
+            95],
+           "assets/images/resized/0003/3088/33088v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EnergyHub",
+      "permalink": "energyhub",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0004/0828/40828v1-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0004/0828/40828v1-max-250x250.png"],
+          [[276,
+            73],
+           "assets/images/resized/0004/0828/40828v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ecobee",
+      "permalink": "ecobee",
+      "image":
+       {"available_sizes":
+         [[[100,
+            80],
+           "assets/images/resized/0007/4240/74240v1-max-150x150.jpg"],
+          [[100,
+            80],
+           "assets/images/resized/0007/4240/74240v1-max-250x250.jpg"],
+          [[100,
+            80],
+           "assets/images/resized/0007/4240/74240v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        67],
+       "assets/images/resized/0013/0214/130214v2-max-150x150.png"],
+      [[250,
+        113],
+       "assets/images/resized/0013/0214/130214v2-max-250x250.png"],
+      [[450,
+        203],
+       "assets/images/resized/0013/0214/130214v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.alliance.rice.edu/alliance/NewsBot.asp?MODE=VIEW\u0026ID=123\u0026SnID=839972670",
+    "title": "HouseLynx Named \"Rising Venture\" at Rice University Web 2.0 Forum"},
+   {"external_url": "http://www.thebusinessmakers.com/episodes/shows/2011/january-2011/episode-294/dane-witbeck.html",
+    "title": "HouseLynx Interview on the Business Makers Radio Show"}]}

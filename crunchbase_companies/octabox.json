@@ -1,0 +1,102 @@
+{"name": "octabox",
+ "permalink": "octabox",
+ "crunchbase_url": "http://www.crunchbase.com/company/octabox",
+ "homepage_url": "http://www.octabox.com",
+ "blog_url": "http://blog.octabox.com",
+ "blog_feed_url": "http://blog.octabox.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": 2009,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "media@octabox.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sun Feb 17 00:40:42 UTC 2008",
+ "updated_at": "Wed Aug 10 18:33:08 UTC 2011",
+ "overview": "\u003Cp\u003EOctabox is a home for managing and collaborating information. It provides a simple and uniform interface for many familiar tools such as tasks management, time management, (business) relationship management, file storage and sharing and an ever expanding pool of relevant applications. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0001/7411/17411v1-max-150x150.png"],
+     [[250,
+       55],
+      "assets/images/resized/0001/7411/17411v1-max-250x250.png"],
+     [[280,
+       62],
+      "assets/images/resized/0001/7411/17411v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": null,
+    "title": "",
+    "person":
+     {"first_name": "Tal",
+      "last_name": "Zubalsky",
+      "permalink": "tal-zubalsky",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Benayoun",
+      "permalink": "adam-benayoun",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/4867/254867v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/4867/254867v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/4867/254867v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Eran",
+      "last_name": "Galperin",
+      "permalink": "eran-galperin",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": 32.0554,
+    "longitude": 34.7595}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

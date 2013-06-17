@@ -1,0 +1,133 @@
+{"name": "Bungolow",
+ "permalink": "bungolow-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/bungolow-2",
+ "homepage_url": "http://www.bungolow.com",
+ "blog_url": "http://blog.bungolow.com/",
+ "blog_feed_url": "",
+ "twitter_username": "bungolow",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "private-sales, flash-sales",
+ "alias_list": "",
+ "email_address": "admin@bungolow.com",
+ "phone_number": "",
+ "description": "Private Hotel Sales",
+ "created_at": "Sun Jul 24 16:20:13 UTC 2011",
+ "updated_at": "Wed Apr 10 09:28:48 UTC 2013",
+ "overview": "\u003Cp\u003EBungolow is a members-only service dedicated to providing amazing deals at various South American hotels.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0014/6202/146202v2-max-150x150.png"],
+     [[250,
+       100],
+      "assets/images/resized/0014/6202/146202v2-max-250x250.png"],
+     [[450,
+       180],
+      "assets/images/resized/0014/6202/146202v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Bird",
+      "permalink": "scott-bird",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Thompson",
+      "permalink": "scott-thompson-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Please",
+      "last_name": "Remove",
+      "permalink": "please-remove-6",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$40k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.startupchile.org/110-startups-selected-to-participate-in-start-up-chile-program/",
+    "source_description": "110 Startups Selected to Participate in Start-Up Chile Program",
+    "raised_amount": 40000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 25,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Start-Up Chile",
+         "permalink": "start-up-chile",
+         "image":
+          {"available_sizes":
+            [[[150,
+               79],
+              "assets/images/resized/0012/0939/120939v2-max-150x150.jpg"],
+             [[250,
+               132],
+              "assets/images/resized/0012/0939/120939v2-max-250x250.jpg"],
+             [[450,
+               238],
+              "assets/images/resized/0012/0939/120939v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "NXTP Labs",
+         "permalink": "nxtp-labs",
+         "image":
+          {"available_sizes":
+            [[[150,
+               36],
+              "assets/images/resized/0010/1712/101712v2-max-150x150.png"],
+             [[250,
+               61],
+              "assets/images/resized/0010/1712/101712v2-max-250x250.png"],
+             [[450,
+               109],
+              "assets/images/resized/0010/1712/101712v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Santiago",
+    "state_code": null,
+    "country_code": "CHL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

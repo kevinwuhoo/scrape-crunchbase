@@ -1,0 +1,104 @@
+{"name": "Eliacom",
+ "permalink": "eliacom",
+ "crunchbase_url": "http://www.crunchbase.com/company/eliacom",
+ "homepage_url": "http://www.eliacom.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mysql-gui, front-end, online-database-management",
+ "alias_list": null,
+ "email_address": "info@eliacom.com",
+ "phone_number": "7208373177",
+ "description": "Online MySQL Front-End GUI",
+ "created_at": "Wed Jun 13 21:00:30 UTC 2012",
+ "updated_at": "Sun Jun 17 14:06:38 UTC 2012",
+ "overview": "\u003Cp\u003EEliacom Inc. is a database management company that provides its customers with advanced database management, customization, and deployment. Eliacom has developed advanced systems like CRMs, ERPs, Shared Calendars, Post Transactional Sales and Referral Metrics, Correlation Statistics, and Customer Satisfaction Surveys. Eliacom currently is offering an open-source Enhanced MYSQL Portal for simple and easy front-end management of MYSQL databases over the cloud.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[131,
+       55],
+      "assets/images/resized/0019/5374/195374v2-max-150x150.png"],
+     [[131,
+       55],
+      "assets/images/resized/0019/5374/195374v2-max-250x250.png"],
+     [[131,
+       55],
+      "assets/images/resized/0019/5374/195374v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Gordon",
+      "last_name": "Flammer",
+      "permalink": "gordon-flammer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Flammer",
+      "permalink": "david-flammer",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Flannery",
+      "permalink": "brian-flannery",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "phpMyAdmin",
+      "permalink": "phpmyadmin",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "8896 wagner lane",
+    "address2": "",
+    "zip_code": "80031",
+    "city": "westminster",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        48],
+       "assets/images/resized/0019/5373/195373v2-max-150x150.png"],
+      [[250,
+        80],
+       "assets/images/resized/0019/5373/195373v2-max-250x250.png"],
+      [[450,
+        145],
+       "assets/images/resized/0019/5373/195373v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

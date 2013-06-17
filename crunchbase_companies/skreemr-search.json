@@ -1,0 +1,171 @@
+{"name": "SkreemR Search",
+ "permalink": "skreemr-search",
+ "crunchbase_url": "http://www.crunchbase.com/company/skreemr-search",
+ "homepage_url": "http://skreemr.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "skreemr",
+ "category_code": "search",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "http://skreemr.org",
+ "tag_list": "music, musicsearch, mp3, search, free, download, searchengine",
+ "alias_list": "skreemr",
+ "email_address": "inquiries@skreemr.com",
+ "phone_number": "",
+ "description": "Audio Search Engine",
+ "created_at": "Wed Nov 28 17:26:14 UTC 2007",
+ "updated_at": "Wed Feb 16 01:13:33 UTC 2011",
+ "overview": "\u003Cp\u003ESkreemr is a search engine for music files across the internet. Skreemr does not host any of their music, instead it indexes publicly accessible audio files across the internet, and plays them through their own music player. Skreemr uses a unique \u0026#8220;AudioRank\u0026#8221; algorithm, to place higher quality audio files towards the top of the search results. The site design is simple, slightly resembling the Google\u0026#8217;s clean home page. Users can mouse over links to see more metadata, although you cannot create playlists. Unlike \u003Ca href=\"http://www.crunchbase.com/company/pandora\" title=\"Pandora\"\u003EPandora\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/lala\" title=\"lala\"\u003Elala\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/imeem\" title=\"Imeem\"\u003EImeem\u003C/a\u003E, Skreemr\u0026#8217;s music is not licensed.\u003C/p\u003E\n\n\u003Cp\u003ESkreemr\u0026#8217;s competitors include \u003Ca href=\"http://www.crunchbase.com/company/songza\" title=\"Songza\"\u003ESongza\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/SeeqPod\" title=\"SeeqPod\"\u003ESeeqPod\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/Deezer\" title=\"Deezer\"\u003EDeezer\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/HypeMachine\" title=\"HypeMachine\"\u003EHypeMachine\u003C/a\u003E.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Skreemr",
+    "permalink": "skreemr",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Blair",
+      "last_name": "Boadway",
+      "permalink": "blair-boadway",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Gerard",
+      "last_name": "Lynch",
+      "permalink": "gerard-lynch",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Gagan",
+      "permalink": "james-gagan",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "imeem",
+      "permalink": "imeem",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0004/3106/43106v1-max-150x150.png"],
+          [[250,
+            102],
+           "assets/images/resized/0004/3106/43106v1-max-250x250.png"],
+          [[310,
+            127],
+           "assets/images/resized/0004/3106/43106v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "The Hype Machine",
+      "permalink": "hypemachine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0000/2176/2176v1-max-150x150.png"],
+          [[213,
+            100],
+           "assets/images/resized/0000/2176/2176v1-max-250x250.png"],
+          [[213,
+            100],
+           "assets/images/resized/0000/2176/2176v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Seeqpod",
+      "permalink": "seeqpod",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0000/2362/2362v8-max-150x150.png"],
+          [[250,
+            149],
+           "assets/images/resized/0000/2362/2362v8-max-250x250.png"],
+          [[289,
+            173],
+           "assets/images/resized/0000/2362/2362v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Deezer",
+      "permalink": "deezer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/2422/2422v11-max-150x150.jpg"],
+          [[250,
+            77],
+           "assets/images/resized/0000/2422/2422v11-max-250x250.jpg"],
+          [[450,
+            139],
+           "assets/images/resized/0000/2422/2422v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pandora Media",
+      "permalink": "pandora",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/3394/3394v5-max-150x150.png"],
+          [[152,
+            37],
+           "assets/images/resized/0000/3394/3394v5-max-250x250.png"],
+          [[152,
+            37],
+           "assets/images/resized/0000/3394/3394v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Streamzy",
+      "permalink": "streamzy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0001/7938/17938v1-max-150x150.jpg"],
+          [[250,
+            120],
+           "assets/images/resized/0001/7938/17938v1-max-250x250.jpg"],
+          [[389,
+            188],
+           "assets/images/resized/0001/7938/17938v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Victoria, BC",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 48.450576,
+    "longitude": -123.383426}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

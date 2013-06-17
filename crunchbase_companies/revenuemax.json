@@ -1,0 +1,146 @@
+{"name": "RevenueMax",
+ "permalink": "revenuemax",
+ "crunchbase_url": "http://www.crunchbase.com/company/revenuemax",
+ "homepage_url": "http://revenuemax.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "RevenueMaxAG",
+ "category_code": "advertising",
+ "number_of_employees": 17,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ssp, display, yield-optimization, advertising",
+ "alias_list": null,
+ "email_address": "info@revenuemax.de",
+ "phone_number": "+49 (0) 40 209324447",
+ "description": "First German Display SSP",
+ "created_at": "Tue Oct 18 15:32:03 UTC 2011",
+ "updated_at": "Sat Feb 11 22:29:38 UTC 2012",
+ "overview": "\u003Cp\u003ERevenueMax is the first German yield optimizer / sell side platform for display advertising.\nSimilar to Rubicon, Pubmatic or Admeld.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0015/8571/158571v2-max-150x150.jpg"],
+     [[250,
+       64],
+      "assets/images/resized/0015/8571/158571v2-max-250x250.jpg"],
+     [[450,
+       115],
+      "assets/images/resized/0015/8571/158571v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Promny",
+      "permalink": "thomas-promny",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0016/0070/160070v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0016/0070/160070v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0016/0070/160070v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Kay",
+      "last_name": "Schneider",
+      "permalink": "kay-schneider",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Markus",
+      "last_name": "Siegmann",
+      "permalink": "markus-siegmann",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "the Rubicon Project",
+      "permalink": "rubiconproject",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/1216/1216v1-max-150x150.png"],
+          [[200,
+            62],
+           "assets/images/resized/0000/1216/1216v1-max-250x250.png"],
+          [[200,
+            62],
+           "assets/images/resized/0000/1216/1216v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Admeld",
+      "permalink": "admeld",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/2996/22996v5-max-150x150.png"],
+          [[200,
+            55],
+           "assets/images/resized/0002/2996/22996v5-max-250x250.png"],
+          [[200,
+            55],
+           "assets/images/resized/0002/2996/22996v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PubMatic",
+      "permalink": "pubmatic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0000/0283/283v1-max-150x150.png"],
+          [[180,
+            40],
+           "assets/images/resized/0000/0283/283v1-max-250x250.png"],
+          [[180,
+            40],
+           "assets/images/resized/0000/0283/283v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Grosse Elbstrasse 47",
+    "address2": "",
+    "zip_code": "22767",
+    "city": "Hamburg",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

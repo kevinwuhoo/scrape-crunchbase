@@ -1,0 +1,170 @@
+{"name": "TheStreetHub",
+ "permalink": "thestreethub",
+ "crunchbase_url": "http://www.crunchbase.com/company/thestreethub",
+ "homepage_url": "http://thestreethub.com",
+ "blog_url": "",
+ "blog_feed_url": "http://thestreethub.com/front.xml",
+ "twitter_username": "thestreethub",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "investments, research, trading, stock-markets, make-money, crowdsourcing, collaboration, financial-news, financial-markets, networking, facebook, linkedin, generate-profits-using-your-network, research-analyst, publish-your-content",
+ "alias_list": null,
+ "email_address": "founders@thestreethub.com",
+ "phone_number": "650-48-TSHUB",
+ "description": "Everyone's an Analyst",
+ "created_at": "Tue Oct 06 18:44:05 UTC 2009",
+ "updated_at": "Mon Sep 12 02:17:03 UTC 2011",
+ "overview": "\u003Cp\u003ETheStreetHub(TM) is a free application that empowers the investing community and industry insiders to collaborate using their network in a brand new way. This full-featured platform allows users to profit by sharing research or information, trade ideas and valuation models.\u003C/p\u003E\n\n\u003Cp\u003ETheStreetHub enables users to leverage their social graph on existing social networking platforms to:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EEasily connect with financial markets savvy contacts from your network\u003C/li\u003E\n\u003Cli\u003EQuickly share market insights with a powerful platform\u003C/li\u003E\n\u003Cli\u003EEarn money by sharing what you already know\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0006/1837/61837v2-max-150x150.jpg"],
+     [[250,
+       108],
+      "assets/images/resized/0006/1837/61837v2-max-250x250.jpg"],
+     [[450,
+       195],
+      "assets/images/resized/0006/1837/61837v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP Marketing \u0026 Co-Founder",
+    "person":
+     {"first_name": "Nicholas",
+      "last_name": "Black",
+      "permalink": "nicholas-black-2",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0008/8468/88468v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0008/8468/88468v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0008/8468/88468v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Rushi",
+      "last_name": "Shah",
+      "permalink": "rushi-shah",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0009/6598/96598v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0009/6598/96598v2-max-250x250.jpg"],
+          [[299,
+            450],
+           "assets/images/resized/0009/6598/96598v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Noah",
+      "last_name": "Biavaschi",
+      "permalink": "noah-biavaschi",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0009/6599/96599v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0009/6599/96599v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0009/6599/96599v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Cake Financial",
+      "permalink": "cakefinancial",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0000/0307/307v1-max-150x150.png"],
+          [[200,
+            77],
+           "assets/images/resized/0000/0307/307v1-max-250x250.png"],
+          [[200,
+            77],
+           "assets/images/resized/0000/0307/307v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Covestor",
+      "permalink": "covestor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/4453/4453v7-max-150x150.png"],
+          [[250,
+            80],
+           "assets/images/resized/0000/4453/4453v7-max-250x250.png"],
+          [[450,
+            144],
+           "assets/images/resized/0000/4453/4453v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "The Motley Fool",
+      "permalink": "the-motley-fool",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/8287/18287v2-max-150x150.png"],
+          [[220,
+            56],
+           "assets/images/resized/0001/8287/18287v2-max-250x250.png"],
+          [[220,
+            56],
+           "assets/images/resized/0001/8287/18287v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        96],
+       "assets/images/resized/0006/1836/61836v2-max-150x150.jpg"],
+      [[250,
+        160],
+       "assets/images/resized/0006/1836/61836v2-max-250x250.jpg"],
+      [[450,
+        288],
+       "assets/images/resized/0006/1836/61836v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

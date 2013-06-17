@@ -1,0 +1,255 @@
+{"name": "Process Policy",
+ "permalink": "process-policy",
+ "crunchbase_url": "http://www.crunchbase.com/company/process-policy",
+ "homepage_url": "https://processpolicy.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "processpolicy",
+ "category_code": "software",
+ "number_of_employees": 50,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bpm, business-process, business-performance",
+ "alias_list": null,
+ "email_address": "info@processpolicy.com",
+ "phone_number": "",
+ "description": "Improving business performance",
+ "created_at": "Mon Jul 30 20:52:32 UTC 2012",
+ "updated_at": "Tue Jul 31 04:39:50 UTC 2012",
+ "overview": "\u003Cp\u003EProcessPolicy provides an online business process solution for improving business performance and enforcing company policies.\u003C/p\u003E\n\n\u003Cp\u003EProcessPolicy has built-in workflow processes and internal company policies, from employee holiday requests, expense approval and task management through to HR policies, IT policies and finance policies.\u003C/p\u003E\n\n\u003Cp\u003EThe driving forces behind the solution are the legal requirements businesses must enforce, and the need for management to set procedures in place, to reduce business risks by enforcing internal policies. \u003C/p\u003E\n\n\u003Cp\u003EProcessPolicy enforces company policies through workflows, checklists, audit trails, escalations and alerts. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       62],
+      "assets/images/resized/0020/3568/203568v2-max-150x150.png"],
+     [[250,
+       104],
+      "assets/images/resized/0020/3568/203568v2-max-250x250.png"],
+     [[286,
+       120],
+      "assets/images/resized/0020/3568/203568v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Deane",
+      "permalink": "adam-deane",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "IBM",
+      "permalink": "ibm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TIBCO Software",
+      "permalink": "tibco-software-inc",
+      "image":
+       {"available_sizes":
+         [[[126,
+            56],
+           "assets/images/resized/0001/9681/19681v1-max-150x150.jpg"],
+          [[126,
+            56],
+           "assets/images/resized/0001/9681/19681v1-max-250x250.jpg"],
+          [[126,
+            56],
+           "assets/images/resized/0001/9681/19681v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Appian",
+      "permalink": "appian",
+      "image":
+       {"available_sizes":
+         [[[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-150x150.png"],
+          [[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-250x250.png"],
+          [[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BonitaSoft",
+      "permalink": "bonitasoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0006/1110/61110v1-max-150x150.jpg"],
+          [[225,
+            84],
+           "assets/images/resized/0006/1110/61110v1-max-250x250.jpg"],
+          [[225,
+            84],
+           "assets/images/resized/0006/1110/61110v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cordys",
+      "permalink": "cordys-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0007/6044/76044v5-max-150x150.png"],
+          [[250,
+            42],
+           "assets/images/resized/0007/6044/76044v5-max-250x250.png"],
+          [[450,
+            76],
+           "assets/images/resized/0007/6044/76044v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fujitsu",
+      "permalink": "fujitsu",
+      "image":
+       {"available_sizes":
+         [[[78,
+            38],
+           "assets/images/resized/0005/1757/51757v2-max-150x150.png"],
+          [[78,
+            38],
+           "assets/images/resized/0005/1757/51757v2-max-250x250.png"],
+          [[78,
+            38],
+           "assets/images/resized/0005/1757/51757v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Singularity",
+      "permalink": "singularity",
+      "image":
+       {"available_sizes":
+         [[[131,
+            29],
+           "assets/images/resized/0006/7698/67698v1-max-150x150.png"],
+          [[131,
+            29],
+           "assets/images/resized/0006/7698/67698v1-max-250x250.png"],
+          [[131,
+            29],
+           "assets/images/resized/0006/7698/67698v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "K2.NET",
+      "permalink": "k2-net",
+      "image": null}},
+   {"competitor":
+     {"name": "OpenText",
+      "permalink": "opentext",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/7757/37757v3-max-150x150.png"],
+          [[204,
+            56],
+           "assets/images/resized/0003/7757/37757v3-max-250x250.png"],
+          [[204,
+            56],
+           "assets/images/resized/0003/7757/37757v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pegasystems",
+      "permalink": "pegasystems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/6709/16709v2-max-150x150.jpg"],
+          [[169,
+            37],
+           "assets/images/resized/0001/6709/16709v2-max-250x250.jpg"],
+          [[169,
+            37],
+           "assets/images/resized/0001/6709/16709v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Software AG",
+      "permalink": "software-ag",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0011/7328/117328v1-max-150x150.png"],
+          [[234,
+            92],
+           "assets/images/resized/0011/7328/117328v1-max-250x250.png"],
+          [[234,
+            92],
+           "assets/images/resized/0011/7328/117328v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ultimus",
+      "permalink": "ultimus",
+      "image":
+       {"available_sizes":
+         [[[100,
+            26],
+           "assets/images/resized/0006/9654/69654v2-max-150x150.png"],
+          [[100,
+            26],
+           "assets/images/resized/0006/9654/69654v2-max-250x250.png"],
+          [[100,
+            26],
+           "assets/images/resized/0006/9654/69654v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "14 Willoughby road",
+    "address2": "Hampstead",
+    "zip_code": "NW3 1SA",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        76],
+       "assets/images/resized/0020/3567/203567v2-max-150x150.png"],
+      [[250,
+        126],
+       "assets/images/resized/0020/3567/203567v2-max-250x250.png"],
+      [[450,
+        228],
+       "assets/images/resized/0020/3567/203567v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,83 @@
+{"name": "EXTREME ELECTRONICS LTD.",
+ "permalink": "extreme-electronics-ltd",
+ "crunchbase_url": "http://www.crunchbase.com/company/extreme-electronics-ltd",
+ "homepage_url": "http://openweathermap.org/",
+ "blog_url": "http://openweathermap.org/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/OpenWeatherMap",
+ "twitter_username": "openweathermap",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "weather, forecast, map, precipitation, clouds, weather-station, crowd-work, crowdsourcing",
+ "alias_list": null,
+ "email_address": "info@openweathermap.org",
+ "phone_number": "",
+ "description": "OpenWeatherMap project",
+ "created_at": "Thu Jan 24 06:54:14 UTC 2013",
+ "updated_at": "Fri Jan 25 05:34:20 UTC 2013",
+ "overview": "\u003Cp\u003EOpenWeatherMap is a crowdsourcing web service that provides free weather data and forecast API suitable for any cartographic services including web and mobile applications. Ideology is inspired by OpenStreetMap and Wikipedia that make information free and available for everybody. OpenWeatherMap provides wide range of weather data - maps with current weather, week forecast, precipitation, wind, clouds, data from weather stations, data from radars. Weather data is recieved from global meterological broadcast services, more than 40 000 weather stations and radars. All data are processed by unique mathematical algorithms developed by OpenWeatherMap specialists. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "manager",
+    "person":
+     {"first_name": "Olga",
+      "last_name": "Ukolova",
+      "permalink": "olga-ukolova",
+      "image": null}},
+   {"is_past": false,
+    "title": "architect",
+    "person":
+     {"first_name": "Denn",
+      "last_name": "Ukolov",
+      "permalink": "denn-ukolov",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London Office",
+    "address1": "80-83 Long Lane ",
+    "address2": "",
+    "zip_code": "EC1A 9ET",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5196337,
+    "longitude": -0.0986412}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        83],
+       "assets/images/resized/0023/1341/231341v2-max-150x150.jpg"],
+      [[250,
+        139],
+       "assets/images/resized/0023/1341/231341v2-max-250x250.jpg"],
+      [[450,
+        251],
+       "assets/images/resized/0023/1341/231341v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

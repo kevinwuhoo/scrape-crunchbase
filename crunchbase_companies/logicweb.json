@@ -1,0 +1,232 @@
+{"name": "LogicWeb",
+ "permalink": "logicweb",
+ "crunchbase_url": "http://www.crunchbase.com/company/logicweb",
+ "homepage_url": "http://logicweb.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "logicweb",
+ "category_code": "network_hosting",
+ "number_of_employees": 10,
+ "founded_year": 2004,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-hosting, logicweb, dedicated-hosting, vps-hosting, cloud-hosting, managed-web-hosting, colocation, reseller-hosting, cpanel-hosting",
+ "alias_list": null,
+ "email_address": "sales@logicweb.com",
+ "phone_number": "877-564-4293",
+ "description": "Web Hosting",
+ "created_at": "Tue May 21 21:15:21 UTC 2013",
+ "updated_at": "Thu May 23 06:14:42 UTC 2013",
+ "overview": "\u003Cp\u003ELogicWeb is a web hosting company providing services since 2004. We are a Tier-1 hosting provider with 100% in-house TrueLogic technical support. We provide flexible web hosting solutions from small personal sites to strategic clustered solutions and colocation nation-wide.\u003C/p\u003E\n\n\u003Cp\u003EChad Abizeid, owner of LogicWeb Inc / www.logicweb.com Web Hosting.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0026/5199/265199v2-max-150x150.png"],
+     [[250,
+       86],
+      "assets/images/resized/0026/5199/265199v2-max-250x250.png"],
+     [[450,
+       155],
+      "assets/images/resized/0026/5199/265199v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / President",
+    "person":
+     {"first_name": "Chad",
+      "last_name": "Abizeid",
+      "permalink": "chad-abizeid",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+          [[300,
+            109],
+           "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bluehost",
+      "permalink": "bluehost",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0002/1602/21602v1-max-150x150.png"],
+          [[178,
+            39],
+           "assets/images/resized/0002/1602/21602v1-max-250x250.png"],
+          [[178,
+            39],
+           "assets/images/resized/0002/1602/21602v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GoDaddy.com",
+      "permalink": "godaddy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            116],
+           "assets/images/resized/0002/2280/22280v2-max-150x150.png"],
+          [[150,
+            116],
+           "assets/images/resized/0002/2280/22280v2-max-250x250.png"],
+          [[150,
+            116],
+           "assets/images/resized/0002/2280/22280v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HostGator",
+      "permalink": "hostgator",
+      "image": null}},
+   {"competitor":
+     {"name": "SingleHop",
+      "permalink": "singlehop",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0002/2301/22301v2-max-150x150.png"],
+          [[250,
+            37],
+           "assets/images/resized/0002/2301/22301v2-max-250x250.png"],
+          [[288,
+            43],
+           "assets/images/resized/0002/2301/22301v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "InMotion Hosting",
+      "permalink": "inmotion-hosting",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0018/0448/180448v2-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0018/0448/180448v2-max-250x250.jpg"],
+          [[450,
+            116],
+           "assets/images/resized/0018/0448/180448v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "A Small Orange",
+      "permalink": "a-small-orange",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0005/6483/56483v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0005/6483/56483v3-max-250x250.png"],
+          [[450,
+            131],
+           "assets/images/resized/0005/6483/56483v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Media Temple",
+      "permalink": "media-temple",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0008/4495/84495v1-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0008/4495/84495v1-max-250x250.png"],
+          [[250,
+            49],
+           "assets/images/resized/0008/4495/84495v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SoftLayer",
+      "permalink": "softlayer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            12],
+           "assets/images/resized/0005/1564/51564v6-max-150x150.png"],
+          [[250,
+            21],
+           "assets/images/resized/0005/1564/51564v6-max-250x250.png"],
+          [[450,
+            38],
+           "assets/images/resized/0005/1564/51564v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ubiquity Servers",
+      "permalink": "ubiquity-servers",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0016/9384/169384v5-max-150x150.png"],
+          [[220,
+            49],
+           "assets/images/resized/0016/9384/169384v5-max-250x250.png"],
+          [[220,
+            49],
+           "assets/images/resized/0016/9384/169384v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UK2 Group",
+      "permalink": "uk2-group",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0005/5796/55796v1-max-150x150.jpg"],
+          [[199,
+            46],
+           "assets/images/resized/0005/5796/55796v1-max-250x250.jpg"],
+          [[199,
+            46],
+           "assets/images/resized/0005/5796/55796v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0026/5198/265198v2-max-150x150.png"],
+      [[250,
+        136],
+       "assets/images/resized/0026/5198/265198v2-max-250x250.png"],
+      [[450,
+        245],
+       "assets/images/resized/0026/5198/265198v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

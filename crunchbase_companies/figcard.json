@@ -1,0 +1,125 @@
+{"name": "FigCard",
+ "permalink": "figcard",
+ "crunchbase_url": "http://www.crunchbase.com/company/figcard",
+ "homepage_url": "http://figcard.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@figcard.com",
+ "phone_number": "(617) 444-9521 ",
+ "description": "",
+ "created_at": "Fri Apr 29 02:50:58 UTC 2011",
+ "updated_at": "Wed Apr 11 21:15:48 UTC 2012",
+ "overview": "\u003Cp\u003EBoston-based Fig Card allows merchants to accept mobile payments in stores by using a simple USB device that plugs into the cash register or point-of-sale terminal. All the consumer needs is the Fig app on his or her smart phone. The connection with PayPal is that when consumers setup their payment information, they could add PayPal as a payments option. You can see the video below for a demo of Fig Card\u00e2\u20ac\u2122s technology\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0013/2503/132503v1-max-150x150.png"],
+     [[250,
+       96],
+      "assets/images/resized/0013/2503/132503v1-max-250x250.png"],
+     [[283,
+       109],
+      "assets/images/resized/0013/2503/132503v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "McLaughlin",
+      "permalink": "dave-mclaughlin",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/0789/260789v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0789/260789v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0789/260789v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder and CEO",
+    "person":
+     {"first_name": "Max",
+      "last_name": "Metral",
+      "permalink": "max-metral",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder and CTO",
+    "person":
+     {"first_name": "Hasty",
+      "last_name": "Granbery",
+      "permalink": "hasty-granbery",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/04/28/ebays-paypal-buys-mobile-payments-startup-fig-card/",
+   "source_description": "eBay\u00e2\u20ac\u2122s PayPal Buys Mobile Payments Startup Fig Card",
+   "acquired_year": 2011,
+   "acquired_month": 4,
+   "acquired_day": 28,
+   "acquiring_company":
+    {"name": "PayPal",
+     "permalink": "paypal",
+     "image":
+      {"available_sizes":
+        [[[150,
+           37],
+          "assets/images/resized/0000/3943/3943v8-max-150x150.png"],
+         [[200,
+           50],
+          "assets/images/resized/0000/3943/3943v8-max-250x250.png"],
+         [[200,
+           50],
+          "assets/images/resized/0000/3943/3943v8-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "112 Appleton Street",
+    "address2": "",
+    "zip_code": "02116",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

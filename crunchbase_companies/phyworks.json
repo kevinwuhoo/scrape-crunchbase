@@ -1,0 +1,132 @@
+{"name": "Phyworks",
+ "permalink": "phyworks",
+ "crunchbase_url": "http://www.crunchbase.com/company/phyworks",
+ "homepage_url": "http://www.phyworks-ic.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "semiconductor",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "sales@phyworks-ic.com",
+ "phone_number": "+44 117 344 5072",
+ "description": "",
+ "created_at": "Mon Sep 13 05:37:04 UTC 2010",
+ "updated_at": "Mon Sep 13 05:37:03 UTC 2010",
+ "overview": "\u003Cp\u003EPhyworks\u00e2\u20ac\u2122 analog and mixed signal ICs bring ultra high-performance to optical fiber and copper cable communications in datacom, storage and telecom systems throughout the world.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[121,
+       74],
+      "assets/images/resized/0010/1467/101467v1-max-150x150.png"],
+     [[121,
+       74],
+      "assets/images/resized/0010/1467/101467v1-max-250x250.png"],
+     [[121,
+       74],
+      "assets/images/resized/0010/1467/101467v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "King",
+      "permalink": "stephen-king",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Stables",
+      "permalink": "nick-stables",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Allard",
+      "last_name": "van der Horst",
+      "permalink": "allard-van-der-horst",
+      "image": null}},
+   {"is_past": true,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Gibson",
+      "permalink": "martin-gibson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/7168/267168v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/7168/267168v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/7168/267168v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 72500000.0,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://pdfserv.maxim-ic.com/en/pr/Maxim-Phyworks-20100907.pdf",
+   "source_description": "MAXIM ACQUIRES PHYWORKS, A LEADING SUPPLIER OF OPTICAL TRANSCEIVER CHIPS FOR THE BROADBAND COMMUNICATIONS MARKET",
+   "acquired_year": 2010,
+   "acquired_month": 9,
+   "acquired_day": 8,
+   "acquiring_company":
+    {"name": "Maxim Integrated Products",
+     "permalink": "maxim-integrated-products",
+     "image":
+      {"available_sizes":
+        [[[150,
+           41],
+          "assets/images/resized/0009/3007/93007v1-max-150x150.jpg"],
+         [[176,
+           49],
+          "assets/images/resized/0009/3007/93007v1-max-250x250.jpg"],
+         [[176,
+           49],
+          "assets/images/resized/0009/3007/93007v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1 Friary, Temple Quay",
+    "address2": "",
+    "zip_code": "BS1 6EA",
+    "city": "Bristol",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

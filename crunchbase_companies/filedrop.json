@@ -1,0 +1,100 @@
+{"name": "Filedrop",
+ "permalink": "filedrop",
+ "crunchbase_url": "http://www.crunchbase.com/company/filedrop",
+ "homepage_url": "http://filedropme.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "filedropme",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "file, sharing, local-network, airdrop",
+ "alias_list": null,
+ "email_address": "filedropme@gmail.com",
+ "phone_number": "+31644771702",
+ "description": "Drop things to the nearby device",
+ "created_at": "Thu Aug 25 19:51:27 UTC 2011",
+ "updated_at": "Mon Apr 08 14:08:18 UTC 2013",
+ "overview": "\u003Cp\u003EFiledrop is a cute and tiny app for sending files between devices within one network. All you need is just launch Filedrop on two devices and you can drag and drop files between them.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0015/1130/151130v6-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0015/1130/151130v6-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0015/1130/151130v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Ivan",
+      "last_name": "Pashchenko",
+      "permalink": "ivan-pashchenko",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Ilya",
+      "last_name": "Ovdin",
+      "permalink": "ilya-ovdin",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/cf-XPJcr1TM?rel=0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": ""},
+   {"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/60168440?title=0\u0026amp;byline=0\u0026amp;portrait=0\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EFiledrop app concept\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0023/3743/233743v2-max-150x150.png"],
+      [[250,
+        153],
+       "assets/images/resized/0023/3743/233743v2-max-250x250.png"],
+      [[450,
+        276],
+       "assets/images/resized/0023/3743/233743v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0023/3744/233744v2-max-150x150.png"],
+      [[250,
+        154],
+       "assets/images/resized/0023/3744/233744v2-max-250x250.png"],
+      [[450,
+        278],
+       "assets/images/resized/0023/3744/233744v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

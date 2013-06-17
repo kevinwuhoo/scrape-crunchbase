@@ -1,0 +1,128 @@
+{"name": "Fidg't",
+ "permalink": "fidg-t",
+ "crunchbase_url": "http://www.crunchbase.com/company/fidg-t",
+ "homepage_url": "http://www.fidgt.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2005,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "edu@protohaus.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Feb 15 21:42:14 UTC 2008",
+ "updated_at": "Mon Aug 06 13:13:36 UTC 2012",
+ "overview": "\u003Cp\u003EFidg\u0026#8217;t is a centralized control point for social networks. Fidg\u0026#8217;t brings together contacts from across multiple networks and platforms allowing for the easier leveraging of social networks from the one place.\u003C/p\u003E\n\n\u003Cp\u003EFidg\u0026#8217;t mobile is also a fully fledged online Instant Messaging platform that provides similar functionality to Trillian and Meebo with support for AOL Instant Messenger, Yahoo Messenger, and MSN/Windows Live Messenger. Media handling on the mobile version includes the ability to post directly to Flickr or stream content from Last.fm.\u003C/p\u003E\n\n\u003Cp\u003EThe Fidg\u0026#8217;t Visualization Tool has a wow factor to it. The tech behind it might not be exciting but visually it\u0026#8217;s stunning (the video below probably doesn\u0026#8217;t do it full justice). It does however require a download. Windows, Mac and Linux are all supported.\u003C/p\u003E\n\n\u003Cp\u003EFidg\u0026#8217;t\u0026#8217;s current support of social networks is limited. Three chat platforms, Flickr and Last.fm means that in its current form it\u0026#8217;s not going to appeal to everyone. Facebook, Digg, del.icio.us, Eventful and Upcoming support is planned, with the Fidg\u0026#8217;t team open to further suggestions.\u003C/p\u003E\n\n\u003Cp\u003E(Source: techcrunch.com)\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[108,
+       52],
+      "assets/images/resized/0002/3447/23447v1-max-150x150.png"],
+     [[108,
+       52],
+      "assets/images/resized/0002/3447/23447v1-max-250x250.png"],
+     [[108,
+       52],
+      "assets/images/resized/0002/3447/23447v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Eduardo",
+      "last_name": "Sciammarella",
+      "permalink": "eduardo-sciammarella",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/4442/254442v1-max-150x150.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0025/4442/254442v1-max-250x250.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0025/4442/254442v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Board of Advisors",
+    "person":
+     {"first_name": "Howard",
+      "last_name": "Rheingold",
+      "permalink": "howard-rheingold",
+      "image": null}},
+   {"is_past": true,
+    "title": "Board of Directors \u0026 Advisor",
+    "person":
+     {"first_name": "Bernard",
+      "last_name": "Moon",
+      "permalink": "bernard-moon",
+      "image":
+       {"available_sizes":
+         [[[116,
+            150],
+           "assets/images/resized/0001/0540/10540v3-max-150x150.jpg"],
+          [[124,
+            159],
+           "assets/images/resized/0001/0540/10540v3-max-250x250.jpg"],
+          [[124,
+            159],
+           "assets/images/resized/0001/0540/10540v3-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FriendFeed",
+      "permalink": "friendfeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1096/1096v1-max-150x150.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-250x250.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Santa Monica",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.01052,
+    "longitude": -118.495981}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techcrunch.com/2007/05/10/fidgt-central-control-of-social-networks/",
+    "title": "Fidg\u00e2\u20ac\u2122t: Central Control of Social Networks"}]}

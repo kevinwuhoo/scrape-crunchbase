@@ -1,0 +1,91 @@
+{"name": "CloudMailin",
+ "permalink": "cloudmailin",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudmailin",
+ "homepage_url": "http://cloudmailin.com",
+ "blog_url": "http://blog.cloudmailin.com",
+ "blog_feed_url": "",
+ "twitter_username": "cloudmailin",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email, scalability, software-as-a-platform, software-as-a-service",
+ "alias_list": null,
+ "email_address": "crunchbase@cloudmailin.com",
+ "phone_number": "",
+ "description": "Incoming Email for Web Apps",
+ "created_at": "Tue Nov 30 21:06:43 UTC 2010",
+ "updated_at": "Sat Dec 18 00:47:03 UTC 2010",
+ "overview": "\u003Cp\u003ECloudMailin provides scalable incoming email for web apps.\u003C/p\u003E\n\n\u003Cp\u003ECloudMailin allows users to receive any volume of incoming email via a Webhook. Users are given an email address that will forward any incoming message to their app, as an HTTP POST, within milliseconds. You can also seamlessly check the delivery status of each of your incoming emails via the dashboard, bounce emails that you do not wish to receive and use your own domain name.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0011/2327/112327v6-max-150x150.png"],
+     [[250,
+       100],
+      "assets/images/resized/0011/2327/112327v6-max-250x250.png"],
+     [[250,
+       100],
+      "assets/images/resized/0011/2327/112327v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Added Steve Smith as Founder",
+    "stoned_year": 2010,
+    "stoned_month": null,
+    "stoned_day": null,
+    "source_url": "http://www.crunchbase.com/person/steve-smith-5",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "CloudMailin",
+      "permalink": "cloudmailin"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        127],
+       "assets/images/resized/0011/2589/112589v2-max-150x150.jpg"],
+      [[250,
+        212],
+       "assets/images/resized/0011/2589/112589v2-max-250x250.jpg"],
+      [[450,
+        383],
+       "assets/images/resized/0011/2589/112589v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

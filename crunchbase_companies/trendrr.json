@@ -1,0 +1,158 @@
+{"name": "Trendrr",
+ "permalink": "trendrr",
+ "crunchbase_url": "http://www.crunchbase.com/company/trendrr",
+ "homepage_url": "http://www.trendrr.com",
+ "blog_url": "http://blog.trendrr.com",
+ "blog_feed_url": "http://blog.trendrr.com/feed/",
+ "twitter_username": "trendrr",
+ "category_code": "enterprise",
+ "number_of_employees": 20,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "analytics, business-intelligence, social-media, digita-media, real-time, trends, social-tv",
+ "alias_list": null,
+ "email_address": "bizdev@trendrr.com",
+ "phone_number": "212-242-3400",
+ "description": "Media and advertising solutions.",
+ "created_at": "Wed Mar 26 03:43:38 UTC 2008",
+ "updated_at": "Sat Apr 20 23:31:21 UTC 2013",
+ "overview": "\u003Cp\u003ELaunched in 2007, Trendrr is a category-defining platform used by leading TV networks, studios, brands, and publishers to measure, quantify and curate social activity streams. Trendrr\u0026#8217;s social analytics solution harnesses the power of real-time social data to provide insights that power dynamic and compelling user experiences. These user experiences help media companies grow their audience, business, revenue, and brand equity.\u003C/p\u003E\n\n\u003Cp\u003EIn 2010, Trendrr launched Trendrr.TV, the first platform to address the growing phenomenon of second-screen viewing and social behavior. Trendrr.TV is an intuitive, turnkey enterprise technology solution that solves the problem of processing, understanding and leveraging social data around television. It helps networks, television studios, brands, and media agencies understand points of attention and value across different devices and services. Trendrr.TV filters out the noise, distilling the social chatter about TV and brands into meaningful data,and actionable insights.\u003C/p\u003E\n\n\u003Cp\u003ETrendrr\u0026#8217;s measurement is an evolution of the GRP into the GEP (Gross Engagement Point). The Gross Engagement Point measurement gives media buyers, brands and advertisers an additional metric to inform buying and measuring campaign effectiveness.\u003C/p\u003E\n\n\u003Cp\u003EFounded by former senior Sony executives, and created by Wiredset, the real-time digital agency, Trendrr powers social charts and features for Multi-channel news, Mashable, Advertising Age, NY Post, New York Magazine, Time Magazine and is used for tent pole events such as the Academy Awards, VMAs, Latin Grammys, BET Music Awards and many more.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0001/6379/16379v13-max-150x150.png"],
+     [[250,
+       52],
+      "assets/images/resized/0001/6379/16379v13-max-250x250.png"],
+     [[450,
+       94],
+      "assets/images/resized/0001/6379/16379v13-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Trendrr.tv",
+    "permalink": "trendrr-tv",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Ghuneim",
+      "permalink": "mark-ghuneim",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Architect ",
+    "person":
+     {"first_name": "Dustin",
+      "last_name": "Norlander",
+      "permalink": "dustin-norlander",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "J. Mann",
+      "permalink": "alex-mann",
+      "image":
+       {"available_sizes":
+         [[[118,
+            150],
+           "assets/images/resized/0003/7883/37883v8-max-150x150.jpg"],
+          [[196,
+            250],
+           "assets/images/resized/0003/7883/37883v8-max-250x250.jpg"],
+          [[354,
+            450],
+           "assets/images/resized/0003/7883/37883v8-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EAlex J. Mann\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TwentyFeet",
+      "permalink": "twentyfeet",
+      "image":
+       {"available_sizes":
+         [[[94,
+            150],
+           "assets/images/resized/0008/3398/83398v1-max-150x150.png"],
+          [[142,
+            226],
+           "assets/images/resized/0008/3398/83398v1-max-250x250.png"],
+          [[142,
+            226],
+           "assets/images/resized/0008/3398/83398v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce Radian6",
+      "permalink": "radian6",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0001/2046/12046v4-max-150x150.jpg"],
+          [[151,
+            44],
+           "assets/images/resized/0001/2046/12046v4-max-250x250.jpg"],
+          [[151,
+            44],
+           "assets/images/resized/0001/2046/12046v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Scout Labs",
+      "permalink": "scoutlabs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/2617/2617v2-max-150x150.jpg"],
+          [[250,
+            81],
+           "assets/images/resized/0000/2617/2617v2-max-250x250.jpg"],
+          [[275,
+            90],
+           "assets/images/resized/0000/2617/2617v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "580 Broadway ",
+    "address2": "Suite 210",
+    "zip_code": "10012",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.724421,
+    "longitude": -73.997026}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[63,
+        150],
+       "assets/images/resized/0010/3740/103740v2-max-150x150.png"],
+      [[105,
+        250],
+       "assets/images/resized/0010/3740/103740v2-max-250x250.png"],
+      [[189,
+        450],
+       "assets/images/resized/0010/3740/103740v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,127 @@
+{"name": "TriggerMail",
+ "permalink": "triggermail",
+ "crunchbase_url": "http://www.crunchbase.com/company/triggermail",
+ "homepage_url": "http://triggermail.io",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "triggermailapp",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": 1,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "marketing-automation, email-marketing, techstars, techstars-nyc-2013",
+ "alias_list": "triggermail.io",
+ "email_address": "info@triggermail.io",
+ "phone_number": "",
+ "description": "Relevant trigger emails for Ecommerce",
+ "created_at": "Sun Apr 28 22:15:43 UTC 2013",
+ "updated_at": "Fri May 31 20:37:59 UTC 2013",
+ "overview": "\u003Cp\u003ETriggerMail is a service that allows marketing managers at e-commerce companies to send personalized triggered emails based on customer behavior, providing incremental revenue and improving customer engagement.\u003C/p\u003E\n\n\u003Cp\u003ETriggerMail directly integrates with e-commerce websites and automatically sends customers personalized and relevant email messages based on key signals, such as search terms, product browsing, and cart activities. We provide real-time analytics and allow marketing managers to freely edit email templates. Integration can be completed in a single day with only one line of code.\u003C/p\u003E\n\n\u003Cp\u003EOur goal is to provide e-commerce companies Amazon-like email capability out-of-the-box.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0026/9264/269264v3-max-150x150.png"],
+     [[250,
+       70],
+      "assets/images/resized/0026/9264/269264v3-max-250x250.png"],
+     [[450,
+       127],
+      "assets/images/resized/0026/9264/269264v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder and CTO",
+    "person":
+     {"first_name": "Mahmoud",
+      "last_name": "Arram",
+      "permalink": "mahmoud-arram",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder and CEO",
+    "person":
+     {"first_name": "Fayez",
+      "last_name": "Mohamood",
+      "permalink": "fayez-mohamood-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Eugene",
+      "last_name": "Chung",
+      "permalink": "eugene-chung",
+      "image":
+       {"available_sizes":
+         [[[150,
+            124],
+           "assets/images/resized/0025/5596/255596v2-max-150x150.jpg"],
+          [[250,
+            208],
+           "assets/images/resized/0025/5596/255596v2-max-250x250.jpg"],
+          [[400,
+            333],
+           "assets/images/resized/0025/5596/255596v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EEugene Chung\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$118k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.techstars.com/techstars-nyc-2013-class/",
+    "source_description": "TechStars NYC 2013 Class",
+    "raised_amount": 118000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 2,
+    "investments":
+     [{"company":
+        {"name": "TechStars",
+         "permalink": "techstars",
+         "image":
+          {"available_sizes":
+            [[[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-150x150.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-250x250.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

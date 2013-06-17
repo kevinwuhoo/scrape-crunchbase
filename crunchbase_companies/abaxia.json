@@ -1,0 +1,142 @@
+{"name": "Abaxia",
+ "permalink": "abaxia",
+ "crunchbase_url": "http://www.crunchbase.com/company/abaxia",
+ "homepage_url": "http://www.abaxia.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "abaxia",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "+33 (0)1 41 10 22 33",
+ "description": "",
+ "created_at": "Wed Jun 09 03:45:06 UTC 2010",
+ "updated_at": "Mon Apr 01 17:17:32 UTC 2013",
+ "overview": "\u003Cp\u003EAbaxia SAS operates as a software developer providing mobile handset software solutions for network operators and handset manufacturers. It specializes in on-device solutions for activating the first screen of mobile devices. The company offers Mobile Portal, a mobile-embedded client-customized user interface that replaces the classical home page, and brings users one-click access to value-added services and information; and Mobile Finder, a mobile embedded software designed to simplify the offline and online search. It also provides Smart Agent, a mobile embedded software, which interacts with the handset environment to enhance Mobile Portal or other client software features; and Mobile Tag, an embedded application that can read tags and decipher them. Abaxia SAS was founded in 2001 and is headquartered in Neuilly sur Seine, France. As of June 7, 2010, Abaxia SAS operates as a subsidiary of HTC France Corporation.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0008/9974/89974v2-max-150x150.jpg"],
+     [[250,
+       66],
+      "assets/images/resized/0008/9974/89974v2-max-250x250.jpg"],
+     [[320,
+       85],
+      "assets/images/resized/0008/9974/89974v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Cedric",
+      "last_name": "Mangaud",
+      "permalink": "cedric-mangaud",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.77M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 1770000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 11,
+    "funded_day": 8,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "IDF CAPITAL",
+         "permalink": "idf-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               56],
+              "assets/images/resized/0005/1636/51636v1-max-150x150.png"],
+             [[225,
+               85],
+              "assets/images/resized/0005/1636/51636v1-max-250x250.png"],
+             [[225,
+               85],
+              "assets/images/resized/0005/1636/51636v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "XAnge Private Equity",
+         "permalink": "xange-private-equity",
+         "image":
+          {"available_sizes":
+            [[[150,
+               55],
+              "assets/images/resized/0004/6391/46391v2-max-150x150.png"],
+             [[250,
+               92],
+              "assets/images/resized/0004/6391/46391v2-max-250x250.png"],
+             [[250,
+               92],
+              "assets/images/resized/0004/6391/46391v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 13000000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://deals.venturebeat.com/2010/06/07/htc-purchases-mobile-software-company-abaxia-for-13m/",
+   "source_description": "HTC purchases mobile software company Abaxia for $13M",
+   "acquired_year": 2010,
+   "acquired_month": 6,
+   "acquired_day": 7,
+   "acquiring_company":
+    {"name": "HTC",
+     "permalink": "htc",
+     "image":
+      {"available_sizes":
+        [[[122,
+           71],
+          "assets/images/resized/0001/9198/19198v2-max-150x150.png"],
+         [[122,
+           71],
+          "assets/images/resized/0001/9198/19198v2-max-250x250.png"],
+         [[122,
+           71],
+          "assets/images/resized/0001/9198/19198v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "40 rue Madeleine Michelis ",
+    "address2": "",
+    "zip_code": "92200",
+    "city": "Neuilly sur Seine",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

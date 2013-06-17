@@ -1,0 +1,112 @@
+{"name": "Elastic Email",
+ "permalink": "elastic-email",
+ "crunchbase_url": "http://www.crunchbase.com/company/elastic-email",
+ "homepage_url": "http://elasticemail.com",
+ "blog_url": "http://elasticemail.com/blog",
+ "blog_feed_url": "http://elasticemail.com/posts/rss/xml",
+ "twitter_username": "",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email, esp, cloud",
+ "alias_list": null,
+ "email_address": "support@elasticemail.com",
+ "phone_number": "",
+ "description": "Email Service Provider",
+ "created_at": "Sun Jan 15 06:35:23 UTC 2012",
+ "updated_at": "Mon Jan 16 23:15:42 UTC 2012",
+ "overview": "\u003Cp\u003EElastic Email is a simple, fast email delivery service for high volume transactional email from cloud applications or marketing needs.\u003C/p\u003E\n\n\u003Cp\u003EElastic Email provides both an SMTP Relay and REST API for easy integration of email applications or software from any platform.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       22],
+      "assets/images/resized/0017/0192/170192v2-max-150x150.png"],
+     [[250,
+       37],
+      "assets/images/resized/0017/0192/170192v2-max-250x250.png"],
+     [[330,
+       50],
+      "assets/images/resized/0017/0192/170192v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Joshua",
+      "last_name": "Perina",
+      "permalink": "joshua-perina",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SendGrid",
+      "permalink": "sendgrid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0010/7565/107565v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-250x250.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Postmark",
+      "permalink": "postmark",
+      "image": null}},
+   {"competitor":
+     {"name": "SMTP",
+      "permalink": "smtp-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0012/6672/126672v2-max-150x150.png"],
+          [[207,
+            55],
+           "assets/images/resized/0012/6672/126672v2-max-250x250.png"],
+          [[207,
+            55],
+           "assets/images/resized/0012/6672/126672v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        88],
+       "assets/images/resized/0017/0191/170191v2-max-150x150.jpg"],
+      [[250,
+        147],
+       "assets/images/resized/0017/0191/170191v2-max-250x250.jpg"],
+      [[450,
+        266],
+       "assets/images/resized/0017/0191/170191v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

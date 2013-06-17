@@ -1,0 +1,155 @@
+{"name": "Verid",
+ "permalink": "verid",
+ "crunchbase_url": "http://www.crunchbase.com/company/verid",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Jul 01 03:58:22 UTC 2010",
+ "updated_at": "Thu Jun 30 00:02:16 UTC 2011",
+ "overview": "\u003Cp\u003EVerid is responding by introducing a major new version of its industry leading Knowledge Based Authentication (KBA) platform that helps businesses quickly authenticate consumers through a series of personalized questions unique to that individual. Verid\u00e2\u20ac\u2122s clients include 11 of the top 20 financial service providers, 3 of the top 6 telecom/wireless providers and 3 of the top 10 retailers.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Marc",
+      "last_name": "Slack",
+      "permalink": "marc-slack",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chairman \u0026 CEO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Watson",
+      "permalink": "kevin-watson-2",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0014/1768/141768v2-max-150x150.jpg"],
+          [[177,
+            250],
+           "assets/images/resized/0014/1768/141768v2-max-250x250.jpg"],
+          [[256,
+            360],
+           "assets/images/resized/0014/1768/141768v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Chairman \u0026 CEO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Watson",
+      "permalink": "kevin-watson",
+      "image": null}},
+   {"is_past": true,
+    "title": "COO",
+    "person":
+     {"first_name": "Christopher",
+      "last_name": "Rickborn",
+      "permalink": "christopher-rickborn",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$13.2M",
+ "funding_rounds":
+  [{"round_code": "c",
+    "source_url": "http://www.networkcomputing.com/backup-recovery/verid-secures-132-million.php",
+    "source_description": "Verid Secures $13.2 Million",
+    "raised_amount": 13200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 9,
+    "funded_day": 14,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Fidelity Ventures",
+         "permalink": "fidelity-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               38],
+              "assets/images/resized/0001/0980/10980v1-max-150x150.jpg"],
+             [[218,
+               56],
+              "assets/images/resized/0001/0980/10980v1-max-250x250.jpg"],
+             [[218,
+               56],
+              "assets/images/resized/0001/0980/10980v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "CIBC Capital Partners",
+         "permalink": "cibc-capital-partners",
+         "image":
+          {"available_sizes":
+            [[[90,
+               84],
+              "assets/images/resized/0002/3399/23399v1-max-150x150.jpg"],
+             [[90,
+               84],
+              "assets/images/resized/0002/3399/23399v1-max-250x250.jpg"],
+             [[90,
+               84],
+              "assets/images/resized/0002/3399/23399v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://news.cnet.com/EMC-acquires-security-company-Verid/2110-7355_3-6188548.html",
+   "source_description": " EMC acquires security company Verid",
+   "acquired_year": 2007,
+   "acquired_month": 6,
+   "acquired_day": 4,
+   "acquiring_company":
+    {"name": "EMC",
+     "permalink": "emc",
+     "image":
+      {"available_sizes":
+        [[[150,
+           150],
+          "assets/images/resized/0002/1658/21658v2-max-150x150.png"],
+         [[250,
+           250],
+          "assets/images/resized/0002/1658/21658v2-max-250x250.png"],
+         [[400,
+           400],
+          "assets/images/resized/0002/1658/21658v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

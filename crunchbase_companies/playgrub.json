@@ -1,0 +1,80 @@
+{"name": "Playgrub",
+ "permalink": "playgrub",
+ "crunchbase_url": "http://www.crunchbase.com/company/playgrub",
+ "homepage_url": "http://www.playgrub.com",
+ "blog_url": "http://playgrub.posterous.com",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music, playlist",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Music Scraping",
+ "created_at": "Mon Dec 07 20:08:35 UTC 2009",
+ "updated_at": "Mon Dec 07 20:11:30 UTC 2009",
+ "overview": "\u003Cp\u003EPlaygrub is an Open Source  bookmarklet that scrapes supported sites for music metadata, stores that data in a central repository and exposes the resulting playlists as XSPFs accessible through a REST interface. Playgrub then creates nice Playlick/Spiffdar URLs for loading the playlists. \u003C/p\u003E\n\n\u003Cp\u003EPlaygrub supports sites such as: \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ELast.fm\u003C/li\u003E\n\u003Cli\u003EApple.com iTunes Charts\u003C/li\u003E\n\u003Cli\u003EMusicbraniz Releases\u003C/li\u003E\n\u003Cli\u003EBBC Radio Programmes\u003C/li\u003E\n\u003Cli\u003ESongkick Setlists\u003C/li\u003E\n\u003Cli\u003EThe Y! Radish\u003C/li\u003E\n\u003Cli\u003EFIQL Playlists \u003C/li\u003E\n\u003Cli\u003EGrooveshark Playlist Export\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0006/8773/68773v1-max-150x150.png"],
+     [[185,
+       70],
+      "assets/images/resized/0006/8773/68773v1-max-250x250.png"],
+     [[185,
+       70],
+      "assets/images/resized/0006/8773/68773v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Toby",
+      "last_name": "Padilla",
+      "permalink": "toby-padilla",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0007/0668/70668v2-max-150x150.jpg"],
+          [[150,
+            200],
+           "assets/images/resized/0007/0668/70668v2-max-250x250.jpg"],
+          [[150,
+            200],
+           "assets/images/resized/0007/0668/70668v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

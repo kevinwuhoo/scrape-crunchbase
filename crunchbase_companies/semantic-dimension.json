@@ -1,0 +1,129 @@
+{"name": "Semantic Dimension",
+ "permalink": "semantic-dimension",
+ "crunchbase_url": "http://www.crunchbase.com/company/semantic-dimension",
+ "homepage_url": "http://tweetedtimes.com",
+ "blog_url": "http://tweetedtimes.wordpress.com",
+ "blog_feed_url": "",
+ "twitter_username": "twttimes",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-news, personalized-news, twitter, news, tweeted-times, twittertim-es, twittertimes",
+ "alias_list": null,
+ "email_address": "support@tweetedtimes.com",
+ "phone_number": "",
+ "description": "TweetedTimes company",
+ "created_at": "Thu May 05 12:48:50 UTC 2011",
+ "updated_at": "Tue Apr 09 09:40:50 UTC 2013",
+ "overview": "\u003Cp\u003ESemantic Dimension Inc. is the company behind the TweetedTimes (http://tweetedtimes.com) - personalized news service.\u003C/p\u003E\n\n\u003Cp\u003E5 co-founders of Semantic Dimension Inc. are based in Moscow, Zurich and San Francisco. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       125],
+      "assets/images/resized/0013/3341/133341v3-max-150x150.jpg"],
+     [[240,
+       200],
+      "assets/images/resized/0013/3341/133341v3-max-250x250.jpg"],
+     [[240,
+       200],
+      "assets/images/resized/0013/3341/133341v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Maria",
+      "last_name": "Grineva",
+      "permalink": "maria-grineva",
+      "image":
+       {"available_sizes":
+         [[[150,
+            132],
+           "assets/images/resized/0013/6963/136963v2-max-150x150.png"],
+          [[250,
+            221],
+           "assets/images/resized/0013/6963/136963v2-max-250x250.png"],
+          [[450,
+            398],
+           "assets/images/resized/0013/6963/136963v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "co-founder, engineer",
+    "person":
+     {"first_name": "Ivan",
+      "last_name": "Shcheklein",
+      "permalink": "ivan-shcheklein",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Flipboard",
+      "permalink": "flipboard",
+      "image":
+       {"available_sizes":
+         [[[119,
+            150],
+           "assets/images/resized/0008/6174/86174v5-max-150x150.png"],
+          [[198,
+            250],
+           "assets/images/resized/0008/6174/86174v5-max-250x250.png"],
+          [[300,
+            377],
+           "assets/images/resized/0008/6174/86174v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Paper.li",
+      "permalink": "paper-li",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0011/6952/116952v2-max-150x150.jpg"],
+          [[250,
+            83],
+           "assets/images/resized/0011/6952/116952v2-max-250x250.jpg"],
+          [[387,
+            130],
+           "assets/images/resized/0011/6952/116952v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "16 Lva Tolstogo str",
+    "address2": "",
+    "zip_code": "",
+    "city": " Moscow",
+    "state_code": null,
+    "country_code": "RUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2009/09/17/for-better-social-news-times-make-it-the-twitter-times/",
+    "title": "For Better Social News Times, Make It The Twitter Times"},
+   {"external_url": "http://www.guardian.co.uk/media/pda/2009/nov/05/digital-media-twitter-personalised-newspaper-twittertimes",
+    "title": "The Twitter Times generates a newspaper from your account"},
+   {"external_url": "http://www.ojr.org/ojr/people/eulken/200911/1793/",
+    "title": "TwitterTim.es: Personalized news done right?"}]}

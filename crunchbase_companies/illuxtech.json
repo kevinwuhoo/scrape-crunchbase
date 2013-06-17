@@ -1,0 +1,78 @@
+{"name": "illuxtech",
+ "permalink": "illuxtech",
+ "crunchbase_url": "http://www.crunchbase.com/company/illuxtech",
+ "homepage_url": "http://illuxtech.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, client, face-detection, object-detection, computer-vision",
+ "alias_list": null,
+ "email_address": "illuxtech@gmail.com",
+ "phone_number": "",
+ "description": "cloud/client computer vision service",
+ "created_at": "Tue May 22 09:23:12 UTC 2012",
+ "updated_at": "Tue May 29 02:11:57 UTC 2012",
+ "overview": "\u003Cp\u003EStartup company, illuxtech, popularizes computer vision technologies\u003C/p\u003E\n\n\u003Cp\u003ETaiwan-based startup company, illuxtech, provides a customized real-time object detection service to help customers design value-added products. Users just need to submit images with target objects, such as human faces, to illuxtech clouds. Computers will automatically learn to recognize target objects and generate computation-optimized software library for client devices within a few hours. The service can help customers design potentially value-added features on their products.\u003C/p\u003E\n\n\u003Cp\u003E[ Machine learning technologies make computers to recognize real-world objects ]\u003C/p\u003E\n\n\u003Cp\u003EOver the past decade, the technology breakthrough in machine learning field greatly improves computer object-detection capability. However, related applications are limited in the market due to a long development time of understanding and optimizing complicated techniques for commercial products. illuxtech cloud/client service simplifies complex processes and reduces development time from months to hours. Users only need to upload the images with target objects to illuxtech clouds. A computation-optimized object detection library will be available within a few hours. \u003C/p\u003E\n\n\u003Cp\u003E[ Important information extraction from massive video sequences adds value to products ]\u003C/p\u003E\n\n\u003Cp\u003ESince billions of image sensors were shipped in the past few years, an efficient way of analyzing massive video sequences and extracting useful information for various applications is becoming more and more important. illuxtech engineering team takes advantage of sophisticated experience on image analysis and object recognition technologies to provide customers a low-cost turn-key object-detection solution to achieve product differentiation easily. In addition, computation optimization techniques on heterogeneous platforms also help customers achieve faster time-to-market. Current customers include smartphone, vehicle surveillance system, and digital home set-up box manufacturers. \u003C/p\u003E\n\n\u003Cp\u003ETo demonstrate object detection performance, a real-time face detection app developed by illuxtech clouds is available on Google Play website. More details on illuxtech website, http://illuxtech.com\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0019/0969/190969v2-max-150x150.png"],
+     [[250,
+       187],
+      "assets/images/resized/0019/0969/190969v2-max-250x250.png"],
+     [[450,
+       337],
+      "assets/images/resized/0019/0969/190969v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "real-time face detection library",
+    "permalink": "real-time-face-detection-library",
+    "image": null},
+   {"name": "real-time object detection library",
+    "permalink": "real-time-object-detection-library",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[90,
+        150],
+       "assets/images/resized/0019/1533/191533v2-max-150x150.png"],
+      [[150,
+        250],
+       "assets/images/resized/0019/1533/191533v2-max-250x250.png"],
+      [[270,
+        450],
+       "assets/images/resized/0019/1533/191533v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

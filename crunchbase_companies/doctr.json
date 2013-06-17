@@ -1,0 +1,112 @@
+{"name": "doctr",
+ "permalink": "doctr",
+ "crunchbase_url": "http://www.crunchbase.com/company/doctr",
+ "homepage_url": "http://doctr.com",
+ "blog_url": "http://doctr.com/blog",
+ "blog_feed_url": "http://doctr.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "enterprise",
+ "number_of_employees": 10,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "health, medicine, healthcare, video, videochat, germany, deutschland, private, security, webapp",
+ "alias_list": null,
+ "email_address": "info@doctr.com",
+ "phone_number": "+4933120046200",
+ "description": "Secure doctor patient communication",
+ "created_at": "Thu May 14 17:21:36 UTC 2009",
+ "updated_at": "Sat May 16 22:00:42 UTC 2009",
+ "overview": "\u003Cp\u003Edoctr.com builds secure doctor to patient and doctor to doctor communication.\u003C/p\u003E\n\n\u003Cp\u003EThe doctr.com Online-Sprechstunde is a web-based secure video chat client for doctors to increase communication with their patients. Security standards of the Online-Sprechstunde meet or exceed current online banking coding practices. Patient data is never stored on central servers and the video chat functions in a peer-to-peer transmission. Open source code is being used and the architecture of the video chat security will be released to allow for peer review. \u003C/p\u003E\n\n\u003Cp\u003ECurrently doctr.com is partnering with a variety of large health care players in Germany to provide simple, powerful, and secure tools to doctors.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       69],
+      "assets/images/resized/0004/4091/44091v2-max-150x150.jpg"],
+     [[250,
+       115],
+      "assets/images/resized/0004/4091/44091v2-max-250x250.jpg"],
+     [[450,
+       207],
+      "assets/images/resized/0004/4091/44091v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Online-Sprechstunde",
+    "permalink": "online-sprechstunde",
+    "image": null},
+   {"name": "doctr.com",
+    "permalink": "doctr-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Founder",
+    "person":
+     {"first_name": "Kai",
+      "last_name": "v. Harbou",
+      "permalink": "kai-v-harbou",
+      "image":
+       {"available_sizes":
+         [[[150,
+            101],
+           "assets/images/resized/0004/6308/46308v2-max-150x150.jpg"],
+          [[248,
+            168],
+           "assets/images/resized/0004/6308/46308v2-max-250x250.jpg"],
+          [[248,
+            168],
+           "assets/images/resized/0004/6308/46308v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Fabienne",
+      "last_name": "Serriere",
+      "permalink": "fabienne-serriere",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0004/6309/46309v2-max-150x150.jpg"],
+          [[248,
+            250],
+           "assets/images/resized/0004/6309/46309v2-max-250x250.jpg"],
+          [[388,
+            390],
+           "assets/images/resized/0004/6309/46309v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Bertha-von-Suttner-Str. 8",
+    "address2": "",
+    "zip_code": "14469",
+    "city": "Potsdam",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 52.4069988,
+    "longitude": 13.0627199}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://vimeo.com/2801429",
+    "title": "ZDF Bericht \u00c3\u00bcber die Online-Sprechstunde"}]}

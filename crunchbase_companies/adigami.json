@@ -1,0 +1,89 @@
+{"name": "Adigami",
+ "permalink": "adigami",
+ "crunchbase_url": "http://www.crunchbase.com/company/adigami",
+ "homepage_url": "http://www.adigami.com",
+ "blog_url": "http://www.adigami.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "adigami",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "digital-media, analytics, rest-api, dashboards, doubleclick, google-analytics, google-adwords, microsoft-adcenter, bing-ads, facebook-ads, facebook-insights, twitter",
+ "alias_list": null,
+ "email_address": "info@adigami.com",
+ "phone_number": "949-385-0490",
+ "description": "Digital media analytics",
+ "created_at": "Wed Oct 17 19:50:51 UTC 2012",
+ "updated_at": "Wed Dec 12 07:12:09 UTC 2012",
+ "overview": "\u003Cp\u003EAdigami is a data integration and visualization company specializing in digital media analytics. Their platform helps companies collect analytics data from all digital media channels (search, display, mobile, web, email, etc.) and bring it into a single data store. Many different data sources such as Google Analytics, AdWords, Bing, Yahoo! APT!, and DoubleClick are supported. Clients can also integrate their own specific data into the mix, enabling them to compare internal metrics against standard digital media ones.  \u003C/p\u003E\n\n\u003Cp\u003EAdigami has also developed a unified REST API that can be used to access the collected data. The API can be used by clients to bypass integration with multiple sources and focus on display and analysis of results.\u003C/p\u003E\n\n\u003Cp\u003EOn the visualization front, Adigami has integrations in place with Geckoboard and for clients needing deeper analysis and richer visualizations, they\u0026#8217;ve partnered with GoodData.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[126,
+       52],
+      "assets/images/resized/0021/8933/218933v3-max-150x150.jpg"],
+     [[126,
+       52],
+      "assets/images/resized/0021/8933/218933v3-max-250x250.jpg"],
+     [[126,
+       52],
+      "assets/images/resized/0021/8933/218933v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Cyrus",
+      "last_name": "Ghalambor",
+      "permalink": "cyrus-ghalambor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0025/3259/253259v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0025/3259/253259v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0025/3259/253259v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "260 Newport Center Drive",
+    "address2": "",
+    "zip_code": "92660",
+    "city": "Newport Beach",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.6109831,
+    "longitude": -117.8731896}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.socaltech.com/adigami_takes_on_digital_marketing_analytics/s-0045417.html",
+    "title": "Adigami Takes On Digital Marketing Analytics"}]}

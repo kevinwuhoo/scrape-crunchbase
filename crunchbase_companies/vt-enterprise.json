@@ -1,0 +1,93 @@
+{"name": "VT Enterprise",
+ "permalink": "vt-enterprise",
+ "crunchbase_url": "http://www.crunchbase.com/company/vt-enterprise",
+ "homepage_url": "http://vtenterprise.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2001,
+ "founded_month": 8,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "databases, sql, nosql, wall-street, finance, market-data, reference-data, data, enterprise-data-management, resource-oriented-architecture, roa",
+ "alias_list": null,
+ "email_address": "victor.olex@vtenterprise.com",
+ "phone_number": "(347) 948-6539",
+ "description": "Wall Street coders and consultants",
+ "created_at": "Wed Sep 26 03:21:54 UTC 2012",
+ "updated_at": "Thu Oct 11 21:58:32 UTC 2012",
+ "overview": "\u003Cp\u003EVT Enterprise\u0026#8217;s business is to enhance competitive advantage of clients in financial industry and beyond by intelligent use of computer technology.\u003C/p\u003E\n\n\u003Cp\u003EThe company has been serving Wall Street\u0026#8217;s premier institutions since 2001 providing access to expert programmers and the highly specialized custom software solutions.\u003C/p\u003E\n\n\u003Cp\u003ECompany\u0026#8217;s product offerings include:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E/db (SlashDB), a software which automatically makes RESTful web services out or relational databases, and \u003C/li\u003E\n\u003Cli\u003EAssetcloud - customized implementation of /db for data management and distribution in the securities industry (reference, market data, transactions, compliance, risk etc.)\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EOutside of finance, VT Enterprise\u0026#8217;s /db has attracted developers of mobile enterprise applications, who leverage its automated API to access corporate databases for reading and writing in standard data formats such as JSON, XML and comma-separated values.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0021/3066/213066v2-max-150x150.png"],
+     [[250,
+       48],
+      "assets/images/resized/0021/3066/213066v2-max-250x250.png"],
+     [[381,
+       74],
+      "assets/images/resized/0021/3066/213066v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Victor",
+      "last_name": "Olex",
+      "permalink": "victor-olex",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Dobrzanski",
+      "permalink": "mike-dobrzanski",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2001,
+    "funded_month": 8,
+    "funded_day": 13,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "07305",
+    "city": "Jersey City",
+    "state_code": "NJ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

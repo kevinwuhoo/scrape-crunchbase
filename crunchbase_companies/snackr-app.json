@@ -1,0 +1,88 @@
+{"name": "Snackr App",
+ "permalink": "snackr-app",
+ "crunchbase_url": "http://www.crunchbase.com/company/snackr-app",
+ "homepage_url": "http://www.snackr.com",
+ "blog_url": "http://blog.snackr.com",
+ "blog_feed_url": "",
+ "twitter_username": "snackrapp",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "news, audio, snacker, pandora, aurality",
+ "alias_list": null,
+ "email_address": "jason@snackr.com",
+ "phone_number": "",
+ "description": "Personalized Audio News",
+ "created_at": "Mon Feb 20 06:06:44 UTC 2012",
+ "updated_at": "Tue Mar 06 21:39:44 UTC 2012",
+ "overview": "\u003Cp\u003ESnackr provides personalized audio news in bite size. Think Siri if she were your own personal news anchor. But its not just news, its your friend\u0026#8217;s birthdays, the weather, sports scores and more!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       69],
+      "assets/images/resized/0017/6270/176270v2-max-150x150.jpg"],
+     [[250,
+       116],
+      "assets/images/resized/0017/6270/176270v2-max-250x250.jpg"],
+     [[450,
+       209],
+      "assets/images/resized/0017/6270/176270v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Tongbai",
+      "permalink": "jason-tongbai",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Brunner",
+      "permalink": "brian-brunner",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/36984216?title=0\u0026amp;byline=0\u0026amp;portrait=0\" width=\"420\" height=\"236\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[100,
+        150],
+       "assets/images/resized/0017/6269/176269v2-max-150x150.png"],
+      [[166,
+        250],
+       "assets/images/resized/0017/6269/176269v2-max-250x250.png"],
+      [[300,
+        450],
+       "assets/images/resized/0017/6269/176269v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/02/24/snackr-for-iphone-is-a-pandora-for-news/",
+    "title": "TechCrunch - Snackr For iPhone Is A \u201cPandora For News\u201d"}]}

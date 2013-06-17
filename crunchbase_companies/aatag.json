@@ -1,0 +1,100 @@
+{"name": "aaTag",
+ "permalink": "aatag",
+ "crunchbase_url": "http://www.crunchbase.com/company/aatag",
+ "homepage_url": "http://www.aatag.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "aatagrfid",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "contactless-payment, information-exchange, rfid-",
+ "alias_list": null,
+ "email_address": "contato@aatag.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Jun 21 14:47:59 UTC 2010",
+ "updated_at": "Sun Mar 04 06:05:43 UTC 2012",
+ "overview": "\u003Cp\u003EOur goal at aaTag is to give everyone the ability to easily access services and objects customized for their profile, context, preferences, social graph and stream.\u003C/p\u003E\n\n\u003Cp\u003EaaTag created a platform where user sign up once and can use their profile, preference, context, social graph and stream n times. User gives micro permissions each time they interact.\u003C/p\u003E\n\n\u003Cp\u003EAn example of a service: \u0026#8220;aaTag here and send flowers to your wife\u0026#8221;\u009d. The end user waves his rfid card or sticker over the board and our platform access his profile in Facebook, check who his wife is and send to her an email or Facebook message saying: \u0026#8220;Hi Patrizia, I am in Walmart Sorocaba and when I saw these flowers my heart remembered you, xxx Augusto\u0026#8221;\u003C/p\u003E\n\n\u003Cp\u003EWe use rfid to create a completely new experience for end users giving micro permissions and receive personalized services and products. aaTag is an ubiquitous platform in the real world where the user do not need to carry a device with keyboard, camera, screen, batteries, network, mouse or touch to interact with services and products. \u003C/p\u003E\n\n\u003Cp\u003EWe created an open platform for Internet of Things. We took care of connecting and giving tags to the end user and created a couple of services (APIs) to let other services providers interact with the user profile, preferences, context, social graph and stream.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[129,
+       150],
+      "assets/images/resized/0009/1254/91254v4-max-150x150.png"],
+     [[215,
+       250],
+      "assets/images/resized/0009/1254/91254v4-max-250x250.png"],
+     [[247,
+       286],
+      "assets/images/resized/0009/1254/91254v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Caio",
+      "last_name": "Buti",
+      "permalink": "caio-buti",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Alexandre",
+      "last_name": "Alvaro",
+      "permalink": "alexandre-alvaro",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, PhD",
+    "person":
+     {"first_name": "Augusto",
+      "last_name": "Camargo",
+      "permalink": "augusto-camargo",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 12,
+    "funded_day": 29,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "aaTag Office",
+    "address1": "Liverdade Avenue, 1701",
+    "address2": "",
+    "zip_code": "18087-170",
+    "city": "Sorocaba",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

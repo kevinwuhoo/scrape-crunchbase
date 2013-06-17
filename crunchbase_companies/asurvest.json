@@ -1,0 +1,100 @@
+{"name": "Asurvest",
+ "permalink": "asurvest",
+ "crunchbase_url": "http://www.crunchbase.com/company/asurvest",
+ "homepage_url": "http://www.asurvest.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Asurvest",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2013,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "asurvest, crowdfunding-insurance, luke-cooper-lawyer",
+ "alias_list": null,
+ "email_address": "luke.cooper@asurvest.com",
+ "phone_number": "4108705954",
+ "description": "Asurion for Crowdfunding",
+ "created_at": "Sun Mar 31 05:03:30 UTC 2013",
+ "updated_at": "Fri May 03 04:30:15 UTC 2013",
+ "overview": "\u003Cp\u003EAsurvest is a web based service delivering affordable risk management products to crowdfund users to protect against fraud, bankruptcy \u0026amp; unknowable loss. Our loss models use decades of research \u0026amp; dynamic analytics to accurately price the risk of fraud, dissolution, or remote systemic failures. Our software pricing utility is easily integrated into Crowdfund portals allowing investors to rapidly price \u0026amp; purchase our products for a small percentage of the principal investment.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       118],
+      "assets/images/resized/0024/6747/246747v2-max-150x150.png"],
+     [[197,
+       155],
+      "assets/images/resized/0024/6747/246747v2-max-250x250.png"],
+     [[197,
+       155],
+      "assets/images/resized/0024/6747/246747v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sudhir",
+      "last_name": "Shandilya",
+      "permalink": "sudhir-shandilya",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Risk Officer",
+    "person":
+     {"first_name": "Lloyd",
+      "last_name": "Foster",
+      "permalink": "lloyd-foster",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, CTO",
+    "person":
+     {"first_name": "Sudhir",
+      "last_name": "Shandilya",
+      "permalink": "sudhir-shandilya-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "HiPark",
+         "permalink": "hipark",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.bmoremedia.com/innovationnews/crowdfundinginsurance020113.aspx",
+    "title": "Article on our Launch "},
+   {"external_url": "http://www.crowdfundinsider.com/2013/04/crowdfunding-risk-manager-asurevest-announces-appointments/",
+    "title": "New Additions"}]}

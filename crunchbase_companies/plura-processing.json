@@ -1,0 +1,121 @@
+{"name": "Plura Processing",
+ "permalink": "plura-processing",
+ "crunchbase_url": "http://www.crunchbase.com/company/plura-processing",
+ "homepage_url": "http://www.pluraprocessing.com",
+ "blog_url": "http://pluraprocessing.wordpress.com",
+ "blog_feed_url": "http://pluraprocessing.wordpress.com/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hpc, high-performance-computing, grid-computing, distributed-computing, computing, cloud-computing, monetization, game-advertising, game-ads",
+ "alias_list": "",
+ "email_address": "support@pluraprocessing.com",
+ "phone_number": "7138685300",
+ "description": "Computing solutions",
+ "created_at": "Sat Nov 29 16:21:27 UTC 2008",
+ "updated_at": "Sat Aug 01 01:29:38 UTC 2009",
+ "overview": "\u003Cp\u003EPlura Processing combines Internet technology and grid computing to create a new, secure source of compute power for solving large computational and distributed bandwidth problems.  \u003C/p\u003E\n\n\u003Cp\u003EAs of December 2008, Plura has approximately 50,000 nodes in its grid.  Due to patent-pending technology, the company can offer this compute power at a price that is approximately 10-12x cheaper than competing solutions, such as Amazon EC2 and traditional HPC providers.\u003C/p\u003E\n\n\u003Cp\u003EPlura works with a variety of organizations, such as non-profits and websites, to connect thousands of computers to its grid.  Plura\u0026#8217;s technology allows visitors to a website to become part of the grid through use of lightweight Java applet.  This applet runs in a very secure framework thanks to the Java sandbox model.  The applet can be integrated with other Java or Flash applications, allowing for dynamic control.\u003C/p\u003E\n\n\u003Cp\u003EPlura pays the website in exchange for the computer power provided by the website\u0026#8217;s visitors.  This compensation creates a new, incremental source of revenue that does not compete with ads.  The company already has several popular sites as affiliates, such as Desktop Tower Defense and several popular game portals.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[135,
+       61],
+      "assets/images/resized/0003/0170/30170v2-max-150x150.png"],
+     [[135,
+       61],
+      "assets/images/resized/0003/0170/30170v2-max-250x250.png"],
+     [[135,
+       61],
+      "assets/images/resized/0003/0170/30170v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jennifer",
+      "last_name": "Wilson",
+      "permalink": "jennifer-wilson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Brad",
+      "last_name": "Wilson",
+      "permalink": "brad-wilson",
+      "image":
+       {"available_sizes":
+         [[[126,
+            150],
+           "assets/images/resized/0011/6241/116241v2-max-150x150.jpg"],
+          [[210,
+            250],
+           "assets/images/resized/0011/6241/116241v2-max-250x250.jpg"],
+          [[305,
+            363],
+           "assets/images/resized/0011/6241/116241v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$750k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 750000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Creeris Ventures",
+         "permalink": "creeris-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               46],
+              "assets/images/resized/0005/4934/54934v4-max-150x150.jpg"],
+             [[213,
+               66],
+              "assets/images/resized/0005/4934/54934v4-max-250x250.jpg"],
+             [[213,
+               66],
+              "assets/images/resized/0005/4934/54934v4-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Houston",
+    "address1": "1250 Wood Branch Park Dr #405",
+    "address2": "",
+    "zip_code": "77079",
+    "city": "Houston",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 29.787991,
+    "longitude": -95.598441}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://gigaom.com/2008/10/27/more-money-i-game-developers-with-grid-computing/",
+    "title": "Startup Marries Games to Grid Computing"}]}

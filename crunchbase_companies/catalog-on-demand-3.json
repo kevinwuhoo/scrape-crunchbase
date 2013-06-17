@@ -1,0 +1,101 @@
+{"name": "Catalog-on-Demand",
+ "permalink": "catalog-on-demand-3",
+ "crunchbase_url": "http://www.crunchbase.com/company/catalog-on-demand-3",
+ "homepage_url": "http://www.catalog-on-demand.com",
+ "blog_url": "http://www.catalog-on-demand.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/catalog-on-demand",
+ "twitter_username": "catalogondemand",
+ "category_code": "ecommerce",
+ "number_of_employees": 6,
+ "founded_year": 1993,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "print-catalog, print-catalog-software",
+ "alias_list": null,
+ "email_address": "sales@catalog-on-demand.com",
+ "phone_number": "1 (206) 905-8442",
+ "description": "Print catalog software service",
+ "created_at": "Sun Jan 22 15:54:09 UTC 2012",
+ "updated_at": "Mon Jan 23 07:06:57 UTC 2012",
+ "overview": "\u003Cp\u003ECatalog-on-Demand is a provider of print catalog software-as-a-service (SaaS). \u003C/p\u003E\n\n\u003Cp\u003EThere are two types of solutions:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003E\u003Cp\u003EPDF for Every Product\nThis is a service that creates a downloadable PDF for every product page on an e-commerce site. PDFs are updated every 24 hours. The service is free for up to 1000 products per site.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EPrint Catalogs\nThis is a service to create custom print catalogs and brochures. Any publication can be configured to be auto-updated every 24 hours. \u003C/p\u003E\u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003EData can be provided to Catalog-on-Demand from:\n(a) Google data feeds (same as provided to Google Product Search)\n(b) Magento eCommerce platform, via the Catalog-on-Demand extension\n(c) Spreadsheets, delimited text files, or XML, structured per Catalog-on-Demand specifications\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0017/1246/171246v2-max-150x150.png"],
+     [[250,
+       53],
+      "assets/images/resized/0017/1246/171246v2-max-250x250.png"],
+     [[400,
+       86],
+      "assets/images/resized/0017/1246/171246v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Hennings",
+      "permalink": "tim-hennings-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Operations",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Swan",
+      "permalink": "rob-swan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Software Engineering",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Worsley",
+      "permalink": "chris-worsley",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main",
+    "address1": "4616 - 25th Ave NE #454",
+    "address2": "",
+    "zip_code": "98105",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[116,
+        150],
+       "assets/images/resized/0017/1245/171245v2-max-150x150.jpg"],
+      [[193,
+        250],
+       "assets/images/resized/0017/1245/171245v2-max-250x250.jpg"],
+      [[348,
+        450],
+       "assets/images/resized/0017/1245/171245v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

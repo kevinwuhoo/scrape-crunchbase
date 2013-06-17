@@ -1,0 +1,118 @@
+{"name": "SnackFeed",
+ "permalink": "snackfeed",
+ "crunchbase_url": "http://www.crunchbase.com/company/snackfeed",
+ "homepage_url": "http://snackfeed.com",
+ "blog_url": "http://cheese.snackfeed.com",
+ "blog_feed_url": "http://cheese.snackfeed.com/rss",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, feed, video-discovery, dreamit",
+ "alias_list": "",
+ "email_address": "hello@snackfeed.com",
+ "phone_number": "",
+ "description": "Video Recommendation Service",
+ "created_at": "Tue Sep 30 18:38:51 UTC 2008",
+ "updated_at": "Mon Aug 24 21:38:44 UTC 2009",
+ "overview": "\u003Cp\u003ESnackFeed is an online service that continually indexes video content to intelligently offer viewing options that are of interest to the user. The current online video market is extremely fragmented with more and more content being uploaded in more and more places every day. Trying to reach out, manage and organize this content has become frustrating. By combining a number of factors, SnackFeed creates a viewing profile for each user incorporating what you watch, who your friends are and what they are watching. Eventually users will be able to follow the video activities of friends\u00e2\u20ac\u201dif they upload, blog or share videos, SnackFeed users will receive updates through their \u00e2\u20ac\u0153feed,\u00e2\u20ac\u009d leveraging the power of social networks and video viewing habits to deliver interesting video content to you.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0002/5940/25940v2-max-150x150.png"],
+     [[211,
+       54],
+      "assets/images/resized/0002/5940/25940v2-max-250x250.png"],
+     [[211,
+       54],
+      "assets/images/resized/0002/5940/25940v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "MeFeedia",
+      "permalink": "mefeedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0004/2633/42633v4-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0004/2633/42633v4-max-250x250.png"],
+          [[450,
+            78],
+           "assets/images/resized/0004/2633/42633v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Remixation, Inc.",
+      "permalink": "remixation",
+      "image":
+       {"available_sizes":
+         [[[150,
+            17],
+           "assets/images/resized/0001/7434/17434v6-max-150x150.png"],
+          [[250,
+            29],
+           "assets/images/resized/0001/7434/17434v6-max-250x250.png"],
+          [[450,
+            52],
+           "assets/images/resized/0001/7434/17434v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.techcrunch.com/2008/09/04/dreamit-incubator-holds-funding-day-to-commemorate-first-graduating-class/",
+    "source_description": "DreamIt Incubator Holds Funding Day To Commemorate First Graduating Class",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2008,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "DreamIt Ventures",
+         "permalink": "dreamit-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               57],
+              "assets/images/resized/0002/7773/27773v5-max-150x150.jpg"],
+             [[250,
+               96],
+              "assets/images/resized/0002/7773/27773v5-max-250x250.jpg"],
+             [[251,
+               97],
+              "assets/images/resized/0002/7773/27773v5-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"400\" height=\"327\"\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=1917295\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" /\u003E\u003Cembed src=\"http://vimeo.com/moogaloop.swf?clip_id=1917295\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"400\" height=\"327\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cp\u003E\u003Ca href=\"http://vimeo.com/1917295\"\u003EMeet SnackFeed!\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/user820888\"\u003EDreamIt Ventures\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EProduct Description\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

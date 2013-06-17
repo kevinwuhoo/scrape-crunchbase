@@ -1,0 +1,127 @@
+{"name": "Secure BI",
+ "permalink": "secure-bi",
+ "crunchbase_url": "http://www.crunchbase.com/company/secure-bi",
+ "homepage_url": "http://www.securebi.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "securebi",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sap, security, grc, controls, audit, sox, erp, authorizations, provisioning",
+ "alias_list": null,
+ "email_address": "info@securebi.com",
+ "phone_number": "(530) 554-9524",
+ "description": "SAP Security Software",
+ "created_at": "Fri May 22 02:33:58 UTC 2009",
+ "updated_at": "Mon May 25 15:57:57 UTC 2009",
+ "overview": "\u003Cp\u003ESecure BI provides innovative SAP security tools for better security implementation and management. The company is focused on automating security maintenance and reporting; their goal is faster, better results with less effort.\u003C/p\u003E\n\n\u003Cp\u003ESecure BI\u0026#8217;s flagship product is visisec. Generate matrix reports in MS Excel on SAP security configuration based on predefined sets of roles, authorization objects and users. \u003C/p\u003E\n\n\u003Cp\u003ESecure BI\u0026#8217;s SAP BI/BW security administration application AQAgen works like a profile generator for SAP BI/BW Analysis Authorizations enabling dynamic assignment of authorizations to reporting users. \u003C/p\u003E\n\n\u003Cp\u003ESecure BI is based near San Francisco in Davis, California\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0004/5115/45115v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0004/5115/45115v2-max-250x250.jpg"],
+     [[374,
+       374],
+      "assets/images/resized/0004/5115/45115v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "visisec",
+    "permalink": "visisec",
+    "image": null},
+   {"name": "AQAgen",
+    "permalink": "aqagen",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mathew",
+      "last_name": "Billingham",
+      "permalink": "mathew-billingham",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Carl",
+      "last_name": "Shepherd",
+      "permalink": "carl-shepherd-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SAP",
+      "permalink": "sap",
+      "image":
+       {"available_sizes":
+         [[[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-150x150.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-250x250.png"],
+          [[66,
+            33],
+           "assets/images/resized/0003/1474/31474v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BMC Software",
+      "permalink": "bmc-software",
+      "image":
+       {"available_sizes":
+         [[[135,
+            66],
+           "assets/images/resized/0001/5901/15901v1-max-150x150.png"],
+          [[135,
+            66],
+           "assets/images/resized/0001/5901/15901v1-max-250x250.png"],
+          [[135,
+            66],
+           "assets/images/resized/0001/5901/15901v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CSI",
+      "permalink": "csi",
+      "image": null}}],
+ "providerships":
+  [{"title": "IP Law",
+    "is_past": false,
+    "provider":
+     {"name": "Amir Rezaizadeh",
+      "permalink": "amir-rezaizadeh",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "1520 E. Covell Blvd.",
+    "address2": "Suite 245",
+    "zip_code": "95616",
+    "city": "Davis",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 38.5621283,
+    "longitude": -121.7324992}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

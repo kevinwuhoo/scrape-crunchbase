@@ -1,0 +1,96 @@
+{"name": "CITYTECH",
+ "permalink": "citytech",
+ "crunchbase_url": "http://www.crunchbase.com/company/citytech",
+ "homepage_url": "http://www.citytechinc.com",
+ "blog_url": "http://blogs.citytechinc.com/company/",
+ "blog_feed_url": "",
+ "twitter_username": "citytech",
+ "category_code": "consulting",
+ "number_of_employees": 35,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise-applications, application-development, mobile-applications, content-management, cloud-computing, enterprise-integration, jboss, day-cq5, red-hat",
+ "alias_list": null,
+ "email_address": "info@citytechinc.com",
+ "phone_number": "312-673-6433",
+ "description": "IT Consultancy",
+ "created_at": "Thu Feb 03 18:13:12 UTC 2011",
+ "updated_at": "Mon Feb 07 19:13:12 UTC 2011",
+ "overview": "\u003Cp\u003ECITYTECH, Inc. is a national IT consultancy specializing in the architecture and design of highly available, scalable and extensible enterprise applications. \u003C/p\u003E\n\n\u003Cp\u003EWe are experts in: enterprise and mobile application development, content management, enterprise integration and cloud computing.  \u003C/p\u003E\n\n\u003Cp\u003ECITYTECH believes the best enterprise solutions are created by technical architects who understand business-related issues and possess the expert knowledge of strategic technology platforms used today and positioned for tomorrow. CITYTECH consultants\u00e2\u20ac\u2122 grasp of both business and technology ensures that the systems we design won\u00e2\u20ac\u2122t constrain your organization, but can adapt to meet ever-changing business needs. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[123,
+       150],
+      "assets/images/resized/0012/0381/120381v2-max-150x150.jpg"],
+     [[200,
+       243],
+      "assets/images/resized/0012/0381/120381v2-max-250x250.jpg"],
+     [[200,
+       243],
+      "assets/images/resized/0012/0381/120381v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Van Bergen",
+      "permalink": "matt-van-bergen",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Janet",
+      "last_name": "Van Bergen",
+      "permalink": "janet-van-bergen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Marketing \u0026 Communications Manager",
+    "person":
+     {"first_name": "Bridget",
+      "last_name": "Kulla",
+      "permalink": "bridget-kulla",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "National Headquarters",
+    "address1": "211 W. Wacker Drive",
+    "address2": "Suite 1300",
+    "zip_code": "60606",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.prweb.com/releases/2011/2/prweb8097366.htm",
+    "title": "New Case Study Showcases Umbraco Open Source CMS"},
+   {"external_url": "http://www.prweb.com/releases/mobile/webinar/prweb4534704.htm",
+    "title": "CityTech Presents the Webinar: Interactive Mobile Applications in the Enterprise "},
+   {"external_url": "http://www.prweb.com/releases/2010/JBossJumpStart/prweb3548294.htm",
+    "title": "CityTech, Inc. Introduces JBoss Jump Start Program to Quickly Help Organizations Deploy JBoss While Keeping Costs Down "}]}

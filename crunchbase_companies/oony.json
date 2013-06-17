@@ -1,0 +1,144 @@
+{"name": "Oony",
+ "permalink": "oony",
+ "crunchbase_url": "http://www.crunchbase.com/company/oony",
+ "homepage_url": "http://oony.com",
+ "blog_url": "http://blog.oony.com",
+ "blog_feed_url": "http://blog.oony.com/rss",
+ "twitter_username": "oony",
+ "category_code": "web",
+ "number_of_employees": 7,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "deals, aggregator, discounts, coupons, mobile, ai, relevance",
+ "alias_list": null,
+ "email_address": "support@oony.com",
+ "phone_number": "",
+ "description": "Deals explorer",
+ "created_at": "Wed Apr 06 23:21:41 UTC 2011",
+ "updated_at": "Tue Dec 11 05:20:37 UTC 2012",
+ "overview": "\u003Cp\u003EOony is the best way to find deals in your city. \u003C/p\u003E\n\n\u003Cp\u003EOony aggregates deals from different sources and sorts them out to find the best fit for each user using your current location among a mix of signals like users personal interests, memberships and credit cards, time and day, and a machine-learning algorithm based on the use of the service.\u003C/p\u003E\n\n\u003Cp\u003EOony is available on Android and Iphone devices by native applications, and other devices using a webapp. The service lets you know by email or IM (chat) when there are interesting deals available for you.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0012/9541/129541v5-max-150x150.png"],
+     [[250,
+       86],
+      "assets/images/resized/0012/9541/129541v5-max-250x250.png"],
+     [[450,
+       156],
+      "assets/images/resized/0012/9541/129541v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ariel",
+      "last_name": "Barmat",
+      "permalink": "ariel-barmat",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Hentschel",
+      "permalink": "christian-hentschel",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Gabriel",
+      "last_name": "Sagel",
+      "permalink": "gabriel-sagel",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Gaston",
+      "last_name": "Silberman",
+      "permalink": "gaston-silberman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yipit",
+      "permalink": "yipit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0010/4332/104332v1-max-150x150.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-250x250.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Social Deal Map",
+      "permalink": "social-deal-map",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0012/0938/120938v2-max-150x150.jpg"],
+          [[250,
+            99],
+           "assets/images/resized/0012/0938/120938v2-max-250x250.jpg"],
+          [[450,
+            179],
+           "assets/images/resized/0012/0938/120938v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Signpost",
+      "permalink": "signpost",
+      "image":
+       {"available_sizes":
+         [[[136,
+            150],
+           "assets/images/resized/0006/9235/69235v6-max-150x150.jpg"],
+          [[226,
+            250],
+           "assets/images/resized/0006/9235/69235v6-max-250x250.jpg"],
+          [[408,
+            450],
+           "assets/images/resized/0006/9235/69235v6-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Buenos Aires HQ",
+    "address1": "Ortiz de Ocampo 3302",
+    "address2": "",
+    "zip_code": "C1425DSU",
+    "city": "Buenos Aires",
+    "state_code": null,
+    "country_code": "ARG",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject style=\"height: 390px; width: 640px\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/ve9UgQAzhxw?version=3\"\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003Cparam name=\"allowScriptAccess\" value=\"always\"\u003E\u003Cembed src=\"http://www.youtube.com/v/ve9UgQAzhxw?version=3\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"640\" height=\"390\"\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EOony - Espa\u00c3\u00b1ol\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.oony.com",
+    "title": "Oony Blog"}]}

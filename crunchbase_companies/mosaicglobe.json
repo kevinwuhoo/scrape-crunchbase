@@ -1,0 +1,101 @@
+{"name": "MosaicGlobe",
+ "permalink": "mosaicglobe",
+ "crunchbase_url": "http://www.crunchbase.com/company/mosaicglobe",
+ "homepage_url": "http://www.mosaicglobe.com",
+ "blog_url": "http://www.mosaicglobe.com/journal/1",
+ "blog_feed_url": "http://www.mosaicglobe.com/journal/rss/1",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2004,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "art, artist, photography",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Mar 21 16:27:41 UTC 2008",
+ "updated_at": "Wed Jun 03 17:56:29 UTC 2009",
+ "overview": "\u003Cp\u003EMosaicGlobe is a hosted application that allows creative users to host, build, publish and maintain their own Web site as a personal creative journal or as a professional online presence without any technical experience. \u003C/p\u003E\n\n\u003Cp\u003EBuilt using Ruby on Rails - MosaicGlobe is a personal Content Management System (CMS). Users can add blogs, galleries, and text pages using a control panel and WYSIWYG editor. Basic users can choose from over 100 unique visual templates and advanced users can modify existing design or create their own CSS visual templates. Basic accounts are free and advanced accounts range from $5 - $14 per month. \u003C/p\u003E\n\n\u003Cp\u003EThe MosaicGlobe Project was created as a means to showcase and support the creative community. Artists are also online with a much higher frequency than the general population and are using the Internet to help create and distribute their art. However, only 16% of online artists have their own website. Why? Well, the average artist doesn\u0026#8217;t have the desire or time to learn HTML and web related skills. A website has become an important aspect of marketing and MosaicGlobe is working to remove the technical and financial barriers that have been keeping talented people and organizations from sharing their creativity online.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0001/9048/19048v1-max-150x150.png"],
+     [[156,
+       47],
+      "assets/images/resized/0001/9048/19048v1-max-250x250.png"],
+     [[156,
+       47],
+      "assets/images/resized/0001/9048/19048v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP of Development",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Ray",
+      "permalink": "jim-ray",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FolioLink",
+      "permalink": "foliolink",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0011/8534/118534v1-max-150x150.png"],
+          [[169,
+            35],
+           "assets/images/resized/0011/8534/118534v1-max-250x250.png"],
+          [[169,
+            35],
+           "assets/images/resized/0011/8534/118534v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Denver",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.755092,
+    "longitude": -104.988123}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/6520/46520v1-max-150x150.png"],
+      [[250,
+        157],
+       "assets/images/resized/0004/6520/46520v1-max-250x250.png"],
+      [[450,
+        283],
+       "assets/images/resized/0004/6520/46520v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

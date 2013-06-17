@@ -1,0 +1,151 @@
+{"name": "CloudStor.it",
+ "permalink": "cloudstor-it",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudstor-it",
+ "homepage_url": "http://CloudStor.it",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, storage, cloudstor-it, amazon, aws, s3",
+ "alias_list": null,
+ "email_address": "Michael@CloudStor.it",
+ "phone_number": "917-727-3665",
+ "description": "Cloud Storage",
+ "created_at": "Wed Jun 22 19:05:04 UTC 2011",
+ "updated_at": "Mon Jun 27 17:40:49 UTC 2011",
+ "overview": "\u003Cp\u003ECloudStor.it offers cloud storage at 1/7th the cost of Amazon S3.\nOur pricing is $50 per terra-byte, per month; which includes two (2) terra-bytes of data transfer bandwidth per month.\u003C/p\u003E\n\n\u003Cp\u003ECloudStor.it seamlessly integrates with any Amazon Web Services Application or service. And, we integrate with any other \u0026#8220;Cloud\u0026#8221; providers such as RightScale, RackSpace,  Eucalyptus, Cloud.com, Heroku, VMWare, etc. with similar savings.\u003C/p\u003E\n\n\u003Cp\u003ECloudStor.it also offers storage server appliances for $100 per TB, a fraction the cost of storage offered by: Dell, Hp, IBM, NetApp, or EMC. Our \u0026#8220;plug and play\u0026#8221; NAS appliances, are managed  from your web browser, and support: FTP, SMB/CIFS, AFS, NFS, GFS, PVFS, SHFS, Gluster and KosmosFS.  \u003C/p\u003E\n\n\u003Cp\u003ECloudStor.it also offers storage and compute clusters for unlimited storage and computational power.\u003C/p\u003E\n\n\u003Cp\u003EVisit our website for more information: http://CloudStor.it\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       77],
+      "assets/images/resized/0014/0534/140534v2-max-150x150.png"],
+     [[223,
+       115],
+      "assets/images/resized/0014/0534/140534v2-max-250x250.png"],
+     [[223,
+       115],
+      "assets/images/resized/0014/0534/140534v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder \u0026 CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Whitis",
+      "permalink": "michael-whitis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dell",
+      "permalink": "dell",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0001/3510/13510v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0001/3510/13510v5-max-250x250.png"],
+          [[432,
+            432],
+           "assets/images/resized/0001/3510/13510v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hewlett-Packard",
+      "permalink": "hewlett-packard",
+      "image":
+       {"available_sizes":
+         [[[145,
+            150],
+           "assets/images/resized/0001/4529/14529v5-max-150x150.jpg"],
+          [[242,
+            250],
+           "assets/images/resized/0001/4529/14529v5-max-250x250.jpg"],
+          [[291,
+            300],
+           "assets/images/resized/0001/4529/14529v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EMC",
+      "permalink": "emc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/1658/21658v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/1658/21658v2-max-250x250.png"],
+          [[400,
+            400],
+           "assets/images/resized/0002/1658/21658v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NetApp",
+      "permalink": "netapp",
+      "image":
+       {"available_sizes":
+         [[[88,
+            94],
+           "assets/images/resized/0002/2829/22829v1-max-150x150.png"],
+          [[88,
+            94],
+           "assets/images/resized/0002/2829/22829v1-max-250x250.png"],
+          [[88,
+            94],
+           "assets/images/resized/0002/2829/22829v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IBM",
+      "permalink": "ibm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "110 Green St.",
+    "address2": "#A501",
+    "zip_code": "11222",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

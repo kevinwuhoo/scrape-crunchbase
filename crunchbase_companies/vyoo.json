@@ -1,0 +1,88 @@
+{"name": "Vyoo",
+ "permalink": "vyoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/vyoo",
+ "homepage_url": "http://www.vyoo.eu",
+ "blog_url": "http://www.vyoo.eu/blog",
+ "blog_feed_url": "",
+ "twitter_username": "videoonline",
+ "category_code": "network_hosting",
+ "number_of_employees": 10,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, video-platform, video-management, video-cms, video-production",
+ "alias_list": null,
+ "email_address": "mike@vyoo-uk.com",
+ "phone_number": "00442079278360",
+ "description": "Online Video Platforms",
+ "created_at": "Wed Oct 05 12:44:00 UTC 2011",
+ "updated_at": "Sat Nov 19 01:29:38 UTC 2011",
+ "overview": "\u003Cp\u003EVyoo specialise in making video work. We have a developed a range of online applications allowing our clients to upload, encode, manage, store and distribute their video.\u003C/p\u003E\n\n\u003Cp\u003EVyoo Publisher allows users to upload source files and encode them to all the required formats for cross device playback. It\u0026#8217;s easy to break videos into chapters, insert advertising (via ad servers or just top and tail with click through), add captions, control regional playback, design players and easily create playlists. Our HTML5/Javascript players ensure the same user experience across PC, Mac, Android and iOS and their intelligent embed code detects the device and plays the right file every time.\u003C/p\u003E\n\n\u003Cp\u003EPublisher is used by a range of B2B publishers, financial services groups and marketing and advertising agencies. We also work with their suppliers to integrate our services into their existing CMS either via our API or bespoke development.\u003C/p\u003E\n\n\u003Cp\u003EVyoo Exchange offers a way to manage the production process, sign-off, compliance and distribution for video production facilities. \u003C/p\u003E\n\n\u003Cp\u003EHD videos can be uploaded and stored on S3. The video is encoded down to a suitable size for streaming delivery. Various stages can be setup as part of an approval process. Users can approve, reject and comment. Once a video is signed off it can be added to an online asset library which works as a secure alternative to  FTP.\u003C/p\u003E\n\n\u003Cp\u003EVyoo Channels is an intuitive CMS built in Zend and jquery to allow for the rapid deployment of video rich websites.\u003C/p\u003E\n\n\u003Cp\u003EUsers can split sites into multiple regions and create multiple administrative rights. Videos can then be uploaded, shared, localised and distributed. The entire process is made easy and requires no technical skills allowing the development and maintenance of truly cross platform sites without IT support. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0015/6886/156886v2-max-150x150.png"],
+     [[250,
+       101],
+      "assets/images/resized/0015/6886/156886v2-max-250x250.png"],
+     [[382,
+       155],
+      "assets/images/resized/0015/6886/156886v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "John",
+      "last_name": "Thwaites",
+      "permalink": "john-thwaites",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "97 Mortimer Street",
+    "address2": "",
+    "zip_code": "W1W 7SU",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        128],
+       "assets/images/resized/0015/6885/156885v2-max-150x150.jpg"],
+      [[250,
+        214],
+       "assets/images/resized/0015/6885/156885v2-max-250x250.jpg"],
+      [[450,
+        386],
+       "assets/images/resized/0015/6885/156885v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.mitel.tv",
+    "title": "Mitel TV - built with Vyoo Channels"}]}

@@ -1,0 +1,110 @@
+{"name": "LUNARR",
+ "permalink": "lunarr",
+ "crunchbase_url": "http://www.crunchbase.com/company/lunarr",
+ "homepage_url": "http://about.lunarr.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 11,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": 2009,
+ "deadpooled_month": 5,
+ "deadpooled_day": 10,
+ "deadpooled_url": "http://social.venturebeat.com/2009/04/30/failing-to-snag-users-lunarr-decides-to-shut-down/",
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "contact@lunarr.com",
+ "phone_number": "(503)953-8000",
+ "description": null,
+ "created_at": "Tue Feb 12 21:15:47 UTC 2008",
+ "updated_at": "Sat Jul 24 00:09:00 UTC 2010",
+ "overview": "\u003Cp\u003ELunarr is a service going into private beta that promises to put an end to the habit of emailing documents back and forth to collaborate. Its creators want to simplify collaboration by placing documents within the web browser and equipping users with wiki-like editing functionality and, more importantly, an email-like messaging system that associates messages with particular documents.\u003C/p\u003E\n\n\u003Cp\u003ELunarr works like this: to begin collaborating on a document, you can either upload a file to Lunarr or give it a URL (for online docs hosted at places like \u003Ca href=\"/company/google\" title=\"Google\" rel=\"nofollow\"\u003EGoogle\u003C/a\u003E or \u003Ca href=\"/company/zoho\" title=\"Zoho\" rel=\"nofollow\"\u003EZoho\u003C/a\u003E). Or you can start from scratch with a template. Then you can hit the tab located in the upper-right hand corner of the screen to \u00e2\u20ac\u0153flip\u00e2\u20ac\u009d the page over. On the \u00e2\u20ac\u0153other side\u00e2\u20ac\u009d exists a messaging tool that lets you send a message to others using their email addresses, whether or not they are Lunarr users. These messages can not only be used to discuss the document in question, but also to bestow access to the document to others.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       69],
+      "assets/images/resized/0001/1972/11972v1-max-150x150.png"],
+     [[163,
+       75],
+      "assets/images/resized/0001/1972/11972v1-max-250x250.png"],
+     [[163,
+       75],
+      "assets/images/resized/0001/1972/11972v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Toru",
+      "last_name": "Takasuka",
+      "permalink": "toru-takasuka",
+      "image": null}},
+   {"is_past": null,
+    "title": "Public Relations",
+    "person":
+     {"first_name": "Anna",
+      "last_name": "Atwell",
+      "permalink": "anna-atwell",
+      "image": null}},
+   {"is_past": true,
+    "title": "COO, Co-founder",
+    "person":
+     {"first_name": "Hideshi",
+      "last_name": "Hamaguchi",
+      "permalink": "hideshi-hamaguchi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Nordic River",
+      "permalink": "textflow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/8391/18391v7-max-150x150.png"],
+          [[207,
+            47],
+           "assets/images/resized/0001/8391/18391v7-max-250x250.png"],
+          [[207,
+            47],
+           "assets/images/resized/0001/8391/18391v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "10200 SW Greenburg Rd",
+    "address2": "Suite 475",
+    "zip_code": "97223",
+    "city": "Portland ",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": 45.446475,
+    "longitude": -122.773646}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.lunarr.com",
+    "title": "Login Page"},
+   {"external_url": "http://review.lunarr.com",
+    "title": "Quotes about Lunarr"},
+   {"external_url": "http://about.lunarr.com",
+    "title": "Company Page"}]}

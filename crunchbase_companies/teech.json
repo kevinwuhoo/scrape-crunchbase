@@ -1,0 +1,130 @@
+{"name": "Teech",
+ "permalink": "teech",
+ "crunchbase_url": "http://www.crunchbase.com/company/teech",
+ "homepage_url": "http://teech.io",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "teech_io",
+ "category_code": "education",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education, edtech, apis, developers-tools, platform, big-data, stackmob",
+ "alias_list": null,
+ "email_address": "hello@teech.io",
+ "phone_number": "",
+ "description": "StackMob for edtech developers",
+ "created_at": "Wed Apr 03 08:07:11 UTC 2013",
+ "updated_at": "Fri Apr 05 16:02:31 UTC 2013",
+ "overview": "\u003Cp\u003ETeech is a full stack edtech platform as a service. It makes it easy for developers to build educational applications for web, Android and iOS.\u003C/p\u003E\n\n\u003Cp\u003EWe offer a suite of tools (data storage, APIs, SDKs) for developers interested in building educational applications, both complete LMSs and games. \nDevelopers can integrate in their apps typical edtech functionalities like, for example, grading systems and students performance analytics, reducing costs and time to market of their products.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0024/7291/247291v4-max-150x150.png"],
+     [[200,
+       80],
+      "assets/images/resized/0024/7291/247291v4-max-250x250.png"],
+     [[200,
+       80],
+      "assets/images/resized/0024/7291/247291v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Lorenzo",
+      "last_name": "Bruno",
+      "permalink": "lorenzo-bruno",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Giuseppe",
+      "last_name": "Labanca",
+      "permalink": "giuseppe-labanca",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Clever",
+      "permalink": "clever",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0019/7493/197493v1-max-150x150.png"],
+          [[250,
+            108],
+           "assets/images/resized/0019/7493/197493v1-max-250x250.png"],
+          [[269,
+            117],
+           "assets/images/resized/0019/7493/197493v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LearnSprout",
+      "permalink": "learnsprout",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0020/0213/200213v8-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0020/0213/200213v8-max-250x250.png"],
+          [[450,
+            117],
+           "assets/images/resized/0020/0213/200213v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac30k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "http://www.workingcapital.telecomitalia.it/2013/02/teech-la-piattaforma-per-led-tech-vincitore-di-wcap-2011",
+    "source_description": "Teech: la piattaforma per l'edtech vincitore di WCap 2011",
+    "raised_amount": 30000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 2,
+    "funded_day": 15,
+    "investments":
+     [{"company":
+        {"name": "Telecom Italia",
+         "permalink": "telecom-italia",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0024/8063/248063v2-max-150x150.jpg"],
+      [[250,
+        141],
+       "assets/images/resized/0024/8063/248063v2-max-250x250.jpg"],
+      [[450,
+        254],
+       "assets/images/resized/0024/8063/248063v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.workingcapital.telecomitalia.it/2013/02/teech-la-piattaforma-per-led-tech-vincitore-di-wcap-2011",
+    "title": ""}]}

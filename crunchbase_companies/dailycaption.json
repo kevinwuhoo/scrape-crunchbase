@@ -1,0 +1,95 @@
+{"name": "DailyCaption",
+ "permalink": "dailycaption",
+ "crunchbase_url": "http://www.crunchbase.com/company/dailycaption",
+ "homepage_url": "http://www.dailycaption.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "flickr, photos, captions, ruby, rails, facebook",
+ "alias_list": null,
+ "email_address": "jordan@dailycaption.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Jun 27 06:14:10 UTC 2008",
+ "updated_at": "Thu Dec 01 07:49:03 UTC 2011",
+ "overview": "\u003Cp\u003EDailyCaption takes Flickr photos out of context through caption contests.  Building on the success of sites like http://icanhascheezburger.com, where people can add humorous captions to photos, DailyCaption users can submit captions to the featured generated Flickr photo of the day and vote up captions that they think are clever, funny, or just plain odd.  At the end of the day, the caption that got the most votes wins and is recorded for bragging rights and posterity. \u003C/p\u003E\n\n\u003Cp\u003EAs of June 16, 2008 DailyCaption was fully integrated into the Facebook Platform as a Facebook Application.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0002/1129/21129v2-max-150x150.png"],
+     [[211,
+       56],
+      "assets/images/resized/0002/1129/21129v2-max-250x250.png"],
+     [[211,
+       56],
+      "assets/images/resized/0002/1129/21129v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, UI Developer",
+    "person":
+     {"first_name": "Jordan",
+      "last_name": "Isip",
+      "permalink": "jordan-isip",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, Ruby/DB Developer",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "Van Dyk",
+      "permalink": "joe-van-dyk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0011/2791/112791v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0011/2791/112791v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0011/2791/112791v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "156 University Avenue",
+    "address2": "",
+    "zip_code": "94301",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.4441726,
+    "longitude": -122.1632941}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

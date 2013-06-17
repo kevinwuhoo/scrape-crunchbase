@@ -1,0 +1,188 @@
+{"name": "Vicarious",
+ "permalink": "vicarious-systems-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/vicarious-systems-inc",
+ "homepage_url": "http://vicarious.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "vicariousinc",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@vicarious.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Dec 06 16:56:25 UTC 2010",
+ "updated_at": "Mon Apr 29 22:01:58 UTC 2013",
+ "overview": "\u003Cp\u003EComputers are currently unable to understand the sensory experience of a human. Sense data is almost always noisy, blurry, occluded, and an ultimately incomplete 2D snapshot of a 3D world. For the past three decades, these uncertainties have foiled our best efforts to create automated systems for understanding the world as we experience it.\u003C/p\u003E\n\n\u003Cp\u003EHowever, there is one type of system that handles these problems with ease. The best general purpose reasoning system evolved millions of years ago, and comes preinstalled in every human brain. With a little help from neuroscience and biology, we are pioneering new algorithms that enable computers to become intelligent.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0012/1350/121350v3-max-150x150.png"],
+     [[250,
+       64],
+      "assets/images/resized/0012/1350/121350v3-max-250x250.png"],
+     [[450,
+       115],
+      "assets/images/resized/0012/1350/121350v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "D. Scott",
+      "last_name": "Phoenix",
+      "permalink": "d-scott-brown",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0006/3354/63354v2-max-150x150.png"],
+          [[187,
+            250],
+           "assets/images/resized/0006/3354/63354v2-max-250x250.png"],
+          [[337,
+            450],
+           "assets/images/resized/0006/3354/63354v2-max-450x450.png"]],
+        "attribution": "\u003Cp\u003E(c) Crisman Photography\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "Dileep",
+      "last_name": "George",
+      "permalink": "dileep-george",
+      "image": null}},
+   {"is_past": true,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Brad",
+      "last_name": "LaFountain",
+      "permalink": "brad-lafountain",
+      "image":
+       {"available_sizes":
+         [[[150,
+            142],
+           "assets/images/resized/0026/5310/265310v1-max-150x150.jpg"],
+          [[200,
+            190],
+           "assets/images/resized/0026/5310/265310v1-max-250x250.jpg"],
+          [[200,
+            190],
+           "assets/images/resized/0026/5310/265310v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$15M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://techcrunch.com/2012/08/21/vicarious-good-ventures-funding/",
+    "source_description": "Vicarious Raises $15M Led By Dustin Moskovitz\u2019s Good Ventures To Build Software That \u2018Learns Like A Human\u2019",
+    "raised_amount": 15000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 8,
+    "funded_day": 21,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Good Ventures",
+         "permalink": "good-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               101],
+              "assets/images/resized/0027/2544/272544v1-max-150x150.png"],
+             [[161,
+               109],
+              "assets/images/resized/0027/2544/272544v1-max-250x250.png"],
+             [[161,
+               109],
+              "assets/images/resized/0027/2544/272544v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Founders Fund",
+         "permalink": "founders-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               90],
+              "assets/images/resized/0000/2071/2071v11-max-150x150.png"],
+             [[250,
+               150],
+              "assets/images/resized/0000/2071/2071v11-max-250x250.png"],
+             [[333,
+               201],
+              "assets/images/resized/0000/2071/2071v11-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Open Field Capital",
+         "permalink": "open-field-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               47],
+              "assets/images/resized/0027/2547/272547v1-max-150x150.png"],
+             [[156,
+               49],
+              "assets/images/resized/0027/2547/272547v1-max-250x250.png"],
+             [[156,
+               49],
+              "assets/images/resized/0027/2547/272547v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Steve",
+         "last_name": "Brown",
+         "permalink": "steve-brown",
+         "image": null}},
+      {"company": null,
+       "financial_org":
+        {"name": "Felicis Ventures",
+         "permalink": "felicis-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               39],
+              "assets/images/resized/0001/8161/18161v6-max-150x150.png"],
+             [[250,
+               65],
+              "assets/images/resized/0001/8161/18161v6-max-250x250.png"],
+             [[396,
+               104],
+              "assets/images/resized/0001/8161/18161v6-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

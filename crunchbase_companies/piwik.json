@@ -1,0 +1,138 @@
+{"name": "Piwik",
+ "permalink": "piwik",
+ "crunchbase_url": "http://www.crunchbase.com/company/piwik",
+ "homepage_url": "http://piwik.org",
+ "blog_url": "http://piwik.org/blog",
+ "blog_feed_url": "http://piwik.org/feed/",
+ "twitter_username": null,
+ "category_code": "advertising",
+ "number_of_employees": 8,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-analytics, seo, opensource, webanalytics, statistics, reporting, marketing",
+ "alias_list": null,
+ "email_address": "hello@piwik.org",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Apr 22 21:07:30 UTC 2008",
+ "updated_at": "Fri Oct 26 04:03:12 UTC 2012",
+ "overview": "\u003Cp\u003EPiwik is an open source (GPL license) Web Analytics software. It generates reports on website visitors, popular pages, the search engines keywords used, and the language spoken.\u003C/p\u003E\n\n\u003Cp\u003EPiwik\u0026#8217;s features are built inside plugins: one can add new features and remove the ones not needed. Developers can build their own plugins.\nUsers also own the data. Once Piwik is installed on a server, the data is stored in users\u0026#8217; own database and  statistics can be obtained by using open APIs (publishing the data in many formats: xml, json, php, csv).\u003C/p\u003E\n\n\u003Cp\u003EAdditonally,  the user interface is fully customizable, users can drag and drop the widgets they want to display and create the reports they need.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       77],
+      "assets/images/resized/0001/7585/17585v3-max-150x150.jpg"],
+     [[250,
+       129],
+      "assets/images/resized/0001/7585/17585v3-max-250x250.jpg"],
+     [[450,
+       232],
+      "assets/images/resized/0001/7585/17585v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Project Manager",
+    "person":
+     {"first_name": "Matthieu",
+      "last_name": "Aubry",
+      "permalink": "matthieu-aubry",
+      "image": null}},
+   {"is_past": false,
+    "title": "Core Developer",
+    "person":
+     {"first_name": "Anthon",
+      "last_name": "Pang",
+      "permalink": "anthon-pang",
+      "image": null}},
+   {"is_past": false,
+    "title": "Core Developer",
+    "person":
+     {"first_name": "Maciej",
+      "last_name": "Zawadzinski",
+      "permalink": "maciej-zawadziski",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/9428/229428v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0022/9428/229428v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0022/9428/229428v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Marketing \u0026 Sales Lead",
+    "person":
+     {"first_name": "Adrian",
+      "last_name": "Speyer",
+      "permalink": "adrian-speyer",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0019/1111/191111v2-max-150x150.png"],
+          [[166,
+            250],
+           "assets/images/resized/0019/1111/191111v2-max-250x250.png"],
+          [[298,
+            450],
+           "assets/images/resized/0019/1111/191111v2-max-450x450.png"]],
+        "attribution": "\u003Cp\u003EAdrian Speyer\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "Marketing \u0026 PR",
+    "person":
+     {"first_name": "Thierry",
+      "last_name": "Scelles",
+      "permalink": "thierry-scelles",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0006/8951/68951v2-max-150x150.jpg"],
+          [[249,
+            250],
+           "assets/images/resized/0006/8951/68951v2-max-250x250.jpg"],
+          [[291,
+            292],
+           "assets/images/resized/0006/8951/68951v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EThierry Scelles / \u003Ca href=\"http://www.spoti.tv\" title=\"SPOTi\" rel=\"nofollow\"\u003ESPOTi\u003C/a\u003E\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "SysOp",
+    "person":
+     {"first_name": "Johan",
+      "last_name": "Math\u00c3\u00a9",
+      "permalink": "johan-math",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/piwik_google_analytics_alternative.php",
+    "title": "Piwik: Open Source Google Analytics Alternative"}]}

@@ -1,0 +1,136 @@
+{"name": "DateInMind",
+ "permalink": "dateinmind",
+ "crunchbase_url": "http://www.crunchbase.com/company/dateinmind",
+ "homepage_url": "http://www.dateinmind.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "public_relations",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-api, communication, email-automated, sms, text, phone-call",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Automated personalized communication",
+ "created_at": "Sun Jul 31 08:40:32 UTC 2011",
+ "updated_at": "Sun Mar 17 14:50:23 UTC 2013",
+ "overview": "\u003Cp\u003EDateInMind communicates with your contacts faster, cheaper and more often than any person, via text, email, phone and more.\u003C/p\u003E\n\n\u003Cp\u003EFounded in 2009, DateInMind is a subscription-based service that lets organizations and apps automate frequent communication. Leveraging cloud-communication APIs, DateInMind offers a low-cost way to actually send messages to contacts instead of sending reminders for you to follow up. \u003C/p\u003E\n\n\u003Cp\u003EAt its core is a proprietary decision and sequencing engine which allows for complete flexibility in the way messages can be arranged. It works around the clock to always check if a message should be sent (such as call home 3 days before an appointment or send a text 1 week before an exam). \u003C/p\u003E\n\n\u003Cp\u003ECurrently in private beta.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0015/2163/152163v2-max-150x150.jpg"],
+     [[250,
+       150],
+      "assets/images/resized/0015/2163/152163v2-max-250x250.jpg"],
+     [[450,
+       270],
+      "assets/images/resized/0015/2163/152163v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Database Architect",
+    "person":
+     {"first_name": "John",
+      "last_name": "Murray",
+      "permalink": "john-murray",
+      "image": null}},
+   {"is_past": false,
+    "title": "Development Lead",
+    "person":
+     {"first_name": "Ian",
+      "last_name": "Gervais",
+      "permalink": "ian-gervais",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Gervais",
+      "permalink": "kevin-gervais-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            124],
+           "assets/images/resized/0014/4827/144827v2-max-150x150.jpg"],
+          [[250,
+            208],
+           "assets/images/resized/0014/4827/144827v2-max-250x250.jpg"],
+          [[450,
+            374],
+           "assets/images/resized/0014/4827/144827v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Accounting",
+    "is_past": false,
+    "provider":
+     {"name": "Deloitte",
+      "permalink": "deloitte",
+      "image": null}},
+   {"title": "Development",
+    "is_past": false,
+    "provider":
+     {"name": "Spry Agency",
+      "permalink": "spry-agency",
+      "image": null}},
+   {"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Miller Canfield",
+      "permalink": "miller-canfield",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2009,
+    "funded_month": 9,
+    "funded_day": 19,
+    "investments":
+     [{"company":
+        {"name": "Spry Agency",
+         "permalink": "spry-agency",
+         "image":
+          {"available_sizes":
+            [[[150,
+               104],
+              "assets/images/resized/0014/4815/144815v2-max-150x150.jpg"],
+             [[250,
+               173],
+              "assets/images/resized/0014/4815/144815v2-max-250x250.jpg"],
+             [[450,
+               312],
+              "assets/images/resized/0014/4815/144815v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

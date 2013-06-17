@@ -1,0 +1,168 @@
+{"name": "DivShare",
+ "permalink": "divshare",
+ "crunchbase_url": "http://www.crunchbase.com/company/divshare",
+ "homepage_url": "http://www.divshare.com/",
+ "blog_url": "http://blog.divshare.com/",
+ "blog_feed_url": "http://blog.divshare.com/feed/",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "hosting, photos, videos, documents, publishing",
+ "alias_list": "",
+ "email_address": "support@divshare.com",
+ "phone_number": "",
+ "description": "Media Hosting",
+ "created_at": "Sat Mar 22 01:43:13 UTC 2008",
+ "updated_at": "Tue Sep 07 23:22:05 UTC 2010",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.divshare.com/\" title=\"divShare\" rel=\"nofollow\"\u003EdivShare\u003C/a\u003E hosts videos, photos, and other files for free.\u003C/p\u003E\n\n\u003Cp\u003EIn November of 2007 the site was \u003Ca href=\"http://www.dnforum.com/f48/high-profile-big-traffic-rev-site-sale-alexa-500-a-thread-261197.html\" title=\"posted for sale\" rel=\"nofollow\"\u003Eposted for sale\u003C/a\u003E on an online forum.\u003C/p\u003E\n\n\u003Cp\u003EDivshare was purchased by \u003Ca href=\"http://www.crunchbase.com/company/3sixty\" title=\"3Sixty\"\u003E3Sixty\u003C/a\u003E in Jan 2009.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0001/6209/16209v1-max-150x150.png"],
+     [[188,
+       32],
+      "assets/images/resized/0001/6209/16209v1-max-250x250.png"],
+     [[188,
+       32],
+      "assets/images/resized/0001/6209/16209v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "DivShare",
+    "permalink": "divshare",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Altschul",
+      "permalink": "david-altschul",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Howard",
+      "permalink": "rob-howard",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Flickr",
+      "permalink": "flickr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0021/3864/213864v1-max-150x150.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-250x250.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Box",
+      "permalink": "box",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/3484/3484v3-max-150x150.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-250x250.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "YouSendIt",
+      "permalink": "yousendit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0000/3922/3922v1-max-150x150.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-250x250.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fotki",
+      "permalink": "fotki",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/2299/2299v3-max-150x150.png"],
+          [[250,
+            92],
+           "assets/images/resized/0000/2299/2299v3-max-250x250.png"],
+          [[400,
+            148],
+           "assets/images/resized/0000/2299/2299v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2009/02/26/3sixty-fishes-divshare-out-of-the-deadpool/",
+   "source_description": "3Sixty Fishes DivShare Out Of The Deadpool",
+   "acquired_year": 2009,
+   "acquired_month": 1,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "3Sixty",
+     "permalink": "3sixty",
+     "image":
+      {"available_sizes":
+        [[[150,
+           26],
+          "assets/images/resized/0003/7111/37111v2-max-150x150.png"],
+         [[157,
+           28],
+          "assets/images/resized/0003/7111/37111v2-max-250x250.png"],
+         [[157,
+           28],
+          "assets/images/resized/0003/7111/37111v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "11654 Plaza America",
+    "address2": "Suite 531",
+    "zip_code": "20190",
+    "city": "Reston",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": 42.958747,
+    "longitude": -75.963326}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

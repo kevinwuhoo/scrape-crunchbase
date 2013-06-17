@@ -1,0 +1,131 @@
+{"name": "Insoshi",
+ "permalink": "insoshi",
+ "crunchbase_url": "http://www.crunchbase.com/company/insoshi",
+ "homepage_url": "http://insoshi.com",
+ "blog_url": "http://blog.insoshi.com",
+ "blog_feed_url": "http://blog.insoshi.com/feed/",
+ "twitter_username": "",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "socialnetworks, socialnetworking, whitelabel, opensource",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Open-source social network platform",
+ "created_at": "Fri Mar 14 18:56:32 UTC 2008",
+ "updated_at": "Fri Apr 05 20:04:21 UTC 2013",
+ "overview": "\u003Cp\u003EInsoshi is an open-source open networking platform. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       67],
+      "assets/images/resized/0001/5773/15773v6-max-150x150.png"],
+     [[166,
+       75],
+      "assets/images/resized/0001/5773/15773v6-max-250x250.png"],
+     [[166,
+       75],
+      "assets/images/resized/0001/5773/15773v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Hartl",
+      "permalink": "michael-hartl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            145],
+           "assets/images/resized/0001/6049/16049v1-max-150x150.png"],
+          [[250,
+            243],
+           "assets/images/resized/0001/6049/16049v1-max-250x250.png"],
+          [[450,
+            437],
+           "assets/images/resized/0001/6049/16049v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Long",
+      "last_name": "Nguyen",
+      "permalink": "long-nguyen",
+      "image":
+       {"available_sizes":
+         [[[146,
+            150],
+           "assets/images/resized/0001/6050/16050v1-max-150x150.png"],
+          [[243,
+            250],
+           "assets/images/resized/0001/6050/16050v1-max-250x250.png"],
+          [[438,
+            450],
+           "assets/images/resized/0001/6050/16050v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "San Francisco",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

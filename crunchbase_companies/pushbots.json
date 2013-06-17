@@ -1,0 +1,146 @@
+{"name": "PushBots",
+ "permalink": "pushbots",
+ "crunchbase_url": "http://www.crunchbase.com/company/pushbots",
+ "homepage_url": "http://www.pushbots.com/",
+ "blog_url": "http://blog.pushbots.com/",
+ "blog_feed_url": "http://blog.pushbots.com/rss",
+ "twitter_username": "PushBots",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@pushbots.com",
+ "phone_number": "",
+ "description": "Push notification service provider",
+ "created_at": "Sat Apr 13 20:38:11 UTC 2013",
+ "updated_at": "Sat Apr 13 20:38:15 UTC 2013",
+ "overview": "\u003Cp\u003EIt\u0026#8217;s a push notifications sending platform that makes it easy for mobile app developers to send push notifications to their customers.\nThe service is so easy to implement in the mobile app either iOS or Android app with their provided libraries. Also they provide some analytics for mobile app developers to know more about their users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0025/1311/251311v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0025/1311/251311v2-max-250x250.jpg"],
+     [[256,
+       256],
+      "assets/images/resized/0025/1311/251311v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Amr",
+      "last_name": "Sobhy",
+      "permalink": "amr-sobhy",
+      "image":
+       {"available_sizes":
+         [[[127,
+            150],
+           "assets/images/resized/0025/3471/253471v2-max-150x150.jpg"],
+          [[212,
+            250],
+           "assets/images/resized/0025/3471/253471v2-max-250x250.jpg"],
+          [[382,
+            450],
+           "assets/images/resized/0025/3471/253471v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Abdullah",
+      "last_name": "Diaa",
+      "permalink": "abdullah-diaa",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Urban Airship",
+      "permalink": "urban-airship",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0004/7529/47529v10-max-150x150.png"],
+          [[250,
+            67],
+           "assets/images/resized/0004/7529/47529v10-max-250x250.png"],
+          [[252,
+            68],
+           "assets/images/resized/0004/7529/47529v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PushFire",
+      "permalink": "pushfire",
+      "image":
+       {"available_sizes":
+         [[[150,
+            13],
+           "assets/images/resized/0020/8144/208144v2-max-150x150.png"],
+          [[250,
+            22],
+           "assets/images/resized/0020/8144/208144v2-max-250x250.png"],
+          [[450,
+            40],
+           "assets/images/resized/0020/8144/208144v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Push.IO",
+      "permalink": "push-io",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0004/6989/46989v5-max-150x150.jpg"],
+          [[250,
+            107],
+           "assets/images/resized/0004/6989/46989v5-max-250x250.jpg"],
+          [[450,
+            193],
+           "assets/images/resized/0004/6989/46989v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Cairo Office",
+    "address1": "1 Dr. Mohamed Sobhy Street, Giza",
+    "address2": "",
+    "zip_code": "",
+    "city": "Cairo",
+    "state_code": null,
+    "country_code": "EGY",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.flat6labs.com/companies-PushBots-33",
+    "title": ""},
+   {"external_url": "http://www.linkedin.com/company/pushbots",
+    "title": "LinkedIn"},
+   {"external_url": "http://www.youtube.com/watch?v=KkY62uVUdvU",
+    "title": ""},
+   {"external_url": "http://www.wamda.com/2013/01/egypt-s-flat6labs-graduates-cycle-3-here-s-what-they-re-building?ref=fb",
+    "title": ""}]}

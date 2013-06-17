@@ -1,0 +1,111 @@
+{"name": "Whois",
+ "permalink": "whois",
+ "crunchbase_url": "http://www.crunchbase.com/company/whois",
+ "homepage_url": "http://www.whois.com",
+ "blog_url": "http://www.whois.com/blog",
+ "blog_feed_url": "http://www.whois.com/blog/index.php?/feeds/index.rss2",
+ "twitter_username": "",
+ "category_code": "network_hosting",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "identity-platform, openID",
+ "alias_list": "",
+ "email_address": "tkwong@whois.com",
+ "phone_number": "",
+ "description": "Domain Names and identity",
+ "created_at": "Wed Apr 16 16:01:33 UTC 2008",
+ "updated_at": "Thu Jul 29 02:53:31 UTC 2010",
+ "overview": "\u003Cp\u003EThe whois? personal identity platform helps users create, manage and propagate their online presences. Users can download the whois? uPOD - a browser add-on - which helps to manage all their websites, login ids, passwords, and personal info organised under their multiple personas such as work, play, school etc. Using a one-click login feature, users can automatically sign-in into their favorite sites without having to re-enter their ids or passwords. You never have to forget another password! The uPOD also allows users to sync this feature across multiple computers thru the whois? server. \u003C/p\u003E\n\n\u003Cp\u003ECurrent version supports both IE and Firefox browsers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       94],
+      "assets/images/resized/0001/7387/17387v1-max-150x150.png"],
+     [[250,
+       156],
+      "assets/images/resized/0001/7387/17387v1-max-250x250.png"],
+     [[263,
+       165],
+      "assets/images/resized/0001/7387/17387v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "TK",
+      "last_name": "Wong",
+      "permalink": "tk-wong",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sxipper",
+      "permalink": "sxipper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/9664/19664v1-max-150x150.png"],
+          [[235,
+            48],
+           "assets/images/resized/0001/9664/19664v1-max-250x250.png"],
+          [[235,
+            48],
+           "assets/images/resized/0001/9664/19664v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$600k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://www.whois.com/press/",
+    "source_description": "Whois.com press release",
+    "raised_amount": 600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 12,
+    "funded_day": 31,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "82 Genting Lane",
+    "address2": "#03-08",
+    "zip_code": "",
+    "city": "Singapore",
+    "state_code": null,
+    "country_code": "SGP",
+    "latitude": 1.327062,
+    "longitude": 103.875336}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/7459/47459v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0004/7459/47459v1-max-250x250.png"],
+      [[450,
+        282],
+       "assets/images/resized/0004/7459/47459v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.whois.com",
+    "title": "whois?"}]}

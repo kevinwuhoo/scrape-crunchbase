@@ -1,0 +1,87 @@
+{"name": "Sumpto",
+ "permalink": "sumpto-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/sumpto-2",
+ "homepage_url": "http://www.sumpto.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Sumpto",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-influence, influence, college, influence-based-marketing, word-of-mouth, peer-influence",
+ "alias_list": "",
+ "email_address": "ben@sumpto.com",
+ "phone_number": "",
+ "description": "Social influence for college.",
+ "created_at": "Wed Feb 20 13:10:35 UTC 2013",
+ "updated_at": "Fri Jun 14 20:51:01 UTC 2013",
+ "overview": "\u003Cp\u003ESumpto measures the social influence of college students.They provide brands the unique ability to target and engage with specific college influencers.  \u003C/p\u003E\n\n\u003Cp\u003EUsers visit the website and must enter a valid .edu e-mail address to register.  Once confirmed, the student connects their Facebook and Twitter.  Sumpto then measures their social influence in the form of their Sumpto Score, a number from 1-100.  Based on the students\u0026#8217; Sumpto Score, they become eligible for free stuff and exclusive promotions from brands.  Sumpto\u0026#8217;s mission is to reward college students for their peer influence and essentially create an environment where the students does the talking organically for the brand.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0023/7954/237954v2-max-150x150.jpg"],
+     [[250,
+       78],
+      "assets/images/resized/0023/7954/237954v2-max-250x250.jpg"],
+     [[365,
+       115],
+      "assets/images/resized/0023/7954/237954v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Kosinski",
+      "permalink": "ben-kosinski",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$75k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 75000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "The Collective",
+    "address1": "568 Broadway",
+    "address2": "",
+    "zip_code": "10012",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.724364,
+    "longitude": -73.997458}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2013/02/20/sumpto-wants-to-be-the-klout-for-college-students/",
+    "title": "TechCrunch"}]}

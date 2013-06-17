@@ -1,0 +1,120 @@
+{"name": "CloudPuncher",
+ "permalink": "cloudpuncher",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudpuncher",
+ "homepage_url": "http://www.cloudpuncher.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cloudpunchr",
+ "category_code": "enterprise",
+ "number_of_employees": 10,
+ "founded_year": 2003,
+ "founded_month": 7,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "stress-testing, stress-test, cloud-testing, cloud-test, load-testing, load-test, performance-test, performance-testing, server-monitoring, qa, flex-stress-testing, ria-testing",
+ "alias_list": null,
+ "email_address": "info@cloudpuncher.com",
+ "phone_number": "972.764.5225",
+ "description": "Load testing for online applications",
+ "created_at": "Wed Sep 09 17:36:01 UTC 2009",
+ "updated_at": "Mon Sep 14 17:12:54 UTC 2009",
+ "overview": "\u003Cp\u003ECloudPuncher provides an online service for conducting Load and Performance tests of web sites and web-based applications using Cloud Computing infrastructure. \u003C/p\u003E\n\n\u003Cp\u003ECloudPuncher can execute a load and performance test of any website or Rich Internet Application (RIA) by allocating an unlimited number of concurrent virtual user sessions in the cloud. Every cloud-based virtual user process executes a pre-recorded script representing various types of website or web application visitors. Test scripts can be easily configured to randomize content.\u003C/p\u003E\n\n\u003Cp\u003ECloudPuncher automatically allocates and procures the required hardware to execute load and performance tests. The service includes a monitoring component capable of instrumenting various elements of the server-side application including, but not limited to, operating system resources (both for Windows and Linux), web servers, databases, Java application servers and RIA remoting/messaging gateways.  As a result, testers can conduct real-time monitoring and reporting of the performance of their servers, including receiving information about any errors or bottlenecks resulting from traffic load.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0005/9243/59243v2-max-150x150.jpg"],
+     [[250,
+       80],
+      "assets/images/resized/0005/9243/59243v2-max-250x250.jpg"],
+     [[450,
+       145],
+      "assets/images/resized/0005/9243/59243v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Piller",
+      "permalink": "mark-piller",
+      "image": null}},
+   {"is_past": false,
+    "title": "EVP",
+    "person":
+     {"first_name": "Bruce",
+      "last_name": "Sundquist",
+      "permalink": "bruce-sundquist",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP",
+    "person":
+     {"first_name": "Kathleen",
+      "last_name": "Erickson",
+      "permalink": "kathleen-erickson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SOASTA",
+      "permalink": "soasta",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0019/9673/199673v2-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0019/9673/199673v2-max-250x250.png"],
+          [[372,
+            64],
+           "assets/images/resized/0019/9673/199673v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hewlett-Packard",
+      "permalink": "hewlett-packard",
+      "image":
+       {"available_sizes":
+         [[[145,
+            150],
+           "assets/images/resized/0001/4529/14529v5-max-150x150.jpg"],
+          [[242,
+            250],
+           "assets/images/resized/0001/4529/14529v5-max-250x250.jpg"],
+          [[291,
+            300],
+           "assets/images/resized/0001/4529/14529v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "15455 Dallas Parkway",
+    "address2": "Suite 600",
+    "zip_code": "75001",
+    "city": "Addison",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

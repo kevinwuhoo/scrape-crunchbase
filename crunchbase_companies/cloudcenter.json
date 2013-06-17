@@ -1,0 +1,107 @@
+{"name": "CloudCenter",
+ "permalink": "cloudcenter",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudcenter",
+ "homepage_url": "http://www.cloudcenterllc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cloudcenter",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "google-apps, google, google-search-appliance, apps, grails, groovy, rainmaker",
+ "alias_list": null,
+ "email_address": "info@cloudcenterllc.com",
+ "phone_number": "+1.303.736.9406",
+ "description": "Work Smarter In the Cloud",
+ "created_at": "Fri Apr 30 17:15:53 UTC 2010",
+ "updated_at": "Mon Nov 29 17:42:30 UTC 2010",
+ "overview": "\u003Cp\u003ECloudCenter was formed with a simple mission: to enable small and medium businesses to work in the cloud. Small and medium businesses can drastically decrease the complexity and total cost of ownership of technology deployments by leveraging existing platforms provided by Google and technology provided by CloudCenter.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0008/5505/85505v2-max-150x150.png"],
+     [[250,
+       103],
+      "assets/images/resized/0008/5505/85505v2-max-250x250.png"],
+     [[286,
+       118],
+      "assets/images/resized/0008/5505/85505v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Rainmaker Contacts",
+    "permalink": "rainmaker-shared-contacts",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bart",
+      "last_name": "Lorang",
+      "permalink": "bart-lorang",
+      "image":
+       {"available_sizes":
+         [[[91,
+            150],
+           "assets/images/resized/0010/2557/102557v2-max-150x150.png"],
+          [[117,
+            191],
+           "assets/images/resized/0010/2557/102557v2-max-250x250.png"],
+          [[117,
+            191],
+           "assets/images/resized/0010/2557/102557v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "COO",
+    "person":
+     {"first_name": "Joshua",
+      "last_name": "Deixler",
+      "permalink": "joshua-deixler",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Denver HQ",
+    "address1": "1400 16th Street",
+    "address2": "Suite 400",
+    "zip_code": "80202",
+    "city": "Denver",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        113],
+       "assets/images/resized/0010/1690/101690v2-max-150x150.png"],
+      [[250,
+        189],
+       "assets/images/resized/0010/1690/101690v2-max-250x250.png"],
+      [[420,
+        318],
+       "assets/images/resized/0010/1690/101690v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

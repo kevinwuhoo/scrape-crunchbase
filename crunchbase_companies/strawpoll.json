@@ -1,0 +1,118 @@
+{"name": "StrawPoll",
+ "permalink": "strawpoll",
+ "crunchbase_url": "http://www.crunchbase.com/company/strawpoll",
+ "homepage_url": "http://www.strawpollnow.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 16,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 9,
+ "deadpooled_day": 17,
+ "deadpooled_url": "http://strawpollnow.com/",
+ "tag_list": "twitter, web-app, polls, polling",
+ "alias_list": "",
+ "email_address": "contact@strawpollnow.com",
+ "phone_number": "9196991419",
+ "description": "Twitter Polls",
+ "created_at": "Mon Apr 21 01:39:56 UTC 2008",
+ "updated_at": "Wed Sep 22 23:15:14 UTC 2010",
+ "overview": "\u003Cp\u003EStrawPoll is a Twitter application that posts daily polls in 140 characters or less. It was created by three Duke University students.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0001/8487/18487v1-max-150x150.png"],
+     [[250,
+       67],
+      "assets/images/resized/0001/8487/18487v1-max-250x250.png"],
+     [[330,
+       89],
+      "assets/images/resized/0001/8487/18487v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "StrawPoll",
+    "permalink": "strawpoll",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Wickett",
+      "permalink": "justin-wickett",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0003/8554/38554v1-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0003/8554/38554v1-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0003/8554/38554v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJustin Wickett\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Bobby",
+      "last_name": "Goodlatte",
+      "permalink": "rob-goodlatte",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-creator",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Romero",
+      "permalink": "dan-romero",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PollDaddy",
+      "permalink": "polldaddy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0000/2914/2914v1-max-150x150.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-250x250.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "27708",
+    "city": "Durham",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": 36.0073,
+    "longitude": -78.9206}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

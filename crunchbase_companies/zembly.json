@@ -1,0 +1,115 @@
+{"name": "zembly",
+ "permalink": "zembly",
+ "crunchbase_url": "http://www.crunchbase.com/company/zembly",
+ "homepage_url": "http://zembly.com",
+ "blog_url": "http://blog.zembly.com",
+ "blog_feed_url": "http://blog.zembly.com/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 6,
+ "deadpooled_year": 2009,
+ "deadpooled_month": 11,
+ "deadpooled_day": 10,
+ "deadpooled_url": "http://www.techcrunch.com/2009/11/10/sun-kills-zembly/",
+ "tag_list": "widget-facebook-social-network-cloud",
+ "alias_list": null,
+ "email_address": "biz@zembly.com",
+ "phone_number": "",
+ "description": "cloud social development",
+ "created_at": "Sat Apr 11 23:29:38 UTC 2009",
+ "updated_at": "Tue Nov 10 14:45:54 UTC 2009",
+ "overview": "\u003Cp\u003EZembly is a new kind of application development environment that brings the power of the crowd to you, so you can do more, faster. It\u0026#8217;s kind of like a wiki, but for applications.\u003C/p\u003E\n\n\u003Cp\u003EBrowser-based: Do everything in your browser. No downloads or installs.\u003C/p\u003E\n\n\u003Cp\u003ESocial programming: Create apps socially with other users, and reuse pieces and parts that they create. You choose the level of collaboration, from keeping everything private to making your app public and open source. We call it social programming.\u003C/p\u003E\n\n\u003Cp\u003ESocial networking: Connect with other zembly developers, watch their activity feeds, and send them messages. Be an expert, or get to know one, while working side-by-side with people in your social graph.\u003C/p\u003E\n\n\u003Cp\u003ETemplates: Community-provided templates let you create a useful application with a click. Even after you\u0026#8217;ve created your application, it remains a template that you can easily customize with its graphical customization page. When you\u0026#8217;re ready, you can choose to customize every aspect of your application with zembly\u0026#8217;s IDE-class editor.\u003C/p\u003E\n\n\u003Cp\u003ECloning: Find an application or widget you like in zembly and clone it to make it your own, subject to the original author\u0026#8217;s permission of course.\u003C/p\u003E\n\n\u003Cp\u003EIDE-class editor: When you want absolute control, use zembly\u0026#8217;s exclusive IDE-class editor to tweak any aspect of your app. Features like full syntax highlighting, error annotations, code completion, and automatic formatting and full language support for HTML, CSS, JavaScript, FBML, and FBJS give you all the power you need to make advanced changes your application.\u003C/p\u003E\n\n\u003Cp\u003EProgramming model: zembly makes consuming popular web APIs like Yahoo, Google, Flickr, Amazon, Twitter, YouTube, Dapper, and more trivially easy, with a single line of code. zembly\u0026#8217;s philosophy is that the web is your library.\u003C/p\u003E\n\n\u003Cp\u003EBYOAPI: Have your own server or API? Describe it to zembly and then call it from your app. Or, publish your API to other zembly users and let them call it from their apps. zembly can make just about any RESTful API easy callable from your app with a single line of code.\u003C/p\u003E\n\n\u003Cp\u003EBuilt-in hosting: Not only is zembly the fastest and easiest way to create your application, it\u0026#8217;s the fastest and easiest way to deploy it. Click the publish button and your app just runs. Best of all, zembly apps elastically scale on Sun\u0026#8217;s cloud infrastructure so you don\u0026#8217;t need to worry about creating or maxing our your own datacenter.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0004/1265/41265v2-max-150x150.png"],
+     [[250,
+       91],
+      "assets/images/resized/0004/1265/41265v2-max-250x250.png"],
+     [[276,
+       101],
+      "assets/images/resized/0004/1265/41265v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "zembly.com",
+    "permalink": "zembly-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Todd",
+      "last_name": "Fast",
+      "permalink": "todd-fast",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0011/0362/110362v2-max-150x150.png"],
+          [[166,
+            250],
+           "assets/images/resized/0011/0362/110362v2-max-250x250.png"],
+          [[200,
+            300],
+           "assets/images/resized/0011/0362/110362v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Kennedy",
+      "permalink": "ryan-kennedy",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0011/0519/110519v2-max-150x150.jpg"],
+          [[167,
+            250],
+           "assets/images/resized/0011/0519/110519v2-max-250x250.jpg"],
+          [[301,
+            450],
+           "assets/images/resized/0011/0519/110519v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Webster",
+      "permalink": "chris-webster",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Jiri",
+      "last_name": "Kopsa",
+      "permalink": "jiri-kopsa",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://radar.oreilly.com/archives/2008/06/zembly-provides-social-context.html",
+    "title": "Zembly provides social context for web development"}]}

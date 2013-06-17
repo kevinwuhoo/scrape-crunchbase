@@ -1,0 +1,135 @@
+{"name": "Glassmap",
+ "permalink": "glassmap",
+ "crunchbase_url": "http://www.crunchbase.com/company/glassmap",
+ "homepage_url": "http://www.glassmap.com",
+ "blog_url": "http://www.glassmap.posterous.com",
+ "blog_feed_url": "",
+ "twitter_username": "glassmap",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, social, location",
+ "alias_list": null,
+ "email_address": "info@glassmap.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Feb 13 08:23:44 UTC 2012",
+ "updated_at": "Sat Jan 12 03:43:10 UTC 2013",
+ "overview": "\u003Cp\u003EGlassmap is a simple, beautiful way to show your friends where you are and what you are doing.  Use it to coordinate meetings and hangouts, keep up with loved ones, and serendipitously discover who and what is around you. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0017/3981/173981v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0017/3981/173981v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0017/3981/173981v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Chang",
+      "permalink": "jonathan-chang",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Geoffrey",
+      "last_name": "Woo",
+      "permalink": "geoffrey-woo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Zhang",
+      "permalink": "jon-zhang",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business Development Lead",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Brown",
+      "permalink": "ryan-brown-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Life360",
+      "permalink": "life360",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0005/0164/50164v11-max-150x150.png"],
+          [[250,
+            99],
+           "assets/images/resized/0005/0164/50164v11-max-250x250.png"],
+          [[450,
+            179],
+           "assets/images/resized/0005/0164/50164v11-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2013/01/11/groupon-acquires-realtime-location-aware-service-glassmap-to-help-you-find-deals/",
+   "source_description": "Groupon Acquires Realtime Location-Aware Service Glassmap To Help You Find Deals",
+   "acquired_year": 2013,
+   "acquired_month": 1,
+   "acquired_day": 12,
+   "acquiring_company":
+    {"name": "Groupon",
+     "permalink": "groupon",
+     "image":
+      {"available_sizes":
+        [[[150,
+           66],
+          "assets/images/resized/0002/5604/25604v10-max-150x150.png"],
+         [[231,
+           102],
+          "assets/images/resized/0002/5604/25604v10-max-250x250.png"],
+         [[231,
+           102],
+          "assets/images/resized/0002/5604/25604v10-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

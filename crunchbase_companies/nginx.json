@@ -1,0 +1,138 @@
+{"name": "Nginx",
+ "permalink": "nginx",
+ "crunchbase_url": "http://www.crunchbase.com/company/nginx",
+ "homepage_url": "http://nginx.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "nginx-inquiries@nginx.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Oct 11 11:01:46 UTC 2011",
+ "updated_at": "Tue Oct 11 11:13:33 UTC 2011",
+ "overview": "\u003Cp\u003ENGINX is an advanced Internet infrastructure software. It is a high performance web server with the lowest memory footprint and it provides complete combination of the most essential features required to build modern and efficient web infrastructure.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       62],
+      "assets/images/resized/0015/7634/157634v1-max-150x150.jpg"],
+     [[162,
+       68],
+      "assets/images/resized/0015/7634/157634v1-max-250x250.jpg"],
+     [[162,
+       68],
+      "assets/images/resized/0015/7634/157634v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Gieselmann",
+      "permalink": "thomas-gieselmann",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2011/10/11/russian-nginx-raises-3-million-from-international-investors/",
+    "source_description": "Russian Nginx Raises $3 Million From International Investors",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 10,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "e.ventures",
+         "permalink": "e-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               24],
+              "assets/images/resized/0002/8953/28953v6-max-150x150.png"],
+             [[250,
+               40],
+              "assets/images/resized/0002/8953/28953v6-max-250x250.png"],
+             [[450,
+               72],
+              "assets/images/resized/0002/8953/28953v6-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Runa Capital",
+         "permalink": "runa-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               48],
+              "assets/images/resized/0009/5621/95621v1-max-150x150.png"],
+             [[156,
+               50],
+              "assets/images/resized/0009/5621/95621v1-max-250x250.png"],
+             [[156,
+               50],
+              "assets/images/resized/0009/5621/95621v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "MSD Capital",
+         "permalink": "msd-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               42],
+              "assets/images/resized/0015/7636/157636v2-max-150x150.png"],
+             [[250,
+               71],
+              "assets/images/resized/0015/7636/157636v2-max-250x250.png"],
+             [[298,
+               85],
+              "assets/images/resized/0015/7636/157636v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        125],
+       "assets/images/resized/0015/7635/157635v1-max-150x150.jpg"],
+      [[250,
+        208],
+       "assets/images/resized/0015/7635/157635v1-max-250x250.jpg"],
+      [[450,
+        375],
+       "assets/images/resized/0015/7635/157635v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,106 @@
+{"name": "Offerium",
+ "permalink": "offerium",
+ "crunchbase_url": "http://www.crunchbase.com/company/offerium",
+ "homepage_url": "http://www.offerium.fi",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "offerium",
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@offerium.fi",
+ "phone_number": "",
+ "description": "Best deals of the day",
+ "created_at": "Fri May 07 12:54:11 UTC 2010",
+ "updated_at": "Fri May 07 22:58:27 UTC 2010",
+ "overview": "",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0008/6353/86353v2-max-150x150.png"],
+     [[250,
+       58],
+      "assets/images/resized/0008/6353/86353v2-max-250x250.png"],
+     [[339,
+       79],
+      "assets/images/resized/0008/6353/86353v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Oskari",
+      "last_name": "Lehtonen",
+      "permalink": "oskari-lehtonen",
+      "image": null}},
+   {"is_past": true,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Juhani",
+      "last_name": "Polkko",
+      "permalink": "juhani-polkko-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0006/5661/65661v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0006/5661/65661v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0006/5661/65661v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJuhani\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Groupon",
+      "permalink": "groupon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/5604/25604v10-max-150x150.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-250x250.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyCityDeal",
+      "permalink": "mycitydeal",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.arcticstartup.com/2010/03/19/offerium-is-the-finnish-groupon-but-will-it-work/",
+    "title": "Offerium Is The Finnish Groupon. But Will It Work?"}]}

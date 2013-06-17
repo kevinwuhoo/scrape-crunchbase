@@ -1,0 +1,138 @@
+{"name": "Polymeme",
+ "permalink": "polymeme",
+ "crunchbase_url": "http://www.crunchbase.com/company/polymeme",
+ "homepage_url": "http://www.polymeme.com",
+ "blog_url": "http://www.polymeme.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/PolymemeFrontpage",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "meme-tracker, aggregation, news-aggregator, intellectual, buzz, buzz-tracker",
+ "alias_list": "",
+ "email_address": "evgeny.morozov@gmail.com",
+ "phone_number": "+4915771762645",
+ "description": "Intellectual Meme Tracker",
+ "created_at": "Fri Jul 04 06:58:56 UTC 2008",
+ "updated_at": "Thu Apr 02 15:21:18 UTC 2009",
+ "overview": "\u003Cp\u003EPolymeme is a meme-tracker for the \u0026#8220;intellectual\u0026#8221; Web, tracking 25,000 blogs in 20 fields (economics, environment, books and arts, etc) \u003C/p\u003E\n\n\u003Cp\u003EEvery 2-3 hours, Polymeme\u0026#8217;s meme engine crawls our blogs and \u0026#8220;suggests\u0026#8221; memes that end up in \u0026#8220;unpublished items\u0026#8221; queue, which is regularly checked by Polymeme\u0026#8217;s editors. The editors then decide what to publish \u0026#8211; and also find interesting pictures to go with the memes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0002/1487/21487v4-max-150x150.png"],
+     [[250,
+       41],
+      "assets/images/resized/0002/1487/21487v4-max-250x250.png"],
+     [[317,
+       53],
+      "assets/images/resized/0002/1487/21487v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/Publisher",
+    "person":
+     {"first_name": "Evgeny",
+      "last_name": "Morozov",
+      "permalink": "evgeny-morozov-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            120],
+           "assets/images/resized/0011/6870/116870v1-max-150x150.jpg"],
+          [[250,
+            200],
+           "assets/images/resized/0011/6870/116870v1-max-250x250.jpg"],
+          [[300,
+            241],
+           "assets/images/resized/0011/6870/116870v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Creative Director",
+    "person":
+     {"first_name": "Gleb",
+      "last_name": "Kannunikau",
+      "permalink": "gleb-kannunikau",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Braghis",
+      "permalink": "dan-braghis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Techmeme",
+      "permalink": "techmeme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0000/3553/3553v1-max-150x150.jpg"],
+          [[250,
+            66],
+           "assets/images/resized/0000/3553/3553v1-max-250x250.jpg"],
+          [[281,
+            75],
+           "assets/images/resized/0000/3553/3553v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BuzzFeed",
+      "permalink": "buzzfeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/2515/12515v1-max-150x150.png"],
+          [[166,
+            41],
+           "assets/images/resized/0001/2515/12515v1-max-250x250.png"],
+          [[166,
+            41],
+           "assets/images/resized/0001/2515/12515v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Daylife",
+      "permalink": "daylife",
+      "image":
+       {"available_sizes":
+         [[[126,
+            59],
+           "assets/images/resized/0001/4516/14516v1-max-150x150.png"],
+          [[126,
+            59],
+           "assets/images/resized/0001/4516/14516v1-max-250x250.png"],
+          [[126,
+            59],
+           "assets/images/resized/0001/4516/14516v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

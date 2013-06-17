@@ -1,0 +1,116 @@
+{"name": "Parlano",
+ "permalink": "parlano",
+ "crunchbase_url": "http://www.crunchbase.com/company/parlano",
+ "homepage_url": "http://parlano.com",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "parlano, groupchat, enterpriseim",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Thu Aug 30 16:00:09 UTC 2007",
+ "updated_at": "Tue Aug 12 23:03:00 UTC 2008",
+ "overview": "\u003Cp\u003EParlano, recently acquired by Microsoft for an undisclosed amount, is the maker of MindAlign enterprise-level team collaboration and messaging products. The MindAlign product series is a mix between email and chat platform created for business use. Microsoft plans on using the communication platform to improve Microsoft Office Communications Server and Microsoft Office Communicator. \u003C/p\u003E\n\n\u003Cp\u003EThe MindAlign platform mixes the asynchronous nature of email with the real-time nature of IM to allow groups to have \u0026#8220;persistent group chat\u0026#8221; around \u0026#8220;business-critical topics\u0026#8221;. They also claim that the product helps to unclutter your information silos. All their enterprise-level jargon will fit in perfectly with Microsoft.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0000/0184/184v1-max-150x150.jpg"],
+     [[200,
+       37],
+      "assets/images/resized/0000/0184/184v1-max-250x250.jpg"],
+     [[200,
+       37],
+      "assets/images/resized/0000/0184/184v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "MindAlign",
+    "permalink": "mindalign",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Chairman \u0026 CEO",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Fera",
+      "permalink": "nick-fera",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Add-in Express Ltd.",
+      "permalink": "add-in-express-ltd",
+      "image":
+       {"available_sizes":
+         [[[150,
+            15],
+           "assets/images/resized/0001/5711/15711v1-max-150x150.png"],
+          [[225,
+            23],
+           "assets/images/resized/0001/5711/15711v1-max-250x250.png"],
+          [[225,
+            23],
+           "assets/images/resized/0001/5711/15711v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.microsoft.com/presspass/press/2007/aug07/08-29ParlanoPR.mspx",
+   "source_description": "Microsoft to Acquire Parlano",
+   "acquired_year": 2007,
+   "acquired_month": 8,
+   "acquired_day": 29,
+   "acquiring_company":
+    {"name": "Microsoft",
+     "permalink": "microsoft",
+     "image":
+      {"available_sizes":
+        [[[150,
+           32],
+          "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+         [[250,
+           53],
+          "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+         [[450,
+           96],
+          "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "10 S. Riverside Plaza, Suite 1450",
+    "address2": null,
+    "zip_code": null,
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": 41.881769,
+    "longitude": -87.638752}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,137 @@
+{"name": "Sounder",
+ "permalink": "sounder",
+ "crunchbase_url": "http://www.crunchbase.com/company/sounder",
+ "homepage_url": "http://www.sounder.me",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Sounder",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Path for Voice",
+ "created_at": "Sat Feb 25 08:28:51 UTC 2012",
+ "updated_at": "Sat Jun 15 11:13:00 UTC 2013",
+ "overview": "\u003Cp\u003ESounder gives you a direct, live voice connection to your closest relationships. No ringers, no notifications \u0026#8211; just the sound of your voice.\u003C/p\u003E\n\n\u003Cp\u003E\u2022 Live push to talk (Nextel-style) \n\u2022 Powerful UI (patent pending) for managing real-time access \n\u2022 Proven in-app purchases for consumers \n\u2022 Paid service for business\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0017/5739/175739v2-max-150x150.png"],
+     [[180,
+       180],
+      "assets/images/resized/0017/5739/175739v2-max-250x250.png"],
+     [[180,
+       180],
+      "assets/images/resized/0017/5739/175739v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Fortson",
+      "permalink": "michael-fortson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Nancy",
+      "last_name": "Broden",
+      "permalink": "nancy-broden",
+      "image":
+       {"available_sizes":
+         [[[150,
+            145],
+           "assets/images/resized/0019/0146/190146v2-max-150x150.jpg"],
+          [[180,
+            174],
+           "assets/images/resized/0019/0146/190146v2-max-250x250.jpg"],
+          [[180,
+            174],
+           "assets/images/resized/0019/0146/190146v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://kiicapital.tumblr.com/post/18160615290/kii-capital-invests-in-push-to-talk-app-sounder",
+    "source_description": "Kii Capital Blog",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 2,
+    "funded_day": 23,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Kii Capital",
+         "permalink": "kii-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               95],
+              "assets/images/resized/0017/0929/170929v6-max-150x150.png"],
+             [[250,
+               159],
+              "assets/images/resized/0017/0929/170929v6-max-250x250.png"],
+             [[450,
+               287],
+              "assets/images/resized/0017/0929/170929v6-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Strive Capital",
+         "permalink": "strive-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               115],
+              "assets/images/resized/0024/2537/242537v1-max-150x150.png"],
+             [[250,
+               193],
+              "assets/images/resized/0024/2537/242537v1-max-250x250.png"],
+             [[250,
+               193],
+              "assets/images/resized/0024/2537/242537v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Sounder, Inc.",
+    "address1": "28 2nd Street 3/F",
+    "address2": "",
+    "zip_code": "94105",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

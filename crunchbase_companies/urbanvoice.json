@@ -1,0 +1,154 @@
+{"name": "UrbanVoice",
+ "permalink": "urbanvoice",
+ "crunchbase_url": "http://www.crunchbase.com/company/urbanvoice",
+ "homepage_url": "http://www.urbanvoice.com.br/",
+ "blog_url": "http://blog.urbanvoice.com.br/",
+ "blog_feed_url": "http://blog.urbanvoice.com.br/rss",
+ "twitter_username": "urbanvoice_br",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "location, geolocation, reviews, local-search, social, social-network",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Location-based social network",
+ "created_at": "Mon Apr 09 22:54:17 UTC 2012",
+ "updated_at": "Thu May 24 00:47:55 UTC 2012",
+ "overview": "\u003Cp\u003EUrbanVoice is a location-based social network that allows people to discover what is going on and what are the best spots around a specific region.\nIt could be somehow considered the Klout for locations, because of a proprietary algorithm that gives a score, called \u0026#8220;UP - Urban Points\u0026#8221;, between 0 and 100 to each Place. This score is calculated counting many location signals such as quality, popularity, trendiness, online presence, etc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0018/3399/183399v2-max-150x150.png"],
+     [[250,
+       66],
+      "assets/images/resized/0018/3399/183399v2-max-250x250.png"],
+     [[450,
+       119],
+      "assets/images/resized/0018/3399/183399v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Nino",
+      "last_name": "Palermo",
+      "permalink": "nino-palermo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Bertini",
+      "permalink": "daniel-bertini",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Apontador",
+      "permalink": "apontador",
+      "image":
+       {"available_sizes":
+         [[[150,
+            87],
+           "assets/images/resized/0009/3746/93746v2-max-150x150.png"],
+          [[250,
+            146],
+           "assets/images/resized/0009/3746/93746v2-max-250x250.png"],
+          [[450,
+            263],
+           "assets/images/resized/0009/3746/93746v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kekanto",
+      "permalink": "kekanto",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0008/2660/82660v6-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0008/2660/82660v6-max-250x250.png"],
+          [[450,
+            130],
+           "assets/images/resized/0008/2660/82660v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Qype",
+      "permalink": "qype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0001/2025/12025v3-max-150x150.png"],
+          [[250,
+            95],
+           "assets/images/resized/0001/2025/12025v3-max-250x250.png"],
+          [[450,
+            171],
+           "assets/images/resized/0001/2025/12025v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "S\u00e3o Paulo",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[41,
+        150],
+       "assets/images/resized/0019/0917/190917v2-max-150x150.jpg"],
+      [[69,
+        250],
+       "assets/images/resized/0019/0917/190917v2-max-250x250.jpg"],
+      [[124,
+        450],
+       "assets/images/resized/0019/0917/190917v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,218 @@
+{"name": "Bookeo",
+ "permalink": "bookeo",
+ "crunchbase_url": "http://www.crunchbase.com/company/bookeo",
+ "homepage_url": "http://www.bookeo.com",
+ "blog_url": "http://www.bookeo.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "bookeo",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "reservations, scheduling, bookings, appointments, tours, activities, classes, courses, registrations, calendar",
+ "alias_list": null,
+ "email_address": "info@bookeo.com",
+ "phone_number": "6503197292",
+ "description": "Online booking solutions",
+ "created_at": "Thu Dec 06 04:23:30 UTC 2012",
+ "updated_at": "Mon Dec 17 20:44:20 UTC 2012",
+ "overview": "\u003Cp\u003EBookeo is the provider of online booking solutions for small and medium businesses.\u003C/p\u003E\n\n\u003Cp\u003EBookeo provides a cloud hosted reservation system that integrates seamlessly into virtually any existing website, allowing business to accept online bookings and payments 24/7. Its software platform primarily serves guided tour and outdoor activity companies, consultants and therapists who take individual appointments, teachers and schools that require online class management and enrolment tools.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       64],
+      "assets/images/resized/0022/4119/224119v2-max-150x150.jpg"],
+     [[250,
+       107],
+      "assets/images/resized/0022/4119/224119v2-max-250x250.jpg"],
+     [[450,
+       193],
+      "assets/images/resized/0022/4119/224119v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Appointment-Plus",
+      "permalink": "stormsource-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0017/8040/178040v2-max-150x150.jpg"],
+          [[250,
+            61],
+           "assets/images/resized/0017/8040/178040v2-max-250x250.jpg"],
+          [[450,
+            111],
+           "assets/images/resized/0017/8040/178040v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Appointy",
+      "permalink": "appointy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0020/0717/200717v1-max-150x150.jpg"],
+          [[250,
+            73],
+           "assets/images/resized/0020/0717/200717v1-max-250x250.jpg"],
+          [[296,
+            87],
+           "assets/images/resized/0020/0717/200717v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rezgo",
+      "permalink": "rezgo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0002/7259/27259v2-max-150x150.png"],
+          [[250,
+            125],
+           "assets/images/resized/0002/7259/27259v2-max-250x250.png"],
+          [[450,
+            225],
+           "assets/images/resized/0002/7259/27259v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rezdy",
+      "permalink": "rezdy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0018/2320/182320v4-max-150x150.png"],
+          [[200,
+            74],
+           "assets/images/resized/0018/2320/182320v4-max-250x250.png"],
+          [[200,
+            74],
+           "assets/images/resized/0018/2320/182320v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ScheduleOnce",
+      "permalink": "scheduleonce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0005/2217/52217v6-max-150x150.png"],
+          [[189,
+            30],
+           "assets/images/resized/0005/2217/52217v6-max-250x250.png"],
+          [[189,
+            30],
+           "assets/images/resized/0005/2217/52217v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Schedulicity",
+      "permalink": "schedulicity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0011/7217/117217v2-max-150x150.png"],
+          [[188,
+            64],
+           "assets/images/resized/0011/7217/117217v2-max-250x250.png"],
+          [[188,
+            64],
+           "assets/images/resized/0011/7217/117217v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rezgo",
+      "permalink": "rezgo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0002/7259/27259v2-max-150x150.png"],
+          [[250,
+            125],
+           "assets/images/resized/0002/7259/27259v2-max-250x250.png"],
+          [[450,
+            225],
+           "assets/images/resized/0002/7259/27259v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rezdy",
+      "permalink": "rezdy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0018/2320/182320v4-max-150x150.png"],
+          [[200,
+            74],
+           "assets/images/resized/0018/2320/182320v4-max-250x250.png"],
+          [[200,
+            74],
+           "assets/images/resized/0018/2320/182320v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BookingBug",
+      "permalink": "bookingbug",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0003/1020/31020v4-max-150x150.png"],
+          [[200,
+            74],
+           "assets/images/resized/0003/1020/31020v4-max-250x250.png"],
+          [[200,
+            74],
+           "assets/images/resized/0003/1020/31020v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0022/4117/224117v2-max-150x150.png"],
+      [[250,
+        158],
+       "assets/images/resized/0022/4117/224117v2-max-250x250.png"],
+      [[450,
+        284],
+       "assets/images/resized/0022/4117/224117v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        69],
+       "assets/images/resized/0022/4118/224118v2-max-150x150.jpg"],
+      [[250,
+        115],
+       "assets/images/resized/0022/4118/224118v2-max-250x250.jpg"],
+      [[450,
+        207],
+       "assets/images/resized/0022/4118/224118v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

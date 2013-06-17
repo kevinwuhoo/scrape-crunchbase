@@ -1,0 +1,85 @@
+{"name": "Avengina",
+ "permalink": "avengina",
+ "crunchbase_url": "http://www.crunchbase.com/company/avengina",
+ "homepage_url": "http://www.avengina.org",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "3d-graphics, java-applet",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon Aug 04 19:59:21 UTC 2008",
+ "updated_at": "Sat Sep 06 14:07:04 UTC 2008",
+ "overview": "\u003Cp\u003EAvengina is a realtime 3D graphics engine and one of a currently few Java applets which access the OpenGL as their graphics API. The appearance of the avatar is similar to a game engine, but Avengina is being designed and optimized for presentation purposes within a webbrowser.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0002/3295/23295v1-max-150x150.png"],
+     [[196,
+       51],
+      "assets/images/resized/0002/3295/23295v1-max-250x250.png"],
+     [[196,
+       51],
+      "assets/images/resized/0002/3295/23295v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Revolver Maps",
+    "permalink": "revolver-maps",
+    "image":
+     {"available_sizes":
+       [[[150,
+          33],
+         "assets/images/resized/0002/3296/23296v1-max-150x150.png"],
+        [[250,
+          56],
+         "assets/images/resized/0002/3296/23296v1-max-250x250.png"],
+        [[330,
+          74],
+         "assets/images/resized/0002/3296/23296v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Chemnitz",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 50.832503,
+    "longitude": 12.924694}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cembed src=\"http://flowplayer.org/video/FlowPlayerDark.swf?config=%7Bembedded%3Atrue%2CbaseURL%3A%27http%3A%2F%2Fflowplayer%2Eorg%2Fvideo%27%2CuseHwScaling%3Atrue%2CcontrolBarBackgroundColor%3A%270x222222%27%2CemailPostUrl%3Afalse%2CuseNativeFullScreen%3Atrue%2CinitialScale%3A%27scale%27%2CplayList%3A%5B%7BoverlayId%3A%27play%27%2Curl%3A%27img%2Fdemo%2Fsplash%2Ejpg%27%7D%2C%7Bend%3A80%2Cstart%3A0%2Cduration%3A80%2Curl%3A%27http%3A%2F%2Fakvideos%2Emetacafe%2Ecom%2FItemFiles%2F%5BFrom%20www%2Emetacafe%2Ecom%5D%20862422%2E5100050%2E11%2Eflv%27%7D%5D%2Cloop%3Afalse%2CautoRewind%3Atrue%2CautoBuffering%3Afalse%2CautoPlay%3Atrue%7D\" width=\"380\" height=\"250\" scale=\"noscale\" bgcolor=\"111111\" type=\"application/x-shockwave-flash\" allowFullScreen=\"true\" allowScriptAccess=\"always\" allowNetworking=\"all\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\"\u003E\u003C/embed\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

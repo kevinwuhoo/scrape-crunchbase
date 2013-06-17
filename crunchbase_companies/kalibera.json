@@ -1,0 +1,103 @@
+{"name": "Kalibera",
+ "permalink": "kalibera",
+ "crunchbase_url": "http://www.crunchbase.com/company/kalibera",
+ "homepage_url": "http://www.kalibera.com",
+ "blog_url": "http://blog.liveleader.com",
+ "blog_feed_url": "http://blog.liveleader.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "kalibera, live-chat, consulting, google-web-toolkit, amazon-web-services",
+ "alias_list": "",
+ "email_address": "info@kalibera.com",
+ "phone_number": "",
+ "description": "Consumer/Business Webapps",
+ "created_at": "Sat Mar 29 16:06:49 UTC 2008",
+ "updated_at": "Thu Dec 01 07:40:51 UTC 2011",
+ "overview": "\u003Cp\u003EKalibera is a recently-launched web services company based in Oslo, Norway. Kalibera\u0026#8217;s mission is to develop lightweight, next-generation webapps aimed at both the consumer and business markets.\u003C/p\u003E\n\n\u003Cp\u003EThe first product to launch is LiveLeader, an embedded live chat solution. Whereas most existing products in this market rely on plugins and popup windows, LiveLeader\u0026#8217;s Ajax-based approach offers a smoother chat experience. Both free and paid plans are available.\u003C/p\u003E\n\n\u003Cp\u003EThere is a live demo at http://www.liveleader.com\u003C/p\u003E\n\n\u003Cp\u003EKalibera also offers consulting services, with particular emphasis on usability, scalability, and next-generation web technologies.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0001/6519/16519v1-max-150x150.png"],
+     [[188,
+       60],
+      "assets/images/resized/0001/6519/16519v1-max-250x250.png"],
+     [[188,
+       60],
+      "assets/images/resized/0001/6519/16519v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "LiveLeader.com",
+    "permalink": "liveleader-com",
+    "image":
+     {"available_sizes":
+       [[[150,
+          37],
+         "assets/images/resized/0002/1167/21167v1-max-150x150.png"],
+        [[219,
+          55],
+         "assets/images/resized/0002/1167/21167v1-max-250x250.png"],
+        [[219,
+          55],
+         "assets/images/resized/0002/1167/21167v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "EC2, S3, SimpleDB",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Oslo",
+    "state_code": null,
+    "country_code": "NOR",
+    "latitude": 59.91382,
+    "longitude": 10.738741}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.kalibera.com",
+    "title": "Kalibera.com"},
+   {"external_url": "http://www.liveleader.com",
+    "title": "LiveLeader.com"}]}

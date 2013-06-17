@@ -1,0 +1,107 @@
+{"name": "Match My Email",
+ "permalink": "match-my-email",
+ "crunchbase_url": "http://www.crunchbase.com/company/match-my-email",
+ "homepage_url": "http://www.matchmyemail.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 10,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-integration, email-integration, salesforce, google-apps, gmail, imap-integration, outlook, entourage, apple-mailruage",
+ "alias_list": null,
+ "email_address": "sterne@sterneco.com",
+ "phone_number": "1.914.712.9050",
+ "description": "Email integration with Salesforce",
+ "created_at": "Tue Mar 15 21:21:44 UTC 2011",
+ "updated_at": "Mon Aug 01 23:25:24 UTC 2011",
+ "overview": "\u003Cp\u003EMatch My Email integrates email system with Salesforce.com. This software-as-a-service matches email automatically to the Salesforce CRM application in the cloud. Every 20 minutes, email and any attachments are logged into the right Salesforce file. Customer communications and Leads are in one convenient place. Executives can track the email stream for the entire sales organization.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[60,
+       60],
+      "assets/images/resized/0014/7342/147342v2-max-150x150.jpg"],
+     [[60,
+       60],
+      "assets/images/resized/0014/7342/147342v2-max-250x250.jpg"],
+     [[60,
+       60],
+      "assets/images/resized/0014/7342/147342v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "iHance",
+      "permalink": "ihance",
+      "image": null}},
+   {"competitor":
+     {"name": "VCS Smart Email",
+      "permalink": "vcs-smart-email",
+      "image": null}}],
+ "providerships":
+  [{"title": "Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "303 South Broadway",
+    "address2": "",
+    "zip_code": "10591",
+    "city": "Tarrytown",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Launch of Cloud Service",
+    "stoned_year": 2011,
+    "stoned_month": 1,
+    "stoned_day": 16,
+    "source_url": "http://www.groundreport.com/Business/Match-My-Email-Goes-LIve-on-Production-Server_3/2932914",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Match My Email",
+      "permalink": "match-my-email"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,142 @@
+{"name": "Coursemodo",
+ "permalink": "coursemodo",
+ "crunchbase_url": "http://www.crunchbase.com/company/coursemodo",
+ "homepage_url": "http://www.coursemodo.com/",
+ "blog_url": "http://blog.coursemodo.com",
+ "blog_feed_url": "",
+ "twitter_username": "coursemodo",
+ "category_code": "education",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education, edtech, college, engagement, school, class, courses, mobile",
+ "alias_list": null,
+ "email_address": "hi@coursemodo.com",
+ "phone_number": "1(888)316-2942",
+ "description": "Interactive Learning Platform",
+ "created_at": "Wed Jul 18 00:40:01 UTC 2012",
+ "updated_at": "Thu Dec 06 08:31:59 UTC 2012",
+ "overview": "\u003Cp\u003ECoursemodo is an interactive learning platform designed to empower educators and increase classroom engagement through real-time response tools. With its suite of easy to use apps, Coursemodo allows professors to actively engage all of their students (even the shy ones) through polling, quizzing, announcements and allows students to ask questions through a live question feed.\u003C/p\u003E\n\n\u003Cp\u003ECurrently, that platform includes four key components: a web-enabled application which can be used from any Internet-connected device, including phones, tablets or computers; a polling feature for getting instant feedback from students; a quizzes feature which supports instant grading an export to a teacher\u2019s preferred LMS, and an announcements feature for teacher-student communication which extends outside of course hours through SMS messaging.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0020/8064/208064v2-max-150x150.png"],
+     [[250,
+       150],
+      "assets/images/resized/0020/8064/208064v2-max-250x250.png"],
+     [[450,
+       270],
+      "assets/images/resized/0020/8064/208064v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Fingado",
+      "permalink": "michael-fingado",
+      "image":
+       {"available_sizes":
+         [[[126,
+            150],
+           "assets/images/resized/0007/5243/75243v4-max-150x150.jpg"],
+          [[210,
+            250],
+           "assets/images/resized/0007/5243/75243v4-max-250x250.jpg"],
+          [[379,
+            450],
+           "assets/images/resized/0007/5243/75243v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Yoav",
+      "last_name": "Givati",
+      "permalink": "yoav-givati",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Yoav",
+      "last_name": "Givati",
+      "permalink": "yoav-givati",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor \u0026 Investor",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Levi",
+      "permalink": "jonathan-levi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0021/3524/213524v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0021/3524/213524v2-max-250x250.jpg"],
+          [[400,
+            400],
+           "assets/images/resized/0021/3524/213524v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TopHatMonocle",
+      "permalink": "tophatmonocle",
+      "image": null}},
+   {"competitor":
+     {"name": "iClicker",
+      "permalink": "iclicker",
+      "image": null}},
+   {"competitor":
+     {"name": "Polleverywhere",
+      "permalink": "polleverywhere",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "San Francisco HQ",
+    "address1": "153 Townsend",
+    "address2": "",
+    "zip_code": "94107",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        150],
+       "assets/images/resized/0020/1595/201595v2-max-150x150.png"],
+      [[250,
+        250],
+       "assets/images/resized/0020/1595/201595v2-max-250x250.png"],
+      [[450,
+        450],
+       "assets/images/resized/0020/1595/201595v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/07/17/coursemodo-debuts-a-student-engagement-platform-for-higher-ed-backed-scott-banister-others/",
+    "title": "TechCrunch"}]}

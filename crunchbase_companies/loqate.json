@@ -1,0 +1,131 @@
+{"name": "Loqate",
+ "permalink": "loqate",
+ "crunchbase_url": "http://www.crunchbase.com/company/loqate",
+ "homepage_url": "http://www.loqate.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "loqate",
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software, address-validation, geocoding, location-based-services, big-data, address-data-quality, data-quality, location-intelligence",
+ "alias_list": null,
+ "email_address": "marketing@loqate.com",
+ "phone_number": "+1 (650) 273-5603",
+ "description": "Global Address Validation and Geocoding",
+ "created_at": "Fri Mar 02 22:30:18 UTC 2012",
+ "updated_at": "Tue Mar 06 20:27:11 UTC 2012",
+ "overview": "\u003Cp\u003EAccurately Capture, Verify, and Geocode Any Address Worldwide.\u003C/p\u003E\n\n\u003Cp\u003ELoqate, the definitive source of everything location can power your applications with a combination of address capture, verification, and geocoding \u00e2\u20ac\u201c all for 240+ countries. With global coverage, Loqate becomes the single global source for high quality, accurate location information. \u003C/p\u003E\n\n\u003Cp\u003EAlmost all data has locations, and accurate locations power a wealth of business processes: Customer Relationship Management, data quality, delivery of materials, goods or services, fraud detection, insurance risk assessment, data analytics, store and territory planning, and much more. New applications that harness the information in Big Data, location based services, customer analytics, and market intelligence need the accuracy and intelligence that only comes from great address quality.\u003C/p\u003E\n\n\u003Cp\u003ELoqate corporate headquarters are in San Bruno, CA. The company, founded in 2009, sells its products as components that are leveraged by software vendors, service providers, and systems integrators.  Loqate has a focus on providing great technology along with unparalleled levels of support to clients and partners. The Loqate Engine enables software vendors to significantly enhance the functionality and capability of their own product offerings.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0017/6768/176768v2-max-150x150.png"],
+     [[250,
+       89],
+      "assets/images/resized/0017/6768/176768v2-max-250x250.png"],
+     [[450,
+       161],
+      "assets/images/resized/0017/6768/176768v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Turvey",
+      "permalink": "martin-turvey",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Flew",
+      "permalink": "paul-flew",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Marketing",
+    "person":
+     {"first_name": "Geoff",
+      "last_name": "Roach",
+      "permalink": "geoff-roach",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Sales",
+    "person":
+     {"first_name": "Liat",
+      "last_name": "Perlman",
+      "permalink": "liat-perlman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Informatica",
+      "permalink": "informatica",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/6191/36191v1-max-150x150.png"],
+          [[178,
+            60],
+           "assets/images/resized/0003/6191/36191v1-max-250x250.png"],
+          [[178,
+            60],
+           "assets/images/resized/0003/6191/36191v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Postcode Anywhere",
+      "permalink": "postcode-anywhere",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0003/7177/37177v4-max-150x150.png"],
+          [[250,
+            32],
+           "assets/images/resized/0003/7177/37177v4-max-250x250.png"],
+          [[450,
+            59],
+           "assets/images/resized/0003/7177/37177v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "QAS",
+      "permalink": "qas",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarters",
+    "address1": "1111 Bayhill Drive",
+    "address2": "Suite 290",
+    "zip_code": "94066-3053",
+    "city": "San Bruno",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

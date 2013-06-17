@@ -1,0 +1,102 @@
+{"name": "Bidoo",
+ "permalink": "bidoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/bidoo",
+ "homepage_url": "http://www.bidoo.us",
+ "blog_url": "http://www.bidoo.us",
+ "blog_feed_url": "http://www.bidoo.us",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 20,
+ "founded_year": 2004,
+ "founded_month": 4,
+ "founded_day": 20,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 4,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "auctions, auction, online-auction, online-auctions",
+ "alias_list": null,
+ "email_address": "bidoous@gmail.com",
+ "phone_number": "+34 902 879 084",
+ "description": "Online Auctions Website",
+ "created_at": "Tue May 05 18:53:33 UTC 2009",
+ "updated_at": "Wed Apr 28 15:34:08 UTC 2010",
+ "overview": "\u003Cp\u003EBidoo is an online auctions website.\u003C/p\u003E\n\n\u003Cp\u003EBidoo is a website offering to it\u0026#8217;s costumer 4 different kinds of auctions:\u003C/p\u003E\n\n\u003Cp\u003EBefore participating in any auction the users must register and buy a bid pack, every bid cost approximately 0,70$.\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003EDirect Auctions: In this auctions the users place bids on the products they want to buy. Each auction has a countdown starting at 5.00 when the counter reaches 0.00 the last user to bid wins the auction and the product. But, if any user bids when the time left is 15 seconds or less the time increases by 15 more seconds allowing more users to participate. \u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003EThis kind of auction is very different from eBay, because in eBay the user that pays the most is the one who wins the auction. In Bidoo the winner is the last one to bid.\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003EReverse Auctions: In this auctions the user places a bid for one amount, for example 1,22$ if that amount is the lowest and unique at the end of the auction that user wins. If there are more bids for the same amount or another bid lower and unique is that user the one who wins.\u003C/li\u003E\n\u003C/ol\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0004/3504/43504v1-max-150x150.png"],
+     [[250,
+       44],
+      "assets/images/resized/0004/3504/43504v1-max-250x250.png"],
+     [[352,
+       63],
+      "assets/images/resized/0004/3504/43504v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Jan",
+      "last_name": "Serra",
+      "permalink": "jan-serra",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Swoopo",
+      "permalink": "swoopo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0004/0280/40280v1-max-150x150.png"],
+          [[230,
+            87],
+           "assets/images/resized/0004/0280/40280v1-max-250x250.png"],
+          [[230,
+            87],
+           "assets/images/resized/0004/0280/40280v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Bidoo Headquarter",
+    "address1": "Carrer Sant Ferra S/N",
+    "address2": "Zona herm\u00c3\u00a9tica",
+    "zip_code": "08805",
+    "city": "Sabadell",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": 41.5368215,
+    "longitude": 2.1029229}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/3235/43235v2-max-150x150.jpg"],
+      [[250,
+        158],
+       "assets/images/resized/0004/3235/43235v2-max-250x250.jpg"],
+      [[450,
+        284],
+       "assets/images/resized/0004/3235/43235v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.bidoo.us",
+    "title": "Bidoo Online Auctions"}]}

@@ -1,0 +1,84 @@
+{"name": "Moosti",
+ "permalink": "moosti",
+ "crunchbase_url": "http://www.crunchbase.com/company/moosti",
+ "homepage_url": "http://www.moosti.com",
+ "blog_url": "http://blog.moosti.com",
+ "blog_feed_url": "http://blog.moosti.com/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "collada, web3d",
+ "alias_list": "",
+ "email_address": "info@moosti.com",
+ "phone_number": "",
+ "description": "3D browser software",
+ "created_at": "Wed May 14 17:01:44 UTC 2008",
+ "updated_at": "Thu Dec 01 07:44:19 UTC 2011",
+ "overview": "\u003Cp\u003EMoosti is a set of pipeline tools to enable a quicker and more efficient way to bring 3D to the web mixed with a community website where members will be able to exchange COLLADA models. Using COLLADA as the default file format, user\u0026#8217;s will be able to upload their COLLADA models to a public repository and view them in moosti\u0026#8217;s COLLADA enabled web player. Using OpenGL as the main renderer and ActiveX style control, moosti\u0026#8217;s web player runs on the most used browsers and operational systems on the market, like IE, Firefox, Safari, Windows, Mac OS and Linux.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0001/8573/18573v2-max-150x150.jpg"],
+     [[250,
+       82],
+      "assets/images/resized/0001/8573/18573v2-max-250x250.jpg"],
+     [[279,
+       92],
+      "assets/images/resized/0001/8573/18573v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder and Managing Partner",
+    "person":
+     {"first_name": "Bruno",
+      "last_name": "Patatas",
+      "permalink": "bruno-patatas",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder and Lead Programmer",
+    "person":
+     {"first_name": "Erick",
+      "last_name": "Jung",
+      "permalink": "erick-jung",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "PRT",
+    "latitude": 39.399872,
+    "longitude": -8.224454}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

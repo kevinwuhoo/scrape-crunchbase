@@ -1,0 +1,101 @@
+{"name": "Testseek",
+ "permalink": "testseek",
+ "crunchbase_url": "http://www.crunchbase.com/company/testseek",
+ "homepage_url": "http://www.testseek.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "ecommerce",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "review-aggregation, consumer-shopping-service, product-reviews, product-quality-shopping-service",
+ "alias_list": null,
+ "email_address": "fredrik@testsek.com",
+ "phone_number": "+46313009806",
+ "description": null,
+ "created_at": "Wed Mar 05 14:52:09 UTC 2008",
+ "updated_at": "Fri Jan 04 22:04:04 UTC 2013",
+ "overview": "\u003Cp\u003ETestseek\u0026#8217;s main purpose is to inform consumers about the quality and performance of products. Testseek.com is also a gathering place for all kinds of product information that is relevant to consumers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[140,
+       90],
+      "assets/images/resized/0001/4535/14535v1-max-150x150.png"],
+     [[140,
+       90],
+      "assets/images/resized/0001/4535/14535v1-max-250x250.png"],
+     [[140,
+       90],
+      "assets/images/resized/0001/4535/14535v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": null,
+    "title": "",
+    "person":
+     {"first_name": "Fredrik",
+      "last_name": "Engdahl",
+      "permalink": "fredrik-engdahl",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Wize",
+      "permalink": "wize",
+      "image":
+       {"available_sizes":
+         [[[90,
+            60],
+           "assets/images/resized/0000/1156/1156v4-max-150x150.png"],
+          [[90,
+            60],
+           "assets/images/resized/0000/1156/1156v4-max-250x250.png"],
+          [[90,
+            60],
+           "assets/images/resized/0000/1156/1156v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Vallgatan 19",
+    "address2": "",
+    "zip_code": "41116",
+    "city": "Gothemburg",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": 57.703679,
+    "longitude": 11.965035}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0004/5563/45563v1-max-150x150.png"],
+      [[250,
+        153],
+       "assets/images/resized/0004/5563/45563v1-max-250x250.png"],
+      [[450,
+        276],
+       "assets/images/resized/0004/5563/45563v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

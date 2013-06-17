@@ -1,0 +1,118 @@
+{"name": "Stem",
+ "permalink": "stem",
+ "crunchbase_url": "http://www.crunchbase.com/company/stem",
+ "homepage_url": "http://www.stem.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "stempowered",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Apr 12 03:34:42 UTC 2012",
+ "updated_at": "Tue Oct 23 10:25:28 UTC 2012",
+ "overview": "\u003Cp\u003EStem, Inc. (fka Powergetics), a San Francisco-based developer of an integrated cloud energy optimization solution. Led by Brian Thompson, Founder and CEO, Stem is developing a new service which leverages real time data, cloud-based predictive analytics, state of the art energy storage, and value added services to help businesses optimize their energy use.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       128],
+      "assets/images/resized/0018/3836/183836v1-max-150x150.png"],
+     [[128,
+       128],
+      "assets/images/resized/0018/3836/183836v1-max-250x250.png"],
+     [[128,
+       128],
+      "assets/images/resized/0018/3836/183836v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Salim",
+      "last_name": "Khan",
+      "permalink": "salim-khan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Executive Vice President",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Thompson",
+      "permalink": "brian-thompson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$10.2M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.finsmes.com/2012/04/stem-raises-10-2m-series-financing.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "Stem Raises $10.2M in Series A Financing",
+    "raised_amount": 10200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 4,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Angeleno Group",
+         "permalink": "angeleno-group",
+         "image":
+          {"available_sizes":
+            [[[150,
+               60],
+              "assets/images/resized/0003/2060/32060v1-max-150x150.png"],
+             [[160,
+               64],
+              "assets/images/resized/0003/2060/32060v1-max-250x250.png"],
+             [[160,
+               64],
+              "assets/images/resized/0003/2060/32060v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Greener Capital",
+         "permalink": "greener-capital",
+         "image":
+          {"available_sizes":
+            [[[131,
+               126],
+              "assets/images/resized/0015/6990/156990v1-max-150x150.jpg"],
+             [[131,
+               126],
+              "assets/images/resized/0015/6990/156990v1-max-250x250.jpg"],
+             [[131,
+               126],
+              "assets/images/resized/0015/6990/156990v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

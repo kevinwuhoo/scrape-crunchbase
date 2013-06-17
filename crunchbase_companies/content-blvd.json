@@ -1,0 +1,178 @@
+{"name": "Content BLVD",
+ "permalink": "content-blvd",
+ "crunchbase_url": "http://www.crunchbase.com/company/content-blvd",
+ "homepage_url": "http://www.contentblvd.com",
+ "blog_url": "http://www.contentblvd.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "contentblvd",
+ "category_code": "other",
+ "number_of_employees": 6,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "content-marketing, crowd-sourcing, internet-marketing, seo, blogging, freelance-writing",
+ "alias_list": null,
+ "email_address": "dan@contentblvd.com",
+ "phone_number": "323.372.1257",
+ "description": "Crowdsourced Content Marketing",
+ "created_at": "Fri Oct 26 01:07:38 UTC 2012",
+ "updated_at": "Wed Dec 12 07:22:38 UTC 2012",
+ "overview": "\u003Cp\u003EContent BLVD provides crowdsourced content marketing solutions. We connect businesses to a crowd of freelance writers and online publishers, enabling them to create and distribute their content at scale. \u003C/p\u003E\n\n\u003Cp\u003EWe matter to businesses seeking to improve the performance of their inbound marketing campaigns. They use us because they understand that content drives traffic. Our platform reduces the time and effort spent on content marketing activities by nearly 100%. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0021/7300/217300v2-max-150x150.png"],
+     [[250,
+       90],
+      "assets/images/resized/0021/7300/217300v2-max-250x250.png"],
+     [[450,
+       162],
+      "assets/images/resized/0021/7300/217300v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "www.GuestBlogGenius.com",
+    "permalink": "www-guestbloggenius-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Ripoll",
+      "permalink": "dan-ripoll",
+      "image": null}},
+   {"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Sobol",
+      "permalink": "mike-sobol",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Arthur",
+      "last_name": "Martinez",
+      "permalink": "arthur-martinez",
+      "image": null}},
+   {"is_past": false,
+    "title": "N/A",
+    "person":
+     {"first_name": "James",
+      "last_name": "Lee Vann",
+      "permalink": "james-lee-vann",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Publisher Acquisition",
+    "person":
+     {"first_name": "Michelle",
+      "last_name": "Penick",
+      "permalink": "michelle-penick",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Engineer",
+    "person":
+     {"first_name": "James",
+      "last_name": "Lee Vann",
+      "permalink": "james-lee-vann",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Contently",
+      "permalink": "contently",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0014/3578/143578v7-max-150x150.jpg"],
+          [[250,
+            74],
+           "assets/images/resized/0014/3578/143578v7-max-250x250.jpg"],
+          [[450,
+            134],
+           "assets/images/resized/0014/3578/143578v7-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kapost",
+      "permalink": "kapost",
+      "image":
+       {"available_sizes":
+         [[[120,
+            38],
+           "assets/images/resized/0009/6171/96171v2-max-150x150.png"],
+          [[120,
+            38],
+           "assets/images/resized/0009/6171/96171v2-max-250x250.png"],
+          [[120,
+            38],
+           "assets/images/resized/0009/6171/96171v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "myblogguest",
+      "permalink": "myblogguest",
+      "image": null}},
+   {"competitor":
+     {"name": "Blogmutt",
+      "permalink": "blogmutt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0018/0421/180421v2-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0018/0421/180421v2-max-250x250.jpg"],
+          [[450,
+            266],
+           "assets/images/resized/0018/0421/180421v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Gunderson Dettmer",
+      "permalink": "gunderson-dettmer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0004/9030/49030v2-max-150x150.jpg"],
+          [[250,
+            68],
+           "assets/images/resized/0004/9030/49030v2-max-250x250.jpg"],
+          [[298,
+            82],
+           "assets/images/resized/0004/9030/49030v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "5455 Wilshire Blvd ",
+    "address2": "Suite 701",
+    "zip_code": "90036",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.062508,
+    "longitude": -118.347602}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

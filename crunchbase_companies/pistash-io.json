@@ -1,0 +1,101 @@
+{"name": "Pistash.io",
+ "permalink": "pistash-io",
+ "crunchbase_url": "http://www.crunchbase.com/company/pistash-io",
+ "homepage_url": "http://www.pistash.io",
+ "blog_url": "http://pistashioapp.tumblr.com",
+ "blog_feed_url": "",
+ "twitter_username": "PistashioApp",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-bookmarking, interest-graph, content-discovery",
+ "alias_list": null,
+ "email_address": "support@pistash.io",
+ "phone_number": "",
+ "description": "Discover. Organize. Do.",
+ "created_at": "Mon Oct 17 19:03:54 UTC 2011",
+ "updated_at": "Tue Jun 26 17:52:21 UTC 2012",
+ "overview": "\u003Cp\u003EPistashio is a different kind of bookmarking service. It allows you to assign actions to the websites you bookmark. Things like: Cook this recipe, Make this craft project, Eat at this restaurant or Go to this event.\u003C/p\u003E\n\n\u003Cp\u003EPistashio empowers you to revisit bookmarks and inspires you to do more.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0015/8434/158434v2-max-150x150.png"],
+     [[200,
+       200],
+      "assets/images/resized/0015/8434/158434v2-max-250x250.png"],
+     [[200,
+       200],
+      "assets/images/resized/0015/8434/158434v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Merlino",
+      "permalink": "john-merlino",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Choyce",
+      "permalink": "chris-choyce",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kingsley",
+      "last_name": "Harris",
+      "permalink": "kingsley-harris",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal Counsel",
+    "is_past": false,
+    "provider":
+     {"name": "Adler Vermillion \u0026 Skocilich",
+      "permalink": "adler-vermillion-skocilich",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "45 Main St",
+    "address2": "#1000",
+    "zip_code": "11201",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://lifehacker.com/5838353/pistashio-sorts-bookmarks-into-categories-and-reminds-you-to-visit-again-through-twitter-or-email",
+    "title": "Lifehacker"},
+   {"external_url": "http://thenextweb.com/apps/2011/09/15/pistashio-social-bookmarking-to-do-lists-and-read-it-later-in-one/",
+    "title": "The Next Web"},
+   {"external_url": "http://startuptunes.com/2011/10/23/pistashio-bookmark-organize-stuff-you-like-quickly-easily/",
+    "title": ""}]}

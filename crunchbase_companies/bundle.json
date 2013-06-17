@@ -1,0 +1,110 @@
+{"name": "Bundle",
+ "permalink": "bundle",
+ "crunchbase_url": "http://www.crunchbase.com/company/bundle",
+ "homepage_url": "http://www.bundle.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 20,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Social media personal finance",
+ "created_at": "Sat Mar 27 18:33:59 UTC 2010",
+ "updated_at": "Sat Dec 01 11:33:51 UTC 2012",
+ "overview": "\u003Cp\u003EBundle is the definitive source for information on how people spend, save and invest money. Database of money spending and saving trends.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[143,
+       59],
+      "assets/images/resized/0011/6281/116281v2-max-150x150.png"],
+     [[143,
+       59],
+      "assets/images/resized/0011/6281/116281v2-max-250x250.png"],
+     [[143,
+       59],
+      "assets/images/resized/0011/6281/116281v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "James",
+      "last_name": "McClamroch",
+      "permalink": "james-mcclamroch",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0010/0125/100125v4-max-150x150.jpg"],
+          [[200,
+            150],
+           "assets/images/resized/0010/0125/100125v4-max-250x250.jpg"],
+          [[200,
+            150],
+           "assets/images/resized/0010/0125/100125v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jaidev",
+      "last_name": "Shergill",
+      "permalink": "jaidev-shergill",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2012/11/30/capital-one-acquires-bundle-a-data-driven-local-business-directory/",
+   "source_description": "Capital One Acquires Bundle, A Data-Driven Local Business Directory",
+   "acquired_year": 2012,
+   "acquired_month": 12,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "Capital One",
+     "permalink": "capital-one",
+     "image":
+      {"available_sizes":
+        [[[100,
+           34],
+          "assets/images/resized/0006/5163/65163v1-max-150x150.png"],
+         [[100,
+           34],
+          "assets/images/resized/0006/5163/65163v1-max-250x250.png"],
+         [[100,
+           34],
+          "assets/images/resized/0006/5163/65163v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

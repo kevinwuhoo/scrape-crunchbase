@@ -1,0 +1,116 @@
+{"name": "Ravel",
+ "permalink": "ravel",
+ "crunchbase_url": "http://www.crunchbase.com/company/ravel",
+ "homepage_url": "http://www.raveldata.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "raveldata",
+ "category_code": "enterprise",
+ "number_of_employees": 13,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "predictive-analytics, analytics, hadoop, cassandra, in-database-analytics, machine-learning, big-data, r, interactive-media",
+ "alias_list": null,
+ "email_address": "info@raveldata.com",
+ "phone_number": "",
+ "description": "Predictive analytics for big data",
+ "created_at": "Thu Sep 22 04:16:59 UTC 2011",
+ "updated_at": "Tue Apr 10 21:35:20 UTC 2012",
+ "overview": "\u003Cp\u003ERavel\u0026#8217;s predictive analytics solution lets Fortune 2000 companies extract value from the growing big data deluge.  Ravel Enterprise provides an interactive environment that allows Data Scientists to analyze time series and graph data sets residing in Hadoop or Cassandra and then to deploy models to impact real-time operations.\u00e2\u20ac\u00ac\u003C/p\u003E\n\n\u003Cp\u003EData Scientists initially use the suite of parallelized algorithms and data tools through an R-based interface to identify revenue generation or optimization opportunities.  The package is deployed to an enterprise\u00e2\u20ac\u2122s data center or cloud solution and contains developer and management tools to reduce risk of use and increase the efficiency of big data analytics.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0015/5122/155122v2-max-150x150.png"],
+     [[250,
+       72],
+      "assets/images/resized/0015/5122/155122v2-max-250x250.png"],
+     [[339,
+       98],
+      "assets/images/resized/0015/5122/155122v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP R\u0026D, Co-founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Allen",
+      "permalink": "jon-allen",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO, Co-founder",
+    "person":
+     {"first_name": "Bart",
+      "last_name": "Bohn",
+      "permalink": "bart-bohn",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Science Officer, Co-founder",
+    "person":
+     {"first_name": "Rehmi",
+      "last_name": "Post",
+      "permalink": "rehmi-post",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Engineering, Co-founder",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Blackmon",
+      "permalink": "steve-blackmon",
+      "image": null}},
+   {"is_past": true,
+    "title": " Cofounder ",
+    "person":
+     {"first_name": "Zach",
+      "last_name": "Richardson",
+      "permalink": "zach-richardson-3",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/0721/260721v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0721/260721v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0721/260721v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

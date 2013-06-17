@@ -1,0 +1,110 @@
+{"name": "Riidr",
+ "permalink": "riidr",
+ "crunchbase_url": "http://www.crunchbase.com/company/riidr",
+ "homepage_url": "http://da.riidr.com/",
+ "blog_url": "http://blog.riidr.com/",
+ "blog_feed_url": "",
+ "twitter_username": "Riidr",
+ "category_code": "ecommerce",
+ "number_of_employees": 7,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ebook, reading-apps",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "open platform e-book publishing",
+ "created_at": "Sat Oct 27 16:14:34 UTC 2012",
+ "updated_at": "Wed Dec 12 07:24:00 UTC 2012",
+ "overview": "\u003Cp\u003ERiidr is a Danish startup company that sells ebooks via http://da.riidr.com/ and has developed reading applications for Android and iOS.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0021/7905/217905v2-max-150x150.png"],
+     [[250,
+       108],
+      "assets/images/resized/0021/7905/217905v2-max-250x250.png"],
+     [[450,
+       195],
+      "assets/images/resized/0021/7905/217905v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Anders",
+      "last_name": "Breinholst",
+      "permalink": "anders-breinholst",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Max",
+      "last_name": "Theilade",
+      "permalink": "max-theilade",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://oresundstartups.com/schibsted-invest-in-riidr/",
+    "source_description": "Schibsted invests in Riidr",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2012,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Schibsted",
+         "permalink": "schibsted",
+         "image":
+          {"available_sizes":
+            [[[107,
+               142],
+              "assets/images/resized/0011/3129/113129v1-max-150x150.jpg"],
+             [[107,
+               142],
+              "assets/images/resized/0011/3129/113129v1-max-250x250.jpg"],
+             [[107,
+               142],
+              "assets/images/resized/0011/3129/113129v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Gothersgade 175, 3.th.",
+    "address2": "",
+    "zip_code": "1123",
+    "city": "Copenhagen",
+    "state_code": null,
+    "country_code": "DNK",
+    "latitude": 55.6863417,
+    "longitude": 12.5662358}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/27336316?badge=0\" width=\"430\" height=\"270\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E \u003Cp\u003E\u003Ca href=\"http://vimeo.com/27336316\"\u003EIntroduktion til Riidr\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/user3330046\"\u003ERiidr\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EDanish introduction to Riidr\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

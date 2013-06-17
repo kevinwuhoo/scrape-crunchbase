@@ -1,0 +1,77 @@
+{"name": "Skuid",
+ "permalink": "skuid",
+ "crunchbase_url": "http://www.crunchbase.com/company/skuid",
+ "homepage_url": "http://www.skuidify.com",
+ "blog_url": "http://blog.skuidify.com",
+ "blog_feed_url": "",
+ "twitter_username": "skuidify",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2013,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "salesforce, user-interface, custom-ui, drag-and-drop-page-builder",
+ "alias_list": null,
+ "email_address": "matt@skuidify.com",
+ "phone_number": "4232089042",
+ "description": "Custom UI App for Salesforce",
+ "created_at": "Thu Apr 25 21:36:50 UTC 2013",
+ "updated_at": "Mon Apr 29 21:45:31 UTC 2013",
+ "overview": "\u003Cp\u003EYour all-in-one interface toolkit for the Salesforce Platform. Drag-and-drop to create tables, calendars, Chatter feeds, images, or wizards on any page. Combine data from different apps. Create a gorgeous, more useful and powerful Ui with ease. You can do it all with Skuid.\u003C/p\u003E\n\n\u003Cp\u003ECut Ui development time and costs in half.\nImprove user productivity and satisfaction dramatically.\nReduce support and training costs.\nIncludes everything you need to build and deploy pages. \u003C/p\u003E\n\n\u003Cp\u003ECOMPONENTS include:\u003C/p\u003E\n\n\u003Cp\u003EFIELD EDITOR: Build multicolumn, multisection forms with in-line editing.\u003C/p\u003E\n\n\u003Cp\u003ETAB SET: Create sets of tabs and subtabs to keep information above the fold.\u003C/p\u003E\n\n\u003Cp\u003ETABLE: Create fully, inline-editable tables with totals, averages, multicolumn sorting and mass actions.\u003C/p\u003E\n\n\u003Cp\u003ESEARCH: Filter and sort any table by multiple criteria, including custom filters.\u003C/p\u003E\n\n\u003Cp\u003ECALENDAR: Insert a calendar on any page to display time-stamped data.\u003C/p\u003E\n\n\u003Cp\u003EPANEL SET: Organize and size components within flexible panel sections.\u003C/p\u003E\n\n\u003Cp\u003EFILE: Upload, replace or delete images or files from any page layout.\u003C/p\u003E\n\n\u003Cp\u003ECHATTER FEED: Include Chatter features in any app or layout.\u003C/p\u003E\n\n\u003Cp\u003EWIZARD: Add process workflow to your forms and pages.\u003C/p\u003E\n\n\u003Cp\u003EPAGE TITLE: Title a page with any selected field automatically.\u003C/p\u003E\n\n\u003Cp\u003EPAGE INCLUDE: Insert other Skuid or Visualforce pages into Skuid pages.\u003C/p\u003E\n\n\u003Cp\u003ETEMPLATE: Create merge-field areas without writing formulas.\u003C/p\u003E\n\n\u003Cp\u003ECUSTOM: Add custom javascript snippets.\u003C/p\u003E\n\n\u003Cp\u003EAlso:\u003C/p\u003E\n\n\u003Cp\u003EPAGE ASSIGNMENTS: Deploy different versions of pages by profile or record type.\u003C/p\u003E\n\n\u003Cp\u003ERESOURCES: Create your own custom components, labels or CSS without leaving Skuid.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0025/5090/255090v2-max-150x150.png"],
+     [[200,
+       51],
+      "assets/images/resized/0025/5090/255090v2-max-250x250.png"],
+     [[200,
+       51],
+      "assets/images/resized/0025/5090/255090v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ken",
+      "last_name": "McElrath",
+      "permalink": "ken-mcelrath",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Skuid Office",
+    "address1": "3001 Broad St.",
+    "address2": "Suite 207",
+    "zip_code": "37408",
+    "city": "Chattanooga",
+    "state_code": "TN",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,143 @@
+{"name": "Carweez",
+ "permalink": "carweez",
+ "crunchbase_url": "http://www.crunchbase.com/company/carweez",
+ "homepage_url": "http://www.carweez.com",
+ "blog_url": "http://www.verteez.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "carweez_cars",
+ "category_code": "search",
+ "number_of_employees": 8,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 14,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, vertical, cars, engine",
+ "alias_list": null,
+ "email_address": "office@verteez.com",
+ "phone_number": "+1 (302) 722 62 27",
+ "description": "Car vertical search engine",
+ "created_at": "Tue Jan 29 19:35:07 UTC 2013",
+ "updated_at": "Sat Feb 02 05:53:53 UTC 2013",
+ "overview": "\u003Cp\u003ECarweez is a newly developed vertical search engine for new, used and certified pre-owned cars.\u003C/p\u003E\n\n\u003Cp\u003ECarweez have designed an new nationwide search platform to make the process of buying a car easier and more enjoyable to the buyer, cutting the time needed for searching through various different classified sites.\u003C/p\u003E\n\n\u003Cp\u003ECarweez offers the ability to search for multiple brands, models and body types simultaneously, in the interest of simplifying the search process.\u003C/p\u003E\n\n\u003Cp\u003EThe search engine uses a algorithm that doesn\u0026#8217;t favoritise any websites, but offers its users the relevant results according to their defined search criteria.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/3028/233028v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0023/3028/233028v2-max-250x250.jpg"],
+     [[320,
+       320],
+      "assets/images/resized/0023/3028/233028v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Goran",
+      "last_name": "Krgovic",
+      "permalink": "goran-krgovic",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Dejan",
+      "last_name": "Maric",
+      "permalink": "dejan-maric",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0023/3029/233029v2-max-150x150.jpg"],
+          [[250,
+            167],
+           "assets/images/resized/0023/3029/233029v2-max-250x250.jpg"],
+          [[450,
+            301],
+           "assets/images/resized/0023/3029/233029v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Edejan maric verteez carweez\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "Dejan",
+      "last_name": "Injac",
+      "permalink": "dejan-injac",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Trovit",
+      "permalink": "trovit",
+      "image":
+       {"available_sizes":
+         [[[114,
+            48],
+           "assets/images/resized/0001/7098/17098v1-max-150x150.png"],
+          [[114,
+            48],
+           "assets/images/resized/0001/7098/17098v1-max-250x250.png"],
+          [[114,
+            48],
+           "assets/images/resized/0001/7098/17098v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vast",
+      "permalink": "vast",
+      "image":
+       {"available_sizes":
+         [[[130,
+            63],
+           "assets/images/resized/0002/5280/25280v1-max-150x150.png"],
+          [[130,
+            63],
+           "assets/images/resized/0002/5280/25280v1-max-250x250.png"],
+          [[130,
+            63],
+           "assets/images/resized/0002/5280/25280v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Miroslava Anti\u0107a 6",
+    "address2": "",
+    "zip_code": "21000",
+    "city": "Novi Sad",
+    "state_code": null,
+    "country_code": "CSS",
+    "latitude": 45.2514804,
+    "longitude": 19.8487445}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"253\" src=\"http://www.youtube.com/embed/LlADLkyLoEs\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ECarweez for Webmasters\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0023/2402/232402v2-max-150x150.png"],
+      [[250,
+        152],
+       "assets/images/resized/0023/2402/232402v2-max-250x250.png"],
+      [[450,
+        275],
+       "assets/images/resized/0023/2402/232402v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.verteez.com",
+    "title": "Development agency"}]}

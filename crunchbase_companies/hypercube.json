@@ -1,0 +1,180 @@
+{"name": "HyperCube",
+ "permalink": "hypercube",
+ "crunchbase_url": "http://www.crunchbase.com/company/hypercube",
+ "homepage_url": "http://www.H3net.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "hypercubellc",
+ "category_code": "public_relations",
+ "number_of_employees": 65,
+ "founded_year": 2005,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "telecommunications, voip, tandem, local-access, voice-termination, telephone-numbers, voice-origination",
+ "alias_list": null,
+ "email_address": "PR@h3net.com",
+ "phone_number": "4697271622",
+ "description": "Wholesale Voice Carrier",
+ "created_at": "Tue Sep 06 20:57:17 UTC 2011",
+ "updated_at": "Wed Nov 30 05:03:18 UTC 2011",
+ "overview": "\u003Cp\u003EHyperCube is a privately held company headquartered in Dallas, Texas. We are a premier provider of local and national tandem services to carriers throughout the U.S. HyperCube provides tandem interconnection services to the competitive marketplace, including wireless, wire-line, cable telephony and Voice over Internet Protocol (VoIP) companies.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0015/2962/152962v2-max-150x150.jpg"],
+     [[250,
+       40],
+      "assets/images/resized/0015/2962/152962v2-max-250x250.jpg"],
+     [[322,
+       52],
+      "assets/images/resized/0015/2962/152962v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Malinowski",
+      "permalink": "chris-malinowski",
+      "image": null}},
+   {"is_past": true,
+    "title": "President and CEO",
+    "person":
+     {"first_name": "Ronald",
+      "last_name": "R. Beaumont",
+      "permalink": "ronald-r-beaumont",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chief Financial Officer",
+    "person":
+     {"first_name": "G.",
+      "last_name": "Clay Myers",
+      "permalink": "g-clay-myers",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Doug",
+      "last_name": "Davis",
+      "permalink": "doug-davis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Level 3 Communications",
+      "permalink": "level-3",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/9344/19344v1-max-150x150.png"],
+          [[179,
+            93],
+           "assets/images/resized/0001/9344/19344v1-max-250x250.png"],
+          [[179,
+            93],
+           "assets/images/resized/0001/9344/19344v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Global Crossing",
+      "permalink": "global-crossing",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0010/8426/108426v1-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0010/8426/108426v1-max-250x250.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0010/8426/108426v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AT\u0026T",
+      "permalink": "at-t",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0001/0875/10875v1-max-150x150.png"],
+          [[159,
+            80],
+           "assets/images/resized/0001/0875/10875v1-max-250x250.png"],
+          [[159,
+            80],
+           "assets/images/resized/0001/0875/10875v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Qwest",
+      "permalink": "qwest",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0005/6921/56921v2-max-150x150.png"],
+          [[171,
+            64],
+           "assets/images/resized/0005/6921/56921v2-max-250x250.png"],
+          [[171,
+            64],
+           "assets/images/resized/0005/6921/56921v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://finance.yahoo.com/news/west-corporation-acquire-hypercube-180000313.html",
+   "source_description": "West Corporation to Acquire HyperCube",
+   "acquired_year": 2011,
+   "acquired_month": 11,
+   "acquired_day": 30,
+   "acquiring_company":
+    {"name": "West Corporation",
+     "permalink": "west-corporation",
+     "image":
+      {"available_sizes":
+        [[[103,
+           75],
+          "assets/images/resized/0012/0106/120106v1-max-150x150.jpg"],
+         [[103,
+           75],
+          "assets/images/resized/0012/0106/120106v1-max-250x250.jpg"],
+         [[103,
+           75],
+          "assets/images/resized/0012/0106/120106v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "3200 W Peasant Rd.",
+    "address2": "Suite 300",
+    "zip_code": "75146",
+    "city": "Lancaster",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

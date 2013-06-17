@@ -1,0 +1,146 @@
+{"name": "BlooBox",
+ "permalink": "bloobox",
+ "crunchbase_url": "http://www.crunchbase.com/company/bloobox",
+ "homepage_url": "http://bloobox.tv",
+ "blog_url": "http://bloobox.tv",
+ "blog_feed_url": "",
+ "twitter_username": "bloobox_tv",
+ "category_code": "public_relations",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "dooh, indoor-tv, social-signage, location-based-marketing, community-based-digital-signage, retail, social-media",
+ "alias_list": null,
+ "email_address": "contact@bloobox.com.br",
+ "phone_number": "+558387363751",
+ "description": "DIY Indoor TV",
+ "created_at": "Thu Jan 27 19:01:52 UTC 2011",
+ "updated_at": "Tue Feb 01 22:16:20 UTC 2011",
+ "overview": "\u003Cp\u003EBlooBox provides small businesses a platform that allows them to setup and manage their own Indoor TV channels, including content from social medias such as youtube, twitter and foursquare.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0011/9398/119398v2-max-150x150.png"],
+     [[250,
+       90],
+      "assets/images/resized/0011/9398/119398v2-max-250x250.png"],
+     [[450,
+       162],
+      "assets/images/resized/0011/9398/119398v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Herval",
+      "last_name": "Freire",
+      "permalink": "herval-freire",
+      "image":
+       {"available_sizes":
+         [[[150,
+            116],
+           "assets/images/resized/0011/9397/119397v2-max-150x150.jpg"],
+          [[250,
+            194],
+           "assets/images/resized/0011/9397/119397v2-max-250x250.jpg"],
+          [[450,
+            350],
+           "assets/images/resized/0011/9397/119397v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Scala",
+      "permalink": "scala",
+      "image": null}},
+   {"competitor":
+     {"name": "BroadSign",
+      "permalink": "broadsign",
+      "image":
+       {"available_sizes":
+         [[[132,
+            42],
+           "assets/images/resized/0006/4575/64575v1-max-150x150.jpg"],
+          [[132,
+            42],
+           "assets/images/resized/0006/4575/64575v1-max-250x250.jpg"],
+          [[132,
+            42],
+           "assets/images/resized/0006/4575/64575v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ScreenScape Networks",
+      "permalink": "screenscape-networks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/0136/20136v2-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0002/0136/20136v2-max-250x250.png"],
+          [[315,
+            87],
+           "assets/images/resized/0002/0136/20136v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Onsee Digital Signage",
+      "permalink": "onsee-digital-signage",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0023/0414/230414v2-max-150x150.png"],
+          [[199,
+            70],
+           "assets/images/resized/0023/0414/230414v2-max-250x250.png"],
+          [[199,
+            70],
+           "assets/images/resized/0023/0414/230414v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 8,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "58039-190",
+    "city": "Jo\u00c3\u00a3o Pessoa",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.startupi.com.br/en/2011/bloobox-bets-on-social-tv-transforms-screen-into-interactive-platform/",
+    "title": "BlooBox bets on social TV and transforms screens into interactive platforms"}]}

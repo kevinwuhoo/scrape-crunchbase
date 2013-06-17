@@ -1,0 +1,149 @@
+{"name": "CyT Informatik",
+ "permalink": "cyt-informatik",
+ "crunchbase_url": "http://www.crunchbase.com/company/cyt-informatik",
+ "homepage_url": "https://cyt.ch",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "CyT_GmbH",
+ "category_code": "consulting",
+ "number_of_employees": 7,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ruby-on-rails-invoicing-web-app",
+ "alias_list": null,
+ "email_address": "info@cyt.ch",
+ "phone_number": "+41 (0)41 544 47 60",
+ "description": "Ruby on Rails Lab",
+ "created_at": "Tue Mar 20 23:25:03 UTC 2012",
+ "updated_at": "Tue Mar 27 07:32:04 UTC 2012",
+ "overview": "\u003Cp\u003ECyT builds custom software out of free building blocks.\u003C/p\u003E\n\n\u003Cp\u003EMain area of expertise is building custom solutions for business processes. This is mostly done by implementing web apps using the Ruby on Rails framework. Using Open Source components for almost all aspect is both an economic and an idealistic choice.\u003C/p\u003E\n\n\u003Cp\u003EBookyt is an online accounting and invoicing service with a focus on Swiss regulations, conventions and language. The code is available under a free license and is professionally supported by CyT. A hosted service is currently in Beta.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[72,
+       72],
+      "assets/images/resized/0018/0300/180300v2-max-150x150.png"],
+     [[72,
+       72],
+      "assets/images/resized/0018/0300/180300v2-max-250x250.png"],
+     [[72,
+       72],
+      "assets/images/resized/0018/0300/180300v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Simon",
+      "last_name": "H\u00fcrlimann",
+      "permalink": "simon-hrlimann",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ramon",
+      "last_name": "Egloff",
+      "permalink": "ramon-egloff",
+      "image": null}},
+   {"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Roman",
+      "last_name": "Simecek",
+      "permalink": "roman-simecek",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tradeshift",
+      "permalink": "tradeshift",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0007/8265/78265v5-max-150x150.jpg"],
+          [[250,
+            32],
+           "assets/images/resized/0007/8265/78265v5-max-250x250.jpg"],
+          [[450,
+            58],
+           "assets/images/resized/0007/8265/78265v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RunMyAccounts",
+      "permalink": "runmyaccounts",
+      "image": null}},
+   {"competitor":
+     {"name": "Xero",
+      "permalink": "xero",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-150x150.png"],
+          [[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-250x250.png"],
+          [[150,
+            150],
+           "assets/images/resized/0002/4903/24903v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Dorfstr. 17",
+    "address2": "",
+    "zip_code": "6300",
+    "city": "Zug",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        111],
+       "assets/images/resized/0018/0299/180299v2-max-150x150.png"],
+      [[250,
+        186],
+       "assets/images/resized/0018/0299/180299v2-max-250x250.png"],
+      [[360,
+        268],
+       "assets/images/resized/0018/0299/180299v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

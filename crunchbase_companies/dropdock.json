@@ -1,0 +1,134 @@
+{"name": "Dropdock",
+ "permalink": "dropdock",
+ "crunchbase_url": "http://www.crunchbase.com/company/dropdock",
+ "homepage_url": "http://getdropdock.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "dropdock",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "file-sharing, file-share, send-file, file-storage, application, software, unlimited-file-send, file-sending",
+ "alias_list": null,
+ "email_address": "contact@getdropdock.com",
+ "phone_number": "",
+ "description": "Drag.Drop.Sent",
+ "created_at": "Mon Apr 09 14:47:28 UTC 2012",
+ "updated_at": "Thu Apr 12 22:05:52 UTC 2012",
+ "overview": "\u003Cp\u003EDropdock has the simplest file-sharing experience. Just drag and drop the files on the avatar of the person you want to send them to. and voila, it\u0026#8217;s sent.\u003C/p\u003E\n\n\u003Cp\u003EOur application is cross platform and available on Windows, Mac OS X and Linux. Mobile app are coming soon and will be available for iOS and Android.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0018/3301/183301v2-max-150x150.png"],
+     [[250,
+       48],
+      "assets/images/resized/0018/3301/183301v2-max-250x250.png"],
+     [[450,
+       87],
+      "assets/images/resized/0018/3301/183301v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Pierre",
+      "last_name": "Mage",
+      "permalink": "pierre-mage",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sylvain",
+      "last_name": "Giuliani",
+      "permalink": "sylvain-giuliani",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0021/5602/215602v2-max-150x150.jpg"],
+          [[186,
+            250],
+           "assets/images/resized/0021/5602/215602v2-max-250x250.jpg"],
+          [[336,
+            450],
+           "assets/images/resized/0021/5602/215602v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Maxime",
+      "last_name": "Bourumeau Fuseau",
+      "permalink": "maxime-bourumeau-fuseau",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Kicksend",
+      "permalink": "kicksend",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0012/7344/127344v14-max-150x150.png"],
+          [[250,
+            62],
+           "assets/images/resized/0012/7344/127344v14-max-250x250.png"],
+          [[450,
+            112],
+           "assets/images/resized/0012/7344/127344v14-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ge.tt",
+      "permalink": "ge-tt",
+      "image":
+       {"available_sizes":
+         [[[115,
+            150],
+           "assets/images/resized/0010/7326/107326v2-max-150x150.png"],
+          [[140,
+            182],
+           "assets/images/resized/0010/7326/107326v2-max-250x250.png"],
+          [[140,
+            182],
+           "assets/images/resized/0010/7326/107326v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        88],
+       "assets/images/resized/0018/3300/183300v2-max-150x150.png"],
+      [[250,
+        148],
+       "assets/images/resized/0018/3300/183300v2-max-250x250.png"],
+      [[450,
+        266],
+       "assets/images/resized/0018/3300/183300v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://paris.startupweekend.org/2012/04/04/tech-edition-wrap-up/",
+    "title": "Startup Weekend Winner"}]}

@@ -1,0 +1,90 @@
+{"name": "Cloudessa",
+ "permalink": "cloudessa",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudessa",
+ "homepage_url": "http://www.cloudessa.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": 10,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@cloudessa.com",
+ "phone_number": "+1 (650) 458-0200",
+ "description": "Cloud Security/OpenFlow/Q-Prize Finalist",
+ "created_at": "Sat Sep 15 12:05:19 UTC 2012",
+ "updated_at": "Thu Sep 20 23:22:39 UTC 2012",
+ "overview": "\u003Cp\u003ECloudessa 2012 Qualcomm Q-Prize finalist. It is a cloud network security virtualization platform that solves the problem of authentication, authorization, accounting and access control for enterprises and telecom companies. It is offered as SaaS and is the first product in the space to incorporate OpenFlow software-defined  networking technologies.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Cisco",
+      "permalink": "cisco",
+      "image":
+       {"available_sizes":
+         [[[110,
+            73],
+           "assets/images/resized/0001/8309/18309v6-max-150x150.png"],
+          [[110,
+            73],
+           "assets/images/resized/0001/8309/18309v6-max-250x250.png"],
+          [[110,
+            73],
+           "assets/images/resized/0001/8309/18309v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Juniper Networks",
+      "permalink": "juniper-networks",
+      "image":
+       {"available_sizes":
+         [[[148,
+            42],
+           "assets/images/resized/0002/7562/27562v4-max-150x150.png"],
+          [[148,
+            42],
+           "assets/images/resized/0002/7562/27562v4-max-250x250.png"],
+          [[148,
+            42],
+           "assets/images/resized/0002/7562/27562v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "2225 East Bayshore Road",
+    "address1": "",
+    "address2": "",
+    "zip_code": "94301",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://gigaom.com/mobile/qualcomms-qprize-shows-its-philosophy-on-the-mobile-world/",
+    "title": "Qualcomms Qprize Shows-its-philosophy on the mobile world"}]}

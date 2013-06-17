@@ -1,0 +1,117 @@
+{"name": "Devunity",
+ "permalink": "devunity",
+ "crunchbase_url": "http://www.crunchbase.com/company/devunity",
+ "homepage_url": "http://www.devunity.com",
+ "blog_url": "http://www.devunity.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "devunity",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "techcrunch50, tc50",
+ "alias_list": null,
+ "email_address": "info@devunity.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sun Feb 17 20:01:52 UTC 2008",
+ "updated_at": "Tue Aug 18 16:51:57 UTC 2009",
+ "overview": "\u003Cp\u003EDevunity.com is a collaboration tool for coders that is currently in stealth mode.  Once launched, developers will be able to share their work with colleagues on devunity.com with all the bells and whistles like versioning, tags, bug tracking, etc. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0001/2632/12632v1-max-150x150.png"],
+     [[250,
+       66],
+      "assets/images/resized/0001/2632/12632v1-max-250x250.png"],
+     [[444,
+       118],
+      "assets/images/resized/0001/2632/12632v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Devunity.com",
+    "permalink": "devunity-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Alon",
+      "last_name": "Carmel",
+      "permalink": "alon-carmel",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Leeron",
+      "last_name": "Shalev",
+      "permalink": "leeron-shalev",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Phuser",
+      "permalink": "phuser",
+      "image":
+       {"available_sizes":
+         [[[101,
+            64],
+           "assets/images/resized/0000/2254/2254v1-max-150x150.png"],
+          [[101,
+            64],
+           "assets/images/resized/0000/2254/2254v1-max-250x250.png"],
+          [[101,
+            64],
+           "assets/images/resized/0000/2254/2254v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject id=\"otv_o_740998\" height=\"320\" width=\"400\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"\u003E\u003Cparam value=\"http://www.ustream.tv/flash/video/700864\" name=\"movie\" /\u003E\u003Cparam value=\"true\" name=\"allowFullScreen\" /\u003E\u003Cparam value=\"always\" name=\"allowScriptAccess\" /\u003E\u003Cparam value=\"transparent\" name=\"wmode\" /\u003E\u003Cparam value=\"viewcount=false\u0026amp;autoplay=false\u0026amp;brand=embed\u0026amp;\" name=\"flashvars\" /\u003E\u003Cembed name=\"otv_e_917652\" id=\"otv_e_933300\" flashvars=\"viewcount=false\u0026amp;autoplay=false\u0026amp;brand=embed\u0026amp;\" height=\"320\" width=\"400\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"transparent\" src=\"http://www.ustream.tv/flash/video/700864\" type=\"application/x-shockwave-flash\" /\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003ETC50\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

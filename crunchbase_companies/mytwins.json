@@ -1,0 +1,114 @@
+{"name": "myTwins",
+ "permalink": "mytwins",
+ "crunchbase_url": "http://www.crunchbase.com/company/mytwins",
+ "homepage_url": "http://www.mytwins.com",
+ "blog_url": "http://blog.mytwins.com",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "support@mytwins.com",
+ "phone_number": "",
+ "description": "Find your twin - discover yourself",
+ "created_at": "Thu Aug 02 07:11:18 UTC 2012",
+ "updated_at": "Thu Sep 06 06:21:19 UTC 2012",
+ "overview": "",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0020/4040/204040v4-max-150x150.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0020/4040/204040v4-max-250x250.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0020/4040/204040v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "RDS",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "EC2",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Israel HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        76],
+       "assets/images/resized/0020/4415/204415v2-max-150x150.png"],
+      [[250,
+        127],
+       "assets/images/resized/0020/4415/204415v2-max-250x250.png"],
+      [[450,
+        228],
+       "assets/images/resized/0020/4415/204415v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

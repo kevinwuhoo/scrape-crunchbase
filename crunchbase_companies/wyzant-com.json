@@ -1,0 +1,242 @@
+{"name": "WyzAnt.com",
+ "permalink": "wyzant-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/wyzant-com",
+ "homepage_url": "http://www.wyzant.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "wyzant",
+ "category_code": "web",
+ "number_of_employees": 11,
+ "founded_year": 2005,
+ "founded_month": 9,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education-and-tutoring",
+ "alias_list": null,
+ "email_address": "info@wyzant.com",
+ "phone_number": "877-999-2681",
+ "description": "Tutoring Website",
+ "created_at": "Wed Feb 11 21:56:57 UTC 2009",
+ "updated_at": "Fri Feb 01 08:16:55 UTC 2013",
+ "overview": "\u003Cp\u003EWyzAnt is a nationwide tutor-student matching service with tutors offering instruction in many academic, artistic, and sports/recreational areas. We leverage a powerful technology platform to facilitate the matching process and offer many services to enhance the user experience of WyzAnt community members.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0004/2289/42289v3-max-150x150.png"],
+     [[250,
+       103],
+      "assets/images/resized/0004/2289/42289v3-max-250x250.png"],
+     [[308,
+       127],
+      "assets/images/resized/0004/2289/42289v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Geant",
+      "permalink": "andrew-geant",
+      "image": null}},
+   {"is_past": false,
+    "title": "CIO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Weishuhn",
+      "permalink": "michael-weishihn",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Brent",
+      "last_name": "Johnson",
+      "permalink": "brent-johnson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Infrastructure Engineering",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Cusick",
+      "permalink": "dan-cusick",
+      "image": null}},
+   {"is_past": false,
+    "title": "Strategy and Operations",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Chiles",
+      "permalink": "justin-chiles",
+      "image": null}},
+   {"is_past": false,
+    "title": "Marketing Coordinator",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Breiner",
+      "permalink": "daniel-breiner",
+      "image": null}},
+   {"is_past": false,
+    "title": "Customer Support Manager ",
+    "person":
+     {"first_name": "Angela",
+      "last_name": "Stone",
+      "permalink": "angela-stone",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Kaplan",
+      "permalink": "kaplan",
+      "image":
+       {"available_sizes":
+         [[[112,
+            44],
+           "assets/images/resized/0008/7779/87779v1-max-150x150.jpg"],
+          [[112,
+            44],
+           "assets/images/resized/0008/7779/87779v1-max-250x250.jpg"],
+          [[112,
+            44],
+           "assets/images/resized/0008/7779/87779v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tutorlinker",
+      "permalink": "tutorlinker",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0003/9408/39408v1-max-150x150.png"],
+          [[244,
+            47],
+           "assets/images/resized/0003/9408/39408v1-max-250x250.png"],
+          [[244,
+            47],
+           "assets/images/resized/0003/9408/39408v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TutorVista.com",
+      "permalink": "tutorvista-com-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0003/4936/34936v1-max-150x150.png"],
+          [[202,
+            57],
+           "assets/images/resized/0003/4936/34936v1-max-250x250.png"],
+          [[202,
+            57],
+           "assets/images/resized/0003/4936/34936v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Care.com",
+      "permalink": "care-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0003/7928/37928v8-max-150x150.png"],
+          [[250,
+            93],
+           "assets/images/resized/0003/7928/37928v8-max-250x250.png"],
+          [[450,
+            168],
+           "assets/images/resized/0003/7928/37928v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sittercity",
+      "permalink": "sittercity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0003/5332/35332v4-max-150x150.png"],
+          [[200,
+            66],
+           "assets/images/resized/0003/5332/35332v4-max-250x250.png"],
+          [[200,
+            66],
+           "assets/images/resized/0003/5332/35332v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TeachStreet",
+      "permalink": "teachstreet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0001/7469/17469v6-max-150x150.jpg"],
+          [[250,
+            81],
+           "assets/images/resized/0001/7469/17469v6-max-250x250.jpg"],
+          [[450,
+            145],
+           "assets/images/resized/0001/7469/17469v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TopTestPrep.com",
+      "permalink": "toptestprep-com",
+      "image": null}},
+   {"competitor":
+     {"name": "The LearnShop",
+      "permalink": "the-learnshop",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0007/0474/70474v3-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0007/0474/70474v3-max-250x250.png"],
+          [[433,
+            76],
+           "assets/images/resized/0007/0474/70474v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "InstaEDU",
+      "permalink": "instaedu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0019/3174/193174v1-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0019/3174/193174v1-max-250x250.png"],
+          [[450,
+            79],
+           "assets/images/resized/0019/3174/193174v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "WyzAnt Headquarters",
+    "address1": "1714 N Damen Ave Suite 3N",
+    "address2": "",
+    "zip_code": "60647",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": 41.912855,
+    "longitude": -87.677796}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

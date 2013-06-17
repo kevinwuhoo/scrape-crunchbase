@@ -1,0 +1,106 @@
+{"name": "IM Feeds",
+ "permalink": "im-feeds",
+ "crunchbase_url": "http://www.crunchbase.com/company/im-feeds",
+ "homepage_url": "http://www.imfeeds.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rss, atom, instant-messenger, gtalk, aim",
+ "alias_list": "",
+ "email_address": "jmath@imfeeds.com",
+ "phone_number": "",
+ "description": "RSS feeds for IM",
+ "created_at": "Fri Apr 24 12:30:23 UTC 2009",
+ "updated_at": "Mon Apr 27 21:29:05 UTC 2009",
+ "overview": "\u003Cp\u003EIM Feeds is a service that delivers RSS or Atom feed updates to instant messenger services. This allows users receive news from a few favorite feeds without using a reader. Supported IM networks include AIM and Googletalk. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[107,
+       23],
+      "assets/images/resized/0004/2509/42509v2-max-150x150.png"],
+     [[107,
+       23],
+      "assets/images/resized/0004/2509/42509v2-max-250x250.png"],
+     [[107,
+       23],
+      "assets/images/resized/0004/2509/42509v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "IM Feeds",
+    "permalink": "im-feeds",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "John",
+      "last_name": "C. Matherly",
+      "permalink": "john-c-matherly",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Feedcrier",
+      "permalink": "feedcrier",
+      "image": null}},
+   {"competitor":
+     {"name": "Notify.me",
+      "permalink": "notify-me",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0002/9606/29606v1-max-150x150.png"],
+          [[225,
+            81],
+           "assets/images/resized/0002/9606/29606v1-max-250x250.png"],
+          [[225,
+            81],
+           "assets/images/resized/0002/9606/29606v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Inezha",
+      "permalink": "inezha",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        96],
+       "assets/images/resized/0004/2508/42508v2-max-150x150.png"],
+      [[250,
+        160],
+       "assets/images/resized/0004/2508/42508v2-max-250x250.png"],
+      [[379,
+        244],
+       "assets/images/resized/0004/2508/42508v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/instantly_get_important_rss_al.php",
+    "title": "Instantly Get Important RSS Alerts with IM Feeds"},
+   {"external_url": "http://www.makeuseof.com/tag/im-feeds-a-tool-for-the-rss-power-user/",
+    "title": "IM Feeds - A Tool for the RSS Power User"}]}

@@ -1,0 +1,106 @@
+{"name": "OlinData",
+ "permalink": "olindata",
+ "crunchbase_url": "http://www.crunchbase.com/company/olindata",
+ "homepage_url": "http://olindata.com",
+ "blog_url": "http://olindata.com",
+ "blog_feed_url": "",
+ "twitter_username": "olindata",
+ "category_code": "consulting",
+ "number_of_employees": 7,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "consulting, virtual-company, remote-consulting, server-monitoring, website-monitoring, puppet, mysql, database-consulting, configuration-management",
+ "alias_list": null,
+ "email_address": "info@olindata.com",
+ "phone_number": "+31617242761",
+ "description": "IT Services Startup",
+ "created_at": "Mon Jan 30 02:42:20 UTC 2012",
+ "updated_at": "Fri May 31 22:49:08 UTC 2013",
+ "overview": "\u003Cp\u003EOlinData provides IT services and consulting for SME\u0026#8217;s. Unique about OlinData is that the company is completely virtual with no official office. Engineers work from 4 different continents from the comfort of their own home.\u003C/p\u003E\n\n\u003Cp\u003EOriginally started doing remote MySQL Consulting, OlinData launched a server monitoring solution tribily (http://tribily.com) in late 2010.\u003C/p\u003E\n\n\u003Cp\u003EIn early 2012, Puppet consulting was added to the array of provided services. An official puppetlabs partner, OlinData provides trainings in South East Asia and remote consulting worldwide.\u003C/p\u003E\n\n\u003Cp\u003EOlinData puts an emphasis on honest, green and socially responsible entrepreneurship.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Walter",
+      "last_name": "Heck",
+      "permalink": "walter-heck",
+      "image": null}},
+   {"is_past": false,
+    "title": "Sales and Finance Manager",
+    "person":
+     {"first_name": "Mine",
+      "last_name": "Akman",
+      "permalink": "mine-akman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sentinel Monitoring",
+      "permalink": "sentinel-monitoring",
+      "image": null}},
+   {"competitor":
+     {"name": "New Relic",
+      "permalink": "new-relic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0001/7914/17914v1-max-150x150.png"],
+          [[250,
+            58],
+           "assets/images/resized/0001/7914/17914v1-max-250x250.png"],
+          [[261,
+            61],
+           "assets/images/resized/0001/7914/17914v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Server Density",
+      "permalink": "server-density",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/6862/266862v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0026/6862/266862v2-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0026/6862/266862v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Europaweg 182",
+    "address2": "",
+    "zip_code": "2711 PW",
+    "city": "Zoetermeer",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,89 @@
+{"name": "Scrobl",
+ "permalink": "scrobl",
+ "crunchbase_url": "http://www.crunchbase.com/company/scrobl",
+ "homepage_url": "http://scrobl.com/",
+ "blog_url": "http://blog.scrobl.com/",
+ "blog_feed_url": "http://blog.scrobl.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "activity-tracking",
+ "alias_list": null,
+ "email_address": "contact@scrobl.com",
+ "phone_number": "",
+ "description": "Scrobl is a universal tracking system",
+ "created_at": "Tue Mar 03 23:02:18 UTC 2009",
+ "updated_at": "Sat Mar 07 15:04:08 UTC 2009",
+ "overview": "\u003Cp\u003EScrobl is a startup, which allows you to log any kind of activity as simple text items, separated to lists.\u003C/p\u003E\n\n\u003Cp\u003EAll data can be exported via feeds.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0003/7306/37306v2-max-150x150.png"],
+     [[209,
+       45],
+      "assets/images/resized/0003/7306/37306v2-max-250x250.png"],
+     [[209,
+       45],
+      "assets/images/resized/0003/7306/37306v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Scrobl",
+    "permalink": "scrobl",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "nixoid",
+      "permalink": "andrew-nixoid",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Kiev Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Kiev",
+    "state_code": null,
+    "country_code": "UKR",
+    "latitude": 50.453629,
+    "longitude": 30.503828}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        102],
+       "assets/images/resized/0003/7305/37305v2-max-150x150.png"],
+      [[250,
+        170],
+       "assets/images/resized/0003/7305/37305v2-max-250x250.png"],
+      [[276,
+        188],
+       "assets/images/resized/0003/7305/37305v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

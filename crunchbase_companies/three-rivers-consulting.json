@@ -1,0 +1,95 @@
+{"name": "Three Rivers Consulting",
+ "permalink": "three-rivers-consulting",
+ "crunchbase_url": "http://www.crunchbase.com/company/three-rivers-consulting",
+ "homepage_url": "http://www.junitmax.com/junitmax/subscribe.html",
+ "blog_url": "http://www.junitmax.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "KentBeck",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 1992,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "developer-tool-test",
+ "alias_list": null,
+ "email_address": "kent@threeriversinstitute.org",
+ "phone_number": "541 659 4188",
+ "description": "Developer test tools",
+ "created_at": "Tue May 19 03:13:24 UTC 2009",
+ "updated_at": "Wed May 20 17:18:24 UTC 2009",
+ "overview": "\u003Cp\u003EThree Rivers Consulting provides tools to help programmers use automated tests more effectively.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[90,
+       150],
+      "assets/images/resized/0004/4532/44532v2-max-150x150.png"],
+     [[90,
+       150],
+      "assets/images/resized/0004/4532/44532v2-max-250x250.png"],
+     [[90,
+       150],
+      "assets/images/resized/0004/4532/44532v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "JUnit Max",
+    "permalink": "junit-max",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Kent",
+      "last_name": "Beck",
+      "permalink": "kent-beck",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Wilson Sonsini Goodrich \u0026 Rosati",
+      "permalink": "wilson-sonsini-goodrich-rosati",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/9486/19486v1-max-150x150.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-250x250.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarter",
+    "address1": "P.O. Box 128",
+    "address2": "",
+    "zip_code": "97532",
+    "city": "Merlin",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": 42.5778639,
+    "longitude": -123.5264709}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

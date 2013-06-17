@@ -1,0 +1,76 @@
+{"name": "Lightfleet",
+ "permalink": "lightfleet",
+ "crunchbase_url": "http://www.crunchbase.com/company/lightfleet",
+ "homepage_url": "http://lightfleet.com",
+ "blog_url": "http://lightfleet.com/?cat=16",
+ "blog_feed_url": "http://lightfleet.com/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "hardware",
+ "number_of_employees": 55,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "optical, broadcast, interconnect, all-to-all, light, laser",
+ "alias_list": null,
+ "email_address": "info@lightfleet.com",
+ "phone_number": "360-816-5700",
+ "description": null,
+ "created_at": "Tue May 20 17:44:16 UTC 2008",
+ "updated_at": "Fri May 30 10:57:22 UTC 2008",
+ "overview": "\u003Cp\u003ELightfleet has developed a new way of letting computers talk to each other using broadcast light to eliminate the wires. They say the technology makes systems smaller, use less power, do more work, and communicate with less congestion. \u003C/p\u003E\n\n\u003Cp\u003ECorowave technology is an optical broadcast interconnect that connects computers with light instead of wires. Corowave replaces tangles of wires with an optical module you can hold in your hand.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       87],
+      "assets/images/resized/0001/8915/18915v2-max-150x150.jpg"],
+     [[250,
+       145],
+      "assets/images/resized/0001/8915/18915v2-max-250x250.jpg"],
+     [[450,
+       261],
+      "assets/images/resized/0001/8915/18915v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "4800 NW Camas Meadows Dr.",
+    "address2": "",
+    "zip_code": "98607-7671",
+    "city": "Camas",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 45.63256,
+    "longitude": -122.462093}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.informationweek.com/news/hardware/showArticle.jhtml?articleID=197700927",
+    "title": "Startup Lightfleet Claims To Increase Computing Speed In Servers "},
+   {"external_url": "http://tech.slashdot.org/article.pl?sid=07/03/02/1340235\u0026from=rss",
+    "title": "Slashdot: Using Lasers to Speed Computer Data "},
+   {"external_url": "http://online.wsj.com/public/article/SB117280769870724505-ZdX0zmXR6rQUIkhpaYrHrYBzZkM_20080301.html?mod=blogs",
+    "title": "Lightfleet Lets Computer Data Hitch a Ride on a Laser Beam"}]}

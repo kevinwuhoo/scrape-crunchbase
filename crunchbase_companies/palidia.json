@@ -1,0 +1,92 @@
+{"name": "Palidia",
+ "permalink": "palidia",
+ "crunchbase_url": "http://www.crunchbase.com/company/palidia",
+ "homepage_url": "http://www.palidia.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "public_relations",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-development, business-analyst, project-management",
+ "alias_list": null,
+ "email_address": "contact@palidia.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Oct 09 01:38:47 UTC 2008",
+ "updated_at": "Sat Oct 11 14:12:11 UTC 2008",
+ "overview": "\u003Cp\u003EPalidia Inc. provides consultation and web development services for clients across North America. Their specializations are in web development, business analysis, and project management. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0002/6439/26439v2-max-150x150.jpg"],
+     [[217,
+       83],
+      "assets/images/resized/0002/6439/26439v2-max-250x250.jpg"],
+     [[217,
+       83],
+      "assets/images/resized/0002/6439/26439v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "WiseKraks",
+    "permalink": "wisekraks",
+    "image": null},
+   {"name": "Rendaivu",
+    "permalink": "rendaivu",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Winfield",
+      "permalink": "scott-winfield",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Bash.org",
+      "permalink": "bash-org",
+      "image": null}},
+   {"competitor":
+     {"name": "SeenOnSlash",
+      "permalink": "seenonslash",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Ottawa",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 45.423494,
+    "longitude": -75.697933}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.wisekraks.com",
+    "title": "Wisekraks"},
+   {"external_url": "http://ww.rendaivu.com",
+    "title": "Rendaivu"}]}

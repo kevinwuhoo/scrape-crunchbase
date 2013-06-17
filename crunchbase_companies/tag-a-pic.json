@@ -1,0 +1,79 @@
+{"name": "Tag-a-Pic",
+ "permalink": "tag-a-pic",
+ "crunchbase_url": "http://www.crunchbase.com/company/tag-a-pic",
+ "homepage_url": "http://www.tagapic.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "digital-photos-tag-organize-search-faces-windows",
+ "alias_list": null,
+ "email_address": "ron@tagapic.com",
+ "phone_number": "",
+ "description": "Photo Tagging",
+ "created_at": "Thu Aug 27 10:53:46 UTC 2009",
+ "updated_at": "Thu Aug 27 16:41:43 UTC 2009",
+ "overview": "\u003Cp\u003ETag-a-Pic helps organize and search people photos by using face detection and recognition technologies.\u003C/p\u003E\n\n\u003Cp\u003ETag-a-Pic is the first Windows application that utilizes face detection and recognition technologies for tagging photos.\u003C/p\u003E\n\n\u003Cp\u003ETag-a-Pic detects photos that have faces in them, and then lets users add tag names using a simple user interface. After tagging a sufficient number of photos, Tag-a-Pic can use face recognition to guess who people are in order to expedite the tagging process.\u003C/p\u003E\n\n\u003Cp\u003ETag-a-Pic stores tags either as meta data in the images or appends them to the file names. Users can then search their photos using most common photo organizer (such as Flickr and Picasa), or simply through the Windows Search.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0005/7874/57874v2-max-150x150.png"],
+     [[250,
+       76],
+      "assets/images/resized/0005/7874/57874v2-max-250x250.png"],
+     [[450,
+       136],
+      "assets/images/resized/0005/7874/57874v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Eitan",
+      "last_name": "Adler",
+      "permalink": "eitan-adler",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        115],
+       "assets/images/resized/0005/7873/57873v2-max-150x150.png"],
+      [[250,
+        192],
+       "assets/images/resized/0005/7873/57873v2-max-250x250.png"],
+      [[450,
+        347],
+       "assets/images/resized/0005/7873/57873v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

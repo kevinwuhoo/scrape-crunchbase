@@ -1,0 +1,81 @@
+{"name": "Enea",
+ "permalink": "enea",
+ "crunchbase_url": "http://www.crunchbase.com/company/enea",
+ "homepage_url": "http://www.enea.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "EneaAB",
+ "category_code": "software",
+ "number_of_employees": 650,
+ "founded_year": 1968,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "realtime-operaing-systems, multicore--rtos, embedded-consulting, offshoring, telecom-software",
+ "alias_list": null,
+ "email_address": "info@enea.com",
+ "phone_number": "",
+ "description": "Embedded Software and Consulting",
+ "created_at": "Thu Oct 15 17:02:49 UTC 2009",
+ "updated_at": "Thu Oct 15 23:28:04 UTC 2009",
+ "overview": "\u003Cp\u003EEnea is a global software and services company focused on solutions for communication-driven products.\u003C/p\u003E\n\n\u003Cp\u003EThe company follows a strategy focused on two business units. The Software business unit, which includes Enea\u0026#8217;s global software business and related services, will focus on the company\u0026#8217;s strong position in the real-time operating system (RTOS) market in which Enea is a world leading supplier to the telecom industry. The Consulting business unit, which consists of the professional services business in Sweden, Romania and the United States, focus on local expertise combined with off-shoring services. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chairman",
+    "person":
+     {"first_name": "Anders",
+      "last_name": "Lidbeck",
+      "permalink": "anders-lidbeck",
+      "image": null}},
+   {"is_past": false,
+    "title": "President and CEO",
+    "person":
+     {"first_name": "Per",
+      "last_name": "Akerberg",
+      "permalink": "per-akerberg",
+      "image": null}},
+   {"is_past": false,
+    "title": "SVP",
+    "person":
+     {"first_name": "Gregory",
+      "last_name": "Singh",
+      "permalink": "gregory-singh",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarter",
+    "address1": "Skalholtsgatan 9",
+    "address2": "",
+    "zip_code": "SE-164 21",
+    "city": "Kista",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.vdcresearch.com/embedded_sw/",
+    "title": "Enea Wins Best of Show at ESC"}]}

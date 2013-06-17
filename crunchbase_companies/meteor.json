@@ -1,0 +1,148 @@
+{"name": "Meteor",
+ "permalink": "meteor",
+ "crunchbase_url": "http://www.crunchbase.com/company/meteor",
+ "homepage_url": "http://meteor.com/",
+ "blog_url": "http://meteor.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "meteorjs",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "matt@meteor.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Jul 26 02:10:14 UTC 2012",
+ "updated_at": "Fri Feb 22 08:33:08 UTC 2013",
+ "overview": "\u003Cp\u003EMeteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you\u0026#8217;re an expert developer or just getting started. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       108],
+      "assets/images/resized/0020/2901/202901v1-max-150x150.png"],
+     [[176,
+       127],
+      "assets/images/resized/0020/2901/202901v1-max-250x250.png"],
+     [[176,
+       127],
+      "assets/images/resized/0020/2901/202901v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Board of Directors",
+    "person":
+     {"first_name": "David",
+      "last_name": "Skok",
+      "permalink": "david-skok",
+      "image":
+       {"available_sizes":
+         [[[150,
+            125],
+           "assets/images/resized/0008/4328/84328v4-max-150x150.jpg"],
+          [[250,
+            208],
+           "assets/images/resized/0008/4328/84328v4-max-250x250.jpg"],
+          [[450,
+            375],
+           "assets/images/resized/0008/4328/84328v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$11.2M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://techcrunch.com/2012/07/25/andreessen-horowitz-keeps-eating-the-software-world-with-11-2-million-investment-in-javascript-framework-company-meteor/",
+    "source_description": "Andreessen Horowitz Keeps Eating The Software World With $11.2 Million Investment In JavaScript Framework Company Meteor",
+    "raised_amount": 11200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 7,
+    "funded_day": 25,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Andreessen Horowitz",
+         "permalink": "andreessen-horowitz",
+         "image":
+          {"available_sizes":
+            [[[150,
+               51],
+              "assets/images/resized/0006/5679/65679v3-max-150x150.png"],
+             [[250,
+               85],
+              "assets/images/resized/0006/5679/65679v3-max-250x250.png"],
+             [[316,
+               108],
+              "assets/images/resized/0006/5679/65679v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Matrix Partners",
+         "permalink": "matrix-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               71],
+              "assets/images/resized/0001/8684/18684v5-max-150x150.jpg"],
+             [[250,
+               119],
+              "assets/images/resized/0001/8684/18684v5-max-250x250.jpg"],
+             [[450,
+               215],
+              "assets/images/resized/0001/8684/18684v5-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Alexis",
+         "last_name": "Ohanian",
+         "permalink": "alexis-ohanian",
+         "image":
+          {"available_sizes":
+            [[[150,
+               100],
+              "assets/images/resized/0004/8546/48546v9-max-150x150.jpg"],
+             [[250,
+               166],
+              "assets/images/resized/0004/8546/48546v9-max-250x250.jpg"],
+             [[450,
+               300],
+              "assets/images/resized/0004/8546/48546v9-max-450x450.jpg"]],
+           "attribution": "\u003Cp\u003ETanya Kechichian\u003C/p\u003E"}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": " 140 10th Street",
+    "address2": "",
+    "zip_code": "94103",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

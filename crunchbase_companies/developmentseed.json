@@ -1,0 +1,93 @@
+{"name": "DevelopmentSeed",
+ "permalink": "developmentseed",
+ "crunchbase_url": "http://www.crunchbase.com/company/developmentseed",
+ "homepage_url": "http://developmentseed.org",
+ "blog_url": "http://developmentseed.org/blog",
+ "blog_feed_url": "http://developmentseed.org/rss.xml",
+ "twitter_username": "developmentseed",
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2003,
+ "founded_month": 4,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "node-js, mapnik, mapbox",
+ "alias_list": null,
+ "email_address": "info@developmentseed.org",
+ "phone_number": "(202) 250 3633",
+ "description": "Mapping Open Data",
+ "created_at": "Mon Feb 07 00:47:14 UTC 2011",
+ "updated_at": "Wed Feb 09 22:19:13 UTC 2011",
+ "overview": "\u003Cp\u003EDevelopment Seed builds mapping and data visualization tools to help teams communicate. Based in Washington DC, the team is leading open source research and development initiatives predominantly in the international development and federal government space. From opening up large sets of economic development indicators with the development of Data.WorldBank.org, visualizing survey data and mapping drone strikes in Pakistan on www.PakistanSurvey.org, or processing election results in Afghanistan with www.AfghanistanelEctionData.org, Development Seed focuses on designing data and mapping tool.\u003C/p\u003E\n\n\u003Cp\u003EDevelopment Seed is active in key open source communities, including Node.js and Express, Drupal, OpenLayers, and Mapnik. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "GeoIQ",
+      "permalink": "fortiusone",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0002/0577/20577v4-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0002/0577/20577v4-max-250x250.png"],
+          [[400,
+            166],
+           "assets/images/resized/0002/0577/20577v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "EC2/s3/cloudfront",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[132,
+        150],
+       "assets/images/resized/0012/0782/120782v2-max-150x150.png"],
+      [[220,
+        250],
+       "assets/images/resized/0012/0782/120782v2-max-250x250.png"],
+      [[397,
+        450],
+       "assets/images/resized/0012/0782/120782v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.nytimes.com/2009/12/07/technology/internet/07cities.html",
+    "title": "Local Governments Offer Data to Software Tinkerers"}]}

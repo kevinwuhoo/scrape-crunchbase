@@ -1,0 +1,101 @@
+{"name": "StackFu",
+ "permalink": "stackfu",
+ "crunchbase_url": "http://www.crunchbase.com/company/stackfu",
+ "homepage_url": "http://stackfu.com",
+ "blog_url": "http://blog.stackfu.com",
+ "blog_feed_url": "",
+ "twitter_username": "stackfu",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "carlos@stackfu.com",
+ "phone_number": "",
+ "description": "Social Hub for Server Stacks",
+ "created_at": "Thu Sep 02 01:00:53 UTC 2010",
+ "updated_at": "Fri Sep 03 21:37:01 UTC 2010",
+ "overview": "\u003Cp\u003EStackFu is a Social Hub for Server Stacks, or as in a users description StackFu is a GitHub for server configurations.\u003C/p\u003E\n\n\u003Cp\u003EStackFu allows you to create and install thousands of available server stacks.\u003C/p\u003E\n\n\u003Cpre\u003E\u003Ccode\u003E* Create and Share your own stacks\n* Private lockers for sensitive stacks\n* Deploy stacks easily to any server\n\u003C/code\u003E\u003C/pre\u003E\n\n\u003Cp\u003EWho is it for?\u003C/p\u003E\n\n\u003Cp\u003EStackFu was built for developers who need to deploy stacks on their servers without the hassle of manual configuration.\u003C/p\u003E\n\n\u003Cp\u003EHow can it help me?\u003C/p\u003E\n\n\u003Cp\u003EFor example, Deploying full Rails environment to your server for your new app. Or as simple as installing and configuring iptables on your existing live server.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0010/0306/100306v2-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0010/0306/100306v2-max-250x250.png"],
+     [[292,
+       66],
+      "assets/images/resized/0010/0306/100306v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Felipe",
+      "last_name": "Coury",
+      "permalink": "felipe-coury",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "van Rooijen",
+      "permalink": "michael-van-rooijen-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "van Rooijen",
+      "permalink": "michael-van-rooijen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Miami, FL",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0010/0305/100305v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0010/0305/100305v2-max-250x250.png"],
+      [[400,
+        225],
+       "assets/images/resized/0010/0305/100305v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

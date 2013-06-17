@@ -1,0 +1,160 @@
+{"name": "Blogged",
+ "permalink": "blogged",
+ "crunchbase_url": "http://www.crunchbase.com/company/blogged",
+ "homepage_url": "http://www.blogged.com",
+ "blog_url": "http://blog.blogged.com/",
+ "blog_feed_url": "http://blog.blogged.com/feed/",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "support@blogged.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sun Feb 24 22:10:23 UTC 2008",
+ "updated_at": "Fri May 17 12:54:55 UTC 2013",
+ "overview": "\u003Cp\u003EBlogged.com is a directory that offers overviews, ratings, reviews, and comments on a categorized list of popular blogs. Their blog directory is completely free to use and does not require any registration or sign up process. Blogged.com also offers a social network community that allows bloggers and readers with similar interests to connect with each other. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0001/3585/13585v1-max-150x150.png"],
+     [[176,
+       65],
+      "assets/images/resized/0001/3585/13585v1-max-250x250.png"],
+     [[176,
+       65],
+      "assets/images/resized/0001/3585/13585v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Blogged",
+    "permalink": "blogged",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Gladys",
+      "last_name": "Kong",
+      "permalink": "gladys-kong",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kenneth",
+      "last_name": "Yeh",
+      "permalink": "kenneth-yeh",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Technorati",
+      "permalink": "technorati",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0001/0740/10740v1-max-150x150.png"],
+          [[250,
+            59],
+           "assets/images/resized/0001/0740/10740v1-max-250x250.png"],
+          [[379,
+            90],
+           "assets/images/resized/0001/0740/10740v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bloglines",
+      "permalink": "bloglines",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0000/2734/2734v8-max-150x150.png"],
+          [[206,
+            60],
+           "assets/images/resized/0000/2734/2734v8-max-250x250.png"],
+          [[206,
+            60],
+           "assets/images/resized/0000/2734/2734v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pijoo",
+      "permalink": "pijoo",
+      "image":
+       {"available_sizes":
+         [[[101,
+            37],
+           "assets/images/resized/0002/0994/20994v1-max-150x150.png"],
+          [[101,
+            37],
+           "assets/images/resized/0002/0994/20994v1-max-250x250.png"],
+          [[101,
+            37],
+           "assets/images/resized/0002/0994/20994v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IdeaFry",
+      "permalink": "ideafry",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0002/2386/22386v2-max-150x150.png"],
+          [[250,
+            94],
+           "assets/images/resized/0002/2386/22386v2-max-250x250.png"],
+          [[260,
+            98],
+           "assets/images/resized/0002/2386/22386v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bloglovin",
+      "permalink": "bloglovin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/5689/25689v1-max-150x150.png"],
+          [[210,
+            58],
+           "assets/images/resized/0002/5689/25689v1-max-250x250.png"],
+          [[210,
+            58],
+           "assets/images/resized/0002/5689/25689v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Alhambra",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.091562,
+    "longitude": -118.13461}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

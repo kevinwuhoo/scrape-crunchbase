@@ -1,0 +1,121 @@
+{"name": "Voota",
+ "permalink": "voota",
+ "crunchbase_url": "http://www.crunchbase.com/company/voota",
+ "homepage_url": "http://voota.es/es",
+ "blog_url": "http://blog.voota.es/es/",
+ "blog_feed_url": "http://blog.voota.es/es/feed/",
+ "twitter_username": "Voota",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "politics, reviews, political, parties",
+ "alias_list": "",
+ "email_address": "info@voota.es",
+ "phone_number": "",
+ "description": "User opinions about politicians in Spain",
+ "created_at": "Sun Oct 04 21:14:02 UTC 2009",
+ "updated_at": "Tue Oct 06 19:01:42 UTC 2009",
+ "overview": "\u003Cp\u003EShare your opinions about political parties and politicians, in Spain.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[141,
+       55],
+      "assets/images/resized/0006/1614/61614v2-max-150x150.png"],
+     [[141,
+       55],
+      "assets/images/resized/0006/1614/61614v2-max-250x250.png"],
+     [[141,
+       55],
+      "assets/images/resized/0006/1614/61614v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and head of administration ",
+    "person":
+     {"first_name": "Mar\u00c3\u00ada",
+      "last_name": "Ayuso",
+      "permalink": "mara-ayuso",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and CTO",
+    "person":
+     {"first_name": "Sergio",
+      "last_name": "Viteri",
+      "permalink": "sergio-viteri",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and head of usability ",
+    "person":
+     {"first_name": "Juan",
+      "last_name": "Leal",
+      "permalink": "juan-leal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            101],
+           "assets/images/resized/0006/1723/61723v2-max-150x150.jpg"],
+          [[250,
+            168],
+           "assets/images/resized/0006/1723/61723v2-max-250x250.jpg"],
+          [[280,
+            189],
+           "assets/images/resized/0006/1723/61723v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJuan Leal - Seisdeagosto.com\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Fran\u00e7ois",
+      "last_name": "Derbaix",
+      "permalink": "francois-derbaix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            148],
+           "assets/images/resized/0002/9860/29860v2-max-150x150.jpg"],
+          [[225,
+            223],
+           "assets/images/resized/0002/9860/29860v2-max-250x250.jpg"],
+          [[225,
+            223],
+           "assets/images/resized/0002/9860/29860v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://trac.voota.org/",
+    "title": "Voota trac and wiki"}]}

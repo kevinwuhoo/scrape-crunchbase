@@ -1,0 +1,87 @@
+{"name": "Aetilius",
+ "permalink": "aetilius",
+ "crunchbase_url": "http://www.crunchbase.com/company/aetilius",
+ "homepage_url": "http://www.phash.org",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "computer-science, algorithms, multimedia, audio-recognition, video-recognition, image-recognition, perceptual-hash, copyright-infringement, copyright, forensics, hashing",
+ "alias_list": null,
+ "email_address": "info@aetilius.com",
+ "phone_number": "",
+ "description": "multimedia and fingerprinting technology",
+ "created_at": "Mon Mar 08 04:12:56 UTC 2010",
+ "updated_at": "Mon Nov 01 06:03:35 UTC 2010",
+ "overview": "\u003Cp\u003EAetilius, Inc. specializes in the research and implementation of advanced computer algorithms to make businesses more efficient. Products include:\u003C/p\u003E\n\n\u003Cp\u003EpHash, used in similarity search for media files and copyright infringement detection and enforcement.\u003C/p\u003E\n\n\u003Cp\u003EpHash Forensics, for iris, fingerprint and handwritten signature matching.\u003C/p\u003E\n\n\u003Cp\u003EThe Brazilian and Spanish governments are using pHash\u00e2\u20ac\u2122s image recognition technology to help prevent the spread of child pornography.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "pHash",
+    "permalink": "phash",
+    "image": null},
+   {"name": "pHash Forensics",
+    "permalink": "phash-forensics",
+    "image": null},
+   {"name": "AudioScout",
+    "permalink": "audioscout",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President/CEO",
+    "person":
+     {"first_name": "Evan",
+      "last_name": "Klinger",
+      "permalink": "evan-klinger",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Starkweather",
+      "permalink": "david-starkweather",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "AudioScout audio content indexing system released.",
+    "stoned_year": 2010,
+    "stoned_month": 10,
+    "stoned_day": 29,
+    "source_url": "http://www.phash.org/",
+    "source_text": null,
+    "source_description": "AudioScout v1.0",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Aetilius",
+      "permalink": "aetilius"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.phash.org",
+    "title": "pHash"}]}

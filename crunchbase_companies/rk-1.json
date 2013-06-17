@@ -1,0 +1,99 @@
+{"name": "RK-1",
+ "permalink": "rk-1",
+ "crunchbase_url": "http://www.crunchbase.com/company/rk-1",
+ "homepage_url": "http://mymobilerobots.com/rk1/",
+ "blog_url": "http://mymobilerobots.com/rk1/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "hardware",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Mobile Robot",
+ "created_at": "Thu Jun 06 23:49:33 UTC 2013",
+ "updated_at": "Thu Jun 06 23:52:37 UTC 2013",
+ "overview": "\u003Cp\u003ERK-1 is a wifi enabled mobile robot that you control using your iOS or Android tablet or phone that makes your Arduino projects mobile.\u003C/p\u003E\n\n\u003Cp\u003EThe control board on the robot is built on the Arduino hardware/software architecture, which is open source, and the controller software and hardware will also be available open source. The idea is to give the community the ability to make Arduino projects mobile. There is no end to what you can do- you can add sensors and actuators to this fun little device and control it remotely.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       73],
+      "assets/images/resized/0027/2497/272497v1-max-150x150.png"],
+     [[151,
+       74],
+      "assets/images/resized/0027/2497/272497v1-max-250x250.png"],
+     [[151,
+       74],
+      "assets/images/resized/0027/2497/272497v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Evangelos",
+      "last_name": "Georgiou",
+      "permalink": "evangelos-georgiou",
+      "image":
+       {"available_sizes":
+         [[[150,
+            146],
+           "assets/images/resized/0027/2496/272496v1-max-150x150.png"],
+          [[235,
+            230],
+           "assets/images/resized/0027/2496/272496v1-max-250x250.png"],
+          [[235,
+            230],
+           "assets/images/resized/0027/2496/272496v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"480\" height=\"360\" src=\"http://www.kickstarter.com/projects/mymobilerobots/rk-1-a-wifi-arduino-mobile-robot-for-ios-and-andro/widget/video.html\" frameborder=\"0\"\u003E \u003C/iframe\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        70],
+       "assets/images/resized/0027/2498/272498v1-max-150x150.png"],
+      [[250,
+        117],
+       "assets/images/resized/0027/2498/272498v1-max-250x250.png"],
+      [[450,
+        212],
+       "assets/images/resized/0027/2498/272498v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

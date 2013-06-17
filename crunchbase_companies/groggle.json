@@ -1,0 +1,93 @@
+{"name": "Groggle",
+ "permalink": "groggle",
+ "crunchbase_url": "http://www.crunchbase.com/company/groggle",
+ "homepage_url": "http://www.groggle.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Groggle",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, price-comparison, liquor, beer, wine",
+ "alias_list": null,
+ "email_address": "cameron.collie@groggle.com",
+ "phone_number": "+61-439-077395",
+ "description": "Liquor Price Comparison",
+ "created_at": "Sun Mar 07 04:50:21 UTC 2010",
+ "updated_at": "Thu Apr 29 20:47:03 UTC 2010",
+ "overview": "\u003Cp\u003EGroggle is a location driven liquor price comparison service allowing you to search for the cheapest price for beer, wine and spirits in your area.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0007/9341/79341v2-max-150x150.png"],
+     [[250,
+       59],
+      "assets/images/resized/0007/9341/79341v2-max-250x250.png"],
+     [[355,
+       85],
+      "assets/images/resized/0007/9341/79341v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Cameron",
+      "last_name": "Collie",
+      "permalink": "cameron-collie",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Alec",
+      "last_name": "Doughty",
+      "permalink": "alec-doughty",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        57],
+       "assets/images/resized/0007/9340/79340v2-max-150x150.jpg"],
+      [[250,
+        95],
+       "assets/images/resized/0007/9340/79340v2-max-250x250.jpg"],
+      [[450,
+        171],
+       "assets/images/resized/0007/9340/79340v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.itwire.com/it-industry-news/strategy/38635-google-growls-at-groggle",
+    "title": "Google growls at Groggle"},
+   {"external_url": "http://www.smh.com.au/technology/biz-tech/groggle-boggled-by-google-mean-spirit-20100428-trq5.html",
+    "title": "Groggle boggled by Google mean spirit "},
+   {"external_url": "http://www.fastcompany.com/1632080/google-threatens-booze-site-groggle-do-they-have-a-keg-to-stand-on",
+    "title": "Google Threatens Booze Site Groggle. Do they Have a Keg to Stand on?"},
+   {"external_url": "http://www.zdnet.com.au/google-slams-oz-start-up-with-legal-bid-339302741.htm",
+    "title": "Google slams Oz start-up with legal bid"}]}

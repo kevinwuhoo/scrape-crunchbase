@@ -1,0 +1,109 @@
+{"name": "Apertus Pharmaceuticals",
+ "permalink": "apertus-pharmaceuticals",
+ "crunchbase_url": "http://www.crunchbase.com/company/apertus-pharmaceuticals",
+ "homepage_url": "http://www.apertuspharma.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "biotech",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "api, active-pharmaceutical-ingredient, manufacturing",
+ "alias_list": null,
+ "email_address": "info@apertuspharma.com",
+ "phone_number": "866.576.2746",
+ "description": "API Manufacturing Company",
+ "created_at": "Wed Jun 05 16:54:36 UTC 2013",
+ "updated_at": "Wed Jun 05 18:49:40 UTC 2013",
+ "overview": "\u003Cp\u003EApertus Pharmaceuticals is an Active Pharmaceutical Ingredient, or API, manufacturing company targeting dosage form manufacturing companies within the pharmaceutical industry. Apertus Pharmaceuticals provides controlled substance APIs, non controlled substance APIs, and intellectual property to the pharmaceutical market. In addition, Apertus Pharmaceuticals utilizes the philosophies of Green Chemistry as outlined by the FDA and will target higher purity standards than those set by the current standard setting authorities. Apertus is led by CEO Rick Ryan, Ph.D. and CSO David Gindelberger, Ph.D.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0027/1612/271612v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0027/1612/271612v2-max-250x250.png"],
+     [[300,
+       100],
+      "assets/images/resized/0027/1612/271612v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Rick",
+      "last_name": "Ryan",
+      "permalink": "rick-ryan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Scientific Officer",
+    "person":
+     {"first_name": "David",
+      "last_name": "Gindelberger",
+      "permalink": "david-gindelberger",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "http://cdn.harmonyapp.com/assets/515c3a8b7a50720eb90001d4/2013_03_19_i6_one_pager_company_list_v2.pdf",
+    "source_description": "BioGenerator",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "BioGenerator",
+         "permalink": "biogenerator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               101],
+              "assets/images/resized/0012/0644/120644v3-max-150x150.jpg"],
+             [[215,
+               146],
+              "assets/images/resized/0012/0644/120644v3-max-250x250.jpg"],
+             [[215,
+               146],
+              "assets/images/resized/0012/0644/120644v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "331 Consort Drive",
+    "address2": "",
+    "zip_code": "63011",
+    "city": "St. Louis",
+    "state_code": "MO",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

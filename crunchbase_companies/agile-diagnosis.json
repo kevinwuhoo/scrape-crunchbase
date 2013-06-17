@@ -1,0 +1,121 @@
+{"name": "Agile Diagnosis",
+ "permalink": "agile-diagnosis",
+ "crunchbase_url": "http://www.crunchbase.com/company/agile-diagnosis",
+ "homepage_url": "http://www.agilediagnosis.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "agilediagnosis",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@agilediagnosis.com",
+ "phone_number": "",
+ "description": "Interactive clinical guidelines",
+ "created_at": "Tue Apr 03 01:16:00 UTC 2012",
+ "updated_at": "Tue Feb 19 04:18:24 UTC 2013",
+ "overview": "\u003Cp\u003EAgile Diagnosis is building the central place for clinical guidelines, providing clinicians with access to expertise and information in a format they can apply in their practice.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       100],
+      "assets/images/resized/0019/5210/195210v2-max-150x150.png"],
+     [[250,
+       166],
+      "assets/images/resized/0019/5210/195210v2-max-250x250.png"],
+     [[450,
+       300],
+      "assets/images/resized/0019/5210/195210v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Kurt",
+      "last_name": "Ericson",
+      "permalink": "kurt-ericson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0018/8487/188487v3-max-150x150.png"],
+          [[219,
+            219],
+           "assets/images/resized/0018/8487/188487v3-max-250x250.png"],
+          [[219,
+            219],
+           "assets/images/resized/0018/8487/188487v3-max-450x450.png"]],
+        "attribution": "\u003Cp\u003EKurt Ericson\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Co-founder \u0026 CEO",
+    "person":
+     {"first_name": "Borna",
+      "last_name": "Safabakhsh",
+      "permalink": "borna-safabakhsh",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.xconomy.com/san-francisco/2012/06/14/13-reasons-to-be-optimistic-about-healthcare-courtesy-of-rock-health/",
+    "source_description": "Xconomy",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2012,
+    "funded_month": 6,
+    "funded_day": 14,
+    "investments":
+     [{"company":
+        {"name": "Rock Health",
+         "permalink": "rock-health",
+         "image":
+          {"available_sizes":
+            [[[150,
+               66],
+              "assets/images/resized/0013/8424/138424v2-max-150x150.png"],
+             [[250,
+               110],
+              "assets/images/resized/0013/8424/138424v2-max-250x250.png"],
+             [[250,
+               110],
+              "assets/images/resized/0013/8424/138424v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/04/03/agile-diagnosis-beta-launch/",
+    "title": "Beta Launch on TechCrunch"}]}

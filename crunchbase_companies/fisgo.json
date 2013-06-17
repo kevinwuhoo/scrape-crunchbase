@@ -1,0 +1,187 @@
+{"name": "Fisgo",
+ "permalink": "fisgo",
+ "crunchbase_url": "http://www.crunchbase.com/company/fisgo",
+ "homepage_url": "http://www.fisgo.com.br",
+ "blog_url": "http://blog.fisgo.com.br",
+ "blog_feed_url": "http://blog.fisgo.com.br/?feed=rss2",
+ "twitter_username": "fisgo",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "fisgo, classifieds, search, vertical-search, search-engine, real-estate, cars, jobs, motorcycles",
+ "alias_list": null,
+ "email_address": "contato@fisgo.com.br",
+ "phone_number": "+55 (21) 3010-4075",
+ "description": "vertical search engine",
+ "created_at": "Tue Nov 23 20:39:19 UTC 2010",
+ "updated_at": "Wed Jun 12 23:18:11 UTC 2013",
+ "overview": "\u003Cp\u003EFisgo is a search engine that aggregates content from many sites related to cars, real estate, jobs and others themes. Your goal is capture the information, classify them and show them clearly and quickly to you.\u003C/p\u003E\n\n\u003Cp\u003EWe believe that user\u0026#8217;s demand for a new car can\u0026#8217;t be a boring experience; you don\u0026#8217;t need to contact 5473 realtors to find a house or apartment of your dreams; and you can\u0026#8217;t take too many time to find your next job (after all, the Invoices never disappear!). \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       60],
+      "assets/images/resized/0011/1468/111468v2-max-150x150.jpg"],
+     [[100,
+       60],
+      "assets/images/resized/0011/1468/111468v2-max-250x250.jpg"],
+     [[100,
+       60],
+      "assets/images/resized/0011/1468/111468v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Frederico",
+      "last_name": "Alves",
+      "permalink": "frederico-alves",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/3858/123858v4-max-150x150.jpg"],
+          [[170,
+            170],
+           "assets/images/resized/0012/3858/123858v4-max-250x250.jpg"],
+          [[170,
+            170],
+           "assets/images/resized/0012/3858/123858v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Trovit",
+      "permalink": "trovit",
+      "image":
+       {"available_sizes":
+         [[[114,
+            48],
+           "assets/images/resized/0001/7098/17098v1-max-150x150.png"],
+          [[114,
+            48],
+           "assets/images/resized/0001/7098/17098v1-max-250x250.png"],
+          [[114,
+            48],
+           "assets/images/resized/0001/7098/17098v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Donkiz",
+      "permalink": "donkiz",
+      "image": null}},
+   {"competitor":
+     {"name": "mitula",
+      "permalink": "mitula",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0016/5587/165587v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0016/5587/165587v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0016/5587/165587v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sumavisos",
+      "permalink": "sumavisos",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/4701/34701v6-max-150x150.jpg"],
+          [[250,
+            84],
+           "assets/images/resized/0003/4701/34701v6-max-250x250.jpg"],
+          [[450,
+            151],
+           "assets/images/resized/0003/4701/34701v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ibiubi",
+      "permalink": "ibiubi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0012/1939/121939v1-max-150x150.png"],
+          [[155,
+            81],
+           "assets/images/resized/0012/1939/121939v1-max-250x250.png"],
+          [[155,
+            81],
+           "assets/images/resized/0012/1939/121939v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://goo.gl/qkkT9",
+    "source_description": "Fisgo recebe aporte de R$ 2,5 mi de fundo da Confrapar",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 2,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Confrapar",
+         "permalink": "confrapar",
+         "image":
+          {"available_sizes":
+            [[[150,
+               28],
+              "assets/images/resized/0006/0364/60364v4-max-150x150.png"],
+             [[250,
+               47],
+              "assets/images/resized/0006/0364/60364v4-max-250x250.png"],
+             [[368,
+               70],
+              "assets/images/resized/0006/0364/60364v4-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Fisgo Office",
+    "address1": "Av. Pres. Vargas, 309",
+    "address2": "Centro",
+    "zip_code": "20040-010",
+    "city": "Rio de Janeiro",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[141,
+        150],
+       "assets/images/resized/0018/1299/181299v2-max-150x150.png"],
+      [[235,
+        250],
+       "assets/images/resized/0018/1299/181299v2-max-250x250.png"],
+      [[423,
+        450],
+       "assets/images/resized/0018/1299/181299v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://oglobo.globo.com/tecnologia/de-taxis-craques-da-bola-start-ups-se-multiplicam-no-rio-4405727",
+    "title": "De t\u00e1xis a craques da bola, start-ups se multiplicam no Rio"}]}

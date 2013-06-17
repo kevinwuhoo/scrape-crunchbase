@@ -1,0 +1,109 @@
+{"name": "LogicNets",
+ "permalink": "logicnets",
+ "crunchbase_url": "http://www.crunchbase.com/company/logicnets",
+ "homepage_url": "http://www.logicnets.com",
+ "blog_url": "http://logicnets.wordpress.com/",
+ "blog_feed_url": "http://logicnets.wordpress.com/feed/",
+ "twitter_username": "LogicNets",
+ "category_code": "software",
+ "number_of_employees": 16,
+ "founded_year": 2004,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "expert-system, business-process-automation, self-service-portal, fault-tree-analysis, product-configuration, quote-configuration, call-center-scripting, contract-configuration, documentation-configuration, troubleshooting, health-and-safety-management, co",
+ "alias_list": null,
+ "email_address": "info@logicnets.com",
+ "phone_number": "202.715.3725",
+ "description": "Decision Engines",
+ "created_at": "Mon Jul 19 15:35:00 UTC 2010",
+ "updated_at": "Wed Feb 06 01:41:10 UTC 2013",
+ "overview": "\u003Cp\u003ELogicNets is a privately held developer of expert system software and solutions. Founded in 2004 in Washington DC, the company is focused on developing and deploying its LogicNets expert system platform, a web-based decision support service available to users either on a subscription basis or hosted on their own infrastructure. LogicNets was the first online expert system that businesses could customize themselves to fit their unique processes. The company originally used the platform to create and deliver very large and sophisticated custom solutions, automating a wide range of business processes. In recent years, the company has taken its substantial portfolio of decision support applications and packaged them to provide industry-specific solutions in four focused areas:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ETechnical Support and Field Service\u003C/li\u003E\n\u003Cli\u003EEnvironmental Health and Safety (EHS) and Risk Management\u003C/li\u003E\n\u003Cli\u003EHealthcare Decision Support\u003C/li\u003E\n\u003Cli\u003ESales Productivity\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EThe LogicNets system is extremely versatile. For some organizations it provides a quick and easy way to create purpose-built expert utilities and productivity tools. Other organizations deploy it as a strategic platform to automate large areas of workflow that are otherwise overly complicated and inefficient. These areas include advanced technical troubleshooting, predicitive diagnostics, knowledge management, customer self-service, remote device monitoring, a wide range of compliance activities, and more. LogicNets\u0026#8217; customer base includes such high-profile organizations as Ford Motor Company, Ingersoll Rand, CBS, Fox Networks, Illumina, and NASA.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0009/4137/94137v4-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0009/4137/94137v4-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0009/4137/94137v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "LogicNets - Decision Engines",
+    "permalink": "logicnets-online-expert-system-builder",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President, Founder \u0026 CEO",
+    "person":
+     {"first_name": "Jelle",
+      "last_name": "Ferwerda",
+      "permalink": "jelle-ferwerda",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Stottler Henke",
+      "permalink": "stottler-henke",
+      "image": null}}],
+ "providerships":
+  [{"title": "General legal counsel",
+    "is_past": false,
+    "provider":
+     {"name": "Baker \u0026 McKenzie",
+      "permalink": "baker-mckenzie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0018/6077/186077v3-max-150x150.jpg"],
+          [[250,
+            67],
+           "assets/images/resized/0018/6077/186077v3-max-250x250.jpg"],
+          [[450,
+            122],
+           "assets/images/resized/0018/6077/186077v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "5335 Wisconsin Avenue NW",
+    "address2": "Suite 440",
+    "zip_code": "20015-2079",
+    "city": "Washington",
+    "state_code": "DC",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0018/3969/183969v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0018/3969/183969v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0018/3969/183969v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.nasa.gov/offices/ipp/products/product_innovation_14_1_text_prt.htm#logic",
+    "title": "NASA and LogicNets Collaborate in the Building of a Test-bed Environment for an Intelligent Robotic System"}]}

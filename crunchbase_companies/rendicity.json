@@ -1,0 +1,88 @@
+{"name": "Rendicity",
+ "permalink": "rendicity",
+ "crunchbase_url": "http://www.crunchbase.com/company/rendicity",
+ "homepage_url": "http://www.rendicity.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "3d-animation, rendering, cloud-computing, hpc, cloud-integration, bioinformatics, blast, gpu-accelerated, compute-cluster",
+ "alias_list": null,
+ "email_address": "info@rendicity.com",
+ "phone_number": "",
+ "description": "HPC for non-IT",
+ "created_at": "Wed Nov 28 21:46:35 UTC 2012",
+ "updated_at": "Mon Dec 03 07:05:39 UTC 2012",
+ "overview": "\u003Cp\u003ERendicity provide a software service to wrap and offer any job-based HPC application as a scalable, prepaid cloud service. In the animation industry we solve the capacity problems associated with rendering animated frames. Studios can easily create coherent render farms with various providers. Rendicity handles all of the data management, security, fault tolerance, and budget enforcement.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[144,
+       144],
+      "assets/images/resized/0022/2879/222879v2-max-150x150.png"],
+     [[144,
+       144],
+      "assets/images/resized/0022/2879/222879v2-max-250x250.png"],
+     [[144,
+       144],
+      "assets/images/resized/0022/2879/222879v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Kennedy",
+      "permalink": "james-kennedy",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Ronan Daly Jermyn",
+      "permalink": "ronan-daly-jermyn",
+      "image": null}},
+   {"title": "Patent Attorney",
+    "is_past": false,
+    "provider":
+     {"name": "O'Connor IP",
+      "permalink": "oconnor-ip",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Rubicon Centre",
+    "address2": "Bishopstown",
+    "zip_code": "",
+    "city": "Cork",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

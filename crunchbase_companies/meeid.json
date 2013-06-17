@@ -1,0 +1,81 @@
+{"name": "MeeID",
+ "permalink": "meeid",
+ "crunchbase_url": "http://www.crunchbase.com/company/meeid",
+ "homepage_url": "http://www.meeid.com",
+ "blog_url": "http://www.twitter.com/meeid",
+ "blog_feed_url": "http://twitter.com/statuses/user_timeline/18070917.rss",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-2-0, organize, digital, facebook, myspace, twitter, profile, social, networking, link",
+ "alias_list": null,
+ "email_address": "meeid.support@gmail.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Dec 16 17:35:52 UTC 2008",
+ "updated_at": "Sun Dec 21 18:40:29 UTC 2008",
+ "overview": "\u003Cp\u003EMeeID is a very simple web application to help organize your digital life. It gives you a title, a photo, and 10 lines to link to your other online profiles. The goal of MeeID is to become your personal \u0026#8220;about\u0026#8221; page that you link everyone to.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0003/1852/31852v2-max-150x150.jpg"],
+     [[179,
+       72],
+      "assets/images/resized/0003/1852/31852v2-max-250x250.jpg"],
+     [[179,
+       72],
+      "assets/images/resized/0003/1852/31852v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bronson",
+      "last_name": "Taylor",
+      "permalink": "bronson-taylor-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Development",
+    "person":
+     {"first_name": "Lucas",
+      "last_name": "Taylor",
+      "permalink": "lucas-taylor",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/meeid_a_simple_app_for_your_on.php",
+    "title": "Read Write Web"},
+   {"external_url": "http://mashable.com/2008/09/14/meeid/",
+    "title": "Mashable"},
+   {"external_url": "http://www.emilychang.com/go/ehub/app/meeid/",
+    "title": "Emily Chang"}]}

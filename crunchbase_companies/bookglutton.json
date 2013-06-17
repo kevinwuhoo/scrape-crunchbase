@@ -1,0 +1,156 @@
+{"name": "BookGlutton",
+ "permalink": "bookglutton",
+ "crunchbase_url": "http://www.crunchbase.com/company/bookglutton",
+ "homepage_url": "http://www.bookglutton.com",
+ "blog_url": "http://frontmatters.com",
+ "blog_feed_url": "http://blog.bookglutton.com/?feed=rss2",
+ "twitter_username": "bookglutton",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-networking, books, read-online, shared-annotation, e-books, social-reading, online-book-clubs",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "562-394-2873",
+ "description": "Social Reading Platform",
+ "created_at": "Mon Apr 14 05:52:20 UTC 2008",
+ "updated_at": "Thu Jan 27 03:16:42 UTC 2011",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.bookglutton.com\" title=\"BookGlutton.com\" rel=\"nofollow\"\u003EBookGlutton.com\u003C/a\u003E is a social reading platform that allows people to read and discuss books in the cloud. Discussion takes place inside the books in two ways: people can chat with others inside any chapter of the book (patent-pending), or can click on any paragraph and attach a note (to which others can respond). \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       67],
+      "assets/images/resized/0001/7255/17255v3-max-150x150.jpg"],
+     [[250,
+       113],
+      "assets/images/resized/0001/7255/17255v3-max-250x250.jpg"],
+     [[450,
+       203],
+      "assets/images/resized/0001/7255/17255v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Unbound Reader",
+    "permalink": "unbound-reader",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Travis",
+      "last_name": "Alber",
+      "permalink": "travis-alber",
+      "image":
+       {"available_sizes":
+         [[[143,
+            137],
+           "assets/images/resized/0009/0439/90439v2-max-150x150.jpg"],
+          [[143,
+            137],
+           "assets/images/resized/0009/0439/90439v2-max-250x250.jpg"],
+          [[143,
+            137],
+           "assets/images/resized/0009/0439/90439v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Miller",
+      "permalink": "aaron-miller",
+      "image":
+       {"available_sizes":
+         [[[121,
+            150],
+           "assets/images/resized/0010/6884/106884v2-max-150x150.jpg"],
+          [[202,
+            250],
+           "assets/images/resized/0010/6884/106884v2-max-250x250.jpg"],
+          [[364,
+            450],
+           "assets/images/resized/0010/6884/106884v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LibraryThing",
+      "permalink": "librarything",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0002/3201/23201v2-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0002/3201/23201v2-max-250x250.png"],
+          [[250,
+            79],
+           "assets/images/resized/0002/3201/23201v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Goodreads",
+      "permalink": "goodreads",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/2677/2677v1-max-150x150.jpg"],
+          [[189,
+            54],
+           "assets/images/resized/0000/2677/2677v1-max-250x250.jpg"],
+          [[189,
+            54],
+           "assets/images/resized/0000/2677/2677v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Docstoc",
+      "permalink": "docstoc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/4438/4438v2-max-150x150.jpg"],
+          [[200,
+            53],
+           "assets/images/resized/0000/4438/4438v2-max-250x250.jpg"],
+          [[200,
+            53],
+           "assets/images/resized/0000/4438/4438v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Socialogue",
+      "permalink": "socialogue",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Dogpatch Labs",
+    "address2": "36 E 12th St, FL 2",
+    "zip_code": "10003",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.12791,
+    "longitude": -88.170562}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

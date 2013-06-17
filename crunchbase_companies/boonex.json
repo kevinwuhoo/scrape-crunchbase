@@ -1,0 +1,132 @@
+{"name": "Boonex",
+ "permalink": "boonex",
+ "crunchbase_url": "http://www.crunchbase.com/company/boonex",
+ "homepage_url": "http://www.boonex.com",
+ "blog_url": "http://boonex.com/notes",
+ "blog_feed_url": "http://www.boonex.org/feed/",
+ "twitter_username": "boonex",
+ "category_code": "software",
+ "number_of_employees": 16,
+ "founded_year": 2000,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "community, software, video, chat, unity, im, standalone, hosted, mp3, player, ray, orca, dolphin, shark, barracuda, boonex, dating, free, messanger",
+ "alias_list": "",
+ "email_address": "business@boonex.com",
+ "phone_number": "",
+ "description": "General Info",
+ "created_at": "Wed Aug 08 11:15:37 UTC 2007",
+ "updated_at": "Fri Mar 22 17:58:07 UTC 2013",
+ "overview": "\u003Cp\u003EBoonex provides free, open-source, downloadable community-building software for websites. BoonEx mission is to Unite People. BoonEx products are used by over 50,000 community websites worldwide. \u003C/p\u003E\n\n\u003Cp\u003EBoonEx Unity is a community of BoonEx customers and 3rd party professionals working on their community sites. Unity provides free platform for business discussion, advertisement, extensions trading, jobs and ideas sharing.\u003C/p\u003E\n\n\u003Cp\u003EBoonEx is based in Sydney, Australia.\u003C/p\u003E\n\n\u003Cp\u003EThe flagship product - Dolphin Smart Community Builder is a feature-packed CMS for dating sites, social networks and niche communities. Dolphin includes flash video player, music player, video chat, groups, events, photo-sharing, statuses, geo-location, matchmaking, advanced search, mailbox, mini-chat and many other features.\u003C/p\u003E\n\n\u003Cp\u003EDolphin is paired with an iPhone application and with an AdobeAIR application for desktops. Dolphin is a free, open-source, downloadable script based on PHP, MySQL, AJAX and XHTML. Dolphin can run both on Linux and Windows servers and supports server clusters.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0000/4123/4123v5-max-150x150.png"],
+     [[155,
+       32],
+      "assets/images/resized/0000/4123/4123v5-max-250x250.png"],
+     [[155,
+       32],
+      "assets/images/resized/0000/4123/4123v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "BoonEx Dolphin Smart Community Builder",
+    "permalink": "boonex-dolphin-smart-community-builder",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "General Director and Co-Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Boon",
+      "permalink": "andrew-boon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0003/9903/39903v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0003/9903/39903v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0003/9903/39903v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Webligo Developments",
+      "permalink": "webligo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/4264/4264v1-max-150x150.png"],
+          [[201,
+            49],
+           "assets/images/resized/0000/4264/4264v1-max-250x250.png"],
+          [[201,
+            49],
+           "assets/images/resized/0000/4264/4264v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SocialEngine",
+      "permalink": "socialengine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0014/5553/145553v2-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0014/5553/145553v2-max-250x250.png"],
+          [[450,
+            83],
+           "assets/images/resized/0014/5553/145553v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "10 Cedar Grove",
+    "address2": "Castle Hill",
+    "zip_code": "2154",
+    "city": "Sydney",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -33.722577,
+    "longitude": 150.981801}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        142],
+       "assets/images/resized/0004/4401/44401v2-max-150x150.jpg"],
+      [[250,
+        237],
+       "assets/images/resized/0004/4401/44401v2-max-250x250.jpg"],
+      [[450,
+        427],
+       "assets/images/resized/0004/4401/44401v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.onlinepersonalswatch.com/news/2009/05/andrew-boon-director-and-cofounder-of-boonex.html",
+    "title": "Director and co-Founder Interview  05/09"},
+   {"external_url": "http://trokus.fr/site",
+    "title": "Trokus community networking"}]}

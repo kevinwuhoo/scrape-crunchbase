@@ -1,0 +1,97 @@
+{"name": "Usernamecheck",
+ "permalink": "usernamecheck",
+ "crunchbase_url": "http://www.crunchbase.com/company/usernamecheck",
+ "homepage_url": "http://www.usernamecheck.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "site-name, login-name, meme",
+ "alias_list": null,
+ "email_address": "jon@sykes.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Oct 09 04:59:21 UTC 2008",
+ "updated_at": "Mon Mar 30 17:46:08 UTC 2009",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.usernamecheck.com/\" title=\"Usernamecheck\" rel=\"nofollow\"\u003EUsernamecheck\u003C/a\u003E is a quick and dirty solution to the question: do I have my username registered across every site that I should? The site has a stack of web app urls, and the application pings the site using the username you want to check, if it returns a \u0026#8220;no user name\u0026#8221; error it returns that. The site uses Dojo as it does all the checks using Ajax (each check takes a couple of seconds so using Ajax you don\u0026#8217;t have to sit and wait 3 minutes for the page to load)\u003C/p\u003E\n\n\u003Cp\u003EIn Feb 2009, upon hitting the 500,000 unique usernames checked, and after having over a million unique visitors, Jon Sykes took usernamecheck down, opened up the code in a post entitled \u0026#8220;Behind the Curtain\u0026#8221;.  Later he sold the domain for an undisclosed sum.\u003C/p\u003E\n\n\u003Cp\u003Evia: \u003Ca href=\"http://www.usernamecheck.com/\" title=\"Usernamecheck\" rel=\"nofollow\"\u003EUsernamecheck\u003C/a\u003E\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       15],
+      "assets/images/resized/0003/9773/39773v1-max-150x150.png"],
+     [[250,
+       25],
+      "assets/images/resized/0003/9773/39773v1-max-250x250.png"],
+     [[450,
+       45],
+      "assets/images/resized/0003/9773/39773v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Sykes",
+      "permalink": "jon-sykes",
+      "image":
+       {"available_sizes":
+         [[[146,
+            150],
+           "assets/images/resized/0015/5196/155196v2-max-150x150.png"],
+          [[243,
+            250],
+           "assets/images/resized/0015/5196/155196v2-max-250x250.png"],
+          [[300,
+            308],
+           "assets/images/resized/0015/5196/155196v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Barraud",
+      "permalink": "jim-barradu",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        96],
+       "assets/images/resized/0003/9774/39774v1-max-150x150.png"],
+      [[250,
+        160],
+       "assets/images/resized/0003/9774/39774v1-max-250x250.png"],
+      [[450,
+        288],
+       "assets/images/resized/0003/9774/39774v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

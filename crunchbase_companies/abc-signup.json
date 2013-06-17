@@ -1,0 +1,137 @@
+{"name": "ABC Signup",
+ "permalink": "abc-signup",
+ "crunchbase_url": "http://www.crunchbase.com/company/abc-signup",
+ "homepage_url": "http://www.abcsignup.com",
+ "blog_url": "http://www.abcsignup.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "abcsignup",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2002,
+ "founded_month": 9,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-registration, software, events, conferences, training",
+ "alias_list": "",
+ "email_address": "support@abcsignup.com",
+ "phone_number": "5024542850",
+ "description": "online registration software",
+ "created_at": "Fri Sep 09 15:56:04 UTC 2011",
+ "updated_at": "Tue Apr 09 03:48:23 UTC 2013",
+ "overview": "\u003Cp\u003EABC Signup is an online registration provider based in Louisville, KY. Our web-based software solution automates registration management for classes, meetings, training courses, conferences and other types of events. Clients include various universities and school districts, churches, cooking schools, hospitals and business such as ADP, Chicago Tribune, General Mills, Konica-Minolta, LG Electronics, National Geographic and Principal Financial.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       65],
+      "assets/images/resized/0024/9673/249673v1-max-150x150.jpg"],
+     [[128,
+       65],
+      "assets/images/resized/0024/9673/249673v1-max-250x250.jpg"],
+     [[128,
+       65],
+      "assets/images/resized/0024/9673/249673v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Todd",
+      "last_name": "Chandler",
+      "permalink": "todd-chandler",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Cvent",
+      "permalink": "cvent",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0002/1198/21198v6-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0002/1198/21198v6-max-250x250.png"],
+          [[450,
+            96],
+           "assets/images/resized/0002/1198/21198v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RegOnline",
+      "permalink": "regonline",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0000/4387/4387v11-max-150x150.png"],
+          [[250,
+            31],
+           "assets/images/resized/0000/4387/4387v11-max-250x250.png"],
+          [[400,
+            50],
+           "assets/images/resized/0000/4387/4387v11-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Certain",
+      "permalink": "certain-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/6162/46162v4-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0004/6162/46162v4-max-250x250.png"],
+          [[450,
+            129],
+           "assets/images/resized/0004/6162/46162v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "123Signup",
+      "permalink": "123signups",
+      "image":
+       {"available_sizes":
+         [[[150,
+            16],
+           "assets/images/resized/0001/9693/19693v1-max-150x150.png"],
+          [[250,
+            27],
+           "assets/images/resized/0001/9693/19693v1-max-250x250.png"],
+          [[302,
+            33],
+           "assets/images/resized/0001/9693/19693v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "6060 Dutchmans Lane, Suite 250",
+    "address2": "",
+    "zip_code": "40205",
+    "city": "Louisville",
+    "state_code": "KY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.bizjournals.com/louisville/print-edition/2011/03/04/abc-signup-product-helps-schools.html",
+    "title": "ABC Signup profile in Business First"}]}

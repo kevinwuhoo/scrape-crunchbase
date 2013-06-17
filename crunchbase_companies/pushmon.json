@@ -1,0 +1,73 @@
+{"name": "PushMon",
+ "permalink": "pushmon",
+ "crunchbase_url": "http://www.crunchbase.com/company/pushmon",
+ "homepage_url": "http://www.pushmon.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "PushMonApp",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "batch-monitoring, job-monitoring, script-monitoring, cron-monitoring",
+ "alias_list": null,
+ "email_address": "support@pushmon.com",
+ "phone_number": "",
+ "description": "Script Monitoring",
+ "created_at": "Thu May 31 17:25:08 UTC 2012",
+ "updated_at": "Sat Jun 09 15:00:59 UTC 2012",
+ "overview": "\u003Cp\u003ECloud-based monitoring service for scripts, jobs, apps and batches.\u003C/p\u003E\n\n\u003Cp\u003EPushMon is a new kind of cloud-based monitoring system. Instead of checking public facing servers on a regular basis, PushMon will wait for pings from the objects being monitored. These objects are usually batch jobs, scheduled/cron scripts, backups, or test scripts, but really are anything that has access to the internet and can call a URL on a regular basis. If PushMon does not receive the URL \u0026#8220;ping\u0026#8221; by the specified schedule (like every hour, or every day or even by 5:00 PM every Fri), it will send an alert (email, IM, SMS, Twitter and/or phone call). It can monitor your database backups, your cron scripts, your background tests, your internet connectivity, your batch jobs, and a lot more. It also has an advanced but easy to use scheduling feature to alert you of problems as soon as possible.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0019/3321/193321v2-max-150x150.jpg"],
+     [[250,
+       52],
+      "assets/images/resized/0019/3321/193321v2-max-250x250.jpg"],
+     [[450,
+       94],
+      "assets/images/resized/0019/3321/193321v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0019/3320/193320v2-max-150x150.jpg"],
+      [[250,
+        186],
+       "assets/images/resized/0019/3320/193320v2-max-250x250.jpg"],
+      [[450,
+        336],
+       "assets/images/resized/0019/3320/193320v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,111 @@
+{"name": "Open Lab",
+ "permalink": "open-lab",
+ "crunchbase_url": "http://www.crunchbase.com/company/open-lab",
+ "homepage_url": "http://www.open-lab.com",
+ "blog_url": "http://jblooming.blogspot.com/",
+ "blog_feed_url": "http://jblooming.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 2001,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-development, java, teamwork",
+ "alias_list": null,
+ "email_address": "info@open-lab.com",
+ "phone_number": "+39 055 5522779",
+ "description": null,
+ "created_at": "Fri Sep 19 12:33:49 UTC 2008",
+ "updated_at": "Mon Jan 04 22:32:29 UTC 2010",
+ "overview": "\u003Cp\u003EOpen Lab develops quality web applications.\u003C/p\u003E\n\n\u003Cp\u003EOpen Lab is a dynamic company established in Florence, Italy in 2001. Open Lab is focused on two aims, developing web applications and supplying quality design solutions; these two aims often overlap. Web applications and web sites are produced on a shared platform in Java, AJAX, DHTML and Actionscript; design is structured in web design, paper design, interfaces, company identities, packaging, animations and all kinds of creative production.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       150],
+      "assets/images/resized/0002/5307/25307v2-max-150x150.jpg"],
+     [[200,
+       250],
+      "assets/images/resized/0002/5307/25307v2-max-250x250.jpg"],
+     [[283,
+       352],
+      "assets/images/resized/0002/5307/25307v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Teamwork",
+    "permalink": "teamwork",
+    "image":
+     {"available_sizes":
+       [[[150,
+          150],
+         "assets/images/resized/0003/8473/38473v2-max-150x150.png"],
+        [[250,
+          250],
+         "assets/images/resized/0003/8473/38473v2-max-250x250.png"],
+        [[450,
+          450],
+         "assets/images/resized/0003/8473/38473v2-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "Patapage",
+    "permalink": "patapage",
+    "image":
+     {"available_sizes":
+       [[[140,
+          150],
+         "assets/images/resized/0007/2692/72692v2-max-150x150.jpg"],
+        [[207,
+          221],
+         "assets/images/resized/0007/2692/72692v2-max-250x250.jpg"],
+        [[207,
+          221],
+         "assets/images/resized/0007/2692/72692v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Techincal director",
+    "person":
+     {"first_name": "Pietro",
+      "last_name": "Polsinelli",
+      "permalink": "pietro-polsinelli",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head architect",
+    "person":
+     {"first_name": "Roberto",
+      "last_name": "Bicchierai",
+      "permalink": "roberto-bicchierai",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Florence office",
+    "address1": "VIa Brunetti 26a",
+    "address2": "",
+    "zip_code": "50121",
+    "city": "Florence",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": 43.792231,
+    "longitude": 11.271788}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

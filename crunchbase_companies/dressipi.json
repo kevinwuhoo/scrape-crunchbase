@@ -1,0 +1,102 @@
+{"name": "Dressipi",
+ "permalink": "dressipi",
+ "crunchbase_url": "http://www.crunchbase.com/company/dressipi",
+ "homepage_url": "http://www.dressipi.com",
+ "blog_url": "http://blog.dressipi.com/",
+ "blog_feed_url": "",
+ "twitter_username": "dressipi",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ecommerce, fashion, recommendations, size-prediction, fit-prediction, sizepersonalised-recommendations, shopping-advice, style-advice, personal-shopper",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Personalised search \u0026 recommendation",
+ "created_at": "Tue Jun 07 13:17:56 UTC 2011",
+ "updated_at": "Mon Aug 29 03:14:27 UTC 2011",
+ "overview": "\u003Cp\u003EDressipi is a consumer web application that is building a Recommendation Engine that maps products to individuals, taking into consideration the situational and emotional context of the purchaser/use of the purchase as well as more personal parameters. The context could be an event, a feeling, a mood etc. Personal parameters could be size, body shape, hair and skin colour, body parts to reveal/conceal etc.\u003C/p\u003E\n\n\u003Cp\u003EDressipi creates a unique profile (Fashion Fingerprint) for each member by asking a series of questions and observing behaviour and subsequently makes garment and outfit recommendations personalised to that member. In between a members profile and garment sits an expert system that has a data structure against which the garments are categorised, and a proprietary rules engine that does the matchmaking.\u003C/p\u003E\n\n\u003Cp\u003EMembers can complete a range of conventional activities, from Liking/Disliking, Creating Lists, and Tagging etc. Or Dressipi observes and collects behaviour. The system then uses both inputs to offer the member a suggested recommendation which they are highly probable to like.\u003C/p\u003E\n\n\u003Cp\u003EDressipi also has a Size Finder application, which accurately predicts members clothes sizes in over 500 brands and specific to each garment type (i.e. dress, top, bottoms, jeans etc.). This significantly decreases the number of items consumers need to try on or order to find the perfect fit.\u003C/p\u003E\n\n\u003Cp\u003EThe aim is to offer consumers a personalised and context relevant filter of products and store front - making shopping simpler and more efficient.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0013/8037/138037v2-max-150x150.jpg"],
+     [[250,
+       86],
+      "assets/images/resized/0013/8037/138037v2-max-250x250.jpg"],
+     [[450,
+       155],
+      "assets/images/resized/0013/8037/138037v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Donna",
+      "last_name": "North",
+      "permalink": "donna-north",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 Co-CEO",
+    "person":
+     {"first_name": "Sarah",
+      "last_name": "McVittie",
+      "permalink": "sarah-mcvittie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0016/3049/163049v1-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0016/3049/163049v1-max-250x250.jpg"],
+          [[450,
+            298],
+           "assets/images/resized/0016/3049/163049v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Frederick",
+      "last_name": "Cheung",
+      "permalink": "frederick-cheung",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London",
+    "address1": "2nd Floor",
+    "address2": "23 Pembridge Square",
+    "zip_code": "W2 4DR",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

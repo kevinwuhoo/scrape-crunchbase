@@ -1,0 +1,102 @@
+{"name": "Easy Taxi",
+ "permalink": "easy-taxi",
+ "crunchbase_url": "http://www.crunchbase.com/company/easy-taxi",
+ "homepage_url": "http://www.easytaxi.com.br",
+ "blog_url": "http://www.easytaxi.com.br/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "easytaxi",
+ "category_code": "mobile",
+ "number_of_employees": 150,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "taxi-app, easy-taxi, latin-america, asia, emerging-market, tallis-gomes, ceo, young-ceo, mobile, saas",
+ "alias_list": null,
+ "email_address": "contato@easytaxi.com.br",
+ "phone_number": "4003-2498",
+ "description": "Biggest Taxi App",
+ "created_at": "Fri Jun 14 19:59:53 UTC 2013",
+ "updated_at": "Fri Jun 14 20:41:47 UTC 2013",
+ "overview": "\u003Cp\u003EEasy Taxi was founded by Tallis Gomes in Rio de Janeiro, Brazil in 2011 and is now one of the world\u2019s leading mobile Taxi apps, present in 11 countries, Easy Taxi connect drivers and passengers in a smooth, easy and safe way. \u003C/p\u003E\n\n\u003Cp\u003EThe value proposition is straight-forward: download/open the Easy Taxi app, available for iOS, Android and the new BlackBerry devices, confirm your pickup point and order your cab with the press of a button. In seconds you\u2019ll receive confirmation of the name, photo and car model/plate of your driver, and will be able to follow the vehicle\u2019s location in real-time as it approaches you. \u003C/p\u003E\n\n\u003Cp\u003EYou can save favorite addresses, check ride history and use many more features constantly being added. Since drivers are checked for compliance before joining the network, passengers do not need to worry about their safety and can simply enjoy their ride. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0027/5447/275447v2-max-150x150.jpg"],
+     [[250,
+       93],
+      "assets/images/resized/0027/5447/275447v2-max-250x250.jpg"],
+     [[450,
+       167],
+      "assets/images/resized/0027/5447/275447v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Tallis",
+      "last_name": "Gomes",
+      "permalink": "tallis-gomes-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Vinicius",
+      "last_name": "Gracia",
+      "permalink": "vinicius-gracia",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Android Developer",
+    "person":
+     {"first_name": "Marcio",
+      "last_name": "WIlliam",
+      "permalink": "marcio-william",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://exame.abril.com.br/pme/startups/noticias/easy-taxi-recebe-aporte-de-r-10-mi-da-rocket-internet",
+    "source_description": "Exame",
+    "raised_amount": 5000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Rocket Internet",
+         "permalink": "rocket-internet-3",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www1.folha.uol.com.br/mercado/1210917-criado-por-brasileiro-aplicativo-que-localiza-taxi-e-exportado-a-cinco-paises.shtml",
+    "title": "Folha de S\u00e3o Paulo"},
+   {"external_url": "http://en.pulsosocial.com/2012/10/16/easy-taxi-receives-us4-9-million-rocket-internet-investment/",
+    "title": "Pulso Social"},
+   {"external_url": "http://idgnow.uol.com.br/ti-corporativa/2013/04/18/com-maioria-no-brasil-aplicativo-easy-taxi-alcanca-500-mil-usuarios/",
+    "title": "IDG Now!"}]}

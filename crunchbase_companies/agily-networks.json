@@ -1,0 +1,174 @@
+{"name": "Agily Networks",
+ "permalink": "agily-networks",
+ "crunchbase_url": "http://www.crunchbase.com/company/agily-networks",
+ "homepage_url": "http://www.agily.com",
+ "blog_url": "http://www.agily.com/blog",
+ "blog_feed_url": "http://www.agily.com/rss.xml",
+ "twitter_username": "agily",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2006,
+ "founded_month": 10,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, storage, vpn, p2p, networking, sync, backup",
+ "alias_list": "",
+ "email_address": "info@agily.com",
+ "phone_number": "408-627-7735",
+ "description": "",
+ "created_at": "Fri Nov 28 08:48:32 UTC 2008",
+ "updated_at": "Thu Apr 04 07:18:35 UTC 2013",
+ "overview": "\u003Cp\u003EAgily Networks is a personal cloud networking and cloud storage framework. \u003C/p\u003E\n\n\u003Cp\u003EIt allows people to build clouds of their own client computers and servers without relying on outside data storage service.\u003C/p\u003E\n\n\u003Cp\u003EAgily Networks includes an application to live synchronize folders on client computers with the cloud of other client computers. It also enables developers to build their own interactive, cloud-based, P2P applications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[141,
+       150],
+      "assets/images/resized/0002/9856/29856v2-max-150x150.png"],
+     [[236,
+       250],
+      "assets/images/resized/0002/9856/29856v2-max-250x250.png"],
+     [[350,
+       370],
+      "assets/images/resized/0002/9856/29856v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Agily Client",
+    "permalink": "agily-client",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Kirill",
+      "last_name": "Pertsev",
+      "permalink": "kirill-pertsev",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Pevzner",
+      "permalink": "alexander-pevzner",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Syncplicity",
+      "permalink": "syncplicity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/7902/17902v3-max-150x150.png"],
+          [[206,
+            47],
+           "assets/images/resized/0001/7902/17902v3-max-250x250.png"],
+          [[206,
+            47],
+           "assets/images/resized/0001/7902/17902v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SugarSync",
+      "permalink": "sugarsync",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0007/3438/73438v6-max-150x150.jpg"],
+          [[250,
+            113],
+           "assets/images/resized/0007/3438/73438v6-max-250x250.jpg"],
+          [[450,
+            204],
+           "assets/images/resized/0007/3438/73438v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LogMeIn",
+      "permalink": "logmein",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0004/0566/40566v2-max-150x150.jpg"],
+          [[250,
+            86],
+           "assets/images/resized/0004/0566/40566v2-max-250x250.jpg"],
+          [[450,
+            155],
+           "assets/images/resized/0004/0566/40566v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$250k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 4,
+    "funded_day": 24,
+    "investments":
+     [{"company":
+        {"name": "WeDirect",
+         "permalink": "wedirect",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main office",
+    "address1": "3031 Tisch way",
+    "address2": "suite 700",
+    "zip_code": "95128",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.317799,
+    "longitude": -121.947497}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

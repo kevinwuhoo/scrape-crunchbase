@@ -1,0 +1,123 @@
+{"name": "Pixelactive",
+ "permalink": "pixelactive",
+ "crunchbase_url": "http://www.crunchbase.com/company/pixelactive",
+ "homepage_url": "http://www.pixelactive3d.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video-games, serious-games, simulation, tools",
+ "alias_list": null,
+ "email_address": "jyoung@pixelactive3d.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Dec 15 20:39:14 UTC 2008",
+ "updated_at": "Fri Jan 07 23:56:07 UTC 2011",
+ "overview": "\u003Cp\u003EPixelActive creates state of the art tools and technology for interactive 3D worlds.\u003C/p\u003E\n\n\u003Cp\u003EOur flagship product, CityScape, allow serious game and video game developers to create worlds 10x faster than traditional methods resulting in reduced costs and increased iterations, while supporting industry standard formats. Our main markets include visualization, physical simulation, geometric modeling, and video game development.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0003/1783/31783v2-max-150x150.png"],
+     [[250,
+       57],
+      "assets/images/resized/0003/1783/31783v2-max-250x250.png"],
+     [[285,
+       65],
+      "assets/images/resized/0003/1783/31783v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "CityScape",
+    "permalink": "cityscape",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO/Chief Scientist",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Rotenberg",
+      "permalink": "steve-rotenberg",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Kelley",
+      "permalink": "michael-kelley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Procedural",
+      "permalink": "procedural",
+      "image":
+       {"available_sizes":
+         [[[100,
+            11],
+           "assets/images/resized/0007/6023/76023v2-max-150x150.jpg"],
+          [[100,
+            11],
+           "assets/images/resized/0007/6023/76023v2-max-250x250.jpg"],
+          [[100,
+            11],
+           "assets/images/resized/0007/6023/76023v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2010/11/17/navteq-pixelactive/",
+   "source_description": "NAVTEQ Acquires 3D Technology Company PixelActive",
+   "acquired_year": 2010,
+   "acquired_month": 11,
+   "acquired_day": 17,
+   "acquiring_company":
+    {"name": "Navteq",
+     "permalink": "navteq",
+     "image":
+      {"available_sizes":
+        [[[150,
+           33],
+          "assets/images/resized/0009/0499/90499v1-max-150x150.jpg"],
+         [[250,
+           56],
+          "assets/images/resized/0009/0499/90499v1-max-250x250.jpg"],
+         [[263,
+           59],
+          "assets/images/resized/0009/0499/90499v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "PixelActive Headquarters",
+    "address1": "2382 Faraday Ave",
+    "address2": "Suite 150",
+    "zip_code": "92008",
+    "city": "Carlsbad",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.136474,
+    "longitude": -117.274841}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

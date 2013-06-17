@@ -1,0 +1,119 @@
+{"name": "GraphLab",
+ "permalink": "graphlab",
+ "crunchbase_url": "http://www.crunchbase.com/company/graphlab",
+ "homepage_url": "http://graphlab.com/",
+ "blog_url": "http://graphlab.org/",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "graph, graph-theory, machine-learning",
+ "alias_list": "",
+ "email_address": "contact@graphlab.com",
+ "phone_number": "",
+ "description": "Large-Scale Machine Learning on Graphs",
+ "created_at": "Tue May 14 13:13:53 UTC 2013",
+ "updated_at": "Tue May 14 14:31:24 UTC 2013",
+ "overview": "\u003Cp\u003EGraphLab is a graph-based, high performance, distributed computation framework written in C++.  While GraphLab was originally developed for Machine Learning tasks, it has found great success at a broad range of other data-mining tasks; out-performing other abstractions by orders of magnitude.\u003C/p\u003E\n\n\u003Cp\u003EGraphLab Features:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EA unified multicore and distributed API: write once run efficiently in both shared and distributed memory systems\u003C/li\u003E\n\u003Cli\u003ETuned for performance: optimized C++ execution engine leverages extensive multi-threading and asynchronous IO\u003C/li\u003E\n\u003Cli\u003EScalable: GraphLab intelligently places data and computation using sophisticated new algorithms\u003C/li\u003E\n\u003Cli\u003EHDFS Integration: Access your data directly from HDFS\u003C/li\u003E\n\u003Cli\u003EPowerful Machine Learning Toolkits: Turn BigData into actionable knowledge with ease\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EGraphLab is the culmination of 4 years of research and development into graph computation, distributed computing, and machine learning. GraphLab scales to graphs with billions of vertices and edges easily, performing orders of magnitude faster than competing systems. GraphLab combines advances in machine learning algorithms, asynchronous distributed graph computation, prioritized scheduling, and graph placement with optimized low-level system design and efficient data-structures to achieve unmatched performance and scalability in challenging machine learning tasks.\u003C/p\u003E\n\n\u003Cp\u003ENot only are we pushing the envelope of large-scale graph computation and BigLearning, we are also exploring the limits of small-scale systems for BigData.  With the new GraphChi project we are enabling a single desktop computer (actually a Mac Mini) to tackle problems that previously demanded an entire cluster.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0026/2192/262192v1-max-150x150.png"],
+     [[250,
+       91],
+      "assets/images/resized/0026/2192/262192v1-max-250x250.png"],
+     [[410,
+       150],
+      "assets/images/resized/0026/2192/262192v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Carlos",
+      "last_name": "Guestrin",
+      "permalink": "carlos-guestrin-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$6.75M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.pehub.com/201803/graphlab-raises-6-75-mln/?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+pehub%2Fnews%2Fall+(PEHub+News)",
+    "source_description": "GraphLab Raises $6.75 Mln",
+    "raised_amount": 6750000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 14,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Madrona Venture Group",
+         "permalink": "madrona-venture-group",
+         "image":
+          {"available_sizes":
+            [[[150,
+               73],
+              "assets/images/resized/0013/1150/131150v1-max-150x150.png"],
+             [[207,
+               102],
+              "assets/images/resized/0013/1150/131150v1-max-250x250.png"],
+             [[207,
+               102],
+              "assets/images/resized/0013/1150/131150v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "New Enterprise Associates",
+         "permalink": "new-enterprise-associates",
+         "image":
+          {"available_sizes":
+            [[[150,
+               110],
+              "assets/images/resized/0001/5083/15083v3-max-150x150.png"],
+             [[150,
+               110],
+              "assets/images/resized/0001/5083/15083v3-max-250x250.png"],
+             [[150,
+               110],
+              "assets/images/resized/0001/5083/15083v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.6062095,
+    "longitude": -122.3320708}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

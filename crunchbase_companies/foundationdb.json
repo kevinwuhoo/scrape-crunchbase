@@ -1,0 +1,116 @@
+{"name": "FoundationDB",
+ "permalink": "foundationdb",
+ "crunchbase_url": "http://www.crunchbase.com/company/foundationdb",
+ "homepage_url": "http://www.foundationdb.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "foundationdb",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@foundationdb.com",
+ "phone_number": "",
+ "description": "New Generation of NoSQL",
+ "created_at": "Fri Sep 07 23:43:37 UTC 2012",
+ "updated_at": "Fri Mar 22 10:05:30 UTC 2013",
+ "overview": "\u003Cp\u003EFoundationDB was started in 2009 by Nick Lavezzo, Dave Rosenthal, and Dave Scherer to address the lack of transactional NoSQL database systems. The team draws on its experience in executive and technology roles at Visual Sciences (NASDAQ:VSCN, now part of Adobe) in building breakthrough data processing technologies and a successful business.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0021/0376/210376v1-max-150x150.png"],
+     [[250,
+       84],
+      "assets/images/resized/0021/0376/210376v1-max-250x250.png"],
+     [[250,
+       84],
+      "assets/images/resized/0021/0376/210376v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Scherer",
+      "permalink": "dave-scherer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Lavezzo",
+      "permalink": "nick-lavezzo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Rosenthal",
+      "permalink": "david-rosenthal-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 12,
+    "funded_day": 23,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "SV Angel",
+         "permalink": "sv-angel",
+         "image":
+          {"available_sizes":
+            [[[150,
+               86],
+              "assets/images/resized/0010/6581/106581v3-max-150x150.png"],
+             [[250,
+               144],
+              "assets/images/resized/0010/6581/106581v3-max-250x250.png"],
+             [[450,
+               259],
+              "assets/images/resized/0010/6581/106581v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "8245 Boone Blvd",
+    "address2": "Suite #340",
+    "zip_code": "22182",
+    "city": "Vienna",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

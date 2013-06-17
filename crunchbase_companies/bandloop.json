@@ -1,0 +1,147 @@
+{"name": "Bandloop",
+ "permalink": "bandloop",
+ "crunchbase_url": "http://www.crunchbase.com/company/bandloop",
+ "homepage_url": "http://www.bandloop.com",
+ "blog_url": "http://bandloop.blogspot.com",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "live-music, show-listings, concerts, ticket, artists, venues, music, audio-streaming, marketing, band-management, music-fans, seeqpod",
+ "alias_list": "",
+ "email_address": "nick@bandloop.com",
+ "phone_number": "",
+ "description": "Community of Music Bands \u0026 Fans",
+ "created_at": "Mon Feb 02 05:53:54 UTC 2009",
+ "updated_at": "Fri Apr 03 22:48:03 UTC 2009",
+ "overview": "\u003Cp\u003EBandloop is a community of bands and music fans working together to share the latest concert information. Bands can add tour dates and messages, while fans can track updates from their favorite bands and enter concert and venue information on their behalf.\u003C/p\u003E\n\n\u003Cp\u003EBandloop offers customizable calendar widgets for bands, fans, and music bloggers, and plans to release an API and iPhone application in the near future.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0004/0231/40231v1-max-150x150.png"],
+     [[250,
+       70],
+      "assets/images/resized/0004/0231/40231v1-max-250x250.png"],
+     [[450,
+       126],
+      "assets/images/resized/0004/0231/40231v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Bandloop",
+    "permalink": "bandloop",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "DeMayo",
+      "permalink": "nick-demayo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Owen",
+      "last_name": "Grace",
+      "permalink": "owen-grace",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pollstar",
+      "permalink": "pollstar",
+      "image": null}},
+   {"competitor":
+     {"name": "JamBase",
+      "permalink": "jambase",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/9060/19060v3-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0001/9060/19060v3-max-250x250.png"],
+          [[300,
+            78],
+           "assets/images/resized/0001/9060/19060v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PureVolume",
+      "permalink": "purevolume",
+      "image":
+       {"available_sizes":
+         [[[131,
+            30],
+           "assets/images/resized/0008/9218/89218v1-max-150x150.jpg"],
+          [[131,
+            30],
+           "assets/images/resized/0008/9218/89218v1-max-250x250.jpg"],
+          [[131,
+            30],
+           "assets/images/resized/0008/9218/89218v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ReverbNation",
+      "permalink": "reverbnation",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0002/6867/26867v13-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0002/6867/26867v13-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0002/6867/26867v13-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        102],
+       "assets/images/resized/0003/5444/35444v2-max-150x150.jpg"],
+      [[250,
+        171],
+       "assets/images/resized/0003/5444/35444v2-max-250x250.jpg"],
+      [[450,
+        307],
+       "assets/images/resized/0003/5444/35444v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://blog.wired.com/music/2008/02/bandloop-hopes.html",
+    "title": "Bandloop Hopes To Streamline Band/Fan Communication"},
+   {"external_url": "http://blog.wired.com/music/2008/11/bandloop-adds-s.html",
+    "title": "SeeqPod Widgets Drive Show Attendence on Bandloop"},
+   {"external_url": "http://news.cnet.com/8301-13526_3-10169543-27.html",
+    "title": "Bandloop vs. JamBase for online show tracking"},
+   {"external_url": "http://news.cnet.com/8301-13526_3-10189786-27.html",
+    "title": "Bandloop and the hunt for local music"},
+   {"external_url": "http://news.cnet.com/8301-13526_3-10195136-27.html",
+    "title": "Bandloop iPhone app helps you find live music"},
+   {"external_url": "http://blog.wired.com/business/2009/03/sxsw-find-the-b.html",
+    "title": "SXSW: Find the Best Gigs With These 5 Essential iPhone Apps"}]}

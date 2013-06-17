@@ -1,0 +1,138 @@
+{"name": "Proginet",
+ "permalink": "proginet",
+ "crunchbase_url": "http://www.crunchbase.com/company/proginet",
+ "homepage_url": "http://www.proginet.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@proginet.com",
+ "phone_number": "+1 (516) 535-3600",
+ "description": "Managed File Transfer",
+ "created_at": "Tue Jan 05 23:02:43 UTC 2010",
+ "updated_at": "Tue Jan 26 00:26:31 UTC 2010",
+ "overview": "\u003Cp\u003EProginet manages file transfer solution for the electronic delivery of business files regardless of platform. It does this through enterprise managed transfers, email attachment management, and network accelerators. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[144,
+       49],
+      "assets/images/resized/0007/2237/72237v1-max-150x150.png"],
+     [[144,
+       49],
+      "assets/images/resized/0007/2237/72237v1-max-250x250.png"],
+     [[144,
+       49],
+      "assets/images/resized/0007/2237/72237v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Job",
+      "permalink": "peter-job",
+      "image":
+       {"available_sizes":
+         [[[128,
+            150],
+           "assets/images/resized/0026/7914/267914v1-max-150x150.png"],
+          [[150,
+            175],
+           "assets/images/resized/0026/7914/267914v1-max-250x250.png"],
+          [[150,
+            175],
+           "assets/images/resized/0026/7914/267914v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Senior VP",
+    "person":
+     {"first_name": "Mel",
+      "last_name": "Schrieberg",
+      "permalink": "mel-schrieberg",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0025/4355/254355v1-max-150x150.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0025/4355/254355v1-max-250x250.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0025/4355/254355v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/934868/000114420410000370/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC D",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 1,
+    "funded_day": 5,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 23000000.0,
+   "price_currency_code": "USD",
+   "term_code": "cash_and_stock",
+   "source_url": "http://www.freshnews.com/news/346554/correcting%C2%A0and%C2%A0replacing-proginet-corporation-be-acquired-tibco-software",
+   "source_description": "CORRECTING and REPLACING Proginet Corporation to Be Acquired by TIBCO Software",
+   "acquired_year": 2010,
+   "acquired_month": 6,
+   "acquired_day": 22,
+   "acquiring_company":
+    {"name": "TIBCO Software",
+     "permalink": "tibco-software-inc",
+     "image":
+      {"available_sizes":
+        [[[126,
+           56],
+          "assets/images/resized/0001/9681/19681v1-max-150x150.jpg"],
+         [[126,
+           56],
+          "assets/images/resized/0001/9681/19681v1-max-250x250.jpg"],
+         [[126,
+           56],
+          "assets/images/resized/0001/9681/19681v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "200 Garden City Plaza",
+    "address2": "",
+    "zip_code": "11530",
+    "city": "Garden City",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

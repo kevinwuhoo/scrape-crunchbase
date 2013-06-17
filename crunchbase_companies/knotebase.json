@@ -1,0 +1,101 @@
+{"name": "Knotebase",
+ "permalink": "knotebase",
+ "crunchbase_url": "http://www.crunchbase.com/company/knotebase",
+ "homepage_url": "http://knotebase.com",
+ "blog_url": "http://blog.knotebase.com",
+ "blog_feed_url": "http://blog.knotebase.com/rss",
+ "twitter_username": "knotebase",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "micro-collaboration, collaboration",
+ "alias_list": null,
+ "email_address": "hi@knotebase.com",
+ "phone_number": "",
+ "description": "Micro-Collaboration",
+ "created_at": "Thu Jan 27 05:12:32 UTC 2011",
+ "updated_at": "Tue Jul 26 18:06:55 UTC 2011",
+ "overview": "\u003Cp\u003EKnotebase is a micro-collaboration dashboard. You use it with friends, family, co-workers, etc. to make group collaboration frictionless.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "Black",
+      "permalink": "jeremy-black",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Thouret",
+      "permalink": "ben-thouret",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pozit",
+      "permalink": "pozit",
+      "image": null}},
+   {"competitor":
+     {"name": "Posterous",
+      "permalink": "posterous",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0002/1222/21222v7-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0002/1222/21222v7-max-250x250.png"],
+          [[288,
+            95],
+           "assets/images/resized/0002/1222/21222v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "400 Atlantic",
+    "address2": "#301",
+    "zip_code": "H2V 1A5",
+    "city": "Montreal",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0011/9180/119180v2-max-150x150.jpg"],
+      [[250,
+        163],
+       "assets/images/resized/0011/9180/119180v2-max-250x250.jpg"],
+      [[450,
+        293],
+       "assets/images/resized/0011/9180/119180v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

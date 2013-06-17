@@ -1,0 +1,89 @@
+{"name": "mWorks",
+ "permalink": "mworks",
+ "crunchbase_url": "http://www.crunchbase.com/company/mworks",
+ "homepage_url": "http://mworks.nl/mworks",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mworks",
+ "category_code": "consulting",
+ "number_of_employees": 2,
+ "founded_year": 2000,
+ "founded_month": 11,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ruby, rails, tdd, web, development, testing, agile, scalability, integration",
+ "alias_list": "",
+ "email_address": "marek@mworks.nl",
+ "phone_number": "",
+ "description": "IT consulting company",
+ "created_at": "Thu Aug 27 06:47:13 UTC 2009",
+ "updated_at": "Fri Aug 28 18:51:30 UTC 2009",
+ "overview": "\u003Cp\u003EmWorks is an IT consulting company that assists customers with system integration, web development, and scalability.\u003C/p\u003E\n\n\u003Cp\u003EOften utilizing the Ruby on Rails framework, mworks has helped several startups scale their systems and improve their code. They provide everything from code audits, setting up automated builds to writing the code and developing the application.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0005/7855/57855v2-max-150x150.png"],
+     [[236,
+       57],
+      "assets/images/resized/0005/7855/57855v2-max-250x250.png"],
+     [[236,
+       57],
+      "assets/images/resized/0005/7855/57855v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Marek",
+      "last_name": "de Heus",
+      "permalink": "marek-de-heus",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Petrik",
+      "last_name": "de Heus",
+      "permalink": "petrik-de-heus",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "Dordtsestraat 9",
+    "address2": "",
+    "zip_code": "2587TS",
+    "city": "Den Haag",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.1118279,
+    "longitude": 4.2938797}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.newrelic.com/2009/01/23/mworks-and-new-relic-reduce-customer-app-response-time-by-over-120/",
+    "title": "mWorks and New Relic reduce customer app response time by over 120%"},
+   {"external_url": "http://www.newrelic.com/press-release-20090115.html",
+    "title": "New Relic Adds Nine New Members to its Affiliate Program"},
+   {"external_url": "http://campaigncoa.ch/about_campaigncoach",
+    "title": "About CampaignCoach"}]}

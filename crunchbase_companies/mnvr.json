@@ -1,0 +1,306 @@
+{"name": "MNVR",
+ "permalink": "mnvr",
+ "crunchbase_url": "http://www.crunchbase.com/company/mnvr",
+ "homepage_url": "http://mnvr.me",
+ "blog_url": "http://blog.mnvr.me",
+ "blog_feed_url": "http://blog.mnvr.me/rss",
+ "twitter_username": "mnvrme",
+ "category_code": "mobile",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, local, social, location-based-services, local-engagement-platform, local-engagement-quotient",
+ "alias_list": null,
+ "email_address": "golocal@mnvr.me",
+ "phone_number": "4087184494",
+ "description": "Get Answers. Go Places.",
+ "created_at": "Mon Aug 01 05:53:14 UTC 2011",
+ "updated_at": "Tue Aug 02 09:28:32 UTC 2011",
+ "overview": "\u003Cp\u003EMNVR (ma.noe.vre) connects people around places to help each other by providing insightful answers to questions that matter to them.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sushmitha",
+      "last_name": "Akshay",
+      "permalink": "sushmitha-akshay",
+      "image": null}},
+   {"is_past": false,
+    "title": "Architect",
+    "person":
+     {"first_name": "Prince",
+      "last_name": "Nishchal",
+      "permalink": "prince-nishchal",
+      "image": null}},
+   {"is_past": false,
+    "title": "Back-end Engineer",
+    "person":
+     {"first_name": "Nagarathna",
+      "last_name": "K",
+      "permalink": "nagarathna-k",
+      "image": null}},
+   {"is_past": false,
+    "title": "Front-end Engineer",
+    "person":
+     {"first_name": "Veeresh",
+      "last_name": "Hiremath",
+      "permalink": "veeresh-hiremath",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Quora",
+      "permalink": "quora",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0007/2415/72415v4-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0007/2415/72415v4-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0007/2415/72415v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gowalla",
+      "permalink": "gowalla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/5118/25118v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loopt",
+      "permalink": "loopt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0000/1972/1972v6-max-150x150.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-250x250.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hipster",
+      "permalink": "hipster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0011/6921/116921v5-max-150x150.jpg"],
+          [[250,
+            98],
+           "assets/images/resized/0011/6921/116921v5-max-250x250.jpg"],
+          [[450,
+            176],
+           "assets/images/resized/0011/6921/116921v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LocalUncle",
+      "permalink": "localuncle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0013/8154/138154v1-max-150x150.png"],
+          [[250,
+            94],
+           "assets/images/resized/0013/8154/138154v1-max-250x250.png"],
+          [[250,
+            94],
+           "assets/images/resized/0013/8154/138154v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LOCQL",
+      "permalink": "locql",
+      "image":
+       {"available_sizes":
+         [[[148,
+            41],
+           "assets/images/resized/0012/2660/122660v2-max-150x150.png"],
+          [[148,
+            41],
+           "assets/images/resized/0012/2660/122660v2-max-250x250.png"],
+          [[148,
+            41],
+           "assets/images/resized/0012/2660/122660v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Crowdbeacon",
+      "permalink": "crowdbeacon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0012/0848/120848v2-max-150x150.jpg"],
+          [[250,
+            89],
+           "assets/images/resized/0012/0848/120848v2-max-250x250.jpg"],
+          [[450,
+            160],
+           "assets/images/resized/0012/0848/120848v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Deem",
+      "permalink": "deem",
+      "image":
+       {"available_sizes":
+         [[[143,
+            59],
+           "assets/images/resized/0000/2779/2779v8-max-150x150.png"],
+          [[143,
+            59],
+           "assets/images/resized/0000/2779/2779v8-max-250x250.png"],
+          [[143,
+            59],
+           "assets/images/resized/0000/2779/2779v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GetSatisfaction",
+      "permalink": "getsatisfaction-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0024/5631/245631v1-max-150x150.jpg"],
+          [[177,
+            41],
+           "assets/images/resized/0024/5631/245631v1-max-250x250.jpg"],
+          [[177,
+            41],
+           "assets/images/resized/0024/5631/245631v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cloudy",
+      "permalink": "cloudy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/3103/123103v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0012/3103/123103v2-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0012/3103/123103v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Travellr",
+      "permalink": "travellr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0003/6077/36077v3-max-150x150.png"],
+          [[208,
+            50],
+           "assets/images/resized/0003/6077/36077v3-max-250x250.png"],
+          [[208,
+            50],
+           "assets/images/resized/0003/6077/36077v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Localmind",
+      "permalink": "localmind",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0011/9896/119896v3-max-150x150.png"],
+          [[190,
+            68],
+           "assets/images/resized/0011/9896/119896v3-max-250x250.png"],
+          [[190,
+            68],
+           "assets/images/resized/0011/9896/119896v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loqly",
+      "permalink": "loqly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0012/0338/120338v4-max-150x150.png"],
+          [[174,
+            71],
+           "assets/images/resized/0012/0338/120338v4-max-250x250.png"],
+          [[174,
+            71],
+           "assets/images/resized/0012/0338/120338v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mnvr.me",
+    "title": ""},
+   {"external_url": "http://blog.mnvr.me",
+    "title": ""}]}

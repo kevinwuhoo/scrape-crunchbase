@@ -1,0 +1,126 @@
+{"name": "Poyomi",
+ "permalink": "poyomi",
+ "crunchbase_url": "http://www.crunchbase.com/company/poyomi",
+ "homepage_url": "http://www.poyomi.com/",
+ "blog_url": "http://www.poyomi.com/news",
+ "blog_feed_url": "http://blog.poyomi.com/feed/",
+ "twitter_username": "poyomi",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "photobooks, photo-books, print-on-demand",
+ "alias_list": null,
+ "email_address": "info@poyomi.com",
+ "phone_number": "",
+ "description": "Photo Books done right",
+ "created_at": "Mon Sep 06 13:32:23 UTC 2010",
+ "updated_at": "Sun Jun 17 05:19:36 UTC 2012",
+ "overview": "\u003Cp\u003EPoyomi is a web photobook creation service with support for multiple photo sharing websites. Main focus is the ease of use and instant results. Books are printed on demand with HP\u0026#8217;s MagCloud service and shipped worldwide. Also available as an \u003Ca href=\"http://itunes.apple.com/us/app/poyomi-photo-books/id524997130?ls=1\u0026amp;mt=8\" title=\"iPad application\" rel=\"nofollow\"\u003EiPad application\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0010/0710/100710v2-max-150x150.png"],
+     [[250,
+       63],
+      "assets/images/resized/0010/0710/100710v2-max-250x250.png"],
+     [[450,
+       114],
+      "assets/images/resized/0010/0710/100710v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Blurb",
+      "permalink": "blurb",
+      "image":
+       {"available_sizes":
+         [[[57,
+            55],
+           "assets/images/resized/0000/1327/1327v1-max-150x150.png"],
+          [[57,
+            55],
+           "assets/images/resized/0000/1327/1327v1-max-250x250.png"],
+          [[57,
+            55],
+           "assets/images/resized/0000/1327/1327v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Snapfish",
+      "permalink": "snapfish",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/4015/4015v4-max-150x150.jpg"],
+          [[240,
+            60],
+           "assets/images/resized/0000/4015/4015v4-max-250x250.jpg"],
+          [[240,
+            60],
+           "assets/images/resized/0000/4015/4015v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Winkiwoo",
+      "permalink": "winkiwoo",
+      "image": null}},
+   {"competitor":
+     {"name": "CEWE",
+      "permalink": "cewe",
+      "image": null}}],
+ "providerships":
+  [{"title": "printing",
+    "is_past": false,
+    "provider":
+     {"name": "magcloud",
+      "permalink": "magcloud",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0010/0708/100708v2-max-150x150.jpg"],
+      [[250,
+        135],
+       "assets/images/resized/0010/0708/100708v2-max-250x250.jpg"],
+      [[450,
+        243],
+       "assets/images/resized/0010/0708/100708v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0010/0709/100709v2-max-150x150.jpg"],
+      [[250,
+        135],
+       "assets/images/resized/0010/0709/100709v2-max-250x250.jpg"],
+      [[450,
+        243],
+       "assets/images/resized/0010/0709/100709v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

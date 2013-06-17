@@ -1,0 +1,95 @@
+{"name": "NudgeMail",
+ "permalink": "nudgemail",
+ "crunchbase_url": "http://www.crunchbase.com/company/nudgemail",
+ "homepage_url": "http://www.nudgemail.com",
+ "blog_url": "http://www.nudgemail.com/blog/",
+ "blog_feed_url": "http://www.nudgemail.com/blog/feed",
+ "twitter_username": "NudgeMail",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email, reminder, to-do, task, gtd, inbox-zero, getting-things-done, productivity",
+ "alias_list": null,
+ "email_address": "info@nudgemail.com",
+ "phone_number": "415-417-2700",
+ "description": "Email-based Reminders",
+ "created_at": "Mon Nov 08 23:21:22 UTC 2010",
+ "updated_at": "Wed Nov 10 00:46:29 UTC 2010",
+ "overview": "\u003Cp\u003ENudgeMail is a reminder system that works entirely within email.  There are no plugins, apps, or other downloads.  Furthermore, there is no registration required.  The system works on every device that supports email, as it is fully controlled via email.\u003C/p\u003E\n\n\u003Cp\u003EUsers can create new reminders/todos or forward existing emails to NudgeMail, and designate a reminder date/time to receive the response.  Commands are either sent to nudge@nudgemail.com (using the subject line to set the reminder period), or sent to XXXX@nudgemail.com (where XXXX is the reminder period).  \u003C/p\u003E\n\n\u003Cp\u003ENudgeMail uses intuitive English-like commands, such as \u0026#8220;Monday@NudgeMail\u0026#8221; or \u0026#8220;NextWeek@\u0026#8221; or \u0026#8220;Nov 13th\u0026#8221; etc.  Numerous combinations are possible, and the system also has the ability to configure settings via email.  Lastly, the user may send notes to Status (receive a current to-do list), History (see the past 30 days), Vacation (stop sending NudgeMails until vacation\u0026#8217;s over) and other commands.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0010/9244/109244v2-max-150x150.png"],
+     [[250,
+       63],
+      "assets/images/resized/0010/9244/109244v2-max-250x250.png"],
+     [[450,
+       113],
+      "assets/images/resized/0010/9244/109244v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "Toeman",
+      "permalink": "jeremy-toeman",
+      "image":
+       {"available_sizes":
+         [[[110,
+            150],
+           "assets/images/resized/0005/6170/56170v5-max-150x150.jpg"],
+          [[184,
+            250],
+           "assets/images/resized/0005/6170/56170v5-max-250x250.jpg"],
+          [[331,
+            450],
+           "assets/images/resized/0005/6170/56170v5-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Burg",
+      "permalink": "adam-burg",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "930 Montgomery Street",
+    "address2": "Suite 301",
+    "zip_code": "94133",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

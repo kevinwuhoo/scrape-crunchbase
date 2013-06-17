@@ -1,0 +1,121 @@
+{"name": "Stratalux",
+ "permalink": "stratalux",
+ "crunchbase_url": "http://www.crunchbase.com/company/stratalux",
+ "homepage_url": "http://www.stratalux.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "stratalux",
+ "category_code": "network_hosting",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-computing, paas, managed-services",
+ "alias_list": null,
+ "email_address": "info@stratalux.com",
+ "phone_number": "310-765-1591",
+ "description": "Cloud-based Managed Services",
+ "created_at": "Tue May 22 07:36:46 UTC 2012",
+ "updated_at": "Fri May 25 02:35:16 UTC 2012",
+ "overview": "\u003Cp\u003EStratalux is a cloud-based managed services company helping businesses build and maintain websites built upon public cloud resources.\u003C/p\u003E\n\n\u003Cp\u003EAs a 100% cloud-based Managed Services company, Stratalux\u0026#8217;s sole focus is cloud computing.   As a reseller of leading public cloud service providers Stratalux is able to build and manage fully integrated solutions for our customers.\u003C/p\u003E\n\n\u003Cp\u003EStratalux does this by building customized Platform-as-a-Service (PaaS) solutions for businesses who want to leverage the economics of the cloud but want to retain control of their infrastructure.   Utilizing configuration management tools like Chef and Rightscale, Stratalux is able to build solutions which are highly scalable and available improving customer satisfaction while reducing costs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0019/1586/191586v2-max-150x150.png"],
+     [[250,
+       50],
+      "assets/images/resized/0019/1586/191586v2-max-250x250.png"],
+     [[300,
+       60],
+      "assets/images/resized/0019/1586/191586v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "Przygode",
+      "permalink": "jeremy-przygode",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Datapipe",
+      "permalink": "datapipe",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0002/1889/21889v9-max-150x150.png"],
+          [[250,
+            42],
+           "assets/images/resized/0002/1889/21889v9-max-250x250.png"],
+          [[386,
+            65],
+           "assets/images/resized/0002/1889/21889v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Engine Yard",
+      "permalink": "engineyard",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0001/0764/10764v3-max-150x150.png"],
+          [[250,
+            136],
+           "assets/images/resized/0001/0764/10764v3-max-250x250.png"],
+          [[302,
+            165],
+           "assets/images/resized/0001/0764/10764v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "6080 Center Drive",
+    "address2": "Suite 600",
+    "zip_code": "90045",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

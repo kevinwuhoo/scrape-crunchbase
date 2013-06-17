@@ -1,0 +1,109 @@
+{"name": "4tiitoo",
+ "permalink": "4tiitoo",
+ "crunchbase_url": "http://www.crunchbase.com/company/4tiitoo",
+ "homepage_url": "http://www.4tiitoo.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "nuiaway",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "open-source, operating-system, touch-screen, mobile, linux, app-store, tablet, netbook, ultrabook, all-in-one, pc, eye-tracking, gestures, speech, nuia, natural-user-interaction, sdk",
+ "alias_list": null,
+ "email_address": "contact@4tiitoo.com",
+ "phone_number": "004989200012820",
+ "description": "Natural User InterAction",
+ "created_at": "Fri Nov 25 11:15:05 UTC 2011",
+ "updated_at": "Sun Mar 10 22:20:28 UTC 2013",
+ "overview": "\u003Cp\u003E4tiitoo AG creates innovative software solutions to bring a more intuitive and natural user experience to the daily computer interaction. With a focus on the touch user experience 4tiitoo launched a tablet PC in 2010. Since then the company has extended their development to a multi-sensor user experience and provides intuitive software solutions across platforms, sensors and languages.\u003C/p\u003E\n\n\u003Cp\u003E4tiitoo\u2019s latest product, the NUIA software suite, offers sensor vendors and OEMs a turnkey solution including an application package and a powerful SDK. The development kit provides a simple way to create applications controlled via eye tracking, gestures or speech recognition. Existing legacy applications can easily be enabled for these new input modalities with the NUIA extensions tools.\u003C/p\u003E\n\n\u003Cp\u003ENUIA is vendor agnostic and supports all products from major vendors, including SMI, tobii (eye tracking), Kinect, Leap, Creative (gestures) and Nuance, Intel PerC SDK (speech).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0016/3986/163986v2-max-150x150.jpg"],
+     [[200,
+       85],
+      "assets/images/resized/0016/3986/163986v2-max-250x250.jpg"],
+     [[200,
+       85],
+      "assets/images/resized/0016/3986/163986v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Tore",
+      "last_name": "Meyer",
+      "permalink": "tore-meyer",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Stephan",
+      "last_name": "Odoerfer",
+      "permalink": "stephan-odoerfer",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://newsroom.intel.com/community/intel_newsroom/blog/2011/11/15/intel-capital-unveils-100-million-intel-capital-appupsm-fund-announces-first-investments",
+    "source_description": "Intel Press Release",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Intel Capital",
+         "permalink": "intel-capital",
+         "image":
+          {"available_sizes":
+            [[[145,
+               150],
+              "assets/images/resized/0001/3507/13507v7-max-150x150.png"],
+             [[243,
+               250],
+              "assets/images/resized/0001/3507/13507v7-max-250x250.png"],
+             [[243,
+               250],
+              "assets/images/resized/0001/3507/13507v7-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Westendstrasse 170",
+    "address2": "",
+    "zip_code": "80686",
+    "city": "Munich",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,119 @@
+{"name": "DevHD",
+ "permalink": "devhd",
+ "crunchbase_url": "http://www.crunchbase.com/company/devhd",
+ "homepage_url": "http://www.devhd.com",
+ "blog_url": "http://edwink.devhd.com",
+ "blog_feed_url": "http://edwink.devhd.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 7,
+ "founded_year": 2006,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rss-mashups-personalization-aggregator",
+ "alias_list": null,
+ "email_address": "edwink@devhd.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Mar 21 16:31:46 UTC 2008",
+ "updated_at": "Tue Jun 17 17:55:45 UTC 2008",
+ "overview": "\u003Cp\u003EDevHD believes in cloud services, RSS, microformats, OpenID, social connectivity mashups.\u003C/p\u003E\n\n\u003Cp\u003EThe DevHD team has two projects: streets and feedly. \u003C/p\u003E\n\n\u003Cp\u003Efeedly is an attempt to use everything which is good in cloud service, RSS and social connectivity to create a more social and magazine-like start experience. Think MyYahoo meets Digg meets Wired. \u003C/p\u003E\n\n\u003Cp\u003EStreets is a more generic mash-up framework which tries to isolate and encapsulates things that are needed to build feedly but are not specific to feedly.\u003C/p\u003E\n\n\u003Cp\u003EWith the help of a panel of 200 users, they have iterated seven times since the inception of the project. If you are interested in learning more about the path they have taken and the lessons they learnt, you can read \u003Ca href=\"http://edwink.devhd.com\" title=\"their blog\" rel=\"nofollow\"\u003Etheir blog\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       78],
+      "assets/images/resized/0001/6143/16143v1-max-150x150.png"],
+     [[250,
+       130],
+      "assets/images/resized/0001/6143/16143v1-max-250x250.png"],
+     [[302,
+       158],
+      "assets/images/resized/0001/6143/16143v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Feedly",
+    "permalink": "feedly",
+    "image":
+     {"available_sizes":
+       [[[105,
+          30],
+         "assets/images/resized/0024/8166/248166v2-max-150x150.png"],
+        [[105,
+          30],
+         "assets/images/resized/0024/8166/248166v2-max-250x250.png"],
+        [[105,
+          30],
+         "assets/images/resized/0024/8166/248166v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Edwin",
+      "last_name": "Khodabakchian",
+      "permalink": "edwin-khodabakchian",
+      "image":
+       {"available_sizes":
+         [[[131,
+            150],
+           "assets/images/resized/0027/0843/270843v1-max-150x150.png"],
+          [[167,
+            191],
+           "assets/images/resized/0027/0843/270843v1-max-250x250.png"],
+          [[167,
+            191],
+           "assets/images/resized/0027/0843/270843v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pageflakes",
+      "permalink": "pageflakes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0024/2857/242857v1-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0024/2857/242857v1-max-250x250.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0024/2857/242857v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iGoogle",
+      "permalink": "igoogle",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "41 McCormick Lane",
+    "address2": "",
+    "zip_code": "94027",
+    "city": "Atherton",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.46629,
+    "longitude": -122.195057}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

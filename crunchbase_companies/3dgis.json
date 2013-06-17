@@ -1,0 +1,145 @@
+{"name": "3DGIS",
+ "permalink": "3dgis",
+ "crunchbase_url": "http://www.crunchbase.com/company/3dgis",
+ "homepage_url": "http://www.3dgis.it",
+ "blog_url": "http://blog.3dgis.it",
+ "blog_feed_url": "",
+ "twitter_username": "3dgis_it",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gis, standards, geospatial, surveys",
+ "alias_list": null,
+ "email_address": "info@3dgis.it",
+ "phone_number": "+39 0425 471 394",
+ "description": "Geographic information systems",
+ "created_at": "Thu Jun 07 16:15:12 UTC 2012",
+ "updated_at": "Sat Jun 09 20:44:32 UTC 2012",
+ "overview": "\u003Cp\u003E3DGIS is an Italian GIS startup, born in 2008, built on a long-term experience in geographical information system design and development field and in the ICT area.\u003C/p\u003E\n\n\u003Cp\u003E3DGIS is founded on the combination of many professionalism: computer engineers, graphic designers, architects. The company has expertise in the domain problems with GIS and Web-GIS analysis, design and development, in two and three dimensions.\u003C/p\u003E\n\n\u003Cp\u003E3DGIS supports many geographical applications: territorial and environmental planning, network management and maintenance for roads, water, gas, oil, electricity and TLC, geo-marketing.\u003C/p\u003E\n\n\u003Cp\u003ESolutions are designed to work seamlessly on open source and commercial application platforms. 3DGIS provides support to commercial ESRI, Oracle and Microsoft products.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0019/4375/194375v2-max-150x150.png"],
+     [[250,
+       77],
+      "assets/images/resized/0019/4375/194375v2-max-250x250.png"],
+     [[315,
+       98],
+      "assets/images/resized/0019/4375/194375v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Technical Officer",
+    "person":
+     {"first_name": "Eduard",
+      "last_name": "Roccatello",
+      "permalink": "eduard-roccatello",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Esri",
+      "permalink": "esri",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0008/8104/88104v4-max-150x150.jpg"],
+          [[250,
+            111],
+           "assets/images/resized/0008/8104/88104v4-max-250x250.jpg"],
+          [[450,
+            201],
+           "assets/images/resized/0008/8104/88104v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Autodesk",
+      "permalink": "autodesk",
+      "image":
+       {"available_sizes":
+         [[[149,
+            35],
+           "assets/images/resized/0002/2543/22543v1-max-150x150.png"],
+          [[149,
+            35],
+           "assets/images/resized/0002/2543/22543v1-max-250x250.png"],
+          [[149,
+            35],
+           "assets/images/resized/0002/2543/22543v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Intergraph",
+      "permalink": "intergraph",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0006/5325/65325v1-max-150x150.png"],
+          [[173,
+            55],
+           "assets/images/resized/0006/5325/65325v1-max-250x250.png"],
+          [[173,
+            55],
+           "assets/images/resized/0006/5325/65325v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bentley Systems",
+      "permalink": "bentley-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0007/6561/76561v1-max-150x150.png"],
+          [[210,
+            65],
+           "assets/images/resized/0007/6561/76561v1-max-250x250.png"],
+          [[210,
+            65],
+           "assets/images/resized/0007/6561/76561v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "Viale della Scienza 15",
+    "address2": "",
+    "zip_code": "45100",
+    "city": "Rovigo",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "Registered office",
+    "address1": "Via Bibione 6",
+    "address2": "",
+    "zip_code": "35142",
+    "city": "Padua",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,170 @@
+{"name": "BidPlace SB",
+ "permalink": "bidplace-sb",
+ "crunchbase_url": "http://www.crunchbase.com/company/bidplace-sb",
+ "homepage_url": "http://www.bidplacesb.com",
+ "blog_url": "http://twitter.com/bidplacesb",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "advertising",
+ "number_of_employees": 11,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "advertising, online-advertising, ad-serving, marketing, online-marketing, targeting, ecommerce, banner-ads, banner-advertising, self-service-advertising, display-advertising, display-ads, online-display, ad-network",
+ "alias_list": "",
+ "email_address": "support@bidplacesb.com",
+ "phone_number": "",
+ "description": "Self Service Banner Ads",
+ "created_at": "Fri Feb 20 22:31:50 UTC 2009",
+ "updated_at": "Tue Mar 31 19:13:58 UTC 2009",
+ "overview": "\u003Cp\u003EBidPlace SB is a self-service banner advertising solution for small- to mid-sized advertisers. BidPlace SB gives advertisers direct access to the largest banner advertising network in the U.S., Platform-A, which reaches over 90% of Internet users.\u003C/p\u003E\n\n\u003Cp\u003ETargeting options include geo (state and DMA level), site content categories, and demographics. Pricing models for BidPlace SB include CPM (cost per impression) and bidded CPC (cost per click). Advertisers set a daily budget and are billed via credit card.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       15],
+      "assets/images/resized/0003/6795/36795v2-max-150x150.png"],
+     [[250,
+       25],
+      "assets/images/resized/0003/6795/36795v2-max-250x250.png"],
+     [[433,
+       44],
+      "assets/images/resized/0003/6795/36795v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Amanda",
+      "last_name": "Schwarz",
+      "permalink": "amanda-schwarz",
+      "image": null}},
+   {"is_past": true,
+    "title": "Product Director",
+    "person":
+     {"first_name": "Div",
+      "last_name": "Bhansali",
+      "permalink": "div-bhansali",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0011/3566/113566v2-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0011/3566/113566v2-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0011/3566/113566v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Kontera",
+      "permalink": "kontera",
+      "image":
+       {"available_sizes":
+         [[[144,
+            53],
+           "assets/images/resized/0024/3126/243126v1-max-150x150.png"],
+          [[144,
+            53],
+           "assets/images/resized/0024/3126/243126v1-max-250x250.png"],
+          [[144,
+            53],
+           "assets/images/resized/0024/3126/243126v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vibrant Media",
+      "permalink": "vibrantmedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0000/3163/3163v4-max-150x150.png"],
+          [[250,
+            90],
+           "assets/images/resized/0000/3163/3163v4-max-250x250.png"],
+          [[450,
+            163],
+           "assets/images/resized/0000/3163/3163v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Aductions",
+      "permalink": "aductions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/1568/11568v1-max-150x150.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0001/1568/11568v1-max-250x250.jpg"],
+          [[350,
+            120],
+           "assets/images/resized/0001/1568/11568v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AdEngage",
+      "permalink": "adengage",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0001/5957/15957v1-max-150x150.jpg"],
+          [[191,
+            36],
+           "assets/images/resized/0001/5957/15957v1-max-250x250.jpg"],
+          [[191,
+            36],
+           "assets/images/resized/0001/5957/15957v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AdRoll",
+      "permalink": "adroll-semantic-sugar-inc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/7382/17382v5-max-150x150.jpg"],
+          [[250,
+            56],
+           "assets/images/resized/0001/7382/17382v5-max-250x250.jpg"],
+          [[300,
+            68],
+           "assets/images/resized/0001/7382/17382v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Baltimore office",
+    "address1": "1020 Hull St",
+    "address2": "",
+    "zip_code": "21212",
+    "city": "Baltimore",
+    "state_code": "MD",
+    "country_code": "USA",
+    "latitude": 39.274034,
+    "longitude": -76.5908291}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.adexchanger.com/ad-exchange-news/bidplace-sb-launches-platform-a-tells-no-one-but-adexchangercom/",
+    "title": "AOL\u00e2\u20ac\u2122s Platform-A Quietly Launches (or Re-launches) BidPlace SB"}]}

@@ -1,0 +1,163 @@
+{"name": "Volantis Systems",
+ "permalink": "volantis",
+ "crunchbase_url": "http://www.crunchbase.com/company/volantis",
+ "homepage_url": "http://www.volantis.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "+44 (0) 1483 739 739",
+ "description": "",
+ "created_at": "Mon Dec 07 09:12:50 UTC 2009",
+ "updated_at": "Wed Jul 13 17:52:04 UTC 2011",
+ "overview": "\u003Cp\u003EVolantis Systems Limited provides intelligent content adaptation solutions for the mobile Internet market. The company offers Content Delivery Platform (CDP), a mobile portal and e-commerce application suite, which allows mobile operators to promote, sell, and deliver content from various source. Its CDP comprises various modules, such as Mobile Development Framework, which provides a device adaptation engine that renders the services managed by other components of the CDP; Mobile Content Storefront for managing storefront sites and content; Buzzcast for integrating multiple content feeds, personalizing those feeds into custom channels, and inserting adverts and event driven push to multiple on-device clients; Mobile Content Transcoder to convert PC-oriented sites into mobile sites; Feed Builder that enables operators to build subscriber loyalty and increase data usage; and Site Builder, which enables service providers to offer their users a way to build their own personal mobile Websites. The company also offers Mobility Server, a Java-based development and runtime platform that allows Web developers to build and run their own mobile Internet applications; Ubik.com, an online service, which allows users to design, build, and host compelling mobile Websites; and Volantis Framework 5.3 that enables operators and developers to build and deploy portals and browser-based applications with customizable out-of-the-box user interface components. It serves mobile carriers, media and entertainment companies, financial services companies, and online businesses. The company was founded in 2000 and is headquartered in Guildford, the United Kingdom with additional offices in Washington; Wanchai, Hong Kong; Krakow, Poland; and Pune, India.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0009/2428/92428v1-max-150x150.png"],
+     [[166,
+       39],
+      "assets/images/resized/0009/2428/92428v1-max-250x250.png"],
+     [[166,
+       39],
+      "assets/images/resized/0009/2428/92428v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder and CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Watson",
+      "permalink": "mark-watson",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Gareth",
+      "last_name": "Anderson",
+      "permalink": "gareth-anderson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Netbiscuits",
+      "permalink": "netbiscuits",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0004/3392/43392v4-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0004/3392/43392v4-max-250x250.png"],
+          [[348,
+            91],
+           "assets/images/resized/0004/3392/43392v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$7.5M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.volantis.com/volantis-closes-75-million-funding-to-accelerate-growth",
+    "source_description": "Volantis Closes $7.5 Million Funding to Accelerate Growth ",
+    "raised_amount": 7500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 9,
+    "funded_day": 13,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Accel Partners",
+         "permalink": "accel-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               54],
+              "assets/images/resized/0001/0604/10604v3-max-150x150.jpg"],
+             [[250,
+               90],
+              "assets/images/resized/0001/0604/10604v3-max-250x250.jpg"],
+             [[450,
+               162],
+              "assets/images/resized/0001/0604/10604v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Kennet Partners",
+         "permalink": "kennet-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               50],
+              "assets/images/resized/0002/1973/21973v4-max-150x150.png"],
+             [[180,
+               60],
+              "assets/images/resized/0002/1973/21973v4-max-250x250.png"],
+             [[180,
+               60],
+              "assets/images/resized/0002/1973/21973v4-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/02/07/antenna-acquires-mobile-internet-software-company-volantis/",
+   "source_description": "Antenna Acquires Mobile Internet Software Company Volantis",
+   "acquired_year": 2011,
+   "acquired_month": 2,
+   "acquired_day": 7,
+   "acquiring_company":
+    {"name": "Antenna Software",
+     "permalink": "antenna-software",
+     "image":
+      {"available_sizes":
+        [[[150,
+           43],
+          "assets/images/resized/0005/0996/50996v7-max-150x150.jpg"],
+         [[250,
+           71],
+          "assets/images/resized/0005/0996/50996v7-max-250x250.jpg"],
+         [[450,
+           129],
+          "assets/images/resized/0005/0996/50996v7-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1 Chancellor Court",
+    "address2": "Occam Road, Surrey Research Park",
+    "zip_code": "GU2 7YT",
+    "city": "Guildford, Surrey",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

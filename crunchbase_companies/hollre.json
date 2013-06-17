@@ -1,0 +1,99 @@
+{"name": "Hollre",
+ "permalink": "hollre",
+ "crunchbase_url": "http://www.crunchbase.com/company/hollre",
+ "homepage_url": "http://www.hollre.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, events, real-time, location, mobile",
+ "alias_list": null,
+ "email_address": "contact@hollre.com",
+ "phone_number": "(973) 960-8144",
+ "description": "Live events",
+ "created_at": "Tue Sep 13 19:51:34 UTC 2011",
+ "updated_at": "Sun Oct 30 22:41:47 UTC 2011",
+ "overview": "\u003Cp\u003EHollre is a social event gathering service that helps people discover local events in real-time, whether it be college parties, casual get-togethers, concerts, sporting events, lectures, or anything else. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0015/4019/154019v7-max-150x150.png"],
+     [[250,
+       105],
+      "assets/images/resized/0015/4019/154019v7-max-250x250.png"],
+     [[300,
+       126],
+      "assets/images/resized/0015/4019/154019v7-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Yasha",
+      "last_name": "Iravantchi",
+      "permalink": "yasha-iravantchi",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Neff",
+      "permalink": "ryan-neff",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Holler",
+      "permalink": "holler",
+      "image":
+       {"available_sizes":
+         [[[150,
+            80],
+           "assets/images/resized/0013/8087/138087v2-max-150x150.png"],
+          [[250,
+            133],
+           "assets/images/resized/0013/8087/138087v2-max-250x250.png"],
+          [[400,
+            214],
+           "assets/images/resized/0013/8087/138087v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Hollre",
+    "address1": "67 Mt. Auburn St.",
+    "address2": "",
+    "zip_code": "02138",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.seas.harvard.edu/news-events/press-releases/innovation-challenge-2011/?searchterm=hollre",
+    "title": "Winner of the Harvard College Innovation Challenge"}]}

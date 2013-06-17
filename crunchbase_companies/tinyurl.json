@@ -1,0 +1,201 @@
+{"name": "TinyURL",
+ "permalink": "tinyurl",
+ "crunchbase_url": "http://www.crunchbase.com/company/tinyurl",
+ "homepage_url": "http://tinyurl.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "TinyURL",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2002,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "url, tinyurl, uniform-resource-locator",
+ "alias_list": "",
+ "email_address": "email@tinyurl.com",
+ "phone_number": "",
+ "description": "mobile",
+ "created_at": "Wed May 21 22:26:48 UTC 2008",
+ "updated_at": "Thu Mar 14 13:50:07 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://tinyurl.com/\" title=\"TinyURL\" rel=\"nofollow\"\u003ETinyURL\u003C/a\u003E was created as a free service to make posting long URLs easier.\u003C/p\u003E\n\n\u003Cp\u003ETinyURL is a URL shortening service, a web service that provides short aliases for redirection of long URLs. Kevin Gilbertson, a web developer, launched the service in January 2002 so that he would be able to link directly to newsgroup postings that frequently had long and cumbersome addresses.\u003C/p\u003E\n\n\u003Cp\u003E\u003Ca href=\"http://www.crunchbase.com/company/twitter\" title=\"Twitter\"\u003ETwitter\u003C/a\u003E used TinyURL as its default URL shortener until early May of 2009.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0001/9075/19075v1-max-150x150.png"],
+     [[250,
+       38],
+      "assets/images/resized/0001/9075/19075v1-max-250x250.png"],
+     [[401,
+       62],
+      "assets/images/resized/0001/9075/19075v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "TinyURL",
+    "permalink": "tinyurl",
+    "image": null},
+   {"name": "TinyTwo",
+    "permalink": "tinytwo",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Gilbertson",
+      "permalink": "kevin-gilbertson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "snurl",
+      "permalink": "snurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0005/2330/52330v2-max-150x150.png"],
+          [[176,
+            45],
+           "assets/images/resized/0005/2330/52330v2-max-250x250.png"],
+          [[176,
+            45],
+           "assets/images/resized/0005/2330/52330v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SnipURL",
+      "permalink": "snipurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/9077/19077v1-max-150x150.png"],
+          [[176,
+            45],
+           "assets/images/resized/0001/9077/19077v1-max-250x250.png"],
+          [[176,
+            45],
+           "assets/images/resized/0001/9077/19077v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "bitly",
+      "permalink": "bitly-2",
+      "image":
+       {"available_sizes":
+         [[[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-150x150.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-250x250.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "urlBorg",
+      "permalink": "urlborg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0001/9295/19295v2-max-150x150.png"],
+          [[191,
+            59],
+           "assets/images/resized/0001/9295/19295v2-max-250x250.png"],
+          [[191,
+            59],
+           "assets/images/resized/0001/9295/19295v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Buk.me",
+      "permalink": "buk-me",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/5394/25394v1-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0002/5394/25394v1-max-250x250.jpg"],
+          [[286,
+            59],
+           "assets/images/resized/0002/5394/25394v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "cligs",
+      "permalink": "cligs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0002/6361/26361v3-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0002/6361/26361v3-max-250x250.jpg"],
+          [[280,
+            60],
+           "assets/images/resized/0002/6361/26361v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cli.gs",
+      "permalink": "cli-gs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0005/6905/56905v1-max-150x150.png"],
+          [[170,
+            81],
+           "assets/images/resized/0005/6905/56905v1-max-250x250.png"],
+          [[170,
+            81],
+           "assets/images/resized/0005/6905/56905v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Din.gy",
+      "permalink": "din-gy",
+      "image":
+       {"available_sizes":
+         [[[124,
+            32],
+           "assets/images/resized/0009/6194/96194v2-max-150x150.jpg"],
+          [[124,
+            32],
+           "assets/images/resized/0009/6194/96194v2-max-250x250.jpg"],
+          [[124,
+            32],
+           "assets/images/resized/0009/6194/96194v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "Arunjadeja.Com",
+    "zip_code": "55014",
+    "city": "Naliya",
+    "state_code": "NM",
+    "country_code": "IND",
+    "latitude": 45.174955,
+    "longitude": -93.127792}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

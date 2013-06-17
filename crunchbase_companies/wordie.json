@@ -1,0 +1,101 @@
+{"name": "Wordie",
+ "permalink": "wordie",
+ "crunchbase_url": "http://www.crunchbase.com/company/wordie",
+ "homepage_url": "http://wordie.org",
+ "blog_url": "http://errata.wordie.org",
+ "blog_feed_url": "http://errata.wordie.org/rss.xml",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "words, language, dictionary, social-network, tags",
+ "alias_list": null,
+ "email_address": "john@wordie.org",
+ "phone_number": "207 332 8709",
+ "description": null,
+ "created_at": "Sun Apr 27 05:25:14 UTC 2008",
+ "updated_at": "Wed Jun 10 18:02:28 UTC 2009",
+ "overview": "\u003Cp\u003EWordie is a social network and collaborative dictionary for people who love words and language.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0001/7712/17712v1-max-150x150.png"],
+     [[250,
+       46],
+      "assets/images/resized/0001/7712/17712v1-max-250x250.png"],
+     [[347,
+       64],
+      "assets/images/resized/0001/7712/17712v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "McGrath",
+      "permalink": "john-mcgrath",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Lingro",
+      "permalink": "lingro",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/0228/20228v1-max-150x150.png"],
+          [[250,
+            86],
+           "assets/images/resized/0002/0228/20228v1-max-250x250.png"],
+          [[260,
+            90],
+           "assets/images/resized/0002/0228/20228v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "141 Hill St. #4",
+    "address2": "",
+    "zip_code": "08904",
+    "city": "Highland Park",
+    "state_code": "NJ",
+    "country_code": "USA",
+    "latitude": 40.493685,
+    "longitude": -74.42896}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/7883/47883v1-max-150x150.png"],
+      [[250,
+        157],
+       "assets/images/resized/0004/7883/47883v1-max-250x250.png"],
+      [[450,
+        283],
+       "assets/images/resized/0004/7883/47883v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

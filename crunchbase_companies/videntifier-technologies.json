@@ -1,0 +1,130 @@
+{"name": "Videntifier Technologies",
+ "permalink": "videntifier-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/videntifier-technologies",
+ "homepage_url": "http://www.videntifier.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "big-data, video-recognition, visual-search, image-recognition, database-technology, digital-media",
+ "alias_list": null,
+ "email_address": "info@videntifier.com",
+ "phone_number": "+3544454544",
+ "description": "Large-scale video identification systems",
+ "created_at": "Thu Sep 27 14:36:32 UTC 2012",
+ "updated_at": "Wed Dec 12 06:54:50 UTC 2012",
+ "overview": "\u003Cp\u003EVidentifier Technologies provides a large-scale, automatic video and image identification solution. \u003C/p\u003E\n\n\u003Cp\u003EA revolutionary visual memory engine remembers hundreds of thousands of hours of video, and identifies even strongly modified copies hundreds times faster than real time.\u003C/p\u003E\n\n\u003Cp\u003ECurrently, it is providing a service for police departments engaged in locating illegal images and videos on seized computers. However, the company has a strong ambition to expand its product portfolio for the multimedia and advertisement industries.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0021/3329/213329v2-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0021/3329/213329v2-max-250x250.png"],
+     [[450,
+       113],
+      "assets/images/resized/0021/3329/213329v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Herwig",
+      "last_name": "Lejsek",
+      "permalink": "herwig-lejsek",
+      "image": null}},
+   {"is_past": false,
+    "title": "CCO",
+    "person":
+     {"first_name": "Kristleifur",
+      "last_name": "Da\u00f0ason",
+      "permalink": "kristleifur-daason",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Fri\u00f0rik",
+      "last_name": "\u00c1smundsson",
+      "permalink": "fririk-smundsson",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Marek",
+      "last_name": "Talarczyk",
+      "permalink": "marek-talarczyk",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "YouTube",
+      "permalink": "youtube",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/0724/10724v372-max-150x150.png"],
+          [[250,
+            91],
+           "assets/images/resized/0001/0724/10724v372-max-250x250.png"],
+          [[250,
+            91],
+           "assets/images/resized/0001/0724/10724v372-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vobile",
+      "permalink": "vobile",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/9565/39565v3-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0003/9565/39565v3-max-250x250.png"],
+          [[310,
+            85],
+           "assets/images/resized/0003/9565/39565v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Reykjavik Office",
+    "address1": "Kjarrvegur 2",
+    "address2": "",
+    "zip_code": "108",
+    "city": "Reykjavik",
+    "state_code": null,
+    "country_code": "ISL",
+    "latitude": 64.1203053,
+    "longitude": -21.8892303}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.videntifier.com",
+    "title": "Homepage"},
+   {"external_url": "http://www.videntifier.com/technology",
+    "title": "Technology"}]}

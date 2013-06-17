@@ -1,0 +1,124 @@
+{"name": "CTdeveloping",
+ "permalink": "ctdeveloping",
+ "crunchbase_url": "http://www.crunchbase.com/company/ctdeveloping",
+ "homepage_url": "http://www.ctdeveloping.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2002,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "pdf, pdf-editor, software, web, pdf-form, adobe, acrobat, windows",
+ "alias_list": null,
+ "email_address": "sales@ctdeveloping.com",
+ "phone_number": "800.471.1131",
+ "description": "",
+ "created_at": "Tue Aug 12 05:04:50 UTC 2008",
+ "updated_at": "Thu Oct 28 15:26:21 UTC 2010",
+ "overview": "\u003Cp\u003ECTdeveloping, LLC is a California based company specializing in PDF software.\u003C/p\u003E\n\n\u003Cp\u003EEstablished in 2002, CTdeveloping has grown to have had more than a quarter million installations globally. CTdeveloping continues to grow to this day expanding further into the small business and enterprise realms.\u003C/p\u003E\n\n\u003Cp\u003ECTdeveloping entered the marketplace with its flagship product, PDFtypewriter. Originally, this product targeted exclusively those wishing to fill in PDF forms which were not equipped with fillable form fields. Since then, PDFtypewriter has grown to a fully functioning PDF suite used in the business place to achieve multitudes of tasks with PDF files.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0002/3630/23630v2-max-150x150.jpg"],
+     [[250,
+       40],
+      "assets/images/resized/0002/3630/23630v2-max-250x250.jpg"],
+     [[300,
+       49],
+      "assets/images/resized/0002/3630/23630v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "PDFtypewriter",
+    "permalink": "pdftypewriter",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Truxaw",
+      "permalink": "chris-truxaw",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Adobe Systems",
+      "permalink": "adobe-systems",
+      "image":
+       {"available_sizes":
+         [[[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-150x150.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-250x250.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nuance Communications",
+      "permalink": "nuance",
+      "image":
+       {"available_sizes":
+         [[[90,
+            64],
+           "assets/images/resized/0002/2168/22168v1-max-150x150.png"],
+          [[90,
+            64],
+           "assets/images/resized/0002/2168/22168v1-max-250x250.png"],
+          [[90,
+            64],
+           "assets/images/resized/0002/2168/22168v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nitro",
+      "permalink": "nitropdf",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/5143/25143v5-max-150x150.png"],
+          [[250,
+            100],
+           "assets/images/resized/0002/5143/25143v5-max-250x250.png"],
+          [[450,
+            181],
+           "assets/images/resized/0002/5143/25143v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "92024",
+    "city": "Encinitas",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.052083,
+    "longitude": -117.2793685}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pdfescape.com",
+    "title": "PDFescape, CTdevelopings Online PDF Editor"}]}

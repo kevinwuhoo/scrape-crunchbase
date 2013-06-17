@@ -1,0 +1,112 @@
+{"name": "Plumbr",
+ "permalink": "plumbr",
+ "crunchbase_url": "http://www.crunchbase.com/company/plumbr",
+ "homepage_url": "http://plumbr.eu",
+ "blog_url": "http://plumbr.eu/blog",
+ "blog_feed_url": "http://plumbr.eu/blog.rss",
+ "twitter_username": "javaplumbr",
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise-software-performance-tools",
+ "alias_list": null,
+ "email_address": "support@plumbr.eu",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Jul 31 20:43:07 UTC 2012",
+ "updated_at": "Wed May 01 02:34:18 UTC 2013",
+ "overview": "\u003Cp\u003EPlumbr makes Java applications faster and more reliable.\u003C/p\u003E\n\n\u003Cp\u003EIt builds on world class algorithms to effectively discover different memory leaks in Java applications. It analyzes the leaks and reports detailed resolution instructions. Fixing the leaks with Plumbr is a matter of minutes - as opposed to hours or days of troubleshooting with other tools.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0020/3796/203796v2-max-150x150.png"],
+     [[196,
+       48],
+      "assets/images/resized/0020/3796/203796v2-max-250x250.png"],
+     [[196,
+       48],
+      "assets/images/resized/0020/3796/203796v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Lead developer, Co-founder",
+    "person":
+     {"first_name": "Nikita",
+      "last_name": "Salnikov-Tarnovski",
+      "permalink": "nikita-salnikov-tarnovski",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO, Co-founder",
+    "person":
+     {"first_name": "Priit",
+      "last_name": "Potter",
+      "permalink": "priit-potter",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO, Co-founder",
+    "person":
+     {"first_name": "Vladimir",
+      "last_name": "\u0160or",
+      "permalink": "vladimir-or",
+      "image": null}},
+   {"is_past": false,
+    "title": "Marketroid, Co-founder",
+    "person":
+     {"first_name": "Ivo",
+      "last_name": "M\u00e4gi",
+      "permalink": "ivo-mgi",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        85],
+       "assets/images/resized/0020/3794/203794v2-max-150x150.png"],
+      [[250,
+        142],
+       "assets/images/resized/0020/3794/203794v2-max-250x250.png"],
+      [[450,
+        257],
+       "assets/images/resized/0020/3794/203794v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[130,
+        150],
+       "assets/images/resized/0020/3795/203795v2-max-150x150.png"],
+      [[217,
+        250],
+       "assets/images/resized/0020/3795/203795v2-max-250x250.png"],
+      [[391,
+        450],
+       "assets/images/resized/0020/3795/203795v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.arcticstartup.com/2012/06/14/estonian-plumbr-releases-a-tool-to-fight-java-memory-leaks",
+    "title": "Plumbr Releases A Tool To Fight Java Memory Leaks"}]}

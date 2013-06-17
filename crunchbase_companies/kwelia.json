@@ -1,0 +1,162 @@
+{"name": "Kwelia",
+ "permalink": "kwelia",
+ "crunchbase_url": "http://www.crunchbase.com/company/kwelia",
+ "homepage_url": "http://www.kwelia.com/",
+ "blog_url": "http://kwelia.tumblr.com/",
+ "blog_feed_url": "http://kwelia.tumblr.com/rss",
+ "twitter_username": "kwelia",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@kwelia.com",
+ "phone_number": "3303288796",
+ "description": "Next generation rental analytics",
+ "created_at": "Mon Dec 05 16:19:10 UTC 2011",
+ "updated_at": "Sat Feb 04 19:56:04 UTC 2012",
+ "overview": "\u003Cp\u003EKwelia is an innovative real estate data and intelligence platform with a focus on residential rentals in urban markets. Our products provide real-time pricing and forecasts so that rental transaction parties can maximize profitability.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       107],
+      "assets/images/resized/0016/5219/165219v2-max-150x150.jpg"],
+     [[250,
+       179],
+      "assets/images/resized/0016/5219/165219v2-max-250x250.jpg"],
+     [[450,
+       323],
+      "assets/images/resized/0016/5219/165219v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Njoku",
+      "permalink": "john-njoku",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Connell",
+      "permalink": "chris-connell",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Phillips",
+      "permalink": "greg-phillips",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/2839/222839v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0022/2839/222839v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0022/2839/222839v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "The Rainmaker Group",
+      "permalink": "the-rainmaker-group",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0015/4067/154067v1-max-150x150.png"],
+          [[180,
+            81],
+           "assets/images/resized/0015/4067/154067v1-max-250x250.png"],
+          [[180,
+            81],
+           "assets/images/resized/0015/4067/154067v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RealPage",
+      "permalink": "realpage",
+      "image":
+       {"available_sizes":
+         [[[126,
+            29],
+           "assets/images/resized/0005/6326/56326v1-max-150x150.png"],
+          [[126,
+            29],
+           "assets/images/resized/0005/6326/56326v1-max-250x250.png"],
+          [[126,
+            29],
+           "assets/images/resized/0005/6326/56326v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2011/09/08/dreamit-ventures-launches-its-fall-2011-philadelphia-class/",
+    "source_description": "DreamIt Ventures Launches Its Fall 2011 Philadelphia Class",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 9,
+    "funded_day": 8,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "DreamIt Ventures",
+         "permalink": "dreamit-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               57],
+              "assets/images/resized/0002/7773/27773v5-max-150x150.jpg"],
+             [[250,
+               96],
+              "assets/images/resized/0002/7773/27773v5-max-250x250.jpg"],
+             [[251,
+               97],
+              "assets/images/resized/0002/7773/27773v5-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "Comcast MEAP",
+         "permalink": "comcast-meap",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Philadelphia",
+    "address1": "",
+    "address2": "",
+    "zip_code": "19104",
+    "city": "Philadelphia",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,175 @@
+{"name": "Avidian Technologies",
+ "permalink": "avidian-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/avidian-technologies",
+ "homepage_url": "http://www.avidian.com/",
+ "blog_url": "http://avidian.blogspot.in/",
+ "blog_feed_url": "",
+ "twitter_username": "crm_provider",
+ "category_code": "software",
+ "number_of_employees": 30,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "crm, contact-management, sales-software, sales-tools, software, outlook, customer-relationship-management",
+ "alias_list": "",
+ "email_address": "info@avidian.com",
+ "phone_number": "1-800-399-8980",
+ "description": "Makers of Prophet CRM",
+ "created_at": "Tue Jul 22 13:50:13 UTC 2008",
+ "updated_at": "Sat Jun 01 14:11:18 UTC 2013",
+ "overview": "\u003Cp\u003EAvidian Technologies makes Prophet, customer relationship management (CRM) software built into Microsoft Outlook. Over 15,000 companies worldwide currently use Prophet. This number is growing every day. Avidian proudly offers three versions: Prophet 6 OnPremise, Prophet OnDemand hosted service, and Prophet Mobile. Prophet distinguishes itself from competing CRMs in three key ways:\u003C/p\u003E\n\n\u003Cp\u003E1.Built into Outlook: Prophet is built directly into Outlook. This means that users don\u2019t need to constantly flip between two applications or manage multiple contact databases. Prophet integrates so seamlessly with Outlook that it feels like the email application simply gained additional smart features and functionality. As a result, employees don\u2019t need to spend time navigating an entirely different application.\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003E\u003Cp\u003EBuilt within the .Net platform: Providing Prophet on the .NET platform means that it integrates with Outlook at the object level. This also allows easy extension into other parts of a business. In addition, users can easily share Prophet and Outlook information with other applications.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EBuilt to leverage Outlook data: Prophet turns existing Outlook data into the building blocks of effective sales management solutions. Every e-mail sent, appointment made, or task created can be viewed, tracked and connected to opportunities. This increases strategic data organization and makes finding critical pieces of opportunity information easy.\u003C/p\u003E\u003C/li\u003E\n\u003C/ol\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0002/2478/22478v7-max-150x150.png"],
+     [[250,
+       75],
+      "assets/images/resized/0002/2478/22478v7-max-250x250.png"],
+     [[450,
+       135],
+      "assets/images/resized/0002/2478/22478v7-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder and CEO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Wong",
+      "permalink": "james-wong",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder and CIO",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Nguyen",
+      "permalink": "tim-nguyen",
+      "image": null}},
+   {"is_past": true,
+    "title": "CFO",
+    "person":
+     {"first_name": "Barbara",
+      "last_name": "Huang",
+      "permalink": "barbara-huang",
+      "image": null}},
+   {"is_past": true,
+    "title": "VP of Sales",
+    "person":
+     {"first_name": "Warren",
+      "last_name": "Stokes",
+      "permalink": "warren-stokes",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chief Digital Strategist",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Fasser",
+      "permalink": "scott-fasser-2",
+      "image":
+       {"available_sizes":
+         [[[102,
+            150],
+           "assets/images/resized/0015/9164/159164v2-max-150x150.jpg"],
+          [[170,
+            250],
+           "assets/images/resized/0015/9164/159164v2-max-250x250.jpg"],
+          [[306,
+            450],
+           "assets/images/resized/0015/9164/159164v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Escott fasser\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ACT",
+      "permalink": "act",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0002/1788/21788v1-max-150x150.png"],
+          [[250,
+            89],
+           "assets/images/resized/0002/1788/21788v1-max-250x250.png"],
+          [[306,
+            109],
+           "assets/images/resized/0002/1788/21788v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Siebel Systems",
+      "permalink": "siebel",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/7824/17824v1-max-150x150.png"],
+          [[200,
+            60],
+           "assets/images/resized/0001/7824/17824v1-max-250x250.png"],
+          [[200,
+            60],
+           "assets/images/resized/0001/7824/17824v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SugarCRM",
+      "permalink": "sugarcrm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            16],
+           "assets/images/resized/0000/3001/3001v5-max-150x150.png"],
+          [[250,
+            28],
+           "assets/images/resized/0000/3001/3001v5-max-250x250.png"],
+          [[450,
+            50],
+           "assets/images/resized/0000/3001/3001v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "2053 152nd Ave NE",
+    "address2": "",
+    "zip_code": "98052",
+    "city": "Redmond",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.628895,
+    "longitude": -122.138507}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

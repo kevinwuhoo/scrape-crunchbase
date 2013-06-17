@@ -1,0 +1,93 @@
+{"name": "kCura",
+ "permalink": "kcura",
+ "crunchbase_url": "http://www.crunchbase.com/company/kcura",
+ "homepage_url": "http://www.kcura.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "kcuracorp",
+ "category_code": "software",
+ "number_of_employees": 270,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "electronic-discovery, e-discovery, litigation-support, legal-technology",
+ "alias_list": null,
+ "email_address": "sales@kcura.com",
+ "phone_number": "312-263-1177",
+ "description": "e-Discovery Software",
+ "created_at": "Thu Jun 16 17:35:14 UTC 2011",
+ "updated_at": "Sun May 05 00:26:33 UTC 2013",
+ "overview": "\u003Cp\u003EkCura are the developers of the e-discovery software Relativity, a web-based platform servicing the review, analysis, and production of electronic documents during litigation.\u003C/p\u003E\n\n\u003Cp\u003EThere are nearly 40,000 active users in Relativity. With a focus on flexibility, scalability, and ease of use, Relativity allows customers and third-party software providers to build applications on top of it to solve problems outside of e-discovery review, analysis, and production.\u003C/p\u003E\n\n\u003Cp\u003ERelativity also powers kCura\u0026#8217;s legal hold management solution, Method, which is a workflow and notification system designed to manage legal hold and risk assessment processes.\u003C/p\u003E\n\n\u003Cp\u003EkCura helps corporations, law firms, and government agencies with e-discovery challenges by installing Relativity and Method on-premises, as well as providing hosted, on-demand solutions through a global network of partners in Asia, Australia, Europe, and North America.\u003C/p\u003E\n\n\u003Cp\u003EkCura began as a small consulting firm and, through a consulting engagement with a large law firm, started building e-discovery software. The company moved away from its consulting practice, intrigued by the demanding technical challenges that e-discovery software had to overcome: the rapid movement of millions of small files, and the need for fast enterprise-grade databases that could adeptly handle the updating of records, reporting, importing data, and exporting data simultaneously.\u003C/p\u003E\n\n\u003Cp\u003EThe company remains privately owned and collocated in the Chicago Loop.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0013/9554/139554v2-max-150x150.png"],
+     [[250,
+       70],
+      "assets/images/resized/0013/9554/139554v2-max-250x250.png"],
+     [[250,
+       70],
+      "assets/images/resized/0013/9554/139554v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Sieja",
+      "permalink": "andrew-sieja",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Robertson",
+      "permalink": "steve-robertson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "175 West Jackson Blvd.",
+    "address2": "Suite 1000",
+    "zip_code": "60604",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://kcura.com/corporate/careers/kcura-culture",
+    "title": "kCura Culture"},
+   {"external_url": "http://kcura.com/corporate/careers",
+    "title": "Careers at kCura"},
+   {"external_url": "http://www.suntimes.com/technology/guy/5075197-417/local-companies-offer-incentives-to-attract-technology-talent.html",
+    "title": "Sun-Times Article on kCura"},
+   {"external_url": "http://blogs.wsj.com/in-charge/2011/04/04/hiring-activity-picks-up/",
+    "title": "WSJ Article on kCura"},
+   {"external_url": "http://kcura.com/relativity/gartner-2011-magic-quadrant-for-e-discovery",
+    "title": "Gartner 2011 Magic Quadrant for E-Discovery"}]}

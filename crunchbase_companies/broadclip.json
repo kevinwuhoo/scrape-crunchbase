@@ -1,0 +1,103 @@
+{"name": "BroadClip",
+ "permalink": "broadclip",
+ "crunchbase_url": "http://www.crunchbase.com/company/broadclip",
+ "homepage_url": "http://broadclip.com",
+ "blog_url": "http://broadclip.blogspot.com",
+ "blog_feed_url": "http://broadclip.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 8,
+ "founded_year": 2006,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "digitaldistribution, internetradio",
+ "alias_list": null,
+ "email_address": "joemonty@broadclip.com",
+ "phone_number": "925-577-9343",
+ "description": null,
+ "created_at": "Sat Sep 08 06:42:13 UTC 2007",
+ "updated_at": "Thu Dec 01 07:34:58 UTC 2011",
+ "overview": "\u003Cp\u003EBroadClip delivers a distributed software architecture for recording media and delivering it to portable media devices. BroadClip\u0026#8217;s 1st product, MediaCatcher for \u003Ca href=\"http://crunchbase.com/company/facebook\" title=\"Facebook\"\u003EFacebook\u003C/a\u003E allows users to easily program internet radio recording while sharing musical interests with their Facebook friends. The company has created a unique search architecture called MobSearch that allows searches to be shared by millions of users virtually instantly. The company has created a targeted audio ad insertion process, allowing advertisers to reach very specific market demographics. It has also developed a business model that profitably compensates beleaguered Webcasters, offering them a viable and repeating revenue source in targeted advertising.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0000/0589/589v1-max-150x150.jpg"],
+     [[250,
+       92],
+      "assets/images/resized/0000/0589/589v1-max-250x250.jpg"],
+     [[300,
+       111],
+      "assets/images/resized/0000/0589/589v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "MediaCatcher for Facebook",
+    "permalink": "mediacatcher-for-facebook",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sam",
+      "last_name": "Abadir",
+      "permalink": "sam-abadir",
+      "image": null}},
+   {"is_past": null,
+    "title": "VP of Business Development",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "Monastiero",
+      "permalink": "joe-monastiero",
+      "image": null}},
+   {"is_past": null,
+    "title": "VP of Marketing",
+    "person":
+     {"first_name": "Roy",
+      "last_name": "Smith",
+      "permalink": "roy-smith",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.89M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1389557/000138955710000001/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC D",
+    "raised_amount": 2885000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 2,
+    "funded_day": 4,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "81 Tourmaline Ave",
+    "address2": null,
+    "zip_code": "94550",
+    "city": "Livermore",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.661237,
+    "longitude": -121.803572}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject type=\"application/x-shockwave-flash\" data=\"http://techcrunch40.blip.tv/scripts/flash/showplayer.swf?enablejs=true\u0026feedurl=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Frss\u0026file=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Frss%2Fflash%2F410753\u0026showplayerpath=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf\" width=\"400\" height=\"255\" allowfullscreen=\"true\" id=\"showplayer\"\u003E\u003Cparam name=\"movie\" value=\"http://techcrunch40.blip.tv/scripts/flash/showplayer.swf?enablejs=true\u0026feedurl=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Frss\u0026file=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Frss%2Fflash%2F410753\u0026showplayerpath=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf\" /\u003E\u003Cparam name=\"quality\" value=\"best\" /\u003E\u003Cembed src=\"http://techcrunch40.blip.tv/scripts/flash/showplayer.swf?enablejs=true\u0026feedurl=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Frss\u0026file=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Frss%2Fflash%2F410753\u0026showplayerpath=http%3A%2F%2Ftechcrunch40%2Eblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf\" quality=\"best\" width=\"400\" height=\"255\" name=\"showplayer\" type=\"application/x-shockwave-flash\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EBroadClip\u0026#8217;s presentation at TC40 2007.\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

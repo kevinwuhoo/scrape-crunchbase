@@ -1,0 +1,122 @@
+{"name": "GetKarded",
+ "permalink": "getkarded",
+ "crunchbase_url": "http://www.crunchbase.com/company/getkarded",
+ "homepage_url": "http://www.getkarded.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "getkarded",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gift-cards, mobile-wallet, wallet",
+ "alias_list": null,
+ "email_address": "hi@getkarded.com",
+ "phone_number": "(408) 705-3663",
+ "description": "Mobile gift card wallet",
+ "created_at": "Thu Dec 29 21:32:57 UTC 2011",
+ "updated_at": "Sat Sep 15 04:45:41 UTC 2012",
+ "overview": "\u003Cp\u003EGetKarded is a mobile gift card wallet that allows you to access and use your gift cards any time, anywhere.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0021/0769/210769v3-max-150x150.png"],
+     [[250,
+       64],
+      "assets/images/resized/0021/0769/210769v3-max-250x250.png"],
+     [[352,
+       91],
+      "assets/images/resized/0021/0769/210769v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Londre",
+      "permalink": "matt-londre",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Plastic Jungle",
+      "permalink": "plastic-jungle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0004/5101/45101v2-max-150x150.png"],
+          [[176,
+            73],
+           "assets/images/resized/0004/5101/45101v2-max-250x250.png"],
+          [[176,
+            73],
+           "assets/images/resized/0004/5101/45101v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cardpool",
+      "permalink": "cardpool",
+      "image":
+       {"available_sizes":
+         [[[146,
+            48],
+           "assets/images/resized/0015/9737/159737v1-max-150x150.png"],
+          [[146,
+            48],
+           "assets/images/resized/0015/9737/159737v1-max-250x250.png"],
+          [[146,
+            48],
+           "assets/images/resized/0015/9737/159737v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Cooley LLP",
+      "permalink": "cooley-godward-kronish-llp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0009/4482/94482v2-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0009/4482/94482v2-max-250x250.jpg"],
+          [[429,
+            155],
+           "assets/images/resized/0009/4482/94482v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,126 @@
+{"name": "SPODIA",
+ "permalink": "spodia",
+ "crunchbase_url": "http://www.crunchbase.com/company/spodia",
+ "homepage_url": "http://spodia.co.jp",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 11,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "pr@spodia.co.jp",
+ "phone_number": "",
+ "description": "League of games , video",
+ "created_at": "Sun Dec 30 11:05:20 UTC 2012",
+ "updated_at": "Fri Jan 04 06:16:05 UTC 2013",
+ "overview": "\u003Cp\u003ESPODIA was founded in 2012 by Keisuke Shimizu,Yuuki Satou and Yuuki Nakamura.Our product is \u0026#8220;GAMERS LEAGUE\u0026#8221; which is league of games. I have held a variety of online game competitions. Our mission is \u0026#8220;Everything for gamer\u0026#8221;.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0022/7381/227381v2-max-150x150.png"],
+     [[250,
+       45],
+      "assets/images/resized/0022/7381/227381v2-max-250x250.png"],
+     [[450,
+       81],
+      "assets/images/resized/0022/7381/227381v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "GAMERS LEAGUE",
+    "permalink": "gamers-league",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO,founder",
+    "person":
+     {"first_name": "Keisuke",
+      "last_name": "Shimizu",
+      "permalink": "keisuke-shimizu",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Yuuki",
+      "last_name": "Satou",
+      "permalink": "yuuki-satou",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Yuuki",
+      "last_name": "Nakamura",
+      "permalink": "yuuki-nakamura",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "NHN Japan",
+      "permalink": "nhn-japan",
+      "image": null}},
+   {"competitor":
+     {"name": "Nexon",
+      "permalink": "nexon",
+      "image":
+       {"available_sizes":
+         [[[137,
+            45],
+           "assets/images/resized/0010/5861/105861v1-max-150x150.jpg"],
+          [[137,
+            45],
+           "assets/images/resized/0010/5861/105861v1-max-250x250.jpg"],
+          [[137,
+            45],
+           "assets/images/resized/0010/5861/105861v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GameOn",
+      "permalink": "gameon",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "2-2-28",
+    "address1": "Higashishinagawa",
+    "address2": "Shinagawa",
+    "zip_code": "140-0002",
+    "city": "Tokyo",
+    "state_code": null,
+    "country_code": "JPN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0022/7380/227380v2-max-150x150.png"],
+      [[250,
+        125],
+       "assets/images/resized/0022/7380/227380v2-max-250x250.png"],
+      [[450,
+        226],
+       "assets/images/resized/0022/7380/227380v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://sf2gl.spodia.co.jp",
+    "title": "GAMERS LEAGUE"}]}

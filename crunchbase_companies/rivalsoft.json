@@ -1,0 +1,128 @@
+{"name": "RivalSoft",
+ "permalink": "rivalsoft",
+ "crunchbase_url": "http://www.crunchbase.com/company/rivalsoft",
+ "homepage_url": "http://www.rivalmap.com/",
+ "blog_url": "http://blog.rivalmap.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/rivalmap",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "competitors, b2b, saas, collaboration",
+ "alias_list": "",
+ "email_address": "info@rivalsoftinc.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Dec 21 07:49:43 UTC 2007",
+ "updated_at": "Thu Apr 04 17:11:21 UTC 2013",
+ "overview": "\u003Cp\u003ERivalSoft is the creator of RivalMap (and Competitious, a proof-of-concept launched late in 2006), a Basecamp-like B2B service to help companies keep tabs on their competitors.  The service aggregates blog posts and web traffic data in order to provide the competitive information, and all of it is \u0026#8220;wikified\u0026#8221; to allow different members of a subscribing company to update the data and provide their own interpretations.\u003C/p\u003E\n\n\u003Cp\u003ERivalSoft has no direct competitors, though \u003Ca href=\"http://www.crunchbase.com/company/linkedin\" title=\"LinkedIn\"\u003ELinkedIn\u003C/a\u003E may have \u003Ca href=\"http://www.techcrunch.com/2007/12/09/linkedin-api-and-new-homepage-drawing-near/\" title=\"plans\"\u003Eplans\u003C/a\u003E for a similar service.  Other B2B SaaS startups include \u003Ca href=\"http://www.crunchbase.com/company/37signals\" title=\"37signals\"\u003E37signals\u003C/a\u003E, and Salesforce.com.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0000/2788/2788v1-max-150x150.png"],
+     [[189,
+       33],
+      "assets/images/resized/0000/2788/2788v1-max-250x250.png"],
+     [[189,
+       33],
+      "assets/images/resized/0000/2788/2788v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "RivalMap",
+    "permalink": "rivalmap",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Holt",
+      "permalink": "andrew-holt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            142],
+           "assets/images/resized/0026/5692/265692v1-max-150x150.png"],
+          [[201,
+            191],
+           "assets/images/resized/0026/5692/265692v1-max-250x250.png"],
+          [[201,
+            191],
+           "assets/images/resized/0026/5692/265692v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LinkedIn",
+      "permalink": "linkedin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-150x150.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-250x250.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Reach Machines",
+      "permalink": "reach-machines",
+      "image":
+       {"available_sizes":
+         [[[150,
+            13],
+           "assets/images/resized/0001/7099/17099v1-max-150x150.png"],
+          [[250,
+            22],
+           "assets/images/resized/0001/7099/17099v1-max-250x250.png"],
+          [[450,
+            40],
+           "assets/images/resized/0001/7099/17099v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 12,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "1600 Adams Drive",
+    "address2": "Suite 224",
+    "zip_code": "94025",
+    "city": "Menlo Park",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.478769,
+    "longitude": -122.140896}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

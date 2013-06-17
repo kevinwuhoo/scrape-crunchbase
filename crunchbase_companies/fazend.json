@@ -1,0 +1,91 @@
+{"name": "FaZend",
+ "permalink": "fazend",
+ "crunchbase_url": "http://www.crunchbase.com/company/fazend",
+ "homepage_url": "http://www.fazend.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "fazend",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "continuous-integration",
+ "alias_list": null,
+ "email_address": "help@fazend.com",
+ "phone_number": "(239) 935 5429",
+ "description": "free hosted CI platform",
+ "created_at": "Wed Dec 08 10:57:57 UTC 2010",
+ "updated_at": "Thu Dec 09 07:16:16 UTC 2010",
+ "overview": "\u003Cp\u003EFaZend.com is a unique in its kind free hosted continuous integration platform for web projects, mostly written in Java, Ruby, PHP, Pyton, and C++. FaZend.com provides full access to a private instance of Subversion repository, Trac environment, and Hudson.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[121,
+       50],
+      "assets/images/resized/0011/3348/113348v2-max-150x150.png"],
+     [[121,
+       50],
+      "assets/images/resized/0011/3348/113348v2-max-250x250.png"],
+     [[121,
+       50],
+      "assets/images/resized/0011/3348/113348v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CTO",
+    "person":
+     {"first_name": "Yegor",
+      "last_name": "Bugayenko",
+      "permalink": "yegor-bugayenko",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/1018/121018v4-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0012/1018/121018v4-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0012/1018/121018v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "mikeci.com",
+      "permalink": "mikeci-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "568 Ninth Street South, 202",
+    "address2": "",
+    "zip_code": "34102",
+    "city": "Naples",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

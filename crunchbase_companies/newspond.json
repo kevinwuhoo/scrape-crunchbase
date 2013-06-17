@@ -1,0 +1,145 @@
+{"name": "Newspond",
+ "permalink": "newspond",
+ "crunchbase_url": "http://www.crunchbase.com/company/newspond",
+ "homepage_url": "http://www.newspond.com",
+ "blog_url": "http://www.newspond.com/blog/",
+ "blog_feed_url": "http://www.newspond.com/blog/rss.xml",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "news",
+ "alias_list": "",
+ "email_address": "team@newspond.com",
+ "phone_number": "",
+ "description": "News Aggregator",
+ "created_at": "Wed Feb 20 01:42:07 UTC 2008",
+ "updated_at": "Thu Apr 02 09:48:26 UTC 2009",
+ "overview": "\u003Cp\u003ENewspond, which launched in February 2008, is an algorithm-based news aggregator.\u003C/p\u003E\n\n\u003Cp\u003EHeadlines are determined via a formula, which Newspond describes as \u0026#8220;Newspond notes every detail about it - from how fast a story spreads throughout the internet, to the amount of discussion surrounding the story, to even things like the rate at which people click on or bookmark the article and the size of each of the sites reporting it. Every detail is carefully noted, sized, and gauged, reading at a faster rate of speed than any human being could ever dream of.\u0026#8221;\u003C/p\u003E\n\n\u003Cp\u003EThe end result is a Digg-like news site, but users are not invited to vote on stories.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0001/3004/13004v1-max-150x150.png"],
+     [[250,
+       84],
+      "assets/images/resized/0001/3004/13004v1-max-250x250.png"],
+     [[258,
+       87],
+      "assets/images/resized/0001/3004/13004v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Newspond",
+    "permalink": "newspond",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "founder",
+    "person":
+     {"first_name": "Chan",
+      "last_name": "Karunamuni",
+      "permalink": "chan-karunamuni",
+      "image": null}},
+   {"is_past": null,
+    "title": "founder",
+    "person":
+     {"first_name": "Ian",
+      "last_name": "Reardon",
+      "permalink": "ian-reardon",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Techmeme",
+      "permalink": "techmeme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0000/3553/3553v1-max-150x150.jpg"],
+          [[250,
+            66],
+           "assets/images/resized/0000/3553/3553v1-max-250x250.jpg"],
+          [[281,
+            75],
+           "assets/images/resized/0000/3553/3553v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Newsvine",
+      "permalink": "newsvine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0000/3457/3457v1-max-150x150.jpg"],
+          [[194,
+            50],
+           "assets/images/resized/0000/3457/3457v1-max-250x250.jpg"],
+          [[194,
+            50],
+           "assets/images/resized/0000/3457/3457v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "nobosh",
+      "permalink": "nobosh",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0001/4592/14592v1-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0001/4592/14592v1-max-250x250.png"],
+          [[436,
+            87],
+           "assets/images/resized/0001/4592/14592v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "11411 33A Ave",
+    "address2": "",
+    "zip_code": "T6J3H2",
+    "city": "Edmonton, Alberta ",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 53.4665377,
+    "longitude": -113.5291728}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

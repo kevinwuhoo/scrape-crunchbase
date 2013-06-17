@@ -1,0 +1,80 @@
+{"name": "Cycleblob",
+ "permalink": "cycleblob",
+ "crunchbase_url": "http://www.crunchbase.com/company/cycleblob",
+ "homepage_url": "http://cycleblob.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cycleblob, webgl, java, tron, game, browser",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Browser Game Based on Tron",
+ "created_at": "Thu Apr 07 01:16:56 UTC 2011",
+ "updated_at": "Tue Mar 26 13:33:46 UTC 2013",
+ "overview": "\u003Cp\u003EThe concept of Cycleblob is based on the light cycles game from the 1982 movie \u0026#8220;TRON\u0026#8221;. In the original movie, light cycles competed against each other on a flat grid and could only make 90 degree turns while on the grid. Cycleblob takes this idea to the next level and makes the grid a three-dimentional object, floating in space.\u003C/p\u003E\n\n\u003Cp\u003ECycleblob is implemented using WebGL and HTML 5 canvas elements and is written completely in JavaScript. WebGL is a port of OpenGL ES 2.0 to JavaScript. \u003C/p\u003E\n\n\u003Cp\u003ECycleblob was created by Shy Shalom, an Israely developer, as a personal project for learning WebGL and game engine design and implementation.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       109],
+      "assets/images/resized/0012/9547/129547v3-max-150x150.jpg"],
+     [[246,
+       180],
+      "assets/images/resized/0012/9547/129547v3-max-250x250.jpg"],
+     [[246,
+       180],
+      "assets/images/resized/0012/9547/129547v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Creator",
+    "person":
+     {"first_name": "Shy",
+      "last_name": "Shalom",
+      "permalink": "shy-shalom",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0012/9553/129553v1-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0012/9553/129553v1-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0012/9553/129553v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

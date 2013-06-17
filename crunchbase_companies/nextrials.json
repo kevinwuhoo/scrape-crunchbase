@@ -1,0 +1,120 @@
+{"name": "Nextrials",
+ "permalink": "nextrials",
+ "crunchbase_url": "http://www.crunchbase.com/company/nextrials",
+ "homepage_url": "http://nextrials.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Nextrials",
+ "category_code": null,
+ "number_of_employees": 25,
+ "founded_year": 1999,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ecrf, edc, clinical, bioit, cdms",
+ "alias_list": null,
+ "email_address": "info@nextrials.com",
+ "phone_number": "925-355-3000",
+ "description": "Electronic Data Capture",
+ "created_at": "Thu Jan 07 06:36:49 UTC 2010",
+ "updated_at": "Thu Jan 07 22:32:42 UTC 2010",
+ "overview": "\u003Cp\u003ENextrials provides software used in clinical research for electronic data capture and clinical trial data management.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0007/2480/72480v2-max-150x150.png"],
+     [[250,
+       76],
+      "assets/images/resized/0007/2480/72480v2-max-250x250.png"],
+     [[414,
+       126],
+      "assets/images/resized/0007/2480/72480v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, President and CEO",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Rogers",
+      "permalink": "jim-rogers",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and Vice President, Operations and Clinical Services",
+    "person":
+     {"first_name": "Lecia",
+      "last_name": "Shaffer",
+      "permalink": "lecia-shaffer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Medidata Solutions",
+      "permalink": "medidata-solutions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/8133/48133v1-max-150x150.png"],
+          [[197,
+            57],
+           "assets/images/resized/0004/8133/48133v1-max-250x250.png"],
+          [[197,
+            57],
+           "assets/images/resized/0004/8133/48133v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Phase Forward",
+      "permalink": "phase-forward",
+      "image":
+       {"available_sizes":
+         [[[150,
+            13],
+           "assets/images/resized/0005/0981/50981v1-max-150x150.png"],
+          [[250,
+            23],
+           "assets/images/resized/0005/0981/50981v1-max-250x250.png"],
+          [[260,
+            24],
+           "assets/images/resized/0005/0981/50981v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "5000 Executive Parkway",
+    "address2": "Suite 540",
+    "zip_code": "94583",
+    "city": "San Ramon",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.clinpage.com/article/nextrials_on_the_move/C5",
+    "title": "Nextrials On The Move"},
+   {"external_url": "http://www.awards.frost.com/prod/servlet/press-release.pag?docid=21544099\u0026ctxixpLink=FcmCtx1\u0026ctxixpLabel=FcmCtx2",
+    "title": "Frost \u0026 Sullivan Recognizes Nextrials for Outstanding Contribution to Electronic Data Management"},
+   {"external_url": "http://www.cioinsight.com/c/a/Health-Care/Nextrials-Simplifies-Trial-Management-with-EDC/",
+    "title": "Nextrials Simplifies Trial Management with EDC"},
+   {"external_url": "http://eclinicalopinion.blogspot.com/2009/03/nextrials-joins-ihe-cto-robert-barr.html",
+    "title": "Nextrials Joins IHE; CTO Robert Barr Added to the IHE IT Infrastructure Planning Committee"}]}

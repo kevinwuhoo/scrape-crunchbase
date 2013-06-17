@@ -1,0 +1,115 @@
+{"name": "xBrowse",
+ "permalink": "xbrowse",
+ "crunchbase_url": "http://www.crunchbase.com/company/xbrowse",
+ "homepage_url": "http://www.xbrow.se",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "xbrowse",
+ "category_code": "enterprise",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cross-browser-testing, browser-compatibility, web-development, web-development-tools, saas",
+ "alias_list": null,
+ "email_address": "erik@xbrow.se",
+ "phone_number": "415.341.6100",
+ "description": "Rockin' cross-browser testing",
+ "created_at": "Wed Jun 23 19:49:51 UTC 2010",
+ "updated_at": "Sat Jun 26 00:30:54 UTC 2010",
+ "overview": "\u003Cp\u003ExBrowse is a testing service for web developers, web designers, and site owners.\u003C/p\u003E\n\n\u003Cp\u003ExBrowse allows people to rapidly test sites and applications for cross-browser compatibility issues.  We provide a general-purpose screenshot viewer and a cross-browser DOM explorer and comparison tool, intended to help diagnose and trouble shoot problem areas in the code.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0009/1763/91763v2-max-150x150.png"],
+     [[250,
+       73],
+      "assets/images/resized/0009/1763/91763v2-max-250x250.png"],
+     [[285,
+       84],
+      "assets/images/resized/0009/1763/91763v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Litmus",
+      "permalink": "litmus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0003/5711/35711v2-max-150x150.png"],
+          [[250,
+            104],
+           "assets/images/resized/0003/5711/35711v2-max-250x250.png"],
+          [[400,
+            167],
+           "assets/images/resized/0003/5711/35711v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BrowserCam",
+      "permalink": "browsercam",
+      "image":
+       {"available_sizes":
+         [[[150,
+            20],
+           "assets/images/resized/0004/2110/42110v1-max-150x150.png"],
+          [[177,
+            24],
+           "assets/images/resized/0004/2110/42110v1-max-250x250.png"],
+          [[177,
+            24],
+           "assets/images/resized/0004/2110/42110v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mogotest",
+      "permalink": "mogotest",
+      "image":
+       {"available_sizes":
+         [[[150,
+            74],
+           "assets/images/resized/0008/9623/89623v2-max-150x150.png"],
+          [[160,
+            79],
+           "assets/images/resized/0008/9623/89623v2-max-250x250.png"],
+          [[160,
+            79],
+           "assets/images/resized/0008/9623/89623v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "95060",
+    "city": "Santa Cruz",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,157 @@
+{"name": "Curl",
+ "permalink": "curl",
+ "crunchbase_url": "http://www.crunchbase.com/company/curl",
+ "homepage_url": "http://curl.com/",
+ "blog_url": "http://developers.curl.com/blogs",
+ "blog_feed_url": "http://developers.curl.com/blogs/feeds/blogs",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 1998,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ria, curl, enterprise",
+ "alias_list": null,
+ "email_address": "info@curl.com",
+ "phone_number": "617-761-1200",
+ "description": null,
+ "created_at": "Mon May 19 20:39:39 UTC 2008",
+ "updated_at": "Sat Jan 12 05:42:44 UTC 2013",
+ "overview": "\u003Cp\u003ECurl develops and maintains the Curl Rich Internet Application (RIA) platform. The foundational technologies for Curl emerged out of research conducted at the Massachusetts Institute of Technology, and the company\u0026#8217;s first product was released in 2002. Curl\u0026#8217;s customer list includes Nissan, Panasonic and Mitsubishi. \u003C/p\u003E\n\n\u003Cp\u003ECurl is a part of an emerging group of technologies referred to as \u0026#8220;fit clients.\u0026#8221;\u009d These technologies are a hybrid of Thick Clients (a.k.a. Fat Clients) and Thin Clients (HTML and RIA). Fit clients embrace the local processing and offline capabilities of Thick Clients while providing tooling normally associated with thin-client web applications. Fit Clients can leverage the processing power and disc space of the client machine, but they can also offer more restrictive and secure environments than client/server platforms. \u003C/p\u003E\n\n\u003Cp\u003EUsing Curl, developers can implement a new class of complex, business-critical, Web-based applications that cannot easily be developed with Ajax or other smart client technologies. Curl has always provided fit client capabilities and, with a new version announced this month called Nitro, they are available more easily than ever on the desktop. Curl is best choice for enterprises for secure, mission-critical applications that use large data sets and require 3D and 2D rendering, sophisticated data input and visualization.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0001/8836/18836v2-max-150x150.jpg"],
+     [[240,
+       119],
+      "assets/images/resized/0001/8836/18836v2-max-250x250.jpg"],
+     [[240,
+       119],
+      "assets/images/resized/0001/8836/18836v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Curl Platform",
+    "permalink": "curl-platform",
+    "image": null},
+   {"name": "Curl Nitro",
+    "permalink": "curl-nitro",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Adobe Systems",
+      "permalink": "adobe-systems",
+      "image":
+       {"available_sizes":
+         [[[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-150x150.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-250x250.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mozilla",
+      "permalink": "mozilla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            144],
+           "assets/images/resized/0001/8039/18039v7-max-150x150.jpg"],
+          [[229,
+            220],
+           "assets/images/resized/0001/8039/18039v7-max-250x250.jpg"],
+          [[229,
+            220],
+           "assets/images/resized/0001/8039/18039v7-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sun Microsystems",
+      "permalink": "sun-microsystems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0001/6586/16586v2-max-150x150.png"],
+          [[180,
+            86],
+           "assets/images/resized/0001/6586/16586v2-max-250x250.png"],
+          [[180,
+            86],
+           "assets/images/resized/0001/6586/16586v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": null,
+    "source_url": "http://www.scs.co.jp/english/index.html",
+    "source_description": "Sumisho Computer Systems",
+    "acquired_year": 2004,
+    "acquired_month": null,
+    "acquired_day": null,
+    "company":
+     {"name": "Sumisho Computer Systems",
+      "permalink": "sumisho-computer-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0006/7265/67265v1-max-150x150.png"],
+          [[220,
+            49],
+           "assets/images/resized/0006/7265/67265v1-max-250x250.png"],
+          [[220,
+            49],
+           "assets/images/resized/0006/7265/67265v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "offices":
+  [{"description": null,
+    "address1": "One Cambridge Center",
+    "address2": "10th Floor",
+    "zip_code": "02142",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.362993,
+    "longitude": -71.086596}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

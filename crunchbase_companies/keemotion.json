@@ -1,0 +1,147 @@
+{"name": "Keemotion",
+ "permalink": "keemotion",
+ "crunchbase_url": "http://www.crunchbase.com/company/keemotion",
+ "homepage_url": "http://www.keemotion.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "keemotion",
+ "category_code": "games_video",
+ "number_of_employees": 8,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sport, basketball, production, fans, iphone, ipad, android",
+ "alias_list": null,
+ "email_address": "revolution@keemotion.com",
+ "phone_number": "+3210392230",
+ "description": "Automated production of sports game",
+ "created_at": "Wed Sep 05 07:22:16 UTC 2012",
+ "updated_at": "Fri Sep 14 23:50:23 UTC 2012",
+ "overview": "\u003Cp\u003EKeemotion delivers automated production solutions enhanced with coaching tools for basketball games. The production is professionally created thanks to a proprietary technology. Keemotion\u2019 solution offers a large specter of advantages amongst which : \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EThe ability to capture and produce games at a very affordable price.\u003C/li\u003E\n\u003Cli\u003EThe ability to categorize and retrieve online all games produced.\u003C/li\u003E\n\u003Cli\u003EThe ability to tag games manually (based on a personalized iPad  application) and get back all video segments instantly.\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EMedia companies can produce games from lower leagues and/or stream seamless any video content from a game without any production team to tablets and smartphones.\u003C/p\u003E\n\n\u003Cp\u003EThe personalized summary allows a fan to retrieve specific actions according to its own preferences and comment live games building a social sharing of the best highlights of games.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[147,
+       150],
+      "assets/images/resized/0021/0554/210554v2-max-150x150.jpg"],
+     [[149,
+       152],
+      "assets/images/resized/0021/0554/210554v2-max-250x250.jpg"],
+     [[149,
+       152],
+      "assets/images/resized/0021/0554/210554v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO \u0026 co-founder",
+    "person":
+     {"first_name": "Damien",
+      "last_name": "Delannay",
+      "permalink": "damien-delannay",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Alexandre",
+      "last_name": "Bustamante",
+      "permalink": "alexandre-bustamante",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hudll",
+      "permalink": "hudll",
+      "image": null}},
+   {"competitor":
+     {"name": "Sportstec",
+      "permalink": "sportstec",
+      "image": null}},
+   {"competitor":
+     {"name": "Synergy",
+      "permalink": "synergy",
+      "image": null}}],
+ "providerships":
+  [{"title": "PR",
+    "is_past": false,
+    "provider":
+     {"name": "Heads up",
+      "permalink": "heads-up",
+      "image": null}}],
+ "total_money_raised": "\u20ac1.5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.vivesfund.com/fr/blog-news/keemotion-une-premiere-mondial-dans-la-production-sportive/",
+    "source_description": "World premiere in sports production",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Vives Fund",
+         "permalink": "vives-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               53],
+              "assets/images/resized/0026/1335/261335v2-max-150x150.png"],
+             [[250,
+               89],
+              "assets/images/resized/0026/1335/261335v2-max-250x250.png"],
+             [[268,
+               96],
+              "assets/images/resized/0026/1335/261335v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Nivelinvest",
+         "permalink": "nivelinvest",
+         "image":
+          {"available_sizes":
+            [[[150,
+               78],
+              "assets/images/resized/0026/1315/261315v1-max-150x150.png"],
+             [[189,
+               99],
+              "assets/images/resized/0026/1315/261315v1-max-250x250.png"],
+             [[189,
+               99],
+              "assets/images/resized/0026/1315/261315v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Rue Louis de Geer, 1",
+    "address2": "",
+    "zip_code": "1348",
+    "city": "Louvain-La-Neuve",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.youtube.com/watch?v=zY8LsM3U4l4",
+    "title": "Keemotion at belgian television"},
+   {"external_url": "http://www.solvay.edu/solvay-in-the-press/tag/keemotion",
+    "title": "Alumni Solvay magazine"},
+   {"external_url": "https://vimeo.com/44600336",
+    "title": "Keemotion on belgian television (2)"}]}

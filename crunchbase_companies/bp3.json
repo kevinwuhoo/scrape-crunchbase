@@ -1,0 +1,100 @@
+{"name": "BP3",
+ "permalink": "bp3",
+ "crunchbase_url": "http://www.crunchbase.com/company/bp3",
+ "homepage_url": "http://www.bp-3.com",
+ "blog_url": "http://www.bp-3.com/blogs",
+ "blog_feed_url": "http://www.bp-3.com/blogs/feed/",
+ "twitter_username": "bp3bpm",
+ "category_code": "consulting",
+ "number_of_employees": 20,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bpm, business-process-management",
+ "alias_list": null,
+ "email_address": "info@bp-3.com",
+ "phone_number": "512.600.3239",
+ "description": "A business process company.",
+ "created_at": "Tue Mar 03 04:56:42 UTC 2009",
+ "updated_at": "Fri May 25 03:09:56 UTC 2012",
+ "overview": "\u003Cp\u003EBP3 is a professional services firm focused on business process improvement and business process management.  \u003C/p\u003E\n\n\u003Cp\u003EWe are industry experts in business process management\nWe have successfully created, deployed and measured business process improvements and solutions in the most challenging environments the Fortune 500 have to offer. \u003C/p\u003E\n\n\u003Cp\u003EWe offer mobile solutions for BPM (BP Mobility) and professional services for all manner of process innovation. \u003C/p\u003E\n\n\u003Cp\u003EBP3 is headquartered in Austin, Texas and was founded by two Lombardi alumni, Lance Gibbs and Scott Francis. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[126,
+       150],
+      "assets/images/resized/0003/7248/37248v2-max-150x150.jpg"],
+     [[146,
+       173],
+      "assets/images/resized/0003/7248/37248v2-max-250x250.jpg"],
+     [[146,
+       173],
+      "assets/images/resized/0003/7248/37248v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "BP Mobility",
+    "permalink": "bp-mobility",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and Founder",
+    "person":
+     {"first_name": "Lance",
+      "last_name": "Gibbs",
+      "permalink": "lance-gibbs",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO and Founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Francis",
+      "permalink": "scott-francis",
+      "image": null}},
+   {"is_past": false,
+    "title": "Vice President",
+    "person":
+     {"first_name": "Flournoy",
+      "last_name": "Henry",
+      "permalink": "flournoy-henry",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chief Architect",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Harley",
+      "permalink": "greg-harley",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "7000 N Mopac Expy",
+    "address2": "Suite 345",
+    "zip_code": "78731",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.342436,
+    "longitude": -97.7543}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

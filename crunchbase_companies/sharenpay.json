@@ -1,0 +1,193 @@
+{"name": "ShareNPay",
+ "permalink": "sharenpay",
+ "crunchbase_url": "http://www.crunchbase.com/company/sharenpay",
+ "homepage_url": "http://sharenpay.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ShareNPay",
+ "category_code": "ecommerce",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-payments, bills, shared, expenses, paypal, pay, college, roommates, households, socialmoney",
+ "alias_list": null,
+ "email_address": "info@sharenpay.com",
+ "phone_number": "",
+ "description": "Social Networking Meets Social Payments",
+ "created_at": "Mon May 17 20:11:12 UTC 2010",
+ "updated_at": "Sun Feb 10 06:31:38 UTC 2013",
+ "overview": "\u003Cp\u003ESocial Networking Meets Social Payments!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0008/7918/87918v14-max-150x150.jpg"],
+     [[230,
+       230],
+      "assets/images/resized/0008/7918/87918v14-max-250x250.jpg"],
+     [[230,
+       230],
+      "assets/images/resized/0008/7918/87918v14-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Amundsen",
+      "permalink": "chris-amundsen",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Mitchell",
+      "permalink": "john-mitchell",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "Olivia Sheng",
+      "permalink": "dr-olivia-sheng",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BillMonk",
+      "permalink": "billmonk",
+      "image":
+       {"available_sizes":
+         [[[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-150x150.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-250x250.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pay It Square, LLC",
+      "permalink": "payitsquare-llc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0005/7770/57770v2-max-150x150.jpg"],
+          [[156,
+            28],
+           "assets/images/resized/0005/7770/57770v2-max-250x250.jpg"],
+          [[156,
+            28],
+           "assets/images/resized/0005/7770/57770v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WePay",
+      "permalink": "wepay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0007/1080/71080v9-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0007/1080/71080v9-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0007/1080/71080v9-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PayPal",
+      "permalink": "paypal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3943/3943v8-max-150x150.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-250x250.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dwolla",
+      "permalink": "dwolla",
+      "image":
+       {"available_sizes":
+         [[[114,
+            114],
+           "assets/images/resized/0006/8709/68709v8-max-150x150.png"],
+          [[114,
+            114],
+           "assets/images/resized/0006/8709/68709v8-max-250x250.png"],
+          [[114,
+            114],
+           "assets/images/resized/0006/8709/68709v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "obopay",
+      "permalink": "obopay",
+      "image":
+       {"available_sizes":
+         [[[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-150x150.jpg"],
+          [[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-250x250.jpg"],
+          [[124,
+            64],
+           "assets/images/resized/0000/3913/3913v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "699 East South Temple",
+    "address2": "Suite 120",
+    "zip_code": "84102",
+    "city": "Salt Lake City",
+    "state_code": "UT",
+    "country_code": "USA",
+    "latitude": 40.770051,
+    "longitude": -111.871162}],
+ "milestones":
+  [{"description": "SharenPay developed beta iOS app.",
+    "stoned_year": 2012,
+    "stoned_month": 11,
+    "stoned_day": null,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "ShareNPay",
+      "permalink": "sharenpay"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

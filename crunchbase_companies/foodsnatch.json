@@ -1,0 +1,96 @@
+{"name": "FoodSnatch",
+ "permalink": "foodsnatch",
+ "crunchbase_url": "http://www.crunchbase.com/company/foodsnatch",
+ "homepage_url": "http://www.foodsnatch.com",
+ "blog_url": "http://www.foodsnatch.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "foodsnatch",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": 2,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "food-delivery, crowdsourced-food-delivery, online-food-ordering",
+ "alias_list": null,
+ "email_address": "info@foodsnatch.com",
+ "phone_number": "",
+ "description": "Crowdsourced food delivery.",
+ "created_at": "Sun Feb 03 01:10:08 UTC 2013",
+ "updated_at": "Fri Feb 08 03:12:50 UTC 2013",
+ "overview": "\u003Cp\u003ECrowdsourced food delivery.\u003C/p\u003E\n\n\u003Cp\u003EFoodSnatch\u2122 allows virtually anyone with some spare time and a mobile phone to become a paid delivery driver. This eliminates restaurants\u0026#8217; need of drivers on staff, plus allows customers to order delivery from just about any restaurant.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/3917/233917v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0023/3917/233917v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0023/3917/233917v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Randy",
+      "last_name": "J. Gingeleski",
+      "permalink": "randy-j-gingeleski",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "OrderUp",
+      "permalink": "orderup",
+      "image":
+       {"available_sizes":
+         [[[147,
+            75],
+           "assets/images/resized/0010/9480/109480v10-max-150x150.png"],
+          [[147,
+            75],
+           "assets/images/resized/0010/9480/109480v10-max-250x250.png"],
+          [[147,
+            75],
+           "assets/images/resized/0010/9480/109480v10-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "External Legal Counsel",
+    "is_past": false,
+    "provider":
+     {"name": "Loeb \u0026 Loeb",
+      "permalink": "loeb-loeb",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.7143528,
+    "longitude": -74.0059731}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

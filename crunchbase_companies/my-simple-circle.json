@@ -1,0 +1,101 @@
+{"name": "My Simple Circle",
+ "permalink": "my-simple-circle",
+ "crunchbase_url": "http://www.crunchbase.com/company/my-simple-circle",
+ "homepage_url": "http://www.mysimplecircle.com",
+ "blog_url": "http://blog.mysimplecircle.com/",
+ "blog_feed_url": "",
+ "twitter_username": "mysimplecircle",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "socialnetworking, addressbook",
+ "alias_list": null,
+ "email_address": "msmonroe@mysimplecircle.com",
+ "phone_number": "",
+ "description": "Unify Your Life!",
+ "created_at": "Wed Oct 10 07:32:46 UTC 2012",
+ "updated_at": "Wed Dec 12 07:04:08 UTC 2012",
+ "overview": "\u003Cp\u003EWe merge your address book with social networking.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Nathan",
+      "last_name": "Jaskot",
+      "permalink": "nathan-jaskot",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Plaxo",
+      "permalink": "plaxo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/3880/3880v7-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0000/3880/3880v7-max-250x250.png"],
+          [[450,
+            141],
+           "assets/images/resized/0000/3880/3880v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Ventura VTC",
+    "address1": "505 Poli Street ",
+    "address2": "3rd Floor",
+    "zip_code": "93001",
+    "city": "Ventura",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.2827556,
+    "longitude": -119.293102}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        108],
+       "assets/images/resized/0021/4980/214980v2-max-150x150.jpg"],
+      [[250,
+        180],
+       "assets/images/resized/0021/4980/214980v2-max-250x250.jpg"],
+      [[450,
+        325],
+       "assets/images/resized/0021/4980/214980v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        98],
+       "assets/images/resized/0021/4981/214981v2-max-150x150.jpg"],
+      [[250,
+        164],
+       "assets/images/resized/0021/4981/214981v2-max-250x250.jpg"],
+      [[450,
+        296],
+       "assets/images/resized/0021/4981/214981v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

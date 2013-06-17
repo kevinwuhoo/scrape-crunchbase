@@ -1,0 +1,143 @@
+{"name": "mydealbag",
+ "permalink": "mydealbag",
+ "crunchbase_url": "http://www.crunchbase.com/company/mydealbag",
+ "homepage_url": "http://mydealbag.com",
+ "blog_url": "http://blog.mydealbag.com",
+ "blog_feed_url": "http://blog.mydealbag.com/feed/",
+ "twitter_username": "mydealbagvan",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "daily-deal, daily-deal-aggregator, group-buying, aggregator, deal-a-day, online-commerce, online-coupons",
+ "alias_list": null,
+ "email_address": "info@mydealbag.com",
+ "phone_number": "604-312-8992",
+ "description": "daily deal aggregator",
+ "created_at": "Fri Sep 16 22:51:56 UTC 2011",
+ "updated_at": "Sun Nov 13 23:19:55 UTC 2011",
+ "overview": "\u003Cp\u003Emydealbag is a daily deal aggregator that scours the internet for all of your local daily deals.\u003C/p\u003E\n\n\u003Cp\u003Emydealbag gathers all the daily deals and group buying coupons in over 100 North American cities and lists them so you don\u00e2\u20ac\u2122t have to go searching for the best discounts, we bring them to you! We want to make it as easy as possible for you to discover new, fun things to do in your city, at steep discounts. We grab coupons for activities, dining, fitness, health and beauty, retail, and services so that you never miss a great deal. We are a team of self-professed deal hunters and love the fact that we are sharing our love for saving money and doing fun things with the rest of the world!\u003C/p\u003E\n\n\u003Cp\u003EIf you are a blogger, webmaster, app developer, or entrepreneur and want to incorporate daily deals into your creation, our API will be perfect for you. Everyday we list over 1,000 deals in Canada and over 3,000 deals in the US, which will provide your users with a ton of added value. Check out our API documentation for more information.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0015/4561/154561v2-max-150x150.png"],
+     [[250,
+       96],
+      "assets/images/resized/0015/4561/154561v2-max-250x250.png"],
+     [[250,
+       96],
+      "assets/images/resized/0015/4561/154561v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Wilson",
+      "permalink": "sean-wilson",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/7839/267839v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/7839/267839v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/7839/267839v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yipit",
+      "permalink": "yipit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0010/4332/104332v1-max-150x150.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-250x250.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dealradar.com",
+      "permalink": "dealradar-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0009/5128/95128v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0009/5128/95128v1-max-250x250.png"],
+          [[391,
+            107],
+           "assets/images/resized/0009/5128/95128v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "DealSurf",
+      "permalink": "dealsurf-3",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0012/5167/125167v2-max-150x150.png"],
+          [[250,
+            67],
+           "assets/images/resized/0012/5167/125167v2-max-250x250.png"],
+          [[450,
+            120],
+           "assets/images/resized/0012/5167/125167v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Canadian HQ",
+    "address1": "718 Main St.",
+    "address2": "Unit 302",
+    "zip_code": "V6A 0B1",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        100],
+       "assets/images/resized/0015/4560/154560v2-max-150x150.png"],
+      [[250,
+        166],
+       "assets/images/resized/0015/4560/154560v2-max-250x250.png"],
+      [[450,
+        300],
+       "assets/images/resized/0015/4560/154560v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.techvibes.com/blog/canadian-daily-deal-industry-boasts-strong-summer-numbers-infographic-2011-07-26",
+    "title": "Infographic - Canadian Daily Deal Breakdown"}]}

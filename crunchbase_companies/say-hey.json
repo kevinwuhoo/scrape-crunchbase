@@ -1,0 +1,151 @@
+{"name": "Say-Hey",
+ "permalink": "say-hey",
+ "crunchbase_url": "http://www.crunchbase.com/company/say-hey",
+ "homepage_url": "http://www.say-hey.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "sayheycomm",
+ "category_code": "public_relations",
+ "number_of_employees": 8,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": 16,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@say-hey.com",
+ "phone_number": "800-285-7460",
+ "description": "Communication Services",
+ "created_at": "Tue Oct 26 18:14:30 UTC 2010",
+ "updated_at": "Mon Oct 10 01:10:47 UTC 2011",
+ "overview": "\u003Cp\u003ESay-Hey provides communication services for the deaf and hard of hearing. Specifically Say-Hey provides Video Relay Services ( VRS ), IP-Relay Services ( Text relay ), Video Remote Interpreting ( VRI ), Community Interpreting ( CI ), and Language Services. All services are nationwide and available 24 hours a day, 365 days a year. \u003C/p\u003E\n\n\u003Cp\u003EVRS and IP relay services are at no cost to the user and customers can download a free softphone to use VRS and IP relay services. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[137,
+       58],
+      "assets/images/resized/0010/7387/107387v2-max-150x150.png"],
+     [[137,
+       58],
+      "assets/images/resized/0010/7387/107387v2-max-250x250.png"],
+     [[137,
+       58],
+      "assets/images/resized/0010/7387/107387v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Idler",
+      "permalink": "matt-idler",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of IT",
+    "person":
+     {"first_name": "David",
+      "last_name": "Birchell",
+      "permalink": "david-birchell",
+      "image": null}},
+   {"is_past": false,
+    "title": "Customer Relations Manager",
+    "person":
+     {"first_name": "Sarah",
+      "last_name": "Himmelmann",
+      "permalink": "sarah-himmelmann",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Operations and Interpreting",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "Jack",
+      "permalink": "jeremy-jack",
+      "image": null}},
+   {"is_past": true,
+    "title": "Business Development Manager",
+    "person":
+     {"first_name": "Sam",
+      "last_name": "Farley",
+      "permalink": "sam-farley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sorenson Communications",
+      "permalink": "sorenson-communications",
+      "image": null}},
+   {"competitor":
+     {"name": "Purple Communications",
+      "permalink": "purple-communications",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0003/7033/37033v2-max-150x150.png"],
+          [[250,
+            94],
+           "assets/images/resized/0003/7033/37033v2-max-250x250.png"],
+          [[347,
+            131],
+           "assets/images/resized/0003/7033/37033v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ZVRS",
+      "permalink": "zvrs",
+      "image": null}},
+   {"competitor":
+     {"name": "Convo Communications",
+      "permalink": "convo-communications",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0010/9754/109754v1-max-150x150.png"],
+          [[176,
+            55],
+           "assets/images/resized/0010/9754/109754v1-max-250x250.png"],
+          [[176,
+            55],
+           "assets/images/resized/0010/9754/109754v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$95k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 95000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1474 Stone Point Drive",
+    "address2": "",
+    "zip_code": "95661",
+    "city": "Roseville",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

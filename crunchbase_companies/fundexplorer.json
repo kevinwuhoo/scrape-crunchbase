@@ -1,0 +1,89 @@
+{"name": "FundExplorer",
+ "permalink": "fundexplorer",
+ "crunchbase_url": "http://www.crunchbase.com/company/fundexplorer",
+ "homepage_url": "http://www.etfexplorer.com",
+ "blog_url": "http://www.etfexplorer.com/eu/blog",
+ "blog_feed_url": "http://blog.fundexplorer.ch/feed",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "etf, finance, investing",
+ "alias_list": null,
+ "email_address": "info@fundexplorer.ch",
+ "phone_number": "+41 78 822 24 03",
+ "description": "Experts in ETF (Exchange-Traded Funds)",
+ "created_at": "Wed May 06 09:36:49 UTC 2009",
+ "updated_at": "Wed Feb 02 19:06:39 UTC 2011",
+ "overview": "\u003Cp\u003EThe Switzerland based company FundExplorer specializes on Exchange-Traded Funds (ETF). It is building and maintaining web-based products powered by its extensive database covering European ETFs. \u003C/p\u003E\n\n\u003Cp\u003EIts first product is an ETF search engine and information platform targeted at retail and professional investors (http://www.etfexplorer.com). The website is endorsed by experts and the media as the leading information source regarding ETF in Europe.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0004/3296/43296v2-max-150x150.jpg"],
+     [[250,
+       65],
+      "assets/images/resized/0004/3296/43296v2-max-250x250.jpg"],
+     [[450,
+       118],
+      "assets/images/resized/0004/3296/43296v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "ETFexplorer",
+    "permalink": "fundexplorer",
+    "image":
+     {"available_sizes":
+       [[[150,
+          26],
+         "assets/images/resized/0011/9471/119471v2-max-150x150.png"],
+        [[151,
+          27],
+         "assets/images/resized/0011/9471/119471v2-max-250x250.png"],
+        [[151,
+          27],
+         "assets/images/resized/0011/9471/119471v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jakob",
+      "last_name": "Baur",
+      "permalink": "jakob-baur",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Sebastian",
+      "last_name": "Burkhard",
+      "permalink": "sebastian-burkhard",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

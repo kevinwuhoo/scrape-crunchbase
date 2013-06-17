@@ -1,0 +1,74 @@
+{"name": "KloudStat",
+ "permalink": "kloudstat",
+ "crunchbase_url": "http://www.crunchbase.com/company/kloudstat",
+ "homepage_url": "http://www.kloudstat.com",
+ "blog_url": "http://blog.kloudstat.com",
+ "blog_feed_url": "http://feeds.feedburner.com/kloudstat",
+ "twitter_username": "kloudstat",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "big-data, r, hadoop, rstats, cloud",
+ "alias_list": null,
+ "email_address": "hi@kloudstat.com",
+ "phone_number": "6017-9528807",
+ "description": "Analyze big data with R in the Cloud",
+ "created_at": "Fri Aug 03 23:46:11 UTC 2012",
+ "updated_at": "Tue Aug 28 21:17:25 UTC 2012",
+ "overview": "\u003Cp\u003EAnalyze big data with R in the cloud (or iPad) #rstats #hadoop\u003C/p\u003E\n\n\u003Cp\u003EToday, big data is the crucial in many applications areas from academic to businesses. Dealing with big data is not an easy issue. It is not only about the statistical software, we have the open source R, and the powerful hardware, we can easily have 1000 of instances with cloud providers; it is all about the ease-of-use, the cost and the experience. \u003C/p\u003E\n\n\u003Cp\u003ECommercial cloud providers, such as Amazon Web Services (AWS) promote its simple and fast access to general computing and hosting. But this is not true for most of the academicians and enterprises. You need at least an expert to spend some hours to setup the R statistical environment before your analysis. And it is just an instance. If you have computation intensive analysis, you will need a cluster of sereval instances with different layers of big data stacks. All the installation and configuration are becoming more and more complex. We\u2019re just data analysts. We just want to focus on data analysis. Why is it so hard? And end out nothing after some days of hardwork and resources wasted?\u003C/p\u003E\n\n\u003Cp\u003EKloudStat, a cloud integrated development environment for open source R, provides the academicians and enterprises the platform to perform and focus on big data analytic processes that are critical in decision making without dealing with the backend production environment, such that KloudStat as a fast, scalable, distributed system can start with on a single server within a minute and expand to a cluster of instances optimized for each tier, i.e. R clusters, Hadoop clusters, databases and application servers of the system automatically. \u003C/p\u003E\n\n\u003Cp\u003EBesides giving the freedom of data intelligence to everyone at anywhere, anytime across multiple platforms, KloudStat\u2019s collaboration feature allows a small group of collaborators can interact and do statistical analyses real-time with the virtual console, finally the source editing while all will be completely synchronize with local R software. \u003C/p\u003E\n\n\u003Cp\u003EKloudStat\u2019s most interesting feature would be the modules or more advanced, big data applications development, which allows developers to implement the statistics engine in R with KloudStat APIs, while envolved in a top layer defined like a user interface. The main layer coordinates the lower layers where different engines based on several architectures are implemented. Each modules or applications created that contains many features are for specific task or purpose. These modules or apps allows faster data analysis and for everyone even don\u2019t have programming knowledge. \u003C/p\u003E\n\n\u003Cp\u003EKloudStat was built based on Rstudio server with pre-configured big data stacks, such as Hadoop. You can start analyzing your data as soon as you login to your console dashboard, no cluster configuration needed as all is automated and optimized. So far, the user had to start his R session with special MPI command. MPI binding is automatically created in the background and you can start your computer cluster using the packages snow, Rmpi or foreach without any additional steps.\u003C/p\u003E\n\n\u003Cp\u003EContact Info:\u003C/p\u003E\n\n\u003Cp\u003EKloudStat\nCloudStat.me Sdn Bhd (958777-A)\nMSC Technology Commercialization Center,\nMultimedia University (MMU)\nCyberjaya 63000, Selangor, Malaysia\u003C/p\u003E\n\n\u003Cpre\u003E\u003Ccode\u003EWebsite: http://kloudstat.com\nTutorial Video: https://vimeo.com/kloudstat\nEmail: hi@kloudstat.com\nCustomer Support: http://support.kloudstat.com/ \nBlog: http://blog.kloudstat.com \nSales Page: http://signup.kloudstat.com \nLinkedIn: http://www.linkedin.com/company/kloudstat\nCode: http://code.kloudstat.com \nFacebook: http://fb.com/kloudstat \nTwitter: @kloudstat\nPinterest: http://pinterest.com/kloudstat\nWeibo: http://weibo.com/kloudstat\nSlideshare: http://slideshare.com/kloudstat\nCrunchbase: http://crunchbase.com/kloudstat\n\u003C/code\u003E\u003C/pre\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       125],
+      "assets/images/resized/0020/7124/207124v2-max-150x150.jpg"],
+     [[250,
+       208],
+      "assets/images/resized/0020/7124/207124v2-max-250x250.jpg"],
+     [[450,
+       375],
+      "assets/images/resized/0020/7124/207124v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/46783252\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E \u003Cp\u003E\u003Ca href=\"http://vimeo.com/46783252\"\u003EBuild a simple facebook spying app with the old CloudStat\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/kloudstat\"\u003EKloudStat\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EBuild a simple facebook spying app with the old CloudStat\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0020/8543/208543v2-max-150x150.jpg"],
+      [[250,
+        179],
+       "assets/images/resized/0020/8543/208543v2-max-250x250.jpg"],
+      [[450,
+        322],
+       "assets/images/resized/0020/8543/208543v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

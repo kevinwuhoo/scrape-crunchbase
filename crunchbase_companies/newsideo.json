@@ -1,0 +1,108 @@
+{"name": "Newsideo",
+ "permalink": "newsideo",
+ "crunchbase_url": "http://www.crunchbase.com/company/newsideo",
+ "homepage_url": "http://www.newsideo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Newsideo",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-news, social, news, digg, reddit",
+ "alias_list": null,
+ "email_address": "admin@newsideo.com",
+ "phone_number": "",
+ "description": "Social News",
+ "created_at": "Sun Oct 21 15:17:33 UTC 2012",
+ "updated_at": "Tue Oct 30 01:24:15 UTC 2012",
+ "overview": "\u003Cp\u003ENewsideo is socially generated news aggregator.\u003C/p\u003E\n\n\u003Cp\u003EDeriving stories from both feeds and user submitted, Newsideo identifies each story\u0026#8217;s social data and uses an algorithm to rank each article based on such data.  The social data is gathered from several social services such as Facebook, Twitter, Pinterest, etc.  This data is then processed and each story is given a score, which fluctuates at times based on several factors, and then is ranked on the homepage.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/7757/217757v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/7757/217757v2-max-250x250.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/7757/217757v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Brown",
+      "permalink": "matt-brown-3",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Reddit",
+      "permalink": "reddit",
+      "image":
+       {"available_sizes":
+         [[[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-150x150.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-250x250.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0021/7758/217758v2-max-150x150.png"],
+      [[250,
+        136],
+       "assets/images/resized/0021/7758/217758v2-max-250x250.png"],
+      [[450,
+        245],
+       "assets/images/resized/0021/7758/217758v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

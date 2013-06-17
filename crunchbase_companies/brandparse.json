@@ -1,0 +1,95 @@
+{"name": "BrandParse",
+ "permalink": "brandparse",
+ "crunchbase_url": "http://www.crunchbase.com/company/brandparse",
+ "homepage_url": "http://brandparse.com",
+ "blog_url": "http://blog.brandparse.com",
+ "blog_feed_url": "",
+ "twitter_username": "brandparse",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 11,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-media, facebook, analytics, big-data",
+ "alias_list": null,
+ "email_address": "info@brandparse.com",
+ "phone_number": "",
+ "description": "Facebook Analytics Redefined",
+ "created_at": "Mon Nov 19 07:57:01 UTC 2012",
+ "updated_at": "Wed Dec 12 07:47:15 UTC 2012",
+ "overview": "",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jeeten",
+      "last_name": "Bhoora",
+      "permalink": "jeeten-bhoora",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PageLever",
+      "permalink": "pagelever",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0014/0110/140110v2-max-150x150.png"],
+          [[250,
+            80],
+           "assets/images/resized/0014/0110/140110v2-max-250x250.png"],
+          [[450,
+            145],
+           "assets/images/resized/0014/0110/140110v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce Buddy Media",
+      "permalink": "buddymedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0000/0988/988v10-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0000/0988/988v10-max-250x250.jpg"],
+          [[450,
+            100],
+           "assets/images/resized/0000/0988/988v10-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Holmpark Place",
+    "address2": "",
+    "zip_code": "4051",
+    "city": "Durban",
+    "state_code": null,
+    "country_code": "ZAF",
+    "latitude": -29.793245,
+    "longitude": 31.042978}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

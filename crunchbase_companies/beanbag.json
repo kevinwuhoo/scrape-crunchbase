@@ -1,0 +1,104 @@
+{"name": "Beanbag",
+ "permalink": "beanbag",
+ "crunchbase_url": "http://www.crunchbase.com/company/beanbag",
+ "homepage_url": "http://www.beanbaginc.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "development-tools, web, code-review, hosting, saas",
+ "alias_list": null,
+ "email_address": "support@beanbaginc.com",
+ "phone_number": "",
+ "description": "Development tools",
+ "created_at": "Sat Mar 09 21:10:54 UTC 2013",
+ "updated_at": "Tue Apr 16 02:28:36 UTC 2013",
+ "overview": "\u003Cp\u003EBeanbag, Inc. specializes in development tools that make people\u0026#8217;s jobs easier.\u003C/p\u003E\n\n\u003Cp\u003EIts main product is Review Board, a web-based code review application specifically designed to ease the code review process and reduce the burden on developers. It\u0026#8217;s used at thousands of companies across the world and integrates with a wide variety of source code management systems and hosting services, such as GitHub and Bitbucket.\u003C/p\u003E\n\n\u003Cp\u003EBeanbag also runs RBCommons.com, a hosted Review Board service. For a monthly fee, companies, organizations and schools can have their own Review Board instance set up and maintained for them, so they can focus on developing better products instead of worrying about server maintenance.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[69,
+       60],
+      "assets/images/resized/0024/1301/241301v2-max-150x150.png"],
+     [[69,
+       60],
+      "assets/images/resized/0024/1301/241301v2-max-250x250.png"],
+     [[69,
+       60],
+      "assets/images/resized/0024/1301/241301v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Review Board",
+    "permalink": "review-board",
+    "image":
+     {"available_sizes":
+       [[[105,
+          105],
+         "assets/images/resized/0025/1777/251777v2-max-150x150.png"],
+        [[105,
+          105],
+         "assets/images/resized/0025/1777/251777v2-max-250x250.png"],
+        [[105,
+          105],
+         "assets/images/resized/0025/1777/251777v2-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "RBCommons",
+    "permalink": "rbcommons",
+    "image":
+     {"available_sizes":
+       [[[105,
+          105],
+         "assets/images/resized/0025/1780/251780v2-max-150x150.png"],
+        [[105,
+          105],
+         "assets/images/resized/0025/1780/251780v2-max-250x250.png"],
+        [[105,
+          105],
+         "assets/images/resized/0025/1780/251780v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Hammond",
+      "permalink": "christian-hammond",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Trowbridge",
+      "permalink": "david-trowbridge",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "https://angel.co/beanbag",
+    "title": "AngelList profile"}]}

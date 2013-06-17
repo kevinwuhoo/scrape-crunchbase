@@ -1,0 +1,94 @@
+{"name": "Twittsdaq",
+ "permalink": "twittsdaq",
+ "crunchbase_url": "http://www.crunchbase.com/company/twittsdaq",
+ "homepage_url": "http://www.twittsdaq.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "twittsdaq",
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, influence, followers, tag-cloud, trading, follower-distribution, popularity",
+ "alias_list": null,
+ "email_address": "support@twittsdaq.com",
+ "phone_number": "",
+ "description": "Tracking Twitter Profile Statistics",
+ "created_at": "Sun Jul 18 02:38:24 UTC 2010",
+ "updated_at": "Wed Jul 21 17:21:58 UTC 2010",
+ "overview": "\u003Cp\u003ETwittsDaq offers a new way to measure how influential a Twitterer really is. What the site does is to look at the number of followers that a person has, and when that number is greater than the number of people who he is following then it is said that the person has a positive influence. Well, the site does something more than merely \u00e2\u20ac\u0153say\u00e2\u20ac\u009d that the influence is positive based on that. It actually calculates the difference between the two arithmetically, and the result of such an operation is expressed in TwittsDaq Dollars. \u003C/p\u003E\n\n\u003Cp\u003EBroadly speaking, we could say that each follower is worth more or less T$0.01. The exact equation for arriving at the final figure is this: ((\u0026#8220;Number of Followers\u0026#8221; and the \u0026#8220;Number of Following\u0026#8221;) plus (List times 10)) divided by 100. \u003C/p\u003E\n\n\u003Cp\u003EIn this way, Twitter becomes something akin to a marketplace, and people compete to be the top influencer (EG, the richest individuals in the twitterverse). And such a game is given a further twist by letting players actually buy influence, and also participating in the daily challenges that are featured on the main page of the site.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[48,
+       48],
+      "assets/images/resized/0009/3993/93993v2-max-150x150.png"],
+     [[48,
+       48],
+      "assets/images/resized/0009/3993/93993v2-max-250x250.png"],
+     [[48,
+       48],
+      "assets/images/resized/0009/3993/93993v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "TwitterCounter",
+      "permalink": "twittercounter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0002/3681/23681v4-max-150x150.jpg"],
+          [[230,
+            44],
+           "assets/images/resized/0002/3681/23681v4-max-250x250.jpg"],
+          [[230,
+            44],
+           "assets/images/resized/0002/3681/23681v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        61],
+       "assets/images/resized/0009/3992/93992v2-max-150x150.jpg"],
+      [[250,
+        103],
+       "assets/images/resized/0009/3992/93992v2-max-250x250.jpg"],
+      [[450,
+        185],
+       "assets/images/resized/0009/3992/93992v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.killerstartups.com/Web20/twittsdaq-com-turning-twitter-into-a-financial-game",
+    "title": "TwittsDaq.com - Turning Twitter Into A Financial Game"},
+   {"external_url": "http://www.feedmyapp.com/p/a/twittsdaq-spread-your-influence/17672",
+    "title": "Twittsdaq: Spread your Influence"},
+   {"external_url": "http://www.ziipa.com/view/twittsdaq-com",
+    "title": ""},
+   {"external_url": "http://momb.socio-kybernetics.net/beta/twittsdaq",
+    "title": ""}]}

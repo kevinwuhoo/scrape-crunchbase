@@ -1,0 +1,170 @@
+{"name": "Twitturly",
+ "permalink": "twitturly",
+ "crunchbase_url": "http://www.crunchbase.com/company/twitturly",
+ "homepage_url": "http://twitturly.com/",
+ "blog_url": "http://twitturly.com/blog/",
+ "blog_feed_url": "http://twitturly.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Twitter Link Tracker",
+ "created_at": "Mon Apr 28 13:14:28 UTC 2008",
+ "updated_at": "Mon May 21 00:34:11 UTC 2012",
+ "overview": "\u003Cp\u003ETwitturly is a service that tracks the links that people are Tweeting about on Twitter, and groups them based on popularity and freshness, then displays them on the homepage, similar to Digg.\u003C/p\u003E\n\n\u003Cp\u003ETwitturly also tracks the tweets containing URLs made by each user and creates a profile automatically that can be viewed.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0001/7744/17744v6-max-150x150.png"],
+     [[192,
+       38],
+      "assets/images/resized/0001/7744/17744v6-max-250x250.png"],
+     [[192,
+       38],
+      "assets/images/resized/0001/7744/17744v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "twitturly",
+    "permalink": "twitturly",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder / CEO",
+    "person":
+     {"first_name": "Joel",
+      "last_name": "Strellner",
+      "permalink": "joel-strellner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0004/9223/49223v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0004/9223/49223v5-max-250x250.jpg"],
+          [[256,
+            256],
+           "assets/images/resized/0004/9223/49223v5-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Lead UX/UI Design",
+    "person":
+     {"first_name": "Tony",
+      "last_name": "Fonseca",
+      "permalink": "tony-fonseca",
+      "image": null}},
+   {"is_past": true,
+    "title": "Lead Programmer",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Lum",
+      "permalink": "adam-lum",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitlinks",
+      "permalink": "twitlinks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0001/7280/17280v1-max-150x150.png"],
+          [[250,
+            120],
+           "assets/images/resized/0001/7280/17280v1-max-250x250.png"],
+          [[352,
+            169],
+           "assets/images/resized/0001/7280/17280v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TweetMeme",
+      "permalink": "tweetmeme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            11],
+           "assets/images/resized/0001/7282/17282v4-max-150x150.png"],
+          [[250,
+            19],
+           "assets/images/resized/0001/7282/17282v4-max-250x250.png"],
+          [[407,
+            32],
+           "assets/images/resized/0001/7282/17282v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Viral Motion",
+      "permalink": "viral-motion",
+      "image":
+       {"available_sizes":
+         [[[111,
+            65],
+           "assets/images/resized/0001/8664/18664v1-max-150x150.png"],
+          [[111,
+            65],
+           "assets/images/resized/0001/8664/18664v1-max-250x250.png"],
+          [[111,
+            65],
+           "assets/images/resized/0001/8664/18664v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MicroPlace",
+      "permalink": "microplace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/7063/27063v3-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0002/7063/27063v3-max-250x250.png"],
+          [[450,
+            135],
+           "assets/images/resized/0002/7063/27063v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

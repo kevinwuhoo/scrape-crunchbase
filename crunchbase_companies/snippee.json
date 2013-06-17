@@ -1,0 +1,127 @@
+{"name": "Snippee",
+ "permalink": "snippee",
+ "crunchbase_url": "http://www.crunchbase.com/company/snippee",
+ "homepage_url": "http://www.snippee.com",
+ "blog_url": "http://blog.snippee.com",
+ "blog_feed_url": "http://blog.snippee.com/?feed=rss2",
+ "twitter_username": "snippee_news",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "news, rss, newsfeed, social, aggregator, tagging, tags, categorize, reader",
+ "alias_list": null,
+ "email_address": "info@snippee.com",
+ "phone_number": "+447725868606",
+ "description": "Social news aggregator",
+ "created_at": "Tue Sep 08 12:59:01 UTC 2009",
+ "updated_at": "Tue Sep 08 18:51:53 UTC 2009",
+ "overview": "\u003Cp\u003ESnippee lets you read, share and discuss all your social and news snippets in one place.  Snippee will automatically tag and categorize each news item as it enters your stream so that news can be filtered and managed easily. \u003C/p\u003E\n\n\u003Cp\u003ESnippee lets you add the services you use and tell it exactly how frequently to check for new updates. Each news snippet is processed and added to your feed. You can also configure Snippee to alert you via Email or post directly to Twitter when a new snippet arrives in your stream.\u003C/p\u003E\n\n\u003Cp\u003ESnippee lets you share and discuss any interesting snippets you may have discovered with other Snippee users or post news items to other social networks like Twitter and Facebook.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0005/9090/59090v2-max-150x150.png"],
+     [[162,
+       46],
+      "assets/images/resized/0005/9090/59090v2-max-250x250.png"],
+     [[162,
+       46],
+      "assets/images/resized/0005/9090/59090v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Gavin",
+      "last_name": "Hammar",
+      "permalink": "gavin-hammar",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/4162/264162v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/4162/264162v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/4162/264162v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FriendFeed",
+      "permalink": "friendfeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1096/1096v1-max-150x150.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-250x250.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Lazyfeed",
+      "permalink": "lazyfeed",
+      "image":
+       {"available_sizes":
+         [[[123,
+            58],
+           "assets/images/resized/0005/7651/57651v1-max-150x150.jpg"],
+          [[123,
+            58],
+           "assets/images/resized/0005/7651/57651v1-max-250x250.jpg"],
+          [[123,
+            58],
+           "assets/images/resized/0005/7651/57651v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London",
+    "address1": "Flat 501",
+    "address2": "100 Kingsway",
+    "zip_code": "N12 0EQ",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        139],
+       "assets/images/resized/0005/9089/59089v2-max-150x150.png"],
+      [[250,
+        231],
+       "assets/images/resized/0005/9089/59089v2-max-250x250.png"],
+      [[450,
+        417],
+       "assets/images/resized/0005/9089/59089v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

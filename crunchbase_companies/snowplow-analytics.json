@@ -1,0 +1,176 @@
+{"name": "Snowplow Analytics",
+ "permalink": "snowplow-analytics",
+ "crunchbase_url": "http://www.crunchbase.com/company/snowplow-analytics",
+ "homepage_url": "http://snowplowanalytics.com",
+ "blog_url": "http://snowplowanalytics.com/blog",
+ "blog_feed_url": "http://snowplowanalytics.com/blog/atom.xml",
+ "twitter_username": "SnowplowData",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "big-data, web-analytics, event-analytics, data-science, clickstream-datawarehouse",
+ "alias_list": null,
+ "email_address": "contact@snowplowanalytics.com",
+ "phone_number": "+44 (0)203 589 6116",
+ "description": "Enterprise event analytics",
+ "created_at": "Wed Jun 05 10:35:05 UTC 2013",
+ "updated_at": "Thu Jun 06 10:06:35 UTC 2013",
+ "overview": "\u003Cp\u003ESnowplow is an enterprise-strength event analytics platform. It does three things:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EIdentifies your users, and tracks the way they engage with your website or application\u003C/li\u003E\n\u003Cli\u003EStores your users\u0026#8217; behavioural data in a scalable \u0026#8220;event data warehouse\u0026#8221; you control\u003C/li\u003E\n\u003Cli\u003EEnables you to join your web analytics and other Snowplow event data with 3rd party data sources e.g. marketing data sets (from Adwords, display networks, PPC providers), customer data sets e.g. from CRM systems and content and catalogue platforms e.g. CMSs\u003C/li\u003E\n\u003Cli\u003ELets you plug in \u003Cem\u003Eany\u003C/em\u003E analysis tool you wish to crunch that data, including big data toolsets (e.g. Hive, Pig, Mahout), traditional BI tools (e.g. Tableau, Microstrategy) and statistical and graphical tools e.g. R, SPSS, SAS\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0027/1998/271998v2-max-150x150.png"],
+     [[250,
+       38],
+      "assets/images/resized/0027/1998/271998v2-max-250x250.png"],
+     [[440,
+       68],
+      "assets/images/resized/0027/1998/271998v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Dean",
+      "permalink": "alexander-dean",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Yali",
+      "last_name": "Sassoon",
+      "permalink": "yali-sassoon",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mixpanel",
+      "permalink": "mixpanel",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0005/4076/54076v6-max-150x150.png"],
+          [[161,
+            66],
+           "assets/images/resized/0005/4076/54076v6-max-250x250.png"],
+          [[161,
+            66],
+           "assets/images/resized/0005/4076/54076v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adobe Systems",
+      "permalink": "adobe-systems",
+      "image":
+       {"available_sizes":
+         [[[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-150x150.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-250x250.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Webtrends",
+      "permalink": "webtrends",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0001/9352/19352v4-max-150x150.png"],
+          [[184,
+            32],
+           "assets/images/resized/0001/9352/19352v4-max-250x250.png"],
+          [[184,
+            32],
+           "assets/images/resized/0001/9352/19352v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "KISSmetrics",
+      "permalink": "kiss-metrics",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0004/1644/41644v3-max-150x150.png"],
+          [[245,
+            60],
+           "assets/images/resized/0004/1644/41644v3-max-250x250.png"],
+          [[245,
+            60],
+           "assets/images/resized/0004/1644/41644v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Keen IO",
+      "permalink": "keen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0019/8470/198470v4-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0019/8470/198470v4-max-250x250.png"],
+          [[450,
+            96],
+           "assets/images/resized/0019/8470/198470v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main office",
+    "address1": "The Roma Building",
+    "address2": "32-38 Scrutton Street",
+    "zip_code": "EC2A 4RQ",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5228337,
+    "longitude": -0.0818134}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.thoughtworks.com/radar",
+    "title": "Appearing in Thoughtworks Tech Radar May 2013"},
+   {"external_url": "https://github.com/snowplow/snowplow",
+    "title": "Source code repo (Github)"}]}

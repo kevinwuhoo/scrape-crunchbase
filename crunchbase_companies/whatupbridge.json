@@ -1,0 +1,105 @@
+{"name": "WhatUpBridge",
+ "permalink": "whatupbridge",
+ "crunchbase_url": "http://www.crunchbase.com/company/whatupbridge",
+ "homepage_url": "http://www.WhatUpBridge.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "WhatUpBridge",
+ "category_code": "other",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "drawbridge, bascule, tracking, traffic-data",
+ "alias_list": null,
+ "email_address": "Admin@WhatUpBridge.com",
+ "phone_number": "",
+ "description": "Free Infrastructure tracking service",
+ "created_at": "Wed Jan 04 18:10:34 UTC 2012",
+ "updated_at": "Mon Jul 09 16:25:36 UTC 2012",
+ "overview": "\u003Cp\u003EWhatUpBridge is a free service that lets you track bridges, rail road crossings, and other infrastructure according to your schedule and notifies you when they may affect your commute.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0016/8816/168816v2-max-150x150.png"],
+     [[250,
+       55],
+      "assets/images/resized/0016/8816/168816v2-max-250x250.png"],
+     [[326,
+       73],
+      "assets/images/resized/0016/8816/168816v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Allyn",
+      "last_name": "Alford",
+      "permalink": "allyn-alford",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0006/1333/61333v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0006/1333/61333v2-max-250x250.jpg"],
+          [[299,
+            450],
+           "assets/images/resized/0006/1333/61333v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CCO",
+    "person":
+     {"first_name": "Erik",
+      "last_name": "Ebright",
+      "permalink": "erik-ebright",
+      "image": null}},
+   {"is_past": true,
+    "title": "COO",
+    "person":
+     {"first_name": "Stonly",
+      "last_name": "Baptiste",
+      "permalink": "stonly-baptiste",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"335\" src=\"https://www.youtube.com/embed/m0gOr5PDt6E\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EWhatUpBridge @hackDay Miami on NBC6 Miami\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        102],
+       "assets/images/resized/0016/8950/168950v2-max-150x150.jpg"],
+      [[250,
+        170],
+       "assets/images/resized/0016/8950/168950v2-max-250x250.jpg"],
+      [[450,
+        306],
+       "assets/images/resized/0016/8950/168950v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

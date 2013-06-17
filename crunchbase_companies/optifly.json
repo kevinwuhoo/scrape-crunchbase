@@ -1,0 +1,108 @@
+{"name": "Optifly",
+ "permalink": "optifly",
+ "crunchbase_url": "http://www.crunchbase.com/company/optifly",
+ "homepage_url": "http://optifly.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "flights, tickets, routes, optimization, cheap-flights, visualization, maps, search",
+ "alias_list": null,
+ "email_address": "optifly@atamagroup.com",
+ "phone_number": "(888) 372-3640",
+ "description": "find, visualize cheap flights",
+ "created_at": "Mon May 18 19:23:12 UTC 2009",
+ "updated_at": "Wed May 20 17:00:41 UTC 2009",
+ "overview": "\u003Cp\u003EOptifly.com allows users to visualize routes and find the fastest, cheapest way to fly between cities using over 250 low cost carriers and 700 airlines.\u003C/p\u003E\n\n\u003Cp\u003EOptifly is the only tool which provides flight searches using both major carriers and also low cost airlines.  Optifly is also the only tool which provides comprehensive visualization of routes in both map and earth views.\u003C/p\u003E\n\n\u003Cp\u003EExploring Optifly further demonstrates many additional features that are very useful to travelers.  These include detailed historical weather information, visa info, travel warnings, and city/country information.\u003C/p\u003E\n\n\u003Cp\u003ESearches on Optifly are extremely fast due to their proprietary route calculation algorithm and search engine.  Results come back in sub second time versus the normal 60 seconds plus on other commercial flight search tools.\u003C/p\u003E\n\n\u003Cp\u003EOptifly was designed and built by a travel veteran and software architect who has visited over 70 countries.  As advisors, Optifly also consulted many other travel experts including \u0026#8216;the most traveled man in the history of the world\u0026#8217;.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       84],
+      "assets/images/resized/0004/4503/44503v2-max-150x150.png"],
+     [[250,
+       140],
+      "assets/images/resized/0004/4503/44503v2-max-250x250.png"],
+     [[300,
+       168],
+      "assets/images/resized/0004/4503/44503v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Optifly",
+    "permalink": "optifly",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bryan",
+      "last_name": "Cooley",
+      "permalink": "bryan-cooley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Air Ninja",
+      "permalink": "air-ninja",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0025/0091/250091v1-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0025/0091/250091v1-max-250x250.png"],
+          [[276,
+            68],
+           "assets/images/resized/0025/0091/250091v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "St Louis",
+    "address1": "1110 Washington Ave",
+    "address2": "Ste 6L",
+    "zip_code": "63101",
+    "city": "St Louis",
+    "state_code": "MO",
+    "country_code": "USA",
+    "latitude": 38.631232,
+    "longitude": -90.195631}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        87],
+       "assets/images/resized/0004/4502/44502v2-max-150x150.png"],
+      [[250,
+        146],
+       "assets/images/resized/0004/4502/44502v2-max-250x250.png"],
+      [[450,
+        262],
+       "assets/images/resized/0004/4502/44502v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://strom.wordpress.com/2009/04/06/how-to-find-the-right-flights-with-optiflycom",
+    "title": "Optifly Preview"},
+   {"external_url": "http://www.24-7pressrelease.com/press-release/new-travel-web-site-offers-revolutionary-tool-for-searching-and-planning-flights-97013.php",
+    "title": "Optifly Press Release"},
+   {"external_url": "http://en.wikipedia.org/wiki/Optifly",
+    "title": "Optifly Wikipedia"}]}

@@ -1,0 +1,111 @@
+{"name": "Zollpo",
+ "permalink": "zollpo",
+ "crunchbase_url": "http://www.crunchbase.com/company/zollpo",
+ "homepage_url": "http://www.zollpo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zollpo",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 11,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "location-based-service",
+ "alias_list": null,
+ "email_address": "biancoidan@zollpo.com",
+ "phone_number": "972-54-7707199",
+ "description": "All The Sales Around You In One Click!",
+ "created_at": "Sun Dec 06 16:34:11 UTC 2009",
+ "updated_at": "Thu Jul 15 19:12:39 UTC 2010",
+ "overview": "\u003Cp\u003EWhat is Zollpo.com?\u003C/p\u003E\n\n\u003Cp\u003EWouldn\u0026#8217;t you want to know if there are any exciting new sales around you?\nZollpo.com gives you the power to find all these sales and more in a click away.\nZollpo.com was created in order to give customers a free access to the \u0026#8220;real world\u0026#8217;s\u0026#8221; sales. Sales that unless the web, might not have been visible.\u003C/p\u003E\n\n\u003Cp\u003EZollpo.com also connects Small \u0026amp; Medium Business with less marketing tools to their customers.\nIn Zollpo.com we\u0026#8217;ve developed a search engine to help people find on a static map, all the sales: around them, around their work place, around their next vacation spot. All in the click of a button!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0006/8700/68700v2-max-150x150.png"],
+     [[222,
+       83],
+      "assets/images/resized/0006/8700/68700v2-max-250x250.png"],
+     [[222,
+       83],
+      "assets/images/resized/0006/8700/68700v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, Business Development",
+    "person":
+     {"first_name": "Idan",
+      "last_name": "Bianco",
+      "permalink": "idan-bianco",
+      "image":
+       {"available_sizes":
+         [[[134,
+            150],
+           "assets/images/resized/0009/3349/93349v2-max-150x150.jpg"],
+          [[224,
+            250],
+           "assets/images/resized/0009/3349/93349v2-max-250x250.jpg"],
+          [[403,
+            450],
+           "assets/images/resized/0009/3349/93349v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EIdan Bianco\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Co-Founder, Engineering ",
+    "person":
+     {"first_name": "Matan",
+      "last_name": "Levi",
+      "permalink": "matan-levi",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Google Maps Api",
+    "is_past": false,
+    "provider":
+     {"name": "Google App Engine",
+      "permalink": "google-app-engine-2",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "Tidhar 23",
+    "address2": "",
+    "zip_code": "",
+    "city": "Ramat Gan",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/im4KJbGM6HU\u0026hl=en_US\u0026fs=1\u0026\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/im4KJbGM6HU\u0026hl=en_US\u0026fs=1\u0026\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EZollpo User Guide\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0006/8699/68699v2-max-150x150.jpg"],
+      [[250,
+        156],
+       "assets/images/resized/0006/8699/68699v2-max-250x250.jpg"],
+      [[450,
+        281],
+       "assets/images/resized/0006/8699/68699v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

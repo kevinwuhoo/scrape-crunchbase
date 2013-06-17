@@ -1,0 +1,160 @@
+{"name": "XYZE",
+ "permalink": "xyze",
+ "crunchbase_url": "http://www.crunchbase.com/company/xyze",
+ "homepage_url": "http://www.xyze.it/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@xyresize.it",
+ "phone_number": "",
+ "description": "Fashion on line",
+ "created_at": "Sat Jun 08 10:10:11 UTC 2013",
+ "updated_at": "Tue Jun 11 17:16:54 UTC 2013",
+ "overview": "\u003Cp\u003EXYZE is their new technology for fashion on line which connects your body measurements with clothes you want to buy.\u003C/p\u003E\n\n\u003Cp\u003EHow? With a digital bracelet you can use to take your measurements (it\u2019s the new tailor\u2019s tape) and a software which collects these measurements and integrates directly in brand e-store to buy the right size and 100% fitting.\u003C/p\u003E\n\n\u003Cp\u003E1- They improve the shopping experience for users\n2- They decrease return rates for brands\n3- They give brands body size analytics\u003C/p\u003E\n\n\u003Cp\u003E\u003Cem\u003EWith XYZE it\u2019s impossible to buy wrong!\u003C/em\u003E\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0027/3136/273136v1-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0027/3136/273136v1-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0027/3136/273136v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Andrea",
+      "last_name": "Mazzon",
+      "permalink": "andrea-mazzon",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO \u0026 Partner",
+    "person":
+     {"first_name": "Cristian",
+      "last_name": "Veller",
+      "permalink": "cristian-veller",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Paolo",
+      "last_name": "Spiga",
+      "permalink": "paolo-spiga",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Fits.me",
+      "permalink": "fits-me",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0005/0417/50417v12-max-150x150.jpg"],
+          [[250,
+            92],
+           "assets/images/resized/0005/0417/50417v12-max-250x250.jpg"],
+          [[450,
+            167],
+           "assets/images/resized/0005/0417/50417v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UPcload",
+      "permalink": "upcload",
+      "image":
+       {"available_sizes":
+         [[[106,
+            45],
+           "assets/images/resized/0016/0086/160086v1-max-150x150.png"],
+          [[106,
+            45],
+           "assets/images/resized/0016/0086/160086v1-max-250x250.png"],
+          [[106,
+            45],
+           "assets/images/resized/0016/0086/160086v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Virtusize",
+      "permalink": "virtusize",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0022/1461/221461v2-max-150x150.png"],
+          [[250,
+            96],
+           "assets/images/resized/0022/1461/221461v2-max-250x250.png"],
+          [[450,
+            174],
+           "assets/images/resized/0022/1461/221461v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "H-Farm Source",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company":
+        {"name": "H-FARM Ventures",
+         "permalink": "h-farm",
+         "image":
+          {"available_sizes":
+            [[[90,
+               88],
+              "assets/images/resized/0005/2229/52229v2-max-150x150.png"],
+             [[90,
+               88],
+              "assets/images/resized/0005/2229/52229v2-max-250x250.png"],
+             [[90,
+               88],
+              "assets/images/resized/0005/2229/52229v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Via Sile 41",
+    "address2": "Tenuta C\u00e0 Tron",
+    "zip_code": "",
+    "city": "Roncade",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": 45.5648451,
+    "longitude": 12.427597}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

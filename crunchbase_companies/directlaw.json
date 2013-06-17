@@ -1,0 +1,117 @@
+{"name": "DirectLaw",
+ "permalink": "directlaw",
+ "crunchbase_url": "http://www.crunchbase.com/company/directlaw",
+ "homepage_url": "http://www.directlaw.com",
+ "blog_url": "http://www.elawyeringredux.com",
+ "blog_feed_url": "",
+ "twitter_username": "rgranat",
+ "category_code": "legal",
+ "number_of_employees": 12,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-legal-services, document-automation, virtual-law-firm-technology, elawyering, saas-legal-service",
+ "alias_list": null,
+ "email_address": "richard@directlaw.com",
+ "phone_number": "561-656-2080",
+ "description": "Virtual Law Firm Provider",
+ "created_at": "Tue Feb 09 03:26:45 UTC 2010",
+ "updated_at": "Mon Feb 15 22:11:47 UTC 2010",
+ "overview": "\u003Cp\u003EDirectLaw provides a virtual law firm platform to law firms to enable them to offer legal services online. \nDirectLaw is offered as a Software as a Service (Saas) on a monthly subscription enabling the smallest of law firms to offer legal services online.\nA law firm subscribing to DirectLaw enables its clients to have their own MyLegalAffairs web space where they can purchase leal documents bundled with legal advice, collaborate and communicate with their attorneys, schedule appointments, and pay legal bills online.\nDirectLaw creates a secure client portal for a law firm where clients can sign in with their user names and passwords and purchase legal services.\nDirectLaw develops intelligent legal applications such as child support calculators, smart legal documents, bankruptcy calculators, and web legal advisors, that can be offered from the DirectLaw Virtual Law Firm Platform.\nPowered by our own web-enabled document automation solution, a DirectLaw subscription includes automated legal document and form libraries ready to use.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "DirectLaw Virtual LAw Firm Platform",
+    "permalink": "directlaw-virtual-law-firm-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "President/CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Granat",
+      "permalink": "richard-granat-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TotalAttorneys",
+      "permalink": "totalattorneys",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0018/0966/180966v3-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0018/0966/180966v3-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0018/0966/180966v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wizilegal",
+      "permalink": "wizilegal",
+      "image": null}}],
+ "providerships":
+  [{"title": "Public Relations",
+    "is_past": false,
+    "provider":
+     {"name": "Infinitepr",
+      "permalink": "infinitepr",
+      "image": null}}],
+ "total_money_raised": "$300k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 300000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 8,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Epoq",
+         "permalink": "epoq",
+         "image":
+          {"available_sizes":
+            [[[150,
+               125],
+              "assets/images/resized/0003/4110/34110v2-max-150x150.png"],
+             [[250,
+               208],
+              "assets/images/resized/0003/4110/34110v2-max-250x250.png"],
+             [[450,
+               375],
+              "assets/images/resized/0003/4110/34110v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "800 Village Square Crossing",
+    "address2": "Suite 318",
+    "zip_code": "33419",
+    "city": "Palm Beach Gardens",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.directlaw.com/press.asp",
+    "title": "press page"}]}

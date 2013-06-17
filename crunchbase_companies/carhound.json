@@ -1,0 +1,123 @@
+{"name": "CarHound",
+ "permalink": "carhound",
+ "crunchbase_url": "http://www.crunchbase.com/company/carhound",
+ "homepage_url": "http://www.carhound.com",
+ "blog_url": "http://carhound.com/posts",
+ "blog_feed_url": "",
+ "twitter_username": "CarHoundDotCom",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "automotive, auction, marketplace",
+ "alias_list": "",
+ "email_address": "andrew@carhound.com",
+ "phone_number": "",
+ "description": "Revolutionizing car purchases",
+ "created_at": "Fri Jun 22 01:04:36 UTC 2012",
+ "updated_at": "Sun Apr 07 18:15:54 UTC 2013",
+ "overview": "\u003Cp\u003ECarHound is revolutionizing the car buying process by making it a more efficient marketplace for car buyers and car dealers.\u003C/p\u003E\n\n\u003Cp\u003ECar buyers abhor the process of shopping and negotiating price on a new car. Car dealers dislike spending significant amounts of time on window shoppers and worse, paying for these leads. CarHound makes it a more efficient marketplace for everyone by connecting serious buyers with the best dealers; competitive, service oriented, and honest.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0019/6709/196709v2-max-150x150.jpg"],
+     [[250,
+       62],
+      "assets/images/resized/0019/6709/196709v2-max-250x250.jpg"],
+     [[386,
+       96],
+      "assets/images/resized/0019/6709/196709v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Liu",
+      "permalink": "andrew-liu-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder and CTO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Kopec",
+      "permalink": "david-kopec",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Jorge",
+      "last_name": "Silva-Risso",
+      "permalink": "jorge-silva-risso",
+      "image": null}},
+   {"is_past": true,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Lee",
+      "permalink": "philip-lee",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Wilson Sonsini Goodrich \u0026 Rosati",
+      "permalink": "wilson-sonsini-goodrich-rosati",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/9486/19486v1-max-150x150.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-250x250.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "70 S Lake Avenue",
+    "address2": "Suite 1000",
+    "zip_code": "91101",
+    "city": "Pasadena",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

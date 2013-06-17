@@ -1,0 +1,123 @@
+{"name": "Boring",
+ "permalink": "boring",
+ "crunchbase_url": "http://www.crunchbase.com/company/boring",
+ "homepage_url": "http://www.boringlondon.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 11,
+ "deadpooled_day": 1,
+ "deadpooled_url": "",
+ "tag_list": "web-design, social-media, production, consultancy, digital, social, online-publishing, profile, websites, messaging, chat, students, education, creative, flash, animation, advertising, marketing, online-marketing, microsites, php, mysql, widgets",
+ "alias_list": null,
+ "email_address": "info@boringlondon.com",
+ "phone_number": "02076556540",
+ "description": "Digital agency network",
+ "created_at": "Thu Mar 19 12:51:42 UTC 2009",
+ "updated_at": "Thu Nov 04 18:17:34 UTC 2010",
+ "overview": "\u003Cp\u003EBoring is a digital group of companies based in central London.\u003C/p\u003E\n\n\u003Cp\u003EBoring\u0026#8217;s companies include Acknowledgement, a digital marketing agency, Boring Student, a social network for students in their year before University and MyLongLunch, a an online and offline social networks for recruitment industry professionals.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0003/8669/38669v2-max-150x150.png"],
+     [[250,
+       102],
+      "assets/images/resized/0003/8669/38669v2-max-250x250.png"],
+     [[262,
+       107],
+      "assets/images/resized/0003/8669/38669v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "BoringStudent",
+    "permalink": "boringstudent",
+    "image": null},
+   {"name": "MyLongLunch",
+    "permalink": "mylonglunch",
+    "image":
+     {"available_sizes":
+       [[[150,
+          37],
+         "assets/images/resized/0003/9391/39391v2-max-150x150.jpg"],
+        [[200,
+          50],
+         "assets/images/resized/0003/9391/39391v2-max-250x250.jpg"],
+        [[200,
+          50],
+         "assets/images/resized/0003/9391/39391v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Will",
+      "last_name": "Smith",
+      "permalink": "will-smith-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Marketing Director",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Jordan",
+      "permalink": "tom-jordan",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/2608/262608v2-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/2608/262608v2-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/2608/262608v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Murphy",
+      "permalink": "philip-murphy",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Web Design",
+    "is_past": false,
+    "provider":
+     {"name": "Acknowledgement",
+      "permalink": "acknowledgement",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "11-29 Fashion Street",
+    "address2": "",
+    "zip_code": "E1 6PX",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.5183725,
+    "longitude": -0.0740678}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

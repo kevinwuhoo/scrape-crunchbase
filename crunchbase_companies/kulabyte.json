@@ -1,0 +1,105 @@
+{"name": "Kulabyte",
+ "permalink": "kulabyte",
+ "crunchbase_url": "http://www.crunchbase.com/company/kulabyte",
+ "homepage_url": "http://kulabyte.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2004,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@kulabyte.com",
+ "phone_number": "866.403.1604",
+ "description": null,
+ "created_at": "Thu Mar 06 07:49:46 UTC 2008",
+ "updated_at": "Tue Nov 18 19:59:03 UTC 2008",
+ "overview": "\u003Cp\u003EKulabyte is a company that specializes in real-time, high-quality video encoding for streaming events. They claim that they can provide \u0026#8220;faster than real-time\u0026#8221; 2-pass Variable Bit Rate (VBR) encoding, which they say is a \u0026#8220;first for the video industry.\u0026#8221; Kulabyte achieves this speed and quality by splitting up the video and encoding small chunks in parallel and then stitching them together as the video transfers. \u003C/p\u003E\n\n\u003Cp\u003EKulabyte was chosen as the streaming partner for the high-profile \u003Ca href=\"http://www.techcrunch.com/2008/03/05/operation-myspace-has-real-tech-behind-it-debut-of-kulabyte/\" title=\"Operation MySpace\"\u003EOperation MySpace\u003C/a\u003E event in March 2008.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0001/4676/14676v1-max-150x150.jpg"],
+     [[250,
+       78],
+      "assets/images/resized/0001/4676/14676v1-max-250x250.jpg"],
+     [[256,
+       80],
+      "assets/images/resized/0001/4676/14676v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 Executive Vice President",
+    "person":
+     {"first_name": "Blake",
+      "last_name": "Wenzel",
+      "permalink": "blake-wenzel",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "Christopher",
+      "last_name": "Gottschalk",
+      "permalink": "christopher-gottschalk",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Robin",
+      "last_name": "Rush",
+      "permalink": "robin-rush",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP of Strategic Alliances",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Forman",
+      "permalink": "peter-forman",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Terry",
+      "last_name": "Gottschalk",
+      "permalink": "terry-gottschalk",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "2410 Hunter Road",
+    "address2": "",
+    "zip_code": "78666",
+    "city": "San Marcos",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 29.860466,
+    "longitude": -97.96618}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

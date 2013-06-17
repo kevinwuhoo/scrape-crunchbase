@@ -1,0 +1,92 @@
+{"name": "LinkPoint360",
+ "permalink": "linkpoint360",
+ "crunchbase_url": "http://www.crunchbase.com/company/linkpoint360",
+ "homepage_url": "http://www.LinkPoint360.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "LinkPoint360",
+ "category_code": "software",
+ "number_of_employees": 12,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "crm, salesforce, saleslogix, sagecrm, act, microsoft-crm, microsoft-dynamics-crm, crm-add-on, netsuite, pivotal, pivotal-crm, mscrm",
+ "alias_list": null,
+ "email_address": "info@linkpoint360.com",
+ "phone_number": "732-212-8402",
+ "description": "CRM add-on vendor",
+ "created_at": "Wed Apr 07 14:34:12 UTC 2010",
+ "updated_at": "Sat Aug 21 00:24:05 UTC 2010",
+ "overview": "\u003Cp\u003ELinkPoint360 is a leading provider of Enterprise Email integration software applications to the CRM industry. Our clients include midsize and enterprise organizations around the globe.\u003C/p\u003E\n\n\u003Cp\u003ELinkPoint\u0026#8217;s ease of deployment and intuitive interface provides enterprise organizations the ability to integrate their messaging and collaboration systems with their CRM applications. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0008/3084/83084v2-max-150x150.png"],
+     [[250,
+       68],
+      "assets/images/resized/0008/3084/83084v2-max-250x250.png"],
+     [[404,
+       110],
+      "assets/images/resized/0008/3084/83084v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "LinkPoint Connect",
+    "permalink": "linkpoint-connect",
+    "image": null},
+   {"name": "LinkPoint Vue",
+    "permalink": "linkpoint-vue",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director of Product Management",
+    "person":
+     {"first_name": "Nart",
+      "last_name": "Dokghan",
+      "permalink": "nart-dokghan",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Business Development",
+    "person":
+     {"first_name": "Glenn",
+      "last_name": "Lehner",
+      "permalink": "glenn-lehner",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "157 Broad Street",
+    "address2": "Suite 110",
+    "zip_code": "07701",
+    "city": "Red Bank",
+    "state_code": "NJ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://sites.force.com/appexchange/listingDetail?listingId=a0N30000001qTIuEAM",
+    "title": "AppExchange LinkPoint Vue"},
+   {"external_url": "http://sites.force.com/appexchange/listingDetail?listingId=a0N300000016aIGEAY",
+    "title": "AppExchange LinkPoint Connect"}]}

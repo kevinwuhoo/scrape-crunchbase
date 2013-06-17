@@ -1,0 +1,71 @@
+{"name": "FolderMaestro",
+ "permalink": "foldermaestro",
+ "crunchbase_url": "http://www.crunchbase.com/company/foldermaestro",
+ "homepage_url": "http://www.foldermaestro.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "share, enterprise, collaboration, managed-file-transfer, file-sharing, business-file-sharing",
+ "alias_list": null,
+ "email_address": "sales@FolderMaestro.com",
+ "phone_number": "631.979.1770 ",
+ "description": null,
+ "created_at": "Sat Oct 04 03:30:35 UTC 2008",
+ "updated_at": "Tue Nov 18 02:10:54 UTC 2008",
+ "overview": "\u003Cp\u003EFolderMaestro File Collaboration is an enterprise level real-time multi-directional distributed file locking and synchronization technology that ensures the same data exists on all participating servers regardless of where changes occur, and prevents users on disparate networks from accessing a file that is in use by a user on another network. A file collaboration session consists of two or more participating servers, and a folder hierarchy called the Watch Set, located on each server which will be kept synchronized by propagating file locks and modifications to all participating servers in real-time.\u003C/p\u003E\n\n\u003Cp\u003EFolderMaestro has local and remote characteristics that form the basis of a distributed application framework. A FolderMaestro installation is composed of 3 primary components:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003E\u003Cp\u003EFolderMaestro Hub\nThe Hub is the central component of the FolderMaestro framework. All FolderMaestro solutions are installed, configured and started at the Hub.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EFolderMaestro Broker\nThe Broker makes up the central messaging system that supports FolderMaestro applications. The Broker provides the core communication facility that connects the Hub and Agents in a FolderMaestro collaboration environment.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EFolderMaestro Agent\nThe Agent is a lightweight component that is installed on a networked host that enables it to participate in a FolderMaestro collaboration environment. \u003C/p\u003E\u003C/li\u003E\n\u003C/ol\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0002/6141/26141v1-max-150x150.png"],
+     [[246,
+       70],
+      "assets/images/resized/0002/6141/26141v1-max-250x250.png"],
+     [[246,
+       70],
+      "assets/images/resized/0002/6141/26141v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "FolderMaestro, LLC ",
+    "address1": "4155 Veterans Highway, Suite 12 ",
+    "address2": "",
+    "zip_code": "11779 ",
+    "city": "Ronkonkoma",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.782735,
+    "longitude": -73.100264}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

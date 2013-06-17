@@ -1,0 +1,171 @@
+{"name": "KANBANize",
+ "permalink": "kanbanize",
+ "crunchbase_url": "http://www.crunchbase.com/company/kanbanize",
+ "homepage_url": "http://kanbanize.com",
+ "blog_url": "https://groups.google.com/forum/?fromgroups#!forum/com_kanbanize",
+ "blog_feed_url": "https://groups.google.com/forum/?fromgroups#!forum/com_kanbanize",
+ "twitter_username": "kanbanizecom",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "lean, agile, kanban, lean-startup, project-management, process-management, software-as-a-service, visual-management, program-management, work-flow, process-flow, process-improvement, collaboration, scrum, kanban-board, development",
+ "alias_list": null,
+ "email_address": "office@kanbanize.com",
+ "phone_number": "",
+ "description": "Lean/Agile Kanban tool",
+ "created_at": "Fri Oct 12 13:16:32 UTC 2012",
+ "updated_at": "Mon May 13 07:07:08 UTC 2013",
+ "overview": "\u003Cp\u003EKanban is a technique that originally emerged in Japanese auto-manufacturing as a way to use signalling cards to limit work-in-progress inventory and smooth operations on the factory floor.\u003C/p\u003E\n\n\u003Cp\u003EKANBANize provides online Kanban boards for managing projects and organizing work in distributed teams, all in line with the Kanban method. With this tool you get to visualize workflow, limit work in progress, measure and analyze entire work process and receive constant improving results.\nFor the ultimate project management KANBANize offers features as: unlimited number of boards, multiple swim-lanes and nested columns, customizable card views, card templates, complete activity history, export in XML and CSV and notifications. To measure work in progress and estimate results KANBANize uses the powerful weapon of the metrics visualizing the cumulative flow, lead time, task distribution and block resolution time. All this is combined with a user management console, designed for various development case scenarios.\u003C/p\u003E\n\n\u003Cp\u003EWhether it\u0026#8217;s a small team or an entire enterprise you run, KANBANize is the ultimate project management solution for your needs. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0021/6701/216701v2-max-150x150.png"],
+     [[180,
+       53],
+      "assets/images/resized/0021/6701/216701v2-max-250x250.png"],
+     [[180,
+       53],
+      "assets/images/resized/0021/6701/216701v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Hristo",
+      "last_name": "Stalev",
+      "permalink": "hristo-stalev",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Dimitar",
+      "last_name": "Karaivanov",
+      "permalink": "dimitar-karaivanov",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/1618/261618v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/1618/261618v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/1618/261618v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LeanKit",
+      "permalink": "leankit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0023/7240/237240v2-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0023/7240/237240v2-max-250x250.png"],
+          [[450,
+            149],
+           "assets/images/resized/0023/7240/237240v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kanban Solutions",
+      "permalink": "kanban-solutions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0016/7477/167477v1-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0016/7477/167477v1-max-250x250.png"],
+          [[263,
+            77],
+           "assets/images/resized/0016/7477/167477v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Enkari, Ltd.",
+      "permalink": "zen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            69],
+           "assets/images/resized/0005/2820/52820v2-max-150x150.jpg"],
+          [[250,
+            115],
+           "assets/images/resized/0005/2820/52820v2-max-250x250.jpg"],
+          [[450,
+            207],
+           "assets/images/resized/0005/2820/52820v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Grasshopper",
+      "permalink": "grasshopper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/4492/14492v7-max-150x150.png"],
+          [[215,
+            43],
+           "assets/images/resized/0001/4492/14492v7-max-250x250.png"],
+          [[215,
+            43],
+           "assets/images/resized/0001/4492/14492v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Eleven Portfolio",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Eleven",
+         "permalink": "eleven",
+         "image":
+          {"available_sizes":
+            [[[150,
+               50],
+              "assets/images/resized/0026/0584/260584v1-max-150x150.jpg"],
+             [[250,
+               83],
+              "assets/images/resized/0026/0584/260584v1-max-250x250.jpg"],
+             [[300,
+               100],
+              "assets/images/resized/0026/0584/260584v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

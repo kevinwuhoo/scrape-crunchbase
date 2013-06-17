@@ -1,0 +1,110 @@
+{"name": "Source Ninja",
+ "permalink": "source-ninja",
+ "crunchbase_url": "http://www.crunchbase.com/company/source-ninja",
+ "homepage_url": "http://www.sourceninja.com",
+ "blog_url": "http://blog.sourceninja.com",
+ "blog_feed_url": "",
+ "twitter_username": "sourceninja",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "opensource, security, performance",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Solving Open Source Headaches",
+ "created_at": "Fri Oct 14 23:09:55 UTC 2011",
+ "updated_at": "Thu Nov 17 18:26:57 UTC 2011",
+ "overview": "\u003Cp\u003ESourceNinja prevents problems in applications that use open source. \u003C/p\u003E\n\n\u003Cp\u003ESourceNinja notifies developers when updates are released or problems occur. Issues we prevent include license changes, security vulnerabilities, and performance problems.\u003C/p\u003E\n\n\u003Cp\u003ESourceNinja offers a product for individual developers and large enterprises.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0016/1991/161991v2-max-150x150.png"],
+     [[250,
+       105],
+      "assets/images/resized/0016/1991/161991v2-max-250x250.png"],
+     [[450,
+       189],
+      "assets/images/resized/0016/1991/161991v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Brett",
+      "last_name": "Hardin",
+      "permalink": "brett-hardin",
+      "image":
+       {"available_sizes":
+         [[[122,
+            150],
+           "assets/images/resized/0009/1317/91317v2-max-150x150.jpg"],
+          [[204,
+            250],
+           "assets/images/resized/0009/1317/91317v2-max-250x250.jpg"],
+          [[300,
+            367],
+           "assets/images/resized/0009/1317/91317v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Stump",
+      "permalink": "matthew-stump-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2013/02/15/kissmetrics-acquires-sourceninja/",
+   "source_description": "KISSmetrics Makes Its First Acquisition - Open Source Startup SourceNinja",
+   "acquired_year": 2013,
+   "acquired_month": 2,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "KISSmetrics",
+     "permalink": "kiss-metrics",
+     "image":
+      {"available_sizes":
+        [[[150,
+           36],
+          "assets/images/resized/0004/1644/41644v3-max-150x150.png"],
+         [[245,
+           60],
+          "assets/images/resized/0004/1644/41644v3-max-250x250.png"],
+         [[245,
+           60],
+          "assets/images/resized/0004/1644/41644v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

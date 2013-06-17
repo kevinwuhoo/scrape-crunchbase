@@ -1,0 +1,95 @@
+{"name": "Choozle",
+ "permalink": "choozle",
+ "crunchbase_url": "http://www.crunchbase.com/company/choozle",
+ "homepage_url": "http://www.choozle.com",
+ "blog_url": "http://blog.choozle.com/",
+ "blog_feed_url": "",
+ "twitter_username": "choozle",
+ "category_code": "advertising",
+ "number_of_employees": 6,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "marketing, advertising, software, platform, saas, software-as-a-service, digital-media, media, agency, rich-media, multi-platform",
+ "alias_list": null,
+ "email_address": "Andrew@choozle.com",
+ "phone_number": "303-495-2075",
+ "description": "Visual Engagement Media Platform",
+ "created_at": "Tue Apr 30 02:11:59 UTC 2013",
+ "updated_at": "Tue Apr 30 21:56:55 UTC 2013",
+ "overview": "\u003Cp\u003EChoozle is rich media platform that enables marketers to create, distribute, and measure unique visual media experiences.  The flagship visual voting apps are served in rich media ad units, embedded into any website/blog, and distributed via unique social media modules.  As consumers engage and share Choozles, the platform captures real-time consumer insights (non-PII); consumer data can also be modeled to reach larger segments online, and utilized for purchase attribution ROI.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0025/6525/256525v2-max-150x150.png"],
+     [[250,
+       50],
+      "assets/images/resized/0025/6525/256525v2-max-250x250.png"],
+     [[450,
+       90],
+      "assets/images/resized/0025/6525/256525v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Visual Voting Module",
+    "permalink": "visual-voting-module",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Co-Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Fischer",
+      "permalink": "andrew-fischer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Product Officer, Co-Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Finch",
+      "permalink": "jeff-finch",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$528k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 527500.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 10,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1062 Delaware Street",
+    "address2": "",
+    "zip_code": "80204",
+    "city": "Denver",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,82 @@
+{"name": "I2IC Corporation",
+ "permalink": "i2ic-corporation",
+ "crunchbase_url": "http://www.crunchbase.com/company/i2ic-corporation",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "hardware",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video-capture, video-display",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Video Display and capture",
+ "created_at": "Mon Jan 04 19:41:23 UTC 2010",
+ "updated_at": "Mon Jan 04 19:41:23 UTC 2010",
+ "overview": "\u003Cp\u003EI2IC Corporation is a video capture and display company.\nThey make a combined video display and image capture system and method. In one embodiment the system alternates between the capture period of the camera  and the image display period to isolate the camera from the display.\u003C/p\u003E\n\n\u003Cp\u003EVarious methods are disclosed to achieve the alternation in the capture and the display periods of the system. Distortions in the captured image can be corrected using an image correction subsystem.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CXO",
+    "person":
+     {"first_name": "Cowsy",
+      "last_name": "Wadia",
+      "permalink": "cowsy-wadia",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Udayan",
+      "last_name": "Kanade",
+      "permalink": "udayan-kanade",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$621k",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://sec.gov/Archives/edgar/data/1479795/000147979510000001/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC D",
+    "raised_amount": 620750.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 1,
+    "funded_day": 4,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "94404",
+    "city": "Fremont",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

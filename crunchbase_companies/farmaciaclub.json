@@ -1,0 +1,98 @@
+{"name": "FarmaciaClub",
+ "permalink": "farmaciaclub",
+ "crunchbase_url": "http://www.crunchbase.com/company/farmaciaclub",
+ "homepage_url": "http://farmaciaclub.com/",
+ "blog_url": "http://farmaciaclub.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "FarmaciaClub",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "678 47 96 06",
+ "description": "",
+ "created_at": "Mon Jan 07 03:45:26 UTC 2013",
+ "updated_at": "Mon Jan 07 03:45:25 UTC 2013",
+ "overview": "\u003Cp\u003EFarmaciaClub, a Santander, Spain-based company that operates an online store of para-pharmaceutical products.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0022/8378/228378v1-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0022/8378/228378v1-max-250x250.png"],
+     [[300,
+       68],
+      "assets/images/resized/0022/8378/228378v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Banuelos",
+      "permalink": "david-banuelos",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Guillermo",
+      "last_name": "Alvarez",
+      "permalink": "guillermo-alvarez",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac300k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.finsmes.com/2013/01/farmaciaclub-closes-e300k-seed-funding.html",
+    "source_description": "FarmaciaClub Closes \u20ac300K Seed Funding",
+    "raised_amount": 300000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2013,
+    "funded_month": 1,
+    "funded_day": 6,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "ENISA",
+         "permalink": "enisa",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

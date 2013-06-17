@@ -1,0 +1,116 @@
+{"name": "BBS Technologies",
+ "permalink": "bbs-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/bbs-technologies",
+ "homepage_url": "http://www.bbstech.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@bbstek.com",
+ "phone_number": "713-862-5250",
+ "description": "",
+ "created_at": "Thu Apr 15 14:08:17 UTC 2010",
+ "updated_at": "Thu Apr 15 14:08:16 UTC 2010",
+ "overview": "\u003Cp\u003EBBS Technologies, Inc. offers tools for data management. The company provides software tools that help its customers to manage, administer, and secure Windows computer networks database management systems, including security and compliance management, performance and availability management, backup and recovery, and change and configuration management. It also offers continuous data protection solution for Linux Servers and MySQL databases; backing up servers; and databases. In addition, the company offers technical support and server managed services. Its products are sold through ecommerce, telesales distributors, and resellers in the United States and internationally. The company was founded in 2000 and is based in Houston, Texas. It has sales and support operations in the United States and internationally.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0008/3881/83881v1-max-150x150.jpg"],
+     [[250,
+       44],
+      "assets/images/resized/0008/3881/83881v1-max-250x250.jpg"],
+     [[350,
+       62],
+      "assets/images/resized/0008/3881/83881v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "J. Pleczko",
+      "permalink": "richard-j-pleczko",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "York",
+      "last_name": "Richards",
+      "permalink": "york-richards",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Technology",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Frank",
+      "permalink": "mike-frank",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$8M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 8000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 4,
+    "funded_day": 21,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Austin Ventures",
+         "permalink": "austin-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               61],
+              "assets/images/resized/0001/0806/10806v1-max-150x150.png"],
+             [[215,
+               88],
+              "assets/images/resized/0001/0806/10806v1-max-250x250.png"],
+             [[215,
+               88],
+              "assets/images/resized/0001/0806/10806v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "802 Lovett Boulevard",
+    "address2": "",
+    "zip_code": "77006",
+    "city": "Houston",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,125 @@
+{"name": "Gauss Surgical",
+ "permalink": "gauss-surgical",
+ "crunchbase_url": "http://www.crunchbase.com/company/gauss-surgical",
+ "homepage_url": "http://www.gausssurgical.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "gausssurgical",
+ "category_code": "biotech",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "surgery, mobile, computer-vision, medical, wireless",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Blood Loss Monitoring Platform",
+ "created_at": "Sat Dec 31 06:47:27 UTC 2011",
+ "updated_at": "Fri Apr 26 22:31:09 UTC 2013",
+ "overview": "\u003Cp\u003EGauss Surgical is developing a mobile vision-based platform for accurate, realtime measurement of surgical blood loss.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0016/8296/168296v2-max-150x150.png"],
+     [[250,
+       75],
+      "assets/images/resized/0016/8296/168296v2-max-250x250.png"],
+     [[450,
+       135],
+      "assets/images/resized/0016/8296/168296v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Milton",
+      "last_name": "McColl",
+      "permalink": "milton-mccoll",
+      "image":
+       {"available_sizes":
+         [[[103,
+            150],
+           "assets/images/resized/0016/8396/168396v2-max-150x150.jpg"],
+          [[160,
+            233],
+           "assets/images/resized/0016/8396/168396v2-max-250x250.jpg"],
+          [[160,
+            233],
+           "assets/images/resized/0016/8396/168396v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Chairman \u0026 CTO",
+    "person":
+     {"first_name": "Siddarth",
+      "last_name": "Satish",
+      "permalink": "siddarth-satish",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, Engineering",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Hosford",
+      "permalink": "andrew-hosford",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, Computer Vision and Machine Learning ",
+    "person":
+     {"first_name": "Ali",
+      "last_name": "Zandifar",
+      "permalink": "ali-zandifar",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Patent Counsel",
+    "is_past": false,
+    "provider":
+     {"name": "Schox Patent Group",
+      "permalink": "schox-plc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            85],
+           "assets/images/resized/0019/1593/191593v4-max-150x150.jpg"],
+          [[195,
+            111],
+           "assets/images/resized/0019/1593/191593v4-max-250x250.jpg"],
+          [[195,
+            111],
+           "assets/images/resized/0019/1593/191593v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Los Altos USA",
+    "address1": "334 State Street",
+    "address2": "Suite 201",
+    "zip_code": "",
+    "city": "Los Altos",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.379181,
+    "longitude": -122.117889}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

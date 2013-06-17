@@ -1,0 +1,96 @@
+{"name": "mjelly",
+ "permalink": "mjelly",
+ "crunchbase_url": "http://www.crunchbase.com/company/mjelly",
+ "homepage_url": "http://mjelly.com",
+ "blog_url": "http://blog.mjelly.com",
+ "blog_feed_url": "http://blog.mjelly.com/index.rdf",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, mobile2-0, cell-phone",
+ "alias_list": null,
+ "email_address": "mjellymusic@gmail.com",
+ "phone_number": "00447870590654",
+ "description": null,
+ "created_at": "Sun Dec 21 15:04:52 UTC 2008",
+ "updated_at": "Tue Apr 14 11:11:51 UTC 2009",
+ "overview": "\u003Cp\u003Emjelly is a mobile search and discovery service for mobile applications, software and websites.  \u003C/p\u003E\n\n\u003Cp\u003Emjelly aggregates mobile apps and sites optimized for cell phones and provides social filters such as ratings, tagging and comments to help users navigate the site.  You can create a profile on mjelly with links to your favorite services to easily find them again if you lose or change your phone. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0004/1111/41111v1-max-150x150.png"],
+     [[247,
+       93],
+      "assets/images/resized/0004/1111/41111v1-max-250x250.png"],
+     [[247,
+       93],
+      "assets/images/resized/0004/1111/41111v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "mjelly.com",
+    "permalink": "mjelly-com",
+    "image": null},
+   {"name": "m.mjelly.com",
+    "permalink": "m-mjelly-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "James",
+      "last_name": "Coops",
+      "permalink": "james-coops",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0003/2197/32197v2-max-150x150.jpg"],
+      [[250,
+        143],
+       "assets/images/resized/0003/2197/32197v2-max-250x250.jpg"],
+      [[450,
+        258],
+       "assets/images/resized/0003/2197/32197v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[112,
+        150],
+       "assets/images/resized/0003/2198/32198v2-max-150x150.jpg"],
+      [[187,
+        250],
+       "assets/images/resized/0003/2198/32198v2-max-250x250.jpg"],
+      [[240,
+        320],
+       "assets/images/resized/0003/2198/32198v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://uk.techcrunch.com/2008/10/08/mjelly-creates-mobile-apps-search-engine/",
+    "title": "Techcrunch UK - mjelly creates mobile apps search engine"}]}

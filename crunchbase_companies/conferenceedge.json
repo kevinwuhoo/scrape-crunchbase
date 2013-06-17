@@ -1,0 +1,180 @@
+{"name": "ConferenceEdge",
+ "permalink": "conferenceedge",
+ "crunchbase_url": "http://www.crunchbase.com/company/conferenceedge",
+ "homepage_url": "http://www.conferenceEdge.com",
+ "blog_url": "http://blog.conferenceEdge.com",
+ "blog_feed_url": "http://feeds.feedburner.com/eoMedia",
+ "twitter_username": "",
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "event-registration, event, audio, web, web-conferencing, webinar, e-marketing",
+ "alias_list": null,
+ "email_address": "info@conferenceEdge.com",
+ "phone_number": "888-987-EDGE",
+ "description": "",
+ "created_at": "Fri Nov 28 17:25:32 UTC 2008",
+ "updated_at": "Mon Mar 28 21:53:51 UTC 2011",
+ "overview": "\u003Cp\u003EConferenceEdge provides custom solutions for event management, email marketing, online registration, surveys/testing and online payment processing.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       96],
+      "assets/images/resized/0003/0015/30015v2-max-150x150.jpg"],
+     [[200,
+       129],
+      "assets/images/resized/0003/0015/30015v2-max-250x250.jpg"],
+     [[200,
+       129],
+      "assets/images/resized/0003/0015/30015v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "ConferenceEdge Communications Suite",
+    "permalink": "conferenceedge-communications-suite",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "B. Smith",
+      "permalink": "ryan-b-smith",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Trevor",
+      "last_name": "Barlow",
+      "permalink": "trevor-barlow",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Cvent",
+      "permalink": "cvent",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0002/1198/21198v6-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0002/1198/21198v6-max-250x250.png"],
+          [[450,
+            96],
+           "assets/images/resized/0002/1198/21198v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RegOnline",
+      "permalink": "regonline",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0000/4387/4387v11-max-150x150.png"],
+          [[250,
+            31],
+           "assets/images/resized/0000/4387/4387v11-max-250x250.png"],
+          [[400,
+            50],
+           "assets/images/resized/0000/4387/4387v11-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "123Signup",
+      "permalink": "123signups",
+      "image":
+       {"available_sizes":
+         [[[150,
+            16],
+           "assets/images/resized/0001/9693/19693v1-max-150x150.png"],
+          [[250,
+            27],
+           "assets/images/resized/0001/9693/19693v1-max-250x250.png"],
+          [[302,
+            33],
+           "assets/images/resized/0001/9693/19693v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Acteva",
+      "permalink": "acteva",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0002/0542/20542v3-max-150x150.png"],
+          [[180,
+            52],
+           "assets/images/resized/0002/0542/20542v3-max-250x250.png"],
+          [[180,
+            52],
+           "assets/images/resized/0002/0542/20542v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventbrite",
+      "permalink": "eventbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/3442/3442v8-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0000/3442/3442v8-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/3442/3442v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SignMeUp",
+      "permalink": "signmeup",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/9539/19539v1-max-150x150.png"],
+          [[224,
+            48],
+           "assets/images/resized/0001/9539/19539v1-max-250x250.png"],
+          [[224,
+            48],
+           "assets/images/resized/0001/9539/19539v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Fairfield \u0026 Woods",
+      "permalink": "fairfield-woods",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Denver Office",
+    "address1": "4120 Brighton Blvd.",
+    "address2": "",
+    "zip_code": "80216",
+    "city": "Denver",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.7727221,
+    "longitude": -105.0440065}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

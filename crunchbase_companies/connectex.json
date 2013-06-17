@@ -1,0 +1,79 @@
+{"name": "ConnectEx",
+ "permalink": "connectex",
+ "crunchbase_url": "http://www.crunchbase.com/company/connectex",
+ "homepage_url": "http://www.connect-ex.com",
+ "blog_url": "http://www.connect-ex.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "cleantech",
+ "number_of_employees": 4,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "modbus, bacnet, lonworks, zigbee, lighting, led, openadr, demand-response",
+ "alias_list": null,
+ "email_address": "edward.hague@connect-ex.com",
+ "phone_number": "650 924 1395",
+ "description": "Unified Building Automation Networks",
+ "created_at": "Sat Nov 17 20:44:25 UTC 2012",
+ "updated_at": "Wed Dec 12 07:46:21 UTC 2012",
+ "overview": "\u003Cp\u003EConnectEx, Inc. provides Machine-to-machine connectivity solutions for Building Automation, Smart Buildings and Energy Management systems. \u003C/p\u003E\n\n\u003Cp\u003ETheir unified architecture allows multiprotocol and multi-vendor systems to interoperate in a clear and defined structure, allowing measurements such as temperature, occupancy, energy usage to be used via in-building or cloud-based management systems.\u003C/p\u003E\n\n\u003Cp\u003ELighting systems, building access, HVAC, Demand/Response (Load-shedding) systems are all included.\u003C/p\u003E\n\n\u003Cp\u003EIndustry standard protocols such as BACnet, Zigbee Mesh Networking, LonWorks, KNX, Modbus, OpenADR and others are all supported. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0022/0846/220846v2-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0022/0846/220846v2-max-250x250.png"],
+     [[298,
+       75],
+      "assets/images/resized/0022/0846/220846v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "BACnet Interface for Echelon iLon SmartServers",
+    "permalink": "bacnet-interface-for-echelon-ilon-smartservers",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Edward",
+      "last_name": "Hague",
+      "permalink": "edward-hague",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "809B Cuesta Drive",
+    "address2": "Suite 2180",
+    "zip_code": "94024",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3733416,
+    "longitude": -122.0887189}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

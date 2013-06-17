@@ -1,0 +1,71 @@
+{"name": "Duolog Technologies",
+ "permalink": "duolog-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/duolog-technologies",
+ "homepage_url": "http://www.duolog.com",
+ "blog_url": "http://www.duolog.com/company/news-events/",
+ "blog_feed_url": "http://www.duolog.com/feed/",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "soc, system-on-chip, ip-integration, socip-integration, ipxact-ieee-1685, hw-sw-interface-management, register-mapping-management, correct-by-construction",
+ "alias_list": null,
+ "email_address": "info@duolog.com",
+ "phone_number": " +1 408 531 6508",
+ "description": "System on Chip Integration",
+ "created_at": "Thu Nov 10 17:45:12 UTC 2011",
+ "updated_at": "Wed Oct 03 16:22:30 UTC 2012",
+ "overview": "\u003Cp\u003EDuolog Technologies provides EDA Tools for SoC design that automate and streamline the IP integration process.\u003C/p\u003E\n\n\u003Cp\u003EOur Socrates tools reduce the System-on-Chip (SoC) design cycles by months. Socrates automates the IP integration process and generates vast amounts of code and documentation while keeping design, verification and software teams fully synchronized.\u003C/p\u003E\n\n\u003Cp\u003EProduct Overview\u003C/p\u003E\n\n\u003Cp\u003EWEAVER - SoC/IP Integration \u0026amp; Chip Assembly\u003C/p\u003E\n\n\u003Cp\u003EIP reuse and efficient IP integration are essential for successful SoC development. Socrates Weaver is a revolutionary tool for IP integration that is the fastest and most efficient way to build and maintain complex systems. The unique rules-based integration methodology employed by Weaver maximizes the potential for IP, subsystem and system reuse.\u003C/p\u003E\n\n\u003Cp\u003EThe Problem\u003C/p\u003E\n\n\u003Cp\u003EMost automated IP integration flows are not truly automated. Only a small number of connections \u2013 typically well-defined bus interfaces \u2013 are automatically supported. The majority of interconnections must be made manually or via low-level scripted commands. This approach offers little or no productivity gains over purely manual flows and has very limited potential for reuse. Managing incremental changes as the system evolves is difficult and time-consuming.\u003C/p\u003E\n\n\u003Cp\u003EYour Solution\u003C/p\u003E\n\n\u003Cp\u003ESocrates Weaver has a unique rules-based integration methodology that offers an intuitive, highly automated, scalable solution for IP integration and system assembly. Weaver\u2019s rules are simple, high-level specifications of integration intent. Weaver synthesizes the rules to create the low-level connections. Because of the high level of abstraction, a single rule can result in hundreds, or even thousands, of individual correct-by-construction connections. Rules are simple to understand and review and can be easily shared and reused. Rules can be combined to create more complex structures and stored in libraries that can be used and reused across teams or companies. Weaver can also be used to build and dissolve design hierarchy without disrupting connectivity.\u003C/p\u003E\n\n\u003Cp\u003EBITWISE - Register \u0026amp; Memory-map Management\nEffective HW/SW integration is one of the biggest challenges facing System-on-Chip (SoC) development teams.  Registers and memory-maps are at the heart of the HW/SW interface.  Socrates Bitwise manages the entire register and memory-map infrastructure for an IP or system, improving inter-team communications, enhancing design quality and greatly reducing workload.\u003C/p\u003E\n\n\u003Cp\u003EThe Problem\u003C/p\u003E\n\n\u003Cp\u003EMany of the bugs and schedule slips that plague SoC designs originate from miscommunication and inconsistencies surrounding the HW/SW interface.  Specifying and managing the HW/SW interface information, while maintaining synchronization between functionally and geographically diverse teams, is an essential but time-consuming and error-prone task.  In order to succeed, teams must be able to rely on a single source from which to draw their information.   \u003C/p\u003E\n\n\u003Cp\u003EYour Solution\u003C/p\u003E\n\n\u003Cp\u003ESocrates Bitwise manages HW/SW register, memory-map and interface definitions for IPs, subsystems or SoCs. Bitwise provides a single-source specification for register and memory-map information from which all design, verification, software and integration teams auto-generate the views they require, thereby remaining perfectly synchronized at all times. Bitwise enhances inter-team communications, increases levels of flow automation and significantly reduces development schedules. Bitwise provides a comprehensive environment that supports architectural planning, IP import, IP creation, and view generation. The result is a complete solution for HW/SW interface management that eliminates an entire category of bugs from your systems.\u003C/p\u003E\n\n\u003Cp\u003ESPINNER - I/O Fabric Management\u003C/p\u003E\n\n\u003Cp\u003EModern SoC devices typically support multiple static and dynamic operating modes. This can result in thousands of top-level signals that need to be mapped to hundreds of I/O pins according to the target application. Socrates Spinner manages this increasingly complex area by specifying and auto-generating all of the logic associated with the chip I/O layer.\u003C/p\u003E\n\n\u003Cp\u003EThe Problem\u003C/p\u003E\n\n\u003Cp\u003EIncreasing SoC complexity and hardware and software configurability has resulted in functional and test signals that are heavily constrained within a pin-limited package. This leads to extensive sharing of pins for functional and test purposes, and consequently highly complex I/O layer functionality. A single bug in the I/O layer can be fatal, often resulting in a chip respin. Designing and verifying the I/O layer, and communicating I/O information between all stakeholders, has become a full-time task for I/O subsystem teams.\u003C/p\u003E\n\n\u003Cp\u003EYour Solution\u003C/p\u003E\n\n\u003Cp\u003ESocrates Spinner is an award-winning tool that specifies the complete I/O layer, auto-generates multiple design views and enables seamless integration of the I/O fabric with the rest of the system.\u003C/p\u003E\n\n\u003Cp\u003ESpinner simplifies and automates the specification and verification of the I/O subsystem, slashing development schedules, enhancing inter-team communications and virtually eliminating the risk of I/O bugs.\u003C/p\u003E\n\n\u003Cp\u003ESocrates Platform\u003C/p\u003E\n\n\u003Cp\u003EDuolog\u2019s renowned Socrates integration platform underpins each of Duolog\u0026#8217;s products. The Socrates platform is the most complete solution in the industry for IP integration and system assembly, providing a correct-by-construction integration environment that can transform the quality and efficiency of your SoC designs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0021/2216/212216v2-max-150x150.jpg"],
+     [[250,
+       110],
+      "assets/images/resized/0021/2216/212216v2-max-250x250.jpg"],
+     [[450,
+       198],
+      "assets/images/resized/0021/2216/212216v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Duolog Technologies Ltd.",
+    "address1": "800 West El Camino Real",
+    "address2": "Suite 420",
+    "zip_code": "CA 94040",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

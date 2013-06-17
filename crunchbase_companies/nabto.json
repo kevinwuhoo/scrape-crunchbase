@@ -1,0 +1,93 @@
+{"name": "Nabto",
+ "permalink": "nabto",
+ "crunchbase_url": "http://www.crunchbase.com/company/nabto",
+ "homepage_url": "http://nabto.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "crgregersen",
+ "category_code": "hardware",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@nabto.com",
+ "phone_number": "+45 8734 5513",
+ "description": "Communication platform: Internet devices",
+ "created_at": "Thu Dec 09 05:51:23 UTC 2010",
+ "updated_at": "Mon Jun 27 18:30:16 UTC 2011",
+ "overview": "\u003Cp\u003ENabto makes web technology for devices like medical appliances and building automation devices.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0011/3452/113452v1-max-150x150.png"],
+     [[240,
+       83],
+      "assets/images/resized/0011/3452/113452v1-max-250x250.png"],
+     [[240,
+       83],
+      "assets/images/resized/0011/3452/113452v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Carsten",
+      "last_name": "Gregersen",
+      "permalink": "carsten-gregersen",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Grimstrup",
+      "permalink": "peter-grimstrup",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://venturebeat.com/2010/12/08/nabto-internet-of-things-funding/",
+    "source_description": "Nabto nabs $1 million in funding for tiny web servers",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 12,
+    "funded_day": 8,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Aabogade 15",
+    "address2": "",
+    "zip_code": "8200 ",
+    "city": "Aarhus N",
+    "state_code": null,
+    "country_code": "DNK",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

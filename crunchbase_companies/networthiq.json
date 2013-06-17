@@ -1,0 +1,103 @@
+{"name": "NetworthIQ",
+ "permalink": "networthiq",
+ "crunchbase_url": "http://www.crunchbase.com/company/networthiq",
+ "homepage_url": "http://www.networthiq.com",
+ "blog_url": "http://blog.networthiq.com",
+ "blog_feed_url": "http://feeds.feedburner.com/Networthiq",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "contact@networthiq.com",
+ "phone_number": "",
+ "description": "Finance Tracker",
+ "created_at": "Thu May 15 20:53:43 UTC 2008",
+ "updated_at": "Sun Apr 26 05:35:35 UTC 2009",
+ "overview": null,
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Williams",
+      "permalink": "ryan-williams-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Todd",
+      "last_name": "Kalhar",
+      "permalink": "todd-kalhar",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Wobbe",
+      "permalink": "jeff-wobbe",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2008/05/15/strands-absorbs-another-personal-finance-company/",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 5,
+   "acquired_day": 15,
+   "acquiring_company":
+    {"name": "Strands Labs",
+     "permalink": "strands",
+     "image":
+      {"available_sizes":
+        [[[150,
+           22],
+          "assets/images/resized/0000/4489/4489v2-max-150x150.png"],
+         [[217,
+           33],
+          "assets/images/resized/0000/4489/4489v2-max-250x250.png"],
+         [[217,
+           33],
+          "assets/images/resized/0000/4489/4489v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": 45.523104,
+    "longitude": -122.670132}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

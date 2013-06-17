@@ -1,0 +1,122 @@
+{"name": "Daikana",
+ "permalink": "daikana",
+ "crunchbase_url": "http://www.crunchbase.com/company/daikana",
+ "homepage_url": "http://www.daikana.com",
+ "blog_url": "http://www.daikana.com/Blog.aspx",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 1,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 15,
+ "deadpooled_year": 2010,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "social, networking, project-management, rfp, resume",
+ "alias_list": null,
+ "email_address": "info@daikana.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Mar 13 05:22:15 UTC 2008",
+ "updated_at": "Sat Jan 05 19:21:33 UTC 2013",
+ "overview": "\u003Cp\u003EDaikana is a business social network that connects people and businesses. Like other business social networks, individuals can sign up and create a profile in a resume format listing their work experience and the degrees they have received.\u003C/p\u003E\n\n\u003Cp\u003EUnlike other social networks, an individual\u0026#8217;s social graph is composed of Personal Contacts and Acquaintances: being someone\u0026#8217;s Personal Contact releases more personal information to that person than being an Acquaintance. When looking at someone\u0026#8217;s profile it is then easy to identify who the people who matter to that individual are. Also, the shortest path between two individuals is always calculated by selecting Personal Contacts over Acquaintances relationships: if the optimum shortest path between you and someone contains only Personal Contacts, then you know that there\u0026#8217;s a good chance for you to get in touch with that person.\u003C/p\u003E\n\n\u003Cp\u003EMoreover, businesses can also have profiles. Users can be linked to multiple businesses as an employee or customer. Once a user is linked to a business, he has access to screens and features for this business based on his responsibility. The user can then work and collaborate online with other employees or customers: track issues, upload and manage documents, schedule meetings, publish and bid on RFPs, manage projects, etc. Businesses can also be matched with prospective suppliers and customers based on the products and services that they offer and need; this is similar to dating sites for individuals.\u003C/p\u003E\n\n\u003Cp\u003EDaikana is now offline.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0001/5703/15703v1-max-150x150.jpg"],
+     [[250,
+       75],
+      "assets/images/resized/0001/5703/15703v1-max-250x250.jpg"],
+     [[284,
+       86],
+      "assets/images/resized/0001/5703/15703v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO",
+    "person":
+     {"first_name": "Benoit",
+      "last_name": "Spolidor",
+      "permalink": "benoit-spolidor",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LinkedIn",
+      "permalink": "linkedin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-150x150.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-250x250.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Central Desktop",
+      "permalink": "central-desktop",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0001/4175/14175v3-max-150x150.png"],
+          [[250,
+            40],
+           "assets/images/resized/0001/4175/14175v3-max-250x250.png"],
+          [[450,
+            73],
+           "assets/images/resized/0001/4175/14175v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "94109",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.796164,
+    "longitude": -122.420903}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.daikana.com",
+    "title": ""}]}

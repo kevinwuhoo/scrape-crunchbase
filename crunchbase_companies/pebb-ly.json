@@ -1,0 +1,123 @@
+{"name": "pebb.ly",
+ "permalink": "pebb-ly",
+ "crunchbase_url": "http://www.crunchbase.com/company/pebb-ly",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Mon Jan 11 18:35:57 UTC 2010",
+ "updated_at": "Sun Jan 24 01:34:00 UTC 2010",
+ "overview": null,
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0007/3811/73811v2-max-150x150.png"],
+     [[225,
+       78],
+      "assets/images/resized/0007/3811/73811v2-max-250x250.png"],
+     [[225,
+       78],
+      "assets/images/resized/0007/3811/73811v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "pebb.ly campaign",
+    "permalink": "pebb-ly-campaign",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Jenkins",
+      "permalink": "jeff-jenkins-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Corwin",
+      "permalink": "jason-corwin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0012/2423/122423v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0012/2423/122423v2-max-250x250.jpg"],
+          [[450,
+            300],
+           "assets/images/resized/0012/2423/122423v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brett",
+      "last_name": "Hardin",
+      "permalink": "brett-hardin",
+      "image":
+       {"available_sizes":
+         [[[122,
+            150],
+           "assets/images/resized/0009/1317/91317v2-max-150x150.jpg"],
+          [[204,
+            250],
+           "assets/images/resized/0009/1317/91317v2-max-250x250.jpg"],
+          [[300,
+            367],
+           "assets/images/resized/0009/1317/91317v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Product launch at StartupCamp Telephony",
+    "stoned_year": 2010,
+    "stoned_month": 1,
+    "stoned_day": 21,
+    "source_url": "http://blog.twilio.com/2010/01/peebly-and-say-hired-selected-to-present-at-startupcamp-telephony.html",
+    "source_text": null,
+    "source_description": "Twilio Blog",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "pebb.ly",
+      "permalink": "pebb-ly"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.twilio.com/2010/01/peebly-and-say-hired-selected-to-present-at-startupcamp-telephony.html",
+    "title": "Watch as StartupCamp Telephony Disrupts ITEXPO Miami Next Week"},
+   {"external_url": "http://hosted-voip.tmcnet.com/feature/articles/73265-pebbly-introduce-its-innovative-cloud-marketing-platform-itexpo.htm",
+    "title": "TMCnet Article"}]}

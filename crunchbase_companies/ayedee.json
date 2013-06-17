@@ -1,0 +1,81 @@
+{"name": "Ayedee",
+ "permalink": "ayedee",
+ "crunchbase_url": "http://www.crunchbase.com/company/ayedee",
+ "homepage_url": "http://ayedee.com",
+ "blog_url": "http://ayedee.com/ayeblog",
+ "blog_feed_url": "",
+ "twitter_username": "AyedeeWP",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "James@ayedee.com",
+ "phone_number": "",
+ "description": "Single Page Website App",
+ "created_at": "Sun Sep 12 20:52:38 UTC 2010",
+ "updated_at": "Mon Sep 13 23:37:42 UTC 2010",
+ "overview": "\u003Cp\u003EAyedee makes it easy to create single page websites that provide links to users social networks.  \u003C/p\u003E\n\n\u003Cp\u003EThe websites are based upon themes which are both created internally, and those submitted by users.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "James",
+      "last_name": "Aldersley",
+      "permalink": "james-aldersley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "DooID",
+      "permalink": "dooid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0005/8721/58721v2-max-150x150.png"],
+          [[250,
+            90],
+           "assets/images/resized/0005/8721/58721v2-max-250x250.png"],
+          [[400,
+            145],
+           "assets/images/resized/0005/8721/58721v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home Base",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Toronto",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://wpmu.org/business-case-study-ayedee-com-creator-finds-a-powerhouse-solution-in-wordpress-multisite/",
+    "title": "Case Study"}]}

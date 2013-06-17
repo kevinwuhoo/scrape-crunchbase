@@ -1,0 +1,139 @@
+{"name": "Notify.me",
+ "permalink": "notify-me",
+ "crunchbase_url": "http://www.crunchbase.com/company/notify-me",
+ "homepage_url": "http://www.notify.me",
+ "blog_url": "http://blog.notify.me",
+ "blog_feed_url": "http://blog.notify.me/rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@getorganyzd.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Nov 25 23:43:33 UTC 2008",
+ "updated_at": "Sun Mar 21 05:04:26 UTC 2010",
+ "overview": "\u003Cp\u003ENotify.me allows users to get immediate updates whenever a keyword they\u0026#8217;ve specified pops up in their favorite blogs or social networks.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0002/9606/29606v1-max-150x150.png"],
+     [[225,
+       81],
+      "assets/images/resized/0002/9606/29606v1-max-250x250.png"],
+     [[225,
+       81],
+      "assets/images/resized/0002/9606/29606v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cloud Architect",
+    "person":
+     {"first_name": "Nathan",
+      "last_name": "Hubbard",
+      "permalink": "nathan-hubbard-6",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/4164/254164v1-max-150x150.jpg"],
+          [[234,
+            234],
+           "assets/images/resized/0025/4164/254164v1-max-250x250.jpg"],
+          [[234,
+            234],
+           "assets/images/resized/0025/4164/254164v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CTO \u0026 Co-Founder",
+    "person":
+     {"first_name": "Arne",
+      "last_name": "Claassen",
+      "permalink": "arne-claassen",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Wieland",
+      "permalink": "jason-wieland",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co Founder / COO",
+    "person":
+     {"first_name": "Hani",
+      "last_name": "Anani",
+      "permalink": "hani-anani",
+      "image": null}},
+   {"is_past": true,
+    "title": "President \u0026 Co-Founder",
+    "person":
+     {"first_name": "Amanda",
+      "last_name": "Krantz",
+      "permalink": "amanda-krantz",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yotify",
+      "permalink": "yotify",
+      "image": null}},
+   {"competitor":
+     {"name": "Notifixious",
+      "permalink": "notifixious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0002/6282/26282v2-max-150x150.png"],
+          [[250,
+            62],
+           "assets/images/resized/0002/6282/26282v2-max-250x250.png"],
+          [[450,
+            112],
+           "assets/images/resized/0002/6282/26282v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        100],
+       "assets/images/resized/0002/9641/29641v2-max-150x150.png"],
+      [[250,
+        168],
+       "assets/images/resized/0002/9641/29641v2-max-250x250.png"],
+      [[450,
+        302],
+       "assets/images/resized/0002/9641/29641v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://highscalability.com/notify-me-architecture-synchronicity-kills",
+    "title": "Technology Outline"},
+   {"external_url": "http://www.nytimes.com/external/readwriteweb/2009/05/20/20readwriteweb-real-time-as-a-service--check-out-what-noti-12208.html",
+    "title": "Real-Time as a Service? Check Out What Notify.me is Working On"}]}

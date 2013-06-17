@@ -1,0 +1,118 @@
+{"name": "SocialGuide",
+ "permalink": "socialguide",
+ "crunchbase_url": "http://www.crunchbase.com/company/socialguide",
+ "homepage_url": "http://beta.socialguide.com/",
+ "blog_url": "http://blog.socialguide.com",
+ "blog_feed_url": "",
+ "twitter_username": "Social_Guide",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "info@socialguide.com",
+ "description": "Realtime social guide for TV",
+ "created_at": "Thu Apr 07 11:38:06 UTC 2011",
+ "updated_at": "Tue Nov 13 10:55:12 UTC 2012",
+ "overview": "\u003Cp\u003ESocialGuide is a privately held company based in Brooklyn, NY that is the first real-time social guide for TV and social TV platform that makes every show across every network instantly social. \u003C/p\u003E\n\n\u003Cp\u003ESocialGuide mines, filters, displays and ranks the millions of discussions happening on the most popular social networks about TV as it airs, enabling users to discover new shows and interact with their friends, fellow fans and stars of their favorite shows.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0012/9594/129594v1-max-150x150.png"],
+     [[240,
+       47],
+      "assets/images/resized/0012/9594/129594v1-max-250x250.png"],
+     [[240,
+       47],
+      "assets/images/resized/0012/9594/129594v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Casey",
+      "permalink": "sean-casey",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.5M",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 7,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Alex",
+         "last_name": "Zubillaga",
+         "permalink": "alex-zubillaga",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2012/11/12/nielsen-nm-incite-acquires-socialguide/",
+   "source_description": "Nielsen\u2019s NM Incite Acquires SocialGuide To Measure The Impact Of Social TV",
+   "acquired_year": 2012,
+   "acquired_month": 11,
+   "acquired_day": 13,
+   "acquiring_company":
+    {"name": "NM Incite",
+     "permalink": "nm-incite",
+     "image":
+      {"available_sizes":
+        [[[150,
+           42],
+          "assets/images/resized/0022/0190/220190v1-max-150x150.jpg"],
+         [[250,
+           71],
+          "assets/images/resized/0022/0190/220190v1-max-250x250.jpg"],
+         [[264,
+           75],
+          "assets/images/resized/0022/0190/220190v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Brooklyn",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.xconomy.com/new-york/2011/11/11/bluefin-labs-and-socialguide-push-competing-technology-to-make-social-data-useful-to-tv-networks-and-advertisers/2/",
+    "title": "Bluefin Labs and SocialGuide Push Competing Technology to Make Social Data Useful to TV Networks and Advertisers"},
+   {"external_url": "http://mashable.com/2011/09/29/fall-tv-social-media/",
+    "title": "Fall TV Premieres: Who Won the Social Media Wars?"}]}

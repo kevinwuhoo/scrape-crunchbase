@@ -1,0 +1,127 @@
+{"name": "Axalot",
+ "permalink": "axalot",
+ "crunchbase_url": "http://www.crunchbase.com/company/axalot",
+ "homepage_url": "http://www.axalot.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "axalot",
+ "category_code": "network_hosting",
+ "number_of_employees": 15,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "backup-storage-cloud-computing",
+ "alias_list": null,
+ "email_address": "axel@axalot.com",
+ "phone_number": "",
+ "description": "online backup remote access",
+ "created_at": "Thu May 20 14:20:23 UTC 2010",
+ "updated_at": "Fri May 21 16:53:36 UTC 2010",
+ "overview": "\u003Cp\u003EAxalot is tapping into the fast growing market of online backup and our solution has been designed to serve millions of individuals and SOHO professional within a few years. \u003C/p\u003E\n\n\u003Cp\u003EProtecting critical data has become a major concern for professionals like accountants, lawyers and doctors who produce an increasing volume of critical business data with multiple versions of documents. Losing this data due to a human error, a hard drive crash or a theft may hurt productivity, impact the customer relationship and put business continuity at risk. \u003C/p\u003E\n\n\u003Cp\u003ELiability and compliance are other major concerns for many professionals dealing with confidential data or legally required to backup data, with regulations like Sarbanes-Oxley or HIPAA fixing clear obligations for data retention and storage. As a consequence, more than 40% of small businesses rank automated data backup and recovery as their primary IT need.\u003C/p\u003E\n\n\u003Cp\u003EBacking up data on an external drive isn\u00e2\u20ac\u2122t a solution: the backup doesn\u00e2\u20ac\u2122t run real-time and the backup device can be stolen or destroyed along the computer it is supposed to protect.  That\u00e2\u20ac\u2122s why online backup, driven by the continued price reduction and reliability of broadband connections and RAID storage system, has become an attractive alternative for individuals and SOHO professionals looking for a reliable, secure and off-site solution to protect valuable data. IDC estimates revenue for this emerging market to reach $715 million by 2011, representing a 33.3% CAGR between 2006 and 2011, with consumers and small businesses adoption dominating this market for several years.\u003C/p\u003E\n\n\u003Cp\u003ELeveraging this nascent and fast growing market and addressing the specific (and partly unmet today) needs of individuals and SOHO professionals looking for an affordable alternative to enterprise solutions, Axalot provides  an easy-to-use, reliable and secure automatic online backup solution offering customers the same level of protection large corporations have been utilising for years. Axalot\u00e2\u20ac\u2122s innovative solution differentiates from competition by offering several features only available today in high-end enterprise solutions, including full partition backup, including the OS, to create a bootable disk image and data de-duplication, to optimize the storage space and the upload speed.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Axel",
+      "last_name": "Dreyfus",
+      "permalink": "axel-dreyfus",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Carbonite",
+      "permalink": "carbonite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            122],
+           "assets/images/resized/0000/3493/3493v2-max-150x150.png"],
+          [[250,
+            204],
+           "assets/images/resized/0000/3493/3493v2-max-250x250.png"],
+          [[275,
+            225],
+           "assets/images/resized/0000/3493/3493v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mozy",
+      "permalink": "mozy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/0982/982v1-max-150x150.png"],
+          [[206,
+            52],
+           "assets/images/resized/0000/0982/982v1-max-250x250.png"],
+          [[206,
+            52],
+           "assets/images/resized/0000/0982/982v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Telehouse",
+      "permalink": "telehouse",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Orsay Law",
+      "permalink": "orsay-law",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Affilinet",
+      "permalink": "affilinet",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "French office",
+    "address1": "50 rue Rouget de Lisle",
+    "address2": "",
+    "zip_code": "92150",
+    "city": "Suresnes",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

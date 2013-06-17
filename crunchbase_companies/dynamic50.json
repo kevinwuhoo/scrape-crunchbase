@@ -1,0 +1,96 @@
+{"name": "Dynamic50",
+ "permalink": "dynamic50",
+ "crunchbase_url": "http://www.crunchbase.com/company/dynamic50",
+ "homepage_url": "http://www.dynamic50.com",
+ "blog_url": "http://blog.dynamic50.com",
+ "blog_feed_url": "http://blog.dynamic50.com/feed/",
+ "twitter_username": "",
+ "category_code": "consulting",
+ "number_of_employees": 10,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "consultancy, web-development, web, internet, london, oxford, uk, merb, rails, ruby-on-rails",
+ "alias_list": "",
+ "email_address": "contactus@dynamic50.com",
+ "phone_number": "+442032862879",
+ "description": "Ruby on Rails Development",
+ "created_at": "Wed Jul 16 08:52:03 UTC 2008",
+ "updated_at": "Wed May 08 04:01:12 UTC 2013",
+ "overview": "\u003Cp\u003EDynamic50 is a Boutique Web Design and Development company based in London, UK. \u003C/p\u003E\n\n\u003Cp\u003EDynamic50 specialises in bespoke web application development using Ruby on Rails. \nExamples of this include SAAS solutions (software as a service), Rich Social Media, Twitter applications (http://www.birdpie.com for example), Content Management solutions and Facebook applications.\u003C/p\u003E\n\n\u003Cp\u003EDynamic50 uses the latest technologies in their development environment. They believe strongly in agile development, and apply BDD (behaviour driven development) to every solution they produce.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0002/2238/22238v4-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0002/2238/22238v4-max-250x250.png"],
+     [[450,
+       101],
+      "assets/images/resized/0002/2238/22238v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Green",
+      "permalink": "jason-green",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0025/9610/259610v2-max-150x150.png"],
+          [[250,
+            156],
+           "assets/images/resized/0025/9610/259610v2-max-250x250.png"],
+          [[450,
+            281],
+           "assets/images/resized/0025/9610/259610v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Hooker",
+      "permalink": "richard-hooker",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Headquaters",
+    "address1": "Google Campus London",
+    "address2": "4-5 Bonhill Street",
+    "zip_code": "EC2A 4BX",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.51781,
+    "longitude": -0.184358}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.killerstartups.com/Site-Reviews/dynamic50-com-web-design-and-development",
+    "title": "Killer Startups review"}]}

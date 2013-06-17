@@ -1,0 +1,120 @@
+{"name": "Spoondate",
+ "permalink": "spoondate",
+ "crunchbase_url": "http://www.crunchbase.com/company/spoondate",
+ "homepage_url": "http://www.spoondate.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "spoondate",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "food, social, location-based",
+ "alias_list": null,
+ "email_address": "hello@spoondate.com",
+ "phone_number": "",
+ "description": "Food Dating",
+ "created_at": "Mon Feb 07 04:20:31 UTC 2011",
+ "updated_at": "Wed Apr 27 18:06:50 UTC 2011",
+ "overview": "\u003Cp\u003ESpoondate makes it easy to meet someone over a meal using a preemptive location-aware check-in.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0012/0786/120786v7-max-150x150.png"],
+     [[250,
+       124],
+      "assets/images/resized/0012/0786/120786v7-max-250x250.png"],
+     [[450,
+       224],
+      "assets/images/resized/0012/0786/120786v7-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Raissa",
+      "last_name": "Nebie",
+      "permalink": "raissa-nebie",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Van",
+      "last_name": "Nguyen",
+      "permalink": "van-nguyen-2",
+      "image":
+       {"available_sizes":
+         [[[96,
+            96],
+           "assets/images/resized/0012/1741/121741v2-max-150x150.png"],
+          [[96,
+            96],
+           "assets/images/resized/0012/1741/121741v2-max-250x250.png"],
+          [[96,
+            96],
+           "assets/images/resized/0012/1741/121741v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2011/02/10/500-startups-announces-first-class-of-new-incubator-program/",
+    "source_description": "500 Startups Announces First Class Of New Incubator Program",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "500 Startups",
+         "permalink": "500-startups",
+         "image":
+          {"available_sizes":
+            [[[150,
+               104],
+              "assets/images/resized/0009/6288/96288v7-max-150x150.png"],
+             [[250,
+               173],
+              "assets/images/resized/0009/6288/96288v7-max-250x250.png"],
+             [[450,
+               312],
+              "assets/images/resized/0009/6288/96288v7-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "San Francisco",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

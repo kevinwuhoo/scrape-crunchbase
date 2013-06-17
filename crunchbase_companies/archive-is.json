@@ -1,0 +1,77 @@
+{"name": "Archive.is",
+ "permalink": "archive-is",
+ "crunchbase_url": "http://www.crunchbase.com/company/archive-is",
+ "homepage_url": "http://archive.is/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "archiveis",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-archiving, saas, web-scraping, web-mining",
+ "alias_list": null,
+ "email_address": "webmaster@archive.is",
+ "phone_number": "",
+ "description": "On demand web archiving",
+ "created_at": "Fri Aug 31 23:41:56 UTC 2012",
+ "updated_at": "Thu Sep 06 22:12:08 UTC 2012",
+ "overview": "\u003Cp\u003EArchive.is saves snapshots of user specified webpages and keep they online even if the original page disappears.\nThis can be useful for the users if they want to preserve a page which could change soon: price list, job offer, real estate listing, drunk blog post, \u0026#8230;\u003C/p\u003E\n\n\u003Cp\u003EArchive.is saves a text and a graphical copy of the page for better accuracy.\u003C/p\u003E\n\n\u003Cp\u003ENotably that it can save pages from Web 2.0 sites which use AJAX and hashbang URLs.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Internet Archive",
+      "permalink": "internet-archive",
+      "image": null}},
+   {"competitor":
+     {"name": "Aleph Archives Ltd.",
+      "permalink": "aleph-archives-srl",
+      "image":
+       {"available_sizes":
+         [[[123,
+            150],
+           "assets/images/resized/0017/7003/177003v2-max-150x150.png"],
+          [[206,
+            250],
+           "assets/images/resized/0017/7003/177003v2-max-250x250.png"],
+          [[289,
+            350],
+           "assets/images/resized/0017/7003/177003v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://roget.biz/archive-is-archive-une-page-web-pour-la-posterite",
+    "title": ""},
+   {"external_url": "http://20kaido.com/archives/6399360.html",
+    "title": ""},
+   {"external_url": "http://zhalestan.blogspot.com/2012/07/blog-post.html",
+    "title": ""},
+   {"external_url": "https://www.techsupportalert.com/content/browse-internet-archive-or-create-your-own.htm",
+    "title": ""}]}

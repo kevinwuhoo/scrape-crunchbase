@@ -1,0 +1,137 @@
+{"name": "weRead",
+ "permalink": "weread",
+ "crunchbase_url": "http://www.crunchbase.com/company/weread",
+ "homepage_url": "http://www.weread.com",
+ "blog_url": "http://blog.weread.com",
+ "blog_feed_url": "http://blog.weread.com/feed/",
+ "twitter_username": "weread",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "books, book-sharing, social-applications, social-networking",
+ "alias_list": "",
+ "email_address": "help@weread.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Sep 05 19:06:10 UTC 2008",
+ "updated_at": "Wed Apr 10 03:38:30 UTC 2013",
+ "overview": "\u003Cp\u003EweRead is a social network based community for book lovers, a place where you can find others who share your reading tastes and through them discover new books that you will love. Only 11 months old, weRead is already one of the largest book communities on Facebook and has a similarly large presence on MySpace, Orkut, Hi-5, and Bebo.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0002/4659/24659v2-max-150x150.png"],
+     [[230,
+       57],
+      "assets/images/resized/0002/4659/24659v2-max-250x250.png"],
+     [[230,
+       57],
+      "assets/images/resized/0002/4659/24659v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "weRead",
+    "permalink": "book-sharing-discovery-application",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Goodreads",
+      "permalink": "goodreads",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/2677/2677v1-max-150x150.jpg"],
+          [[189,
+            54],
+           "assets/images/resized/0000/2677/2677v1-max-250x250.jpg"],
+          [[189,
+            54],
+           "assets/images/resized/0000/2677/2677v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LibraryThing",
+      "permalink": "librarything",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0002/3201/23201v2-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0002/3201/23201v2-max-250x250.png"],
+          [[250,
+            79],
+           "assets/images/resized/0002/3201/23201v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "aNobii",
+      "permalink": "anobii",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0002/3283/23283v16-max-150x150.jpg"],
+          [[250,
+            95],
+           "assets/images/resized/0002/3283/23283v16-max-250x250.jpg"],
+          [[300,
+            115],
+           "assets/images/resized/0002/3283/23283v16-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "aNobii",
+      "permalink": "anobii",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0002/3283/23283v16-max-150x150.jpg"],
+          [[250,
+            95],
+           "assets/images/resized/0002/3283/23283v16-max-250x250.jpg"],
+          [[300,
+            115],
+           "assets/images/resized/0002/3283/23283v16-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": " San Mateo,",
+    "zip_code": "",
+    "city": " California,",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mashable.com/2008/08/05/lulu-weread/",
+    "title": "From Mashable.com: Lulu Provides Authors with Direct Marketing and Promotion Opportunities"},
+   {"external_url": "http://lulublog.com/2008/08/06/iread-you-read-we-all-read-on-weread/",
+    "title": "From LuluBlog.com: iRead, You Read, We All Read On weRead"},
+   {"external_url": "http://economictimes.indiatimes.com/Starting_Up/Virtual_bookshelf_to_share_preferences_and_reviews_online/articleshow/3446333.cms",
+    "title": "From the India Times: weRead: A Virtual Bookshelf to Share Preferences and Reviews Online"}]}

@@ -1,0 +1,117 @@
+{"name": "Alshain",
+ "permalink": "alshain",
+ "crunchbase_url": "http://www.crunchbase.com/company/alshain",
+ "homepage_url": "http://alshain.fi",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 6,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "nfc, android, internet, mobile, analytics, machine-learning, data-mining",
+ "alias_list": null,
+ "email_address": "contact@alshain.fi",
+ "phone_number": "",
+ "description": "NFC software for Android",
+ "created_at": "Wed May 18 20:30:58 UTC 2011",
+ "updated_at": "Fri Mar 02 10:47:47 UTC 2012",
+ "overview": "\u003Cp\u003EAlshain is a company producing mobile rich internet applications and developing mobile software focusing in NFC technologies. Alshain also provides analytics, machine learning and data mining services.\u003C/p\u003E\n\n\u003Cp\u003EAlshain Oy main goal is to use as standardized solutions as possible and to avoid proprietary protocols and formats as much as possible. For example in NFC world this means using NDEF entries instead of custom tags and software.\u003C/p\u003E\n\n\u003Cp\u003EAlshain also runs Retag.fi, which is a QR-code based redirecting services.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0013/5244/135244v2-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0013/5244/135244v2-max-250x250.png"],
+     [[450,
+       112],
+      "assets/images/resized/0013/5244/135244v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Markus",
+      "last_name": "Gr\u00c3\u00b6nholm",
+      "permalink": "markus-grnholm",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ilmari",
+      "last_name": "Lehmusoksa",
+      "permalink": "ilmari-lehmusoksa",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Futurice",
+      "permalink": "futurice",
+      "image":
+       {"available_sizes":
+         [[[95,
+            87],
+           "assets/images/resized/0016/2598/162598v1-max-150x150.jpg"],
+          [[95,
+            87],
+           "assets/images/resized/0016/2598/162598v1-max-250x250.jpg"],
+          [[95,
+            87],
+           "assets/images/resized/0016/2598/162598v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Upcode Oy",
+      "permalink": "upcode-oy",
+      "image": null}},
+   {"competitor":
+     {"name": "MobileTag",
+      "permalink": "mobiletag",
+      "image":
+       {"available_sizes":
+         [[[116,
+            150],
+           "assets/images/resized/0007/7192/77192v2-max-150x150.png"],
+          [[150,
+            193],
+           "assets/images/resized/0007/7192/77192v2-max-250x250.png"],
+          [[150,
+            193],
+           "assets/images/resized/0007/7192/77192v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Munkinpolku 3 b 11",
+    "address2": "",
+    "zip_code": "00330",
+    "city": "Helsinki",
+    "state_code": null,
+    "country_code": "FIN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

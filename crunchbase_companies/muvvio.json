@@ -1,0 +1,168 @@
+{"name": "Muvvio",
+ "permalink": "muvvio",
+ "crunchbase_url": "http://www.crunchbase.com/company/muvvio",
+ "homepage_url": "http://muvvio.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "muvvio",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": 2012,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "movies, games, music, technology, vending, rent, dvd-rental, entertainment",
+ "alias_list": null,
+ "email_address": "contact@muvvio.com",
+ "phone_number": "",
+ "description": "DVD Rental Company",
+ "created_at": "Sat Jan 29 19:48:23 UTC 2011",
+ "updated_at": "Fri Jan 18 20:10:40 UTC 2013",
+ "overview": "\u003Cp\u003EMuvvio is a company in the entertainment industry that provides entertaining products such as music, books, movies and games, at a very low cost with a touch of innovation in the type of services we offer. \u003C/p\u003E\n\n\u003Cp\u003EGiven that some companies are already in the Industry, we take a very different approach by providing better services, and low prices. Our renting system is different from our competitors, and we aim to build a rental community focused on allowing the members to contribute content and from that be able to get content. With that we build a service that in a sense could be scene as the free netflix that can make it so movies, music, and games can be delivered at quicker speeds than ever before and more of them. \u003C/p\u003E\n\n\u003Cp\u003EMuvvio.com has the mission of getting every movie, book, game, and CD in history on our network to be swapped freely at will for either money or just contributing. This mission could change the world as we know it in the sense we no longer need new capital to get products, but we can use existing resources and transfer them globally. Muvvio.com takes pride in being a go green company that can also help the consumer save money. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0011/9549/119549v2-max-150x150.png"],
+     [[201,
+       48],
+      "assets/images/resized/0011/9549/119549v2-max-250x250.png"],
+     [[201,
+       48],
+      "assets/images/resized/0011/9549/119549v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Charles",
+      "last_name": "Peralo",
+      "permalink": "charles-peralo",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0012/1568/121568v2-max-150x150.jpg"],
+          [[200,
+            250],
+           "assets/images/resized/0012/1568/121568v2-max-250x250.jpg"],
+          [[240,
+            300],
+           "assets/images/resized/0012/1568/121568v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jean-Manass\u00e9",
+      "last_name": "Pouabou",
+      "permalink": "jean-manasse-pouabou",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0011/9985/119985v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0011/9985/119985v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0011/9985/119985v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Shahed",
+      "last_name": "Khan",
+      "permalink": "shahed-khan",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/0247/120247v8-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/0247/120247v8-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/0247/120247v8-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Redbox",
+      "permalink": "redbox",
+      "image":
+       {"available_sizes":
+         [[[121,
+            48],
+           "assets/images/resized/0005/6516/56516v1-max-150x150.png"],
+          [[121,
+            48],
+           "assets/images/resized/0005/6516/56516v1-max-250x250.png"],
+          [[121,
+            48],
+           "assets/images/resized/0005/6516/56516v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Netflix",
+      "permalink": "netflix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7200/17200v1-max-150x150.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-250x250.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GameFly",
+      "permalink": "gamefly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/8854/18854v1-max-150x150.png"],
+          [[200,
+            50],
+           "assets/images/resized/0001/8854/18854v1-max-250x250.png"],
+          [[200,
+            50],
+           "assets/images/resized/0001/8854/18854v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon DVD rental",
+      "permalink": "amazon-dvd-rental",
+      "image": null}},
+   {"competitor":
+     {"name": "Amazon DVD rental",
+      "permalink": "amazon-dvd-rental",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

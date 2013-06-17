@@ -1,0 +1,84 @@
+{"name": "VLADIcast",
+ "permalink": "vladicast",
+ "crunchbase_url": "http://www.crunchbase.com/company/vladicast",
+ "homepage_url": "http://www.vladicastinc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, film, hd, dvd, self-distribution, distribution",
+ "alias_list": "",
+ "email_address": "vlad@vladicast.com",
+ "phone_number": "",
+ "description": "Digital Video Distribution Platform",
+ "created_at": "Fri Feb 13 23:00:55 UTC 2009",
+ "updated_at": "Fri Apr 03 22:49:25 UTC 2009",
+ "overview": "\u003Cp\u003EVLADIcast is a provider of Internet-based digital distribution systems. VLADIcast creates and manages white-label private video screening rooms and public video distribution sites for its clients.\u003C/p\u003E\n\n\u003Cp\u003EVLADIcast\u0026#8217;s flagship product is the GoScreening Platform. The GoScreening Platform is comprised of a set of web server and client technologies which allow VLADIcast to create PUBLIC and PRIVATE online video screening rooms. The platform serves as a code-base for high quality, high resolution video sharing applications. Examples of distributed video include not are not limited to: rough cuts, locked picture, short films, feature length films, trailers, and screeners. \u003C/p\u003E\n\n\u003Cp\u003EVLADIcast\u0026#8217;s encoding service prepares video content for online consumption. Videos are distributed as high quality streams, iPod/iPohone compatible downloads, and files that download directly to a DVD-R and play back on any DVD player.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0003/6213/36213v2-max-150x150.png"],
+     [[151,
+       32],
+      "assets/images/resized/0003/6213/36213v2-max-250x250.png"],
+     [[151,
+       32],
+      "assets/images/resized/0003/6213/36213v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "GoScreening",
+    "permalink": "goscreening",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO/Founder",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Elberg",
+      "permalink": "bill-elberg",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        147],
+       "assets/images/resized/0003/6212/36212v2-max-150x150.jpg"],
+      [[220,
+        216],
+       "assets/images/resized/0003/6212/36212v2-max-250x250.jpg"],
+      [[220,
+        216],
+       "assets/images/resized/0003/6212/36212v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.newfilmmakersonline.com",
+    "title": "NewFilmmakers Online"},
+   {"external_url": "http://www.vladicastinc.com/demo.aspx",
+    "title": "Demo of GoScreening technology"}]}

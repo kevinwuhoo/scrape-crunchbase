@@ -1,0 +1,84 @@
+{"name": "TeleSkin",
+ "permalink": "teleskin-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/teleskin-2",
+ "homepage_url": "http://www.teleskin.org",
+ "blog_url": "http://blog.teleskin.org",
+ "blog_feed_url": "",
+ "twitter_username": "teleskin",
+ "category_code": "biotech",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "melanoma, skin-cancer, skinscan, skin-imaging, algorithms, analysis",
+ "alias_list": null,
+ "email_address": "info@teleskin.org",
+ "phone_number": "",
+ "description": "Skin Cancer Analysis",
+ "created_at": "Wed Feb 13 20:05:26 UTC 2013",
+ "updated_at": "Thu Feb 14 05:59:14 UTC 2013",
+ "overview": "\u003Cp\u003ETeleSkin makes hardware, software, and mobile solutions for the early diagnosis of skin cancer, melanoma, and other dermatological conditions.  \u003C/p\u003E\n\n\u003Cp\u003ETeleSkin also an integrated hardware/software solution with a clinical multi-spectral dermascope for the medical practioner to conduct a detailed dermascopic analysis of moles and other skin lesions.  This system integrates seamlessly with a mobile app called skinScan, allowing easy patient referral, entry, and follow-up.   skinScan is a Windows Mobile application for patients and consumers to analysis moles and engage in clinical and patient solutions for the management, early diagnosis, and care of patients with skin cancer and melanoma. \u003C/p\u003E\n\n\u003Cp\u003ETeleSkin operates predominately in Europe, but the mobile app is available in the US, North America, Europe, Asia, South America, and Africa.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/5711/235711v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0023/5711/235711v2-max-250x250.jpg"],
+     [[450,
+       450],
+      "assets/images/resized/0023/5711/235711v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Zeljko",
+      "last_name": "Ratkaj",
+      "permalink": "zeljko-ratkaj",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "11000",
+    "city": "Belgrade",
+    "state_code": null,
+    "country_code": "CSS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.skinscan.com",
+    "title": "mobile application"},
+   {"external_url": "http://www.bitf.rs/cms/item/clubs/en/companies/teleskin.html",
+    "title": ""},
+   {"external_url": "http://www.google.com/url?sa=t\u0026rct=j\u0026q=teleskin\u0026source=web\u0026cd=19\u0026cad=rja\u0026ved=0CGAQFjAIOAo\u0026url=http%3A%2F%2Fwww.ecabit.org%2Fwp-content%2Fuploads%2Ffile%2FBTI_newsletter_9_EN.pdf\u0026ei=IvEbUaDOLOKdiAKNi4DoBw\u0026usg=AFQjCNGJuwF-VdFZPxjsnu__dMioXV2OWw\u0026bvm=bv.42452",
+    "title": "TeleSkin representing Serbia at EU SME Conference"},
+   {"external_url": "http://www.innovationfund.rs/category/portfolio/new-non-invasive-early-diagnosis-of-melanoma/",
+    "title": "Teleskin at  Serbian innovation fund"}]}

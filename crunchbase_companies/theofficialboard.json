@@ -1,0 +1,158 @@
+{"name": "TheOfficialBoard",
+ "permalink": "theofficialboard",
+ "crunchbase_url": "http://www.crunchbase.com/company/theofficialboard",
+ "homepage_url": "http://www.theofficialboard.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": 12,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "organizational-charts, org-charts, wiki, contacts, contacts-database",
+ "alias_list": "The official board, OfficialBoard",
+ "email_address": "contact@theofficialboard.com",
+ "phone_number": "",
+ "description": "Org Charts of the large companies",
+ "created_at": "Mon Mar 09 15:00:25 UTC 2009",
+ "updated_at": "Fri Jun 14 04:49:06 UTC 2013",
+ "overview": "\u003Cp\u003ETheOfficialBoard shows updated org charts for 35,000 companies.  Executives listed in TheOfficialBoard are contacted via direct e-mail through the site.  Members can correct information or add to the database, since the site is a wiki.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0003/7580/37580v1-max-150x150.png"],
+     [[250,
+       54],
+      "assets/images/resized/0003/7580/37580v1-max-250x250.png"],
+     [[315,
+       69],
+      "assets/images/resized/0003/7580/37580v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Lot",
+      "permalink": "thomas-lot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/5081/275081v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/5081/275081v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/5081/275081v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Oleg",
+      "last_name": "Sidko",
+      "permalink": "oleg-sidko",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/5085/275085v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/5085/275085v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/5085/275085v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Design",
+    "person":
+     {"first_name": "Thierry",
+      "last_name": "Charbonnel",
+      "permalink": "thierry-charbonnel",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Judy",
+      "last_name": "Drew Fairchid",
+      "permalink": "judy-drew-fairchid",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Jigsaw",
+      "permalink": "jigsaw",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0001/9798/19798v4-max-150x150.jpg"],
+          [[211,
+            57],
+           "assets/images/resized/0001/9798/19798v4-max-250x250.jpg"],
+          [[211,
+            57],
+           "assets/images/resized/0001/9798/19798v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NetProspex",
+      "permalink": "netprospex",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0001/9803/19803v5-max-150x150.png"],
+          [[250,
+            41],
+           "assets/images/resized/0001/9803/19803v5-max-250x250.png"],
+          [[450,
+            74],
+           "assets/images/resized/0001/9803/19803v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "TechCrunch",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Rue du Centre",
+    "address2": "",
+    "zip_code": "92210 ",
+    "city": "Saint-Cloud",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.84176,
+    "longitude": 2.215097}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

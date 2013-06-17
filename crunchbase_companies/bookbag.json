@@ -1,0 +1,123 @@
+{"name": "BookBag",
+ "permalink": "bookbag",
+ "crunchbase_url": "http://www.crunchbase.com/company/bookbag",
+ "homepage_url": "http://www.bookbagapp.co",
+ "blog_url": "http://www.bookbagapp.co/blog",
+ "blog_feed_url": "",
+ "twitter_username": "bookbagapp",
+ "category_code": "education",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "books, textbooks, education",
+ "alias_list": null,
+ "email_address": "info@bookbagapp.co",
+ "phone_number": "8888307446",
+ "description": "Powerful Book Search Engine",
+ "created_at": "Thu Dec 13 21:25:59 UTC 2012",
+ "updated_at": "Fri May 24 20:35:03 UTC 2013",
+ "overview": "\u003Cp\u003EBookBag is an awesome little app that compares multiple websites to find the best deals. Looking to sell your old books? Find people locally who are currently searching for what you have.\u003C/p\u003E\n\n\u003Cp\u003EBookbag will available on the iPhone and Android starting January 2013.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[143,
+       150],
+      "assets/images/resized/0026/6684/266684v1-max-150x150.jpg"],
+     [[239,
+       250],
+      "assets/images/resized/0026/6684/266684v1-max-250x250.jpg"],
+     [[255,
+       266],
+      "assets/images/resized/0026/6684/266684v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Chanel",
+      "last_name": "Nalani",
+      "permalink": "chanel-nalani",
+      "image": null}},
+   {"is_past": false,
+    "title": "App Developer",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Troy",
+      "permalink": "ryan-troy",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BIGWORDS.com",
+      "permalink": "bigwords-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0002/2561/22561v2-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0002/2561/22561v2-max-250x250.png"],
+          [[290,
+            60],
+           "assets/images/resized/0002/2561/22561v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$10k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://theorion.com/features/article_e27f8506-4999-11e2-bdac-001a4bcf6878.html",
+    "source_description": "Student starts new chapter with Bookbag business",
+    "raised_amount": 10000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 12,
+    "funded_day": 10,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "CSU, Chico",
+         "permalink": "csu-chico",
+         "image":
+          {"available_sizes":
+            [[[150,
+               48],
+              "assets/images/resized/0027/2796/272796v1-max-150x150.jpg"],
+             [[250,
+               80],
+              "assets/images/resized/0027/2796/272796v1-max-250x250.jpg"],
+             [[276,
+               89],
+              "assets/images/resized/0027/2796/272796v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "95926",
+    "city": "Chico",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

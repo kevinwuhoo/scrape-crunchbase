@@ -1,0 +1,173 @@
+{"name": "Waizy",
+ "permalink": "waizy",
+ "crunchbase_url": "http://www.crunchbase.com/company/waizy",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": 22,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "application, mobile, iphone, android, blackberry, collaboration, geo-location, check-in, night-life, communication",
+ "alias_list": null,
+ "email_address": "niche.connections@gmail.com",
+ "phone_number": "",
+ "description": "Geolocation nightlife connect",
+ "created_at": "Mon Feb 28 08:26:10 UTC 2011",
+ "updated_at": "Tue Aug 14 20:57:15 UTC 2012",
+ "overview": "\u003Cp\u003EWaizy allows users to collaborate and maintain connections with friends through the use of geo-locational technology in a unique and innovative mobile platform.\u003C/p\u003E\n\n\u003Cp\u003EAs the market stands, social collaboration is a jumble of text messages and\nphone calls often leading to the transfer of outdated misinformation between\nfriends and their intermediaries. Waizy is a tool that will help users better\ncommunicate with friends while providing a level of privacy not yet seen in\nother location based service (LBS) applications.\u003C/p\u003E\n\n\u003Cp\u003EUsers will not only be able to check-in and see their friends locations in real time, but they can also RSVP in advance to destinations throughout the evening. The purpose of the RSVP is to assist our users in conveniently planning their night based on what their friends have posted. More communication enhancing features\ninclude short personal or group messages and the ability to post a publicly\nviewable status. By combining RSVP\u00e2\u20ac\u2122s, and Check-in\u00e2\u20ac\u2122s, along with personal\nand public posts; we will create a chronological feed that users can look\nback on and review their night. This will grow with more features over time\ngiving our users something worth coming back to the next day\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       86],
+      "assets/images/resized/0012/4265/124265v2-max-150x150.png"],
+     [[157,
+       91],
+      "assets/images/resized/0012/4265/124265v2-max-250x250.png"],
+     [[157,
+       91],
+      "assets/images/resized/0012/4265/124265v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Dajuan",
+      "last_name": "Watkins",
+      "permalink": "dajuan-watkins",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Bryan",
+      "last_name": "Wool",
+      "permalink": "bryan-wool",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Nathan",
+      "last_name": "Kaplan",
+      "permalink": "nathan-kaplan",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Safferman",
+      "permalink": "jeff-safferman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ThirstyVIP",
+      "permalink": "thirstyvip",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0010/1951/101951v2-max-150x150.png"],
+          [[250,
+            104],
+           "assets/images/resized/0010/1951/101951v2-max-250x250.png"],
+          [[450,
+            188],
+           "assets/images/resized/0010/1951/101951v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gowalla",
+      "permalink": "gowalla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/5118/25118v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tellmewhere",
+      "permalink": "tellmewhere",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0003/6310/36310v5-max-150x150.png"],
+          [[250,
+            55],
+           "assets/images/resized/0003/6310/36310v5-max-250x250.png"],
+          [[450,
+            99],
+           "assets/images/resized/0003/6310/36310v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Brightkite",
+      "permalink": "brightkite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/5798/15798v6-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0001/5798/15798v6-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/5798/15798v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 2,
+    "funded_day": 26,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

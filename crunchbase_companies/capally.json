@@ -1,0 +1,154 @@
+{"name": "CapAlly",
+ "permalink": "capally",
+ "crunchbase_url": "http://www.crunchbase.com/company/capally",
+ "homepage_url": "http://capally.com",
+ "blog_url": "http://networkedblogs.com/7E931",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 4,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "peer-to-peer-lending, p2p-lending, business-social-networking, microfinance, microloans, marketplace, student-loans, student, loan",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "EPM",
+ "created_at": "Tue Apr 01 04:48:26 UTC 2008",
+ "updated_at": "Thu Apr 04 14:13:40 UTC 2013",
+ "overview": "\u003Cp\u003ECapAlly, formerly the Academic Capital Exchange (ACE), is an online peer-to-peer student loan marketplace that links students to the financial support and professional guidance needed to achieve success in the classroom and beyond.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0001/6640/16640v1-max-150x150.png"],
+     [[228,
+       88],
+      "assets/images/resized/0001/6640/16640v1-max-250x250.png"],
+     [[228,
+       88],
+      "assets/images/resized/0001/6640/16640v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP of Web Development",
+    "person":
+     {"first_name": "David",
+      "last_name": "Dean",
+      "permalink": "david-dean-3",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Shawn",
+      "last_name": "Bercuson",
+      "permalink": "shawn-bercuson",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/5975/255975v2-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/5975/255975v2-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/5975/255975v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Prosper",
+      "permalink": "prosper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0000/0070/70v3-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0000/0070/70v3-max-250x250.png"],
+          [[450,
+            69],
+           "assets/images/resized/0000/0070/70v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zopa",
+      "permalink": "zopa",
+      "image":
+       {"available_sizes":
+         [[[141,
+            89],
+           "assets/images/resized/0001/2097/12097v1-max-150x150.png"],
+          [[141,
+            89],
+           "assets/images/resized/0001/2097/12097v1-max-250x250.png"],
+          [[141,
+            89],
+           "assets/images/resized/0001/2097/12097v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fynanz",
+      "permalink": "fynanz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0001/5918/15918v1-max-150x150.png"],
+          [[176,
+            79],
+           "assets/images/resized/0001/5918/15918v1-max-250x250.png"],
+          [[176,
+            79],
+           "assets/images/resized/0001/5918/15918v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Lending Club",
+      "permalink": "lendingclub",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0000/4531/4531v4-max-150x150.jpg"],
+          [[250,
+            50],
+           "assets/images/resized/0000/4531/4531v4-max-250x250.jpg"],
+          [[307,
+            62],
+           "assets/images/resized/0000/4531/4531v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "60661",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": 41.882865,
+    "longitude": -87.643545}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

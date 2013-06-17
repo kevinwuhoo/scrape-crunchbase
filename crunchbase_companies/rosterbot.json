@@ -1,0 +1,215 @@
+{"name": "Rosterbot",
+ "permalink": "rosterbot",
+ "crunchbase_url": "http://www.crunchbase.com/company/rosterbot",
+ "homepage_url": "http://rosterbot.com/",
+ "blog_url": "http://rosterbot.com/category/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "rosterbot",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sports-management, youth-athletics, athletic-team-management",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Mar 26 18:53:05 UTC 2008",
+ "updated_at": "Wed May 22 05:44:56 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.rosterbot.com\" title=\"RosterBot\" rel=\"nofollow\"\u003ERosterBot\u003C/a\u003E is a web based athletic team management application. It serves to organize teams of any sport by polling each player to see if they\u0026#8217;re coming to the next event and then showing coaches and other members the results, along with some other relevant information, such as player profiles, calendars, and locations.  The service can also email users a summary of who\u0026#8217;s coming on game day. The service is free to users. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[145,
+       150],
+      "assets/images/resized/0001/6412/16412v4-max-150x150.png"],
+     [[241,
+       250],
+      "assets/images/resized/0001/6412/16412v4-max-250x250.png"],
+     [[435,
+       450],
+      "assets/images/resized/0001/6412/16412v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "RosterBot",
+    "permalink": "rosterbot",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ian",
+      "last_name": "Bell",
+      "permalink": "ian-bell",
+      "image":
+       {"available_sizes":
+         [[[127,
+            150],
+           "assets/images/resized/0010/4632/104632v2-max-150x150.jpg"],
+          [[213,
+            250],
+           "assets/images/resized/0010/4632/104632v2-max-250x250.jpg"],
+          [[383,
+            450],
+           "assets/images/resized/0010/4632/104632v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Bret",
+      "last_name": "Hedican",
+      "permalink": "bret-hedican",
+      "image":
+       {"available_sizes":
+         [[[118,
+            150],
+           "assets/images/resized/0027/5955/275955v1-max-150x150.jpg"],
+          [[196,
+            250],
+           "assets/images/resized/0027/5955/275955v1-max-250x250.jpg"],
+          [[251,
+            319],
+           "assets/images/resized/0027/5955/275955v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Principal, Lead Developer, Architect, etc",
+    "person":
+     {"first_name": "Chad",
+      "last_name": "Lindstrom",
+      "permalink": "chad-lindstrom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/5956/275956v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/5956/275956v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/5956/275956v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Weplay",
+      "permalink": "weplay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0001/6404/16404v5-max-150x150.png"],
+          [[153,
+            62],
+           "assets/images/resized/0001/6404/16404v5-max-250x250.png"],
+          [[153,
+            62],
+           "assets/images/resized/0001/6404/16404v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TeamSnap",
+      "permalink": "teamsnap",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/6407/16407v1-max-150x150.png"],
+          [[200,
+            63],
+           "assets/images/resized/0001/6407/16407v1-max-250x250.png"],
+          [[200,
+            63],
+           "assets/images/resized/0001/6407/16407v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Easyteammanager",
+      "permalink": "easyteammanager",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0001/6417/16417v2-max-150x150.jpg"],
+          [[250,
+            43],
+           "assets/images/resized/0001/6417/16417v2-max-250x250.jpg"],
+          [[450,
+            78],
+           "assets/images/resized/0001/6417/16417v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "YourTeamOnline",
+      "permalink": "yourteamonline",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0001/6419/16419v1-max-150x150.jpg"],
+          [[250,
+            72],
+           "assets/images/resized/0001/6419/16419v1-max-250x250.jpg"],
+          [[347,
+            100],
+           "assets/images/resized/0001/6419/16419v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sport Ngin",
+      "permalink": "sport-ngin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0001/6437/16437v11-max-150x150.jpg"],
+          [[245,
+            58],
+           "assets/images/resized/0001/6437/16437v11-max-250x250.jpg"],
+          [[245,
+            58],
+           "assets/images/resized/0001/6437/16437v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TeamSnap",
+      "permalink": "teamsnap",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/6407/16407v1-max-150x150.png"],
+          [[200,
+            63],
+           "assets/images/resized/0001/6407/16407v1-max-250x250.png"],
+          [[200,
+            63],
+           "assets/images/resized/0001/6407/16407v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "1057 Homer St.",
+    "address2": "Street Address",
+    "zip_code": "BC V6B2X5",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 49.2767775,
+    "longitude": -123.1210616}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

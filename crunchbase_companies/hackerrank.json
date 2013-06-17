@@ -1,0 +1,139 @@
+{"name": "HackerRank",
+ "permalink": "hackerrank",
+ "crunchbase_url": "http://www.crunchbase.com/company/hackerrank",
+ "homepage_url": "http://hackerrank.com",
+ "blog_url": "http://blog.hackerrank.com",
+ "blog_feed_url": "http://blog.hackerrank.com/rss",
+ "twitter_username": "hackerrank",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hackers, algorithms, programming, challenges",
+ "alias_list": null,
+ "email_address": "hackers@hackerrank.com",
+ "phone_number": "512.800.3815",
+ "description": "Social hub of hackers",
+ "created_at": "Fri Aug 17 02:40:41 UTC 2012",
+ "updated_at": "Wed Sep 12 21:13:22 UTC 2012",
+ "overview": "\u003Cp\u003EHackerrank is a social platform for hackers to solve interesting puzzles, code game bots and collaborate to solve real-world challenges.\u003C/p\u003E\n\n\u003Cp\u003EProblem solvers control the way in which the world functions and progresses. These players include hackers, programmers, mathematicians, etc. When world problems are solved faster, innovations will be invented faster, eventually prompting the world to move faster.\u003C/p\u003E\n\n\u003Cp\u003EWe\u0026#8217;re building a site that\u0026#8217;ll have something for every problem solver across the world to be intrigued - AI challenges, ML problems, mathematical puzzles, Javascript hacks, image processing, etc. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Vivek",
+      "last_name": "Ravisankar",
+      "permalink": "vivek-ravisankar",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0019/9426/199426v2-max-150x150.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0019/9426/199426v2-max-250x250.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0019/9426/199426v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Harishankaran",
+      "last_name": "Karunanidhi",
+      "permalink": "harishankaran-karunanidhi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CodeEval",
+      "permalink": "codeeval",
+      "image":
+       {"available_sizes":
+         [[[150,
+            146],
+           "assets/images/resized/0013/3577/133577v2-max-150x150.jpg"],
+          [[180,
+            176],
+           "assets/images/resized/0013/3577/133577v2-max-250x250.jpg"],
+          [[180,
+            176],
+           "assets/images/resized/0013/3577/133577v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CodeEval",
+      "permalink": "codeeval",
+      "image":
+       {"available_sizes":
+         [[[150,
+            146],
+           "assets/images/resized/0013/3577/133577v2-max-150x150.jpg"],
+          [[180,
+            176],
+           "assets/images/resized/0013/3577/133577v2-max-250x250.jpg"],
+          [[180,
+            176],
+           "assets/images/resized/0013/3577/133577v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cdiv style='text-align:center'\u003E\r\n\r\n\u003Cobject width='430' height='272' id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'\u003E\r\n\r\n\u003Cparam name='allowfullscreen' value='true'/\u003E\r\n\r\n\u003Cparam name='allowScriptAccess' value='always'/\u003E\r\n\r\n\u003Cparam name='movie' value='http://embed.5min.com/517477208/'/\u003E\r\n\r\n\u003Cparam name='wmode' value='opaque' /\u003E\r\n\r\n\u003Cembed name='FiveminPlayer' src='http://embed.5min.com/517477208/' type='application/x-shockwave-flash' width='430' height='272' allowfullscreen='true' allowScriptAccess='always' wmode='opaque'\u003E\r\n\r\n\u003C/embed\u003E\r\n\r\n\u003C/object\u003E\r\n\r\n\u003Cbr/\u003E\r\n\r\n\u003C/div\u003E",
+    "description": "\u003Cp\u003EHackerRank Demo TechCrunch Disrupt 2012\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

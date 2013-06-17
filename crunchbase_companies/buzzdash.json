@@ -1,0 +1,111 @@
+{"name": "BuzzDash",
+ "permalink": "buzzdash",
+ "crunchbase_url": "http://www.crunchbase.com/company/buzzdash",
+ "homepage_url": "http://www.buzzdash.com",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 0,
+ "founded_year": 2006,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": 2009,
+ "deadpooled_month": 4,
+ "deadpooled_day": 10,
+ "deadpooled_url": "",
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sun Sep 09 00:50:38 UTC 2007",
+ "updated_at": "Sat Apr 11 01:17:45 UTC 2009",
+ "overview": "\u003Cp\u003EBuzzDash is an editorially-managed website where people can go to gauge popular opinion on almost anything.  Issues are broken down into individual polling modules called \u0026#8220;buzzbites.\u0026#8221;\u003C/p\u003E\n\n\u003Cp\u003EThe company announced that \u0026#8220;due to a lack of funding,\u0026#8221; the company would shut down by April 17, 2009.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       67],
+      "assets/images/resized/0000/0622/622v1-max-150x150.png"],
+     [[178,
+       80],
+      "assets/images/resized/0000/0622/622v1-max-250x250.png"],
+     [[178,
+       80],
+      "assets/images/resized/0000/0622/622v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "BuzzDash.com",
+    "permalink": "buzzdash-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Gerken",
+      "permalink": "david-gerken",
+      "image": null}},
+   {"is_past": null,
+    "title": "CTO",
+    "person":
+     {"first_name": "Marshall",
+      "last_name": "Rose",
+      "permalink": "marshall-rose",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Public Relations",
+    "is_past": null,
+    "provider":
+     {"name": "The Bohle Company",
+      "permalink": "the-bohle-company",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0001/2500/12500v1-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0001/2500/12500v1-max-250x250.png"],
+          [[256,
+            62],
+           "assets/images/resized/0001/2500/12500v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$1.2M",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": 1200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": null,
+    "zip_code": "90292",
+    "city": "Marina del Rey",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.977854,
+    "longitude": -118.445271}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

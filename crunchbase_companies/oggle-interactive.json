@@ -1,0 +1,164 @@
+{"name": "Oggle Interactive",
+ "permalink": "oggle-interactive",
+ "crunchbase_url": "http://www.crunchbase.com/company/oggle-interactive",
+ "homepage_url": "http://www.oistr.com",
+ "blog_url": "http://www.oistrdotcom.blogspot.com",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, tourism, map-based, online-booking, hotel-booking, reviews, travel-games, beta",
+ "alias_list": null,
+ "email_address": "scottc@oistr.com",
+ "phone_number": "6045692622",
+ "description": "",
+ "created_at": "Mon Nov 24 22:14:42 UTC 2008",
+ "updated_at": "Sun May 24 01:59:58 UTC 2009",
+ "overview": "\u003Cp\u003EOistr.com is a Rich Internet Application (RIA) mashup combining social networking and\nmapping. The main focus of the site is facilitating travel with revenue streams from\nbooking commissions and ad sales. We use a system of pins placed on a map where\neach pin presents a summary of the location, including rich multimedia content and\nreviews. Our cutting-edge proprietary system encourages users to submit and share\nvideos, photos, and Virtual Reality Panoramas (VRs). The future of marketing online is\nthe conversation between users and businesses; Oistr.com is designed to facilitate this\nconversation.\u003C/p\u003E\n\n\u003Cp\u003EOur site aggregates content from many sources including reviews and real-world\nexperiences from its users. They can create trips and share travel experiences with\nothers. They can also use the site to book a complete travel itinerary visually, including\ntransport, entertainment, and accommodation, all using our special interface. Users are\nalso encouraged in a variety of ways to invite their friends and acquaintances to get\ninvolved, stimulating viral growth.\u003C/p\u003E\n\n\u003Cp\u003EWe provide the tools to research and book a trip, and the ability for users to share their\nexperiences with friends. This maximizes the opportunity for the site to be seen and to\nacquire new users. This viral growth strategy combined with overall \u00e2\u20ac\u0153stickiness\u00e2\u20ac\u009d is our\nkey marketing advantage over the older and more traditional travel sites.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0003/4499/34499v2-max-150x150.jpg"],
+     [[244,
+       86],
+      "assets/images/resized/0003/4499/34499v2-max-250x250.jpg"],
+     [[244,
+       86],
+      "assets/images/resized/0003/4499/34499v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Travel booking",
+    "permalink": "travel-booking",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Marketing Director/Partner",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Carmichael",
+      "permalink": "scott-carmichael",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Travelocity",
+      "permalink": "travelocity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0001/6858/16858v1-max-150x150.png"],
+          [[210,
+            83],
+           "assets/images/resized/0001/6858/16858v1-max-250x250.png"],
+          [[210,
+            83],
+           "assets/images/resized/0001/6858/16858v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Expedia",
+      "permalink": "expedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0001/6749/16749v3-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0001/6749/16749v3-max-250x250.jpg"],
+          [[450,
+            347],
+           "assets/images/resized/0001/6749/16749v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TripIt",
+      "permalink": "tripit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0000/0274/274v1-max-150x150.png"],
+          [[200,
+            108],
+           "assets/images/resized/0000/0274/274v1-max-250x250.png"],
+          [[200,
+            108],
+           "assets/images/resized/0000/0274/274v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TripAdvisor",
+      "permalink": "tripadvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/2953/2953v18-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0000/2953/2953v18-max-250x250.jpg"],
+          [[450,
+            264],
+           "assets/images/resized/0000/2953/2953v18-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Orbitz Worldwide",
+      "permalink": "orbitz",
+      "image":
+       {"available_sizes":
+         [[[128,
+            39],
+           "assets/images/resized/0001/6753/16753v1-max-150x150.png"],
+          [[128,
+            39],
+           "assets/images/resized/0001/6753/16753v1-max-250x250.png"],
+          [[128,
+            39],
+           "assets/images/resized/0001/6753/16753v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "160 - 425 Carrall St.",
+    "address2": "",
+    "zip_code": "V6B 6E3",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 49.2812342,
+    "longitude": -123.1043395}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        119],
+       "assets/images/resized/0002/9466/29466v2-max-150x150.jpg"],
+      [[250,
+        199],
+       "assets/images/resized/0002/9466/29466v2-max-250x250.jpg"],
+      [[450,
+        359],
+       "assets/images/resized/0002/9466/29466v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://groups.google.com/group/oistr?hl=en\u0026pli=1",
+    "title": "Google pages about the company"}]}

@@ -1,0 +1,101 @@
+{"name": "Coupz",
+ "permalink": "coupz",
+ "crunchbase_url": "http://www.crunchbase.com/company/coupz",
+ "homepage_url": "http://coupz.com",
+ "blog_url": "http://blog.coupz.com",
+ "blog_feed_url": "",
+ "twitter_username": "CoupzCoupz",
+ "category_code": "search",
+ "number_of_employees": 7,
+ "founded_year": 2010,
+ "founded_month": 4,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "daily-deals, deal-aggregator, discounts, groupon, buywithme, livingsocial",
+ "alias_list": null,
+ "email_address": "james@coupz.com",
+ "phone_number": "(800) 385-0623",
+ "description": "Coupz aggregates \u0026 recommends daily deal",
+ "created_at": "Wed Jan 12 21:58:14 UTC 2011",
+ "updated_at": "Thu Jan 20 03:02:19 UTC 2011",
+ "overview": "\u003Cp\u003EWho is Coupz.com? \nWe are a 50% to 90% off deal aggregator. Meaning we look through all the best discounts, coupons, daily deal sites that are out there and bring you the cream of the crop. All our scouted deals are listed by your local city or any city you wish to visit. \u003C/p\u003E\n\n\u003Cp\u003EYou can have the top 12 offers sent to you each day by signing up for our daily email or you can bookmark your city page and come back each day to see all the newly scouted deals. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       68],
+      "assets/images/resized/0011/7071/117071v2-max-150x150.png"],
+     [[250,
+       114],
+      "assets/images/resized/0011/7071/117071v2-max-250x250.png"],
+     [[255,
+       117],
+      "assets/images/resized/0011/7071/117071v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Lindsay",
+      "permalink": "james-lindsay",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yipit",
+      "permalink": "yipit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0010/4332/104332v1-max-150x150.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-250x250.png"],
+          [[227,
+            106],
+           "assets/images/resized/0010/4332/104332v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$250k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Personal Family/Friends",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 4,
+    "funded_day": 12,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://articles.chicagotribune.com/2010-12-16/news/sc-cons-1216-karp-20101216_1_movie-theater-theater-web-sites-regal-crown-club/2",
+    "title": "Chicago Tribune"},
+   {"external_url": "http://dailyme.com/story/2010121900000667/holiday-breaks-smart-buying-movie-tickets.html",
+    "title": "Daily Me.com"},
+   {"external_url": "http://www.allbusiness.com/humanities-social-science/visual-performing-arts/15385961-1.html",
+    "title": "All Business"},
+   {"external_url": "http://seattletimes.nwsource.com/html/businesstechnology/2013726247_pfmoneytip26.html",
+    "title": "Seattle Times"},
+   {"external_url": "http://vimeo.com/17128874",
+    "title": "MYFOX9 "}]}

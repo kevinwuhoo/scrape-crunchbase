@@ -1,0 +1,153 @@
+{"name": "RunRev",
+ "permalink": "runrev",
+ "crunchbase_url": "http://www.crunchbase.com/company/runrev",
+ "homepage_url": "http://www.runrev.com",
+ "blog_url": "http://runrev.com/company/runrev-blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/RunrevBlog",
+ "twitter_username": "RunRev",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 1997,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "application-development, software-development, mobile-app-development, development, software, hypercard, ios, iphone, ipad, mobile, android",
+ "alias_list": null,
+ "email_address": "support@runrev.com",
+ "phone_number": "+44 (0) 845 219 8923",
+ "description": "Fast iPhone/iPad App Development",
+ "created_at": "Mon Feb 07 21:15:26 UTC 2011",
+ "updated_at": "Thu Feb 10 04:31:09 UTC 2011",
+ "overview": "\u003Cp\u003ERunRev are the makers of LiveCode, a cross-platform software development environment for creating applications from a single code base that run on any platform - mobile (iOS, Android), desktop (Mac, PC, Linux) and Web. LiveCode features a compile-free workflow, with changes happening in real-time. The platform is a descendant from HyperCard and uses a similar English-like programming language that is considered easy to learn and use.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0012/1256/121256v2-max-150x150.jpg"],
+     [[250,
+       76],
+      "assets/images/resized/0012/1256/121256v2-max-250x250.jpg"],
+     [[450,
+       138],
+      "assets/images/resized/0012/1256/121256v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Miller",
+      "permalink": "kevin-miller",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Technology",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Waddingham",
+      "permalink": "mark-waddingham",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Appcelerator",
+      "permalink": "appcelerator",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0003/1295/31295v2-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0003/1295/31295v2-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0003/1295/31295v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sun Microsystems",
+      "permalink": "sun-microsystems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0001/6586/16586v2-max-150x150.png"],
+          [[180,
+            86],
+           "assets/images/resized/0001/6586/16586v2-max-250x250.png"],
+          [[180,
+            86],
+           "assets/images/resized/0001/6586/16586v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Marketing and Public Relations",
+    "is_past": false,
+    "provider":
+     {"name": "Concept Communications",
+      "permalink": "concept-communications",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0012/0878/120878v2-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0012/0878/120878v2-max-250x250.jpg"],
+          [[450,
+            199],
+           "assets/images/resized/0012/0878/120878v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "25a Thistle Street Lane South West",
+    "address2": "",
+    "zip_code": "EH2 1EW",
+    "city": "Edinburgh",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.networkworld.com/community/node/45829",
+    "title": "Network World - three part review"},
+   {"external_url": "http://runrev.com/company/press-room/news-coverage/whatever-software-you-want-to-create-livecode-will-make-it-possible----macuser-magazine-awards-livecode-editors-choice-award",
+    "title": "MacUser - Editor's Choice Award"},
+   {"external_url": "http://business.scotsman.com/business/RunRev-sets-sights-on-1m.6651846.jp",
+    "title": "The Scotsman"},
+   {"external_url": "http://www.computerweekly.com/blogs/cwdn/2010/12/runrevs-speedy-iphoneipad-compile-free-app-programming.html",
+    "title": "Computer Weekly"},
+   {"external_url": "http://www.apps-world.net/blog/2010/12/europe/the-3-principles-behind-successful-app-development/",
+    "title": "Apps World"}]}

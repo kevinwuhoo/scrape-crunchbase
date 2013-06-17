@@ -1,0 +1,155 @@
+{"name": "WebServius",
+ "permalink": "webservius",
+ "crunchbase_url": "http://www.crunchbase.com/company/webservius",
+ "homepage_url": "http://www.webservius.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "webservius",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "api, monetization, api-management, api-monetization, web-services, rest, soa",
+ "alias_list": null,
+ "email_address": "info@webservius.com",
+ "phone_number": "",
+ "description": "API management and monetization",
+ "created_at": "Fri Jan 15 03:06:51 UTC 2010",
+ "updated_at": "Fri Dec 17 20:36:13 UTC 2010",
+ "overview": "\u003Cp\u003EWebServius provides a solution for managing and monetizing web APIs. \u003C/p\u003E\n\n\u003Cp\u003EThe WebServius product is essentially a management layer that can be rapidly added to any API endpoint, which takes care of tasks like the developer signup process, API key issuance, usage metering, quota enforcement, usage-based pricing, billing, reporting and more. \u003C/p\u003E\n\n\u003Cp\u003EWebServius envisions a world of \u0026#8220;Software Components as a Service\u0026#8221;, where any useful data set or software component can be exposed in the form of an API in a rapid and efficient manner, resulting in increased revenue to the provider and in easier and more democratized access to software components for developers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       15],
+      "assets/images/resized/0007/3480/73480v2-max-150x150.png"],
+     [[250,
+       26],
+      "assets/images/resized/0007/3480/73480v2-max-250x250.png"],
+     [[382,
+       40],
+      "assets/images/resized/0007/3480/73480v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Eugene",
+      "last_name": "Osovetsky",
+      "permalink": "eugene-osovetsky",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP of Engineering",
+    "person":
+     {"first_name": "Sergey",
+      "last_name": "Royt",
+      "permalink": "sergey-royt",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mashery",
+      "permalink": "mashery",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0000/2155/2155v1-max-150x150.png"],
+          [[200,
+            28],
+           "assets/images/resized/0000/2155/2155v1-max-250x250.png"],
+          [[200,
+            28],
+           "assets/images/resized/0000/2155/2155v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "3scale",
+      "permalink": "3scale",
+      "image": null}},
+   {"competitor":
+     {"name": "Apigee",
+      "permalink": "apigee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/6739/26739v6-max-150x150.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0002/6739/26739v6-max-250x250.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0002/6739/26739v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TheWebService",
+      "permalink": "thewebservice",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/3670/23670v4-max-150x150.jpg"],
+          [[200,
+            56],
+           "assets/images/resized/0002/3670/23670v4-max-250x250.jpg"],
+          [[200,
+            56],
+           "assets/images/resized/0002/3670/23670v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mashape",
+      "permalink": "mashape",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0004/3071/43071v7-max-150x150.png"],
+          [[180,
+            60],
+           "assets/images/resized/0004/3071/43071v7-max-250x250.png"],
+          [[180,
+            60],
+           "assets/images/resized/0004/3071/43071v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Wilson Sonsini",
+      "permalink": "wilson-sonsini",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.seattle20.com/blog/How-Much-Is-Content-Worth.aspx",
+    "title": "How Much Is Content Worth?"},
+   {"external_url": "http://seattle.tie.org/TGS/NM/newsview/viewNewsPT?id_news=851\u0026id_chapter=33\u0026id_story_type=1\u0026from_where=homepage",
+    "title": "WebServius wins the TiE award as the company \"Most Likely to be Funded\""}]}

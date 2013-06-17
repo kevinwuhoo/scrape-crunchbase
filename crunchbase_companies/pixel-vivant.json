@@ -1,0 +1,111 @@
+{"name": "Pixel Vivant",
+ "permalink": "pixel-vivant",
+ "crunchbase_url": "http://www.crunchbase.com/company/pixel-vivant",
+ "homepage_url": "http://www.pixelvivant.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2005,
+ "founded_month": 2,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ruby-on-rails, ror, mysql, php, cakephp, webdevelopment, web-development, internet",
+ "alias_list": null,
+ "email_address": "contact@pixelvivant.com",
+ "phone_number": "+33 2 99 19 69 84",
+ "description": "Web development agency",
+ "created_at": "Wed May 06 16:00:25 UTC 2009",
+ "updated_at": "Fri May 08 22:18:30 UTC 2009",
+ "overview": "\u003Cp\u003EPixel Vivant is a web development agency that uses innovative open source technologies like Ruby on Rails and MySQL.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       134],
+      "assets/images/resized/0004/3313/43313v2-max-150x150.jpg"],
+     [[250,
+       223],
+      "assets/images/resized/0004/3313/43313v2-max-250x250.jpg"],
+     [[450,
+       402],
+      "assets/images/resized/0004/3313/43313v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Aragon-eRH, logiciel RH",
+    "permalink": "www-aragon-erh-com",
+    "image": null},
+   {"name": "www.ogcommunication.com",
+    "permalink": "www-ogcommunication-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jean-Baptiste",
+      "last_name": "Tr\u00c3\u00a9glos",
+      "permalink": "jean-baptiste-trglos",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Xilinus",
+      "permalink": "xilinus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            85],
+           "assets/images/resized/0002/0802/20802v4-max-150x150.png"],
+          [[250,
+            142],
+           "assets/images/resized/0002/0802/20802v4-max-250x250.png"],
+          [[450,
+            256],
+           "assets/images/resized/0002/0802/20802v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "54, rue du Grand Jardin",
+    "address2": "",
+    "zip_code": "35400",
+    "city": "Saint-Malo",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.6276289,
+    "longitude": -1.9856858}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

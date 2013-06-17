@@ -1,0 +1,108 @@
+{"name": "Skoobe",
+ "permalink": "skoobe",
+ "crunchbase_url": "http://www.crunchbase.com/company/skoobe",
+ "homepage_url": "http://www.skoobe.de",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "skoobe_DE",
+ "category_code": "games_video",
+ "number_of_employees": 14,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ebooks, subscription, mobile, flatrate",
+ "alias_list": null,
+ "email_address": "service@skoobe.de",
+ "phone_number": "+498924292670",
+ "description": "Ebook Subscription service",
+ "created_at": "Mon Nov 19 18:06:34 UTC 2012",
+ "updated_at": "Wed Dec 12 07:48:11 UTC 2012",
+ "overview": "\u003Cp\u003ESkoobe is an Ebook Subsription service for smartphones and tablets.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[139,
+       150],
+      "assets/images/resized/0022/1058/221058v2-max-150x150.jpg"],
+     [[232,
+       250],
+      "assets/images/resized/0022/1058/221058v2-max-250x250.jpg"],
+     [[400,
+       431],
+      "assets/images/resized/0022/1058/221058v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Damke",
+      "permalink": "christian-damke",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "24Symbols",
+      "permalink": "24symbols",
+      "image": null}},
+   {"competitor":
+     {"name": "Wattpad",
+      "permalink": "wattpad",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0019/3464/193464v2-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0019/3464/193464v2-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0019/3464/193464v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Klenzestr.38",
+    "address2": "RG",
+    "zip_code": "80469",
+    "city": "Munich",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 48.1305954,
+    "longitude": 11.574196}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[139,
+        150],
+       "assets/images/resized/0022/1057/221057v2-max-150x150.jpg"],
+      [[232,
+        250],
+       "assets/images/resized/0022/1057/221057v2-max-250x250.jpg"],
+      [[400,
+        431],
+       "assets/images/resized/0022/1057/221057v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://toc.oreilly.com/2012/11/three-questions-for-christian-damke-of-skoobe.html",
+    "title": "Tools of Change Conference NY"},
+   {"external_url": "http://www.guardian.co.uk/books/2012/mar/16/skoobe-ebooks-library-launch-baddeley",
+    "title": "Guardian"}]}

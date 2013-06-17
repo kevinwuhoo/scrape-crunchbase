@@ -1,0 +1,106 @@
+{"name": "Teenormous",
+ "permalink": "teenormous",
+ "crunchbase_url": "http://www.crunchbase.com/company/teenormous",
+ "homepage_url": "http://teenormous.com",
+ "blog_url": "http://blog.teenormous.com",
+ "blog_feed_url": "http://blog.teenormous.com/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "t-shirts, search-engine, shopping, clothing, apparel, tshirts, tees",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "A t-shirt search engine",
+ "created_at": "Tue Mar 03 05:52:18 UTC 2009",
+ "updated_at": "Mon Aug 30 22:46:41 UTC 2010",
+ "overview": "\u003Cp\u003ETeenormous is a t-shirt search engine that indexes t-shirt shops and makes all the tees searchable and filterable. As of September, 2010, Teenormous has over 140,000 t-shirts indexed.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0004/2694/42694v1-max-150x150.png"],
+     [[250,
+       67],
+      "assets/images/resized/0004/2694/42694v1-max-250x250.png"],
+     [[450,
+       120],
+      "assets/images/resized/0004/2694/42694v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Teenormous T-shirt Search",
+    "permalink": "teenormous-t-shirt-search",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Pipa",
+      "permalink": "brian-pipa",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0003/1658/31658v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0003/1658/31658v2-max-250x250.jpg"],
+          [[315,
+            419],
+           "assets/images/resized/0003/1658/31658v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Davies",
+      "permalink": "tom-davies",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        114],
+       "assets/images/resized/0003/7250/37250v2-max-150x150.jpg"],
+      [[250,
+        191],
+       "assets/images/resized/0003/7250/37250v2-max-250x250.jpg"],
+      [[450,
+        344],
+       "assets/images/resized/0003/7250/37250v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://performancing.com/online-business/interview-brian-pipa-teenormous",
+    "title": "Interview With Brian Pipa of Teenormous"},
+   {"external_url": "http://www.friedbeef.com/how-to-find-the-perfect-t-shirt/",
+    "title": "How to find the perfect t-shirt"},
+   {"external_url": "http://www.shirtsnob.com/archives/021508.php",
+    "title": "Teenormous: A T-Shirt Search Engine"},
+   {"external_url": "http://www.killerstartups.com/Search/teenormous-com-another-t-shirt-search-site",
+    "title": "Teenormous.com - Another T-Shirt Search Site "}]}

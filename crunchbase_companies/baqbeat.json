@@ -1,0 +1,78 @@
+{"name": "Baqbeat",
+ "permalink": "baqbeat",
+ "crunchbase_url": "http://www.crunchbase.com/company/baqbeat",
+ "homepage_url": "http://www.baqbeat.com",
+ "blog_url": "http://www.baqbeat.com/blog",
+ "blog_feed_url": "http://www.baqbeat.com/blog",
+ "twitter_username": "baqbeat",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 11,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-development, devops, configuration-management, version-control, java",
+ "alias_list": null,
+ "email_address": "dave@baqbeat.com",
+ "phone_number": "612-208-3371",
+ "description": "Data visualization for DevOps",
+ "created_at": "Mon Jan 28 05:56:52 UTC 2013",
+ "updated_at": "Sun Jun 09 04:25:11 UTC 2013",
+ "overview": "\u003Cp\u003EBaqbeat provides data visualization for DevOps and configuration management. \u003C/p\u003E\n\n\u003Cp\u003EBaqbeat monitors all of the various types of servers used in software development - version control, continuous integration, application servers, databases - and records changes as they occur, creating timelines. Related changes are automatically recognized across timelines, and timelines can be traversed to see relationships of relationships, showing a \u0026#8220;big picture\u0026#8221; of the flow of code over time, across development and operations. An interactive, graphical user interface invites exploration and intuitive thinking. \u003C/p\u003E\n\n\u003Cp\u003EBaqbeat is currently in development, and plans for beta testing in Q3 2013, and general availability in Q4 2013. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0023/1953/231953v2-max-150x150.png"],
+     [[250,
+       150],
+      "assets/images/resized/0023/1953/231953v2-max-250x250.png"],
+     [[265,
+       160],
+      "assets/images/resized/0023/1953/231953v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Stagner",
+      "permalink": "dave-stagner",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Baqbeat",
+    "address1": "4516 44th Ave S",
+    "address2": "",
+    "zip_code": "55406",
+    "city": "Minneapolis",
+    "state_code": "MN",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://tech.mn/news/2013/06/07/beta-byte-baqbeat/",
+    "title": "Baqbeat in Tech.MN's Beta Bytes"}]}

@@ -1,0 +1,177 @@
+{"name": "TravelStep",
+ "permalink": "travelstep",
+ "crunchbase_url": "http://www.crunchbase.com/company/travelstep",
+ "homepage_url": "http://www.travelstep.no/",
+ "blog_url": "http://blogg.travelstep.no/",
+ "blog_feed_url": "",
+ "twitter_username": "TravelStep",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 5,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "christer.gjerstad@travelstep.no",
+ "phone_number": "+4792227551",
+ "description": "travel search engine",
+ "created_at": "Mon May 28 04:51:08 UTC 2012",
+ "updated_at": "Thu May 31 02:11:30 UTC 2012",
+ "overview": "\u003Cp\u003ETravelStep is a travel search engine for flights, hotels and rental cars. The main goal is at all times to provide better travel search for travelers with a strong focus on quality searches, usability and interaction design, making travel search quick and easy. \u003C/p\u003E\n\n\u003Cp\u003EOnce you have found your favorite way to travel, TravelStep allows you to choose from which travel site or travel company you want to make your purchase. This enables you to find the cheapest and best travel option for your next travel experience.\u003C/p\u003E\n\n\u003Cp\u003ETravelStep is built with Java and Scala, running on a Jetty web server on a Linux platform. It uses asynchronous web technology together with JavaScript to create a rich, fast and responsive user interface.    \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner and Founder",
+    "person":
+     {"first_name": "Christer",
+      "last_name": "Gjerstad",
+      "permalink": "christer-gjerstad-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "KAYAK",
+      "permalink": "kayak",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0000/2791/2791v9-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0000/2791/2791v9-max-250x250.png"],
+          [[450,
+            160],
+           "assets/images/resized/0000/2791/2791v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Momondo",
+      "permalink": "momondo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/3144/23144v2-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0002/3144/23144v2-max-250x250.png"],
+          [[315,
+            62],
+           "assets/images/resized/0002/3144/23144v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dohop",
+      "permalink": "dohop",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0020/5755/205755v2-max-150x150.png"],
+          [[250,
+            93],
+           "assets/images/resized/0020/5755/205755v2-max-250x250.png"],
+          [[450,
+            168],
+           "assets/images/resized/0020/5755/205755v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mobissimo",
+      "permalink": "mobissimo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/2794/2794v2-max-150x150.png"],
+          [[250,
+            62],
+           "assets/images/resized/0000/2794/2794v2-max-250x250.png"],
+          [[306,
+            76],
+           "assets/images/resized/0000/2794/2794v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Skyscanner",
+      "permalink": "skyscanner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            79],
+           "assets/images/resized/0004/0477/40477v10-max-150x150.png"],
+          [[185,
+            98],
+           "assets/images/resized/0004/0477/40477v10-max-250x250.png"],
+          [[185,
+            98],
+           "assets/images/resized/0004/0477/40477v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fly.com",
+      "permalink": "fly-com",
+      "image":
+       {"available_sizes":
+         [[[137,
+            66],
+           "assets/images/resized/0009/2930/92930v2-max-150x150.png"],
+          [[137,
+            66],
+           "assets/images/resized/0009/2930/92930v2-max-250x250.png"],
+          [[137,
+            66],
+           "assets/images/resized/0009/2930/92930v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cheapflights",
+      "permalink": "cheapflights",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/5715/15715v1-max-150x150.jpg"],
+          [[250,
+            75],
+           "assets/images/resized/0001/5715/15715v1-max-250x250.jpg"],
+          [[450,
+            136],
+           "assets/images/resized/0001/5715/15715v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "airfarewatchdog.com",
+      "permalink": "airfarewatchdog-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0003/8807/38807v1-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0003/8807/38807v1-max-250x250.png"],
+          [[450,
+            109],
+           "assets/images/resized/0003/8807/38807v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

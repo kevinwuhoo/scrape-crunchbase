@@ -1,0 +1,84 @@
+{"name": "The DigiTrust Group",
+ "permalink": "the-digitrust-group",
+ "crunchbase_url": "http://www.crunchbase.com/company/the-digitrust-group",
+ "homepage_url": "http://www.digitrustgroup.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "consulting",
+ "number_of_employees": null,
+ "founded_year": 1998,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "information-security, it-security, vulnerability-assessment, managed-security-services, web-application-security, website-security, network-security",
+ "alias_list": null,
+ "email_address": "info@thedigitrustgroup.com",
+ "phone_number": "310-348-2901",
+ "description": null,
+ "created_at": "Fri Nov 07 09:19:30 UTC 2008",
+ "updated_at": "Sat Nov 15 14:26:27 UTC 2008",
+ "overview": "\u003Cp\u003EThe DigiTrust Group is a full-service information security consultancy providing information security solutions to small and middle-market firms. \u003C/p\u003E\n\n\u003Cp\u003EThe consultancy was founded in Los Angeles by Jason Lidow in 1998. Since then, the rise in cybercrime has created a sense of urgency among organizations handling credit card numbers, medical information, and other data valued by hackers. As a result, The DigiTrust Group has served organizations from a wide range of verticals including education, finance, retail, manufacturing, technology, healthcare, accounting, insurance, not-for-profit and legal.\u003C/p\u003E\n\n\u003Cp\u003EThe DigiTrust Group provides consulting services aimed at helping companies protect their sensitive data and the personally identifiable information (PII) entrusted to them by their customers. The challenge of holistically identifying the security holes in an organization\u0026#8217;s network has established the need for DigiTrust\u0026#8217;s expertise in the Los Angeles SMB community and beyond. \u003C/p\u003E\n\n\u003Cp\u003EDigiTrust specializes in four main practice areas: assessment, remediation, response, and managed security services.\u003C/p\u003E\n\n\u003Cp\u003EThe DigiTrust Group contributes to the open source software community through an active vulnerability research initiative. By showing developers where their web applications are vulnerable to hackers, DigiTrust helps protect open source projects and their millions of users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       92],
+      "assets/images/resized/0002/8006/28006v2-max-150x150.jpg"],
+     [[168,
+       104],
+      "assets/images/resized/0002/8006/28006v2-max-250x250.jpg"],
+     [[168,
+       104],
+      "assets/images/resized/0002/8006/28006v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder / Principal",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Lidow",
+      "permalink": "jason-lidow",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "5757 W. Century Blvd.",
+    "address2": "Suite 700",
+    "zip_code": "90045",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.946126,
+    "longitude": -118.382385}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.latimes.com/business/la-fi-microsoft24-2008oct24,0,5338331.story",
+    "title": "LA Times Discusses Security Issue With DigiTrust's Marc Maiffret"},
+   {"external_url": "http://www.nytimes.com/external/idg/2008/10/23/23idg-Microsoft-says.html",
+    "title": "DigiTrust Director of Professional Services Talks to the NY Times"},
+   {"external_url": "http://www.darkreading.com/security/app-security/showArticle.jhtml?articleID=211201402",
+    "title": "Marc Maiffret Merges Startup with DigiTrust Group"},
+   {"external_url": "http://jasonwiener.wordpress.com/category/digitrust/",
+    "title": "DigiTrust's Application Security Research Discussed"}]}

@@ -1,0 +1,105 @@
+{"name": "Absly",
+ "permalink": "absly",
+ "crunchbase_url": "http://www.crunchbase.com/company/absly",
+ "homepage_url": "http://absly.com",
+ "blog_url": "http://blog.absly.com",
+ "blog_feed_url": "http://blog.absly.com/rss",
+ "twitter_username": "abslycom",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "startup, venture, mentor, business-model, entrepreneur",
+ "alias_list": null,
+ "email_address": "contact@absly.com",
+ "phone_number": "",
+ "description": "Business model search tracker",
+ "created_at": "Sat Apr 27 20:16:42 UTC 2013",
+ "updated_at": "Fri May 17 04:06:01 UTC 2013",
+ "overview": "\u003Cp\u003EAbsly is a smart service to help entrepreneurs find their business model faster. It allows to follow the \u201ccertainty level\u201d of the business model of a given startup for both founder and his mentors/investors. 0% is an idea and 100% is a scalable business model. It also help entrepreneurs by comparing their business models with the one of a successful startup with similar business model, get feedback from other entrepreneurs and auto-generated suggestions based on other startups experience.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[75,
+       150],
+      "assets/images/resized/0026/2921/262921v2-max-150x150.png"],
+     [[125,
+       250],
+      "assets/images/resized/0026/2921/262921v2-max-250x250.png"],
+     [[225,
+       450],
+      "assets/images/resized/0026/2921/262921v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jane",
+      "last_name": "Smorodnikova",
+      "permalink": "jane-smorodnikova-2",
+      "image":
+       {"available_sizes":
+         [[[125,
+            150],
+           "assets/images/resized/0025/3999/253999v1-max-150x150.jpg"],
+          [[209,
+            250],
+           "assets/images/resized/0025/3999/253999v1-max-250x250.jpg"],
+          [[209,
+            250],
+           "assets/images/resized/0025/3999/253999v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Leanlaunchlab.com",
+      "permalink": "leanlaunchlab-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "",
+    "address2": "",
+    "zip_code": "194064",
+    "city": "Saint-Petersburg",
+    "state_code": null,
+    "country_code": "RUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "http://www.youtube.com/watch?v=KFrKkJ9yiP8",
+    "description": ""},
+   {"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/KFrKkJ9yiP8\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EAbsly - smart service for entrepreneurs to find a scalable business model\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        106],
+       "assets/images/resized/0025/5629/255629v2-max-150x150.png"],
+      [[250,
+        177],
+       "assets/images/resized/0025/5629/255629v2-max-250x250.png"],
+      [[450,
+        319],
+       "assets/images/resized/0025/5629/255629v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://firrma.ru/data/environment/1319/",
+    "title": "13 starred startup of Saint Petersburg"}]}

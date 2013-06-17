@@ -1,0 +1,106 @@
+{"name": "ROUNDUS",
+ "permalink": "roundus",
+ "crunchbase_url": "http://www.crunchbase.com/company/roundus",
+ "homepage_url": "http://www.roundus.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "roundus",
+ "category_code": "web",
+ "number_of_employees": 8,
+ "founded_year": 2005,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@roundus.com",
+ "phone_number": "",
+ "description": "Worldwide Virtual Tour",
+ "created_at": "Thu Apr 15 02:25:10 UTC 2010",
+ "updated_at": "Mon Oct 24 02:47:25 UTC 2011",
+ "overview": null,
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Christopher",
+      "last_name": "Kingsley",
+      "permalink": "christopher-kingsley",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0008/3817/83817v4-max-150x150.jpg"],
+          [[185,
+            230],
+           "assets/images/resized/0008/3817/83817v4-max-250x250.jpg"],
+          [[185,
+            230],
+           "assets/images/resized/0008/3817/83817v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Producer",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Eckerson",
+      "permalink": "andrew-eckerson",
+      "image": null}},
+   {"is_past": true,
+    "title": "Developer",
+    "person":
+     {"first_name": "Marc",
+      "last_name": "Newman",
+      "permalink": "marc-newman-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash_and_stock",
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 4,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Roundscapes",
+     "permalink": "roundscapes",
+     "image":
+      {"available_sizes":
+        [[[150,
+           26],
+          "assets/images/resized/0008/4056/84056v2-max-150x150.jpg"],
+         [[250,
+           43],
+          "assets/images/resized/0008/4056/84056v2-max-250x250.jpg"],
+         [[450,
+           78],
+          "assets/images/resized/0008/4056/84056v2-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

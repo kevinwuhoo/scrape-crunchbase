@@ -1,0 +1,72 @@
+{"name": "WeatherHop",
+ "permalink": "weatherhop",
+ "crunchbase_url": "http://www.crunchbase.com/company/weatherhop",
+ "homepage_url": "http://weatherhop.com",
+ "blog_url": "http://blog.weatherhop.com",
+ "blog_feed_url": "http://blog.weatherhop.com/rss",
+ "twitter_username": "weatherhop",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "weather, severe-weather, tornado, cloud, saas",
+ "alias_list": null,
+ "email_address": "contact@weatherhop.com",
+ "phone_number": "3033309655",
+ "description": "Severe Weather Notifications",
+ "created_at": "Sat Sep 29 03:59:02 UTC 2012",
+ "updated_at": "Mon Oct 15 17:41:18 UTC 2012",
+ "overview": "\u003Cp\u003EWeatherHop provides severe weather notifications via voice, text, email, social, and API.\u003C/p\u003E\n\n\u003Cp\u003EThe service uses cloud-based technologies such as Twilio and SendGrid to notify users of severe weather in locations they configure.  There is flexibility in how they notifications are set up for each weather type.  \u003C/p\u003E\n\n\u003Cp\u003EThe service is free to use for social warnings and we have paid plans for voice, text, email, and API. The service is built to scale up to support enterprise customers that may have hundreds of locations to be monitored.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Segraves",
+      "permalink": "tim-segraves",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "The Weather Channel",
+      "permalink": "the-weather-channel",
+      "image":
+       {"available_sizes":
+         [[[71,
+            60],
+           "assets/images/resized/0002/1543/21543v1-max-150x150.png"],
+          [[71,
+            60],
+           "assets/images/resized/0002/1543/21543v1-max-250x250.png"],
+          [[71,
+            60],
+           "assets/images/resized/0002/1543/21543v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

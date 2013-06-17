@@ -1,0 +1,103 @@
+{"name": "Tunespeak",
+ "permalink": "tunespeak",
+ "crunchbase_url": "http://www.crunchbase.com/company/tunespeak",
+ "homepage_url": "http://www.tunespeak.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "tunespeak",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "tom@tunespeak.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Dec 28 21:05:09 UTC 2012",
+ "updated_at": "Sat Mar 09 17:21:16 UTC 2013",
+ "overview": "\u003Cp\u003ETunespeak is a musician-to-fan reward platform that empowers bands to create contests online, identify and reward their most loyal and influential fans.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Pernikoff",
+      "permalink": "tom-pernikoff",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Rick",
+      "last_name": "Pernikoff",
+      "permalink": "rick-pernikoff",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.bizjournals.com/stlouis/blog/BizNext/2012/09/6-tech-startups-join-capital.html",
+    "source_description": "6 tech startups join Capital Innovators portfolio",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Capital Innovators",
+         "permalink": "capital-innovators",
+         "image":
+          {"available_sizes":
+            [[[150,
+               49],
+              "assets/images/resized/0019/4215/194215v1-max-150x150.png"],
+             [[250,
+               83],
+              "assets/images/resized/0019/4215/194215v1-max-250x250.png"],
+             [[250,
+               83],
+              "assets/images/resized/0019/4215/194215v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.stltoday.com/business/columns/david-nicklaus/tech-accelerator-invests-in-six-more-companies/article_49bc9672-026a-11e2-923d-001a4bcf6878.html",
+    "title": "Tech accelerator invests in six more companies"},
+   {"external_url": "http://www.artistdirect.com/entertainment-news/article/pernikoff-brothers-talk-on-my-way-and-tunespeak/9008275",
+    "title": "Pernikoff Brothers Talk \"On My Way\" and Tunespeak"},
+   {"external_url": "http://www.nashvillescene.com/nashville/the-music-industry-is-dead-long-live-the-music-industry-20/Content?oid=2610420",
+    "title": "The music industry is dead. Long live the Music Industry 2.0. "}]}

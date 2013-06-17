@@ -1,0 +1,124 @@
+{"name": "SystemSeed",
+ "permalink": "systemseed",
+ "crunchbase_url": "http://www.crunchbase.com/company/systemseed",
+ "homepage_url": "http://www.systemseed.com",
+ "blog_url": "http://www.systemseed.com/blog",
+ "blog_feed_url": "http://www.systemseed.com/rss.xml",
+ "twitter_username": "systemseed",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2010,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "drupal, developer, development, cms",
+ "alias_list": null,
+ "email_address": "info@systemseed.com",
+ "phone_number": "888-427-5610",
+ "description": "",
+ "created_at": "Fri Feb 15 21:05:00 UTC 2013",
+ "updated_at": "Thu Feb 21 18:26:52 UTC 2013",
+ "overview": "\u003Cp\u003ESystemSeed is a focused service provider of Drupal site development, Drupal site support and management, and Drupal training. We believe the beauty of Drupal is the empowerment it provides content managers, and our goal is to maximize those opportunities for our clients.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0023/6276/236276v2-max-150x150.png"],
+     [[220,
+       51],
+      "assets/images/resized/0023/6276/236276v2-max-250x250.png"],
+     [[220,
+       51],
+      "assets/images/resized/0023/6276/236276v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Parrish",
+      "last_name": "McIntyre",
+      "permalink": "parrish-mcintyre",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Technology",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Kirkpatrick",
+      "permalink": "tom-kirkpatrick",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Drupal Connect",
+      "permalink": "drupal-connect",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0006/4717/64717v4-max-150x150.jpg"],
+          [[250,
+            71],
+           "assets/images/resized/0006/4717/64717v4-max-250x250.jpg"],
+          [[330,
+            94],
+           "assets/images/resized/0006/4717/64717v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Blue Spark Technologies",
+      "permalink": "blue-spark-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0005/7921/57921v1-max-150x150.png"],
+          [[250,
+            104],
+           "assets/images/resized/0005/7921/57921v1-max-250x250.png"],
+          [[265,
+            111],
+           "assets/images/resized/0005/7921/57921v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "US Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "28226",
+    "city": "Charlotte",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": 35.1173473,
+    "longitude": -80.7990185}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        72],
+       "assets/images/resized/0023/7215/237215v2-max-150x150.jpg"],
+      [[250,
+        120],
+       "assets/images/resized/0023/7215/237215v2-max-250x250.jpg"],
+      [[450,
+        217],
+       "assets/images/resized/0023/7215/237215v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://drupal.org/node/629860",
+    "title": "SystemSeed Featured Case Study - Drupal.org"}]}

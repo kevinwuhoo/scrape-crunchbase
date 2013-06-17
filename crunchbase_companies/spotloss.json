@@ -1,0 +1,104 @@
+{"name": "SpotLoss",
+ "permalink": "spotloss",
+ "crunchbase_url": "http://www.crunchbase.com/company/spotloss",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "proximity, wireless, bluetooth-4-0, bluetooth-low-energy, bluetooth-smart, tag",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Wed Nov 21 17:37:19 UTC 2012",
+ "updated_at": "Fri Dec 07 15:12:24 UTC 2012",
+ "overview": "\u003Cp\u003ESpotLoss provides a device that allows you to keep track of everything from your keys to your phone to your kids.  The SpotLoss fob allows you to press a button on the fob to find your phone, or a button on your phone to find your fob.  \u003C/p\u003E\n\n\u003Cp\u003EAdditionally, it is a proximity alert system.  You can be notified by the fob or by your cellphone if the two devices become more than 50 meters apart, or conversely come within 50 meters of each other. This would notify you that you left your keys on your desk, that your child ran off in the mall, or that your sister is nearby.  Besides an alarm, you can also be notified to a change in proximity by text or email.\u003C/p\u003E\n\n\u003Cp\u003EThe fob runs for roughly a year on a replaceable watch battery without having to remember to recharge it.  It measures 5.6 x 3.0 x 1.5 cm and the carabiner style design allows it to quickly latch onto nearly anything.\u003C/p\u003E\n\n\u003Cp\u003EThe fob uses a free cell phone app, and we are planning an SDK for developers that would like to use our hardware.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[96,
+       60],
+      "assets/images/resized/0022/4250/224250v2-max-150x150.png"],
+     [[96,
+       60],
+      "assets/images/resized/0022/4250/224250v2-max-250x250.png"],
+     [[96,
+       60],
+      "assets/images/resized/0022/4250/224250v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Christopher",
+      "last_name": "McLain",
+      "permalink": "christopher-mclain-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0022/1506/221506v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0022/1506/221506v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0022/1506/221506v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Started our IndieGoGo crowdfunding campaign.  ",
+    "stoned_year": 2012,
+    "stoned_month": 12,
+    "stoned_day": 6,
+    "source_url": "http://www.indiegogo.com/spotloss",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "SpotLoss",
+      "permalink": "spotloss"}}],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"430\" height=\"270\" src=\"http://www.youtube.com/embed/PkGTW-F1eeU\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESpotLoss brief demo\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0022/4252/224252v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0022/4252/224252v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0022/4252/224252v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

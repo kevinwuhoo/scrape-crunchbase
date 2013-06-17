@@ -1,0 +1,173 @@
+{"name": "StepUp",
+ "permalink": "stepup",
+ "crunchbase_url": "http://www.crunchbase.com/company/stepup",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Fri Dec 26 11:12:58 UTC 2008",
+ "updated_at": "Fri Dec 26 12:44:04 UTC 2008",
+ "overview": "\u003Cp\u003EStepUp provides ways for local businesses to get an online presence, and the deal is part of Intuit\u00e2\u20ac\u2122s allianace with Google to boost revenue by moving companies online.\u003C/p\u003E\n\n\u003Cp\u003EStepUp\u00e2\u20ac\u2122s technology platform will power Intuit\u00e2\u20ac\u2122s new QuickBooks Product Listing Service, which is designed to help local businesses attract customers by making their product information and images available online \u00e2\u20ac\u201d through \u00e2\u20ac\u0153established entities such as Google.\u00e2\u20ac\u009d\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Kendall",
+      "last_name": "Fargo",
+      "permalink": "kendall-fargo",
+      "image":
+       {"available_sizes":
+         [[[138,
+            150],
+           "assets/images/resized/0014/8857/148857v2-max-150x150.png"],
+          [[230,
+            250],
+           "assets/images/resized/0014/8857/148857v2-max-250x250.png"],
+          [[415,
+            450],
+           "assets/images/resized/0014/8857/148857v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "President and Co-Founder",
+    "person":
+     {"first_name": "Jad",
+      "last_name": "Dunning",
+      "permalink": "jad-dunning",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$16.6M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://venturebeat.com/2006/09/14/intuit-acquires-stepup-commerce-for-60m-to-build-google-relationship/",
+    "source_description": "Intuit acquires StepUp Commerce for $60M \u00e2\u20ac\u201d to build Google relationship",
+    "raised_amount": 10000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Allegis Capital",
+         "permalink": "allegis-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               42],
+              "assets/images/resized/0002/2771/22771v1-max-150x150.png"],
+             [[195,
+               55],
+              "assets/images/resized/0002/2771/22771v1-max-250x250.png"],
+             [[195,
+               55],
+              "assets/images/resized/0002/2771/22771v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Granite Ventures",
+         "permalink": "granite-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               49],
+              "assets/images/resized/0001/3922/13922v1-max-150x150.png"],
+             [[220,
+               72],
+              "assets/images/resized/0001/3922/13922v1-max-250x250.png"],
+             [[220,
+               72],
+              "assets/images/resized/0001/3922/13922v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Pennsylvania Equity Partners",
+         "permalink": "pennsylvania-equity-partners",
+         "image": null},
+       "person": null}]},
+   {"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 6600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Granite Ventures",
+         "permalink": "granite-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               49],
+              "assets/images/resized/0001/3922/13922v1-max-150x150.png"],
+             [[220,
+               72],
+              "assets/images/resized/0001/3922/13922v1-max-250x250.png"],
+             [[220,
+               72],
+              "assets/images/resized/0001/3922/13922v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 60000000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://venturebeat.com/2006/09/14/intuit-acquires-stepup-commerce-for-60m-to-build-google-relationship/",
+   "source_description": "Intuit acquires StepUp Commerce for $60M \u00e2\u20ac\u201d to build Google relationship",
+   "acquired_year": 2006,
+   "acquired_month": 9,
+   "acquired_day": 14,
+   "acquiring_company":
+    {"name": "Intuit",
+     "permalink": "intuit",
+     "image":
+      {"available_sizes":
+        [[[150,
+           65],
+          "assets/images/resized/0001/6183/16183v3-max-150x150.png"],
+         [[250,
+           109],
+          "assets/images/resized/0001/6183/16183v3-max-250x250.png"],
+         [[450,
+           196],
+          "assets/images/resized/0001/6183/16183v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

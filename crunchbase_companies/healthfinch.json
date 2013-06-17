@@ -1,0 +1,95 @@
+{"name": "healthfinch",
+ "permalink": "healthfinch",
+ "crunchbase_url": "http://www.crunchbase.com/company/healthfinch",
+ "homepage_url": "http://www.healthfinch.com",
+ "blog_url": "http://blog.healthfinch.com",
+ "blog_feed_url": "http://blog.healthfinch.com/rss.xml",
+ "twitter_username": "healthfinch",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@healthfinch.com",
+ "phone_number": "6085611844",
+ "description": "Medical Apps for Clinicians",
+ "created_at": "Tue Oct 05 03:51:48 UTC 2010",
+ "updated_at": "Mon Feb 18 01:51:03 UTC 2013",
+ "overview": "\u003Cp\u003EHealthFinch develops innovative medical apps which make the lives of clinicians easier. Most notably, HealthFinch is the maker of RefillWizard, a software tool trusted by world class healthcare organizations to simplify their prescription refill process.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0010/4194/104194v7-max-150x150.png"],
+     [[199,
+       63],
+      "assets/images/resized/0010/4194/104194v7-max-250x250.png"],
+     [[199,
+       63],
+      "assets/images/resized/0010/4194/104194v7-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "RefillWizard",
+    "permalink": "refillwizard",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chairman, CMO, Co-Founder",
+    "person":
+     {"first_name": "Lyle",
+      "last_name": "Berkowitz, MD",
+      "permalink": "lyle-berkowitz-md",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO, Co-Founder",
+    "person":
+     {"first_name": "Ash",
+      "last_name": "Gupta",
+      "permalink": "ash-gupta",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO, Co-Founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Baran",
+      "permalink": "jon-baran",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "8517 Excelsior Dr",
+    "address2": "Suite 207",
+    "zip_code": "53717",
+    "city": "Madison",
+    "state_code": "WI",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/44544667?title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;color=ffffff\" width=\"430\" height=\"242\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.refillwizard.com",
+    "title": "RefillWizard Product Page"}]}

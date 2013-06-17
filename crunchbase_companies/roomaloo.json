@@ -1,0 +1,94 @@
+{"name": "Roomaloo",
+ "permalink": "roomaloo",
+ "crunchbase_url": "http://www.crunchbase.com/company/roomaloo",
+ "homepage_url": "http://www.roomaloo.com",
+ "blog_url": "http://www.roomaloo.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "Roomaloo",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "room, roommate, roommates, find-roommates, find-roommates-in-chicago, find-rooms-in-chicago, find-apartments-in-chicago, find-apartments, apartment, apartment-finder, compatible-roommates, compatible-rooms, living-situations, find-compatible-roommates",
+ "alias_list": null,
+ "email_address": "patrick@roomaloo.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Jul 26 07:22:15 UTC 2012",
+ "updated_at": "Thu Aug 09 08:36:52 UTC 2012",
+ "overview": "\u003Cp\u003ERoomaloo helps people find compatible living situations efficiently. Users will be able to find roommates, rooms, and even their own places.  By integrating deeply with Facebook, Roomaloo will be able to create an amazing and unique experience in finding roommates and spaces to live.  It is also free for everyone to use.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0020/2934/202934v2-max-150x150.png"],
+     [[250,
+       65],
+      "assets/images/resized/0020/2934/202934v2-max-250x250.png"],
+     [[450,
+       117],
+      "assets/images/resized/0020/2934/202934v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "Yoon",
+      "permalink": "patrick-yoon",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Fleming",
+      "last_name": "Au",
+      "permalink": "fleming-au",
+      "image": null}},
+   {"is_past": false,
+    "title": "Partner",
+    "person":
+     {"first_name": "Elizabeth",
+      "last_name": "Stopsky",
+      "permalink": "elizabeth-stopsky",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Built in Chicago",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techli.com/2012/07/roomaloo-roommate-match/",
+    "title": "Roomaloo Smartly Matches Users To Prevent Roommate Hell"},
+   {"external_url": "http://hackatrain.com/blog/2012/6/15/the-okcupid-of-roommate-search-with-roomaloo-hackatrain-comm.html",
+    "title": "The OKCupid of Roommate Search"}]}

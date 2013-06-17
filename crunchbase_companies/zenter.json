@@ -1,0 +1,136 @@
+{"name": "Zenter",
+ "permalink": "zenter",
+ "crunchbase_url": "http://www.crunchbase.com/company/zenter",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Web-based presentation application",
+ "created_at": "Wed Feb 13 02:49:44 UTC 2008",
+ "updated_at": "Mon Aug 13 23:18:03 UTC 2012",
+ "overview": "\u003Cp\u003EZenter is an web based presentation app that promises to really take advantage of being online. Users will have the regular functionality of PowerPoint, but with the ability to directly add content from the web (Google Images). Each public slide show will also be put into a public library, for other users to remix or just drop into their show.\u003C/p\u003E\n\n\u003Cp\u003EZenter was acquired by \u003Ca href=\"http://www.crunchbase.com/company/google\" title=\"Google\"\u003EGoogle\u003C/a\u003E in June, 2007.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0001/5776/15776v1-max-150x150.png"],
+     [[150,
+       58],
+      "assets/images/resized/0001/5776/15776v1-max-250x250.png"],
+     [[150,
+       58],
+      "assets/images/resized/0001/5776/15776v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Wayne",
+      "last_name": "Crosby",
+      "permalink": "wayne-crosby",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Robby",
+      "last_name": "Walker",
+      "permalink": "robby-walker",
+      "image":
+       {"available_sizes":
+         [[[150,
+            126],
+           "assets/images/resized/0010/0059/100059v3-max-150x150.jpg"],
+          [[250,
+            211],
+           "assets/images/resized/0010/0059/100059v3-max-250x250.jpg"],
+          [[407,
+            344],
+           "assets/images/resized/0010/0059/100059v3-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Ea\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$15k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.techcrunch.com/2007/03/09/demo-day-y-combinators-spring-chicks/",
+    "source_description": "Demo Day: Y Combinator's Spring Chicks",
+    "raised_amount": 15000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2007/06/19/google-acquires-zenter-to-fill-out-coming-powerpoint-application/",
+   "source_description": "Google Acquires Zenter; Y Combinator Gets Another Payday",
+   "acquired_year": 2007,
+   "acquired_month": 6,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Google",
+     "permalink": "google",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+         [[250,
+           85],
+          "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+         [[450,
+           154],
+          "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://pioneerit.blogspot.com/2007/04/my-innoview-with-wayne-crosby.html",
+    "title": "My Innoview with Wayne Crosby"}]}

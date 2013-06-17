@@ -1,0 +1,108 @@
+{"name": "Leap",
+ "permalink": "leap",
+ "crunchbase_url": "http://www.crunchbase.com/company/leap",
+ "homepage_url": "http://leapfor.it",
+ "blog_url": "http://blog.leapfor.it",
+ "blog_feed_url": "http://blog.leapfor.it/rss",
+ "twitter_username": "leap",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, photo, social, social-media, social-games",
+ "alias_list": null,
+ "email_address": "founders@leapfor.it",
+ "phone_number": "",
+ "description": "Social challenge app",
+ "created_at": "Sat Feb 25 20:41:39 UTC 2012",
+ "updated_at": "Sun Mar 04 19:55:16 UTC 2012",
+ "overview": "\u003Cp\u003ELeap is the first mobile app that lets you create and document challenges with your Facebook friends. \u003C/p\u003E\n\n\u003Cp\u003EUsers can create challenges based around their interests, like eating breakfast each day of the week, or drinking the most craft beers, invite some Facebook friends and begin competing right away by snapping photos from their phone. \u003C/p\u003E\n\n\u003Cp\u003EOur vision is that challenges are the best way to push your friends to try new things and capture the experiences with the people that you care about.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       59],
+      "assets/images/resized/0017/5788/175788v2-max-150x150.png"],
+     [[250,
+       98],
+      "assets/images/resized/0017/5788/175788v2-max-250x250.png"],
+     [[450,
+       177],
+      "assets/images/resized/0017/5788/175788v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "James",
+      "last_name": "Dickerson",
+      "permalink": "james-dickerson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://brandery.org",
+    "source_description": "Leap Joins The Brandery",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 8,
+    "funded_day": 31,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "The Brandery",
+         "permalink": "the-brandery",
+         "image":
+          {"available_sizes":
+            [[[150,
+               112],
+              "assets/images/resized/0016/6437/166437v2-max-150x150.jpg"],
+             [[250,
+               187],
+              "assets/images/resized/0016/6437/166437v2-max-250x250.jpg"],
+             [[450,
+               337],
+              "assets/images/resized/0016/6437/166437v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/7TaTXPO5UXo\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EA quick demo of Leap\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0017/5787/175787v2-max-150x150.jpg"],
+      [[250,
+        140],
+       "assets/images/resized/0017/5787/175787v2-max-250x250.jpg"],
+      [[450,
+        253],
+       "assets/images/resized/0017/5787/175787v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://angel.co/leap",
+    "title": "Leap's AngelList Profile"},
+   {"external_url": "http://gamification.co/2012/02/22/start-the-social-group-challenge-trend-with-leap/",
+    "title": "Start the Social Group Challenge Trend with Leap"}]}

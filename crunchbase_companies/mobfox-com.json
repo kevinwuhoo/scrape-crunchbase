@@ -1,0 +1,181 @@
+{"name": "MobFox.com",
+ "permalink": "mobfox-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/mobfox-com",
+ "homepage_url": "http://www.mobfox.com",
+ "blog_url": "http://blog.mobfox.com",
+ "blog_feed_url": "",
+ "twitter_username": "mobfoxOfficial",
+ "category_code": "mobile",
+ "number_of_employees": 12,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, advertising, iphone, applications, developers, android",
+ "alias_list": null,
+ "email_address": "support@mobfox.com",
+ "phone_number": "+43921101010",
+ "description": "Mobile Advertising Network",
+ "created_at": "Thu Oct 21 08:17:20 UTC 2010",
+ "updated_at": "Thu May 16 03:46:43 UTC 2013",
+ "overview": "\u003Cp\u003EMobFox is a global quality-performance mobile advertising network, headquartered in Vienna.  MobFox enables publishers to effectively monetize their in-app and mobile web traffic. MobFox currently serves over 20 billion rich media, video and banner ads each month to smartphone users all over the World.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Julian",
+      "last_name": "Zehetmayr",
+      "permalink": "julian-zehetmayr",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "H. Leeb",
+      "permalink": "christian-h-leeb-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Christian H.",
+      "last_name": "Leeb",
+      "permalink": "christian-h-leeb",
+      "image":
+       {"available_sizes":
+         [[[135,
+            150],
+           "assets/images/resized/0016/5174/165174v2-max-150x150.jpg"],
+          [[225,
+            250],
+           "assets/images/resized/0016/5174/165174v2-max-250x250.jpg"],
+          [[406,
+            450],
+           "assets/images/resized/0016/5174/165174v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "AdMob",
+      "permalink": "admob",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/0172/172v5-max-150x150.png"],
+          [[250,
+            81],
+           "assets/images/resized/0000/0172/172v5-max-250x250.png"],
+          [[300,
+            98],
+           "assets/images/resized/0000/0172/172v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Greystripe",
+      "permalink": "greystripe",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0000/4492/4492v1-max-150x150.png"],
+          [[200,
+            35],
+           "assets/images/resized/0000/4492/4492v1-max-250x250.png"],
+          [[200,
+            35],
+           "assets/images/resized/0000/4492/4492v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mojiva",
+      "permalink": "mojiva",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0001/9346/19346v11-max-150x150.jpg"],
+          [[250,
+            117],
+           "assets/images/resized/0001/9346/19346v11-max-250x250.jpg"],
+          [[450,
+            211],
+           "assets/images/resized/0001/9346/19346v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "InMobi",
+      "permalink": "inmobi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            21],
+           "assets/images/resized/0001/7406/17406v11-max-150x150.jpg"],
+          [[250,
+            35],
+           "assets/images/resized/0001/7406/17406v11-max-250x250.jpg"],
+          [[450,
+            63],
+           "assets/images/resized/0001/7406/17406v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Millennial Media",
+      "permalink": "millennial-media",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0004/8763/48763v1-max-150x150.png"],
+          [[230,
+            103],
+           "assets/images/resized/0004/8763/48763v1-max-250x250.png"],
+          [[230,
+            103],
+           "assets/images/resized/0004/8763/48763v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2010,
+    "funded_month": 1,
+    "funded_day": 30,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Julian",
+         "last_name": "Zehetmayr",
+         "permalink": "julian-zehetmayr",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Europe HQ",
+    "address1": "Zieglergasse 2",
+    "address2": "",
+    "zip_code": "1070",
+    "city": "Vienna",
+    "state_code": null,
+    "country_code": "AUT",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.drobnik.com/touch/2010/10/mobfox/",
+    "title": ""}]}

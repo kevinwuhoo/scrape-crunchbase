@@ -1,0 +1,174 @@
+{"name": "Cabify",
+ "permalink": "cabify",
+ "crunchbase_url": "http://www.crunchbase.com/company/cabify",
+ "homepage_url": "https://cabify.com",
+ "blog_url": "http://blog.cabify.com/",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Sep 17 04:58:24 UTC 2012",
+ "updated_at": "Mon Jun 10 16:45:30 UTC 2013",
+ "overview": "\u003Cp\u003ECabify, a Madrid, Spain-based developer of a web and mobile app that enables users to request a high-end car with chauffeur at affordable rates.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0021/1589/211589v1-max-150x150.png"],
+     [[250,
+       73],
+      "assets/images/resized/0021/1589/211589v1-max-250x250.png"],
+     [[300,
+       88],
+      "assets/images/resized/0021/1589/211589v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Adeyemi",
+      "last_name": "Ajao",
+      "permalink": "adeyemi-ajao",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/4747/254747v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/4747/254747v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/4747/254747v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Marketing",
+    "person":
+     {"first_name": "Mario",
+      "last_name": "Carranza",
+      "permalink": "mario-carranza",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0023/1794/231794v2-max-150x150.png"],
+          [[200,
+            200],
+           "assets/images/resized/0023/1794/231794v2-max-250x250.png"],
+          [[200,
+            200],
+           "assets/images/resized/0023/1794/231794v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac1.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.finsmes.com/2012/09/cabify-raises-e1-5m-series-funding.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "Cabify Raises \u20ac1.5M in Series A Funding",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 16,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "The Hit Forge",
+         "permalink": "the-hit-forge",
+         "image":
+          {"available_sizes":
+            [[[150,
+               31],
+              "assets/images/resized/0001/6095/16095v1-max-150x150.png"],
+             [[192,
+               40],
+              "assets/images/resized/0001/6095/16095v1-max-250x250.png"],
+             [[192,
+               40],
+              "assets/images/resized/0001/6095/16095v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "RESOLUTE Partners",
+         "permalink": "resolute-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               35],
+              "assets/images/resized/0021/6593/216593v1-max-150x150.jpg"],
+             [[250,
+               59],
+              "assets/images/resized/0021/6593/216593v1-max-250x250.jpg"],
+             [[343,
+               81],
+              "assets/images/resized/0021/6593/216593v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Red Swan",
+         "permalink": "red-swan",
+         "image":
+          {"available_sizes":
+            [[[79,
+               69],
+              "assets/images/resized/0025/6608/256608v1-max-150x150.png"],
+             [[79,
+               69],
+              "assets/images/resized/0025/6608/256608v1-max-250x250.png"],
+             [[79,
+               69],
+              "assets/images/resized/0025/6608/256608v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Emerge",
+         "permalink": "emerge",
+         "image":
+          {"available_sizes":
+            [[[150,
+               51],
+              "assets/images/resized/0007/9445/79445v1-max-150x150.jpg"],
+             [[186,
+               64],
+              "assets/images/resized/0007/9445/79445v1-max-250x250.jpg"],
+             [[186,
+               64],
+              "assets/images/resized/0007/9445/79445v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

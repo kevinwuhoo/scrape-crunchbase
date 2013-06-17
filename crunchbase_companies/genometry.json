@@ -1,0 +1,116 @@
+{"name": "Genometry",
+ "permalink": "genometry",
+ "crunchbase_url": "http://www.crunchbase.com/company/genometry",
+ "homepage_url": "http://www.genometry.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "genometry",
+ "category_code": "biotech",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@genometry.com",
+ "phone_number": "617-826-9849",
+ "description": "high-throughput,low-cost, L1000, mRNA",
+ "created_at": "Sat Sep 22 02:59:54 UTC 2012",
+ "updated_at": "Mon Apr 15 17:56:55 UTC 2013",
+ "overview": "\u003Cp\u003EGENOMETRY, INC is a platform-technology company founded by a multidisciplinary team of genome scientists to commercialize a revolutionary genome-wide high-throughput low-cost gene-expression profiling method (L1000) for next-generation pharmaceutical discovery applications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0021/2522/212522v1-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0021/2522/212522v1-max-250x250.png"],
+     [[319,
+       107],
+      "assets/images/resized/0021/2522/212522v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Arvind",
+      "last_name": "Subramanian",
+      "permalink": "arvind-subramanian",
+      "image": null}},
+   {"is_past": false,
+    "title": "President and CEO",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Lamb",
+      "permalink": "justin-lamb",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Operations",
+    "person":
+     {"first_name": "Willis",
+      "last_name": "Read-Button",
+      "permalink": "willis-read-button",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.masshightech.com/stories/2012/09/17/daily46-Genometry-launches-gene-analysis-service-raises-3M.html",
+    "source_description": "Genometry launches gene analysis service, raises $3M",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 21,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Sands Capital Ventures",
+         "permalink": "sands-capital-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               56],
+              "assets/images/resized/0025/1695/251695v2-max-150x150.png"],
+             [[250,
+               94],
+              "assets/images/resized/0025/1695/251695v2-max-250x250.png"],
+             [[450,
+               170],
+              "assets/images/resized/0025/1695/251695v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "One Kendall Square",
+    "address2": "Building 200 Suite 3 ",
+    "zip_code": "02139 ",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

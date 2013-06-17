@@ -1,0 +1,124 @@
+{"name": "ShopEat",
+ "permalink": "shopeat",
+ "crunchbase_url": "http://www.crunchbase.com/company/shopeat",
+ "homepage_url": "http://go.shopeat.com",
+ "blog_url": "http://go.shopeat.com",
+ "blog_feed_url": "",
+ "twitter_username": "shop_eat",
+ "category_code": "other",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recipes, shopping-list, grocery-list, food, chefs, kitchen-space",
+ "alias_list": null,
+ "email_address": "mbaroz@shopeat.com",
+ "phone_number": "972-522617070",
+ "description": "recipe to grocery shopping",
+ "created_at": "Mon Jan 21 21:08:40 UTC 2013",
+ "updated_at": "Sun Mar 24 19:07:55 UTC 2013",
+ "overview": "\u003Cp\u003EThe company focusing on simplifying the process from the moment you find a recipe to make till the meal is ready.\u003C/p\u003E\n\n\u003Cp\u003EShopEat makes eat easy! with their widget/bookmarklet\nyou find a recipe from any source on the web and convert it intelligently and seamlessly to a ready to use shopping list on your mobile, including images and data  of each product while you do your shopping.\u003C/p\u003E\n\n\u003Cp\u003EThe company also helps you to locate matched recipes according to ingredients you already have in the kitchen.\u003C/p\u003E\n\n\u003Cp\u003EThe solution is suitable to any kind of food related/ recipe website with no need to make any changes to the code.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0023/0876/230876v4-max-150x150.png"],
+     [[250,
+       75],
+      "assets/images/resized/0023/0876/230876v4-max-250x250.png"],
+     [[400,
+       121],
+      "assets/images/resized/0023/0876/230876v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Moshe",
+      "last_name": "bar-Oz",
+      "permalink": "moshe-bar-oz",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eitan",
+      "last_name": "koniarski",
+      "permalink": "eitan-koniarski",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ZipList",
+      "permalink": "ziplist",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0011/1568/111568v1-max-150x150.png"],
+          [[223,
+            70],
+           "assets/images/resized/0011/1568/111568v1-max-250x250.png"],
+          [[223,
+            70],
+           "assets/images/resized/0011/1568/111568v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kitchenbug",
+      "permalink": "kitchenbug",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0022/6728/226728v2-max-150x150.png"],
+          [[250,
+            62],
+           "assets/images/resized/0022/6728/226728v2-max-250x250.png"],
+          [[450,
+            112],
+           "assets/images/resized/0022/6728/226728v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$80k",
+ "funding_rounds":
+  [{"round_code": "private_equity",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 80000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 1,
+    "funded_day": 21,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[71,
+        150],
+       "assets/images/resized/0023/0875/230875v2-max-150x150.png"],
+      [[119,
+        250],
+       "assets/images/resized/0023/0875/230875v2-max-250x250.png"],
+      [[214,
+        450],
+       "assets/images/resized/0023/0875/230875v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

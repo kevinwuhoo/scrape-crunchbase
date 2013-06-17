@@ -1,0 +1,107 @@
+{"name": "InLocality",
+ "permalink": "inlocality",
+ "crunchbase_url": "http://www.crunchbase.com/company/inlocality",
+ "homepage_url": "http://www.inlocality.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "indoor-tracking-bluetooth-rtls",
+ "alias_list": null,
+ "email_address": "sales@InLocality.com",
+ "phone_number": "+61 412 929 634",
+ "description": null,
+ "created_at": "Mon Dec 08 23:18:21 UTC 2008",
+ "updated_at": "Sat Dec 13 14:30:25 UTC 2008",
+ "overview": "\u003Cp\u003EInLocality tracks people in an office environment using Bluetooth and existing IT infrastructure. It relies on the short range of Bluetooth along with advanced correlation to determine where people and objects are located. \u003C/p\u003E\n\n\u003Cp\u003EInLocality is aimed at the inexpensive end of the indoor tracking market, or where requiring people to carry something else would not be possible. Our unique technology also allows us to track the movement of people inside a shopping mall or airport.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0003/1326/31326v1-max-150x150.jpg"],
+     [[250,
+       60],
+      "assets/images/resized/0003/1326/31326v1-max-250x250.jpg"],
+     [[450,
+       108],
+      "assets/images/resized/0003/1326/31326v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "InLocality Blue",
+    "permalink": "inlocality-blue",
+    "image": null},
+   {"name": "WhoNearMe",
+    "permalink": "whonearme",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Darryl",
+      "last_name": "Smith",
+      "permalink": "darryl-smith-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/0820/250820v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/0820/250820v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/0820/250820v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Ekahau",
+      "permalink": "ekahau",
+      "image":
+       {"available_sizes":
+         [[[150,
+            73],
+           "assets/images/resized/0003/4495/34495v1-max-150x150.jpg"],
+          [[160,
+            78],
+           "assets/images/resized/0003/4495/34495v1-max-250x250.jpg"],
+          [[160,
+            78],
+           "assets/images/resized/0003/4495/34495v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "Amanda Place",
+    "address2": "",
+    "zip_code": "2565",
+    "city": "Ingleburn, NSW",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -34.013151,
+    "longitude": 150.866236}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,126 @@
+{"name": "Relbit",
+ "permalink": "relbit",
+ "crunchbase_url": "http://www.crunchbase.com/company/relbit",
+ "homepage_url": "http://www.relbit.com/",
+ "blog_url": "http://blog.relbit.com/",
+ "blog_feed_url": "http://blog.relbit.com/feed/",
+ "twitter_username": "relbit",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, php, mysql, hosting, webhosting, server, linux, wordpress, drupal, joomla, magento, paas, iaas, platform, database, domain, application, lamp, apache, workers, pay-as-you-go",
+ "alias_list": null,
+ "email_address": "tomas.srnka@relbit.com",
+ "phone_number": "+420 720 107 791",
+ "description": "PHP \u0026 MySQL Cloud Platform",
+ "created_at": "Mon Sep 05 08:55:34 UTC 2011",
+ "updated_at": "Tue Sep 04 17:43:28 UTC 2012",
+ "overview": "\u003Cp\u003ERelbit is Cloud Platform for PHP \u0026amp; MySQL.\u003C/p\u003E\n\n\u003Cp\u003ERelbit automatically scales the number of running web servers up and down to cover your application needs. When your application needs low resources, you are paying less; in case of increased traffic the peaks are covered. \n    Relbit\u0026#8217;s system maintains itself. You will never have to call the administration in the middle of the night again. Relbit is fully automated, self-healing and updating solution. You spend more time on developing and zero time on maintaining. \n   Relbit provides all features necessary for running web applications; dedicated MySQL instances, backend jobs (cron), deployment via git are just some of the available features. All of them are accessible via a control panel offering neat and simple and clean way of managing the whole platform. \n   The management software of Relbit monitores all the web servers and automatically detects the peaks in the usage of system resources. If it evaluates that more resources are needed, an additional web server is spawned with respect to the customer\u0026#8217;s cloud settings. Likewise, if there are any unused web servers, they are removed. This way you only pay for what you really use.\n   Each web server is a separate virtual machine running Linux operating system with Apache and PHP, thus providing guaranteed computing power (at least 800Mhz) and dedicated 512MB of memory. It takes only 8 seconds to create a new Web Server and plug it into your cloud. This is is done automatically and fully transparently.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0015/2692/152692v2-max-150x150.jpg"],
+     [[250,
+       89],
+      "assets/images/resized/0015/2692/152692v2-max-250x250.jpg"],
+     [[450,
+       160],
+      "assets/images/resized/0015/2692/152692v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Orchestra Platform",
+      "permalink": "orchestra-platform",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0015/0805/150805v1-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0015/0805/150805v1-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0015/0805/150805v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BitNami Cloud Hosting",
+      "permalink": "bitnami-cloud-hosting",
+      "image":
+       {"available_sizes":
+         [[[64,
+            64],
+           "assets/images/resized/0013/3808/133808v2-max-150x150.png"],
+          [[64,
+            64],
+           "assets/images/resized/0013/3808/133808v2-max-250x250.png"],
+          [[64,
+            64],
+           "assets/images/resized/0013/3808/133808v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pagoda Box",
+      "permalink": "pagoda-box",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0013/8263/138263v2-max-150x150.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0013/8263/138263v2-max-250x250.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0013/8263/138263v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "dotCloud",
+      "permalink": "dotcloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0012/4387/124387v3-max-150x150.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-250x250.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Makara",
+      "permalink": "makara",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

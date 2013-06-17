@@ -1,0 +1,86 @@
+{"name": "HackNotifier",
+ "permalink": "hacknotifier",
+ "crunchbase_url": "http://www.crunchbase.com/company/hacknotifier",
+ "homepage_url": "http://www.hacknotifier.com",
+ "blog_url": "http://hacknotifier.tumblr.com/",
+ "blog_feed_url": "http://hacknotifier.tumblr.com/rss",
+ "twitter_username": "hacknotifier",
+ "category_code": "security",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "security, lulzsec, protection, database-dumps, leaks",
+ "alias_list": null,
+ "email_address": "hello@hacknotifier.com",
+ "phone_number": "",
+ "description": "Protect your accounts from hackers. Get ",
+ "created_at": "Mon Jun 27 15:19:11 UTC 2011",
+ "updated_at": "Mon Jun 27 19:11:00 UTC 2011",
+ "overview": "\u003Cp\u003EHackNotifier immediately emails and texts its customers if their email is found in one of the many leaks that they are constantly parsing.\u003C/p\u003E\n\n\u003Cp\u003EIt allows anybody to check if their email is contained in their large database of compromised accounts, and offers their subscription based service as a yearly fee. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[59,
+       60],
+      "assets/images/resized/0014/1213/141213v2-max-150x150.png"],
+     [[59,
+       60],
+      "assets/images/resized/0014/1213/141213v2-max-250x250.png"],
+     [[59,
+       60],
+      "assets/images/resized/0014/1213/141213v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Julian",
+      "last_name": "Pulgarin",
+      "permalink": "julian-pulgarin",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Rahul",
+      "last_name": "Swaminathan",
+      "permalink": "rahul-swaminathan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        79],
+       "assets/images/resized/0014/1212/141212v2-max-150x150.png"],
+      [[250,
+        132],
+       "assets/images/resized/0014/1212/141212v2-max-250x250.png"],
+      [[450,
+        237],
+       "assets/images/resized/0014/1212/141212v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

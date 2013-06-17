@@ -1,0 +1,73 @@
+{"name": "Carbon Mountain",
+ "permalink": "carbon-mountain",
+ "crunchbase_url": "http://www.crunchbase.com/company/carbon-mountain",
+ "homepage_url": "http://www.carbonmountain.com",
+ "blog_url": "http://blog.carbonmountain.com/",
+ "blog_feed_url": "",
+ "twitter_username": "carbonmountain",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hypervisor, virtualization, cloud, linux, kernel, kvm, kaos",
+ "alias_list": null,
+ "email_address": "craiglunt@carbonmountain.com",
+ "phone_number": "678-427-9064",
+ "description": "Virtualization and Cloud Computing",
+ "created_at": "Wed Jun 09 16:27:52 UTC 2010",
+ "updated_at": "Tue Oct 12 20:57:36 UTC 2010",
+ "overview": "\u003Cp\u003ECarbon Mountain is delivers virtualization and cloud computing solutions based on its Open Source hypervisor platform KaOS.\u003C/p\u003E\n\n\u003Cp\u003EKaOS is a bare metal hypervisor based on Linux KVM. KaOS is built into the Linux kernel so installation is as easy as booting a new Linux kernel. The platform has a router/switch style menu-driven command line interface to deploy Cloud and Virtualization solutions. The platform has advanced IP networking and an App Module framework that makes it fast and easy to build new virtual machines.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder / CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Buswell",
+      "permalink": "john-buswell",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Business Development",
+    "person":
+     {"first_name": "Craig",
+      "last_name": "Lunt",
+      "permalink": "craig-lunt",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "4820 Fisher Road",
+    "address2": "",
+    "zip_code": "45701",
+    "city": "Athens",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

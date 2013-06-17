@@ -1,0 +1,85 @@
+{"name": "EVE-USA",
+ "permalink": "eve-usa",
+ "crunchbase_url": "http://www.crunchbase.com/company/eve-usa",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hardware, eda",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Wed Oct 28 21:58:49 UTC 2009",
+ "updated_at": "Mon Nov 09 00:10:15 UTC 2009",
+ "overview": "\u003Cp\u003EEVE is a provider of hardware emulation products, used by chip designers to debug their designs.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "General Manager",
+    "person":
+     {"first_name": "Lauro",
+      "last_name": "Rizzatti",
+      "permalink": "lauro-rizzatti",
+      "image": null}},
+   {"is_past": true,
+    "title": "Technical Director",
+    "person":
+     {"first_name": "Alain",
+      "last_name": "Raynaud",
+      "permalink": "alain-raynaud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0002/4148/24148v4-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0002/4148/24148v4-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0002/4148/24148v4-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003ERapha\u00c3\u00abl Labb\u00c3\u00a9 /\u003Ca href=\"http://www.ulike.net/\" title=\"ulike.net\" rel=\"nofollow\"\u003Eulike.net\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "US Headquarters",
+    "address1": "2290 N. 1st Street",
+    "address2": "",
+    "zip_code": "95113",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://eve-usa.com",
+    "title": "Company Website"}]}

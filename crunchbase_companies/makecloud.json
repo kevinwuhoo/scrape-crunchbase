@@ -1,0 +1,90 @@
+{"name": "MakeCloud",
+ "permalink": "makecloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/makecloud",
+ "homepage_url": "http://www.makecloud.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "tag-cloud, widget, blog, blog-widget",
+ "alias_list": null,
+ "email_address": "agaber@makecloud.com",
+ "phone_number": "8882813600",
+ "description": "Tag Cloud Widget Engine",
+ "created_at": "Mon Nov 16 22:55:07 UTC 2009",
+ "updated_at": "Tue Dec 01 23:24:53 UTC 2009",
+ "overview": "\u003Cp\u003EMakeCloud is an engine to create dynamic tag cloud widgets, which can be generated from static text, a web page URL, or any RSS feed (which means it can create a tag cloud of a Twitter RSS feed).\u003C/p\u003E\n\n\u003Cp\u003EThe core technology that powers MakeCloud is a patent-pending algorithm that analyzes an RSS feed, and determines one tag which best describes each news item. In contrast, many well known examples of tag clouds, such as those seen on del.ico.us or flickr, are created by analyzing tags that humans entered. One major advantage of our approach is that tag clouds can be automatically generated from data that has not been tagged by people, such as data that changes too frequently for a person to tag. RSS data sources are now ubiquitous, and it is possible to turn nearly any data set into RSS, which makes it an extremely flexible input data source for MakeCloud.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0006/8169/68169v2-max-150x150.png"],
+     [[240,
+       48],
+      "assets/images/resized/0006/8169/68169v2-max-250x250.png"],
+     [[240,
+       48],
+      "assets/images/resized/0006/8169/68169v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Forrest",
+      "last_name": "Briggs",
+      "permalink": "forrest-briggs",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Gaber",
+      "permalink": "alex-gaber",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/xgVLV9X42x4\u0026color1=0xb1b1b1\u0026color2=0xcfcfcf\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowScriptAccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/xgVLV9X42x4\u0026color1=0xb1b1b1\u0026color2=0xcfcfcf\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[96,
+        96],
+       "assets/images/resized/0006/6456/66456v2-max-150x150.png"],
+      [[96,
+        96],
+       "assets/images/resized/0006/6456/66456v2-max-250x250.png"],
+      [[96,
+        96],
+       "assets/images/resized/0006/6456/66456v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.blogcatalog.com/blogs/news-about-makecloudcom-tag-clouds-widgets-rss-blogs-etc.html",
+    "title": "BlogCatalog"},
+   {"external_url": "http://www.killerstartups.com/Web-App-Tools/makecloud-com-make-tag-clouds-from-rss-feeds",
+    "title": "Killer Startups"}]}

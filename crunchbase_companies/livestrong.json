@@ -1,0 +1,130 @@
+{"name": "Livestrong",
+ "permalink": "livestrong",
+ "crunchbase_url": "http://www.crunchbase.com/company/livestrong",
+ "homepage_url": "http://www.livestrong.com/",
+ "blog_url": "http://www.livestrong.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "LIVESTRONG_COM",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "livestrong, lance-armstrong, demand-media, health, welness",
+ "alias_list": "",
+ "email_address": "livestrong@demandmedia.com",
+ "phone_number": "",
+ "description": "Health/Fitness Website",
+ "created_at": "Wed Apr 02 21:59:10 UTC 2008",
+ "updated_at": "Mon Mar 25 04:11:43 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.livestrong.com\" title=\"LIVESTRONG.com\" rel=\"nofollow\"\u003ELIVESTRONG.com\u003C/a\u003E is a health and wellness site to be launched in mid 2008.  The site aims to provide visitors with a range of health related content, including actionable and personal online tools and professional health, wellness and fitness related information.\u003C/p\u003E\n\n\u003Cp\u003EThe site is a partnership between \u003Ca href=\"http://demandmedia.com/\" title=\"Demand Media\" rel=\"nofollow\"\u003EDemand Media\u003C/a\u003E and the \u003Ca href=\"http://www.livestrong.org\" title=\"Lance Armstrong Foundation\" rel=\"nofollow\"\u003ELance Armstrong Foundation\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       18],
+      "assets/images/resized/0001/6721/16721v1-max-150x150.jpg"],
+     [[190,
+       23],
+      "assets/images/resized/0001/6721/16721v1-max-250x250.jpg"],
+     [[190,
+       23],
+      "assets/images/resized/0001/6721/16721v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Livestrong.com",
+    "permalink": "livestrong-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-Founder",
+    "person":
+     {"first_name": "Lance",
+      "last_name": "Armstrong",
+      "permalink": "lance-armstrong",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Rosenblatt",
+      "permalink": "richard-rosenblatt",
+      "image":
+       {"available_sizes":
+         [[[134,
+            150],
+           "assets/images/resized/0002/1699/21699v1-max-150x150.png"],
+          [[223,
+            250],
+           "assets/images/resized/0002/1699/21699v1-max-250x250.png"],
+          [[245,
+            274],
+           "assets/images/resized/0002/1699/21699v1-max-450x450.png"]],
+        "attribution": "\u003Cp\u003E\u003Ca href=\"http://frankschilling.typepad.com/my_weblog/2007/04/april_dnj_cover.html\" title=\"Frank Schilling\" rel=\"nofollow\"\u003EFrank Schilling\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Intent",
+      "permalink": "intent",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0001/6300/16300v1-max-150x150.jpg"],
+          [[250,
+            100],
+           "assets/images/resized/0001/6300/16300v1-max-250x250.jpg"],
+          [[450,
+            180],
+           "assets/images/resized/0001/6300/16300v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Health and Wellness.com",
+      "permalink": "health-and-wellness",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0009/8994/98994v2-max-150x150.png"],
+          [[231,
+            71],
+           "assets/images/resized/0009/8994/98994v2-max-250x250.png"],
+          [[231,
+            71],
+           "assets/images/resized/0009/8994/98994v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Santa Monica",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.01052,
+    "longitude": -118.495981}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cembed src=\"http://blip.tv/play/hRbG8W0A\" type=\"application/x-shockwave-flash\" width=\"370\" height=\"308\" allowscriptaccess=\"always\" allowfullscreen=\"true\"\u003E\u003C/embed\u003E",
+    "description": "\u003Cp\u003EThis video was originally publishedo on \u003Ca href=\"http://www.beet.tv/2008/08/livestrongcom-t.html\" title=\"Beet.TV\" rel=\"nofollow\"\u003EBeet.TV\u003C/a\u003E\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://demandmedia.com/news-dm-012808.asp",
+    "title": "Press Release"},
+   {"external_url": "http://online.wsj.com/article/SB120148319605121097.html?mod=technology_main_whats_news",
+    "title": "WSJ Article"}]}

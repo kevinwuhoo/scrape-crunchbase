@@ -1,0 +1,87 @@
+{"name": "RunAlong",
+ "permalink": "runalong",
+ "crunchbase_url": "http://www.crunchbase.com/company/runalong",
+ "homepage_url": "http://www.runalong.se",
+ "blog_url": "http://blog.runalong.se",
+ "blog_feed_url": "http://www.blog.runalong.se",
+ "twitter_username": "teamrunalong",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "running, jogging, mapbased, events",
+ "alias_list": null,
+ "email_address": "heidi.harman@runalong.se",
+ "phone_number": "+46737721563",
+ "description": "a female running community.",
+ "created_at": "Sat Feb 06 09:23:34 UTC 2010",
+ "updated_at": "Sun Dec 09 05:38:20 UTC 2012",
+ "overview": "\u003Cp\u003ERunAlong.se a female running community with focus on motivating group runs, thru mapbased events.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Sam",
+      "last_name": "Utne",
+      "permalink": "sam-utne",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0006/7506/67506v2-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0006/7506/67506v2-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0006/7506/67506v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EFrom www.mncultureclub.com\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$130k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "http://www.vinnova.se/misc/menyer-och-funktioner/Nyheter/Nyheter-2008/081216-VarDagsIT/",
+    "source_description": "http://computersweden.idg.se/2.2683/1.201234/har-ar-it-projekten-som-far-statsmiljoner",
+    "raised_amount": 130295.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 12,
+    "funded_day": 17,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Stockholm Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "11862",
+    "city": "",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://uk.techcrunch.com/2009/10/02/swedish-startup-runalong-wants-to-make-you-sweat-with-your-friends-in-the-dark/",
+    "title": "Tech-Crunch"}]}

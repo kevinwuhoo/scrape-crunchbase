@@ -1,0 +1,160 @@
+{"name": "Xdrive",
+ "permalink": "xdrive",
+ "crunchbase_url": "http://www.crunchbase.com/company/xdrive",
+ "homepage_url": "http://www.xdrive.com/",
+ "blog_url": "http://blog.xdrive.com",
+ "blog_feed_url": "http://blog.xdrive.com/rss.xml",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 34,
+ "founded_year": 1999,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Feb 08 07:57:35 UTC 2008",
+ "updated_at": "Fri May 15 11:18:18 UTC 2009",
+ "overview": "\u003Cp\u003EXdrive is a provider of digital asset management, online storage, and file sharing services.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0001/0746/10746v1-max-150x150.png"],
+     [[162,
+       60],
+      "assets/images/resized/0001/0746/10746v1-max-250x250.png"],
+     [[162,
+       60],
+      "assets/images/resized/0001/0746/10746v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brett",
+      "last_name": "O'Brien",
+      "permalink": "brett-obrien",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0001/7369/17369v1-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0001/7369/17369v1-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0001/7369/17369v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Chief Product Officer",
+    "person":
+     {"first_name": "JJ",
+      "last_name": "Aguhob",
+      "permalink": "jj-aguhob",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0007/7648/77648v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0007/7648/77648v2-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0007/7648/77648v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Memeo",
+      "permalink": "memeo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/7329/17329v4-max-150x150.jpg"],
+          [[250,
+            50],
+           "assets/images/resized/0001/7329/17329v4-max-250x250.jpg"],
+          [[450,
+            90],
+           "assets/images/resized/0001/7329/17329v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "digitalbucket.net",
+      "permalink": "digitalbucket",
+      "image":
+       {"available_sizes":
+         [[[150,
+            90],
+           "assets/images/resized/0001/7881/17881v1-max-150x150.png"],
+          [[167,
+            101],
+           "assets/images/resized/0001/7881/17881v1-max-250x250.png"],
+          [[167,
+            101],
+           "assets/images/resized/0001/7881/17881v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 30000000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.timewarner.com/corp/newsroom/pr/0,20812,1090142,00.html",
+   "source_description": "America Online, Inc. Announces Acquisition of Xdrive, Inc. ",
+   "acquired_year": 2005,
+   "acquired_month": 8,
+   "acquired_day": 4,
+   "acquiring_company":
+    {"name": "AOL",
+     "permalink": "aol",
+     "image":
+      {"available_sizes":
+        [[[150,
+           84],
+          "assets/images/resized/0000/4003/4003v5-max-150x150.png"],
+         [[174,
+           98],
+          "assets/images/resized/0000/4003/4003v5-max-250x250.png"],
+         [[174,
+           98],
+          "assets/images/resized/0000/4003/4003v5-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0004/4205/44205v1-max-150x150.png"],
+      [[250,
+        155],
+       "assets/images/resized/0004/4205/44205v1-max-250x250.png"],
+      [[450,
+        279],
+       "assets/images/resized/0004/4205/44205v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

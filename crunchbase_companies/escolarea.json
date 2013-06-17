@@ -1,0 +1,154 @@
+{"name": "Escolarea",
+ "permalink": "escolarea",
+ "crunchbase_url": "http://www.crunchbase.com/company/escolarea",
+ "homepage_url": "http://class.io",
+ "blog_url": "http://class.io/blog",
+ "blog_feed_url": "http://class.io/?feed=rss2",
+ "twitter_username": "myClassio",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "education, microblog, learning, schools, universities, students, teachers, googleapps",
+ "alias_list": null,
+ "email_address": "my@class.io",
+ "phone_number": "",
+ "description": "Builds education web applications",
+ "created_at": "Tue Jan 18 19:55:06 UTC 2011",
+ "updated_at": "Thu Jan 20 02:08:46 UTC 2011",
+ "overview": "\u003Cp\u003EEscolarea builds web applications for education. \u003C/p\u003E\n\n\u003Cp\u003ETheir first product is class.io, a webapp for teachers and students that integrates with Google Apps and Facebook to improve the effectiveness of classroom communications.\u003C/p\u003E\n\n\u003Cp\u003EClass.io provides teachers with a simple and direct interface to handle class announcements, homework assignments, content sharing and messaging with their students. The Google Apps integration allows teachers and students to have a shared calendar and documents for the class.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[126,
+       59],
+      "assets/images/resized/0011/7946/117946v2-max-150x150.png"],
+     [[126,
+       59],
+      "assets/images/resized/0011/7946/117946v2-max-250x250.png"],
+     [[126,
+       59],
+      "assets/images/resized/0011/7946/117946v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "class.io",
+    "permalink": "class-io",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder/Developer",
+    "person":
+     {"first_name": "Luis",
+      "last_name": "Borjas",
+      "permalink": "luis-borjas",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Jorge",
+      "last_name": "Garc\u00c3\u00ada",
+      "permalink": "jorge-garca",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Roberto",
+      "last_name": "Brev\u00c3\u00a9",
+      "permalink": "roberto-brev",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Alejandro",
+      "last_name": "Corpe\u00c3\u00b1o",
+      "permalink": "alejandro-corpeo",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder/Developer",
+    "person":
+     {"first_name": "Fernando",
+      "last_name": "Escher",
+      "permalink": "fernando-escher",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Edmodo",
+      "permalink": "edmodo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6596/16596v6-max-150x150.png"],
+          [[250,
+            109],
+           "assets/images/resized/0001/6596/16596v6-max-250x250.png"],
+          [[450,
+            196],
+           "assets/images/resized/0001/6596/16596v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Schoology",
+      "permalink": "schoology",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0005/9519/59519v6-max-150x150.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-250x250.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LearnBoost",
+      "permalink": "learnboost",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0008/5631/85631v1-max-150x150.png"],
+          [[250,
+            99],
+           "assets/images/resized/0008/5631/85631v1-max-250x250.png"],
+          [[287,
+            114],
+           "assets/images/resized/0008/5631/85631v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/bLUxy74Y858?fs=1\u0026amp;hl=en_US\u0026amp;rel=0\u0026amp;color1=0x2b405b\u0026amp;color2=0x6b8ab6\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/bLUxy74Y858?fs=1\u0026amp;hl=en_US\u0026amp;rel=0\u0026amp;color1=0x2b405b\u0026amp;color2=0x6b8ab6\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EQuick Tour\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        105],
+       "assets/images/resized/0011/7945/117945v2-max-150x150.png"],
+      [[250,
+        176],
+       "assets/images/resized/0011/7945/117945v2-max-250x250.png"],
+      [[440,
+        310],
+       "assets/images/resized/0011/7945/117945v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

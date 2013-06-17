@@ -1,0 +1,180 @@
+{"name": "GetBulb",
+ "permalink": "getbulb",
+ "crunchbase_url": "http://www.crunchbase.com/company/getbulb",
+ "homepage_url": "http://getbulb.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "getbulb",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "infographics, media, data-visualisation, data-vizualisation, dataviz, marketing",
+ "alias_list": null,
+ "email_address": "info@getbulb.com",
+ "phone_number": "",
+ "description": "Create infographics easily",
+ "created_at": "Tue Dec 04 14:31:06 UTC 2012",
+ "updated_at": "Thu Dec 06 05:57:39 UTC 2012",
+ "overview": "\u003Cp\u003EGetBulb makes creating infographics easy.\u003C/p\u003E\n\n\u003Cp\u003ECreating the intricate, engaging infographics routinely published by the New York Times, the Guardian, and others is time-consuming, highly-skilled, expensive work. GetBulb offers media companies, marketing companies and management consultancies a simple-to-use tool that creates infographics using either in-house or free-form styles. \u003C/p\u003E\n\n\u003Cp\u003EThe tool creates both  high-resolution artwork for print and interactive presentations for online publication. Uniquely, both are created from the same workflow; no extra work is required to produce one or the other.\u003C/p\u003E\n\n\u003Cp\u003EInitial sales have been to the marketing and media sectors.\u003C/p\u003E\n\n\u003Cp\u003EWe are graduates of Startupbootcamp Dublin (in May 2012) and won the Irish Times Digital Challenge (October 2012).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       99],
+      "assets/images/resized/0022/3782/223782v2-max-150x150.jpg"],
+     [[250,
+       166],
+      "assets/images/resized/0022/3782/223782v2-max-250x250.jpg"],
+     [[450,
+       299],
+      "assets/images/resized/0022/3782/223782v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Oliver",
+      "last_name": "Mooney",
+      "permalink": "oliver-mooney",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Visual.ly",
+      "permalink": "visual-ly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0014/3992/143992v1-max-150x150.jpg"],
+          [[196,
+            76],
+           "assets/images/resized/0014/3992/143992v1-max-250x250.jpg"],
+          [[196,
+            76],
+           "assets/images/resized/0014/3992/143992v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Infogram",
+      "permalink": "infogr-am",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0018/4001/184001v2-max-150x150.png"],
+          [[250,
+            91],
+           "assets/images/resized/0018/4001/184001v2-max-250x250.png"],
+          [[450,
+            164],
+           "assets/images/resized/0018/4001/184001v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Piktochart",
+      "permalink": "piktochart",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0015/6355/156355v2-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0015/6355/156355v2-max-250x250.png"],
+          [[450,
+            134],
+           "assets/images/resized/0015/6355/156355v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tableau Software",
+      "permalink": "tableau-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0003/1298/31298v1-max-150x150.png"],
+          [[232,
+            85],
+           "assets/images/resized/0003/1298/31298v1-max-250x250.png"],
+          [[232,
+            85],
+           "assets/images/resized/0003/1298/31298v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac62k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.startupbootcamp.org/the-countdown-to-startupbootcamp-dublin-demo-day-commences/",
+    "source_description": "The Countdown to Startupbootcamp Dublin Demo Day Commences!",
+    "raised_amount": 12000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 2,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Startupbootcamp",
+         "permalink": "startupbootcamp",
+         "image":
+          {"available_sizes":
+            [[[150,
+               150],
+              "assets/images/resized/0011/8046/118046v4-max-150x150.png"],
+             [[250,
+               250],
+              "assets/images/resized/0011/8046/118046v4-max-250x250.png"],
+             [[329,
+               329],
+              "assets/images/resized/0011/8046/118046v4-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]},
+   {"round_code": "debt_round",
+    "source_url": "http://thenextweb.com/media/2012/10/01/data-visualization-startup-getbulb-scoops-the-irish-times-e50k-digital-challenge-prize/",
+    "source_description": "Data Visualization startup GetBulb scoops The Irish Times\u2019 \u20ac50k Digital Challenge prize",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "DFJ Esprit",
+         "permalink": "dfj-esprit",
+         "image":
+          {"available_sizes":
+            [[[150,
+               59],
+              "assets/images/resized/0002/3532/23532v1-max-150x150.png"],
+             [[231,
+               91],
+              "assets/images/resized/0002/3532/23532v1-max-250x250.png"],
+             [[231,
+               91],
+              "assets/images/resized/0002/3532/23532v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pbs.org/mediashift/2012/11/startup-challenge-shakes-things-up-at-the-irish-times331.html",
+    "title": "Startup Challenge Shakes Things Up At the Irish Times"}]}

@@ -1,0 +1,204 @@
+{"name": "The Hype Machine",
+ "permalink": "hypemachine",
+ "crunchbase_url": "http://www.crunchbase.com/company/hypemachine",
+ "homepage_url": "http://hypem.com/",
+ "blog_url": "http://blog.hypem.com/",
+ "blog_feed_url": "",
+ "twitter_username": "hypem",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "musicsearch, music, blogs, jukebox",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "follows new indie music",
+ "created_at": "Thu Nov 15 22:20:20 UTC 2007",
+ "updated_at": "Mon Jul 25 18:40:39 UTC 2011",
+ "overview": "\u003Cp\u003EHypeMachine is a music search engine that indexes audio files on blogs across the internet. Users can search for an artist or track, and play the song directly on the site. Each song is accompanied by writing from the blog post, along with links to the blog and links to iTunes and Amazon to buy the song. HypeMachine provides a list of all of the blogs they crawl. The service also has what they call a radio, which actually just suggests songs and leaves it up to the user to play each song.\u003C/p\u003E\n\n\u003Cp\u003EUnlike \u003Ca href=\"http://www.crunchbase.com/company/pandora\" title=\"Pandora\"\u003EPandora\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/lala\" title=\"lala\"\u003Elala\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/imeem\" title=\"Imeem\"\u003EImeem\u003C/a\u003E, HypeMachine\u0026#8217;s music is not licensed. HypeMachine\u0026#8217;s competitors include \u003Ca href=\"http://www.crunchbase.com/company/songza\" title=\"Songza\"\u003ESongza\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/Skreemr\" title=\"Skreemr\"\u003ESkreemr\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/Deezer\" title=\"Deezer\"\u003EDeezer\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/SeeqPod\" title=\"SeeqPod\"\u003ESeeqPod\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       70],
+      "assets/images/resized/0000/2176/2176v1-max-150x150.png"],
+     [[213,
+       100],
+      "assets/images/resized/0000/2176/2176v1-max-250x250.png"],
+     [[213,
+       100],
+      "assets/images/resized/0000/2176/2176v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "HypeMachine",
+    "permalink": "hypemachine",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Anthony",
+      "last_name": "Volodkin",
+      "permalink": "anthony-volodkin",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Zoya",
+      "last_name": "Feldman",
+      "permalink": "zoya-feldman",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Kidder",
+      "permalink": "scott-kidder",
+      "image": null}},
+   {"is_past": true,
+    "title": "Partner",
+    "person":
+     {"first_name": "Taylor",
+      "last_name": "McKnight",
+      "permalink": "taylor-mcknight",
+      "image":
+       {"available_sizes":
+         [[[118,
+            150],
+           "assets/images/resized/0018/1815/181815v2-max-150x150.jpg"],
+          [[197,
+            250],
+           "assets/images/resized/0018/1815/181815v2-max-250x250.jpg"],
+          [[356,
+            450],
+           "assets/images/resized/0018/1815/181815v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SkreemR Search",
+      "permalink": "skreemr-search",
+      "image": null}},
+   {"competitor":
+     {"name": "Seeqpod",
+      "permalink": "seeqpod",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0000/2362/2362v8-max-150x150.png"],
+          [[250,
+            149],
+           "assets/images/resized/0000/2362/2362v8-max-250x250.png"],
+          [[289,
+            173],
+           "assets/images/resized/0000/2362/2362v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Deezer",
+      "permalink": "deezer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/2422/2422v11-max-150x150.jpg"],
+          [[250,
+            77],
+           "assets/images/resized/0000/2422/2422v11-max-250x250.jpg"],
+          [[450,
+            139],
+           "assets/images/resized/0000/2422/2422v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "we7",
+      "permalink": "we7",
+      "image":
+       {"available_sizes":
+         [[[1,
+            1],
+           "assets/images/resized/0000/3244/3244v1-max-150x150.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/3244/3244v1-max-250x250.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/3244/3244v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gimado",
+      "permalink": "gimado",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/2971/12971v1-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0001/2971/12971v1-max-250x250.png"],
+          [[255,
+            80],
+           "assets/images/resized/0001/2971/12971v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Streamzy",
+      "permalink": "streamzy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0001/7938/17938v1-max-150x150.jpg"],
+          [[250,
+            120],
+           "assets/images/resized/0001/7938/17938v1-max-250x250.jpg"],
+          [[389,
+            188],
+           "assets/images/resized/0001/7938/17938v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "official.fm",
+      "permalink": "officialfm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0002/5387/25387v5-max-150x150.jpg"],
+          [[250,
+            72],
+           "assets/images/resized/0002/5387/25387v5-max-250x250.jpg"],
+          [[450,
+            130],
+           "assets/images/resized/0002/5387/25387v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "2165 Brigham St",
+    "address2": null,
+    "zip_code": "11229",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.59994,
+    "longitude": -73.935024}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,117 @@
+{"name": "Zapa",
+ "permalink": "zapa",
+ "crunchbase_url": "http://www.crunchbase.com/company/zapa",
+ "homepage_url": "http://www.zapatechnology.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zapatechnology",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web2ireland",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Mobile Payments",
+ "created_at": "Wed Jul 15 13:29:20 UTC 2009",
+ "updated_at": "Fri Apr 19 06:46:09 UTC 2013",
+ "overview": "\u003Cp\u003EZapa Technology will soon launch a pioneering customer loyalty technology across Europe that will take advantage of the Near Field Communications (NFC) opportunity.\u003C/p\u003E\n\n\u003Cp\u003ENFC is a short-range, high-frequency, wireless communications technology that enables the exchange of data between devices over about 10 centimetres (four inches) apart. The technology could enable the growth in the market for contactless credit cards and other forms of identification and transaction.\u003C/p\u003E\n\n\u003Cp\u003EZapa is the first company in Europe to deploy NFC technology in a scaled environment via the ZapaTag.\u003C/p\u003E\n\n\u003Cp\u003EIt is estimated that all mobile handsets sold within the next three years will be NFC-compliant. Zapa intends to bridge this deployment gap by the introduction of the ZapaTag and deploying contactless readers at the point of sale, showcasing Ireland as a model for the deployment and execution of NFC services.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0006/0834/60834v1-max-150x150.png"],
+     [[163,
+       81],
+      "assets/images/resized/0006/0834/60834v1-max-250x250.png"],
+     [[163,
+       81],
+      "assets/images/resized/0006/0834/60834v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Brendan",
+      "last_name": "McDongh",
+      "permalink": "brendan-mcdongh",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Eoin",
+      "last_name": "Burke",
+      "permalink": "eoin-burke",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder  \u0026 CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Nagle",
+      "permalink": "john-nagle",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac2.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://siliconrepublic.com/news/article/13349/comms/delta-invests-2-5m-in-near-field-communication-venture/",
+    "source_description": "Delta invests \u00e2\u201a\u00ac2.5m in Near Field Communication venture",
+    "raised_amount": 2500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2009,
+    "funded_month": 6,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Delta Partners",
+         "permalink": "delta-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               41],
+              "assets/images/resized/0003/4249/34249v2-max-150x150.jpg"],
+             [[250,
+               69],
+              "assets/images/resized/0003/4249/34249v2-max-250x250.jpg"],
+             [[450,
+               125],
+              "assets/images/resized/0003/4249/34249v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Irish Office",
+    "address1": "The Grange",
+    "address2": "Stillorgan Road",
+    "zip_code": "",
+    "city": "Dublin",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": 53.2801425,
+    "longitude": -6.1590751}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://siliconrepublic.com/news/article/13349/comms/delta-invests-2-5m-in-near-field-communication-venture/",
+    "title": "Delta invests \u00e2\u201a\u00ac2.5m in Near Field Communication venture"}]}

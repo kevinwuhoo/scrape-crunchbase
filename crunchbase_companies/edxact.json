@@ -1,0 +1,119 @@
+{"name": "Edxact",
+ "permalink": "edxact",
+ "crunchbase_url": "http://www.crunchbase.com/company/edxact",
+ "homepage_url": "http://www.edxact.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@edxact.com",
+ "phone_number": "+33.4.76.66.89.80",
+ "description": "",
+ "created_at": "Mon Jul 19 02:54:43 UTC 2010",
+ "updated_at": "Mon Jul 19 02:54:42 UTC 2010",
+ "overview": "\u003Cp\u003EEdXact SA develops and markets electronic design automation tools for physical verification applications. The company provides a suite of software solutions for complex integrated circuit (IC) and system-on-chip (SOC) designs to physical verification teams in microelectronics and semiconductor industries. Its products include JIVARO, a tool for IC nanometer designs dedicated to the reduction of parasitic networks; COMANCHE, a tool for IC nanometer designs dedicated to the exploration and analysis of huge parasitic networks; and VRFJ, a solution to achieve inductor model netlist reduction and to slash RFIC non-linear simulation times. EdXact SA has a strategic relationship with MediaTek Inc. The company was founded in 2004 and is based in Voiron, France with sales offices in Europe, Japan, Korea, Israel, India, and Taiwan.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0009/4084/94084v1-max-150x150.jpg"],
+     [[160,
+       40],
+      "assets/images/resized/0009/4084/94084v1-max-250x250.jpg"],
+     [[160,
+       40],
+      "assets/images/resized/0009/4084/94084v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President \u0026 CEO",
+    "person":
+     {"first_name": "Mathias",
+      "last_name": "Silvant",
+      "permalink": "mathias-silvant",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.63M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 2630000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 5,
+    "funded_day": 13,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Emertec Gestion",
+         "permalink": "emertec-gestion",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0004/9921/49921v1-max-150x150.jpg"],
+             [[226,
+               46],
+              "assets/images/resized/0004/9921/49921v1-max-250x250.jpg"],
+             [[226,
+               46],
+              "assets/images/resized/0004/9921/49921v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "I-Source Gestion",
+         "permalink": "i-source-gestion",
+         "image":
+          {"available_sizes":
+            [[[150,
+               148],
+              "assets/images/resized/0001/8136/18136v3-max-150x150.jpg"],
+             [[250,
+               247],
+              "assets/images/resized/0001/8136/18136v3-max-250x250.jpg"],
+             [[260,
+               257],
+              "assets/images/resized/0001/8136/18136v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Parc Work Center - Bat. A ",
+    "address2": "Route des Bois ",
+    "zip_code": "38500 ",
+    "city": "Voiron",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

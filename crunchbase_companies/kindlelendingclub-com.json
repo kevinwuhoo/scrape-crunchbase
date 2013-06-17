@@ -1,0 +1,94 @@
+{"name": "BookLending.com",
+ "permalink": "kindlelendingclub-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/kindlelendingclub-com",
+ "homepage_url": "http://www.BookLending.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "booklending",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ebooks, publishing, kindle, books",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Crowdsourced Virtual Library",
+ "created_at": "Wed Jan 26 16:33:03 UTC 2011",
+ "updated_at": "Wed Mar 23 00:30:42 UTC 2011",
+ "overview": "\u003Cp\u003EBookLending.com connects Amazon Kindle users who want to borrow and lend Kindle books.\u003C/p\u003E\n\n\u003Cp\u003EThe community BookLending.com serves began on a Facebook page.  Its explosive growth created demand for a scalable customized web app for Kindle ebook lending and borrowing.  At the time of writing (March 22, 2011), the website serves 18,000+ members and more than 400 loans per day.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Catherine",
+      "last_name": "MacDonald",
+      "permalink": "catherine-macdonald",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LendInk",
+      "permalink": "lendink",
+      "image": null}},
+   {"competitor":
+     {"name": "BookSwim",
+      "permalink": "bookswim",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0002/9989/29989v4-max-150x150.png"],
+          [[160,
+            120],
+           "assets/images/resized/0002/9989/29989v4-max-250x250.png"],
+          [[160,
+            120],
+           "assets/images/resized/0002/9989/29989v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$12.5k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://news.cnet.com/8301-30685_3-20028137-264.html",
+    "source_description": "CNET Article",
+    "raised_amount": 12500.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://news.cnet.com/8301-30685_3-20028137-264.html",
+    "title": "CNET Profile"},
+   {"external_url": "http://www.readwriteweb.com/archives/new_kindle_lending_club_matches_e-book_borrowers_a.php",
+    "title": "ReadWriteWeb Profile"},
+   {"external_url": "http://lifehacker.com/5735815/kindle-lending-club-is-a-library-of-user+contributed-kindle-ebooks",
+    "title": "Lifehacker Review"},
+   {"external_url": "http://www.walletpop.com/2011/01/18/borrow-kindle-books-for-free-with-new-lending-club/",
+    "title": "Walletpop Review"},
+   {"external_url": "http://abcnews.go.com/Technology/kindle-lending-club-plays-matchmaker-bookworms/story?id=12634353",
+    "title": "ABCNews.com Profile"}]}

@@ -1,0 +1,81 @@
+{"name": "Sookbox",
+ "permalink": "sookbox",
+ "crunchbase_url": "http://www.crunchbase.com/company/sookbox",
+ "homepage_url": "http://sookbox.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "thesookbox",
+ "category_code": "hardware",
+ "number_of_employees": 7,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "connective-computing, video, music, controls, content, cloud, networking",
+ "alias_list": null,
+ "email_address": "info@sookbox.com",
+ "phone_number": "6177144598",
+ "description": "Framework to connect devices",
+ "created_at": "Thu Jul 05 19:37:24 UTC 2012",
+ "updated_at": "Fri Mar 29 18:49:57 UTC 2013",
+ "overview": "\u003Cp\u003ESookbox provides a universal framework to connect and control media on all devices. \u003C/p\u003E\n\n\u003Cp\u003EThe goal of Sookbox is to empower users to enjoy their media on whatever device they choose, from the palm of their hand. At Sookbox, media access is organized by user, rather than by device or service.\u003C/p\u003E\n\n\u003Cp\u003EDevices should do what they are best at doing. Movies should be watched on a television, not a laptop. Music should be listened to through an amp and speakers, not computer speakers. And the remote control for everything should be a smartphone or tablet. The problem is that communication between these media outlets is difficult and onerous.\u003C/p\u003E\n\n\u003Cp\u003ESookbox gives a cross-platform universal solution that goes beyond putting a smart app on a smart TV. Sookbox breaks from traditional thinking in two crucial ways: First is to put a cloud into homes, and the second is to serve content and controls separately.\u003C/p\u003E\n\n\u003Cp\u003ESookbox provides a novel type of cloud service. The Sookbox uses stored or streamed content. It allows users to have their own physical server in their homes. This server, the Sookbox, allows a user to store content in their own \u0026#8220;personal cloud.\u0026#8221; That is music, digital movies, and pictures on a single server. This idea is not unique, but it is powerfully packaged: media storage, distribution, and control - all centralized and layered in a single device. That gives you the power to use your iPhone to click \u201cGoodfellas. Basement TV.\u201d\u003C/p\u003E\n\n\u003Cp\u003EThe core of the product line, the software of the cloud server, is a revolutionary type of web application development platform known as Harmony.  The current paradigm is a world where content and controls are in the same place. For example, the YouTube video controls are right next to the video and the back button is across the browser. Sookbox transcends that paradigm. Televisions are best for video, speakers are best for sound, and handheld devices are best for control. Now that Sookbox divides the cloud by user, it makes sense to serve multiple, different sites from a single web app.\u003C/p\u003E\n\n\u003Cp\u003EA fundamental Sookbox feature is that it does not compete with other cloud services or try to debunk them. Instead, it gives them a platform and a vessel to reach their current users in a friendlier, more powerful way. Harmony unleashes applications such as Pandora, Netflix and YouTube across a user\u2019s home. For example, someone might want to develop a \u201cPandora Alarm Clock\u201d app. The API allows developers to provide a single, connective user experience synchronized across multiple types of devices. On the developers\u0026#8217; side, the Harmony libraries and structure allow them to serve independently content to content device(s) and controls to controlling device(s). By facilitating this two-way communication, Sookbox allows the navigation of media, the play/pause, volume, etc. to be displayed graphically on the handheld device and directly control the music coming out of the speakers.\u003C/p\u003E\n\n\u003Cp\u003ESookbox can be viewed as a personal cloud. Personal meaning the user owns it personally, but also it is personalized. The cloud should be divided by user, not by device or by service. Sookbox opens a new layer between the other cloud services and the user that makes the experience personal and meaningful.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       139],
+      "assets/images/resized/0019/9046/199046v4-max-150x150.jpg"],
+     [[250,
+       231],
+      "assets/images/resized/0019/9046/199046v4-max-250x250.jpg"],
+     [[450,
+       417],
+      "assets/images/resized/0019/9046/199046v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Cyrus",
+      "last_name": "Vafadari",
+      "permalink": "cyrus-vafadari",
+      "image":
+       {"available_sizes":
+         [[[86,
+            150],
+           "assets/images/resized/0019/9319/199319v2-max-150x150.jpg"],
+          [[144,
+            250],
+           "assets/images/resized/0019/9319/199319v2-max-250x250.jpg"],
+          [[169,
+            292],
+           "assets/images/resized/0019/9319/199319v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/46386734\" width=\"400\" height=\"300\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EA cross platform universal framework that puts the cloud in your home and serves all of your media. Play any videos, movies, or tv shows on any television in your house. Play your music on any speakers including radios and stereo systems. You can also enj\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

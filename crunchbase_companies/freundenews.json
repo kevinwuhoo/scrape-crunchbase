@@ -1,0 +1,150 @@
+{"name": "FreundeNews",
+ "permalink": "freundenews",
+ "crunchbase_url": "http://www.crunchbase.com/company/freundenews",
+ "homepage_url": "http://freundenews.de/public",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Social news aggregator",
+ "created_at": "Thu Feb 05 19:34:07 UTC 2009",
+ "updated_at": "Tue Feb 09 00:49:01 UTC 2010",
+ "overview": "\u003Cp\u003EFreundeNews is a German service modeled after FriendFeed. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[147,
+       111],
+      "assets/images/resized/0003/5684/35684v1-max-150x150.png"],
+     [[147,
+       111],
+      "assets/images/resized/0003/5684/35684v1-max-250x250.png"],
+     [[147,
+       111],
+      "assets/images/resized/0003/5684/35684v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CTO, Co-Founder",
+    "person":
+     {"first_name": "Kai",
+      "last_name": "K\u00c3\u00b6nig",
+      "permalink": "kai-knig",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO, Co-Founder",
+    "person":
+     {"first_name": "Vincent",
+      "last_name": "Nicolai",
+      "permalink": "vincent-nicolai",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO, Co-Founder",
+    "person":
+     {"first_name": "Ole",
+      "last_name": "Riesenberg",
+      "permalink": "ole-riesenberg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FriendFeed",
+      "permalink": "friendfeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1096/1096v1-max-150x150.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-250x250.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "lifestream.fm",
+      "permalink": "lifestream-fm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0001/7139/17139v1-max-150x150.jpg"],
+          [[250,
+            38],
+           "assets/images/resized/0001/7139/17139v1-max-250x250.jpg"],
+          [[316,
+            49],
+           "assets/images/resized/0001/7139/17139v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Socialthing",
+      "permalink": "socialthing",
+      "image":
+       {"available_sizes":
+         [[[150,
+            83],
+           "assets/images/resized/0000/4378/4378v5-max-150x150.jpg"],
+          [[250,
+            138],
+           "assets/images/resized/0000/4378/4378v5-max-250x250.jpg"],
+          [[450,
+            249],
+           "assets/images/resized/0000/4378/4378v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2009/02/04/copy-paste-get-acquired-mister-wong-buys-freundenews/",
+   "source_description": "http://www.oracle.com/mvalent/index.html",
+   "acquired_year": 2009,
+   "acquired_month": 2,
+   "acquired_day": 4,
+   "acquiring_company":
+    {"name": "Construktiv",
+     "permalink": "construktiv",
+     "image":
+      {"available_sizes":
+        [[[150,
+           19],
+          "assets/images/resized/0001/8202/18202v1-max-150x150.jpg"],
+         [[250,
+           31],
+          "assets/images/resized/0001/8202/18202v1-max-250x250.jpg"],
+         [[450,
+           57],
+          "assets/images/resized/0001/8202/18202v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,121 @@
+{"name": "AppPad",
+ "permalink": "apppad",
+ "crunchbase_url": "http://www.crunchbase.com/company/apppad",
+ "homepage_url": "http://AppPad.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "AppPad",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "OnlineDevelopment, WebAppCreator, DataPages, serverless, WidgetCreator, Caspio, Coghead",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Java App Builder",
+ "created_at": "Tue Mar 11 02:26:23 UTC 2008",
+ "updated_at": "Tue Apr 09 08:26:29 UTC 2013",
+ "overview": "\u003Cp\u003EAppPad is a place to build, host, and share \u0026#8216;serverless\u0026#8217; data-driven HTML and Javascript web applications. AppPad provides a free service and platform for developers of creative and useful web applications. AppPad provides a Javascript API to handle data operations in your application, tools to configure your application\u0026#8217;s data types and permissions, and features to export your data and share your applications. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[140,
+       36],
+      "assets/images/resized/0001/5116/15116v1-max-150x150.png"],
+     [[140,
+       36],
+      "assets/images/resized/0001/5116/15116v1-max-250x250.png"],
+     [[140,
+       36],
+      "assets/images/resized/0001/5116/15116v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "AppPad",
+    "permalink": "apppad",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "KickApps",
+      "permalink": "kickapps",
+      "image": null}},
+   {"competitor":
+     {"name": "Coghead",
+      "permalink": "coghead",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/2548/2548v1-max-150x150.jpg"],
+          [[210,
+            78],
+           "assets/images/resized/0000/2548/2548v1-max-250x250.jpg"],
+          [[210,
+            78],
+           "assets/images/resized/0000/2548/2548v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bungee Labs",
+      "permalink": "bungee-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0001/1936/11936v1-max-150x150.png"],
+          [[250,
+            44],
+           "assets/images/resized/0001/1936/11936v1-max-250x250.png"],
+          [[405,
+            72],
+           "assets/images/resized/0001/1936/11936v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Iceberg",
+      "permalink": "iceberg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0001/7918/17918v1-max-150x150.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0001/7918/17918v1-max-250x250.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0001/7918/17918v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "95811",
+    "city": "Sacramento",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 38.583952,
+    "longitude": -121.491028}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

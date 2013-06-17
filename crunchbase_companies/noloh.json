@@ -1,0 +1,106 @@
+{"name": "NOLOH",
+ "permalink": "noloh",
+ "crunchbase_url": "http://www.crunchbase.com/company/noloh",
+ "homepage_url": "http://www.noloh.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "php, rich-internet-applications, ajax, framework",
+ "alias_list": null,
+ "email_address": "info@noloh.com",
+ "phone_number": "347-416-6508",
+ "description": "Lightweight PHP Framework",
+ "created_at": "Mon Jun 23 16:17:15 UTC 2008",
+ "updated_at": "Thu Dec 30 17:29:28 UTC 2010",
+ "overview": "\u003Cp\u003ENOLOH (Not One Line Of HTML) is the company behind the NOLOH development platform. The NOLOH development platform is a lightweight and on-demand development platform that allows for the creation of rich interative web applications without HTML, JavaScript, or other technologies. \u003C/p\u003E\n\n\u003Cp\u003ENOLOH applications are written in NOLOH which is a superset of PHP. Programs written in NOLOH free developers from having to worry about browser detection, AJAX, Search Engines, bookmarking, back button, or any of the usual issues one would have to worry about in a conventional Rich Internet Application.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0002/0824/20824v4-max-150x150.png"],
+     [[250,
+       105],
+      "assets/images/resized/0002/0824/20824v4-max-250x250.png"],
+     [[450,
+       190],
+      "assets/images/resized/0002/0824/20824v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, Director of R\u0026D",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Ross",
+      "permalink": "philip-ross",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, CEO",
+    "person":
+     {"first_name": "Asher",
+      "last_name": "Snyder",
+      "permalink": "asher-snyder",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, Evangelist",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Goetz",
+      "permalink": "philip-goetz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, Evangelist",
+    "person":
+     {"first_name": "Clay",
+      "last_name": "Gordon",
+      "permalink": "clay-gordon",
+      "image": null}},
+   {"is_past": true,
+    "title": "VP of Products \u0026 Services",
+    "person":
+     {"first_name": "Lisa",
+      "last_name": "Faith Phillips",
+      "permalink": "lisa-faith-phillips",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "767 Lexington Ave ",
+    "address2": "",
+    "zip_code": "10065",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.762975,
+    "longitude": -73.9674}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.danshafer.com/onemind/node/813",
+    "title": "Web App Developers: This is Sizzling Hot! Get in Now!"}]}

@@ -1,0 +1,159 @@
+{"name": "JobKaster",
+ "permalink": "jobkaster",
+ "crunchbase_url": "http://www.crunchbase.com/company/jobkaster",
+ "homepage_url": "http://www.jobkaster.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "JobKaster",
+ "category_code": "other",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "job-search, recruiting, mobile, employment, job, location-based, geolocation, html5",
+ "alias_list": null,
+ "email_address": "ravi@jobkaster.com",
+ "phone_number": "",
+ "description": "Location-based job search and recruiting",
+ "created_at": "Thu Jan 12 06:19:39 UTC 2012",
+ "updated_at": "Fri Jan 20 11:50:36 UTC 2012",
+ "overview": "\u003Cp\u003EJobKaster helps recruiters find talented people and talented people find jobs.\u003C/p\u003E\n\n\u003Cp\u003EJobKaster is the latest web and mobile application for real-time location-based job searching and recruiting. JobKaster makes looking for a job or future employee fun, informative, quick, and easy.\u003C/p\u003E\n\n\u003Cp\u003EAs a recruiter you can:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EPost your job opportunities for free (perfect for small businesses that do not have the hundreds of dollars required by other sites for job postings)\u003C/li\u003E\n\u003Cli\u003EEasily search for job seekers all over the world using an intuitive and easy-to-use map interface\u003C/li\u003E\n\u003Cli\u003EContact potential candidates easily and quickly by email, phone, or text message\u003C/li\u003E\n\u003Cli\u003EReceive instant notifications of nearby job hunters that match the positions your are looking to fill\u003C/li\u003E\n\u003Cli\u003EUse the app on your desktop, tablet, or iPhone (native smartphone apps coming soon)\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EAs a job seeker you can:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ESearch for jobs for free\u003C/li\u003E\n\u003Cli\u003EUse your current location to see nearby jobs\u003C/li\u003E\n\u003Cli\u003ESearch for jobs by scrolling and zooming around an intuitive and easy-to-use map interface (no ugly long lists of bland search results)\u003C/li\u003E\n\u003Cli\u003EEffortlessly display nearby parking, public transit, schools, and restaurants near potential job sites\u003C/li\u003E\n\u003Cli\u003EEasily get area demographics to help you evaluate livability and lifestyle when choosing a job\u003C/li\u003E\n\u003Cli\u003EBroadcast your current location and professional skills and resume in real-time to recruiters; become your walking resume!\u003C/li\u003E\n\u003Cli\u003EUse the app on your desktop, tablet, or iPhone (native smartphone apps coming soon)\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       115],
+      "assets/images/resized/0016/9788/169788v2-max-150x150.png"],
+     [[174,
+       134],
+      "assets/images/resized/0016/9788/169788v2-max-250x250.png"],
+     [[174,
+       134],
+      "assets/images/resized/0016/9788/169788v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and Developer",
+    "person":
+     {"first_name": "Ravi",
+      "last_name": "Budhu",
+      "permalink": "ravi-budhu",
+      "image": null}},
+   {"is_past": true,
+    "title": "Developer",
+    "person":
+     {"first_name": "Cannot",
+      "last_name": "Remove",
+      "permalink": "cannot-remove-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CareerBuilder",
+      "permalink": "careerbuilder-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0002/0939/20939v1-max-150x150.png"],
+          [[180,
+            40],
+           "assets/images/resized/0002/0939/20939v1-max-250x250.png"],
+          [[180,
+            40],
+           "assets/images/resized/0002/0939/20939v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Monster",
+      "permalink": "monster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0000/3004/3004v1-max-150x150.png"],
+          [[200,
+            34],
+           "assets/images/resized/0000/3004/3004v1-max-250x250.png"],
+          [[200,
+            34],
+           "assets/images/resized/0000/3004/3004v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Indeed",
+      "permalink": "indeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/3721/3721v5-max-150x150.png"],
+          [[250,
+            93],
+           "assets/images/resized/0000/3721/3721v5-max-250x250.png"],
+          [[250,
+            93],
+           "assets/images/resized/0000/3721/3721v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Taleo",
+      "permalink": "taleo",
+      "image":
+       {"available_sizes":
+         [[[97,
+            32],
+           "assets/images/resized/0001/8149/18149v1-max-150x150.jpg"],
+          [[97,
+            32],
+           "assets/images/resized/0001/8149/18149v1-max-250x250.jpg"],
+          [[97,
+            32],
+           "assets/images/resized/0001/8149/18149v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        131],
+       "assets/images/resized/0016/9786/169786v2-max-150x150.png"],
+      [[250,
+        219],
+       "assets/images/resized/0016/9786/169786v2-max-250x250.png"],
+      [[450,
+        394],
+       "assets/images/resized/0016/9786/169786v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0016/9787/169787v2-max-150x150.png"],
+      [[250,
+        136],
+       "assets/images/resized/0016/9787/169787v2-max-250x250.png"],
+      [[450,
+        244],
+       "assets/images/resized/0016/9787/169787v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.faceboook.com/jobkaster",
+    "title": "Follow on Facebook"},
+   {"external_url": "http://betali.st/startups/jobkaster",
+    "title": ""}]}

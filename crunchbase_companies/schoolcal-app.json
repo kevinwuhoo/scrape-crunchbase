@@ -1,0 +1,131 @@
+{"name": "schoolcal app",
+ "permalink": "schoolcal-app",
+ "crunchbase_url": "http://www.crunchbase.com/company/schoolcal-app",
+ "homepage_url": "http://schoolcal.com",
+ "blog_url": "http://schoolcal.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "schoolcal",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, calendar, events, web-app, mobile-events",
+ "alias_list": null,
+ "email_address": "arobinson@schoolcal.com",
+ "phone_number": "",
+ "description": "Daily School Events Calendar",
+ "created_at": "Mon Apr 16 15:59:27 UTC 2012",
+ "updated_at": "Thu Apr 19 01:47:06 UTC 2012",
+ "overview": "\u003Cp\u003Eschoolcal provides every school its own cool event calendar. Current University and K12 education event calendars, if they even exist, suck bad. We\u0026#8217;re here to change all that and allow students to integrate all the events going on at a school in one place and filter that calendar for stuff they like.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Robinson",
+      "permalink": "adam-robinson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Luis",
+      "last_name": "Batista",
+      "permalink": "luis-batista",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder Business Dev / Marketing",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Carpentier",
+      "permalink": "chris-carpentier",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "McElveen",
+      "permalink": "chris-mcelveen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Trumba Corporation",
+      "permalink": "trumba-corporation",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0007/0796/70796v1-max-150x150.jpg"],
+          [[205,
+            48],
+           "assets/images/resized/0007/0796/70796v1-max-250x250.jpg"],
+          [[205,
+            48],
+           "assets/images/resized/0007/0796/70796v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PeopleCube",
+      "permalink": "peoplecube",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0007/7344/77344v1-max-150x150.png"],
+          [[201,
+            63],
+           "assets/images/resized/0007/7344/77344v1-max-250x250.png"],
+          [[201,
+            63],
+           "assets/images/resized/0007/7344/77344v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tampa Office",
+    "address1": "2233 Madaca Lane",
+    "address2": "",
+    "zip_code": "33618",
+    "city": "Tampa",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

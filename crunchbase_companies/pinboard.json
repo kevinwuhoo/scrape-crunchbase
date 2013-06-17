@@ -1,0 +1,121 @@
+{"name": "Pinboard",
+ "permalink": "pinboard",
+ "crunchbase_url": "http://www.crunchbase.com/company/pinboard",
+ "homepage_url": "http://www.pinboard.in",
+ "blog_url": "http://www.pinboard.in/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "Pinboard",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-bookmarking, caching, social-bookmark, bookmark, tagging",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Social Bookmarking",
+ "created_at": "Mon Jul 06 20:42:11 UTC 2009",
+ "updated_at": "Fri Mar 22 03:19:27 UTC 2013",
+ "overview": "\u003Cp\u003EPinboard.In is a social bookmarking site that offers an easy import/ export in del.icio.us format,  Nightly database backups to S3,  Cached copies of all  bookmarks,  a \u0026#8220;to read\u0026#8221; status for later viewing, private bookmarks and private tags, and simplified bulk editing.\u003C/p\u003E\n\n\u003Cp\u003EPinboard.In\u0026#8217;s other initial features include\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EKeep a local snapshot of the bookmarked page\u003C/li\u003E\n\u003Cli\u003EOptional setting to turn private bookmarks on by default.\u003C/li\u003E\n\u003Cli\u003EPrepending a tag with a period makes it invisible to others.\u003C/li\u003E\n\u003Cli\u003EGmail-like star interface for bulk operations\u003C/li\u003E\n\u003Cli\u003EMinimalist view (no tag chevrons!)\u003C/li\u003E\n\u003Cli\u003ELightweight UI (load fast, render fast)\u003C/li\u003E\n\u003Cli\u003ETag algebra\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[144,
+       47],
+      "assets/images/resized/0005/2014/52014v1-max-150x150.jpg"],
+     [[144,
+       47],
+      "assets/images/resized/0005/2014/52014v1-max-250x250.jpg"],
+     [[144,
+       47],
+      "assets/images/resized/0005/2014/52014v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Pinboard.In",
+    "permalink": "pinboard-in",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Maciej",
+      "last_name": "Ceglowski",
+      "permalink": "maciej-ceglowski",
+      "image":
+       {"available_sizes":
+         [[[109,
+            150],
+           "assets/images/resized/0005/2018/52018v1-max-150x150.jpg"],
+          [[181,
+            250],
+           "assets/images/resized/0005/2018/52018v1-max-250x250.jpg"],
+          [[250,
+            344],
+           "assets/images/resized/0005/2018/52018v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EIdlewords.com\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kippt",
+      "permalink": "kippt",
+      "image":
+       {"available_sizes":
+         [[[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-150x150.png"],
+          [[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-250x250.png"],
+          [[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        71],
+       "assets/images/resized/0005/2013/52013v1-max-150x150.jpg"],
+      [[250,
+        118],
+       "assets/images/resized/0005/2013/52013v1-max-250x250.jpg"],
+      [[450,
+        213],
+       "assets/images/resized/0005/2013/52013v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

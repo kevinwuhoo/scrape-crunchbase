@@ -1,0 +1,136 @@
+{"name": "Biip",
+ "permalink": "biip",
+ "crunchbase_url": "http://www.crunchbase.com/company/biip",
+ "homepage_url": "http://www.biip.no",
+ "blog_url": "http://blogg.biip.no",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "public_relations",
+ "number_of_employees": 12,
+ "founded_year": 2005,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-media, community, communications, networking, facebook, myspace, friendster",
+ "alias_list": null,
+ "email_address": "erling@biip.no",
+ "phone_number": "004794328901",
+ "description": "One of Norway's largest communities.",
+ "created_at": "Tue Mar 31 23:06:36 UTC 2009",
+ "updated_at": "Wed Apr 25 08:30:16 UTC 2012",
+ "overview": "\u003Cp\u003EBiip.no is one of Norways largest online communities, aimed primarily at young adults aged 12-22 years.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[105,
+       47],
+      "assets/images/resized/0003/9970/39970v1-max-150x150.png"],
+     [[105,
+       47],
+      "assets/images/resized/0003/9970/39970v1-max-250x250.png"],
+     [[105,
+       47],
+      "assets/images/resized/0003/9970/39970v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Erling",
+      "last_name": "Loken Andersen",
+      "permalink": "erling-lken-andersen",
+      "image":
+       {"available_sizes":
+         [[[138,
+            150],
+           "assets/images/resized/0020/4712/204712v2-max-150x150.png"],
+          [[230,
+            250],
+           "assets/images/resized/0020/4712/204712v2-max-250x250.png"],
+          [[415,
+            450],
+           "assets/images/resized/0020/4712/204712v2-max-450x450.png"]],
+        "attribution": "\u003Cp\u003EErling Loken Andersen\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Bo",
+      "last_name": "Myr\u00c3\u00a5s",
+      "permalink": "bo-myrs",
+      "image": null}},
+   {"is_past": false,
+    "title": "CSO",
+    "person":
+     {"first_name": "Ozan",
+      "last_name": "\u00c3\u02dczerk",
+      "permalink": "ozan-zerk",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Nettby",
+      "permalink": "nettby",
+      "image": null}},
+   {"competitor":
+     {"name": "Blink",
+      "permalink": "blink",
+      "image":
+       {"available_sizes":
+         [[[82,
+            73],
+           "assets/images/resized/0010/9363/109363v1-max-150x150.png"],
+          [[82,
+            73],
+           "assets/images/resized/0010/9363/109363v1-max-250x250.png"],
+          [[82,
+            73],
+           "assets/images/resized/0010/9363/109363v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Oslo HQ",
+    "address1": "Urtegata 9",
+    "address2": "",
+    "zip_code": "0187",
+    "city": "Oslo",
+    "state_code": null,
+    "country_code": "NOR",
+    "latitude": 59.915256,
+    "longitude": 10.7637668}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://coltpr.no/2008/04/03/biipno-solgt-for-rekordbel%C3%B8p/",
+    "title": "Biip.no sold for recordfigure"}]}

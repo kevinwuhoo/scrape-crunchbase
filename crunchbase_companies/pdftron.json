@@ -1,0 +1,137 @@
+{"name": "PDFTron",
+ "permalink": "pdftron",
+ "crunchbase_url": "http://www.crunchbase.com/company/pdftron",
+ "homepage_url": "http://www.pdftron.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 1998,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "html5, pdf, software, sdk",
+ "alias_list": null,
+ "email_address": "info@pdftron.com",
+ "phone_number": "604-730-8989 ",
+ "description": "PDF SDK's",
+ "created_at": "Thu Jul 12 16:42:20 UTC 2012",
+ "updated_at": "Thu Jul 12 20:30:32 UTC 2012",
+ "overview": "\u003Cp\u003ESpecializing in PDF tool kits for developers. PDFTron is a provider of cross-platform, high-performance products, including an advanced and comprehensive PDF library: PDFNet SDK. PDFTron\u0026#8217;s programming technology enables integration of PDF capabilities with complex document and publishing workflows, interactive applications as well as in server applications that require high-quality and reliable PDF processing.Newer offerings include an HTML5 document viewer enabling integration of PDF and other documents into web applications. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       98],
+      "assets/images/resized/0020/0532/200532v2-max-150x150.jpg"],
+     [[220,
+       145],
+      "assets/images/resized/0020/0532/200532v2-max-250x250.jpg"],
+     [[220,
+       145],
+      "assets/images/resized/0020/0532/200532v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Catherine",
+      "last_name": "Andersz",
+      "permalink": "catherine-andersz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Ivan",
+      "last_name": "Nincic",
+      "permalink": "ivan-nincic",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Crocodoc",
+      "permalink": "crocodoc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0007/8319/78319v3-max-150x150.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0007/8319/78319v3-max-250x250.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0007/8319/78319v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Atalasoft",
+      "permalink": "atalasoft",
+      "image":
+       {"available_sizes":
+         [[[130,
+            62],
+           "assets/images/resized/0002/5265/25265v4-max-150x150.png"],
+          [[130,
+            62],
+           "assets/images/resized/0002/5265/25265v4-max-250x250.png"],
+          [[130,
+            62],
+           "assets/images/resized/0002/5265/25265v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Foxit Corporation",
+      "permalink": "foxit-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0010/1566/101566v2-max-150x150.jpg"],
+          [[250,
+            113],
+           "assets/images/resized/0010/1566/101566v2-max-250x250.jpg"],
+          [[287,
+            130],
+           "assets/images/resized/0010/1566/101566v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LEADTOOLS",
+      "permalink": "leadtools",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "#301 - 780 Beatty Street",
+    "address2": "",
+    "zip_code": "V6B 2M1 ",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techvibes.com/blog/new-ventures-bc-top-30-announced",
+    "title": "TechVibes Top 30"},
+   {"external_url": "http://www.planetpdf.com/enterprise/article.asp?ContentID=PDFTron_and_Adlib_Software_ink_new_OEM_agreement\u0026gid=7760",
+    "title": "PDFTron and Adlib"},
+   {"external_url": "http://kost-ceco.ch/cms/index.php?pdfa_validatoren_de",
+    "title": "KOST Review"}]}

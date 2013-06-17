@@ -1,0 +1,113 @@
+{"name": "Neurotic",
+ "permalink": "neurotic",
+ "crunchbase_url": "http://www.crunchbase.com/company/neurotic",
+ "homepage_url": "http://www.neurotic.es",
+ "blog_url": "http://www.neurotic.es/planeta",
+ "blog_feed_url": "http://www.neurotic.es/es/aggregator/rss/1",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2004,
+ "founded_month": 7,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "drupal",
+ "alias_list": null,
+ "email_address": "info@neurotic.es",
+ "phone_number": "+34 933197837",
+ "description": null,
+ "created_at": "Mon Dec 01 11:52:27 UTC 2008",
+ "updated_at": "Sat Dec 06 14:42:35 UTC 2008",
+ "overview": "\u003Cp\u003ENeurotic is a web developing company specialized in Drupal.\u003C/p\u003E\n\n\u003Cp\u003ENeurotic provides consulting, theming and programming services to other companys or final customers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0003/0446/30446v2-max-150x150.jpg"],
+     [[150,
+       150],
+      "assets/images/resized/0003/0446/30446v2-max-250x250.jpg"],
+     [[150,
+       150],
+      "assets/images/resized/0003/0446/30446v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jordi",
+      "last_name": "Buf\u00c3\u00ad Caballero",
+      "permalink": "jordi-buf-caballero",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Carlos",
+      "last_name": "Rinc\u00c3\u00b3n S\u00c3\u00a1nchez",
+      "permalink": "carlos-rincn-snchez",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Lullabot",
+      "permalink": "lullabot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0002/5173/25173v2-max-150x150.png"],
+          [[250,
+            63],
+           "assets/images/resized/0002/5173/25173v2-max-250x250.png"],
+          [[450,
+            114],
+           "assets/images/resized/0002/5173/25173v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Acquia",
+      "permalink": "acquia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0000/2797/2797v3-max-150x150.png"],
+          [[184,
+            55],
+           "assets/images/resized/0000/2797/2797v3-max-250x250.png"],
+          [[184,
+            55],
+           "assets/images/resized/0000/2797/2797v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "C/Ortigosa 14",
+    "address2": "Planta 3 Despacho 25",
+    "zip_code": "08003",
+    "city": "Barcelona",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": 41.3887383,
+    "longitude": 2.1756189}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

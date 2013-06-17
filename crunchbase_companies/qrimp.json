@@ -1,0 +1,130 @@
+{"name": "Qrimp",
+ "permalink": "qrimp",
+ "crunchbase_url": "http://www.crunchbase.com/company/qrimp",
+ "homepage_url": "http://www.qrimp.com",
+ "blog_url": "http://www.qrimp.com/blog",
+ "blog_feed_url": "http://www.qrimp.com/db.aspx?t=blog\u0026vid=blogrss\u0026noheader=true\u0026nofooter=true\u0026orderby=1,1",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "platform-as-a-service, database-web-applications, web-software, hosted-applications",
+ "alias_list": null,
+ "email_address": "crunchbase@qrimp.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sat May 24 00:54:18 UTC 2008",
+ "updated_at": "Fri Jan 14 00:48:30 UTC 2011",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.qrimp.com/\" title=\"Qrimp\" rel=\"nofollow\"\u003EQrimp\u003C/a\u003E builds a rapid application development product called the Qrimp Platform that application developers use to build database applications via a web browser. \u003C/p\u003E\n\n\u003Cp\u003EThe Qrimp Platform consists of a series of development tools accessible through drop-down menus. The goal of the product is to enable simplified application development while retaining advanced database features.\u003C/p\u003E\n\n\u003Cp\u003ESome of the notable features include spreadsheet import, table-level security, column-level security, and user administration.  Users can also create custom sql statements, operations, workflows, business rules, page layout templates, data field rules and skins. \u003C/p\u003E\n\n\u003Cp\u003EEvery aspect of the custom software applications developed with Qrimp is customizable, including the menus used to navigate the application building process.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[148,
+       58],
+      "assets/images/resized/0002/2279/22279v4-max-150x150.png"],
+     [[148,
+       58],
+      "assets/images/resized/0002/2279/22279v4-max-250x250.png"],
+     [[148,
+       58],
+      "assets/images/resized/0002/2279/22279v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "LongJump",
+      "permalink": "longjump",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0000/3829/3829v1-max-150x150.png"],
+          [[200,
+            119],
+           "assets/images/resized/0000/3829/3829v1-max-250x250.png"],
+          [[200,
+            119],
+           "assets/images/resized/0000/3829/3829v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Coghead",
+      "permalink": "coghead",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/2548/2548v1-max-150x150.jpg"],
+          [[210,
+            78],
+           "assets/images/resized/0000/2548/2548v1-max-250x250.jpg"],
+          [[210,
+            78],
+           "assets/images/resized/0000/2548/2548v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zoho",
+      "permalink": "zoho",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0000/3946/3946v1-max-150x150.png"],
+          [[171,
+            80],
+           "assets/images/resized/0000/3946/3946v1-max-250x250.png"],
+          [[171,
+            80],
+           "assets/images/resized/0000/3946/3946v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dabble DB",
+      "permalink": "dabbledb",
+      "image":
+       {"available_sizes":
+         [[[139,
+            65],
+           "assets/images/resized/0000/4162/4162v1-max-150x150.png"],
+          [[139,
+            65],
+           "assets/images/resized/0000/4162/4162v1-max-250x250.png"],
+          [[139,
+            65],
+           "assets/images/resized/0000/4162/4162v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": 37.09024,
+    "longitude": -95.712891}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

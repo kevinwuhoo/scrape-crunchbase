@@ -1,0 +1,127 @@
+{"name": "Innotek",
+ "permalink": "innotek",
+ "crunchbase_url": "http://www.crunchbase.com/company/innotek",
+ "homepage_url": "http://www.innotek.de",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Open source desktop virtualization",
+ "created_at": "Mon Jan 19 10:03:49 UTC 2009",
+ "updated_at": "Wed May 06 05:30:36 UTC 2009",
+ "overview": "\u003Cp\u003EInnotek, a Stuttgart, Germany provider of open source desktop virtualization software called VirtualBox.\u003C/p\u003E\n\n\u003Cp\u003EVirtualBox is part of a hot group of companies allowing for much more efficient use of computers within large companies. VirtualBox enables desktop or laptop PCs running pretty much any operating system \u00e2\u20ac\u201d Windows, Linux, Mac or Solaris \u00e2\u20ac\u201d to run multiple, different operating systems side-by-side, switching between them with just a click of the mouse.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[72,
+       20],
+      "assets/images/resized/0004/1773/41773v1-max-150x150.png"],
+     [[72,
+       20],
+      "assets/images/resized/0004/1773/41773v1-max-250x250.png"],
+     [[72,
+       20],
+      "assets/images/resized/0004/1773/41773v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "unattributed",
+      "source_url": "",
+      "source_description": "EDGAR",
+      "raised_amount": 6500000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2007,
+      "funded_month": 7,
+      "funded_day": 10,
+      "company":
+       {"name": "Daylight Solutions",
+        "permalink": "daylight-solutions",
+        "image":
+         {"available_sizes":
+           [[[150,
+              35],
+             "assets/images/resized/0006/9789/69789v1-max-150x150.png"],
+            [[250,
+              58],
+             "assets/images/resized/0006/9789/69789v1-max-250x250.png"],
+            [[263,
+              62],
+             "assets/images/resized/0006/9789/69789v1-max-450x450.png"]],
+          "attribution": null}}}}],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://venturebeat.com/2008/02/13/sun-continues-open-source-rampage-buys-pc-virtualization-company-innotek/",
+   "source_description": "VentureBeat",
+   "acquired_year": 2008,
+   "acquired_month": 2,
+   "acquired_day": 20,
+   "acquiring_company":
+    {"name": "Sun Microsystems",
+     "permalink": "sun-microsystems",
+     "image":
+      {"available_sizes":
+        [[[150,
+           71],
+          "assets/images/resized/0001/6586/16586v2-max-150x150.png"],
+         [[180,
+           86],
+          "assets/images/resized/0001/6586/16586v2-max-250x250.png"],
+         [[180,
+           86],
+          "assets/images/resized/0001/6586/16586v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Werkstrasse 24",
+    "address2": "",
+    "zip_code": "71384 ",
+    "city": "Weinstadt",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 48.8158877,
+    "longitude": 9.3755648}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0004/1774/41774v1-max-150x150.png"],
+      [[250,
+        154],
+       "assets/images/resized/0004/1774/41774v1-max-250x250.png"],
+      [[450,
+        278],
+       "assets/images/resized/0004/1774/41774v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

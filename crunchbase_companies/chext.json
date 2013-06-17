@@ -1,0 +1,128 @@
+{"name": "Chext",
+ "permalink": "chext",
+ "crunchbase_url": "http://www.crunchbase.com/company/chext",
+ "homepage_url": "http://chext.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "chextapp",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "personal-finance, sms-checkbook, get-out-of-debt, balance-checkbook, share-checking-account-with-sms, online-tools, text-messaging, sms",
+ "alias_list": null,
+ "email_address": "info@chext.net",
+ "phone_number": "616-550-2616",
+ "description": "Text Message Checkbook",
+ "created_at": "Sun Jan 02 18:28:17 UTC 2011",
+ "updated_at": "Sat Dec 03 01:02:00 UTC 2011",
+ "overview": "\u003Cp\u003EChext is a way to balance your checking account through text messaging. \u003C/p\u003E\n\n\u003Cp\u003EYou text your deposits and withdrawals to chext, and it does the math for you and replies with your balance. If you want, you can also link your chext account to another person so you can see their debits and your new updated balance.\u003C/p\u003E\n\n\u003Cp\u003EChext takes all the work out of maintaining a checkbook especially if you share a checking account.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "Samuel",
+      "last_name": "Bowles",
+      "permalink": "samuel-bowles",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Montgomery",
+      "permalink": "ryan-montgomery",
+      "image": null}},
+   {"is_past": false,
+    "title": "Cofounder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Bell",
+      "permalink": "jeff-bell",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "SMS Gateway",
+    "is_past": false,
+    "provider":
+     {"name": "Twilio",
+      "permalink": "twilio",
+      "image": null}},
+   {"title": "Web Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image": null}},
+   {"title": "Subscription Management",
+    "is_past": false,
+    "provider":
+     {"name": "Recurly",
+      "permalink": "recurly",
+      "image": null}},
+   {"title": "Scalable Worker Queues",
+    "is_past": false,
+    "provider":
+     {"name": "RedisToGo",
+      "permalink": "redistogo",
+      "image": null}},
+   {"title": "Scalable DNS Management",
+    "is_past": false,
+    "provider":
+     {"name": "Zerigo DNS",
+      "permalink": "zerigo-dns",
+      "image": null}},
+   {"title": "Performance Monitoring",
+    "is_past": false,
+    "provider":
+     {"name": "New Relic",
+      "permalink": "new-relic",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        126],
+       "assets/images/resized/0011/5977/115977v2-max-150x150.png"],
+      [[250,
+        211],
+       "assets/images/resized/0011/5977/115977v2-max-250x250.png"],
+      [[450,
+        380],
+       "assets/images/resized/0011/5977/115977v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0011/5978/115978v2-max-150x150.png"],
+      [[250,
+        179],
+       "assets/images/resized/0011/5978/115978v2-max-250x250.png"],
+      [[450,
+        322],
+       "assets/images/resized/0011/5978/115978v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

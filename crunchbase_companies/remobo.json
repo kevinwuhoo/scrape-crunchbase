@@ -1,0 +1,122 @@
+{"name": "Remobo",
+ "permalink": "remobo",
+ "crunchbase_url": "http://www.crunchbase.com/company/remobo",
+ "homepage_url": "http://www.remobo.com",
+ "blog_url": "http://www.remobo.com/blog/",
+ "blog_feed_url": "http://www.remobo.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "networking, software, social-network, vpn, remote-access, p2p, peer-to-peer",
+ "alias_list": null,
+ "email_address": "admin@remobo.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sat Jan 17 18:51:28 UTC 2009",
+ "updated_at": "Mon Nov 16 19:55:47 UTC 2009",
+ "overview": "\u003Cp\u003ERemobo creates an instant private network between users\u0026#8230; its like a computer network for your social network.\u003C/p\u003E\n\n\u003Cp\u003EUsers in your network are arranged in your \u0026#8220;buddy list\u0026#8221; much like a traditional IM program\u0026#8230; but instead of just messaging connectivity, you are now connected via a secure, virtual network.\u003C/p\u003E\n\n\u003Cp\u003ERemobo allows you to:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ERemote control your home computer and access files while at work or traveling.\u003C/li\u003E\n\u003Cli\u003EPrivately share large files like photos \u0026amp; docs between computers or with friends \u0026amp; family.\u003C/li\u003E\n\u003Cli\u003ERun games, video conferencing, streaming media, secure instant messaging \u0026amp; more.\u003C/li\u003E\n\u003Cli\u003ERun any existing third party networking application over Remobo.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0003/4114/34114v2-max-150x150.png"],
+     [[208,
+       60],
+      "assets/images/resized/0003/4114/34114v2-max-250x250.png"],
+     [[208,
+       60],
+      "assets/images/resized/0003/4114/34114v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Remobo",
+    "permalink": "remobo",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Gee-Hwan",
+      "last_name": "Chuang",
+      "permalink": "gee-hwan-chuang",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jeffrey",
+      "last_name": "Chang",
+      "permalink": "jeffrey-chang",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hamachi",
+      "permalink": "hamachi",
+      "image": null}},
+   {"competitor":
+     {"name": "GoToMyPC",
+      "permalink": "gotomypc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0016/2738/162738v1-max-150x150.jpg"],
+          [[194,
+            58],
+           "assets/images/resized/0016/2738/162738v1-max-250x250.jpg"],
+          [[194,
+            58],
+           "assets/images/resized/0016/2738/162738v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LogMeIn",
+      "permalink": "logmein",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0004/0566/40566v2-max-150x150.jpg"],
+          [[250,
+            86],
+           "assets/images/resized/0004/0566/40566v2-max-250x250.jpg"],
+          [[450,
+            155],
+           "assets/images/resized/0004/0566/40566v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[82,
+        150],
+       "assets/images/resized/0003/4113/34113v2-max-150x150.png"],
+      [[131,
+        239],
+       "assets/images/resized/0003/4113/34113v2-max-250x250.png"],
+      [[131,
+        239],
+       "assets/images/resized/0003/4113/34113v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.online-tech-tips.com/software-reviews/share-your-desktop-remotely-for-free/",
+    "title": "Remobo Review"}]}

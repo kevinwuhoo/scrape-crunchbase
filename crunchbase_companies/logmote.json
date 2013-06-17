@@ -1,0 +1,151 @@
+{"name": "LogMote",
+ "permalink": "logmote",
+ "crunchbase_url": "http://www.crunchbase.com/company/logmote",
+ "homepage_url": "http://www.logmote.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "logmote",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 14,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "iphone, android, security, safe, authentication, password, qr-code, qrcode, nfc, login, technology",
+ "alias_list": null,
+ "email_address": "info@logmote.com",
+ "phone_number": "",
+ "description": "Smartphone authentication technology",
+ "created_at": "Sat Mar 09 18:19:19 UTC 2013",
+ "updated_at": "Sat Mar 09 18:31:04 UTC 2013",
+ "overview": "\u003Cp\u003ELogMote is a patented contactless authentication technology initiated by the scan of a QR code. LogMote stores encrypted logins/passwords on your smartphone. Your smartphone becomes a contactless key.\u003C/p\u003E\n\n\u003Cp\u003ESurfing on the web is not always secure. A wide variety of attacks exist like phishing and keylogging.\nLogMote will protect you against phishing by offering you identification only on the right web site. In the same way, LogMote protects you agains keyloggers as you do not have to enter your passwords manually.\u003C/p\u003E\n\n\u003Cp\u003EThis technology is integrated with 3 offers:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EA BtoC offer with a Freemium / Premium mode available in App Store and Google Play.\u003C/li\u003E\n\u003Cli\u003EA BtoB offer in SaaS mode.\u003C/li\u003E\n\u003Cli\u003EAnd an SDK to integrate our technology into third-party solutions\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003ELogMote was founded by security experts. They contributed to new approaches in computer security such as malware behavioral detection and adapted response strategies. This security expertise and innovative philosophy is now at the service of LogMote.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0024/1281/241281v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0024/1281/241281v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0024/1281/241281v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Yann",
+      "last_name": "TORRENT",
+      "permalink": "yann-torrent",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "1password",
+      "permalink": "1password",
+      "image": null}},
+   {"competitor":
+     {"name": "Dashlane",
+      "permalink": "dashlane",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0013/3716/133716v10-max-150x150.png"],
+          [[190,
+            56],
+           "assets/images/resized/0013/3716/133716v10-max-250x250.png"],
+          [[190,
+            56],
+           "assets/images/resized/0013/3716/133716v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LastPass",
+      "permalink": "lastpass",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0002/4102/24102v7-max-150x150.png"],
+          [[164,
+            20],
+           "assets/images/resized/0002/4102/24102v7-max-250x250.png"],
+          [[164,
+            20],
+           "assets/images/resized/0002/4102/24102v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RSA SecurID",
+      "permalink": "rsa-securid",
+      "image": null}},
+   {"competitor":
+     {"name": "Fortinet",
+      "permalink": "fortinet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0005/7170/57170v1-max-150x150.jpg"],
+          [[250,
+            106],
+           "assets/images/resized/0005/7170/57170v1-max-250x250.jpg"],
+          [[300,
+            128],
+           "assets/images/resized/0005/7170/57170v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Entrust",
+      "permalink": "entrust",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0014/7333/147333v2-max-150x150.png"],
+          [[250,
+            110],
+           "assets/images/resized/0014/7333/147333v2-max-250x250.png"],
+          [[450,
+            199],
+           "assets/images/resized/0014/7333/147333v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "15 rue de WATTIGNIES",
+    "address2": "",
+    "zip_code": "75012",
+    "city": "PARIS",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.8366701,
+    "longitude": 2.3934262}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.makeuseof.com/dir/logmote-use-your-smartphone-for-online-authentication/",
+    "title": ""},
+   {"external_url": "http://www.addictivetips.com/android/logmote-quick-remote-website-login-on-desktop-via-android-iphone/?utm_source=feedburner\u0026utm_medium=twitter\u0026utm_campaign=Feed%3A+Addictivetips+%28AddictiveTips%29",
+    "title": ""},
+   {"external_url": "http://voices.yahoo.com/the-future-passwords-11855908.html",
+    "title": ""},
+   {"external_url": "http://www.appcraver.com/logmote-passwords/#.UObnfl-loTo.twitter",
+    "title": ""}]}

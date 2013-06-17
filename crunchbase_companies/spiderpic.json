@@ -1,0 +1,113 @@
+{"name": "SpiderPic",
+ "permalink": "spiderpic",
+ "crunchbase_url": "http://www.crunchbase.com/company/spiderpic",
+ "homepage_url": "http://www.spiderpic.com",
+ "blog_url": "http://www.spiderpic.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "spiderpic_com",
+ "category_code": "search",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "stock-photography, search, photos, price-comparison",
+ "alias_list": null,
+ "email_address": "contact@spiderpic.com",
+ "phone_number": "",
+ "description": "Stock Photography Search Engine",
+ "created_at": "Mon Jan 18 21:44:39 UTC 2010",
+ "updated_at": "Sun Mar 21 23:52:44 UTC 2010",
+ "overview": "\u003Cp\u003ESpiderPic is a price-comparison search engine for Stock Photography.\u003C/p\u003E\n\n\u003Cp\u003EWhile the majority of Royalty Free stock photos are available at different agencies and at different price levels, pinpointing the exact image in two separate places is nearly impossible. Costs vary between agencies because of the factors that affect how prices are calculated: number of views or downloads a photo has, the success of a specific photographer, pricing strategies, etc.\u003C/p\u003E\n\n\u003Cp\u003EWith SpiderPic you can find the photos you want, compare their prices, and ultimately get the one with the lowest price available. SpiderPic makes it extremely easy to search all the popular stock agencies simultaneously. It also allow you to simply enter the URL of any stock photo you found on the web, see where that photo is available from, and at what price.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0007/3858/73858v2-max-150x150.png"],
+     [[185,
+       55],
+      "assets/images/resized/0007/3858/73858v2-max-250x250.png"],
+     [[185,
+       55],
+      "assets/images/resized/0007/3858/73858v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Orr",
+      "last_name": "Sella",
+      "permalink": "orr-sella",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0007/3859/73859v2-max-150x150.jpg"],
+          [[250,
+            165],
+           "assets/images/resized/0007/3859/73859v2-max-250x250.jpg"],
+          [[450,
+            298],
+           "assets/images/resized/0007/3859/73859v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Lior",
+      "last_name": "Weinstein",
+      "permalink": "lior-weinstein",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        150],
+       "assets/images/resized/0007/3856/73856v2-max-150x150.png"],
+      [[250,
+        250],
+       "assets/images/resized/0007/3856/73856v2-max-250x250.png"],
+      [[450,
+        450],
+       "assets/images/resized/0007/3856/73856v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        119],
+       "assets/images/resized/0007/3857/73857v2-max-150x150.png"],
+      [[250,
+        198],
+       "assets/images/resized/0007/3857/73857v2-max-250x250.png"],
+      [[396,
+        315],
+       "assets/images/resized/0007/3857/73857v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.microstockdiaries.com/the-picscout-image-irc-and-imageexchange-explained.html",
+    "title": "Microstock Comparison Websites Review"},
+   {"external_url": "http://blog.melchersystem.com/2010/01/18/a-microstock-price-war/",
+    "title": "A Microstock Price War?"},
+   {"external_url": "http://photobusinessforum.blogspot.com/2010/01/spiderpic-how-stupid-can-photographers.html",
+    "title": "SpiderPic - How Stupid Can Photographers Be?"}]}

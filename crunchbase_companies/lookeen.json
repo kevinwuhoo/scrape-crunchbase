@@ -1,0 +1,124 @@
+{"name": "Lookeen",
+ "permalink": "lookeen",
+ "crunchbase_url": "http://www.crunchbase.com/company/lookeen",
+ "homepage_url": "http://www.lookeen.net",
+ "blog_url": "http://lookeen.net/Blog/?lang=de",
+ "blog_feed_url": "",
+ "twitter_username": "LookeenSearch",
+ "category_code": "search",
+ "number_of_employees": 20,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "outlook-search, outlook-plugin, email-search, citrx, terminal-server",
+ "alias_list": null,
+ "email_address": "info@lookeen.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Jun 02 22:22:42 UTC 2008",
+ "updated_at": "Tue Nov 02 15:50:35 UTC 2010",
+ "overview": "\u003Cp\u003ELookeen is a search tool for Outlook that helps users sift through all their emails, contacts, calendar items and notes to easily find the information they are looking for.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0001/9837/19837v1-max-150x150.jpg"],
+     [[250,
+       53],
+      "assets/images/resized/0001/9837/19837v1-max-250x250.jpg"],
+     [[290,
+       62],
+      "assets/images/resized/0001/9837/19837v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Welker",
+      "permalink": "martin-welker",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0006/2506/62506v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0006/2506/62506v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0006/2506/62506v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Oehler",
+      "permalink": "peter-oehler",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Xobni",
+      "permalink": "xobni",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/0568/568v2-max-150x150.png"],
+          [[198,
+            65],
+           "assets/images/resized/0000/0568/568v2-max-250x250.png"],
+          [[198,
+            65],
+           "assets/images/resized/0000/0568/568v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ClearContext",
+      "permalink": "clearcontext",
+      "image":
+       {"available_sizes":
+         [[[40,
+            40],
+           "assets/images/resized/0001/8799/18799v2-max-150x150.jpg"],
+          [[40,
+            40],
+           "assets/images/resized/0001/8799/18799v2-max-250x250.jpg"],
+          [[40,
+            40],
+           "assets/images/resized/0001/8799/18799v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Kaiserstra\u00c3\u0178e 109",
+    "address2": "",
+    "zip_code": "76133",
+    "city": "Karlsruhe",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 49.009455,
+    "longitude": 8.407167}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

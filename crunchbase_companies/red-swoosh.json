@@ -1,0 +1,159 @@
+{"name": "Red Swoosh",
+ "permalink": "red-swoosh",
+ "crunchbase_url": "http://www.crunchbase.com/company/red-swoosh",
+ "homepage_url": "http://www.redswoosh.net/",
+ "blog_url": "http://www.redswoosh.net/blog/",
+ "blog_feed_url": "http://www.redswoosh.net/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "1-866-521-6682",
+ "description": null,
+ "created_at": "Fri May 02 20:46:28 UTC 2008",
+ "updated_at": "Fri Jun 11 08:51:49 UTC 2010",
+ "overview": "\u003Cp\u003ERed Swoosh is a Peer to Peer networking client from Akamai Technologies that downloads and sideloads video multicasts from websites that support the Red Swoosh technology. The Red Swoosh peercasting tool is a browser extension caches data, reflecting and sharing files delivered through the \u0026#8220;Swoosh network\u0026#8221; or Distributed Network.\nRed Swoosh utilizes a proprietary, peer-to-peer (P2P) file distribution protocol, designed for bandwidth efficiency in the transfer of large media files.\nThe company offers a software development kit (SDK) for third-party development. This includes support for predelivery, RSS feeds, web widgets, and JavaScript applications. There is also a forum and a wiki available for the developer community.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0001/7960/17960v1-max-150x150.png"],
+     [[168,
+       57],
+      "assets/images/resized/0001/7960/17960v1-max-250x250.png"],
+     [[168,
+       57],
+      "assets/images/resized/0001/7960/17960v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Travis",
+      "last_name": "Kalanick",
+      "permalink": "travis-kalanick",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0013/4066/134066v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0013/4066/134066v2-max-250x250.jpg"],
+          [[300,
+            300],
+           "assets/images/resized/0013/4066/134066v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Engineering Manager",
+    "person":
+     {"first_name": "David",
+      "last_name": "Barrett",
+      "permalink": "david-barrett",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0001/7959/17959v3-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0001/7959/17959v3-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0001/7959/17959v3-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Witold",
+      "last_name": "Stankiewicz",
+      "permalink": "witold-stankiewicz",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.73M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://paidcontent.org/article/red-swoosh-gets-173-million/",
+    "source_description": "Red Swoosh Gets $1.73 Million",
+    "raised_amount": 1730000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 2,
+    "funded_day": 21,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "August Capital",
+         "permalink": "august-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               16],
+              "assets/images/resized/0000/4018/4018v1-max-150x150.jpg"],
+             [[250,
+               27],
+              "assets/images/resized/0000/4018/4018v1-max-250x250.jpg"],
+             [[300,
+               33],
+              "assets/images/resized/0000/4018/4018v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Radical Investments",
+         "permalink": "radical-investments",
+         "image": null},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 15000000.0,
+   "price_currency_code": "USD",
+   "term_code": "stock",
+   "source_url": "http://www.techcrunch.com/2007/04/12/payday-for-red-swoosh-15-million-from-akamai/",
+   "source_description": "Payday for Red Swoosh 15 million from Akamai/",
+   "acquired_year": 2007,
+   "acquired_month": 4,
+   "acquired_day": 12,
+   "acquiring_company":
+    {"name": "Akamai Technologies",
+     "permalink": "akamai-technologies",
+     "image":
+      {"available_sizes":
+        [[[105,
+           45],
+          "assets/images/resized/0000/4285/4285v1-max-150x150.png"],
+         [[105,
+           45],
+          "assets/images/resized/0000/4285/4285v1-max-250x250.png"],
+         [[105,
+           45],
+          "assets/images/resized/0000/4285/4285v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

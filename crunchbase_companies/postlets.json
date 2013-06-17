@@ -1,0 +1,138 @@
+{"name": "Postlets",
+ "permalink": "postlets",
+ "crunchbase_url": "http://www.crunchbase.com/company/postlets",
+ "homepage_url": "http://www.postlets.com/",
+ "blog_url": "http://blog.postlets.com/",
+ "blog_feed_url": "http://blog.postlets.com/?feed=rss2",
+ "twitter_username": "zillow",
+ "category_code": null,
+ "number_of_employees": 3,
+ "founded_year": 2006,
+ "founded_month": 2,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@postlets.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Mar 27 00:22:47 UTC 2008",
+ "updated_at": "Tue Mar 19 11:49:40 UTC 2013",
+ "overview": "\u003Cp\u003EPostlets is a web service to post your apartment/housing ad easily to many different marketplaces.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0001/9507/19507v1-max-150x150.png"],
+     [[250,
+       64],
+      "assets/images/resized/0001/9507/19507v1-max-250x250.png"],
+     [[310,
+       80],
+      "assets/images/resized/0001/9507/19507v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Asher",
+      "last_name": "Matsuda",
+      "permalink": "asher-matsuda",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Raymond",
+      "last_name": "Chen",
+      "permalink": "raymond-chen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rent Marketer",
+      "permalink": "rent-marketer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/6427/16427v1-max-150x150.jpg"],
+          [[250,
+            63],
+           "assets/images/resized/0001/6427/16427v1-max-250x250.jpg"],
+          [[300,
+            76],
+           "assets/images/resized/0001/6427/16427v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "vFlyer",
+      "permalink": "vflyer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/8511/18511v3-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/8511/18511v3-max-250x250.jpg"],
+          [[450,
+            163],
+           "assets/images/resized/0001/8511/18511v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/04/11/zillow-buys-real-estate-listings-creation-and-distribution-tool-postlets/",
+   "source_description": "Zillow Buys Real Estate Listings Creation And Distribution Tool Postlets",
+   "acquired_year": 2011,
+   "acquired_month": 4,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Zillow",
+     "permalink": "zillow",
+     "image":
+      {"available_sizes":
+        [[[150,
+           47],
+          "assets/images/resized/0000/0946/946v7-max-150x150.png"],
+         [[250,
+           79],
+          "assets/images/resized/0000/0946/946v7-max-250x250.png"],
+         [[400,
+           127],
+          "assets/images/resized/0000/0946/946v7-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/6542/46542v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0004/6542/46542v1-max-250x250.png"],
+      [[450,
+        282],
+       "assets/images/resized/0004/6542/46542v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

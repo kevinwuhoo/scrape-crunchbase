@@ -1,0 +1,179 @@
+{"name": "Sandvine",
+ "permalink": "sandvine",
+ "crunchbase_url": "http://www.crunchbase.com/company/sandvine",
+ "homepage_url": "http://www.sandvine.com/",
+ "blog_url": "",
+ "blog_feed_url": "http://feeds.feedburner.com/SandvinePressReleases",
+ "twitter_username": "",
+ "category_code": "public_relations",
+ "number_of_employees": 300,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "dpi, deep-packet-inspection, dsl, cable, wireless, mobile, service-providers",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "+1 519 880 2250",
+ "description": "Intelligent Broadband Networks",
+ "created_at": "Sat Oct 17 02:14:10 UTC 2009",
+ "updated_at": "Mon Oct 19 17:31:08 UTC 2009",
+ "overview": "\u003Cp\u003ESandvine is focused on protecting and improving the quality of experience on the Internet. Our award-winning network equipment and solutions help cable, DSL, FTTx, fixed wireless and mobile operators better serve their subscribers and understand network trends; offer new services; mitigate malicious traffic;  manage network congestion; and deliver QoS-prioritized multimedia services. With customers in more than 70 countries serving over a hundred million broadband and wireless subscribers, Sandvine is enhancing the Internet experience worldwide.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0006/2992/62992v2-max-150x150.jpg"],
+     [[250,
+       66],
+      "assets/images/resized/0006/2992/62992v2-max-250x250.jpg"],
+     [[450,
+       120],
+      "assets/images/resized/0006/2992/62992v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, President and CEO",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Caputo",
+      "permalink": "dave-caputo",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Marc",
+      "last_name": "Morin",
+      "permalink": "marc-morin-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Bart",
+      "last_name": "Ciak",
+      "permalink": "bart-ciak",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/6686/256686v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/6686/256686v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/6686/256686v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Bart",
+      "last_name": "Ciak",
+      "permalink": "bart-ciak",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/6686/256686v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/6686/256686v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0025/6686/256686v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Allot Communications",
+      "permalink": "allot-communications",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0006/4693/64693v1-max-150x150.png"],
+          [[190,
+            72],
+           "assets/images/resized/0006/4693/64693v1-max-250x250.png"],
+          [[190,
+            72],
+           "assets/images/resized/0006/4693/64693v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Procera Networks",
+      "permalink": "procera-networks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0002/5661/25661v4-max-150x150.jpg"],
+          [[250,
+            44],
+           "assets/images/resized/0002/5661/25661v4-max-250x250.jpg"],
+          [[450,
+            79],
+           "assets/images/resized/0002/5661/25661v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Arbor Networks",
+      "permalink": "arbor-networks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0006/4455/64455v1-max-150x150.jpg"],
+          [[161,
+            45],
+           "assets/images/resized/0006/4455/64455v1-max-250x250.jpg"],
+          [[161,
+            45],
+           "assets/images/resized/0006/4455/64455v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Narus",
+      "permalink": "narus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0005/3637/53637v4-max-150x150.png"],
+          [[250,
+            108],
+           "assets/images/resized/0005/3637/53637v4-max-250x250.png"],
+          [[450,
+            195],
+           "assets/images/resized/0005/3637/53637v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "408 Albert Street",
+    "address2": "",
+    "zip_code": "N2L 3V3",
+    "city": "Waterloo",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,85 @@
+{"name": "Webuzo",
+ "permalink": "webuzo",
+ "crunchbase_url": "http://www.crunchbase.com/company/webuzo",
+ "homepage_url": "http://webuzo.com",
+ "blog_url": "http://www.webuzo.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "Webuzo",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "webuzocloudlauncher-standalone-panel-cloud-panel-wordpress",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Webuzo is Softaculous STANDALONE and it ",
+ "created_at": "Wed Jan 18 09:50:41 UTC 2012",
+ "updated_at": "Fri Jan 20 19:24:17 UTC 2012",
+ "overview": "\u003Cp\u003EWebuzo is Softaculous STANDALONE and it doesn\u2019t need a PANEL.\u003C/p\u003E\n\n\u003Cp\u003EYou can install Webuzo on any VPS, Dedicated Server or deploy it in the form of Virtual Appliances. \nWebuzo has all the 259 Apps of Softaculous and we are adding more as well :) \nIn addition it also has Domain Management Capabilities, MySQL Management, phpMyAdmin, FTP Support, etc. \u003C/p\u003E\n\n\u003Cp\u003ESo what is so different about Webuzo ? \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EWell you dont need a control panel in the first place, so you save on the resources a Control Panel uses. \u003C/li\u003E\n\u003Cli\u003EThe performance of your Apps are much better. \u003C/li\u003E\n\u003Cli\u003EYou are in full control of your machine and no other user can interfere with your machine \u003C/li\u003E\n\u003Cli\u003EYou can deploy 259 Apps. \u003C/li\u003E\n\u003Cli\u003EPHP, MySQL, PERL is also supported. \u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EThe Demo of Webuzo is available at the following URL : \nhttp://demo.webuzo.com/enduser/ (Enduser Interface to install Apps) \nhttp://demo.webuzo.com/ (Admin Inetrface) \u003C/p\u003E\n\n\u003Cp\u003EWhat is Webuzo Virtual Appliances ? \nA Webuzo Virtual Appliance is a virtual machine that has all the server based applications packed in a single unit that makes it much easier to use. \nWebuzo Virtual Appliances can help you deploy Apps much faster and save your precious time so that you can concentrate on your work. \nAt present we offer more than 160+ Virtual Appliances. These Virtual Appliances are compatible with VMWare products and Oracle\u0026#8217;s VirtualBox. \nOur virtual appliance is based on CentOS x86_64 Platform. \nYou can deploy Webuzo Virtual Appliances on your Desktop, in the Office or for local Intranet usage. \u003C/p\u003E\n\n\u003Cp\u003EWe have made a Video of how easy it is to use a Webuzo Virtual Appliance : \nhttp://www.youtube.com/watch?v=BkgHB6UUBh4 \u003C/p\u003E\n\n\u003Cp\u003EYou can Download any of the Virtual Appliances from our Webuzo.com by visiting the respective Application page. e.g. you get the MediWiki Virtual Appliance from the following link : \nhttp://www.webuzo.com/apps/php/wikis/MediaWiki \u003C/p\u003E\n\n\u003Cp\u003ESo whats the installation procedure in case of VPS and Dedicated Servers ? \nInstalling Webuzo is very simple. You can install Webuzo on any freshly installed CentOS Machine : \nhttp://www.webuzo.com/wiki/Install \u003C/p\u003E\n\n\u003Cp\u003ECan I deploy this on the Cloud ? \nYes, you can as long you use a CentOS instance. We are also working on a interface where you can deploy Apps in seconds on Clouds like the Amazon EC2, RackSpace Cloud, etc. \u003C/p\u003E\n\n\u003Cp\u003EIs this a Shared Hosting Control Panel ? \nNo, it is not a Shared hosting control panel as only one user can be created. \nYou can add any number of Domains and subdomains but only under the single account created. \nSince its not a Shared Hosting Panel it works much faster as it has only the required server software for these Apps. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0017/0680/170680v2-max-150x150.png"],
+     [[200,
+       200],
+      "assets/images/resized/0017/0680/170680v2-max-250x250.png"],
+     [[200,
+       200],
+      "assets/images/resized/0017/0680/170680v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject style=\"height: 390px; width: 640px\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/G_Fla6WaEmE?version=3\u0026feature=player_detailpage\"\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003Cparam name=\"allowScriptAccess\" value=\"always\"\u003E\u003Cembed src=\"http://www.youtube.com/v/G_Fla6WaEmE?version=3\u0026feature=player_detailpage\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"640\" height=\"360\"\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003ERun Webuzo through VMware Workstation \u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0017/0679/170679v2-max-150x150.png"],
+      [[250,
+        187],
+       "assets/images/resized/0017/0679/170679v2-max-250x250.png"],
+      [[450,
+        337],
+       "assets/images/resized/0017/0679/170679v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        114],
+       "assets/images/resized/0017/0827/170827v2-max-150x150.png"],
+      [[250,
+        191],
+       "assets/images/resized/0017/0827/170827v2-max-250x250.png"],
+      [[450,
+        344],
+       "assets/images/resized/0017/0827/170827v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

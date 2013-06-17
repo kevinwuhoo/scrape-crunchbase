@@ -1,0 +1,128 @@
+{"name": "Djigzo",
+ "permalink": "djigzo",
+ "crunchbase_url": "http://www.crunchbase.com/company/djigzo",
+ "homepage_url": "http://www.djigzo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email-encryption, open-source",
+ "alias_list": null,
+ "email_address": "martijn@djigzo.com",
+ "phone_number": "",
+ "description": "Djigzo open source email encryption",
+ "created_at": "Wed Feb 03 12:42:45 UTC 2010",
+ "updated_at": "Fri Jun 11 21:45:04 UTC 2010",
+ "overview": "\u003Cp\u003EDjigzo develops open source email encryption software. \u003C/p\u003E\n\n\u003Cp\u003EOur main product is an email encryption gateway that automatically encrypts and decrypts your incoming and outgoing email. Djigzo is compatible with any existing email infrastructure. Djigzo supports two encryption standards: S/MIME and PDF encryption. S/MIME provides authentication, message integrity and non-repudiation and protection against message interception. Email that is encrypted and digitally signed by Djigzo can be read in Outlook, Thunderbird, Gmail and other mail clients. PDF encryption allows secure, encrypted email delivery without requiring any client encryption software. \u003C/p\u003E\n\n\u003Cp\u003EDjigzo is free and open source and can be installed using any of the provided packages for Ubuntu Linux, Red Hat and CentOS. A ready to run \u0026#8220;Virtual Appliance\u0026#8221; for VMware ESX and Workstation is available as well.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[101,
+       40],
+      "assets/images/resized/0009/0246/90246v2-max-150x150.png"],
+     [[101,
+       40],
+      "assets/images/resized/0009/0246/90246v2-max-250x250.png"],
+     [[101,
+       40],
+      "assets/images/resized/0009/0246/90246v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Martijn",
+      "last_name": "Brinkers",
+      "permalink": "martijn-brinkers",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PGP Corporation",
+      "permalink": "pgp-corporation",
+      "image":
+       {"available_sizes":
+         [[[121,
+            57],
+           "assets/images/resized/0001/9503/19503v1-max-150x150.png"],
+          [[121,
+            57],
+           "assets/images/resized/0001/9503/19503v1-max-250x250.png"],
+          [[121,
+            57],
+           "assets/images/resized/0001/9503/19503v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Voltage Security",
+      "permalink": "voltage-security",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/0669/20669v3-max-150x150.jpg"],
+          [[183,
+            62],
+           "assets/images/resized/0002/0669/20669v3-max-250x250.jpg"],
+          [[183,
+            62],
+           "assets/images/resized/0002/0669/20669v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sophos",
+      "permalink": "sophos",
+      "image":
+       {"available_sizes":
+         [[[110,
+            37],
+           "assets/images/resized/0006/9039/69039v1-max-150x150.jpg"],
+          [[110,
+            37],
+           "assets/images/resized/0006/9039/69039v1-max-250x250.jpg"],
+          [[110,
+            37],
+           "assets/images/resized/0006/9039/69039v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cryptzone",
+      "permalink": "cryptzone",
+      "image":
+       {"available_sizes":
+         [[[122,
+            33],
+           "assets/images/resized/0007/0241/70241v1-max-150x150.jpg"],
+          [[122,
+            33],
+           "assets/images/resized/0007/0241/70241v1-max-250x250.jpg"],
+          [[122,
+            33],
+           "assets/images/resized/0007/0241/70241v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

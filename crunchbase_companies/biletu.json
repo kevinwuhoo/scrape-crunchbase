@@ -1,0 +1,130 @@
+{"name": "Biletu",
+ "permalink": "biletu",
+ "crunchbase_url": "http://www.crunchbase.com/company/biletu",
+ "homepage_url": "http://www.biletu.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "biletu",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "receipts, purchases, shopping, e-receipts, organization, email-receipts, e-commerce, digital-receipts, receipt, transactions, on-line, searchable, paper-consumption, point-of-sales-system, card, accountant, electronic-receipts, digital-receipt, paperless",
+ "alias_list": null,
+ "email_address": "hello@biletu.com",
+ "phone_number": "+56977904706",
+ "description": "Receipts and Budget Done Right!",
+ "created_at": "Tue Jan 31 14:47:51 UTC 2012",
+ "updated_at": "Sat Dec 15 04:30:21 UTC 2012",
+ "overview": "\u003Cp\u003EBiletu is a mobile app to pay between friends avoiding the awkwardness using your smartphone.\u003C/p\u003E\n\n\u003Cp\u003EThe main problem that Biletu solve is the awkward moment that the user have when he must to ask to his friends for his money, normally they think that his begging for money because it\u0026#8217;s only 5 dollars but they don\u0026#8217;t realise that he have more then just 1 friend.\u003C/p\u003E\n\n\u003Cp\u003EBiletu is a game changing including photos, audio and location to personal debts and it\u0026#8217;s the first world-wide mobile app to pay between friends.\u003C/p\u003E\n\n\u003Cp\u003EBiletu will be launch late August for Startup Chile DemoDay for iOS then for Android.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0017/2349/172349v4-max-150x150.png"],
+     [[250,
+       106],
+      "assets/images/resized/0017/2349/172349v4-max-250x250.png"],
+     [[450,
+       191],
+      "assets/images/resized/0017/2349/172349v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Felipe",
+      "last_name": "Millan",
+      "permalink": "felipe-millan",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jeremias",
+      "last_name": "de Isquilla",
+      "permalink": "jeremias-de-isquilla",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Carlos",
+      "last_name": "Croquevielle",
+      "permalink": "carlos-croquevielle",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Venmo",
+      "permalink": "venmo",
+      "image":
+       {"available_sizes":
+         [[[143,
+            47],
+           "assets/images/resized/0006/9643/69643v4-max-150x150.png"],
+          [[143,
+            47],
+           "assets/images/resized/0006/9643/69643v4-max-250x250.png"],
+          [[143,
+            47],
+           "assets/images/resized/0006/9643/69643v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$40k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.startupchile.org/100-startups-selected-to-comprise-third-generation/",
+    "source_description": "Startup Chile",
+    "raised_amount": 40000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 12,
+    "funded_day": 16,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "StartUp Chile",
+         "permalink": "startup-chile",
+         "image":
+          {"available_sizes":
+            [[[146,
+               145],
+              "assets/images/resized/0019/7172/197172v2-max-150x150.png"],
+             [[146,
+               145],
+              "assets/images/resized/0019/7172/197172v2-max-250x250.png"],
+             [[146,
+               145],
+              "assets/images/resized/0019/7172/197172v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Startup-Chile Office",
+    "address1": "Av. Providencia 229",
+    "address2": "",
+    "zip_code": "",
+    "city": "Providencia",
+    "state_code": null,
+    "country_code": "CHL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

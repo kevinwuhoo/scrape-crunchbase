@@ -1,0 +1,128 @@
+{"name": "Nth Penguin",
+ "permalink": "nth-penguin",
+ "crunchbase_url": "http://www.crunchbase.com/company/nth-penguin",
+ "homepage_url": "http://www.nthpenguin.com/default.aspx",
+ "blog_url": "http://www.nthpenguin.com/content/blog.aspx",
+ "blog_feed_url": "http://nthpenguin.blogspot.com/feeds/posts/default",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 7,
+ "founded_year": 2007,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "webwidgetry, visual-studio, mashup-studio",
+ "alias_list": null,
+ "email_address": "william.roberts@nthpenguin.com",
+ "phone_number": "920-268-4712",
+ "description": null,
+ "created_at": "Thu Nov 06 16:16:26 UTC 2008",
+ "updated_at": "Sat Nov 15 14:26:17 UTC 2008",
+ "overview": "\u003Cp\u003ENth Penguin develops and markets proprietary software tools that substantially reduce the time and expense of developing web mashups and other rich internet applications.  Squarely in the $7 billion (2007) application tools and development space, the company\u0026#8217;s WebWidgetry suite of tools have been developed and proven in \u0026#8220;real world\u0026#8221; development projects, and are now being adopted by third party application developers and IT departments of all sizes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0002/7946/27946v2-max-150x150.png"],
+     [[250,
+       103],
+      "assets/images/resized/0002/7946/27946v2-max-250x250.png"],
+     [[450,
+       185],
+      "assets/images/resized/0002/7946/27946v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "WebWidgetry",
+    "permalink": "webwidgetry",
+    "image": null},
+   {"name": "WW.DataServices",
+    "permalink": "ww-dataservices",
+    "image": null},
+   {"name": "WW.Interface",
+    "permalink": "ww-interface",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Gahl",
+      "permalink": "ryan-gahl",
+      "image": null}},
+   {"is_past": false,
+    "title": "Deputy CEO ",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Nickel",
+      "permalink": "mark-nickel",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Erin",
+      "last_name": "Quick-Laughlin",
+      "permalink": "erin-quick-laughlin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Visual Web GUI",
+      "permalink": "visual-web-gui",
+      "image": null}},
+   {"competitor":
+     {"name": "CodeSmith",
+      "permalink": "codesmith",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0015/5576/155576v1-max-150x150.jpg"],
+          [[250,
+            57],
+           "assets/images/resized/0015/5576/155576v1-max-250x250.jpg"],
+          [[285,
+            66],
+           "assets/images/resized/0015/5576/155576v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Telerik",
+      "permalink": "telerik",
+      "image":
+       {"available_sizes":
+         [[[107,
+            30],
+           "assets/images/resized/0012/2925/122925v2-max-150x150.png"],
+          [[107,
+            30],
+           "assets/images/resized/0012/2925/122925v2-max-250x250.png"],
+          [[107,
+            30],
+           "assets/images/resized/0012/2925/122925v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NHibernate",
+      "permalink": "nhibernate",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

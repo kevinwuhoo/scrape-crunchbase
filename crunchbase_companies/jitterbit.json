@@ -1,0 +1,134 @@
+{"name": "Jitterbit",
+ "permalink": "jitterbit",
+ "crunchbase_url": "http://www.crunchbase.com/company/jitterbit",
+ "homepage_url": "http://www.jitterbit.com",
+ "blog_url": "http://www.jitterbit.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "jitterbit",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "open-source, data-integration, cloud-computing-integration, application-integration, integration, web-services-integration, saas-integration, soa",
+ "alias_list": "",
+ "email_address": "info@jitterbit.com",
+ "phone_number": "1.877.852.3500",
+ "description": "",
+ "created_at": "Thu May 22 00:08:32 UTC 2008",
+ "updated_at": "Fri Mar 22 09:32:55 UTC 2013",
+ "overview": "\u003Cp\u003EJitterbit creates open source integration software that aims to overcome the challenges of cost and complexity associated with connecting applications, data and systems. \u003C/p\u003E\n\n\u003Cp\u003EJitterbit\u0026#8217;s open source integration solution is a graphical platform for connecting legacy, enterprise and On-Demand applications, including Business Process Fusion, ETL, SaaS, and SOA.    \u003C/p\u003E\n\n\u003Cp\u003EThe Jitterbit Open Source Integration Platform also makes use of sharable integration templates called Jitterpaks that allow the community to reuse common integrations with the most popular web services, application APIs, and databases.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0001/9101/19101v2-max-150x150.png"],
+     [[250,
+       106],
+      "assets/images/resized/0001/9101/19101v2-max-250x250.png"],
+     [[450,
+       191],
+      "assets/images/resized/0001/9101/19101v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sharam",
+      "last_name": "Sasson",
+      "permalink": "sharam-sasson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Informatica",
+      "permalink": "informatica",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/6191/36191v1-max-150x150.png"],
+          [[178,
+            60],
+           "assets/images/resized/0003/6191/36191v1-max-250x250.png"],
+          [[178,
+            60],
+           "assets/images/resized/0003/6191/36191v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Talend",
+      "permalink": "talend",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0001/9568/19568v1-max-150x150.png"],
+          [[177,
+            68],
+           "assets/images/resized/0001/9568/19568v1-max-250x250.png"],
+          [[177,
+            68],
+           "assets/images/resized/0001/9568/19568v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Biztalk",
+      "permalink": "biztalk",
+      "image": null}},
+   {"competitor":
+     {"name": "Cast Iron Systems",
+      "permalink": "castiron-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0005/8302/58302v1-max-150x150.png"],
+          [[250,
+            41],
+           "assets/images/resized/0005/8302/58302v1-max-250x250.png"],
+          [[267,
+            44],
+           "assets/images/resized/0005/8302/58302v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1 Kaiser Plz Ste 701",
+    "address2": "",
+    "zip_code": "94612-3611",
+    "city": "Oakland",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.808884,
+    "longitude": -122.264562}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blogs.eweek.com/masked_intentions/content/enterprise_applications/revenge_of_the_business_systems_analyst.html",
+    "title": "Revenge of the Business Systems Analyst"},
+   {"external_url": "http://blog.internetnews.com/skerner/2009/06/jitterbit-3-expands-open-sourc.html",
+    "title": "Jitterbit 3 expands open source data integration"},
+   {"external_url": "http://www.baselinemag.com/prestitial.php?type=rest\u0026url=http://www.baselinemag.com/c/a/Government/Iowas-IT-Integration-657095/\u0026ref=http://www.jitterbit.com/News/integration-news.php",
+    "title": "Iowa`s IT Integration"},
+   {"external_url": "http://www.cio.com/article/484848/_Ways_IT_Can_Do_Less_with_Less?source=home_ln",
+    "title": "16 Ways IT Can Do Less with Less"},
+   {"external_url": "http://www.informationweek.com/news/software/open_source/showArticle.jhtml?articleID=212002355",
+    "title": "The Open Source Enterprise: Its Time Has Come"}]}

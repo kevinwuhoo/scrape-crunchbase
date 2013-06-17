@@ -1,0 +1,128 @@
+{"name": "Veeda",
+ "permalink": "veeda",
+ "crunchbase_url": "http://www.crunchbase.com/company/veeda",
+ "homepage_url": "http://veedda.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-3-0, content, personalized",
+ "alias_list": null,
+ "email_address": "lior@veedda.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Jan 09 14:26:56 UTC 2009",
+ "updated_at": "Sat Jan 17 14:37:25 UTC 2009",
+ "overview": "\u003Cp\u003EVeedda is developing a unique and new approach to content consumption online. Unlike most online apps we enable the user to consume content based on his topics of interest.\u003C/p\u003E\n\n\u003Cp\u003ERss readers and personal homepages ask the user what websites he wants to consume content from, we on the other hand make it much more simple for the user and only ask him for his topics of interest. From there, our algorithm does all the smart work and creates an app that resembles a personal newspaper. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0003/3612/33612v1-max-150x150.png"],
+     [[250,
+       58],
+      "assets/images/resized/0003/3612/33612v1-max-250x250.png"],
+     [[370,
+       86],
+      "assets/images/resized/0003/3612/33612v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Veedda",
+    "permalink": "veedda",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Lior",
+      "last_name": "Levin",
+      "permalink": "lior-levin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            135],
+           "assets/images/resized/0003/3844/33844v2-max-150x150.jpg"],
+          [[201,
+            182],
+           "assets/images/resized/0003/3844/33844v2-max-250x250.jpg"],
+          [[201,
+            182],
+           "assets/images/resized/0003/3844/33844v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Filtrbox",
+      "permalink": "filtrbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0001/5912/15912v1-max-150x150.png"],
+          [[167,
+            106],
+           "assets/images/resized/0001/5912/15912v1-max-250x250.png"],
+          [[167,
+            106],
+           "assets/images/resized/0001/5912/15912v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Netvibes",
+      "permalink": "netvibes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2974/2974v8-max-150x150.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-250x250.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2008,
+    "funded_month": 8,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tel Aviv",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": 32.0554,
+    "longitude": 34.7595}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

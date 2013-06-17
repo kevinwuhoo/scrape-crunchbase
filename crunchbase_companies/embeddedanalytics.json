@@ -1,0 +1,92 @@
+{"name": "EmbeddedAnalytics",
+ "permalink": "embeddedanalytics",
+ "crunchbase_url": "http://www.crunchbase.com/company/embeddedanalytics",
+ "homepage_url": "http://www.embeddedanalytics.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "google-analytics, web-analytics",
+ "alias_list": null,
+ "email_address": "mschenkel@embeddedanalytics.com",
+ "phone_number": "877-856-4764 ",
+ "description": "Google Analytics Reporting",
+ "created_at": "Sun Jul 10 02:48:20 UTC 2011",
+ "updated_at": "Sun Jul 10 20:37:36 UTC 2011",
+ "overview": "\u003Cp\u003EEmbeddedAnalytics is a 3rd party software service which integrates with Google Analytics and allows you to embed realtime statistical charts and other widgets into your site.  \u003C/p\u003E\n\n\u003Cp\u003EThe service utilizes the Google Analytics Export API.  You define your charts on the EmbeddedAnalytics site and then paste a code snippet in your html code.  The service supports geographical map overlays; vertical, horizontal, line, and pie chart types.  No programming skills are required to integrate EmbeddedAnalytics.\u003C/p\u003E\n\n\u003Cp\u003EOther features:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ECombine data from multiple profiles.\u003C/li\u003E\n\u003Cli\u003EDisplay data from different time frames on the same chart.\u003C/li\u003E\n\u003Cli\u003EHigh level of end-user customization is possible: users can change the size, fonts, and colors of all chart elements.   \u003C/li\u003E\n\u003Cli\u003EContent Management System integration.  If you are a CMS developer, EmbeddedAnalytics has ways for you to easily support statistical reporting for your customers.\u003C/li\u003E\n\u003Cli\u003ENo programming skills are required. \u003C/li\u003E\n\u003Cli\u003EPerfect for advertisers and bloggers who want to share their site traffic.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0014/3330/143330v2-max-150x150.jpg"],
+     [[250,
+       39],
+      "assets/images/resized/0014/3330/143330v2-max-250x250.jpg"],
+     [[275,
+       43],
+      "assets/images/resized/0014/3330/143330v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Schenkel",
+      "permalink": "mark-schenkel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "youcalc",
+      "permalink": "youcalc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0002/7395/27395v3-max-150x150.png"],
+          [[205,
+            79],
+           "assets/images/resized/0002/7395/27395v3-max-250x250.png"],
+          [[205,
+            79],
+           "assets/images/resized/0002/7395/27395v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "PO Box 1042",
+    "address2": "",
+    "zip_code": "14534",
+    "city": "Pittsford",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.google.com/analytics/apps/about?app_id=30001",
+    "title": "EmbeddedAnalytics in Google Analytics App Gallery"}]}

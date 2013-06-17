@@ -1,0 +1,217 @@
+{"name": "Picktor",
+ "permalink": "picktor-labs",
+ "crunchbase_url": "http://www.crunchbase.com/company/picktor-labs",
+ "homepage_url": "http://www.picktor.com",
+ "blog_url": "http://blog.picktor.com",
+ "blog_feed_url": "http://blog.picktor.com/feeds/posts/default",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "photo-sharing, photo-based-social-networking, photo-editing, online-photo-editing, cross-network-tagging, twitter-photo-sharing",
+ "alias_list": null,
+ "email_address": "holler@picktor.com",
+ "phone_number": "",
+ "description": "Photo Management",
+ "created_at": "Wed Dec 10 00:51:40 UTC 2008",
+ "updated_at": "Tue Jul 20 12:47:13 UTC 2010",
+ "overview": "\u003Cp\u003EIn alpha stage, a photo based web tool that helps you to manage, share, tag all of your social networking (i.e. facebook, myspace, etc.) photos and photo sharing website photos (i.e. flickr, photobucket, etc.). In early stage development and alpha users. They also have a twitter photo sharing service that is connected to their photo management tool.\u003C/p\u003E\n\n\u003Cp\u003EA useful web application tool to help manage your photos. Currently no storage available.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       99],
+      "assets/images/resized/0003/1404/31404v5-max-150x150.jpg"],
+     [[250,
+       166],
+      "assets/images/resized/0003/1404/31404v5-max-250x250.jpg"],
+     [[386,
+       257],
+      "assets/images/resized/0003/1404/31404v5-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Victor",
+      "last_name": "Bilandzic",
+      "permalink": "victor-bilandzic",
+      "image": null}},
+   {"is_past": true,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Arjun",
+      "last_name": "Sethi",
+      "permalink": "arjun-sethi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            146],
+           "assets/images/resized/0010/0788/100788v4-max-150x150.jpg"],
+          [[250,
+            244],
+           "assets/images/resized/0010/0788/100788v4-max-250x250.jpg"],
+          [[443,
+            433],
+           "assets/images/resized/0010/0788/100788v4-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Ehttps://twimg0-a.akamaihd.net/profile\u003Cem\u003Eimages/1399618403/254427\u003C/em\u003E10100380260127508\u003Cem\u003E5729041\u003C/em\u003E55672489\u003Cem\u003E6706030\u003C/em\u003En.jpg\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Flickr",
+      "permalink": "flickr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0021/3864/213864v1-max-150x150.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-250x250.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sxoop Technologies",
+      "permalink": "sxoop-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/3368/13368v1-max-150x150.png"],
+          [[250,
+            50],
+           "assets/images/resized/0001/3368/13368v1-max-250x250.png"],
+          [[450,
+            90],
+           "assets/images/resized/0001/3368/13368v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FotoFlexer",
+      "permalink": "fotoflexer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0003/8840/38840v18-max-150x150.png"],
+          [[192,
+            36],
+           "assets/images/resized/0003/8840/38840v18-max-250x250.png"],
+          [[192,
+            36],
+           "assets/images/resized/0003/8840/38840v18-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adobe Systems",
+      "permalink": "adobe-systems",
+      "image":
+       {"available_sizes":
+         [[[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-150x150.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-250x250.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Oosah",
+      "permalink": "oosah",
+      "image":
+       {"available_sizes":
+         [[[143,
+            77],
+           "assets/images/resized/0001/7550/17550v1-max-150x150.png"],
+          [[143,
+            77],
+           "assets/images/resized/0001/7550/17550v1-max-250x250.png"],
+          [[143,
+            77],
+           "assets/images/resized/0001/7550/17550v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pixelpipe",
+      "permalink": "pixelpipe",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/5243/25243v1-max-150x150.png"],
+          [[227,
+            64],
+           "assets/images/resized/0002/5243/25243v1-max-250x250.png"],
+          [[227,
+            64],
+           "assets/images/resized/0002/5243/25243v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TweetPhoto",
+      "permalink": "tweetphoto",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0004/0349/40349v6-max-150x150.png"],
+          [[250,
+            63],
+           "assets/images/resized/0004/0349/40349v6-max-250x250.png"],
+          [[434,
+            111],
+           "assets/images/resized/0004/0349/40349v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitpic",
+      "permalink": "twitpic",
+      "image":
+       {"available_sizes":
+         [[[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-150x150.jpg"],
+          [[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-250x250.jpg"],
+          [[142,
+            47],
+           "assets/images/resized/0002/0224/20224v19-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.775196,
+    "longitude": -122.419204}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mashable.com/2009/05/19/twitter-share-images/",
+    "title": "5 ways to share images on twitter"},
+   {"external_url": "http://www.universityreviewsonline.com/2005/10/100-useful-tutorials-for-the-twittering-librarian.html",
+    "title": "Best Imaging Tools"}]}

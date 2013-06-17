@@ -1,0 +1,116 @@
+{"name": "Faraday Media",
+ "permalink": "faraday-media",
+ "crunchbase_url": "http://www.crunchbase.com/company/faraday-media",
+ "homepage_url": "http://www.faradaymedia.com",
+ "blog_url": "",
+ "blog_feed_url": "http://www.particls.com/blog/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2006,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "attention, particls, dataportability, apml, lifestreams, advertising, media-2.0, ajax",
+ "alias_list": null,
+ "email_address": "contact@faradaymedia.com",
+ "phone_number": "646 797 2890",
+ "description": null,
+ "created_at": "Fri Mar 28 02:13:40 UTC 2008",
+ "updated_at": "Thu Jul 17 00:04:00 UTC 2008",
+ "overview": "\u003Cp\u003EFaraday Media is all about attention; they create products that help users \u0026#8220;experience a personally relevant Internet.\u0026#8221;\u003C/p\u003E\n\n\u003Cp\u003EFaraday Media builds tools to observe user behavior - Attention - to determine user interests. They then apply that knowledge in a way that creates personally relevant Internet experiences.\u003C/p\u003E\n\n\u003Cp\u003ETheir APML open standard allows users to own their Attention Profile. Their Engagd platform allows software developers to add Attention features to their own products. Particls helps users consolidate all their notifications from social networks and news sources for easy, filtered viewing while they work.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0001/6471/16471v1-max-150x150.png"],
+     [[250,
+       72],
+      "assets/images/resized/0001/6471/16471v1-max-250x250.png"],
+     [[266,
+       77],
+      "assets/images/resized/0001/6471/16471v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Particls",
+    "permalink": "particls",
+    "image":
+     {"available_sizes":
+       [[[150,
+          66],
+         "assets/images/resized/0001/6473/16473v1-max-150x150.png"],
+        [[202,
+          89],
+         "assets/images/resized/0001/6473/16473v1-max-250x250.png"],
+        [[202,
+          89],
+         "assets/images/resized/0001/6473/16473v1-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "Engagd",
+    "permalink": "engagd",
+    "image":
+     {"available_sizes":
+       [[[150,
+          54],
+         "assets/images/resized/0001/6474/16474v1-max-150x150.png"],
+        [[170,
+          62],
+         "assets/images/resized/0001/6474/16474v1-max-250x250.png"],
+        [[170,
+          62],
+         "assets/images/resized/0001/6474/16474v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Saad",
+      "permalink": "chris-saad-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0001/6472/16472v1-max-150x150.png"],
+          [[250,
+            187],
+           "assets/images/resized/0001/6472/16472v1-max-250x250.png"],
+          [[450,
+            337],
+           "assets/images/resized/0001/6472/16472v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "GPO Box 1115",
+    "address2": "",
+    "zip_code": "4001",
+    "city": "Brisbane",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/za-W_VXzT8w\u0026hl=en\"\u003E\u003C/param\u003E\u003Cparam name=\"wmode\" value=\"transparent\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/za-W_VXzT8w\u0026hl=en\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003E\u003Ca href=\"http://pitches.techcrunch.com/pitch/32-faraday-media\" title=\"Faraday Media\u0026#8217;s pitch\"\u003EFaraday Media\u0026#8217;s pitch\u003C/a\u003E from TechCrunch Elevator Pitches\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

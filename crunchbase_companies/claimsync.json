@@ -1,0 +1,118 @@
+{"name": "ClaimSync",
+ "permalink": "claimsync",
+ "crunchbase_url": "http://www.crunchbase.com/company/claimsync",
+ "homepage_url": "http://www.claimsync.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "claimsync",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "electronic-claims-submission, medical-billing, electronic-medical-records",
+ "alias_list": null,
+ "email_address": "info@claimsync.com",
+ "phone_number": "+233247628750",
+ "description": "electronic claims submission",
+ "created_at": "Sat Jun 09 12:13:33 UTC 2012",
+ "updated_at": "Tue Jun 26 21:19:46 UTC 2012",
+ "overview": "\u003Cp\u003Eclaimsync is an end-to-end claims processing platform that enables hospitals and other healthcare providers easily prepare medical claims and send them electronically to health insurance companies.  \u003C/p\u003E\n\n\u003Cp\u003EThis application will reduce the volume of paperwork; long processing time; delays in reimbursement; data entry errors and labor costs currently associated with paper medical claims.\u003C/p\u003E\n\n\u003Cp\u003ECreating a new patient record on claimsync is as easy as creating a new email account on Google. Once a patient\u2019s record is added into the system their bio data is automatically entered on the electronic claim form.  Staff can then choose from the ICD-10 diagnosis classifications and common investigations and treatments that have been embedded to complete the claim. \u003C/p\u003E\n\n\u003Cp\u003EThe application is accessible offline for healthcare providers, who only need to connect to the internet when they are ready to send the claims. With a single click, all completed claims are sent to the different insurance companies.  Insurers receive the claims on their dashboard online; can vet the submitted claims there and also send notes on rejected items or claims to the providers. \u003C/p\u003E\n\n\u003Cp\u003EAdditionally, our solution enables service providers verify that a patient on private health insurance is an active member and has enough benefit for treatment given before signing them off.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0019/4629/194629v2-max-150x150.png"],
+     [[250,
+       64],
+      "assets/images/resized/0019/4629/194629v2-max-250x250.png"],
+     [[450,
+       115],
+      "assets/images/resized/0019/4629/194629v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder \u0026 Product Manager",
+    "person":
+     {"first_name": "Ebenezer",
+      "last_name": "Nubuor",
+      "permalink": "ebenezer-nubuor",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder \u0026 CEO",
+    "person":
+     {"first_name": "Seth",
+      "last_name": "Akumani",
+      "permalink": "seth-akumani",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder \u0026 CTO",
+    "person":
+     {"first_name": "Isaac",
+      "last_name": "McSey",
+      "permalink": "isaac-mcsey",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder \u0026 Product Designer",
+    "person":
+     {"first_name": "Emmanuel",
+      "last_name": "Addo-Yirenkyi",
+      "permalink": "emmanuel-addo-yirenkyi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "mediswitch",
+      "permalink": "mediswitch",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://alltopstartups.com/2011/12/02/meltwater-foundation-invests-in-2-new-ghanaian-technology-startups/",
+    "source_description": "Meltwater Foundation Invests In 2 New Ghanaian Technology Startups",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 11,
+    "investments":
+     [{"company":
+        {"name": "Meltwater Foundation",
+         "permalink": "meltwater-foundation",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Ghana Office",
+    "address1": "19 Banana Street, East Legon",
+    "address2": "PMB CT 13, Cantonments",
+    "zip_code": "",
+    "city": "Accra",
+    "state_code": null,
+    "country_code": "GHA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://tekedia.com/39409/accra-innovation-tech-hub-africa/",
+    "title": "Why Accra Is The Next Innovation Tech Hub In Africa"},
+   {"external_url": "http://techcrunch.com/2012/06/14/out-of-africa-a-whole-mest-of-startups-emerges-in-ghana/",
+    "title": "Out Of Africa \u2014 A Whole MEST Of Startups Emerges In Ghana"}]}

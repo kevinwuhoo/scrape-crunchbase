@@ -1,0 +1,149 @@
+{"name": "Codebase",
+ "permalink": "codebase",
+ "crunchbase_url": "http://www.crunchbase.com/company/codebase",
+ "homepage_url": "http://www.codebasehq.com",
+ "blog_url": "http://www.codebasehq.com/blog",
+ "blog_feed_url": "http://feeds.feedburner.com/codebasehqblog",
+ "twitter_username": "codebase",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "git, mercurial, subversion, project-management, ticket-tracking, tickets",
+ "alias_list": null,
+ "email_address": "support@codebasehq.com",
+ "phone_number": "+44 1305 898156",
+ "description": "Software Project Management",
+ "created_at": "Sun Sep 27 21:09:45 UTC 2009",
+ "updated_at": "Mon Oct 19 17:41:14 UTC 2009",
+ "overview": "\u003Cp\u003ECodebase is a software project management tool with Git, Mercurial \u0026amp; Subversion hosting, and an array of tools for software development teams.\u003C/p\u003E\n\n\u003Cp\u003ETools include a ticketing system with milestone support as well as per-project wikis \u0026amp; time tracking support. Each project can also contain an unlimited number of git, mercurial or subversion repositories, any of which can be browsed through the Codebase web interface. Integration with tickets \u0026amp; repository commits is also included allowing users to connect their project management with their actual code.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[127,
+       42],
+      "assets/images/resized/0006/3001/63001v2-max-150x150.png"],
+     [[127,
+       42],
+      "assets/images/resized/0006/3001/63001v2-max-250x250.png"],
+     [[127,
+       42],
+      "assets/images/resized/0006/3001/63001v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Cooke",
+      "permalink": "adam-cooke",
+      "image": null}},
+   {"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Charlie",
+      "last_name": "Smurthwaite",
+      "permalink": "charlie-smurthwaite",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GitHub",
+      "permalink": "github",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0001/7208/17208v9-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0001/7208/17208v9-max-250x250.png"],
+          [[450,
+            120],
+           "assets/images/resized/0001/7208/17208v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Unfuddle",
+      "permalink": "unfuddle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0006/5958/65958v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0006/5958/65958v1-max-250x250.png"],
+          [[270,
+            74],
+           "assets/images/resized/0006/5958/65958v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Beanstalk",
+      "permalink": "beanstalk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0015/3192/153192v1-max-150x150.jpg"],
+          [[250,
+            89],
+           "assets/images/resized/0015/3192/153192v1-max-250x250.jpg"],
+          [[323,
+            116],
+           "assets/images/resized/0015/3192/153192v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Rackspace \u0026 Connectivity",
+    "is_past": true,
+    "provider":
+     {"name": "VPS.NET",
+      "permalink": "vps-net",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0013/1444/131444v3-max-150x150.png"],
+          [[250,
+            97],
+           "assets/images/resized/0013/1444/131444v3-max-250x250.png"],
+          [[271,
+            106],
+           "assets/images/resized/0013/1444/131444v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "Somerleigh Gate",
+    "address2": "Somerleigh Road",
+    "zip_code": "DT1 1TL",
+    "city": "Dorchester",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://drewblas.com/2009/03/07/my-new-love-codebase-hq/",
+    "title": "Drew Blas on Codebase"},
+   {"external_url": "http://blog.charlesarmour.com/2009/08/03/codebasehq-com/",
+    "title": "Charles Armour on Codebase"},
+   {"external_url": "http://www.codebasehq.com/blog/12-codebase-the-technical-story-part-1-",
+    "title": "The Codebase Story (Part 1)"}]}

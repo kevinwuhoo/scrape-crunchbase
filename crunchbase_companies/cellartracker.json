@@ -1,0 +1,105 @@
+{"name": "CellarTracker!",
+ "permalink": "cellartracker",
+ "crunchbase_url": "http://www.crunchbase.com/company/cellartracker",
+ "homepage_url": "http://www.cellartracker.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cellartracker",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2004,
+ "founded_month": 4,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wine-cellar-management-tasting-notes-wine-reviews",
+ "alias_list": null,
+ "email_address": "eric@cellartracker.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sun Jan 11 20:46:22 UTC 2009",
+ "updated_at": "Tue May 07 05:50:21 UTC 2013",
+ "overview": "\u003Cp\u003ECellarTracker is a website that allows wine collectors to catalog their collections and share self-authored wine reviews with the world. And for those merely interested in wine, CellarTracker contains the world\u0026#8217;s largest database of wine reviews.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       82],
+      "assets/images/resized/0003/7076/37076v2-max-150x150.jpg"],
+     [[245,
+       135],
+      "assets/images/resized/0003/7076/37076v2-max-250x250.jpg"],
+     [[245,
+       135],
+      "assets/images/resized/0003/7076/37076v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "CellarTracker",
+    "permalink": "cellartracker",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "LeVine",
+      "permalink": "eric-levine",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Corkd",
+      "permalink": "corkd",
+      "image":
+       {"available_sizes":
+         [[[90,
+            34],
+           "assets/images/resized/0003/3351/33351v1-max-150x150.jpg"],
+          [[90,
+            34],
+           "assets/images/resized/0003/3351/33351v1-max-250x250.jpg"],
+          [[90,
+            34],
+           "assets/images/resized/0003/3351/33351v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adegga",
+      "permalink": "adegga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0001/3743/13743v1-max-150x150.png"],
+          [[160,
+            46],
+           "assets/images/resized/0001/3743/13743v1-max-250x250.png"],
+          [[160,
+            46],
+           "assets/images/resized/0001/3743/13743v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.cellartracker.com/WFW20GoodeUnderground.pdf",
+    "title": "Cellar Management software"},
+   {"external_url": "http://www.cellartracker.com/SteinbergerWineWriting.pdf",
+    "title": "The Future of Wine Writing"},
+   {"external_url": "http://www.nytimes.com/2005/02/03/technology/circuits/03reso.html",
+    "title": " How Fine Is This Wine? Virtual Cellar Could Answer That Question With Ease"}]}

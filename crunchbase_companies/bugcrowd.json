@@ -1,0 +1,96 @@
+{"name": "Bugcrowd",
+ "permalink": "bugcrowd",
+ "crunchbase_url": "http://www.crunchbase.com/company/bugcrowd",
+ "homepage_url": "http://bugcrowd.com",
+ "blog_url": "http://blog.bugcrowd.com",
+ "blog_feed_url": "",
+ "twitter_username": "bugcrowd",
+ "category_code": "security",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "application-security, information-security, crowdsourcing, data-security",
+ "alias_list": null,
+ "email_address": "casey@bugcrowd.com",
+ "phone_number": "+61407252121",
+ "description": "Managed bug bounty programs.",
+ "created_at": "Sat Jan 12 11:26:05 UTC 2013",
+ "updated_at": "Sat Jan 19 05:00:10 UTC 2013",
+ "overview": "\u003Cp\u003ECrowdsourced security testing. Bugcrowd runs managed bug bounty programs for web and mobile applications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0022/9410/229410v2-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0022/9410/229410v2-max-250x250.png"],
+     [[450,
+       111],
+      "assets/images/resized/0022/9410/229410v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Casey",
+      "last_name": "Ellis",
+      "permalink": "caseyjohnellis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0022/1813/221813v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0022/1813/221813v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0022/1813/221813v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Sergei",
+      "last_name": "Belokamen",
+      "permalink": "sergei-belokamen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.startmate.com.au/startmate-announces-intake-for-2013-tech-startup-incubator",
+    "source_description": "Startmate announces intake for 2013",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 12,
+    "funded_day": 6,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

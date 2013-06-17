@@ -1,0 +1,107 @@
+{"name": "MaxPowerSoft",
+ "permalink": "maxpowersoft",
+ "crunchbase_url": "http://www.crunchbase.com/company/maxpowersoft",
+ "homepage_url": "http://www.maxpowersoft.com",
+ "blog_url": "http://www.maxpowersoft.com/blog",
+ "blog_feed_url": "http://www.maxpowersoft.com/blog/feed/",
+ "twitter_username": "maxpowersoft",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software-development-consulting-active-directory-reports-ldap-reporting",
+ "alias_list": "",
+ "email_address": "chris@maxpowersoft.com",
+ "phone_number": "619 540 9985",
+ "description": "",
+ "created_at": "Wed Oct 08 05:26:17 UTC 2008",
+ "updated_at": "Mon Mar 25 07:02:16 UTC 2013",
+ "overview": "\u003Cp\u003EMaxPowerSoft is a company that focuses on software design.  They have designed and built a product named Active Directory Reports.  The product enables System Administrators to easily report on their LDAP server installations.\u003C/p\u003E\n\n\u003Cp\u003EMaxPowerSoft is also recognized for it\u0026#8217;s software consulting services.  They have developed many enterprise ready systems in the VOIP 2.0, satellite communications, and financial industries.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       15],
+      "assets/images/resized/0002/6380/26380v2-max-150x150.png"],
+     [[250,
+       25],
+      "assets/images/resized/0002/6380/26380v2-max-250x250.png"],
+     [[450,
+       46],
+      "assets/images/resized/0002/6380/26380v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Active Directory Reports",
+    "permalink": "active-directory-reports",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Igor",
+      "last_name": "Maksymenko",
+      "permalink": "igor-maksymenko",
+      "image": null}},
+   {"is_past": true,
+    "title": "Owner",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Danielson",
+      "permalink": "chris-danielson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            104],
+           "assets/images/resized/0002/6887/26887v2-max-150x150.jpg"],
+          [[200,
+            139],
+           "assets/images/resized/0002/6887/26887v2-max-250x250.jpg"],
+          [[200,
+            139],
+           "assets/images/resized/0002/6887/26887v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EChris Danielson, Co-founder\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "San Diego",
+    "address1": "",
+    "address2": "",
+    "zip_code": "92131",
+    "city": "San Diego",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 32.908601,
+    "longitude": -117.091176}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        114],
+       "assets/images/resized/0002/6379/26379v2-max-150x150.jpg"],
+      [[250,
+        190],
+       "assets/images/resized/0002/6379/26379v2-max-250x250.jpg"],
+      [[450,
+        343],
+       "assets/images/resized/0002/6379/26379v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

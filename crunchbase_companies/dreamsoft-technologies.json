@@ -1,0 +1,98 @@
+{"name": "Dreamsoft Technologies",
+ "permalink": "dreamsoft-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/dreamsoft-technologies",
+ "homepage_url": "http://www.fileswire.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-based-p2p, p2p, software-development, web-protocal, software-engineering",
+ "alias_list": null,
+ "email_address": "gilest@hotmail.co.uk",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Jun 12 22:08:42 UTC 2008",
+ "updated_at": "Thu Dec 01 07:47:05 UTC 2011",
+ "overview": "\u003Cp\u003EDreamsoft Technologies is a cutting-edge software company that develops and deploys software accross a multitude of infrastructures and platforms. The companys current flagship products are the G3 protocol,G3 API, and the FileWire Service which is essentially an implementation of the aformentioned G3 protocol and api.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       106],
+      "assets/images/resized/0002/0326/20326v2-max-150x150.png"],
+     [[160,
+       114],
+      "assets/images/resized/0002/0326/20326v2-max-250x250.png"],
+     [[160,
+       114],
+      "assets/images/resized/0002/0326/20326v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "FilesWire Web-Based P2P File Sharing Client",
+    "permalink": "fileswire-web-based-p2p-file-sharing-client",
+    "image": null},
+   {"name": "G3 Protocol",
+    "permalink": "g3-protocal",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and Founder",
+    "person":
+     {"first_name": "Giles",
+      "last_name": "Thompson",
+      "permalink": "giles-thompson",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Hamid",
+      "last_name": "Naraghi",
+      "permalink": "hamid-naraghi",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 9,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Manchester Office",
+    "address1": "Rochdale",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 53.616352,
+    "longitude": -2.15871}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

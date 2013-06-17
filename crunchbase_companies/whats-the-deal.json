@@ -1,0 +1,197 @@
+{"name": "What's the Deal",
+ "permalink": "whats-the-deal",
+ "crunchbase_url": "http://www.crunchbase.com/company/whats-the-deal",
+ "homepage_url": "http://sowhatsthedeal.com",
+ "blog_url": "http://blog.sowhatsthedeal.com",
+ "blog_feed_url": "",
+ "twitter_username": "whatsthedealdc",
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "daily-deal, deals, happy-hours, meetups, restaurants, spas, theater-tickets, rob-schutz, brian-jarcho, matthew-burnett-kaliara, wtd",
+ "alias_list": null,
+ "email_address": "info@sowhatsthedeal.com",
+ "phone_number": "888-765-3481",
+ "description": "daily deals \u0026 meetups",
+ "created_at": "Wed Jul 07 21:12:14 UTC 2010",
+ "updated_at": "Wed May 16 04:02:31 UTC 2012",
+ "overview": "\u003Cp\u003EWhat\u0026#8217;s the Deal (WTD) provides daily deals and free weekly happy hours on fun things to do, eat, and see around the Washington DC Metro area.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       120],
+      "assets/images/resized/0009/2662/92662v2-max-150x150.png"],
+     [[250,
+       200],
+      "assets/images/resized/0009/2662/92662v2-max-250x250.png"],
+     [[450,
+       360],
+      "assets/images/resized/0009/2662/92662v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Technical Cofounder",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Kaliara",
+      "permalink": "matthew-kaliara",
+      "image": null}},
+   {"is_past": true,
+    "title": "President and CEO",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Schutz",
+      "permalink": "rob-schutz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            141],
+           "assets/images/resized/0012/5581/125581v4-max-150x150.png"],
+          [[250,
+            235],
+           "assets/images/resized/0012/5581/125581v4-max-250x250.png"],
+          [[450,
+            423],
+           "assets/images/resized/0012/5581/125581v4-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Chief Operating Officer",
+    "person":
+     {"first_name": "Kerry",
+      "last_name": "Cassetta",
+      "permalink": "kerry-cassetta",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chief Technical Offier",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Burnett",
+      "permalink": "matthew-burnett",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Sales",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Jarcho",
+      "permalink": "brian-jarcho",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/5413/265413v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5413/265413v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5413/265413v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Groupon",
+      "permalink": "groupon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/5604/25604v10-max-150x150.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-250x250.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LivingSocial",
+      "permalink": "livingsocial",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0002/2416/22416v5-max-150x150.jpg"],
+          [[250,
+            91],
+           "assets/images/resized/0002/2416/22416v5-max-250x250.jpg"],
+          [[450,
+            163],
+           "assets/images/resized/0002/2416/22416v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BuyWithMe",
+      "permalink": "buywithme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0024/2114/242114v1-max-150x150.png"],
+          [[200,
+            76],
+           "assets/images/resized/0024/2114/242114v1-max-250x250.png"],
+          [[200,
+            76],
+           "assets/images/resized/0024/2114/242114v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://www.bizjournals.com/washington/morning_call/2011/05/coupon-firm-wtd-acquired-by-kgbdeals.html",
+   "source_description": "Washington Business Journal",
+   "acquired_year": 2011,
+   "acquired_month": 4,
+   "acquired_day": 29,
+   "acquiring_company":
+    {"name": "kgbdeals",
+     "permalink": "kgbdeals",
+     "image":
+      {"available_sizes":
+        [[[83,
+           93],
+          "assets/images/resized/0012/2992/122992v2-max-150x150.png"],
+         [[83,
+           93],
+          "assets/images/resized/0012/2992/122992v2-max-250x250.png"],
+         [[83,
+           93],
+          "assets/images/resized/0012/2992/122992v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        73],
+       "assets/images/resized/0018/8684/188684v2-max-150x150.png"],
+      [[250,
+        121],
+       "assets/images/resized/0018/8684/188684v2-max-250x250.png"],
+      [[450,
+        219],
+       "assets/images/resized/0018/8684/188684v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.youtube.com/watch?v=jkRTesqz3EE",
+    "title": "WTD Rap Video (2010)"}]}

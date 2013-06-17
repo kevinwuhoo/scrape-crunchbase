@@ -1,0 +1,93 @@
+{"name": "Factor.io",
+ "permalink": "factor-io",
+ "crunchbase_url": "http://www.crunchbase.com/company/factor-io",
+ "homepage_url": "http://factor.io/",
+ "blog_url": "http://blog.factor.io/",
+ "blog_feed_url": "http://blog.factor.io/rss",
+ "twitter_username": "factor_io",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "hello@factor.io",
+ "phone_number": "",
+ "description": "Factor.io makes it easy for engineering ",
+ "created_at": "Tue Mar 19 01:12:26 UTC 2013",
+ "updated_at": "Tue May 28 07:25:57 UTC 2013",
+ "overview": "\u003Cp\u003EFactor.io is a service to make it easy for developers to define and integrate their continuous deployment and integration workflow. Development teams spend over 30% of their developer resources building the process for deploying and managing their apps and infrastructure, like \u0026#8220;Deploy my app to AWS when I push to Github\u0026#8221;. Most of this time is spent glueing together numerous services (e.g. Github, AWS, Hipchat) and technologies (e.g. Chef, Salt Stack) to work in a cohesive workflow. Factor.io relieves developers of building this veneer layer of glue by connecting all the services and technologies using a simple workflow.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Maciej",
+      "last_name": "Skierkowski",
+      "permalink": "maciej-skierkowski-2",
+      "image":
+       {"available_sizes":
+         [[[121,
+            150],
+           "assets/images/resized/0016/9176/169176v2-max-150x150.jpg"],
+          [[201,
+            250],
+           "assets/images/resized/0016/9176/169176v2-max-250x250.jpg"],
+          [[363,
+            450],
+           "assets/images/resized/0016/9176/169176v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Parkinson",
+      "permalink": "alex-parkinson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1574707/000157470713000001/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 6,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Factor.io HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,125 @@
+{"name": "Qumranet",
+ "permalink": "qumranet-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/qumranet-inc",
+ "homepage_url": "http://www.qumranet.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "408-730-5768",
+ "description": "",
+ "created_at": "Wed Oct 08 00:54:21 UTC 2008",
+ "updated_at": "Mon Aug 31 00:42:25 UTC 2009",
+ "overview": "\u003Cp\u003EQumranet, Inc., an enterprise software company, provides virtual computing solutions. The company offers Solid ICE, an integrated desktop virtualization product. Its Solid ICE components comprise Virtual Desktop Server that runs the users Windows virtual desktop; Virtual Desktop Controller, which manages a virtual desktop environment; and Simple Protocol for Independent Computing Environments (SPICE) that is a remote connection protocol for virtual environments. The company\u00e2\u20ac\u2122s solutions enable enterprises to host desktops in Kernel-based virtual machines on servers in the corporate data center, and allow users to connect to them through a remote protocol called SPICE. Qumranet, Inc., formerly known as Comanet, was founded in 2005 and is based in Sunnyvale, California. The company has additional offices in Raanana and Netanya, Israel; and Sunnyvale, California. As of September 4, 2008, Qumranet, Inc. operates as a subsidiary of Red Hat, Inc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0005/8210/58210v1-max-150x150.jpg"],
+     [[230,
+       55],
+      "assets/images/resized/0005/8210/58210v1-max-250x250.jpg"],
+     [[230,
+       55],
+      "assets/images/resized/0005/8210/58210v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder ",
+    "person":
+     {"first_name": "Benny",
+      "last_name": "Schnaider",
+      "permalink": "benny-schnaider",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder ",
+    "person":
+     {"first_name": "Rami",
+      "last_name": "Tamir",
+      "permalink": "rami-tamir",
+      "image": null}},
+   {"is_past": true,
+    "title": "Board of Director",
+    "person":
+     {"first_name": "Vab",
+      "last_name": "Goel",
+      "permalink": "vab-goel",
+      "image":
+       {"available_sizes":
+         [[[115,
+            150],
+           "assets/images/resized/0023/5472/235472v2-max-150x150.jpg"],
+          [[150,
+            194],
+           "assets/images/resized/0023/5472/235472v2-max-250x250.jpg"],
+          [[150,
+            194],
+           "assets/images/resized/0023/5472/235472v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 107000000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.redhat.com/about/news/prarchive/2008/qumranet.html",
+   "source_description": "Red Hat Advances Virtualization Leadership with Qumranet, Inc. Acquisition",
+   "acquired_year": 2008,
+   "acquired_month": 9,
+   "acquired_day": 4,
+   "acquiring_company":
+    {"name": "Red Hat",
+     "permalink": "red-hat",
+     "image":
+      {"available_sizes":
+        [[[150,
+           147],
+          "assets/images/resized/0002/1264/21264v2-max-150x150.png"],
+         [[250,
+           245],
+          "assets/images/resized/0002/1264/21264v2-max-250x250.png"],
+         [[345,
+           339],
+          "assets/images/resized/0002/1264/21264v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "530 Lakeside drive",
+    "address2": "Suite 220",
+    "zip_code": "94085",
+    "city": "Sunnyvale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.384206,
+    "longitude": -121.992805}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

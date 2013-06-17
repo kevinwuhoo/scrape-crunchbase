@@ -1,0 +1,84 @@
+{"name": "Geometric Informatics",
+ "permalink": "geometric-informatics",
+ "crunchbase_url": "http://www.crunchbase.com/company/geometric-informatics",
+ "homepage_url": "http://www.geometricinformatics.com",
+ "blog_url": "http://geometricinformatics.blogspot.com/",
+ "blog_feed_url": "http://geometricinformatics.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "3-d, 3d, computer-graphics, pattern-recognition",
+ "alias_list": null,
+ "email_address": "contact@geometricinformatics.com",
+ "phone_number": "+1-617-440-1078",
+ "description": null,
+ "created_at": "Mon Jul 14 23:42:56 UTC 2008",
+ "updated_at": "Sat Sep 06 13:58:05 UTC 2008",
+ "overview": "\u003Cp\u003EGeometric Informatics specializes in advanced computer graphics, pattern recognition, and 3-D geometry processing techniques. They strive to create products for all types of computer-aided geometric design, including but not limited to biosecurity applications, the database industry, computer graphics, and the biomedical field.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0002/2089/22089v1-max-150x150.png"],
+     [[250,
+       41],
+      "assets/images/resized/0002/2089/22089v1-max-250x250.png"],
+     [[450,
+       74],
+      "assets/images/resized/0002/2089/22089v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarters",
+    "address1": "387 Somerville Ave.",
+    "address2": "Somerville",
+    "zip_code": "02143",
+    "city": "Sommerville",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.381497,
+    "longitude": -71.100509}],
+ "milestones":
+  [{"description": "Geometric Informatics Helps Radiohead Generate Music Video Without Cameras",
+    "stoned_year": 2008,
+    "stoned_month": 7,
+    "stoned_day": 13,
+    "source_url": "http://creativity-online.com/?action=news:article\u0026newsId=129514\u0026sectionId=behind_the_work",
+    "source_text": "Radiohead's latest video, for the track \"House of Cards\" from the In Rainbows album, uses real time 3D recording instead of cameras, utilizing highly technical structured light and Lidar laser-enhanced scanners to model lead singer Thom Yorke and provide an otherworldly narrative accompaniment to the song.\r\n\r\nBlip Boutique creative director and Zoo director James Frost took us through the exceedingly complex, innovative process, which used on-set engineers and technology support instead of a film crew and required massive amounts of rendering and the sculpting of mountains of data in post--not to mention 64 lasers (on the Lidar system alone). Read on past our interview with Frost for behind-the-scenes footage and to visit the video's interactive component, hosted by Google in it's developer area, code.google.com. Radiohead is encouraging fans to use the 3D data of Yorke's head and make their own videos using the point cloud data and Processing. \r\nCreativity: How did you come to the idea of using this sort of imaging?\r\n\r\nJF: About a year and a half ago I came across Flight Patterns, a piece of work done by Aaron Koblin\u00e2\u20ac\u201dhe's basically a data visualizer. I'm kind of frightened by flying, I'm always obsessed by things that have planes and stuff, so I emailed him and said that I thought it was a really beautiful piece of work. He responded and we had lunch. At the time he had just left UCLA Media Lab, and he was going through all the stuff they were researching and developing. One of the things he had mentioned was they were working on real time 3D laser scanning. I immediately said Well, hang on a minute, what's all that about? I wanted to get to the crux of it -- is it really real time? He said that at that point they were pretty close to having it. \r\nSo, basically, I wrote up an idea. I'd known Radiohead's managers for a while, and figured that they'd probably be the only band that would take that kind of a risk, so I sent it to them in November or December and they showed it to Thom.Thom is obviously very intelligent and keeps up with technological advances, and he came back and said he wanted to know more about it. At that point he sent me an email saying what was in his head before the video. There were two things he had very strong feelings about-- one was vaporization and the other was a party scene. We went back and forth over email to try and decipher some sort of linear narrative to convey everything. I happened to be in England in April, so I went up to Oxford, met with him and talked for a couple of hours about stuff and then went, Let's try it and see what happens.\r\n\r\nCreativity: So how much experience or playtime did you have with the technology before you felt comfortable enough to talk through the idea, or did you know the technology would be there and function the way you wanted it to?\r\n\r\nJF: In hindsight there are a lot of limitations to both pieces of technology. I think looking back there were certainly things that I would have explored differently in the experimental stages. I'd seen tests that had been done by Geometric Informatics, where one of the scanners came from. They were really great and they actually did tests for us so I could show them to Thom. One of the things we wanted to work out was how to integrate the two different systems so aesthetically they feel the same. The Lidar stuff, the more geographical stuff, definitely has a real definitive look to it. With the other system you can effectively get two different styles from it, one is mesh data, one is point cloud data. So we had tests done there. The Lidar stuff we kind of knew would work because it's been around for a while. The limitation is the distance, just trying to work out distances from what we could scan. It really came down to trial and error. We scanned so much stuff in Florida, some of it worked amazingly and some of it didn't. One of the interesting things we tried to scan was an airport control tower. It scanned the entire tower up to the bit where the controllers are, because obviously they've got anti-laser glass, so it was this weird freestanding structure and we were baffled as to why it didn't pick up the top of it. Obviously we knew we'd get something kind of cool, we weren't quite sure what it would be. That's the other limitation to it, you don't actually see what you've scanned. I didn't see anything for two weeks after we did it because the amount of data this thing collected was so massive. Just to process it it took them two weeks to get it into a visual state where I could see what we got.\r\nCreativity: That's to render it?\r\n\r\nJF: They take the raw data, which is basically XYZ point cloud stuff, and they have to render it out and convert it to a CVS file that allows 3D software to read it. That allows us to place cameras and move around the image and then get into all that fun stuff. It's definitely a complicated, drawn-out process that was, on one hand, really exciting waiting to see what we'd got, and on the other hand incredibly nerve-wracking. To sit around for two weeks and not know what you've got...everyone's asking questions. What's it look like? Well, I don't know.\r\n\r\nCreativity: And then essentially you had to direct after that as well?\r\n\r\nJF: On the stuff that we scanned of Thom we could kind of roughly see what we were getting so we knew whether we had steady takes or the data just wasn't being recorded correctly but it was only a rough, half-render. On the Lidar stuff, you can see on the screen what you're recording, but it's so different to what it really looks like you just trust the engineers that you got a really good take, a good clean image. My directing on set was really making sure we could scan what we needed to scan, the pieces that we needed to create the end comps, and then obviously Thom's performance. On set was kind of an odd experience, because you had, essentially, engineers, a couple of normal film crew types, but it was mostly computers and engineers.\r\n\r\nAnd then really my job began two weeks into post, where we were sitting there choreographing cameras. The other part to this is you'd set a camera move, they'd process the data and each render, one shot would take 17 hours to render. You'd get it back and realize it wasn't working at that angle because the data was popping out in one direction or going crazy in a different direction so you'd have to render it again. It was just a really slow process.\r\nCreativity: What are the engineers on the set usually doing with this equipment? I'd think this would be a high point for them.\r\n\r\nJF: I think they found it quite amusing. Both of them were excited to be there; we had one engineer from each company that has the scanners. In their mind they thought we were nuts, because we were using them in ways they'd never been used before. Using it in a creative way, physically moving in a dolly and stuff, is not something they even do. They have vans hooked up to GPS units and stuff so they get incredibly precise recordings of their environments. We're just like, Oh yeah, let's drive it through this field; try to keep it at five miles per hour if you can.\r\n\r\nI think to them that aspect of it was fun but they thought, What the hell are these guys doing? I definitely sensed from them they enjoyed being there.\r\nCreativity: It doesn't seem like any aspect of this could be applied to home film making\u00e2\u20ac\u201dthese things seem massively expensive, and really unwieldy with the long render times.\r\n\r\nJF: Yeah. The post house we used, Syndicate, had render farms all over the place trying to deal with the incredible amount of data that was recorded. It's one of those things where the technology is primarily used, the Lidar stuff, for government agencies to survey highways. They used it for 9/11 to see how high the debris was and where the original foundations were so they knew what kind of cranes to bring in. It was literally the first thing deployed after the attacks. So that system is a bit more tried and tested. From what I understand, they're trying to develop it so it has a 180 degree angle field of view. So a fire department, let's say, can find out if people are in a house without sending firemen in. They can send in this unit and because it sees through anything. It just bounces off solid mass, and can find out quite quickly if people are there. It's certainly not the type of object one can pick up at B\u0026H and mess around with. The box, we called it the microwave oven, it's basically a metal box with two ends on it. It's very cumbersome but very delicate.\r\n\r\nCreativity: The engineers were the minders?\r\n\r\nJF: Yeah, they brought it themselves, and get very upset if you pick it up and shake it on a dolly. Particularly the one with the 64 lasers rotating, which, I'd imagine, is a very expensive piece of machinery. \r\nCreativity: To what extent did you need to relearn how to direct during this?\r\n\r\nJF: It was really very much going in there in a conventional way. I still had to tell a linear story. There were a lot of very detailed conversations that went on before we shot to find out if things were possible. We'd get yes or no answers; if they were no's I'd have to go back and rethink how we were going to get the point across. I had to treat it as if it was a conventional camera, otherwise you'd get so screwed up with the technology it'd just blindside you.\r\n\r\nIt was easier to deal with it in a conventional way. Knowing that we had the freedom to do the conventional things we'd do on set later, like do a close up or change the angle. Once you have the data you literally have a 360 degree view and you can go anywhere within the data. Once we got into that it was just working out how we were going to do that.\r\n\r\nDoing the offline was really hard because we were dealing with quarter renders from one angle. We had to get our performance together with still shots, just for timing purposes, then go in and re-choreograph everything in post, then take it back into offline to finesse it and work out where in and out points were. I think at that point you go on automatic pilot in that you know you can get to the end result\u00e2\u20ac\u201dyou just have to go with the work flow that's being presented to you, which is just not normal.\r\n\r\nCreativity: What was the most difficult part of the project?\r\n\r\nJF: I'm so used to working in film. I'm used to, to a certain degree, having instant gratification. [The hardest part was] really not seeing where this video came visually until the last three weeks of post, knowing that up until that point you're really looking at white dots on a screen that really meant nothing. So having to imagine or keep convincing yourself that once you get through this render period then it's finally going to look like something; that was the hardest part. Sitting there and being told, OK, we've choreographed this shot, you won't be able to see this until tomorrow at five o clock--it's hard. Because you're like, What if it's wrong? We'd have to do it all again. Once you kind of accepted that you just took it as it came. We had a post producer who took amazing notes, she really did a fabulous job of making sure everything was kept in order.\r\n\r\nCreativity: What was most surprising about the aesthetics, the visual results? You guys were able to experiment a little; were there any anomalies that popped up?\r\n\r\nJF: One of the things that Thom and I'd initially discussed was we wanted it to feel as organic as possible. It was almost not cleaning up the image too much, letting it be raw in regard to how it was being recorded. So that was definitely an important aesthetic point to us. We just wanted it to feel real, even though it's technically computer generated, without somebody technically doing a lot of stuff with it. I think when we started experimenting with how the lasers reacted and how the scanners reacted, that became interesting to see how we could break the data up, just mess with the image, do as many different things as possible just to get different things happening. It worked for us in editorial. Little data pops were working in certain pieces in the songs. That was definitely thought of beforehand.\r\n\r\nCreativity: What sort of deeper issues does the application of specific pieces of imaging technology to filmmaking raise? It's a really specific aesthetic\u00e2\u20ac\u201dwhat sort of thinking shift does that bring about?\r\n\r\nJF: As a filmmaker, I'm always looking for different ways of trying different styles of imagery. Trying to experiment in different fields. I can tell you hopefully my next job will be film! I think if I came across another piece of technology that was being applied in a different way that could create unusual or interesting images, I'd be interested in trying that, too. Just the aesthetic of getting an image that hasn't been seen before, it's exciting for me. As much as I love film and love working with cameras, most of the tricks in the book have been done. They're fairly tried and tested. To try and explore into new realms is definitely exciting.\r\nCreativity: And what's up with the online component? Folks at home can shape the data and play with it in ways similar to what you guys were doing?\r\n\r\nJF: It's been streamlined to allow layman users to go in and change the angle of Thom while he's performing. We're also going to allow data to be downloaded so people can do their own effects and have free range in messing around with it.\r\n\r\nThat, in itself, will help explain the process of what's going on in the video to people.\r\n\r\nThey developed it into Flash, seeded the data in Flash, and if you just drag your mouse around your screen you can have the same freedoms we had in post, moving in and out of the image, et cetera. It's just getting the user another dimension of it to get involved",
+    "source_description": "From OK Computer to Roll Computer",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Geometric Informatics",
+      "permalink": "geometric-informatics"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

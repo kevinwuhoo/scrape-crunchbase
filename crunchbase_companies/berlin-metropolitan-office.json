@@ -1,0 +1,123 @@
+{"name": "Berlin Metropolitan Office",
+ "permalink": "berlin-metropolitan-office",
+ "crunchbase_url": "http://www.crunchbase.com/company/berlin-metropolitan-office",
+ "homepage_url": "http://www.berlin-metropolitan-office.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "service@berlin-metropolitan-office.com",
+ "phone_number": "",
+ "description": "Business Center",
+ "created_at": "Sat Apr 13 18:37:44 UTC 2013",
+ "updated_at": "Sat Apr 13 23:31:32 UTC 2013",
+ "overview": "\u003Cp\u003EBerlin Metropolitan Office is a local provider of business center services, flexible workplaces and virtual office solutions with a core focus on young entrepreneurs and startups.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0025/1328/251328v2-max-150x150.jpg"],
+     [[250,
+       126],
+      "assets/images/resized/0025/1328/251328v2-max-250x250.jpg"],
+     [[450,
+       227],
+      "assets/images/resized/0025/1328/251328v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Felix",
+      "last_name": "Schaal",
+      "permalink": "felix-schaal",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Regus",
+      "permalink": "regus",
+      "image":
+       {"available_sizes":
+         [[[115,
+            61],
+           "assets/images/resized/0021/3829/213829v1-max-150x150.jpg"],
+          [[115,
+            61],
+           "assets/images/resized/0021/3829/213829v1-max-250x250.jpg"],
+          [[115,
+            61],
+           "assets/images/resized/0021/3829/213829v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2013,
+    "funded_month": 3,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Felix",
+         "last_name": "Schaal",
+         "permalink": "felix-schaal",
+         "image": null}},
+      {"company": null,
+       "financial_org":
+        {"name": "Berlin Metropolitan Ventures",
+         "permalink": "berlin-metropolitan-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               75],
+              "assets/images/resized/0025/1289/251289v2-max-150x150.jpg"],
+             [[250,
+               126],
+              "assets/images/resized/0025/1289/251289v2-max-250x250.jpg"],
+             [[450,
+               227],
+              "assets/images/resized/0025/1289/251289v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Kurf\u00fcrstendamm 56",
+    "address2": "",
+    "zip_code": "10707",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 52.50101,
+    "longitude": 13.3146}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

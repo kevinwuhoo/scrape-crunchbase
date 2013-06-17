@@ -1,0 +1,78 @@
+{"name": "I6NET",
+ "permalink": "i6net",
+ "crunchbase_url": "http://www.crunchbase.com/company/i6net",
+ "homepage_url": "http://www.i6net.com",
+ "blog_url": "http://www.i6net.com",
+ "blog_feed_url": "http://www.i6net.com/feed/",
+ "twitter_username": "i6net",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2002,
+ "founded_month": 9,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ivr, ivvr, voicexml, vxi, phone, voip, asterisk",
+ "alias_list": "",
+ "email_address": "info@i6net.com",
+ "phone_number": "+34911877477",
+ "description": "VoiceXML for Businesses",
+ "created_at": "Fri Jun 26 12:46:11 UTC 2009",
+ "updated_at": "Mon Jan 14 03:49:44 UTC 2013",
+ "overview": "\u003Cp\u003EI6NET Solutions and Technologies is a company dedicated to the research and development of telecommunications and Internet technology. \u003C/p\u003E\n\n\u003Cp\u003EI6NET provides a VoiceXML Browser for Asterisk, VXI*, in addition to IVR development and consulting services. This interpreter works directly with the Asterisk PBX software supported by Digium.  Not only can users of the open source PBX run VoiceXML applications in the same server, they can now offer these powerful, scalable solutions at an affordable cost. \u003C/p\u003E\n\n\u003Cp\u003EI6NET gives operators and solution providers the ability to develop and deploy voice and video applications via IP, PSTN, and 3G-324M networks.  VXI* is fully compliant with the W3C VoiceXML 2.0 specification and is integrated with automatic speech recognition and text-to-speech software to enable advanced voice and video solutions, and real-time video calling applications.  VXI* can be installed in common hardware configurations, providing a highly scalable base system to meet all customers business and technical VoiceXML requirements. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "VXI* VoiceXML browser",
+    "permalink": "vxi-voicexml-browser",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder / CEO",
+    "person":
+     {"first_name": "Ivan",
+      "last_name": "Sixto",
+      "permalink": "ivan-sixto",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate offices",
+    "address1": "C/ Magallanes, 13",
+    "address2": "",
+    "zip_code": "28015",
+    "city": "Madrid",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": 40.4342873,
+    "longitude": -3.7056763}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        113],
+       "assets/images/resized/0007/1746/71746v2-max-150x150.png"],
+      [[250,
+        189],
+       "assets/images/resized/0007/1746/71746v2-max-250x250.png"],
+      [[450,
+        340],
+       "assets/images/resized/0007/1746/71746v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,86 @@
+{"name": "MyMart",
+ "permalink": "mymart",
+ "crunchbase_url": "http://www.crunchbase.com/company/mymart",
+ "homepage_url": "http://mymart.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 4,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, m-commerce, mobile-shopping",
+ "alias_list": null,
+ "email_address": "theteam@mymart.com",
+ "phone_number": "020 7449 6980",
+ "description": null,
+ "created_at": "Mon Jun 23 12:51:27 UTC 2008",
+ "updated_at": "Sat Sep 06 13:46:58 UTC 2008",
+ "overview": "\u003Cp\u003EMyMart is a mobile commerce company. You can buy and sell stuff on your phone with MyMart. The service allows you to snap a photo of something you want to sell and text it to 60067.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[112,
+       100],
+      "assets/images/resized/0002/0813/20813v2-max-150x150.png"],
+     [[112,
+       100],
+      "assets/images/resized/0002/0813/20813v2-max-250x250.png"],
+     [[112,
+       100],
+      "assets/images/resized/0002/0813/20813v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "MyShops",
+    "permalink": "myshops",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "MD",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Rock",
+      "permalink": "adam-rock",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Godfrey",
+      "permalink": "ben-godfrey",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "6 Erskine Road",
+    "address2": "First Floor, Block 3",
+    "zip_code": "NW3 3AJ",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.541937,
+    "longitude": -0.157333}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

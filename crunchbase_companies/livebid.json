@@ -1,0 +1,144 @@
+{"name": "LiveBid",
+ "permalink": "livebid",
+ "crunchbase_url": "http://www.crunchbase.com/company/livebid",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "auctions",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Tue Aug 31 16:42:40 UTC 2010",
+ "updated_at": "Sat Nov 03 02:14:10 UTC 2012",
+ "overview": "\u003Cp\u003EStreaming-enabled participation in bricks-and-mortar auctions.\u003C/p\u003E\n\n\u003Cp\u003ELiveBid was a broadcast service for traditional auction houses, allowing them to stream their events online and let bidders watch, listen, and participate from anywhere.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       82],
+      "assets/images/resized/0021/8244/218244v2-max-150x150.jpg"],
+     [[250,
+       137],
+      "assets/images/resized/0021/8244/218244v2-max-250x250.jpg"],
+     [[450,
+       248],
+      "assets/images/resized/0021/8244/218244v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Williams",
+      "permalink": "matt-williams-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0010/0045/100045v1-max-150x150.png"],
+          [[198,
+            198],
+           "assets/images/resized/0010/0045/100045v1-max-250x250.png"],
+          [[198,
+            198],
+           "assets/images/resized/0010/0045/100045v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CTO and Founder",
+    "person":
+     {"first_name": "Sky",
+      "last_name": "Kruse",
+      "permalink": "sky-kruse",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0021/8243/218243v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0021/8243/218243v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0021/8243/218243v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Controller",
+    "person":
+     {"first_name": "Ron",
+      "last_name": "Dingwall",
+      "permalink": "ron-dingwall",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.bizjournals.com/seattle/stories/1999/04/19/story3.html?page=all",
+    "source_description": "Looking for Auction",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 1998,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Madrona Venture Group",
+         "permalink": "madrona-venture-group",
+         "image":
+          {"available_sizes":
+            [[[150,
+               73],
+              "assets/images/resized/0013/1150/131150v1-max-150x150.png"],
+             [[207,
+               102],
+              "assets/images/resized/0013/1150/131150v1-max-250x250.png"],
+             [[207,
+               102],
+              "assets/images/resized/0013/1150/131150v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Tom",
+         "last_name": "Alberg",
+         "permalink": "tom-alberg",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Scott",
+         "last_name": "Oki",
+         "permalink": "scott-oki",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

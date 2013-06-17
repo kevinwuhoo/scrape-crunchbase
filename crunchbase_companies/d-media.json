@@ -1,0 +1,106 @@
+{"name": "d-Media",
+ "permalink": "d-media",
+ "crunchbase_url": "http://www.crunchbase.com/company/d-media",
+ "homepage_url": "http://d-media.nl",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2002,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "drupal, wordpress, php, mysql, symphony",
+ "alias_list": null,
+ "email_address": "info@d-media.nl",
+ "phone_number": "+31768880022",
+ "description": null,
+ "created_at": "Mon Jul 21 10:24:51 UTC 2008",
+ "updated_at": "Tue Jun 19 21:35:08 UTC 2012",
+ "overview": "\u003Cp\u003Ed-Media is a open source web development company. Developing taylor fit web solutions using mostly Drupal and Wordpress.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0002/2457/22457v3-max-150x150.png"],
+     [[250,
+       57],
+      "assets/images/resized/0002/2457/22457v3-max-250x250.png"],
+     [[269,
+       62],
+      "assets/images/resized/0002/2457/22457v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Manager and owner",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Schoone",
+      "permalink": "daniel-schoone",
+      "image": null}},
+   {"is_past": false,
+    "title": "Junior Programmer",
+    "person":
+     {"first_name": "Micha",
+      "last_name": "Schoone",
+      "permalink": "micha-schoone",
+      "image": null}},
+   {"is_past": false,
+    "title": "Senior Web Developer",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "Kannekens",
+      "permalink": "patrick-kannekens",
+      "image": null}},
+   {"is_past": false,
+    "title": "Senior Programmer",
+    "person":
+     {"first_name": "Martijn",
+      "last_name": "Heesters",
+      "permalink": "martijn-heesters",
+      "image": null}},
+   {"is_past": false,
+    "title": "Junior Programmer",
+    "person":
+     {"first_name": "Martijn",
+      "last_name": "van Wensen",
+      "permalink": "martijn-van-wensen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headoffice",
+    "address1": "Reduitlaan 33",
+    "address2": "",
+    "zip_code": "4814 DC",
+    "city": "Breda",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 51.591047,
+    "longitude": 4.762014}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://danielschoone.nl",
+    "title": "Weblog company owner"}]}

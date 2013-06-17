@@ -1,0 +1,117 @@
+{"name": "NodePing",
+ "permalink": "nodeping",
+ "crunchbase_url": "http://www.crunchbase.com/company/nodeping",
+ "homepage_url": "http://nodeping.com",
+ "blog_url": "http://blog.nodeping.com",
+ "blog_feed_url": "",
+ "twitter_username": "NodePing",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@nodeping.com",
+ "phone_number": "",
+ "description": "Server Monitoring",
+ "created_at": "Fri Aug 19 19:12:17 UTC 2011",
+ "updated_at": "Thu Jan 24 08:46:40 UTC 2013",
+ "overview": "\u003Cp\u003EServer monitoring that costs less.\u003C/p\u003E\n\n\u003Cp\u003E1000 servers/sites monitored every minute for a flat $15/month.  That includes unlimited international SMS, voice, and email alerts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0015/0238/150238v2-max-150x150.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0015/0238/150238v2-max-250x250.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0015/0238/150238v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Code Monkey",
+    "person":
+     {"first_name": "Shawn",
+      "last_name": "Parrish",
+      "permalink": "shawn-parrish",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pingdom",
+      "permalink": "pingdom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/8963/18963v1-max-150x150.png"],
+          [[250,
+            91],
+           "assets/images/resized/0001/8963/18963v1-max-250x250.png"],
+          [[255,
+            93],
+           "assets/images/resized/0001/8963/18963v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PingMate",
+      "permalink": "pingmate",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0022/7661/227661v2-max-150x150.png"],
+          [[225,
+            75],
+           "assets/images/resized/0022/7661/227661v2-max-250x250.png"],
+          [[225,
+            75],
+           "assets/images/resized/0022/7661/227661v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$30k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 30000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0015/0237/150237v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0015/0237/150237v2-max-250x250.png"],
+      [[450,
+        253],
+       "assets/images/resized/0015/0237/150237v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

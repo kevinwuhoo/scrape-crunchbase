@@ -1,0 +1,80 @@
+{"name": "Twitloc",
+ "permalink": "twitloc",
+ "crunchbase_url": "http://www.crunchbase.com/company/twitloc",
+ "homepage_url": "http://twitloc.net",
+ "blog_url": "http://blog.twitloc.net",
+ "blog_feed_url": "http://blog.twitloc.net/rss",
+ "twitter_username": "twitlocALPHA",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, location",
+ "alias_list": null,
+ "email_address": "info@twitloc.net",
+ "phone_number": "",
+ "description": "Twitter location exploration tool",
+ "created_at": "Wed Dec 30 01:22:02 UTC 2009",
+ "updated_at": "Wed Dec 30 21:05:36 UTC 2009",
+ "overview": "\u003Cp\u003ETwitloc is a service allowing users to explore content on Twitter in a new way, powered by location.\u003C/p\u003E\n\n\u003Cp\u003ECurrently in private alpha, Twitloc crawls users Twitter accounts for content that can be associated with a specific location. Content is then organized by location allowing users to explore their tweets in new ways.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0007/1488/71488v2-max-150x150.png"],
+     [[200,
+       56],
+      "assets/images/resized/0007/1488/71488v2-max-250x250.png"],
+     [[200,
+       56],
+      "assets/images/resized/0007/1488/71488v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Spencer",
+      "last_name": "Schoeben",
+      "permalink": "spencer-schoeben",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0006/4409/64409v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0006/4409/64409v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0006/4409/64409v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

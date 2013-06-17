@@ -1,0 +1,133 @@
+{"name": "Massive Solutions",
+ "permalink": "massive-solutions",
+ "crunchbase_url": "http://www.crunchbase.com/company/massive-solutions",
+ "homepage_url": "http://www.massivesolutions.co.uk",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "clustrx",
+ "category_code": "software",
+ "number_of_employees": 50,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hpc, clusters, cloud, computing, linux, operating-system, provisioning, monitoring",
+ "alias_list": null,
+ "email_address": "info@massivesolutions.co.uk",
+ "phone_number": "+448455086137",
+ "description": "System Software Vendor",
+ "created_at": "Wed Dec 23 04:42:36 UTC 2009",
+ "updated_at": "Thu Dec 24 08:30:23 UTC 2009",
+ "overview": "\u003Cp\u003EMassive Solutions Ltd is the software engineering and consulting company that develops operating systems and real-time monitoring/control frameworks for a big installations such as HPC clusters and datacenters. Product line includes two Linux-based operating systems(Clustrx and Xpandrx) and linearly scalable hardware/software monitoring system (rxWatch).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0007/0905/70905v2-max-150x150.png"],
+     [[151,
+       151],
+      "assets/images/resized/0007/0905/70905v2-max-250x250.png"],
+     [[151,
+       151],
+      "assets/images/resized/0007/0905/70905v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Owner",
+    "person":
+     {"first_name": "Viktor",
+      "last_name": "Sovietov",
+      "permalink": "viktor-sovietov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Platform Computing",
+      "permalink": "platform-computing",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0005/5914/55914v1-max-150x150.jpg"],
+          [[250,
+            43],
+           "assets/images/resized/0005/5914/55914v1-max-250x250.jpg"],
+          [[342,
+            59],
+           "assets/images/resized/0005/5914/55914v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adaptive Computing",
+      "permalink": "adaptive-computing",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0010/1588/101588v1-max-150x150.png"],
+          [[190,
+            59],
+           "assets/images/resized/0010/1588/101588v1-max-250x250.png"],
+          [[190,
+            59],
+           "assets/images/resized/0010/1588/101588v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bright Computing",
+      "permalink": "bright-computing",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0010/9279/109279v1-max-150x150.png"],
+          [[250,
+            37],
+           "assets/images/resized/0010/9279/109279v1-max-250x250.png"],
+          [[305,
+            46],
+           "assets/images/resized/0010/9279/109279v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Representative  in UK",
+    "address1": "",
+    "address2": "",
+    "zip_code": "EN2 8NE",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null},
+   {"description": "Development Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "02095",
+    "city": "Kyiv",
+    "state_code": null,
+    "country_code": "UKR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.hpcwire.com/offthewire/T-Platforms-Builds-Most-Powerful-Supercomputer-in-Eastern-Europe-74813472.html",
+    "title": "Massive Solutions' Clustrx OS installed on Top12 supercomputer"},
+   {"external_url": "http://www.t-platforms.ru/ru/isc09/iscclusterx.html",
+    "title": "Clustrx OS T-Platforms edition"}]}

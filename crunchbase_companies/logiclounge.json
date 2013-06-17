@@ -1,0 +1,110 @@
+{"name": "LogicLounge",
+ "permalink": "logiclounge",
+ "crunchbase_url": "http://www.crunchbase.com/company/logiclounge",
+ "homepage_url": "http://logiclounge.com",
+ "blog_url": "http://logiclounge.com",
+ "blog_feed_url": "http://feeds.logiclounge.com/logiclounge",
+ "twitter_username": "LogicLounge",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "tech, technology, news, video, how-to, rumor, geek",
+ "alias_list": null,
+ "email_address": "contact@logiclounge.com",
+ "phone_number": "(425) 395-4378",
+ "description": "Technology News Blog",
+ "created_at": "Tue May 04 04:45:21 UTC 2010",
+ "updated_at": "Thu Apr 28 03:57:05 UTC 2011",
+ "overview": "\u003Cp\u003EBasically to the point this is another one of those technology blogs but it incorporates how-tos, rumors about latest products and videos about the latest products \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       85],
+      "assets/images/resized/0008/5862/85862v2-max-150x150.png"],
+     [[250,
+       142],
+      "assets/images/resized/0008/5862/85862v2-max-250x250.png"],
+     [[300,
+       171],
+      "assets/images/resized/0008/5862/85862v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Craighton",
+      "last_name": "Miller",
+      "permalink": "craighton-miller",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0013/2342/132342v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0013/2342/132342v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0013/2342/132342v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Will",
+      "last_name": "Reynolds Young",
+      "permalink": "will-reynolds-young",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Lockergnome",
+      "permalink": "lockergnome",
+      "image":
+       {"available_sizes":
+         [[[89,
+            87],
+           "assets/images/resized/0007/4299/74299v2-max-150x150.png"],
+          [[89,
+            87],
+           "assets/images/resized/0007/4299/74299v2-max-250x250.png"],
+          [[89,
+            87],
+           "assets/images/resized/0007/4299/74299v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "461 Cochran Road",
+    "address2": "#229",
+    "zip_code": "15228",
+    "city": "Pittsburgh",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://chris.pirillo.com/why-the-ipad-is-perfect-for-schools/",
+    "title": "Chris Pirillo"}]}

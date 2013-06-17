@@ -1,0 +1,136 @@
+{"name": "Biaki",
+ "permalink": "biaki",
+ "crunchbase_url": "http://www.crunchbase.com/company/biaki",
+ "homepage_url": "http://www.biaki.com",
+ "blog_url": "http://blog.biaki.com",
+ "blog_feed_url": "http://blog.biaki.com/index.php/feed/",
+ "twitter_username": "biakicrm",
+ "category_code": "software",
+ "number_of_employees": 16,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "crm, vietnam, platform",
+ "alias_list": null,
+ "email_address": "info@biaki.com",
+ "phone_number": "+84918547666",
+ "description": "CRM provider in Vietnam",
+ "created_at": "Fri Apr 06 07:31:50 UTC 2012",
+ "updated_at": "Fri Apr 13 21:58:57 UTC 2012",
+ "overview": "\u003Cp\u003EWe\u0026#8217;re the platform which provide CRM solution just like force.com and salesforce.com for SMEs in the Vietnamese market.\u003C/p\u003E\n\n\u003Cp\u003EWith many standard version of BiakiCRM for each industry, they just have to pay seconds to start enjoying and using BiakiCRM. It\u0026#8217;s easy with Biaki to customize the application to fit the current business model of the customers. \u003C/p\u003E\n\n\u003Cp\u003EBiaki provides the Go Social! feature which bring enterprise into a social environment that can boost up the enterprise performance and get all the employees in a connected collaboration platform.\u003C/p\u003E\n\n\u003Cp\u003EBiakiCRM support mobile with native application on iOS, Android. BiakiCRM also support HTML5 web application.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Quang",
+      "last_name": "Mai Duy",
+      "permalink": "quang-mai-duy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            149],
+           "assets/images/resized/0018/3816/183816v2-max-150x150.jpg"],
+          [[250,
+            249],
+           "assets/images/resized/0018/3816/183816v2-max-250x250.jpg"],
+          [[381,
+            380],
+           "assets/images/resized/0018/3816/183816v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zoho",
+      "permalink": "zoho",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0000/3946/3946v1-max-150x150.png"],
+          [[171,
+            80],
+           "assets/images/resized/0000/3946/3946v1-max-250x250.png"],
+          [[171,
+            80],
+           "assets/images/resized/0000/3946/3946v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NetSuite",
+      "permalink": "netsuite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/3736/3736v1-max-150x150.png"],
+          [[250,
+            76],
+           "assets/images/resized/0000/3736/3736v1-max-250x250.png"],
+          [[250,
+            76],
+           "assets/images/resized/0000/3736/3736v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Biaki Head Office",
+    "address1": "9/12 Phan Van Truong",
+    "address2": "",
+    "zip_code": "84",
+    "city": "Hanoi",
+    "state_code": null,
+    "country_code": "VNM",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        87],
+       "assets/images/resized/0018/2947/182947v2-max-150x150.jpg"],
+      [[250,
+        146],
+       "assets/images/resized/0018/2947/182947v2-max-250x250.jpg"],
+      [[450,
+        263],
+       "assets/images/resized/0018/2947/182947v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.tapchicrm.com",
+    "title": "CRM Magazine"},
+   {"external_url": "http://www.crmlagi.com",
+    "title": "CRM Blog"},
+   {"external_url": "http://www.hanoicrm.com",
+    "title": "CRM Blog"}]}

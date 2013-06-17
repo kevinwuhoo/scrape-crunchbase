@@ -1,0 +1,124 @@
+{"name": "djangy",
+ "permalink": "djangy",
+ "crunchbase_url": "http://www.crunchbase.com/company/djangy",
+ "homepage_url": "http://www.djangy.com/",
+ "blog_url": "http://blog.djangy.com/",
+ "blog_feed_url": "",
+ "twitter_username": "djangy",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "python, django, web-hosting, heroku, appengine, cloud",
+ "alias_list": null,
+ "email_address": "support@djangy.com",
+ "phone_number": "",
+ "description": "django hosting and scaling",
+ "created_at": "Tue Nov 16 07:35:10 UTC 2010",
+ "updated_at": "Tue Nov 16 15:58:19 UTC 2010",
+ "overview": "\u003Cp\u003EDjangy provides a streamlined cloud hosting service for Python/Django web applications.\u003C/p\u003E\n\n\u003Cp\u003EDjangy has been succinctly described as \u0026#8220;Heroku for Python.\u0026#8221;  Google App Engine also supports a Google-specific form of Python/Django; Djangy\u0026#8217;s claimed differentiators are standards compliance and a focus on customer support.  At the time of writing, Djangy is self-funded, and conducting a private beta.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[101,
+       31],
+      "assets/images/resized/0011/0404/110404v2-max-150x150.png"],
+     [[101,
+       31],
+      "assets/images/resized/0011/0404/110404v2-max-250x250.png"],
+     [[101,
+       31],
+      "assets/images/resized/0011/0404/110404v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Paola",
+      "permalink": "dave-paola",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0011/0486/110486v2-max-150x150.png"],
+          [[250,
+            187],
+           "assets/images/resized/0011/0486/110486v2-max-250x250.png"],
+          [[450,
+            337],
+           "assets/images/resized/0011/0486/110486v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Sameer",
+      "last_name": "Sundresh",
+      "permalink": "sameer-sundresh",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

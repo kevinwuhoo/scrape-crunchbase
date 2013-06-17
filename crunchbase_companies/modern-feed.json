@@ -1,0 +1,192 @@
+{"name": "Modern Feed",
+ "permalink": "modern-feed",
+ "crunchbase_url": "http://www.crunchbase.com/company/modern-feed",
+ "homepage_url": "http://www.modernfeed.com",
+ "blog_url": "http://blog.modernfeed.com/",
+ "blog_feed_url": "http://blog.modernfeed.com/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 123,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video-programming, tv-guide, online-guide",
+ "alias_list": null,
+ "email_address": "feedback@modernfeed.com",
+ "phone_number": "323-464-0650",
+ "description": null,
+ "created_at": "Mon Apr 21 23:34:45 UTC 2008",
+ "updated_at": "Thu Nov 12 21:47:40 UTC 2009",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.modernfeed.com\" title=\"Modern Feed\" rel=\"nofollow\"\u003EModern Feed\u003C/a\u003E aims to take all the technology guesswork out of finding and viewing legal tv shows, movies and other online programming.\u003C/p\u003E\n\n\u003Cp\u003EThe service discovers new shows, finds old shows, and keeps an eye out on programs that aren\u0026#8217;t currently available but will be in the future.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       102],
+      "assets/images/resized/0001/7538/17538v1-max-150x150.png"],
+     [[179,
+       122],
+      "assets/images/resized/0001/7538/17538v1-max-250x250.png"],
+     [[179,
+       122],
+      "assets/images/resized/0001/7538/17538v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "ModernFeed",
+    "permalink": "modernfeed",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "J.D.",
+      "last_name": "Heilprin",
+      "permalink": "j-d-heilprin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Fancast",
+      "permalink": "fancast",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3046/3046v3-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0000/3046/3046v3-max-250x250.png"],
+          [[450,
+            111],
+           "assets/images/resized/0000/3046/3046v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "hulu",
+      "permalink": "hulu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0001/1061/11061v15-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0001/1061/11061v15-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0001/1061/11061v15-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tvrss",
+      "permalink": "tvrss",
+      "image": null}},
+   {"competitor":
+     {"name": "Tubefilter",
+      "permalink": "tubefilter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/3581/23581v2-max-150x150.jpg"],
+          [[250,
+            69],
+           "assets/images/resized/0002/3581/23581v2-max-250x250.jpg"],
+          [[258,
+            72],
+           "assets/images/resized/0002/3581/23581v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "VentureArchetypes",
+      "permalink": "venturearchetypes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0001/8967/18967v4-max-150x150.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0001/8967/18967v4-max-250x250.jpg"],
+          [[450,
+            84],
+           "assets/images/resized/0001/8967/18967v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Diamond Creative ",
+      "permalink": "diamond-creative",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0002/1774/21774v1-max-150x150.png"],
+          [[250,
+            62],
+           "assets/images/resized/0002/1774/21774v1-max-250x250.png"],
+          [[450,
+            111],
+           "assets/images/resized/0002/1774/21774v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://newteevee.com/2008/04/07/modern-feed-good-idea-ok-solution/",
+    "source_description": "NewTeeVee",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 4,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "JPY",
+   "term_code": "stock",
+   "source_url": "http://grlvfr.com/",
+   "source_description": "hqdnsg",
+   "acquired_year": 1987,
+   "acquired_month": 6,
+   "acquired_day": 16,
+   "acquiring_company":
+    {"name": "Clicker",
+     "permalink": "clicker",
+     "image":
+      {"available_sizes":
+        [[[150,
+           59],
+          "assets/images/resized/0005/8462/58462v4-max-150x150.jpg"],
+         [[250,
+           99],
+          "assets/images/resized/0005/8462/58462v4-max-250x250.jpg"],
+         [[450,
+           178],
+          "assets/images/resized/0005/8462/58462v4-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "818 N. La Brea Ave.",
+    "address2": "",
+    "zip_code": "90038",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.085749,
+    "longitude": -118.343791}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

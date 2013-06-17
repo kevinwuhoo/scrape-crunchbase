@@ -1,0 +1,227 @@
+{"name": "dotSyntax",
+ "permalink": "dotsyntax",
+ "crunchbase_url": "http://www.crunchbase.com/company/dotsyntax",
+ "homepage_url": "http://www.digsby.com/",
+ "blog_url": "http://blog.digsby.com/",
+ "blog_feed_url": "http://blog.digsby.com/feed",
+ "twitter_username": "digsby",
+ "category_code": "software",
+ "number_of_employees": 7,
+ "founded_year": 2006,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-networks, im-client",
+ "alias_list": "",
+ "email_address": "privacy@digsby.com",
+ "phone_number": "",
+ "description": "e-mail, IM, \u0026 social networking web app",
+ "created_at": "Wed Apr 02 21:09:02 UTC 2008",
+ "updated_at": "Tue Apr 19 18:33:26 UTC 2011",
+ "overview": "\u003Cp\u003EdotSyntax is the company behind \u003Ca href=\"http://www.digsby.com/\" title=\"Digsby\" rel=\"nofollow\"\u003EDigsby\u003C/a\u003E, a web app that centralizes your e-mail, IM and social networking accounts into one desktop program.  Digsby plugs into your AIM, MSN, Yahoo, ICQ, Google Talk, and Jabber accounts, supports multiple email accounts and tracks updates for your Facebook and MySpace accounts.\u003C/p\u003E\n\n\u003Cp\u003EThe company was founded in late 2005 and launched Digsby for Windows in March, \u0026#8216;08.  Mac and Linux versions are forthcoming. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[122,
+       138],
+      "assets/images/resized/0001/6714/16714v1-max-150x150.png"],
+     [[122,
+       138],
+      "assets/images/resized/0001/6714/16714v1-max-250x250.png"],
+     [[122,
+       138],
+      "assets/images/resized/0001/6714/16714v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Digsby",
+    "permalink": "digsby",
+    "image":
+     {"available_sizes":
+       [[[122,
+          138],
+         "assets/images/resized/0004/8729/48729v1-max-150x150.png"],
+        [[122,
+          138],
+         "assets/images/resized/0004/8729/48729v1-max-250x250.png"],
+        [[122,
+          138],
+         "assets/images/resized/0004/8729/48729v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Shapiro",
+      "permalink": "steve-shapiro",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0014/8658/148658v1-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0014/8658/148658v1-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0014/8658/148658v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FriendFeed",
+      "permalink": "friendfeed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1096/1096v1-max-150x150.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-250x250.png"],
+          [[200,
+            56],
+           "assets/images/resized/0000/1096/1096v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Socialthing",
+      "permalink": "socialthing",
+      "image":
+       {"available_sizes":
+         [[[150,
+            83],
+           "assets/images/resized/0000/4378/4378v5-max-150x150.jpg"],
+          [[250,
+            138],
+           "assets/images/resized/0000/4378/4378v5-max-250x250.jpg"],
+          [[450,
+            249],
+           "assets/images/resized/0000/4378/4378v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fuser",
+      "permalink": "fuser",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0001/6158/16158v1-max-150x150.jpg"],
+          [[250,
+            111],
+           "assets/images/resized/0001/6158/16158v1-max-250x250.jpg"],
+          [[450,
+            200],
+           "assets/images/resized/0001/6158/16158v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Orgoo",
+      "permalink": "orgoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0000/0316/316v1-max-150x150.jpg"],
+          [[250,
+            72],
+           "assets/images/resized/0000/0316/316v1-max-250x250.jpg"],
+          [[449,
+            131],
+           "assets/images/resized/0000/0316/316v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "imo instant messenger",
+      "permalink": "imo-im",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0001/4011/14011v37-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0001/4011/14011v37-max-250x250.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0001/4011/14011v37-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Social.im",
+      "permalink": "social-im",
+      "image": null}},
+   {"competitor":
+     {"name": "8hands",
+      "permalink": "8hands",
+      "image":
+       {"available_sizes":
+         [[[150,
+            76],
+           "assets/images/resized/0000/3130/3130v1-max-150x150.png"],
+          [[200,
+            102],
+           "assets/images/resized/0000/3130/3130v1-max-250x250.png"],
+          [[200,
+            102],
+           "assets/images/resized/0000/3130/3130v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/04/19/tagged-buys-popular-socialinstant-messaging-client-digsby/",
+   "source_description": "Tagged Buys Popular Social/Instant Messaging Client Digsby",
+   "acquired_year": 2011,
+   "acquired_month": 4,
+   "acquired_day": 19,
+   "acquiring_company":
+    {"name": "Tagged",
+     "permalink": "tagged",
+     "image":
+      {"available_sizes":
+        [[[150,
+           26],
+          "assets/images/resized/0013/1226/131226v1-max-150x150.jpg"],
+         [[250,
+           44],
+          "assets/images/resized/0013/1226/131226v1-max-250x250.jpg"],
+         [[450,
+           80],
+          "assets/images/resized/0013/1226/131226v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "125 Tech Park Drive",
+    "address2": "",
+    "zip_code": "14623",
+    "city": "Rochester",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 43.073968,
+    "longitude": -77.663171}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"355\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/wGsjs2KKmHQ\u0026hl=en\"\u003E\u003C/param\u003E\u003Cparam name=\"wmode\" value=\"transparent\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/wGsjs2KKmHQ\u0026hl=en\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EDigsby Demo\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

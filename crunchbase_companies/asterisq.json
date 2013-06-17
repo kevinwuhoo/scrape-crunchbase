@@ -1,0 +1,91 @@
+{"name": "Asterisq",
+ "permalink": "asterisq",
+ "crunchbase_url": "http://www.crunchbase.com/company/asterisq",
+ "homepage_url": "http://asterisq.com",
+ "blog_url": "http://asterisq.com/blog",
+ "blog_feed_url": "http://asterisq.com/blog/feed",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2007,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "infovis",
+ "alias_list": null,
+ "email_address": "general@asterisq.com",
+ "phone_number": "408-786-5256",
+ "description": "Infovis for the Web",
+ "created_at": "Wed Dec 30 07:45:08 UTC 2009",
+ "updated_at": "Wed Dec 30 21:10:26 UTC 2009",
+ "overview": "\u003Cp\u003EAsterisq creates web interfaces to visually present relationship data such as social networks, tag spaces, and product offerings.\u003C/p\u003E\n\n\u003Cp\u003ETheir graph/network visualizations are used by companies such as Yahoo!, Chevron, Admob, and LinkWex to explore and understand complex datasets. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       110],
+      "assets/images/resized/0007/1556/71556v2-max-150x150.png"],
+     [[100,
+       110],
+      "assets/images/resized/0007/1556/71556v2-max-250x250.png"],
+     [[100,
+       110],
+      "assets/images/resized/0007/1556/71556v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "McLaren",
+      "permalink": "daniel-mclaren",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Thinkmap",
+      "permalink": "thinkmap",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Vancouver office",
+    "address1": "205-1333 Hornby St.",
+    "address2": "",
+    "zip_code": "V6Z 2C1",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0007/1555/71555v2-max-150x150.jpg"],
+      [[250,
+        156],
+       "assets/images/resized/0007/1555/71555v2-max-250x250.jpg"],
+      [[450,
+        281],
+       "assets/images/resized/0007/1555/71555v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://apps.asterisq.com/mentionmap",
+    "title": "Twitter Mentionmap (Promotional Demo)"}]}

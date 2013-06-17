@@ -1,0 +1,104 @@
+{"name": "Orchestra Platform",
+ "permalink": "orchestra-platform",
+ "crunchbase_url": "http://www.crunchbase.com/company/orchestra-platform",
+ "homepage_url": "",
+ "blog_url": "http://blog.engineyard.com/",
+ "blog_feed_url": "http://www.engineyard.com/company/news",
+ "twitter_username": "eyorchestra",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@orchestra.io",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Aug 24 03:24:53 UTC 2011",
+ "updated_at": "Sun Apr 07 09:58:51 UTC 2013",
+ "overview": "\u003Cp\u003EOrchestra is a PHP platform for deploying, scaling and managing your PHP applications. Built on Amazon Web Services, it integrates with your workflow, autoscales up and down and gives you extra power with third-party addons.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0015/0805/150805v1-max-150x150.jpg"],
+     [[250,
+       53],
+      "assets/images/resized/0015/0805/150805v1-max-250x250.jpg"],
+     [[450,
+       96],
+      "assets/images/resized/0015/0805/150805v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/08/23/engine-yard-acquires-orchestra-to-add-php-support-to-its-paas/",
+   "source_description": "Engine Yard Acquires Orchestra To Add PHP Support To Its PaaS",
+   "acquired_year": 2011,
+   "acquired_month": 8,
+   "acquired_day": 23,
+   "acquiring_company":
+    {"name": "Engine Yard",
+     "permalink": "engineyard",
+     "image":
+      {"available_sizes":
+        [[[150,
+           81],
+          "assets/images/resized/0001/0764/10764v3-max-150x150.png"],
+         [[250,
+           136],
+          "assets/images/resized/0001/0764/10764v3-max-250x250.png"],
+         [[302,
+           165],
+          "assets/images/resized/0001/0764/10764v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "64 Dame Street",
+    "address2": "",
+    "zip_code": "",
+    "city": "Dublin",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        105],
+       "assets/images/resized/0015/0806/150806v1-max-150x150.jpg"],
+      [[250,
+        175],
+       "assets/images/resized/0015/0806/150806v1-max-250x250.jpg"],
+      [[450,
+        316],
+       "assets/images/resized/0015/0806/150806v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,129 @@
+{"name": "Sentimnt",
+ "permalink": "sentimnt",
+ "crunchbase_url": "http://www.crunchbase.com/company/sentimnt",
+ "homepage_url": "http://sentimnt.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "sentimnt",
+ "category_code": "search",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 22,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, social, personal",
+ "alias_list": null,
+ "email_address": "hello@sentimnt.com",
+ "phone_number": "",
+ "description": "Personal and Social Search Engine",
+ "created_at": "Wed Aug 11 20:20:50 UTC 2010",
+ "updated_at": "Thu Aug 12 22:47:42 UTC 2010",
+ "overview": "\u003Cp\u003ESentimnt is your personal and social search engine. \nEveryday we read news, blogs, Facebook posts, Tweet\u00e2\u20ac\u2122s, email\u00e2\u20ac\u2122s and much more. Sentimnt is here to help you find the useful things you\u0026#8217;ve already seen and read.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0009/7139/97139v1-max-150x150.png"],
+     [[201,
+       67],
+      "assets/images/resized/0009/7139/97139v1-max-250x250.png"],
+     [[201,
+       67],
+      "assets/images/resized/0009/7139/97139v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Khash",
+      "last_name": "Sajadi",
+      "permalink": "khash-sajadi",
+      "image":
+       {"available_sizes":
+         [[[137,
+            150],
+           "assets/images/resized/0013/5458/135458v4-max-150x150.jpg"],
+          [[229,
+            250],
+           "assets/images/resized/0013/5458/135458v4-max-250x250.jpg"],
+          [[412,
+            450],
+           "assets/images/resized/0013/5458/135458v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Brent",
+      "last_name": "Graham",
+      "permalink": "brent-graham",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Silentale",
+      "permalink": "silentale",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/6254/16254v9-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0001/6254/16254v9-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/6254/16254v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Backupify",
+      "permalink": "backupify",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0007/6369/76369v1-max-150x150.png"],
+          [[210,
+            68],
+           "assets/images/resized/0007/6369/76369v1-max-250x250.png"],
+          [[210,
+            68],
+           "assets/images/resized/0007/6369/76369v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        105],
+       "assets/images/resized/0009/7135/97135v2-max-150x150.png"],
+      [[250,
+        176],
+       "assets/images/resized/0009/7135/97135v2-max-250x250.png"],
+      [[450,
+        317],
+       "assets/images/resized/0009/7135/97135v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://eu.techcrunch.com/2010/08/12/total-recall-sentimnt-lets-you-search-and-retrieve-information-from-your-social-feeds/",
+    "title": "Total Recall: Sentimnt Lets You Search And Retrieve Information From Your Social Feeds"},
+   {"external_url": "http://www.socialtimes.com/2010/08/social-search-sentimnt/",
+    "title": "New Social Search Remembers Who Said What\u00e2\u20ac\u00a6So We Don\u00e2\u20ac\u2122t Have To"}]}

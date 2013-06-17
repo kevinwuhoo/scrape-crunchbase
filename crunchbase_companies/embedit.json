@@ -1,0 +1,82 @@
+{"name": "Embedit",
+ "permalink": "embedit",
+ "crunchbase_url": "http://www.crunchbase.com/company/embedit",
+ "homepage_url": "http://embedit.me",
+ "blog_url": "http://redwriteshere.com",
+ "blog_feed_url": "feed://redwriteshere.com/feed/",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "api, video-transcoding, image-resizing, url-embedding",
+ "alias_list": "",
+ "email_address": "reddavis@gmail.com",
+ "phone_number": "",
+ "description": "Developer Tool",
+ "created_at": "Tue Feb 03 01:31:54 UTC 2009",
+ "updated_at": "Tue Mar 31 17:54:18 UTC 2009",
+ "overview": "\u003Cp\u003EEmbedit is a tool for developers for handling different types of media (images, video, music and url embedding). \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0003/5511/35511v2-max-150x150.png"],
+     [[250,
+       81],
+      "assets/images/resized/0003/5511/35511v2-max-250x250.png"],
+     [[335,
+       109],
+      "assets/images/resized/0003/5511/35511v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Embedit",
+    "permalink": "embedit",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Red",
+      "last_name": "Davis",
+      "permalink": "red-davis",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        79],
+       "assets/images/resized/0003/5510/35510v2-max-150x150.png"],
+      [[250,
+        133],
+       "assets/images/resized/0003/5510/35510v2-max-250x250.png"],
+      [[450,
+        239],
+       "assets/images/resized/0003/5510/35510v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://redwriteshere.com/2009/01/as-promised/",
+    "title": "Where It Began"}]}

@@ -1,0 +1,95 @@
+{"name": "Structo",
+ "permalink": "structo",
+ "crunchbase_url": "http://www.crunchbase.com/company/structo",
+ "homepage_url": "http://struc.to",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "structorules",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, db, data, api, forms, saas, web-development, database",
+ "alias_list": null,
+ "email_address": "zvi@skeevisarts.com",
+ "phone_number": "2026837803",
+ "description": "SaaS Data API",
+ "created_at": "Tue Aug 31 21:18:26 UTC 2010",
+ "updated_at": "Tue Aug 31 21:31:25 UTC 2010",
+ "overview": "\u003Cp\u003EStructo is a cloud data API that allows web developers to build applications faster.\u003C/p\u003E\n\n\u003Cp\u003EAt core, Structo is a cloud database. Rather than interacting with it as a database, web developers define their data models, fields, and validations in our API, and then get full RESTful API to build their applications on.\u003C/p\u003E\n\n\u003Cp\u003EIn addition, Structo reduces other components in a web application. We provide embeddable forms that developers can expose in their apps to handle input and output. We provide administration panels, so administrators can control the data.\u003C/p\u003E\n\n\u003Cp\u003EStructo\u0026#8217;s mission is to make web development faster, and all services have been optimized around reducing the amount of code and infrastructure that needs to be re-invented every time an application is built. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0010/0091/100091v2-max-150x150.png"],
+     [[250,
+       35],
+      "assets/images/resized/0010/0091/100091v2-max-250x250.png"],
+     [[450,
+       64],
+      "assets/images/resized/0010/0091/100091v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Zvi",
+      "last_name": "Band",
+      "permalink": "zvi-band",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0004/2464/42464v2-max-150x150.png"],
+          [[249,
+            250],
+           "assets/images/resized/0004/2464/42464v2-max-250x250.png"],
+          [[283,
+            284],
+           "assets/images/resized/0004/2464/42464v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Washington, DC",
+    "address1": "1510 19th St Nw",
+    "address2": "",
+    "zip_code": "20036",
+    "city": "Washington",
+    "state_code": "DC",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcocktail.com/nine-startups-showcased-at-tech-cocktail-dc-9-2010-06",
+    "title": ""},
+   {"external_url": "http://thinkvitamin.com/business/around-the-web-structo-3-0-missteps-hackfwd-launchlist/",
+    "title": ""},
+   {"external_url": "http://techcocktail.com/struc-to-forms-in-the-cloud-for-web-development-2010-06",
+    "title": ""},
+   {"external_url": "http://www.washingtonpost.com/wp-dyn/content/article/2010/06/11/AR2010061105746.html",
+    "title": ""}]}

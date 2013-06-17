@@ -1,0 +1,132 @@
+{"name": "Acadia",
+ "permalink": "acadia",
+ "crunchbase_url": "http://www.crunchbase.com/company/acadia",
+ "homepage_url": "http://www.vce.com",
+ "blog_url": "http://twitter.com/VCE_Computing",
+ "blog_feed_url": "",
+ "twitter_username": "VCE_Computing",
+ "category_code": "enterprise",
+ "number_of_employees": 1000,
+ "founded_year": 2009,
+ "founded_month": 11,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "vblock, vce, infrastructure, datacenter, virtualization, legacy, transformation",
+ "alias_list": null,
+ "email_address": "moreinfo@vce.com",
+ "phone_number": "+1-855-823-1317",
+ "description": "Vblock Infrastructure Platforms",
+ "created_at": "Tue Jun 15 03:50:02 UTC 2010",
+ "updated_at": "Thu Sep 29 22:59:12 UTC 2011",
+ "overview": "\u003Cp\u003EACADIA offers streamlined approaches to enable pervasive virtualization and private cloud solutions. \u003C/p\u003E\n\n\u003Cp\u003EACADIA is a joint venture between by Cisco and EMC, VMware, and Intel to help enterprises more quickly and easily virtualize their data centers and evolve to private cloud infrastructures, while minimizing risk and complexity.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[136,
+       64],
+      "assets/images/resized/0009/0738/90738v2-max-150x150.png"],
+     [[136,
+       64],
+      "assets/images/resized/0009/0738/90738v2-max-250x250.png"],
+     [[136,
+       64],
+      "assets/images/resized/0009/0738/90738v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Capellas",
+      "permalink": "michael-capellas",
+      "image":
+       {"available_sizes":
+         [[[121,
+            150],
+           "assets/images/resized/0009/0628/90628v2-max-150x150.jpg"],
+          [[132,
+            163],
+           "assets/images/resized/0009/0628/90628v2-max-250x250.jpg"],
+          [[132,
+            163],
+           "assets/images/resized/0009/0628/90628v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EACADIA\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "Principal Technology Consultant",
+    "person":
+     {"first_name": "Jay",
+      "last_name": "Cuthrell",
+      "permalink": "jay-cuthrell",
+      "image":
+       {"available_sizes":
+         [[[150,
+            149],
+           "assets/images/resized/0006/7476/67476v5-max-150x150.jpg"],
+          [[250,
+            248],
+           "assets/images/resized/0006/7476/67476v5-max-250x250.jpg"],
+          [[352,
+            350],
+           "assets/images/resized/0006/7476/67476v5-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJay Cuthrell\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.vce.com/pdf/media/vce-pr-2011-01-20-brand-conversion.pdf",
+   "source_description": "VCE COALITION AND ACADIA COMBINED AND RENAMED VCE, THE VIRTUAL COMPUTING  ENVIRONMENT COMPANY",
+   "acquired_year": 2011,
+   "acquired_month": 1,
+   "acquired_day": 20,
+   "acquiring_company":
+    {"name": "VCE",
+     "permalink": "vce",
+     "image":
+      {"available_sizes":
+        [[[150,
+           150],
+          "assets/images/resized/0015/3919/153919v5-max-150x150.jpg"],
+         [[250,
+           250],
+          "assets/images/resized/0015/3919/153919v5-max-250x250.jpg"],
+         [[276,
+           276],
+          "assets/images/resized/0015/3919/153919v5-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "75254",
+    "city": "Dallas",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.cio.com/article/print/506615",
+    "title": "Acadia Gets Cloud-Computing Venture Rolling in Asia"},
+   {"external_url": "http://www.networkworld.com/news/2009/110909-acadia-cisco-emc-vmware.html",
+    "title": "Acadia, Cisco, EMC, VMware data center cloud unveiled"}]}

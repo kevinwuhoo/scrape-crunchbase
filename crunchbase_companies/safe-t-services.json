@@ -1,0 +1,77 @@
+{"name": "Safe T Services",
+ "permalink": "safe-t-services",
+ "crunchbase_url": "http://www.crunchbase.com/company/safe-t-services",
+ "homepage_url": "https://www.threadthat.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "MrThreadThat",
+ "category_code": "security",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "threaded-messaging, private, secure, encrypted, encrypted-email, private-email, secure-email, secret-email, hipaa, hipaa-compliance, hipaa-rules, hipaa-email, confidential-email, patient-health-information, phi, multifactor-authentication",
+ "alias_list": null,
+ "email_address": "matt.schneider@safetservices.com",
+ "phone_number": "734-634-1574",
+ "description": "Secure Internet Communications",
+ "created_at": "Sat Jan 30 19:12:54 UTC 2010",
+ "updated_at": "Wed Mar 10 17:54:48 UTC 2010",
+ "overview": "\u003Cp\u003ESafe T Services LLC, a small business operating in Michigan, has created an innovative threaded messaging solution that provides privacy, security and encryption in an easy-to-use web application.\u003C/p\u003E\n\n\u003Cp\u003EAs the name implies, ThreadThat.com is built around the concept that conversations that take place over time can be organized into \u00e2\u20ac\u0153threads\u00e2\u20ac\u009d. As the FAQ for ThreadThat.com explains, all messages and files are protected from accidental discovery using AES 256-bit encryption while in-transit between the browser and web server and while at-rest on the database server.  The site offers two levels of privacy - confidential and secret.  The later requires the use of passkeys to protect thread content.  A proprietary passkey manager is built in to make the use of passkeys less objectionable.  Passkeys can be communicated to recipients using unsecured email without compromising security since those recipients must log into their account before they can access any threads.\u003C/p\u003E\n\n\u003Cp\u003EAny email account(s) you own can be used with ThreadThat.com.  The private content of your threads is never transmitted or stored unencrypted.  Only notifications of new and updated threads are sent via email.  Threads are addressed just like email and can be sent to anyone even if they do not have a ThreadThat account.  Notification emails are automatically sent addressed from you and addressed to each recipient individually.  If you address a thread to 10 people, ThreadThat.com sends 10 emails - one to each recipient email address.  All recipients are required to create an account using their respective email addresses before they can access your threads.\u003C/p\u003E\n\n\u003Cp\u003ESome of the security features in ThreadThat.com are:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ESecure Login (optional multifactor authentication)\u003C/li\u003E\n\u003Cli\u003EEmail account verification (proof of ownership)\u003C/li\u003E\n\u003Cli\u003ENew IP address detection (email challenge to prevent unauthorized account use)\u003C/li\u003E\n\u003Cli\u003EMultiple session detection (concurrent logins from multiple locations not allowed)\u003C/li\u003E\n\u003Cli\u003ESession timeout (automatic logoff after specified amount of time)\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003ESome security features can be disabled or customized in user preferences.\u003C/p\u003E\n\n\u003Cp\u003EOther features in ThreadThat.com include:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EMultifactor Authentication using any mobile phone\u003C/li\u003E\n\u003Cli\u003EUnlimited attachments of up to 30M each\u003C/li\u003E\n\u003Cli\u003EUnlimited confidential and secret threads\u003C/li\u003E\n\u003Cli\u003EAnonymous accounts\u003C/li\u003E\n\u003Cli\u003EDelete messages and users from any thread you own\u003C/li\u003E\n\u003Cli\u003EPrevent recipients from inviting others to your threads\u003C/li\u003E\n\u003Cli\u003E\u0026#8220;Read Only\u0026#8221; threads\u003C/li\u003E\n\u003Cli\u003ERich text controls to format thread content\u003C/li\u003E\n\u003Cli\u003EAutomatic notifications to email and/or mobile device\u003C/li\u003E\n\u003Cli\u003ENotification template for new thread notifications\u003C/li\u003E\n\u003Cli\u003ESelf maintaining address book\u003C/li\u003E\n\u003Cli\u003EPasskey manager\u003C/li\u003E\n\u003Cli\u003EInstant account and thread deletion\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EYou can register all of your email addresses in one ThreadThat account.  You can then select any email address you own for your thread notifications.  This allows you to use a single ThreadThat account for communicating with family, friends, co-workers and clients.\u003C/p\u003E\n\n\u003Cp\u003EThis site was developed using Microsoft ASP.NET 3.5 and SQL Server 2008, Telerik ASP.NET Ajax toolkit, Ajax Uploader ASP.NET Upload component and wodCrypt Active X Component.  It is not necessary to download or install anything to use the service.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       54],
+      "assets/images/resized/0007/5504/75504v2-max-150x150.png"],
+     [[120,
+       54],
+      "assets/images/resized/0007/5504/75504v2-max-250x250.png"],
+     [[120,
+       54],
+      "assets/images/resized/0007/5504/75504v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Schneider",
+      "permalink": "matthew-schneider",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "48185",
+    "city": "Westland",
+    "state_code": "MI",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

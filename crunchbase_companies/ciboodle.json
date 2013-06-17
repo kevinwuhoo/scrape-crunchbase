@@ -1,0 +1,175 @@
+{"name": "Ciboodle",
+ "permalink": "ciboodle",
+ "crunchbase_url": "http://www.crunchbase.com/company/ciboodle",
+ "homepage_url": "http://www.sword-ciboodle.com",
+ "blog_url": "http://www.sword-ciboodle.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 200,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 16,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "contact-center-software, call-center-software, contact-center-vendor, call-center-vendor, call-center, contact-center, chat-vendor, customer-service-software",
+ "alias_list": null,
+ "email_address": "mitch.lieberman@sword-ciboodle.com",
+ "phone_number": "312 447 5600",
+ "description": "Multi-channel Contact Center Software",
+ "created_at": "Fri Jul 15 14:03:49 UTC 2011",
+ "updated_at": "Fri Jul 15 17:20:40 UTC 2011",
+ "overview": "\u003Cp\u003ECiboodle is customer interaction software that manages the front office customer service and sales interactions for some of the most successful companies in the world.\u003C/p\u003E\n\n\u003Cp\u003EThe Ciboodle platform is organized into product modules so as to accelerate your ability to deliver consistent customer service no matter which channel is chosen by your customer.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0014/4406/144406v2-max-150x150.jpg"],
+     [[233,
+       44],
+      "assets/images/resized/0014/4406/144406v2-max-250x250.jpg"],
+     [[233,
+       44],
+      "assets/images/resized/0014/4406/144406v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO Americas",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "DeFrancisco",
+      "permalink": "richard-defrancisco",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RightNow Technologies",
+      "permalink": "rightnow-technologies",
+      "image":
+       {"available_sizes":
+         [[[129,
+            135],
+           "assets/images/resized/0004/9500/49500v3-max-150x150.png"],
+          [[129,
+            135],
+           "assets/images/resized/0004/9500/49500v3-max-250x250.png"],
+          [[129,
+            135],
+           "assets/images/resized/0004/9500/49500v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pegasystems",
+      "permalink": "pegasystems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/6709/16709v2-max-150x150.jpg"],
+          [[169,
+            37],
+           "assets/images/resized/0001/6709/16709v2-max-250x250.jpg"],
+          [[169,
+            37],
+           "assets/images/resized/0001/6709/16709v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Siebel Systems",
+      "permalink": "siebel",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/7824/17824v1-max-150x150.png"],
+          [[200,
+            60],
+           "assets/images/resized/0001/7824/17824v1-max-250x250.png"],
+          [[200,
+            60],
+           "assets/images/resized/0001/7824/17824v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "EMEA Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Glasgow",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null},
+   {"description": "US Headquarters",
+    "address1": "125 S. Wacker",
+    "address2": "",
+    "zip_code": "",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

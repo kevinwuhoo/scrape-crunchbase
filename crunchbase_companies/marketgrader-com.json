@@ -1,0 +1,122 @@
+{"name": "Marketgrader.com",
+ "permalink": "marketgrader-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/marketgrader-com",
+ "homepage_url": "http://www.marketgrader.com",
+ "blog_url": "http://www.marketgrader.com/MGMainWeb/main/mg_blog.jsp",
+ "blog_feed_url": "",
+ "twitter_username": "Marketgrader",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 1999,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "stock, research, stock-picks, stock-analysis, money, finance, etf",
+ "alias_list": null,
+ "email_address": "scott.eisner@marketgrader.com",
+ "phone_number": "561-271-7316",
+ "description": "Stock research and analysis",
+ "created_at": "Mon Jun 06 20:58:23 UTC 2011",
+ "updated_at": "Wed Jun 15 22:49:08 UTC 2011",
+ "overview": "\u003Cp\u003EMarketgrader.com (http://www.marketgrader.com) is a stock research company that uses extensive technology to analyze the financial statements of publically traded companies in the United States and Canada for the preparation of detailed research reports. \u003C/p\u003E\n\n\u003Cp\u003EMarketgrader.com also offers a top down sentiment indicator that factors in price trend, price momentum, earnings guidance, and short interest to complement their fundamental grades. Additionally, they have introduced ETF Grader to help our clients differentiate the many ETFs in the market today.\u003C/p\u003E\n\n\u003Cp\u003EIt bears mention that the Barron\u0026#8217;s 400 Index that Marketgrader constructed for Dow Jones and maintain for them has also outperformed its benchmark the S\u0026amp;P 500 by substantial margins: -39.99 (Barron\u0026#8217;s 400) Vs  - 38.49 (S\u0026amp;P 500) in 2008;  + 39.09 (Barron\u0026#8217;s 400) Vs. + 23.45 (S\u0026amp;P 500) in 2009; + 23.57 (Barron\u0026#8217;s 400) Vs. 12.78 (S\u0026amp;P 500) in 2010 and YTD +9.96 (Barron\u0026#8217;s 400) Vs. +4.75 (S\u0026amp;P 500.)\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0013/7927/137927v2-max-150x150.png"],
+     [[250,
+       47],
+      "assets/images/resized/0013/7927/137927v2-max-250x250.png"],
+     [[302,
+       57],
+      "assets/images/resized/0013/7927/137927v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Carlos",
+      "last_name": "Diez",
+      "permalink": "carlos-diez",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Morningstar",
+      "permalink": "morningstar",
+      "image":
+       {"available_sizes":
+         [[[150,
+            79],
+           "assets/images/resized/0005/4946/54946v1-max-150x150.png"],
+          [[170,
+            90],
+           "assets/images/resized/0005/4946/54946v1-max-250x250.png"],
+          [[170,
+            90],
+           "assets/images/resized/0005/4946/54946v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zacks Investment Research",
+      "permalink": "zacks-investment-research",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0012/2634/122634v2-max-150x150.jpg"],
+          [[250,
+            54],
+           "assets/images/resized/0012/2634/122634v2-max-250x250.jpg"],
+          [[277,
+            60],
+           "assets/images/resized/0012/2634/122634v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TheStreet",
+      "permalink": "thestreet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/2014/2014v1-max-150x150.png"],
+          [[187,
+            46],
+           "assets/images/resized/0000/2014/2014v1-max-250x250.png"],
+          [[187,
+            46],
+           "assets/images/resized/0000/2014/2014v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "156 Almeria Avenue",
+    "address2": "",
+    "zip_code": "33134",
+    "city": "Coral Gables",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://online.barrons.com/article/SB50001424052970204914704575490173495537664.html",
+    "title": "Barron's Article about Marketgrader and the Barron's 400"}]}

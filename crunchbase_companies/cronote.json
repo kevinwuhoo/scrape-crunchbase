@@ -1,0 +1,104 @@
+{"name": "Cronote",
+ "permalink": "cronote",
+ "crunchbase_url": "http://www.crunchbase.com/company/cronote",
+ "homepage_url": "http://www.cronote.com",
+ "blog_url": "http://blog.cronote.com/",
+ "blog_feed_url": "",
+ "twitter_username": "CronoteTeam",
+ "category_code": "advertising",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "reminders, product-reminders, product-launch-marketing, text-message-reminders, email-reminders",
+ "alias_list": null,
+ "email_address": "cronote@cronote.com",
+ "phone_number": "(623) 432-0000",
+ "description": "Sends text message reminders",
+ "created_at": "Sun Feb 26 11:11:21 UTC 2012",
+ "updated_at": "Sat Apr 21 07:37:08 UTC 2012",
+ "overview": "\u003Cp\u003ECronote allows individuals and businesses to schedule email and text message reminders.\u003C/p\u003E\n\n\u003Cp\u003ECronote currently offers a consumer reminder service, an iPhone application, and a website button called the Remind button. The consumer reminder service allows anyone to schedule email or text message reminders. Email reminders are free while text message reminders cost five cents.\u003C/p\u003E\n\n\u003Cp\u003EThe Remind button is Cronote\u0026#8217;s novel advertising solution for business. It allows website visitors to schedule a reminder about current and upcoming products. Businesses that are about to launch a new product can place a Remind button on their website in order to capture pre-launch traffic. Email reminders sent via a Remind button are free while text message reminders cost five cents.\u003C/p\u003E\n\n\u003Cp\u003EThe main Cronote website, www.cronote.com, provides the consumer reminder service and the tools to build Remind buttons using a simple form. Cronote is also developing a REST API for business use that will allow the creation of multiple reminders and Remind buttons programmatically.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       149],
+      "assets/images/resized/0017/5828/175828v2-max-150x150.png"],
+     [[250,
+       249],
+      "assets/images/resized/0017/5828/175828v2-max-250x250.png"],
+     [[336,
+       335],
+      "assets/images/resized/0017/5828/175828v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Co-Founder",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Abajian",
+      "permalink": "aaron-abajian",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO, Co-Founder",
+    "person":
+     {"first_name": "Ann",
+      "last_name": "Nguyen",
+      "permalink": "ann-nguyen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "RemindThis",
+      "permalink": "remindthis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0011/4617/114617v2-max-150x150.jpg"],
+          [[250,
+            61],
+           "assets/images/resized/0011/4617/114617v2-max-250x250.jpg"],
+          [[272,
+            67],
+           "assets/images/resized/0011/4617/114617v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Press Releases",
+    "is_past": false,
+    "provider":
+     {"name": "PRWeb",
+      "permalink": "prweb",
+      "image": null}}],
+ "total_money_raised": "$11k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://yei.yale.edu/yei-summer-fellowship",
+    "source_description": "Yale Entrepreneurial Institute Summer Fellowship",
+    "raised_amount": 11000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 2,
+    "funded_day": 14,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

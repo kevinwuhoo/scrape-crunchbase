@@ -1,0 +1,128 @@
+{"name": "APO Box",
+ "permalink": "apo-box",
+ "crunchbase_url": "http://www.crunchbase.com/company/apo-box",
+ "homepage_url": "http://www.apobox.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "apobox",
+ "category_code": "other",
+ "number_of_employees": 14,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "shipping",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "1-800-409-6013",
+ "description": "APO/FPO Shipping",
+ "created_at": "Sat May 23 18:13:54 UTC 2009",
+ "updated_at": "Fri Apr 15 01:25:24 UTC 2011",
+ "overview": "\u003Cp\u003EAPO Box\u00e2\u201e\u00a2 is a private company that forwards packages sent via FedEx\u00e2\u201e\u00a2, UPS\u00e2\u201e\u00a2, and DHL\u00e2\u201e\u00a2 to military APO FPO DPO addresses overseas via the US Post Office (USPS).\u003C/p\u003E\n\n\u003Cp\u003EThe company was started because many major online companies like Apple\u00e2\u201e\u00a2, Target\u00e2\u201e\u00a2, Best Buy\u00e2\u201e\u00a2, Dell\u00e2\u201e\u00a2, etc did not ship to APO FPO DPO addresses. Most large online companies have exclusive bulk shipping contracts with UPS, FedEx and DHL in order to get the best rates.\u003C/p\u003E\n\n\u003Cp\u003EThe exclusive shipping contract often excludes shipping via any other carrier to include the United States Post Office (USPS). The USPS is the only method that can be used to send to a military APO and FPO address. To solve this, the APOBox service provides anyone with an APO or FPO address a US shipping address to ship any package to. They then forward your mail via the US postal service to your APO FPO.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0004/5286/45286v2-max-150x150.png"],
+     [[250,
+       57],
+      "assets/images/resized/0004/5286/45286v2-max-250x250.png"],
+     [[253,
+       58],
+      "assets/images/resized/0004/5286/45286v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "APO Box Direct\u00e2\u201e\u00a2",
+    "permalink": "apo-box-direct",
+    "image": null},
+   {"name": "ParcelFlow\u00e2\u201e\u00a2",
+    "permalink": "parcelflow",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "ShipitAPO",
+      "permalink": "shipitapo",
+      "image":
+       {"available_sizes":
+         [[[85,
+            102],
+           "assets/images/resized/0012/5474/125474v2-max-150x150.png"],
+          [[85,
+            102],
+           "assets/images/resized/0012/5474/125474v2-max-250x250.png"],
+          [[85,
+            102],
+           "assets/images/resized/0012/5474/125474v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Norsac LLC",
+      "permalink": "norsac-llc",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Morgan, Lewis, \u0026 Bockius",
+      "permalink": "morgan-lewis",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Central Office",
+    "address1": "102 N Front St",
+    "address2": "",
+    "zip_code": "50517",
+    "city": "Bancroft",
+    "state_code": "IA",
+    "country_code": "USA",
+    "latitude": 43.2933829,
+    "longitude": -94.2191382}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0004/5285/45285v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0004/5285/45285v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0004/5285/45285v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

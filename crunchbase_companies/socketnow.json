@@ -1,0 +1,82 @@
+{"name": "SocketNow",
+ "permalink": "socketnow",
+ "crunchbase_url": "http://www.crunchbase.com/company/socketnow",
+ "homepage_url": "http://www.socketnow.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "socketnow",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "websockets-realtime-html5-cloud-service-saas",
+ "alias_list": null,
+ "email_address": "info@socketnow.com",
+ "phone_number": "(888) 669-6007",
+ "description": "Cloud Websocket Service",
+ "created_at": "Mon Nov 28 23:58:15 UTC 2011",
+ "updated_at": "Thu Dec 01 19:55:04 UTC 2011",
+ "overview": "\u003Cp\u003ESocketNow is a hosted service that adds real-time functionality to web and mobile apps. It enables websites to push messages and client-side events from the server to the client in real-time, without any refreshing or polling for updates. The service scales automatically and offers a simple API to push messages/events. SocketNow takes advantage of WebSocket technology along with other methods to provide support for all modern browsers and mobile devices.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0016/4323/164323v2-max-150x150.png"],
+     [[250,
+       73],
+      "assets/images/resized/0016/4323/164323v2-max-250x250.png"],
+     [[450,
+       131],
+      "assets/images/resized/0016/4323/164323v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President/Founder",
+    "person":
+     {"first_name": "Anand",
+      "last_name": "Capur",
+      "permalink": "anand-capur",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Rackspace Cloud",
+      "permalink": "rackspace-cloud",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Columbus",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

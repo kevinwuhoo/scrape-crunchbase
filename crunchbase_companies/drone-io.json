@@ -1,0 +1,123 @@
+{"name": "Drone.io",
+ "permalink": "drone-io",
+ "crunchbase_url": "http://www.crunchbase.com/company/drone-io",
+ "homepage_url": "https://drone.io",
+ "blog_url": "http://blog.drone.io",
+ "blog_feed_url": "",
+ "twitter_username": "droneio",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 10,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "continuous-integration, continuous-deployment, ci, testing, cloud",
+ "alias_list": null,
+ "email_address": "support@drone.io",
+ "phone_number": "",
+ "description": "Continuous Integration and Deployment",
+ "created_at": "Mon Oct 08 02:38:17 UTC 2012",
+ "updated_at": "Wed Oct 17 23:49:13 UTC 2012",
+ "overview": "\u003Cp\u003EDrone.io is a hosted Continuous Integration and Deployment service.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Brad",
+      "last_name": "Rydzewski",
+      "permalink": "brad-rydzewski",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Burke",
+      "permalink": "thomas-burke",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CircleCi",
+      "permalink": "circle-ci",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0020/5535/205535v4-max-150x150.png"],
+          [[250,
+            76],
+           "assets/images/resized/0020/5535/205535v4-max-250x250.png"],
+          [[450,
+            137],
+           "assets/images/resized/0020/5535/205535v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TDDium",
+      "permalink": "tddium",
+      "image": null}},
+   {"competitor":
+     {"name": "Codeship",
+      "permalink": "codeship",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0014/0094/140094v8-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0014/0094/140094v8-max-250x250.png"],
+          [[450,
+            108],
+           "assets/images/resized/0014/0094/140094v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Travis CI",
+      "permalink": "travis-ci",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/8944/258944v2-max-150x150.jpg"],
+          [[244,
+            244],
+           "assets/images/resized/0025/8944/258944v2-max-250x250.jpg"],
+          [[244,
+            244],
+           "assets/images/resized/0025/8944/258944v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        70],
+       "assets/images/resized/0021/4592/214592v2-max-150x150.png"],
+      [[250,
+        117],
+       "assets/images/resized/0021/4592/214592v2-max-250x250.png"],
+      [[450,
+        211],
+       "assets/images/resized/0021/4592/214592v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

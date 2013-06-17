@@ -1,0 +1,89 @@
+{"name": "Sightec",
+ "permalink": "sightec",
+ "crunchbase_url": "http://www.crunchbase.com/company/sightec",
+ "homepage_url": "http://www.sightec.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "image-registration, software-stabilizer, software-stabilization, super-resolution, detection, tracking, video-mosaicing, 3d-modeling, lossless-compression, real-time, video-analysis, image-processing, subpixel-accuracy, visual-perception-technologies",
+ "alias_list": null,
+ "email_address": "mgmt@sightec.com",
+ "phone_number": "+972774320914",
+ "description": "Visual Perception Technologies",
+ "created_at": "Tue Apr 09 10:08:51 UTC 2013",
+ "updated_at": "Tue Apr 23 06:52:48 UTC 2013",
+ "overview": "\u003Cp\u003ESightec is a computer vision R\u0026amp;D company focusing on the analysis of video and still images at a subpixel level. Sightec tackles traditional image processing problems with alternative methodologies and solutions based on mathematical models \u2013 contrary to the industry-wide approach of searching for matching \u201clandmarks\u201d.\u003C/p\u003E\n\n\u003Cp\u003ESightec\u0026#8217;s capabilities include: software image stabilization, image super-resolution, object detection, object tracking, video mosaicing, 3D modeling and high-ratio lossless compression.\u003C/p\u003E\n\n\u003Cp\u003ESightec\u0026#8217;s intellectual property is patented: 3 issued US patents and 5 pending US patent applications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0024/9786/249786v2-max-150x150.png"],
+     [[250,
+       69],
+      "assets/images/resized/0024/9786/249786v2-max-250x250.png"],
+     [[271,
+       75],
+      "assets/images/resized/0024/9786/249786v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Prof.",
+      "last_name": "Joseph Francos",
+      "permalink": "prof-joseph-francos",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "Rami Hagege",
+      "permalink": "dr-rami-hagege",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tel Aviv",
+    "address1": "34 HaHagana",
+    "address2": "",
+    "zip_code": "6772137",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": 32.0540708,
+    "longitude": 34.7860184}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"430\" height=\"270\" src=\"http://www.youtube.com/embed/AaoH8neJ_xE\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESightec Concept\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"430\" height=\"270\" src=\"http://www.youtube.com/embed/r-ini98HCQ0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESightec Vs. YouTube\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"430\" height=\"270\" src=\"http://www.youtube.com/embed/jCewNw5FVu0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESightec Vs. Adobe\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

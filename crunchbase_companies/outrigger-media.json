@@ -1,0 +1,110 @@
+{"name": "Outrigger Media",
+ "permalink": "outrigger-media",
+ "crunchbase_url": "http://www.crunchbase.com/company/outrigger-media",
+ "homepage_url": "http://www.outriggermedia.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "outriggermedia",
+ "category_code": "games_video",
+ "number_of_employees": 12,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-video, digital-advertising, producers, brands, marketers, platform",
+ "alias_list": null,
+ "email_address": "kate@outriggermedia.com",
+ "phone_number": "",
+ "description": "Online video monetization ",
+ "created_at": "Tue Apr 17 21:06:21 UTC 2012",
+ "updated_at": "Mon May 13 10:28:13 UTC 2013",
+ "overview": "\u003Cp\u003EOutrigger Media Inc. is a leading online video advertising company focused on connecting brands with meaningful video content. Since 2009, the company has partnered with a wide range of professional producers and aggregators, as well as with some of the biggest marketers in the world. The company\u0026#8217;s focus on developing better contextual relevance between video content and campaign messages has led to the development of OpenSlate Studios, a data and marketplace platform connecting innovative brands and qualified producers at scale. With OpenSlate, Outrigger is introducing a new measure for valuing independent video content. For more information, visit www.OpenSlateStudios.com. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "OpenSlate Studios",
+    "permalink": "openslate-studios",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Henry",
+      "permalink": "mike-henry",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tadcast",
+      "permalink": "tadcast",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0011/8317/118317v2-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0011/8317/118317v2-max-250x250.jpg"],
+          [[450,
+            92],
+           "assets/images/resized/0011/8317/118317v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PlaceVine",
+      "permalink": "placevine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0003/0249/30249v3-max-150x150.png"],
+          [[217,
+            84],
+           "assets/images/resized/0003/0249/30249v3-max-250x250.png"],
+          [[217,
+            84],
+           "assets/images/resized/0003/0249/30249v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.marketwatch.com/story/outrigger-media-announces-series-a-equity-financing-led-by-spring-mountain-capital-2012-04-11",
+    "source_description": "Press Release ",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2012,
+    "funded_month": 4,
+    "funded_day": 11,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "460 W. 34th Street",
+    "address2": "",
+    "zip_code": "10001",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://blip.tv/play/goRrgvf4DwI.html?p=1\" width=\"430\" height=\"270\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E\u003Cembed type=\"application/x-shockwave-flash\" src=\"http://a.blip.tv/api.swf#goRrgvf4DwI\" style=\"display:none\"\u003E\u003C/embed\u003E",
+    "description": "\u003Cp\u003EThis video was originally published on \u003Ca href=\"http://www.beet.tv/2012/07/outrigger-mediapaul.html\" title=\"Beet.TV\" rel=\"nofollow\"\u003EBeet.TV\u003C/a\u003E\u003C/p\u003E"},
+   {"embed_code": "\u003Cscript type='text/javascript' src='http://pshared.5min.com/Scripts/PlayerSeed.js?sid=815\u0026width=560\u0026height=345\u0026playList=517767964'\u003E\u003C/script\u003E",
+    "description": "\u003Cp\u003EThis video was originally published \u003Ca href=\"http://www.beet.tv/2013/05/openslate.html\" title=\"on Beet.TV\" rel=\"nofollow\"\u003Eon Beet.TV\u003C/a\u003E\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.outriggermedia.com",
+    "title": "Outrigger Media website "}]}

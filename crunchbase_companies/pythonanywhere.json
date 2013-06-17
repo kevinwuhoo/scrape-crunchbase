@@ -1,0 +1,125 @@
+{"name": "PythonAnywhere",
+ "permalink": "pythonanywhere",
+ "crunchbase_url": "http://www.crunchbase.com/company/pythonanywhere",
+ "homepage_url": "http://www.pythonanywhere.com/",
+ "blog_url": "http://blog.pythonanywhere.com/",
+ "blog_feed_url": "http://blog.pythonanywhere.com/feed/",
+ "twitter_username": "pythonanywhere",
+ "category_code": "network_hosting",
+ "number_of_employees": 4,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "python, ide, programming, hosting, web-hosting, django, cloud, education, paas, platform-as-a-service",
+ "alias_list": null,
+ "email_address": "info@pythonanywhere.com",
+ "phone_number": "+44 20 72536372",
+ "description": "Online Python IDE/hosting",
+ "created_at": "Thu May 17 13:52:52 UTC 2012",
+ "updated_at": "Wed Apr 24 03:11:55 UTC 2013",
+ "overview": "\u003Cp\u003EPythonAnywhere is a popular and growing cloud-based Python development and platform-as-a-service.\u003C/p\u003E\n\n\u003Cp\u003EDevelopers can code, test, run and share their programs and web applications from any device with a web browser \u0026#8211; including from phones and tablets.\u003C/p\u003E\n\n\u003Cp\u003EBy removing the need to install Python and its many useful extensions, it makes it easier for new developers to get started.  And it people can share their consoles with others, which helps educators and trainers.\u003C/p\u003E\n\n\u003Cp\u003EMost major Python web frameworks are supported, with quick-start wizards to make deploying a new application simple.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0019/0231/190231v2-max-150x150.png"],
+     [[250,
+       46],
+      "assets/images/resized/0019/0231/190231v2-max-250x250.png"],
+     [[450,
+       83],
+      "assets/images/resized/0019/0231/190231v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Giles",
+      "last_name": "Thomas",
+      "permalink": "giles-thomas",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google App Engine",
+      "permalink": "google-app-engine",
+      "image": null}},
+   {"competitor":
+     {"name": "Cloud9 IDE",
+      "permalink": "ajax-cloud9-ide",
+      "image":
+       {"available_sizes":
+         [[[150,
+            141],
+           "assets/images/resized/0012/4511/124511v3-max-150x150.png"],
+          [[214,
+            202],
+           "assets/images/resized/0012/4511/124511v3-max-250x250.png"],
+          [[214,
+            202],
+           "assets/images/resized/0012/4511/124511v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Koding",
+      "permalink": "kodingen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0008/2692/82692v4-max-150x150.png"],
+          [[250,
+            159],
+           "assets/images/resized/0008/2692/82692v4-max-250x250.png"],
+          [[440,
+            280],
+           "assets/images/resized/0008/2692/82692v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Resolver Systems Ltd",
+    "address2": "17a Clerkenwell Road",
+    "zip_code": "EC1M 5RD",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

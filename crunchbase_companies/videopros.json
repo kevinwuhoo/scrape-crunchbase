@@ -1,0 +1,147 @@
+{"name": "VideoPros",
+ "permalink": "videopros",
+ "crunchbase_url": "http://www.crunchbase.com/company/videopros",
+ "homepage_url": "http://www.VideoPros.com/",
+ "blog_url": "http://blog.videopros.com",
+ "blog_feed_url": "",
+ "twitter_username": "videopros",
+ "category_code": "consulting",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video-production, video-distribution, video-streaming",
+ "alias_list": "",
+ "email_address": "info@VideoPros.com",
+ "phone_number": "",
+ "description": "Video Production Services",
+ "created_at": "Tue Nov 04 05:22:14 UTC 2008",
+ "updated_at": "Mon Mar 28 21:21:56 UTC 2011",
+ "overview": "\u003Cp\u003EVideoPros helps people get great videos to communicate better with clients and customers. The website is a venue to license, manage and distribute professional videos. A lot of people call it \u0026#8220;Hulu for businesses and professionals.\u0026#8221;\u003C/p\u003E\n\n\u003Cp\u003EThe VideoPros mission is simple - Make premium video easy and affordable. Its vision is a world where everyone can use professional videos to communicate better to lead more joyful, prosperous lives. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0002/7785/27785v8-max-150x150.jpg"],
+     [[250,
+       41],
+      "assets/images/resized/0002/7785/27785v8-max-250x250.jpg"],
+     [[450,
+       74],
+      "assets/images/resized/0002/7785/27785v8-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Video Production Services",
+    "permalink": "professional-video-licensing",
+    "image": null},
+   {"name": "Video Pro Directory",
+    "permalink": "video-pro-directory",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Murphy",
+      "permalink": "michael-murphy-4",
+      "image":
+       {"available_sizes":
+         [[[133,
+            150],
+           "assets/images/resized/0008/1340/81340v2-max-150x150.jpg"],
+          [[187,
+            210],
+           "assets/images/resized/0008/1340/81340v2-max-250x250.jpg"],
+          [[187,
+            210],
+           "assets/images/resized/0008/1340/81340v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "VP",
+    "person":
+     {"first_name": "Layne",
+      "last_name": "Solheim",
+      "permalink": "layne-solheim",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Murphy",
+      "permalink": "sean-murphy-4",
+      "image":
+       {"available_sizes":
+         [[[113,
+            150],
+           "assets/images/resized/0008/1339/81339v4-max-150x150.jpg"],
+          [[125,
+            165],
+           "assets/images/resized/0008/1339/81339v4-max-250x250.jpg"],
+          [[125,
+            165],
+           "assets/images/resized/0008/1339/81339v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Video Streaming",
+    "is_past": false,
+    "provider":
+     {"name": "LimeLight Networks",
+      "permalink": "limelight-networks",
+      "image": null}},
+   {"title": "Storage",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "CRM",
+    "is_past": false,
+    "provider":
+     {"name": "Salesforce.com",
+      "permalink": "salesforce-com-2",
+      "image": null}}],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

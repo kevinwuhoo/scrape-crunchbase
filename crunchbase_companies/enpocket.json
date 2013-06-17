@@ -1,0 +1,164 @@
+{"name": "Enpocket",
+ "permalink": "enpocket",
+ "crunchbase_url": "http://www.crunchbase.com/company/enpocket",
+ "homepage_url": "http://advertising.nokia.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, advertising",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Mobile Advertisments",
+ "created_at": "Thu Apr 23 00:02:41 UTC 2009",
+ "updated_at": "Mon Aug 29 03:02:30 UTC 2011",
+ "overview": "\u003Cp\u003EEnpocket, acquired by Nokia in 2007, allows brands to plan, create, execute, measure and optimize mobile advertising campaigns around the world. The Enpocket platform is a mobile advertising campaign management and delivery system distinguished by advanced consumer insight, targeting, and measurement. The platform can deliver mobile advertising across multiple formats including SMS, MMS, mobile Internet advertising, and video.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[145,
+       76],
+      "assets/images/resized/0006/8044/68044v2-max-150x150.png"],
+     [[145,
+       76],
+      "assets/images/resized/0006/8044/68044v2-max-250x250.png"],
+     [[145,
+       76],
+      "assets/images/resized/0006/8044/68044v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP of engineering",
+    "person":
+     {"first_name": "Ed",
+      "last_name": "Ho",
+      "permalink": "ed-ho",
+      "image":
+       {"available_sizes":
+         [[[95,
+            137],
+           "assets/images/resized/0023/5573/235573v1-max-150x150.png"],
+          [[95,
+            137],
+           "assets/images/resized/0023/5573/235573v1-max-250x250.png"],
+          [[95,
+            137],
+           "assets/images/resized/0023/5573/235573v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CEO \u0026 Co-Founder",
+    "person":
+     {"first_name": "Jonathon",
+      "last_name": "Linner",
+      "permalink": "jonathon-linner",
+      "image":
+       {"available_sizes":
+         [[[109,
+            143],
+           "assets/images/resized/0001/9959/19959v1-max-150x150.png"],
+          [[109,
+            143],
+           "assets/images/resized/0001/9959/19959v1-max-250x250.png"],
+          [[109,
+            143],
+           "assets/images/resized/0001/9959/19959v1-max-450x450.png"]],
+        "attribution": "\u003Cp\u003E\u003Ca href=\"http://www.limbo.com/scp/companybios?rp=scp%2Fcompanymediakit\" title=\"Limbo\" rel=\"nofollow\"\u003ELimbo\u003C/a\u003E\u003C/p\u003E"}}},
+   {"is_past": true,
+    "title": "Director, Business Development ",
+    "person":
+     {"first_name": "Christophe",
+      "last_name": "Garnier",
+      "permalink": "christophe-garnier",
+      "image":
+       {"available_sizes":
+         [[[150,
+            141],
+           "assets/images/resized/0006/6566/66566v5-max-150x150.jpg"],
+          [[222,
+            210],
+           "assets/images/resized/0006/6566/66566v5-max-250x250.jpg"],
+          [[222,
+            210],
+           "assets/images/resized/0006/6566/66566v5-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://deals.venturebeat.com/2006/11/02/mobile-marketing-co-enpocket-gets-2m-debt-from-leader-ventures/",
+    "source_description": "Mobile marketing co., Enpocket, gets $2M debt from Leader Ventures",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 11,
+    "funded_day": 2,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Leader Ventures",
+         "permalink": "leader-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               52],
+              "assets/images/resized/0000/2605/2605v1-max-150x150.png"],
+             [[250,
+               87],
+              "assets/images/resized/0000/2605/2605v1-max-250x250.png"],
+             [[285,
+               100],
+              "assets/images/resized/0000/2605/2605v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 100000000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "Insider info about the price",
+   "acquired_year": 2007,
+   "acquired_month": 10,
+   "acquired_day": 8,
+   "acquiring_company":
+    {"name": "Nokia",
+     "permalink": "nokia",
+     "image":
+      {"available_sizes":
+        [[[120,
+           50],
+          "assets/images/resized/0001/7958/17958v3-max-150x150.png"],
+         [[120,
+           50],
+          "assets/images/resized/0001/7958/17958v3-max-250x250.png"],
+         [[120,
+           50],
+          "assets/images/resized/0001/7958/17958v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

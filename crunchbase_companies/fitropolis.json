@@ -1,0 +1,102 @@
+{"name": "Fitropolis",
+ "permalink": "fitropolis",
+ "crunchbase_url": "http://www.crunchbase.com/company/fitropolis",
+ "homepage_url": "http://seattle.fitropolis.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "fitropolis",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "fitness, yoga, gyms, seattle",
+ "alias_list": null,
+ "email_address": "info@fitropolis.com",
+ "phone_number": "",
+ "description": "Fitness reviews and profiles",
+ "created_at": "Fri Dec 09 23:58:10 UTC 2011",
+ "updated_at": "Sun Dec 18 08:22:48 UTC 2011",
+ "overview": "\u003Cp\u003EFitropolis is an online guide to Seattle\u2019s fitness options, with profiles and reviews of 250+ gyms, yoga studios, boot camps, Pilates, and the like.\u003C/p\u003E\n\n\u003Cp\u003EFitropolis makes it easy for users to find fitness options near them, whether they\u2019re looking for a gym with a basketball court, or a yoga studio that offers child care.\u003C/p\u003E\n\n\u003Cp\u003EFitropolis formally launched in December 2011.  Fitropolis is located in Seattle, WA and was founded by two former Expedia VPs, Jenne Pierce and Troy Kaser.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0016/5959/165959v2-max-150x150.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0016/5959/165959v2-max-250x250.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0016/5959/165959v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Troy",
+      "last_name": "Kaser",
+      "permalink": "troy-kaser",
+      "image":
+       {"available_sizes":
+         [[[101,
+            150],
+           "assets/images/resized/0006/5081/65081v1-max-150x150.jpg"],
+          [[168,
+            250],
+           "assets/images/resized/0006/5081/65081v1-max-250x250.jpg"],
+          [[235,
+            349],
+           "assets/images/resized/0006/5081/65081v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EAutoquake.com\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Jenne",
+      "last_name": "Pierce",
+      "permalink": "jenne-pierce",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0016/5958/165958v2-max-150x150.jpg"],
+      [[250,
+        162],
+       "assets/images/resized/0016/5958/165958v2-max-250x250.jpg"],
+      [[450,
+        293],
+       "assets/images/resized/0016/5958/165958v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.geekwire.com/2011/expedia-execs-unveil-fitropolis-guide-gym-rats",
+    "title": "Former Expedia execs unveil Fitropolis, a guide for gym rats"},
+   {"external_url": "http://techflash.com/seattle/2011/12/fitropolis-does-the-heavy-lifting.html",
+    "title": "Fitropolis does the heavy lifting to find the right gym"},
+   {"external_url": "https://everymove.org/blog/fitropolis-like-yelp-but-for-fitness",
+    "title": "Fitropolis: Like Yelp, but for fitness"}]}

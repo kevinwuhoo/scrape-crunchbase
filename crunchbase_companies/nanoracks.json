@@ -1,0 +1,121 @@
+{"name": "NanoRacks",
+ "permalink": "nanoracks",
+ "crunchbase_url": "http://www.crunchbase.com/company/nanoracks",
+ "homepage_url": "http://nanoracks.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "NanoRacks",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Affordable space access",
+ "created_at": "Fri Jun 17 01:31:57 UTC 2011",
+ "updated_at": "Mon Jun 10 20:23:52 UTC 2013",
+ "overview": "\u003Cp\u003ENanoRacks provides the ultimate \u00e2\u20ac\u02dcPlug and Play\u00e2\u20ac\u2122 microgravity research facilities allowing small standardized payloads to be plugged into any of our platforms, providing interface with the Space Station power and data capabilities.\u003C/p\u003E\n\n\u003Cp\u003EOur philosophy is to bring together three concepts as our driving force: low-cost, standardization of hardware, and understanding the customer. We like to believe that in space, small is the new big. Read more about our vision.\u003C/p\u003E\n\n\u003Cp\u003EOur company brings together entrepreneurs, scientists and engineers who have real-life experience and share a passion for space including humanity\u00e2\u20ac\u2122s utilization of low-earth orbit. Find out more about our team.\u003C/p\u003E\n\n\u003Cp\u003ENanoRacks enjoys partnerships with a growing list of world-class organizations that allows us to provide seamless support from customer interface to payload development to space shuttle and space station integration. Find out more about our partners.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       102],
+      "assets/images/resized/0013/9628/139628v2-max-150x150.jpg"],
+     [[179,
+       122],
+      "assets/images/resized/0013/9628/139628v2-max-250x250.jpg"],
+     [[179,
+       122],
+      "assets/images/resized/0013/9628/139628v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jeffrey",
+      "last_name": "Manber",
+      "permalink": "jeffrey-manber",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO and CFO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Cummins",
+      "permalink": "chris-cummins",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Johnson",
+      "permalink": "mike-johnson-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://nanoracks.com/wp-content/uploads/NanoRacks-Release-08-NanoRacks-Announces-Funding-Round.pdf",
+    "source_description": "NanoRacks Announces Completion of Seed Round of Financing",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     []},
+   {"round_code": "a",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 2500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 6,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Emerge",
+         "permalink": "emerge",
+         "image":
+          {"available_sizes":
+            [[[150,
+               51],
+              "assets/images/resized/0007/9445/79445v1-max-150x150.jpg"],
+             [[186,
+               64],
+              "assets/images/resized/0007/9445/79445v1-max-250x250.jpg"],
+             [[186,
+               64],
+              "assets/images/resized/0007/9445/79445v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.forbes.com/sites/alexknapp/2011/11/21/nanoracks-is-making-space-science-affordable-for-everyone/",
+    "title": "NanoRacks Is Making Space Science Affordable For Everyone"},
+   {"external_url": "http://www.fastcompany.com/3000152/nanoracks-ups-outer-space-shipping",
+    "title": "NanoRacks Is The UPS Of Outer Space Shipping"}]}

@@ -1,0 +1,187 @@
+{"name": "LocalUncle",
+ "permalink": "localuncle",
+ "crunchbase_url": "http://www.crunchbase.com/company/localuncle",
+ "homepage_url": "http://localuncle.com",
+ "blog_url": "http://blog.localuncle.com",
+ "blog_feed_url": "",
+ "twitter_username": "localuncle",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "qa, location-based, local-search",
+ "alias_list": "Loqize.me",
+ "email_address": "hello@localuncle.com",
+ "phone_number": "",
+ "description": "Makes City Life Easier",
+ "created_at": "Mon May 16 18:23:25 UTC 2011",
+ "updated_at": "Tue Dec 18 02:11:29 UTC 2012",
+ "overview": "\u003Cp\u003ELocalUncle makes life in the city easier.\u003C/p\u003E\n\n\u003Cp\u003EThe iPhone app has been featured by Apple as \u0026#8220;New \u0026amp; Noteworthy\u0026#8221; and \u0026#8220;What\u0026#8217;s Hot\u0026#8221;.\u003C/p\u003E\n\n\u003Cp\u003ELocalUncle gives you the ability to ask questions about your city, its neighborhoods and places and get real-time responses from people who are there right now. Your questions are sent to users who are at the location you\u2019re asking about - who better to let you know what\u2019s going on? And really, those users are like having a good friend at every bar, store, and neighborhood in your city, who you can text and ask anything you need to know. Talk to your city, in real-time, and know before you go. Yes, like a crystall ball. Yes, because it\u2019s magical. And yes, it\u2019s from the future.\u003C/p\u003E\n\n\u003Cp\u003EThe company is headquartered in Zollikon, Switzerland.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0013/8154/138154v1-max-150x150.png"],
+     [[250,
+       94],
+      "assets/images/resized/0013/8154/138154v1-max-250x250.png"],
+     [[250,
+       94],
+      "assets/images/resized/0013/8154/138154v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO and Co-Founder",
+    "person":
+     {"first_name": "Philipe",
+      "last_name": "Fatio",
+      "permalink": "philipe-fatio",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO and Co-Founder",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Estrada Reichen",
+      "permalink": "philip-estrada-reichen",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0012/5523/125523v2-max-150x150.jpg"],
+          [[248,
+            250],
+           "assets/images/resized/0012/5523/125523v2-max-250x250.jpg"],
+          [[448,
+            450],
+           "assets/images/resized/0012/5523/125523v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Johannes",
+      "last_name": "Reck",
+      "permalink": "johannes-reck",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0015/6083/156083v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0015/6083/156083v2-max-250x250.jpg"],
+          [[450,
+            300],
+           "assets/images/resized/0015/6083/156083v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hipster",
+      "permalink": "hipster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0011/6921/116921v5-max-150x150.jpg"],
+          [[250,
+            98],
+           "assets/images/resized/0011/6921/116921v5-max-250x250.jpg"],
+          [[450,
+            176],
+           "assets/images/resized/0011/6921/116921v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loqly",
+      "permalink": "loqly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0012/0338/120338v4-max-150x150.png"],
+          [[174,
+            71],
+           "assets/images/resized/0012/0338/120338v4-max-250x250.png"],
+          [[174,
+            71],
+           "assets/images/resized/0012/0338/120338v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LOCQL",
+      "permalink": "locql",
+      "image":
+       {"available_sizes":
+         [[[148,
+            41],
+           "assets/images/resized/0012/2660/122660v2-max-150x150.png"],
+          [[148,
+            41],
+           "assets/images/resized/0012/2660/122660v2-max-250x250.png"],
+          [[148,
+            41],
+           "assets/images/resized/0012/2660/122660v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Furrit",
+      "permalink": "furrit",
+      "image":
+       {"available_sizes":
+         [[[92,
+            44],
+           "assets/images/resized/0014/6797/146797v3-max-150x150.png"],
+          [[92,
+            44],
+           "assets/images/resized/0014/6797/146797v3-max-250x250.png"],
+          [[92,
+            44],
+           "assets/images/resized/0014/6797/146797v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Localmind",
+      "permalink": "localmind",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0011/9896/119896v3-max-150x150.png"],
+          [[190,
+            68],
+           "assets/images/resized/0011/9896/119896v3-max-250x250.png"],
+          [[190,
+            68],
+           "assets/images/resized/0011/9896/119896v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Zollikon",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

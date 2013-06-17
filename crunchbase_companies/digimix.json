@@ -1,0 +1,96 @@
+{"name": "Digimix",
+ "permalink": "digimix",
+ "crunchbase_url": "http://www.crunchbase.com/company/digimix",
+ "homepage_url": "http://digimix.com",
+ "blog_url": "http://www.digimix.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music, mix, air, adobe, flex",
+ "alias_list": "",
+ "email_address": "alpha@digimix.com",
+ "phone_number": "",
+ "description": "Music Editing Application",
+ "created_at": "Sun Jul 20 05:22:48 UTC 2008",
+ "updated_at": "Fri Apr 05 13:53:58 UTC 2013",
+ "overview": "\u003Cp\u003EDigimix is a flex-based editing music application (built on AIR) that will give users the freedom to create and save their own mix project. In fact, users will be able to create a project, save it, close the browser, come back later and re-open the project to continue working on it.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[87,
+       48],
+      "assets/images/resized/0002/2404/22404v1-max-150x150.png"],
+     [[87,
+       48],
+      "assets/images/resized/0002/2404/22404v1-max-250x250.png"],
+     [[87,
+       48],
+      "assets/images/resized/0002/2404/22404v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2009/03/09/aviary-acquires-browser-based-audio-editor-digimix/",
+   "source_description": "Aviary Acquires Browser-Based Audio Editor Digimix",
+   "acquired_year": 2009,
+   "acquired_month": 3,
+   "acquired_day": 9,
+   "acquiring_company":
+    {"name": "Aviary",
+     "permalink": "aviary",
+     "image":
+      {"available_sizes":
+        [[[150,
+           56],
+          "assets/images/resized/0000/0367/367v22-max-150x150.png"],
+         [[250,
+           93],
+          "assets/images/resized/0000/0367/367v22-max-250x250.png"],
+         [[300,
+           112],
+          "assets/images/resized/0000/0367/367v22-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Main St",
+    "address2": "New York",
+    "zip_code": " 10044",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/0ogZ-Ze02As\u0026hl=en\u0026fs=1\u0026color1=0x3a3a3a\u0026color2=0x999999\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/0ogZ-Ze02As\u0026hl=en\u0026fs=1\u0026color1=0x3a3a3a\u0026color2=0x999999\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003Edigimix demo\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.go2web20.net/2008/07/digimix-audio-mixing-platform-is-out.html",
+    "title": "Digimix Audio Mixing Platform is out!"}]}

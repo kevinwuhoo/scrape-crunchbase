@@ -1,0 +1,109 @@
+{"name": "Tquila",
+ "permalink": "tquila",
+ "crunchbase_url": "http://www.crunchbase.com/company/tquila",
+ "homepage_url": "http://tquila.com",
+ "blog_url": "http://tquilamockingbird.wordpress.com",
+ "blog_feed_url": "",
+ "twitter_username": "tquila_wes",
+ "category_code": "consulting",
+ "number_of_employees": 20,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "salesforce-com-sfdc-force-com-ror-heroku",
+ "alias_list": null,
+ "email_address": "wes@tquila.com",
+ "phone_number": "",
+ "description": "Specialist consultancy in Force.com.",
+ "created_at": "Tue May 10 13:10:19 UTC 2011",
+ "updated_at": "Fri May 13 14:19:58 UTC 2011",
+ "overview": "\u003Cp\u003ETquila is a specialist consultancy delivering Social, Mobile and Web enterprise solutions based on the salesforce.com family of products:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003ESalesforce.com\u003C/li\u003E\n\u003Cli\u003EForce.com\u003C/li\u003E\n\u003Cli\u003EDatabase.com\u003C/li\u003E\n\u003Cli\u003EHeroku\u003C/li\u003E\n\u003Cli\u003ERemedyforce\u003C/li\u003E\n\u003Cli\u003EFinancialforce\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       33],
+      "assets/images/resized/0013/3976/133976v2-max-150x150.png"],
+     [[100,
+       33],
+      "assets/images/resized/0013/3976/133976v2-max-250x250.png"],
+     [[100,
+       33],
+      "assets/images/resized/0013/3976/133976v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Ingram",
+      "permalink": "ben-ingram",
+      "image": null}},
+   {"is_past": false,
+    "title": "Principal Architect",
+    "person":
+     {"first_name": "Wes",
+      "last_name": "Nolte",
+      "permalink": "wes-nolte",
+      "image": null}},
+   {"is_past": false,
+    "title": "Board Observer",
+    "person":
+     {"first_name": "Sherrick",
+      "last_name": "Murdoff",
+      "permalink": "sherrick-murdoff",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0005/1958/51958v6-max-150x150.jpg"],
+          [[250,
+            168],
+           "assets/images/resized/0005/1958/51958v6-max-250x250.jpg"],
+          [[450,
+            302],
+           "assets/images/resized/0005/1958/51958v6-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Managing Partner",
+    "person":
+     {"first_name": "Joh",
+      "last_name": "Turner",
+      "permalink": "joh-turner",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London Office",
+    "address1": "Avon House",
+    "address2": "Avonmore Road",
+    "zip_code": "W14 8TS",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

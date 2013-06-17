@@ -1,0 +1,119 @@
+{"name": "nReduce",
+ "permalink": "nreduce",
+ "crunchbase_url": "http://www.crunchbase.com/company/nreduce",
+ "homepage_url": "http://nReduce.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "nreduce",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 5,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "incubator",
+ "alias_list": null,
+ "email_address": "joe@nreduce.com",
+ "phone_number": "415-259-8215",
+ "description": "The Scalable Incubator",
+ "created_at": "Tue Jun 19 10:01:40 UTC 2012",
+ "updated_at": "Tue Aug 14 22:41:12 UTC 2012",
+ "overview": "\u003Cp\u003EnReduce is an online startup incubator.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "Mellin",
+      "permalink": "joe-mellin",
+      "image":
+       {"available_sizes":
+         [[[118,
+            150],
+           "assets/images/resized/0011/0493/110493v2-max-150x150.jpg"],
+          [[150,
+            190],
+           "assets/images/resized/0011/0493/110493v2-max-250x250.jpg"],
+          [[150,
+            190],
+           "assets/images/resized/0011/0493/110493v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EWorkerExpress\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Mentor",
+    "person":
+     {"first_name": "Damian",
+      "last_name": "Manning",
+      "permalink": "damian-manning",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0003/3553/33553v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0003/3553/33553v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0003/3553/33553v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "TechStars",
+      "permalink": "techstars",
+      "image":
+       {"available_sizes":
+         [[[134,
+            101],
+           "assets/images/resized/0000/4033/4033v1-max-150x150.png"],
+          [[134,
+            101],
+           "assets/images/resized/0000/4033/4033v1-max-250x250.png"],
+          [[134,
+            101],
+           "assets/images/resized/0000/4033/4033v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Y Combinator",
+      "permalink": "y-combinator",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+          [[150,
+            30],
+           "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+          [[150,
+            30],
+           "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://venturebeat.com/2012/05/28/nreduce/",
+    "title": "VentureBeat"},
+   {"external_url": "http://pandodaily.com/2012/05/10/open-source-accelerator-ncombinator-launches-after-founder-is-denied-by-ycombinator/",
+    "title": "PandoDaily"}]}

@@ -1,0 +1,151 @@
+{"name": "Geodrop",
+ "permalink": "geodrop",
+ "crunchbase_url": "http://www.crunchbase.com/company/geodrop",
+ "homepage_url": "https://geodrop.com",
+ "blog_url": "http://blog.geodrop.com",
+ "blog_feed_url": "",
+ "twitter_username": "geodrop",
+ "category_code": "mobile",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-sms-messaging-telco-marketing-payments",
+ "alias_list": null,
+ "email_address": "public@geodrop.com",
+ "phone_number": "+390232069100",
+ "description": "SMS and Micropayments mobile services",
+ "created_at": "Tue Oct 09 11:32:38 UTC 2012",
+ "updated_at": "Thu Oct 18 00:09:31 UTC 2012",
+ "overview": "\u003Cp\u003EGeodrop provides an API to enable developers make their applications communicate through SMS text messaging and been monetized through direct mobile micropayments.\u003C/p\u003E\n\n\u003Cp\u003EGeodrop is continuosly developing new mobile services API to be chosen to mash up applications with features typical of mobile ecosystem: IVR API to build voice based application, device and subscribers detection and recognitiona API, higher abstration layer API to connect valued services as Twitter, Facebook, Google+, Google Apps and so on. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0021/4853/214853v2-max-150x150.png"],
+     [[250,
+       50],
+      "assets/images/resized/0021/4853/214853v2-max-250x250.png"],
+     [[450,
+       91],
+      "assets/images/resized/0021/4853/214853v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Stefano",
+      "last_name": "di Sandro",
+      "permalink": "stefano-di-sandro",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Nexmo",
+      "permalink": "nexmo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0015/9818/159818v2-max-150x150.jpg"],
+          [[250,
+            98],
+           "assets/images/resized/0015/9818/159818v2-max-250x250.jpg"],
+          [[450,
+            177],
+           "assets/images/resized/0015/9818/159818v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zaypay.com",
+      "permalink": "zaypay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0001/7109/17109v1-max-150x150.png"],
+          [[250,
+            56],
+           "assets/images/resized/0001/7109/17109v1-max-250x250.png"],
+          [[450,
+            101],
+           "assets/images/resized/0001/7109/17109v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "boxPAY",
+      "permalink": "boxpay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0012/7159/127159v2-max-150x150.png"],
+          [[250,
+            44],
+           "assets/images/resized/0012/7159/127159v2-max-250x250.png"],
+          [[450,
+            79],
+           "assets/images/resized/0012/7159/127159v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cashlog",
+      "permalink": "cashlog",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0015/5275/155275v1-max-150x150.jpg"],
+          [[224,
+            74],
+           "assets/images/resized/0015/5275/155275v1-max-250x250.jpg"],
+          [[224,
+            74],
+           "assets/images/resized/0015/5275/155275v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twilio",
+      "permalink": "twilio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/9070/29070v6-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0002/9070/29070v6-max-250x250.png"],
+          [[450,
+            150],
+           "assets/images/resized/0002/9070/29070v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "c.so Buenos Aires, 77",
+    "address2": "",
+    "zip_code": "20124",
+    "city": "Milan",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,115 @@
+{"name": "Emergent Discovery",
+ "permalink": "emergent-discovery",
+ "crunchbase_url": "http://www.crunchbase.com/company/emergent-discovery",
+ "homepage_url": "http://www.emergentdiscovery.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 11,
+ "founded_year": 2004,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web, targeted, taste-targeted, music, discovery, automated, solutions, taste-targeting, recommendations, suite, refined",
+ "alias_list": "",
+ "email_address": "michael@emergentdiscovery.com",
+ "phone_number": "207-774-3100",
+ "description": "recommendation engine",
+ "created_at": "Tue Feb 02 21:32:52 UTC 2010",
+ "updated_at": "Fri Feb 05 01:10:20 UTC 2010",
+ "overview": "\u003Cp\u003EEmergent Discovery develops Taste Targeting\u00e2\u201e\u00a2 solutions to music websites like Songza to enable them to provide personalized music recommendations to their users, and personalized content, commerce and community as well. Our scalable technology enables us to grow our database with every new partner and every new user. Subsequently, our targeting capabilities are always expanding and improving. In the music space we map connections between user profiles, rather than between music artists. We tap into the diverse patterns in taste that occur in real life. The result is a more fulfilling suite of recommendations. We call it \u00e2\u20ac\u0153Automated Word of Mouth.\u00e2\u20ac\u009d  Music is a starting point for our solutions, but our taste-targeting technology can be applied to other categories as well.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0007/6090/76090v2-max-150x150.png"],
+     [[250,
+       97],
+      "assets/images/resized/0007/6090/76090v2-max-250x250.png"],
+     [[421,
+       164],
+      "assets/images/resized/0007/6090/76090v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "http://radio.songza.com",
+    "permalink": "http-radio-songza-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Diane",
+      "last_name": "Sammer",
+      "permalink": "diane-sammer",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Gary",
+      "last_name": "Robinson",
+      "permalink": "gary-robinson",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Marketing \u0026 Sales",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Stefanakos",
+      "permalink": "michael-stefanakos",
+      "image": null}},
+   {"is_past": false,
+    "title": "President \u0026 COO",
+    "person":
+     {"first_name": "Barry",
+      "last_name": "Kurland",
+      "permalink": "barry-kurland",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "The Echo Nest",
+      "permalink": "the-echo-nest",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0001/6425/16425v1-max-150x150.jpg"],
+          [[150,
+            100],
+           "assets/images/resized/0001/6425/16425v1-max-250x250.jpg"],
+          [[150,
+            100],
+           "assets/images/resized/0001/6425/16425v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head quarters",
+    "address1": "565 Congress Street, Suite 201",
+    "address2": "",
+    "zip_code": "04101",
+    "city": "Portland",
+    "state_code": "ME",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.prnewswire.com/news-releases/corey-mcpherson-nash-helps-flyfi-connect-music-lovers-with-music-62010927.html",
+    "title": "Corey McPherson Nash Helps FlyFi Connect Music Lovers with Music"}]}

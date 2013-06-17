@@ -1,0 +1,285 @@
+{"name": "ConnectionPoint Systems",
+ "permalink": "connectionpoint-systems",
+ "crunchbase_url": "http://www.crunchbase.com/company/connectionpoint-systems",
+ "homepage_url": "http://connectionpoint.ca",
+ "blog_url": "http://blog.connectionpoint.ca",
+ "blog_feed_url": "http://blog.connectionpoint.ca/feed/",
+ "twitter_username": "fundrazr",
+ "category_code": "ecommerce",
+ "number_of_employees": 6,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-commerce, social-networks, facebook, paypal, fundraising, fee-collection, donations, member-management, campaigns",
+ "alias_list": null,
+ "email_address": "partners@connectionpoint.ca",
+ "phone_number": "+1 604 688 1886",
+ "description": "Social Commerce Apps",
+ "created_at": "Wed Jul 08 05:34:18 UTC 2009",
+ "updated_at": "Thu Mar 07 04:19:56 UTC 2013",
+ "overview": "\u003Cp\u003EConnectionPoint is the developer of a series of Web 2.0 social commerce applications for social networks.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       70],
+      "assets/images/resized/0005/2212/52212v2-max-150x150.png"],
+     [[250,
+       117],
+      "assets/images/resized/0005/2212/52212v2-max-250x250.png"],
+     [[340,
+       160],
+      "assets/images/resized/0005/2212/52212v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "FundRazr",
+    "permalink": "fundrazr",
+    "image":
+     {"available_sizes":
+       [[[150,
+          32],
+         "assets/images/resized/0005/9166/59166v2-max-150x150.jpg"],
+        [[250,
+          54],
+         "assets/images/resized/0005/9166/59166v2-max-250x250.jpg"],
+        [[427,
+          93],
+         "assets/images/resized/0005/9166/59166v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Daryl",
+      "last_name": "Hatton",
+      "permalink": "daryl-hatton",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0005/9413/59413v4-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0005/9413/59413v4-max-250x250.jpg"],
+          [[300,
+            300],
+           "assets/images/resized/0005/9413/59413v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "VP Marketing",
+    "person":
+     {"first_name": "Natalie",
+      "last_name": "Sisson",
+      "permalink": "natalie-sisson",
+      "image":
+       {"available_sizes":
+         [[[126,
+            150],
+           "assets/images/resized/0005/9409/59409v2-max-150x150.jpg"],
+          [[210,
+            250],
+           "assets/images/resized/0005/9409/59409v2-max-250x250.jpg"],
+          [[379,
+            450],
+           "assets/images/resized/0005/9409/59409v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CircleUp",
+      "permalink": "circleup",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/1711/11711v6-max-150x150.jpg"],
+          [[250,
+            63],
+           "assets/images/resized/0001/1711/11711v6-max-250x250.jpg"],
+          [[445,
+            113],
+           "assets/images/resized/0001/1711/11711v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "One Click Pay",
+      "permalink": "one-click-pay",
+      "image": null}},
+   {"competitor":
+     {"name": "Donor Drive",
+      "permalink": "donor-drive",
+      "image": null}},
+   {"competitor":
+     {"name": "Giving.com",
+      "permalink": "justgiving",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0008/7908/87908v1-max-150x150.jpg"],
+          [[232,
+            56],
+           "assets/images/resized/0008/7908/87908v1-max-250x250.jpg"],
+          [[232,
+            56],
+           "assets/images/resized/0008/7908/87908v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FirstGiving",
+      "permalink": "first-giving",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0008/9422/89422v5-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0008/9422/89422v5-max-250x250.png"],
+          [[270,
+            56],
+           "assets/images/resized/0008/9422/89422v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GiftTool",
+      "permalink": "gifttool",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0011/9736/119736v1-max-150x150.png"],
+          [[150,
+            55],
+           "assets/images/resized/0011/9736/119736v1-max-250x250.png"],
+          [[150,
+            55],
+           "assets/images/resized/0011/9736/119736v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GiveMeaning.com",
+      "permalink": "givemeaning",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0011/9957/119957v1-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0011/9957/119957v1-max-250x250.png"],
+          [[295,
+            71],
+           "assets/images/resized/0011/9957/119957v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Convio",
+      "permalink": "convio-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0007/4737/74737v2-max-150x150.jpg"],
+          [[212,
+            91],
+           "assets/images/resized/0007/4737/74737v2-max-250x250.jpg"],
+          [[212,
+            91],
+           "assets/images/resized/0007/4737/74737v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CompleteCampaigns.com",
+      "permalink": "completecampaigns-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0005/6866/56866v1-max-150x150.jpg"],
+          [[250,
+            54],
+           "assets/images/resized/0005/6866/56866v1-max-250x250.jpg"],
+          [[379,
+            83],
+           "assets/images/resized/0005/6866/56866v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ActBlue",
+      "permalink": "actblue",
+      "image":
+       {"available_sizes":
+         [[[150,
+            10],
+           "assets/images/resized/0010/6942/106942v1-max-150x150.png"],
+          [[250,
+            18],
+           "assets/images/resized/0010/6942/106942v1-max-250x250.png"],
+          [[450,
+            32],
+           "assets/images/resized/0010/6942/106942v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LeagueLineup",
+      "permalink": "leaguelineup",
+      "image": null}},
+   {"competitor":
+     {"name": "ACTIVE Network",
+      "permalink": "activenetwork",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0001/1037/11037v5-max-150x150.png"],
+          [[250,
+            70],
+           "assets/images/resized/0001/1037/11037v5-max-250x250.png"],
+          [[450,
+            126],
+           "assets/images/resized/0001/1037/11037v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Fasken Martineau",
+      "permalink": "fasken-martineau-2",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "KPMG",
+      "permalink": "kpmg",
+      "image": null}}],
+ "total_money_raised": "C$325k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 325000.0,
+    "raised_currency_code": "CAD",
+    "funded_year": 2009,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Vancouver Office",
+    "address1": "#320 - 321 Water Street",
+    "address2": "",
+    "zip_code": "V6B 1B8",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 49.2843936,
+    "longitude": -123.1092622}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

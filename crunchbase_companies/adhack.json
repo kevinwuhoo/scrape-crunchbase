@@ -1,0 +1,110 @@
+{"name": "AdHack",
+ "permalink": "adhack",
+ "crunchbase_url": "http://www.crunchbase.com/company/adhack",
+ "homepage_url": "http://adhack.com",
+ "blog_url": "http://blog.adhack.com",
+ "blog_feed_url": "http://feeds.feedburner.com/adhack",
+ "twitter_username": "AdHack",
+ "category_code": "advertising",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "creative, advertising, market, ad-creative, ad-marketplace, videos, audio, images, web-ads, banner-ads, graphic-designers, designers",
+ "alias_list": null,
+ "email_address": "hello@adhack.com",
+ "phone_number": "1-877-477-5697",
+ "description": "Marketplace for Ad Creative",
+ "created_at": "Wed Dec 09 23:15:43 UTC 2009",
+ "updated_at": "Fri Dec 11 00:48:49 UTC 2009",
+ "overview": "\u003Cp\u003EAdHack is the marketplace for ad creative. We connect ad buyers and ad creators to help them both win.\u003C/p\u003E\n\n\u003Cp\u003EFor ad buyers, we provide:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Ean inventory of ads ready for purchase and activation,\u003C/li\u003E\n\u003Cli\u003Ea global network of 500+ creators across media types: TV, web, print, audio.\u003C/li\u003E\n\u003Cli\u003Etools to make it easy to find ads and hire ad creators,\u003C/li\u003E\n\u003Cli\u003Ea commissioning service to get new Ads custom built.\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EFor ad creators, we provide:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Ea portfolio to showcase, share and sell creative work,\u003C/li\u003E\n\u003Cli\u003Eopportunities to find new creative work and pitch for creative jobs,\u003C/li\u003E\n\u003Cli\u003Ecollaboration tools to work with peers and do better work,\u003C/li\u003E\n\u003Cli\u003Esearch and matching tools to meet ad buyers and sell creative work.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0006/9093/69093v2-max-150x150.jpg"],
+     [[250,
+       81],
+      "assets/images/resized/0006/9093/69093v2-max-250x250.jpg"],
+     [[450,
+       147],
+      "assets/images/resized/0006/9093/69093v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Karim",
+      "last_name": "Ratib",
+      "permalink": "karim-ratib",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Sherrett",
+      "permalink": "james-sherrett",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "C$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://bootuplabs.com/portfolio",
+    "source_description": "BootupLabs Portfolio Companies",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "CAD",
+    "funded_year": 2009,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Bootup Labs",
+         "permalink": "bootup-labs",
+         "image":
+          {"available_sizes":
+            [[[150,
+               115],
+              "assets/images/resized/0002/2598/22598v3-max-150x150.png"],
+             [[250,
+               193],
+              "assets/images/resized/0002/2598/22598v3-max-250x250.png"],
+             [[450,
+               347],
+              "assets/images/resized/0002/2598/22598v3-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "Suite 206 - 375 Water Street",
+    "address2": "",
+    "zip_code": "V6C5C6",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"400\" height=\"265\"\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=7955182\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" /\u003E\u003Cembed src=\"http://vimeo.com/moogaloop.swf?clip_id=7955182\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"400\" height=\"265\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

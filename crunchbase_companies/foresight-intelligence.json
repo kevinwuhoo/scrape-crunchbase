@@ -1,0 +1,146 @@
+{"name": "Foresight Intelligence",
+ "permalink": "foresight-intelligence",
+ "crunchbase_url": "http://www.crunchbase.com/company/foresight-intelligence",
+ "homepage_url": "http://www.foresightintelligence.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ForesightIntel",
+ "category_code": "software",
+ "number_of_employees": 50,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "business-intelligence, analytics, reporting, dashboards",
+ "alias_list": null,
+ "email_address": "info@foresightintelligence.com",
+ "phone_number": "888-658-6462 ",
+ "description": "Active Business Intelligence Software",
+ "created_at": "Wed Jun 08 17:28:19 UTC 2011",
+ "updated_at": "Thu Jan 10 23:20:29 UTC 2013",
+ "overview": "\u003Cp\u003EForesight Intelligence\u00c2\u00ae is changing the way users interact with enterprise data by providing active business intelligence solutions that are presented in an easy-to-use framework. Because the data is shown in an intuitive way, users can focus on understanding, managing and making the best decisions for their businesses instead of wading through cumbersome and difficult to understand analytics and reports.  Enterprises benefit because they can:\u003C/p\u003E\n\n\u003Cp\u003EImprove forecasting by automatically comparing multiple perspectives at once \nMake better decisions throughout the enterprise with immediate feedback for mission-critical activities \nIncrease transparency for users with real-time dashboards and status overviews \nImprove ROI leveraging standards and web-based architecture\u003C/p\u003E\n\n\u003Cp\u003EThe technology behind Foresight Intelligence enables enterprises to combine structured and unstructured data residing in many different places into a highly-interactive platform that can be personalized to suit virtually any team member. Real-time visualizations, financial reporting tools, and a full alerts engine ensure that users have the most timely, accurate and relevant information with which to make business decisions. \u003C/p\u003E\n\n\u003Cp\u003EIn addition to common features within any traditional business intelligence solution, Foresight Intelligence empowers organizations to uncover information not easily found such as correlations between Help Desk volumes and the weather, the price of raw materials and operation schedules, or work-in-progress and employee performance. \nIts flagship product, Foresight Intelligence Center, is specifically designed for companies who have many different types of information distributed across diverse departments and partner ecosystems. Developed using Microsoft Silverlight technology, Foresight Intelligence Center combines data into a highly-interactive framework that can be personalized to suit virtually any user.\u003C/p\u003E\n\n\u003Cp\u003EOther products include the Foresight Financial Reporting System which enables users to easily design and view a wide range of financial reports. Users can view reports with a simple click and then filter the reported information by period, range of period, department and location. The built-in drilldown capabilities provide details layer by layer all the way to the actual GL transactions. Reports can be exported to popular spreadsheets or printed ad-hoc. With the advanced printing controls, users can print on various paper sizes, manage margins and place additional information into headers and footers.\u003C/p\u003E\n\n\u003Cp\u003EFounded in 2008, Foresight Intelligence has offices in North America and Asia-Pacific with over 1,500 users worldwide. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0013/8277/138277v2-max-150x150.jpg"],
+     [[250,
+       77],
+      "assets/images/resized/0013/8277/138277v2-max-250x250.jpg"],
+     [[450,
+       139],
+      "assets/images/resized/0013/8277/138277v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dale",
+      "last_name": "Hanna",
+      "permalink": "dale-hanna",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Product Services",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Crisp",
+      "permalink": "ben-crisp",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Marketing",
+    "person":
+     {"first_name": "Maria",
+      "last_name": "Scalone (Miller)",
+      "permalink": "maria-scalone-miller",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director Business Development / OEM \u0026 Channel Solutions",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Benintendi",
+      "permalink": "jeff-benintendi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tableau Software",
+      "permalink": "tableau-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0003/1298/31298v1-max-150x150.png"],
+          [[232,
+            85],
+           "assets/images/resized/0003/1298/31298v1-max-250x250.png"],
+          [[232,
+            85],
+           "assets/images/resized/0003/1298/31298v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "QlikTech",
+      "permalink": "qliktech",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/2358/22358v2-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0002/2358/22358v2-max-250x250.png"],
+          [[450,
+            88],
+           "assets/images/resized/0002/2358/22358v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Targit",
+      "permalink": "targit",
+      "image": null}},
+   {"competitor":
+     {"name": "Panorama",
+      "permalink": "panorama",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/8252/18252v1-max-150x150.png"],
+          [[241,
+            55],
+           "assets/images/resized/0001/8252/18252v1-max-250x250.png"],
+          [[241,
+            55],
+           "assets/images/resized/0001/8252/18252v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "7077 East Marilyn Road, Building 6 Suite 150",
+    "address2": "",
+    "zip_code": "85254",
+    "city": "Scottsdale",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

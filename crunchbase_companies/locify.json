@@ -1,0 +1,92 @@
+{"name": "Locify",
+ "permalink": "locify",
+ "crunchbase_url": "http://www.crunchbase.com/company/locify",
+ "homepage_url": "http://www.locify.com",
+ "blog_url": "http://blog.locify.com",
+ "blog_feed_url": "http://blog.locify.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "gps, location, lbs, localization, position, mobile, java, j2me, location-enhanced-browsing",
+ "alias_list": null,
+ "email_address": "dac@locify.com",
+ "phone_number": "+44 20 3239 8430",
+ "description": null,
+ "created_at": "Thu May 22 14:51:26 UTC 2008",
+ "updated_at": "Tue Oct 28 20:38:55 UTC 2008",
+ "overview": "\u003Cp\u003ELocify liberalizes location based services for the mobile phones. Anyone can explore the cool independent and feature rich location powered applications on the mobile phone \u0026#8230; created by anyone, including you.\u003C/p\u003E\n\n\u003Cp\u003EDeveloping rich location enhanced services for usual mobile phones with Locify is as easy as writing web pages. And the service can use ready to use add-ons, like synchronization between mobile phone and server, maps (online or offline), navigation and others.\u003C/p\u003E\n\n\u003Cp\u003EWith the concept of Location Context Locify can be used very well on phones, even without GPS.\u003C/p\u003E\n\n\u003Cp\u003EExamples of already locified services are: wikipedia, fireeagle, twitter, geocaching and opencaching, eventful, panoramio and others.\u003C/p\u003E\n\n\u003Cp\u003ELocify is free and open.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       59],
+      "assets/images/resized/0001/9181/19181v1-max-150x150.png"],
+     [[228,
+       90],
+      "assets/images/resized/0001/9181/19181v1-max-250x250.png"],
+     [[228,
+       90],
+      "assets/images/resized/0001/9181/19181v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Locify mobile client",
+    "permalink": "locify-mobile-client",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Cizek",
+      "permalink": "david-cizek",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "6 Bexley Square",
+    "address2": "Salford",
+    "zip_code": "M3 6BZ",
+    "city": "Manchester",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 53.48336,
+    "longitude": -2.259258}],
+ "milestones":
+  [{"description": "Locify adds maps and route analytics",
+    "stoned_year": 2008,
+    "stoned_month": 10,
+    "stoned_day": 28,
+    "source_url": "http://blog.locify.com/2008/10/locify-085-introducing-routes.html",
+    "source_text": "",
+    "source_description": "Locify 0.8.5 - maps and more",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Locify",
+      "permalink": "locify"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

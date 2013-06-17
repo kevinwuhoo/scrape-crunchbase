@@ -1,0 +1,104 @@
+{"name": "Evaluator Group",
+ "permalink": "evaluator-group",
+ "crunchbase_url": "http://www.crunchbase.com/company/evaluator-group",
+ "homepage_url": "http://www.evaluatorgroup.com",
+ "blog_url": "http://www.forbes.com/sites/johnwebster/",
+ "blog_feed_url": "",
+ "twitter_username": "evaluator_group",
+ "category_code": "consulting",
+ "number_of_employees": 6,
+ "founded_year": 1997,
+ "founded_month": 1,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "it-analysis, it-consultant, storage-consultant, storage-analysis",
+ "alias_list": null,
+ "email_address": "laura@evaluatorgroup.com",
+ "phone_number": "303.895.4244",
+ "description": "IT Analyst Firm",
+ "created_at": "Mon Apr 01 20:55:54 UTC 2013",
+ "updated_at": "Mon Apr 01 20:56:01 UTC 2013",
+ "overview": "\u003Cp\u003EEvaluator Group is an IT analyst firm dedicated to delivering unbiased in-depth information on storage architectures, products, and management strategies. \u003C/p\u003E\n\n\u003Cp\u003ETheir goal is to help IT professionals and vendors create and implement strategies that enable them to maximize the value and efficiency they get from their storage. \u003C/p\u003E\n\n\u003Cp\u003EEvaluator Group works closely with companies (end-users) that are purchasing storage technologies and empower their decisions with the most in-depth product analysis in the industry.  They also work with storage vendors (although they remain completely unbiased) to analyze trends in the industry. Enterprise customers rely on their research and competitive insight, and count on independence and technical depth. \u003C/p\u003E\n\n\u003Cp\u003EVery broadly, Evaluator Group offers research, consultation, and education. The categories of research include the following: Product Analysis, Product Briefs, Comparison Matrices, Whitepapers,  Education Guides, and Workbooks. They hold an Advanced Storage Education class at least once a year, and offer individual consultations and independent education. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Gartner",
+      "permalink": "gartner",
+      "image":
+       {"available_sizes":
+         [[[107,
+            36],
+           "assets/images/resized/0004/7265/47265v1-max-150x150.png"],
+          [[107,
+            36],
+           "assets/images/resized/0004/7265/47265v1-max-250x250.png"],
+          [[107,
+            36],
+           "assets/images/resized/0004/7265/47265v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Forrester Research",
+      "permalink": "forrester-research",
+      "image":
+       {"available_sizes":
+         [[[121,
+            59],
+           "assets/images/resized/0001/6566/16566v1-max-150x150.png"],
+          [[121,
+            59],
+           "assets/images/resized/0001/6566/16566v1-max-250x250.png"],
+          [[121,
+            59],
+           "assets/images/resized/0001/6566/16566v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Boulder Office",
+    "address1": "5360 Manhattan Circle #100",
+    "address2": "",
+    "zip_code": "80303",
+    "city": "Boulder",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0024/7041/247041v2-max-150x150.png"],
+      [[250,
+        187],
+       "assets/images/resized/0024/7041/247041v2-max-250x250.png"],
+      [[250,
+        187],
+       "assets/images/resized/0024/7041/247041v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.forbes.com/sites/johnwebster/",
+    "title": "Forbes Blog"},
+   {"external_url": "http://itknowledgeexchange.techtarget.com/storage-soup/measuring-storage-value-vs-storage-cost/",
+    "title": "Storage Soup Blog"},
+   {"external_url": "http://searchstorage.techtarget.com/ezine/Storage-magazine/Should-you-believe-vendors-jaw-dropping-solid-state-performance-specs",
+    "title": "Search Storage Blog"}]}

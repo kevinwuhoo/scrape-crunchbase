@@ -1,0 +1,78 @@
+{"name": "Telcred",
+ "permalink": "telcred",
+ "crunchbase_url": "http://www.crunchbase.com/company/telcred",
+ "homepage_url": "http://www.telcred.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Telcred",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "nfc, access-control, security",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "NFC based access control",
+ "created_at": "Thu Sep 22 20:58:12 UTC 2011",
+ "updated_at": "Wed Nov 16 23:21:07 UTC 2011",
+ "overview": "\u003Cp\u003ETelcred provides offline physical access control systems based on NFC. The unique feature of Telcred\u0026#8217;s system is that the lock controllers do not need to updated when users or users\u0026#8217; access rights change. Time-limited \u0026#8220;digital keys\u0026#8221; are sent to an NFC phone or a contactless smart card, which can then be used to gain access.      \u003C/p\u003E\n\n\u003Cp\u003EThe company is a spinoff from SICS, Swedish Institute of Computer Science, and primarily targets infrastructure companies such as telecom operators, power companies, and operators of public transportation. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0015/5211/155211v2-max-150x150.jpg"],
+     [[250,
+       109],
+      "assets/images/resized/0015/5211/155211v2-max-250x250.jpg"],
+     [[450,
+       196],
+      "assets/images/resized/0015/5211/155211v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Carlo",
+      "last_name": "Pompili",
+      "permalink": "carlo-pompili",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Box 2157",
+    "address2": "",
+    "zip_code": "10314",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.ericsson.com/news/110321_ipx_nfc_244188811_c",
+    "title": "Ericsson launches TSM service at WIMA in collaboration with Telcred"}]}

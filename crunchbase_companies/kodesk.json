@@ -1,0 +1,130 @@
+{"name": "Kodesk",
+ "permalink": "kodesk",
+ "crunchbase_url": "http://www.crunchbase.com/company/kodesk",
+ "homepage_url": "http://www.kodesk.com",
+ "blog_url": "http://blog.kodesk.com",
+ "blog_feed_url": "http://blog.kodesk.com/feed",
+ "twitter_username": "kodesk",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "airbnb, office, desk, sharing, p2p",
+ "alias_list": null,
+ "email_address": "info@kodesk.com",
+ "phone_number": "+32492778779",
+ "description": "Peer-to-Peer Office Sharing",
+ "created_at": "Fri Jun 03 20:19:21 UTC 2011",
+ "updated_at": "Mon Sep 26 02:31:05 UTC 2011",
+ "overview": "\u003Cp\u003EKodesk helps startups and entrepreneurs optimize their office cost through a flexible office sharing marketplace.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0013/7665/137665v2-max-150x150.png"],
+     [[250,
+       76],
+      "assets/images/resized/0013/7665/137665v2-max-250x250.png"],
+     [[450,
+       137],
+      "assets/images/resized/0013/7665/137665v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Ko-Founder",
+    "person":
+     {"first_name": "Frederic",
+      "last_name": "Navarro",
+      "permalink": "frdric-navarro",
+      "image": null}},
+   {"is_past": false,
+    "title": "Ko-Founder",
+    "person":
+     {"first_name": "S\u00c3\u00a9bastien",
+      "last_name": "Arbogast",
+      "permalink": "sbastien-arbogast",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LiquidSpace",
+      "permalink": "liquidspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0013/2350/132350v8-max-150x150.png"],
+          [[250,
+            52],
+           "assets/images/resized/0013/2350/132350v8-max-250x250.png"],
+          [[450,
+            95],
+           "assets/images/resized/0013/2350/132350v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loosecubes",
+      "permalink": "loosecubes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0012/5893/125893v1-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0012/5893/125893v1-max-250x250.png"],
+          [[362,
+            78],
+           "assets/images/resized/0012/5893/125893v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Desktime",
+      "permalink": "desktimeapp",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "Avenue Pasteur 6",
+    "address2": "",
+    "zip_code": "1300",
+    "city": "Wavre",
+    "state_code": null,
+    "country_code": "BEL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        83],
+       "assets/images/resized/0013/7664/137664v2-max-150x150.png"],
+      [[250,
+        139],
+       "assets/images/resized/0013/7664/137664v2-max-250x250.png"],
+      [[450,
+        251],
+       "assets/images/resized/0013/7664/137664v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://makr.roularta.be/PDFPage?page=6\u0026archiveCode=ARCHIEF\u0026year=2011\u0026week=21\u0026editionCode=DB\u0026groepCode=DB",
+    "title": "Kodesk in DataNews (fr-BE)"},
+   {"external_url": "http://techcrunch.com/2011/06/02/kodesk-is-like-an-airbnb-for-office-space/",
+    "title": "Kodesk Is Like An Airbnb For Office Space"}]}

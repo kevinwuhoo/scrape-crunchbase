@@ -1,0 +1,138 @@
+{"name": "Genietrack",
+ "permalink": "genietrack",
+ "crunchbase_url": "http://www.crunchbase.com/company/genietrack",
+ "homepage_url": "http://www.genietrack.com",
+ "blog_url": "http://corp.genietrack.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "RealOlegP",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "family-safety, gps-tracking, mobile-location, sex-offender-search",
+ "alias_list": "",
+ "email_address": "genie@genietrack.com",
+ "phone_number": "415-205-7220",
+ "description": "Mobile Family Safety ",
+ "created_at": "Fri Mar 23 17:39:02 UTC 2012",
+ "updated_at": "Wed Apr 03 04:31:13 UTC 2013",
+ "overview": "\u003Cp\u003EGenietrack is mobile software company dedicated to providing industry leading solutions to busy parents, allowing them to keep track of their children\u2019s whereabouts in a convenient, hassle-free fashion.\u003C/p\u003E\n\n\u003Cp\u003EGenietrack\u0026#8217;s family safety service affords parents peace of mind when they are away from their children. Parents can monitor current and historical location of their children. Parents can setup preferences to receive real-time alerts via email or SMS messages when their children travel outside custom defined geographical areas, travel in a vehicle, approach a residence of a known sex offender, or simply when their phone is turned off.\u003C/p\u003E\n\n\u003Cp\u003EGenietrack differentiates from the competition by leveraging an intelligent, extensible threat analytics platform that can adapt to incorporate and respond to multiple data points including user input and external data feeds. Intelligent implementation of the GPS location algorithm, judicious use of mobile handset battery life, integrated sex offender residence data and service simplicity and ease of use are some of the features that make the Genietrack\u2019s service unique.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0018/0762/180762v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0018/0762/180762v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0018/0762/180762v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Genietrack Locator",
+    "permalink": "genietrack-locator",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Oleg",
+      "last_name": "Pravdin",
+      "permalink": "oleg-pravdin",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Goldvekht",
+      "permalink": "daniel-goldvekht",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Goldyak",
+      "permalink": "steve-goldyak",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Life360",
+      "permalink": "life360",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0005/0164/50164v11-max-150x150.png"],
+          [[250,
+            99],
+           "assets/images/resized/0005/0164/50164v11-max-250x250.png"],
+          [[450,
+            179],
+           "assets/images/resized/0005/0164/50164v11-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Location Labs",
+      "permalink": "location-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0009/1298/91298v3-max-150x150.png"],
+          [[197,
+            59],
+           "assets/images/resized/0009/1298/91298v3-max-250x250.png"],
+          [[197,
+            59],
+           "assets/images/resized/0009/1298/91298v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amber Alert",
+      "permalink": "amberalert",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0019/7072/197072v1-max-150x150.jpg"],
+          [[222,
+            44],
+           "assets/images/resized/0019/7072/197072v1-max-250x250.jpg"],
+          [[222,
+            44],
+           "assets/images/resized/0019/7072/197072v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "270 Redwood Shores Parkway",
+    "address2": "#178",
+    "zip_code": "94065",
+    "city": "Redwood City",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.523184,
+    "longitude": -122.25204}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.genietrack.com",
+    "title": "website URL"}]}

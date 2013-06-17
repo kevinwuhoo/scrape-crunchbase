@@ -1,0 +1,122 @@
+{"name": "Turbobytes",
+ "permalink": "turbobytes",
+ "crunchbase_url": "http://www.crunchbase.com/company/turbobytes",
+ "homepage_url": "http://www.turbobytes.com",
+ "blog_url": "http://www.turbobytes.com/blog/",
+ "blog_feed_url": "http://www.turbobytes.com/blog/feed/",
+ "twitter_username": "turbobytes",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "performance, web-performance, optimization, cdn, content-delivery, load-balancing",
+ "alias_list": null,
+ "email_address": "info@turbobytes.com",
+ "phone_number": "+31 6 1563 3343",
+ "description": "Content delivery performanceoptimization",
+ "created_at": "Tue Nov 27 15:24:23 UTC 2012",
+ "updated_at": "Wed Dec 12 07:58:07 UTC 2012",
+ "overview": "\u003Cp\u003ETurbobytes enables publishers, webshops and other content providers to have multiple CDNs deliver their content, with the objectives to improve delivery speed and reliability.\u003C/p\u003E\n\n\u003Cp\u003EThe Turbobytes platform constantly measures real world CDN performance across the globe from within the browser, analyzes the data in real time and makes sure the best performing CDN will deliver the content in every country/state, automatically.\u003C/p\u003E\n\n\u003Cp\u003ETurbobytes was founded in 2012 by web performance veterans Aaron Peters and Sajal Kayan.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0022/2553/222553v2-max-150x150.png"],
+     [[228,
+       48],
+      "assets/images/resized/0022/2553/222553v2-max-250x250.png"],
+     [[228,
+       48],
+      "assets/images/resized/0022/2553/222553v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Peters",
+      "permalink": "aaron-peters",
+      "image":
+       {"available_sizes":
+         [[[121,
+            150],
+           "assets/images/resized/0022/3508/223508v2-max-150x150.jpg"],
+          [[202,
+            250],
+           "assets/images/resized/0022/3508/223508v2-max-250x250.jpg"],
+          [[363,
+            450],
+           "assets/images/resized/0022/3508/223508v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Sajal",
+      "last_name": "Kayan",
+      "permalink": "sajal-kayan",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Cedexis",
+      "permalink": "cedexis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0014/8246/148246v2-max-150x150.png"],
+          [[250,
+            105],
+           "assets/images/resized/0014/8246/148246v2-max-250x250.png"],
+          [[450,
+            189],
+           "assets/images/resized/0014/8246/148246v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Europe",
+    "address1": "PO Box 25",
+    "address2": "",
+    "zip_code": "3452 AL",
+    "city": "Vleuten",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.0954554,
+    "longitude": 4.9974449}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        120],
+       "assets/images/resized/0022/3510/223510v2-max-150x150.png"],
+      [[250,
+        200],
+       "assets/images/resized/0022/3510/223510v2-max-250x250.png"],
+      [[450,
+        360],
+       "assets/images/resized/0022/3510/223510v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://dyn.com/the-story-of-turbobytes-dns-ccontent-delivery-networks/",
+    "title": "Selling Speed: The Story Of Turbobytes"},
+   {"external_url": "http://www.telecomasia.net/content/turbobytes-debuts-meta-cdn-service",
+    "title": "Turbobytes debuts meta-CDN service"}]}

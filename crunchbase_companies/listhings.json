@@ -1,0 +1,125 @@
+{"name": "Listhings",
+ "permalink": "listhings",
+ "crunchbase_url": "http://www.crunchbase.com/company/listhings",
+ "homepage_url": "http://listhings.com",
+ "blog_url": "http://twitter.com/listhings",
+ "blog_feed_url": "http://twitter.com/statuses/user_timeline/39456885.rss",
+ "twitter_username": "listhings",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "notes, productivity, tools",
+ "alias_list": null,
+ "email_address": "martin@listhings.com",
+ "phone_number": "",
+ "description": "Maker of web-based note-taking software",
+ "created_at": "Tue Oct 27 19:46:23 UTC 2009",
+ "updated_at": "Wed Jun 01 16:20:21 UTC 2011",
+ "overview": "\u003Cp\u003EListhings is a maker of a web app for storing notes. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0006/3921/63921v2-max-150x150.png"],
+     [[162,
+       45],
+      "assets/images/resized/0006/3921/63921v2-max-250x250.png"],
+     [[162,
+       45],
+      "assets/images/resized/0006/3921/63921v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Listhings",
+    "permalink": "listhings",
+    "image":
+     {"available_sizes":
+       [[[150,
+          112],
+         "assets/images/resized/0017/3439/173439v2-max-150x150.jpg"],
+        [[250,
+          187],
+         "assets/images/resized/0017/3439/173439v2-max-250x250.jpg"],
+        [[450,
+          337],
+         "assets/images/resized/0017/3439/173439v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, developer",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Tajur",
+      "permalink": "martin-tajur",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Evernote",
+      "permalink": "evernote",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/3178/13178v3-max-150x150.jpg"],
+          [[250,
+            129],
+           "assets/images/resized/0001/3178/13178v3-max-250x250.jpg"],
+          [[315,
+            163],
+           "assets/images/resized/0001/3178/13178v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UberNote",
+      "permalink": "ubernote",
+      "image": null}},
+   {"competitor":
+     {"name": "LinoIt",
+      "permalink": "linoit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0014/3490/143490v1-max-150x150.png"],
+          [[250,
+            57],
+           "assets/images/resized/0014/3490/143490v1-max-250x250.png"],
+          [[280,
+            64],
+           "assets/images/resized/0014/3490/143490v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0006/3920/63920v2-max-150x150.png"],
+      [[250,
+        152],
+       "assets/images/resized/0006/3920/63920v2-max-250x250.png"],
+      [[270,
+        165],
+       "assets/images/resized/0006/3920/63920v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

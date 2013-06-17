@@ -1,0 +1,143 @@
+{"name": "DebtGoal",
+ "permalink": "debtgoal",
+ "crunchbase_url": "http://www.crunchbase.com/company/debtgoal",
+ "homepage_url": "http://www.debtgoal.com",
+ "blog_url": "http://www.debtgoal.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "DebtGoal",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "finance, debt, subscription",
+ "alias_list": null,
+ "email_address": "info@debtgoal.com",
+ "phone_number": "",
+ "description": "Online service for consumers with debt",
+ "created_at": "Fri Jan 08 00:18:24 UTC 2010",
+ "updated_at": "Thu Sep 23 18:05:29 UTC 2010",
+ "overview": "\u003Cp\u003EDebtGoal offers a service designed to help people manage their issues with debt.  The service allows users to establish a debt plan, sends reminders and updates, and tracks progress towards paying off debt. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0007/2606/72606v2-max-150x150.png"],
+     [[173,
+       59],
+      "assets/images/resized/0007/2606/72606v2-max-250x250.png"],
+     [[173,
+       59],
+      "assets/images/resized/0007/2606/72606v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Crawford",
+      "permalink": "scott-crawford-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Igor",
+      "last_name": "Vaks",
+      "permalink": "igor-vaks",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Ed",
+      "last_name": "Ojdana",
+      "permalink": "ed-ojdana",
+      "image": null}},
+   {"is_past": true,
+    "title": "Marketing",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Kelly",
+      "permalink": "chris-kelly-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0020/7055/207055v1-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0020/7055/207055v1-max-250x250.jpg"],
+          [[321,
+            321],
+           "assets/images/resized/0020/7055/207055v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003E\u003Ca href=\"http://www.linkedin.com/in/christopherkelly\" title=\"Chris Kelly on LinkedIn\" rel=\"nofollow\"\u003EChris Kelly on LinkedIn\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.thealarmclock.com/mt/archives/2010/04/debtgoal_raises.html",
+    "source_description": "DebtGoal Raises $2M To Suggest Debt Cutting Ideas",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 4,
+    "funded_day": 14,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Tugboat Ventures",
+         "permalink": "tugboat-ventures",
+         "image":
+          {"available_sizes":
+            [[[73,
+               88],
+              "assets/images/resized/0003/0791/30791v1-max-150x150.png"],
+             [[73,
+               88],
+              "assets/images/resized/0003/0791/30791v1-max-250x250.png"],
+             [[73,
+               88],
+              "assets/images/resized/0003/0791/30791v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "New Cycle Ventures",
+         "permalink": "new-cycle-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               69],
+              "assets/images/resized/0006/4191/64191v1-max-150x150.jpg"],
+             [[166,
+               77],
+              "assets/images/resized/0006/4191/64191v1-max-250x250.jpg"],
+             [[166,
+               77],
+              "assets/images/resized/0006/4191/64191v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,191 @@
+{"name": "Toogethr",
+ "permalink": "toogethr",
+ "crunchbase_url": "http://www.crunchbase.com/company/toogethr",
+ "homepage_url": "http://www.toogethr.com/",
+ "blog_url": "http://blog.toogethr.com",
+ "blog_feed_url": "http://feeds.feedburner.com/toogethr",
+ "twitter_username": "toogethr",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "carpool, rideshare, p2p, carshare",
+ "alias_list": null,
+ "email_address": "info@toogethr.com",
+ "phone_number": "+31208932828",
+ "description": "Peer-to-peer ridesharing",
+ "created_at": "Mon Sep 19 20:19:03 UTC 2011",
+ "updated_at": "Wed Mar 06 14:16:17 UTC 2013",
+ "overview": "\u003Cp\u003EToogethr mission is to make mobility affordable, sustainable and social. By optimizing the billions of empty car seats in this world, we can build a door-to-door rideshare network. \u003C/p\u003E\n\n\u003Cp\u003ECurrently, this economic value is largely untapped. Toogethr enables car drivers to share the cost of their ride and the escrow services provided makes the payment safe and easy.\u003C/p\u003E\n\n\u003Cp\u003EToogethr starts where traditional carpooling ends, by offering flexibility and trust. Supplemented by game mechanics, the Toogethr app is extremely easy to use and allows for both single rides, repeating rides and carpool groups.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0016/2212/162212v5-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0016/2212/162212v5-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0016/2212/162212v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Martin",
+      "last_name": "Voorzanger",
+      "permalink": "martin-voorzanger",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0015/4839/154839v2-max-150x150.png"],
+          [[208,
+            209],
+           "assets/images/resized/0015/4839/154839v2-max-250x250.png"],
+          [[208,
+            209],
+           "assets/images/resized/0015/4839/154839v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Bart",
+      "last_name": "Selders",
+      "permalink": "bart-selders",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "carpooling.com",
+      "permalink": "carpooling-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0014/7457/147457v2-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0014/7457/147457v2-max-250x250.jpg"],
+          [[450,
+            92],
+           "assets/images/resized/0014/7457/147457v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "carpooling.com",
+      "permalink": "carpooling-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0014/7457/147457v2-max-150x150.jpg"],
+          [[250,
+            51],
+           "assets/images/resized/0014/7457/147457v2-max-250x250.jpg"],
+          [[450,
+            92],
+           "assets/images/resized/0014/7457/147457v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BlaBlaCar",
+      "permalink": "blablacar",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0017/0445/170445v3-max-150x150.jpg"],
+          [[250,
+            75],
+           "assets/images/resized/0017/0445/170445v3-max-250x250.jpg"],
+          [[332,
+            100],
+           "assets/images/resized/0017/0445/170445v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Uber",
+      "permalink": "uber-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0009/2462/92462v8-max-150x150.png"],
+          [[250,
+            105],
+           "assets/images/resized/0009/2462/92462v8-max-250x250.png"],
+          [[250,
+            105],
+           "assets/images/resized/0009/2462/92462v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sidecar",
+      "permalink": "sidecar",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0016/2663/162663v2-max-150x150.png"],
+          [[250,
+            57],
+           "assets/images/resized/0016/2663/162663v2-max-250x250.png"],
+          [[450,
+            103],
+           "assets/images/resized/0016/2663/162663v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Notary",
+    "is_past": false,
+    "provider":
+     {"name": "Schut van der Ven",
+      "permalink": "schut-van-der-ven",
+      "image": null}},
+   {"title": "Lawyer",
+    "is_past": false,
+    "provider":
+     {"name": "van doorne",
+      "permalink": "van-doorne",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Gabri\u00ebl Metsustraat 8",
+    "address2": "",
+    "zip_code": "1071EA",
+    "city": "Amsterdam",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0023/8973/238973v2-max-150x150.png"],
+      [[250,
+        140],
+       "assets/images/resized/0023/8973/238973v2-max-250x250.png"],
+      [[450,
+        252],
+       "assets/images/resized/0023/8973/238973v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.toogethr.com/nl/about/media",
+    "title": "Toogethr media mentions"}]}

@@ -1,0 +1,185 @@
+{"name": "ApartmentRatings",
+ "permalink": "apartmentratings",
+ "crunchbase_url": "http://www.crunchbase.com/company/apartmentratings",
+ "homepage_url": "http://www.apartmentratings.com",
+ "blog_url": "http://ohmyapt.apartmentratings.com",
+ "blog_feed_url": "http://feeds.feedburner.com/OhMyApartmentMain",
+ "twitter_username": null,
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2000,
+ "founded_month": 7,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-estate, apartments, rentals",
+ "alias_list": "",
+ "email_address": "info@aptratings.com",
+ "phone_number": "512-366-9506",
+ "description": "",
+ "created_at": "Thu Sep 25 16:30:00 UTC 2008",
+ "updated_at": "Mon Jul 05 22:38:05 UTC 2010",
+ "overview": "\u003Cp\u003EApartmentRatings.com is a user-generated content site where renters can post reviews, questions, and answers about apartments nationwide.  The site attracts approximately 17 million unique visitors per year according to Quantcast and was acquired by Internet Brands in 2006.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0002/5703/25703v1-max-150x150.jpg"],
+     [[250,
+       60],
+      "assets/images/resized/0002/5703/25703v1-max-250x250.jpg"],
+     [[270,
+       65],
+      "assets/images/resized/0002/5703/25703v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "none ",
+    "person":
+     {"first_name": "Katie",
+      "last_name": "Bencken",
+      "permalink": "katie-bencken",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "Bencken",
+      "permalink": "jeremy-bencken",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yahoo!",
+      "permalink": "yahoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0001/0836/10836v9-max-150x150.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-250x250.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Citysearch",
+      "permalink": "citysearch",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/3847/13847v3-max-150x150.jpg"],
+          [[157,
+            40],
+           "assets/images/resized/0001/3847/13847v3-max-250x250.jpg"],
+          [[157,
+            40],
+           "assets/images/resized/0001/3847/13847v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rent.com",
+      "permalink": "rent-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0002/6242/26242v3-max-150x150.png"],
+          [[191,
+            55],
+           "assets/images/resized/0002/6242/26242v3-max-250x250.png"],
+          [[191,
+            55],
+           "assets/images/resized/0002/6242/26242v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Wilson Sonsini Goodrich \u0026 Rosati",
+      "permalink": "wilson-sonsini-goodrich-rosati",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/9486/19486v1-max-150x150.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-250x250.png"],
+          [[250,
+            54],
+           "assets/images/resized/0001/9486/19486v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.paidcontent.org/entry/419-internet-brands-acquires-real-estate-community-site-apartmentratings",
+   "source_description": "Internet Brands Acquires Real Estate Community Site ApartmentRatings",
+   "acquired_year": 2007,
+   "acquired_month": 6,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "Internet Brands",
+     "permalink": "internet-brands",
+     "image":
+      {"available_sizes":
+        [[[150,
+           66],
+          "assets/images/resized/0002/4688/24688v3-max-150x150.png"],
+         [[246,
+           109],
+          "assets/images/resized/0002/4688/24688v3-max-250x250.png"],
+         [[246,
+           109],
+          "assets/images/resized/0002/4688/24688v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Austin",
+    "address1": "3112 Windsor Rd. #203",
+    "address2": "",
+    "zip_code": "78703",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.296682,
+    "longitude": -97.767931}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.nytimes.com/2005/04/10/realestate/10nati.html",
+    "title": "NY Times"},
+   {"external_url": "http://www.paidcontent.org/entry/419-internet-brands-acquires-real-estate-community-site-apartmentratings",
+    "title": "PaidContent"}]}

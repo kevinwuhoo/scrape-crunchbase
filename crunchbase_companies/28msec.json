@@ -1,0 +1,88 @@
+{"name": "28msec",
+ "permalink": "28msec",
+ "crunchbase_url": "http://www.crunchbase.com/company/28msec",
+ "homepage_url": "http://www.28msec.com",
+ "blog_url": "http://www.28.io/blog",
+ "blog_feed_url": "",
+ "twitter_username": "28msec",
+ "category_code": "software",
+ "number_of_employees": 12,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mongodb, nosql, xml, databases, xquery, cloud-computing",
+ "alias_list": null,
+ "email_address": "hello@28msec.com",
+ "phone_number": "",
+ "description": "Information Processing Platforms ",
+ "created_at": "Wed May 26 11:01:12 UTC 2010",
+ "updated_at": "Wed May 29 23:23:25 UTC 2013",
+ "overview": "\u003Cp\u003E28msec develops Real time Information Processing Platforms. \nOur first product, 28.io is a real time ETL for JSON/XML data.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0008/8560/88560v6-max-150x150.png"],
+     [[243,
+       79],
+      "assets/images/resized/0008/8560/88560v6-max-250x250.png"],
+     [[243,
+       79],
+      "assets/images/resized/0008/8560/88560v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "28.io",
+    "permalink": "28-io",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Kish",
+      "permalink": "eric-kish",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Zurich Office",
+    "address1": "C\u00e4cilienstrasse 5",
+    "address2": "Apartment 307",
+    "zip_code": "8006",
+    "city": "Zurich",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": 47.3699269,
+    "longitude": 8.5536869},
+   {"description": "HQ",
+    "address1": "200 Sheridan Avenue",
+    "address2": "",
+    "zip_code": "94036",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.4265006,
+    "longitude": -122.140635}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

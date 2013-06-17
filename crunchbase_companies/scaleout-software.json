@@ -1,0 +1,95 @@
+{"name": "ScaleOut Software",
+ "permalink": "scaleout-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/scaleout-software",
+ "homepage_url": "http://www.scaleoutsoftware.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ScaleOut_Inc",
+ "category_code": "software",
+ "number_of_employees": 12,
+ "founded_year": 2003,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "big-data, distributed-caching, in-memory-distributed-data-grid, scalability, high-availability",
+ "alias_list": null,
+ "email_address": "sales@scaleoutsoftware.com",
+ "phone_number": "503-643-3422",
+ "description": "ScaleOut Software develops and markets i",
+ "created_at": "Tue Dec 13 19:04:08 UTC 2011",
+ "updated_at": "Mon Dec 19 21:21:42 UTC 2011",
+ "overview": "\u003Cp\u003EFocused on delivering scalable, memory-based storage for ecommerce, back-office, financial, and HPC applications, ScaleOut Software is an in-memory distributed data grid that offers dynamic load-balancing, data replication, parallel query, and map/reduce with specific support for scaling in the cloud. Founded in 2003 by CEO Dr. William L. Bain, ScaleOut Software (www.scaleoutsoftware.com) has offices in Bellevue, WA, and Beaverton, OR.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dr.",
+      "last_name": "William Bain",
+      "permalink": "dr-william-bain",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Brinker",
+      "permalink": "david-brinker",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft AppFabric",
+      "permalink": "microsoft-appfabric",
+      "image": null}},
+   {"competitor":
+     {"name": "VMWare GemFire",
+      "permalink": "vmware-gemfire",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Bellevue Office",
+    "address1": "10500 NE 8th St.",
+    "address2": "Suite 1775",
+    "zip_code": "98004",
+    "city": "Bellevue",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

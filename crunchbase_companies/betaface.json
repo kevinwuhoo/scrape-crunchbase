@@ -1,0 +1,85 @@
+{"name": "Betaface",
+ "permalink": "betaface",
+ "crunchbase_url": "http://www.crunchbase.com/company/betaface",
+ "homepage_url": "http://www.betaface.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "betaface",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "visual-search, video-indexing, facial-recognition, video-search, images-search, face-recognition, face-detection, face-tracking",
+ "alias_list": "",
+ "email_address": "info@betaface.com",
+ "phone_number": "+49-89-63855112 ",
+ "description": "",
+ "created_at": "Fri Jun 06 13:58:56 UTC 2008",
+ "updated_at": "Sun Apr 07 06:35:17 UTC 2013",
+ "overview": "\u003Cp\u003EBetaface offers facial recognition solutions and computer vision powered rich media indexing service. \u003C/p\u003E\n\n\u003Cp\u003EIts computer vision and machine learning technology enables new content discovery method, unrelated to current model of relying on human interaction to tag, describe, and classify images as more photos, videos, and other forms of rich media find their way online. \u003C/p\u003E\n\n\u003Cp\u003EBetaface provides new automatic metadata extraction and search possibilities based on proprietary, unique algorithms that overperform other methods. Advanced face recognition, employed independently or in combination with speech, text and object recognition provides unbeatable accuracy, speed and scale of search results for images and video data. \u003C/p\u003E\n\n\u003Cp\u003EIn addition to core recognition and analysis processes we employ other face-related measurements like age and gender detection, detection of hairstyle, hair color and skin color, facial hair detection, glasses detection, shape analysis of facial features to automatically extract additional biometric metadata. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       120],
+      "assets/images/resized/0002/0043/20043v2-max-150x150.jpg"],
+     [[120,
+       120],
+      "assets/images/resized/0002/0043/20043v2-max-250x250.jpg"],
+     [[120,
+       120],
+      "assets/images/resized/0002/0043/20043v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO, Founder",
+    "person":
+     {"first_name": "Oleksandr",
+      "last_name": "Kazakov",
+      "permalink": "oleksandr-kazakov",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO, co-Founder",
+    "person":
+     {"first_name": "Maja",
+      "last_name": "Gerent",
+      "permalink": "maja-gerent",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Gollierstr.3",
+    "address2": "",
+    "zip_code": "80339",
+    "city": "Munich",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 48.1356316,
+    "longitude": 11.5474791}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.myfaceid.com",
+    "title": "face recognition based visual search"}]}

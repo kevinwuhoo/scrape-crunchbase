@@ -1,0 +1,159 @@
+{"name": "Scred",
+ "permalink": "scred",
+ "crunchbase_url": "http://www.crunchbase.com/company/scred",
+ "homepage_url": "http://www.scred.com/",
+ "blog_url": "http://www.screditcrunch.com/",
+ "blog_feed_url": "http://www.screditcrunch.com/?feed=rss2",
+ "twitter_username": "Screditor",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "debts, community-finance, travel-expenses, finland, seedcamp, seedcamp-2008",
+ "alias_list": "",
+ "email_address": "setok@scred.com",
+ "phone_number": "+358-40-7312273",
+ "description": "Group Accounting and Money Mgmt. ",
+ "created_at": "Sun Feb 24 12:41:45 UTC 2008",
+ "updated_at": "Thu Apr 04 09:10:54 UTC 2013",
+ "overview": "\u003Cp\u003EScred is a service for managing money for groups of people. With it you can track income, profit, debt, revenues and shared expenses between the members of a group. Used by e.g. flatmates, travellers, bands, hobby groups, mini-businesses, amateur film creators and artists.\u003C/p\u003E\n\n\u003Cp\u003EScred provides full support for multiple currencies and their exchange rates, so transactions can be presented in any currency and then viewed in the pool default currency or the user currency. Additionally Scred offers an offline Java-based version for mobile phones which can synchronise with the main website.\u003C/p\u003E\n\n\u003Cp\u003EScred MiniCorps (currently in beta) can be used for the groups to actually make business online, anywhere in the world, at the click of a button. MiniCorps can sell items online and have revenue automatically accounted by the Scred system. Profit/loss calculations are made. Everyone in the group can clearly see what the situation is and know how well their group is doing.\u003C/p\u003E\n\n\u003Cp\u003EScred was selected as a \u0026#8220;Best Bootstrapped Startup\u0026#8221; in \u003Ca href=\"http://www.crunchbase.com/company/seedcamp\" title=\"Seedcamp\"\u003ESeedcamp\u003C/a\u003E Week 2008.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0001/3540/13540v1-max-150x150.png"],
+     [[226,
+       75],
+      "assets/images/resized/0001/3540/13540v1-max-250x250.png"],
+     [[226,
+       75],
+      "assets/images/resized/0001/3540/13540v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Scred Mobile",
+    "permalink": "scred-mobile",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kristoffer",
+      "last_name": "Lawson",
+      "permalink": "kristoffer-lawson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0015/2225/152225v3-max-150x150.png"],
+          [[151,
+            100],
+           "assets/images/resized/0015/2225/152225v3-max-250x250.png"],
+          [[151,
+            100],
+           "assets/images/resized/0015/2225/152225v3-max-450x450.png"]],
+        "attribution": "\u003Cp\u003ERisto M\u00c3\u00a4ki-Pet\u00c3\u00a4ys\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Teemu",
+      "last_name": "Hukkanen",
+      "permalink": "teemu-hukkanen",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Tuomas",
+      "last_name": "Toivonen",
+      "permalink": "tuomas-toivonen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0015/3904/153904v3-max-150x150.png"],
+          [[150,
+            100],
+           "assets/images/resized/0015/3904/153904v3-max-250x250.png"],
+          [[150,
+            100],
+           "assets/images/resized/0015/3904/153904v3-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Buxfer",
+      "permalink": "buxfer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3907/3907v1-max-150x150.png"],
+          [[161,
+            40],
+           "assets/images/resized/0000/3907/3907v1-max-250x250.png"],
+          [[161,
+            40],
+           "assets/images/resized/0000/3907/3907v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BillMonk",
+      "permalink": "billmonk",
+      "image":
+       {"available_sizes":
+         [[[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-150x150.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-250x250.png"],
+          [[124,
+            55],
+           "assets/images/resized/0000/3940/3940v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WePay",
+      "permalink": "wepay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0007/1080/71080v9-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0007/1080/71080v9-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0007/1080/71080v9-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Urheilutie 12",
+    "address2": "",
+    "zip_code": "00790",
+    "city": "Kauniainen",
+    "state_code": null,
+    "country_code": "FIN",
+    "latitude": 60.214102,
+    "longitude": 24.704663}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

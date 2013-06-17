@@ -1,0 +1,271 @@
+{"name": "RaveRants",
+ "permalink": "raverants",
+ "crunchbase_url": "http://www.crunchbase.com/company/raverants",
+ "homepage_url": "http://raverants.com/",
+ "blog_url": "http://raverants.wordpress.com/",
+ "blog_feed_url": "http://raverants.wordpress.com/feed/",
+ "twitter_username": "raverants",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": 14,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, sentiment, reviews, search, raverants",
+ "alias_list": null,
+ "email_address": "raverants@gmail.com",
+ "phone_number": "",
+ "description": "Twitter sentiment search",
+ "created_at": "Sun Oct 18 08:54:26 UTC 2009",
+ "updated_at": "Fri Oct 23 23:32:22 UTC 2009",
+ "overview": "\u003Cp\u003ERaveRants is a realtime Twitter sentiment search engine that enables users to search Twitter for reviews, opinions and thoughts on just about anything: movies, shows, bands, celebrities, products, companies, sports teams, politicians, and more.\u003C/p\u003E\n\n\u003Cp\u003ERaveRants summarizes how many positive and negative tweets that something has. If you\u00e2\u20ac\u2122re searching for a movie or product, you can use RaveRants to quickly determine whether it\u00e2\u20ac\u2122s worth watching or buying.\u003C/p\u003E\n\n\u003Cp\u003ERaveRants also lets you quickly ask follow-up questions to each tweet\u00e2\u20ac\u2122s author. This helps you get more in-depth information about what you\u0026#8217;re researching.\u003C/p\u003E\n\n\u003Cp\u003EWhat it does\u003C/p\u003E\n\n\u003Cp\u003ERaveRants categorizes tweets into those that are positive on a topic (\u0026#8220;raves\u0026#8221;) and negative on a topic (\u0026#8220;rants\u0026#8221;). Users can see an overview of the percentage of raves versus percentage of rants to get summary of the reviews. They can also reply to posters, and repost summaries and comments to Twitter and Facebook. \u003C/p\u003E\n\n\u003Cp\u003EBenefits\u003C/p\u003E\n\n\u003Cp\u003ESuppose it\u0026#8217;s Friday night, you\u0026#8217;re walking downtown, and you\u0026#8217;d like to determine which movie to see. If you tried to use a movie rating site like IMDB or Rotten Tomatos, you would have very little content. Why? They don\u0026#8217;t update in realtime. And they require users to spend a great deal of time crafting their review. It takes time for these reviews to accumulate.\u003C/p\u003E\n\n\u003Cp\u003ERaveRants is different. It treats tweets as reviews. Reviews accumulate fast, since it\u0026#8217;s easy to tweet out \u0026#8220;I\u0026#8217;m hating X movie\u0026#8221; when you\u0026#8217;re still in the theater. RaveRants also indexes reviews in near realtime. This means that RaveRants lets users search on the latest reviews seconds after they occur.\u003C/p\u003E\n\n\u003Cp\u003EBecause of this, RaveRants is ideal for reviews on breaking topics such as recently released movies, TV shows, clubs, books, products, software, games, and web sites.\u003C/p\u003E\n\n\u003Cp\u003EAnother problem with review sites is that they\u0026#8217;re silo\u0026#8217;d. Back to the Friday night example: does it really make sense to visit Yelp to find a restaurant, IMDB for movies, and so on? Not at all.\u003C/p\u003E\n\n\u003Cp\u003ERaveRants provides a single site for reviews on any topic you can imagine: movies, TV shows, bands, concerts, albums, software, books, political candidates, ballot measures, products, celebrities, cars, restaurants, clubs, airlines, travel destinations, hotels, local businesses, and power tools.\u003C/p\u003E\n\n\u003Cp\u003ECompetition\u003C/p\u003E\n\n\u003Cp\u003EBecause RaveRants can be used so widely, it has a range of competitors, including Yelp, Amazon.com, Epinions, Zagat, IMDB, Rotten Tomatoes, and Netflix. Direct Twitter sentiment search competitors include Twendz, Twitteratr and tweetfeel.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[139,
+       137],
+      "assets/images/resized/0006/3031/63031v2-max-150x150.jpg"],
+     [[139,
+       137],
+      "assets/images/resized/0006/3031/63031v2-max-250x250.jpg"],
+     [[139,
+       137],
+      "assets/images/resized/0006/3031/63031v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IMDB",
+      "permalink": "imdb",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0002/5129/25129v4-max-150x150.jpg"],
+          [[250,
+            120],
+           "assets/images/resized/0002/5129/25129v4-max-250x250.jpg"],
+          [[450,
+            216],
+           "assets/images/resized/0002/5129/25129v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zagat",
+      "permalink": "zagat",
+      "image":
+       {"available_sizes":
+         [[[118,
+            118],
+           "assets/images/resized/0002/6495/26495v1-max-150x150.jpg"],
+          [[118,
+            118],
+           "assets/images/resized/0002/6495/26495v1-max-250x250.jpg"],
+          [[118,
+            118],
+           "assets/images/resized/0002/6495/26495v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Citysearch",
+      "permalink": "citysearch",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/3847/13847v3-max-150x150.jpg"],
+          [[157,
+            40],
+           "assets/images/resized/0001/3847/13847v3-max-250x250.jpg"],
+          [[157,
+            40],
+           "assets/images/resized/0001/3847/13847v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Epinions",
+      "permalink": "epinions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0001/5458/15458v1-max-150x150.png"],
+          [[218,
+            71],
+           "assets/images/resized/0001/5458/15458v1-max-250x250.png"],
+          [[218,
+            71],
+           "assets/images/resized/0001/5458/15458v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rotten Tomatoes",
+      "permalink": "rottentomatoes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0002/1100/21100v3-max-150x150.png"],
+          [[250,
+            81],
+           "assets/images/resized/0002/1100/21100v3-max-250x250.png"],
+          [[450,
+            146],
+           "assets/images/resized/0002/1100/21100v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Netflix",
+      "permalink": "netflix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7200/17200v1-max-150x150.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-250x250.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twends",
+      "permalink": "twends",
+      "image": null}},
+   {"competitor":
+     {"name": "Twitteratr",
+      "permalink": "twitteratr",
+      "image": null}},
+   {"competitor":
+     {"name": "TweetFeel",
+      "permalink": "tweetfeel",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0005/9370/59370v4-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0005/9370/59370v4-max-250x250.jpg"],
+          [[300,
+            300],
+           "assets/images/resized/0005/9370/59370v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Scout Labs",
+      "permalink": "scoutlabs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/2617/2617v2-max-150x150.jpg"],
+          [[250,
+            81],
+           "assets/images/resized/0000/2617/2617v2-max-250x250.jpg"],
+          [[275,
+            90],
+           "assets/images/resized/0000/2617/2617v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Omgili",
+      "permalink": "omgili",
+      "image":
+       {"available_sizes":
+         [[[150,
+            69],
+           "assets/images/resized/0001/6654/16654v3-max-150x150.png"],
+          [[189,
+            88],
+           "assets/images/resized/0001/6654/16654v3-max-250x250.png"],
+          [[189,
+            88],
+           "assets/images/resized/0001/6654/16654v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PeopleBrowsr",
+      "permalink": "peoplebrowsr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0002/4166/24166v2-max-150x150.jpg"],
+          [[250,
+            118],
+           "assets/images/resized/0002/4166/24166v2-max-250x250.jpg"],
+          [[450,
+            213],
+           "assets/images/resized/0002/4166/24166v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        82],
+       "assets/images/resized/0006/3029/63029v2-max-150x150.png"],
+      [[250,
+        137],
+       "assets/images/resized/0006/3029/63029v2-max-250x250.png"],
+      [[450,
+        247],
+       "assets/images/resized/0006/3029/63029v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0006/3030/63030v2-max-150x150.png"],
+      [[250,
+        152],
+       "assets/images/resized/0006/3030/63030v2-max-250x250.png"],
+      [[450,
+        274],
+       "assets/images/resized/0006/3030/63030v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

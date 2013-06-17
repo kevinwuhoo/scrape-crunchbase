@@ -1,0 +1,174 @@
+{"name": "Pixy Ltd",
+ "permalink": "pixy-ltd",
+ "crunchbase_url": "http://www.crunchbase.com/company/pixy-ltd",
+ "homepage_url": "http://www.pixyblog.com",
+ "blog_url": "http://news.pixyblog.com",
+ "blog_feed_url": "http://www.pixyblog.com/blog/news/feed/entries/rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2006,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "photo-sharing-community, digital-photography-blogs, photoblog, online-photo-sharing, digital-photography, photo-gallery",
+ "alias_list": null,
+ "email_address": "info@pixyblog.com",
+ "phone_number": "+44 (0)20 8144 1841",
+ "description": null,
+ "created_at": "Mon Jun 23 10:48:11 UTC 2008",
+ "updated_at": "Thu Apr 16 06:00:22 UTC 2009",
+ "overview": "\u003Cp\u003EWith years of experience in providing photo agencies and professional photographers with custom-designed software and hosting, Pixy Ltd was founded to meet the growing needs of today\u0026#8217;s photographers.\u003C/p\u003E\n\n\u003Cp\u003EWith the understanding that most photographers would rather be out taking pictures or manipulating their photos than messing with code, Pixy Ltd mission is to provide the technology to give photographers their own bespoke portal to the world where they can display and sell their work.\u003C/p\u003E\n\n\u003Cp\u003EThey provide their members with hosted photography blogs and discussion forums and hosting.\u003C/p\u003E\n\n\u003Cp\u003EThe digital photography blogs are feature rich, utilizing themes/skins, feeds, API, watermarking. Each photoblog is also fully customizable and can be run on an individual domain.\u003C/p\u003E\n\n\u003Cp\u003ETheir members include professional photographers, enthusiastic amateurs, students, artists and people with natural talent.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       82],
+      "assets/images/resized/0002/5949/25949v2-max-150x150.jpg"],
+     [[250,
+       137],
+      "assets/images/resized/0002/5949/25949v2-max-250x250.jpg"],
+     [[355,
+       195],
+      "assets/images/resized/0002/5949/25949v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "PixyBlog",
+    "permalink": "pixyblog",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "SmugMug",
+      "permalink": "smugmug",
+      "image":
+       {"available_sizes":
+         [[[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-150x150.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-250x250.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Flickr",
+      "permalink": "flickr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0021/3864/213864v1-max-150x150.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-250x250.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zooomr",
+      "permalink": "zooomr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0000/2566/2566v1-max-150x150.png"],
+          [[207,
+            100],
+           "assets/images/resized/0000/2566/2566v1-max-250x250.png"],
+          [[207,
+            100],
+           "assets/images/resized/0000/2566/2566v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iStockphoto",
+      "permalink": "istockphoto",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/2209/2209v1-max-150x150.png"],
+          [[180,
+            45],
+           "assets/images/resized/0000/2209/2209v1-max-250x250.png"],
+          [[180,
+            45],
+           "assets/images/resized/0000/2209/2209v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "EC2",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "S3",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "\u00a350k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2007,
+    "funded_month": 9,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2a Bracken Road",
+    "address2": "",
+    "zip_code": "SL6 3EF",
+    "city": "Maidenhead",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.508466,
+    "longitude": -0.742987}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

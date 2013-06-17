@@ -1,0 +1,115 @@
+{"name": "Earthcomber",
+ "permalink": "earthcomber",
+ "crunchbase_url": "http://www.crunchbase.com/company/earthcomber",
+ "homepage_url": "http://www.earthcomber.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-presence, lbs",
+ "alias_list": null,
+ "email_address": "info@earthcomber.com",
+ "phone_number": "(708) 366-1600",
+ "description": null,
+ "created_at": "Tue Oct 07 05:43:10 UTC 2008",
+ "updated_at": "Fri Jan 23 20:02:59 UTC 2009",
+ "overview": "\u003Cp\u003EEarthcomber will help you find special interests over the hill or just down the block.  Earthcomber also helps you find all the basic stuff\u00e2\u20ac\u201dthe cash machines, coffee shops, WiFi hotspots, hotels, post offices, restaurants\u00e2\u20ac\u201dso that you can take care of your necessities and have time for more pursuits.\u003C/p\u003E\n\n\u003Cp\u003EThe Earthcomber web application is available on a variety of mobile devices (iPhone, Blackberry, WAP, etc) and helps you find nearby places of interests. You can also use it to share your current location with friends, although not using any GPS or triangulation - you have to enter your ZIP code or current intersection manually.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[126,
+       126],
+      "assets/images/resized/0002/6275/26275v1-max-150x150.png"],
+     [[126,
+       126],
+      "assets/images/resized/0002/6275/26275v1-max-250x250.png"],
+     [[126,
+       126],
+      "assets/images/resized/0002/6275/26275v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Comber",
+    "permalink": "comber",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and President",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Brady",
+      "permalink": "jim-brady",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Dunworth",
+      "permalink": "chris-dunworth",
+      "image": null}},
+   {"is_past": false,
+    "title": "SVP, Sales and Operations",
+    "person":
+     {"first_name": "Dana",
+      "last_name": "Sohr",
+      "permalink": "dana-sohr",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chief Software Engineer",
+    "person":
+     {"first_name": "Steven",
+      "last_name": "Bentz",
+      "permalink": "steven-bentz",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Loopt",
+      "permalink": "loopt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0000/1972/1972v6-max-150x150.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-250x250.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "7777 Lake St.",
+    "address2": "",
+    "zip_code": "60305",
+    "city": "River Forest",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": 41.887695,
+    "longitude": -87.818986}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/eN_Nt7N6xsk\u0026hl=en\u0026fs=1\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/eN_Nt7N6xsk\u0026hl=en\u0026fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EEarthcomber Overview\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

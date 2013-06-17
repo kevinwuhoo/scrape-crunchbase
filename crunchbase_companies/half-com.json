@@ -1,0 +1,182 @@
+{"name": "Half.com",
+ "permalink": "half-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/half-com",
+ "homepage_url": "http://www.half.ebay.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "e-commerce, marketplace, shopping, ebay",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon Aug 04 17:31:28 UTC 2008",
+ "updated_at": "Tue Aug 02 18:43:26 UTC 2011",
+ "overview": "\u003Cp\u003EHalf.com is a person-to-person online marketplace that was acquired by \u003Ca href=\"http://www.crunchbase.com/company/ebay\" title=\"eBay\"\u003EeBay\u003C/a\u003E in June 2000.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[132,
+       56],
+      "assets/images/resized/0002/3270/23270v1-max-150x150.png"],
+     [[132,
+       56],
+      "assets/images/resized/0002/3270/23270v1-max-250x250.png"],
+     [[132,
+       56],
+      "assets/images/resized/0002/3270/23270v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder / CEO",
+    "person":
+     {"first_name": "Josh",
+      "last_name": "Kopelman",
+      "permalink": "josh-kopelman",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0001/8182/18182v1-max-150x150.jpg"],
+          [[127,
+            192],
+           "assets/images/resized/0001/8182/18182v1-max-250x250.jpg"],
+          [[127,
+            192],
+           "assets/images/resized/0001/8182/18182v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder, Marketing Head",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Harrington",
+      "permalink": "mark-harrington",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0004/6406/46406v6-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0004/6406/46406v6-max-250x250.jpg"],
+          [[316,
+            316],
+           "assets/images/resized/0004/6406/46406v6-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Director, Marketing \u0026 Strategy",
+    "person":
+     {"first_name": "David",
+      "last_name": "Feller",
+      "permalink": "david-feller",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0005/9426/59426v13-max-150x150.jpg"],
+          [[249,
+            250],
+           "assets/images/resized/0005/9426/59426v13-max-250x250.jpg"],
+          [[449,
+            450],
+           "assets/images/resized/0005/9426/59426v13-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Director of Marketing",
+    "person":
+     {"first_name": "Clint",
+      "last_name": "Schmidt",
+      "permalink": "clint-schmidt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0013/1580/131580v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0013/1580/131580v5-max-250x250.jpg"],
+          [[270,
+            270],
+           "assets/images/resized/0013/1580/131580v5-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Hughes",
+      "permalink": "mark-hughes",
+      "image":
+       {"available_sizes":
+         [[[97,
+            150],
+           "assets/images/resized/0012/0680/120680v2-max-150x150.jpg"],
+          [[100,
+            154],
+           "assets/images/resized/0012/0680/120680v2-max-250x250.jpg"],
+          [[100,
+            154],
+           "assets/images/resized/0012/0680/120680v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Product Manager and Developer",
+    "person":
+     {"first_name": "Mariya",
+      "last_name": "Genzel",
+      "permalink": "mariya-genzel",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 350000000.0,
+   "price_currency_code": "USD",
+   "term_code": "stock",
+   "source_url": "http://ecommercetimes.com/story/3555.html",
+   "source_description": "eBay Broadens Scope with Half.com Buy",
+   "acquired_year": 2000,
+   "acquired_month": 6,
+   "acquired_day": 13,
+   "acquiring_company":
+    {"name": "eBay",
+     "permalink": "ebay",
+     "image":
+      {"available_sizes":
+        [[[150,
+           62],
+          "assets/images/resized/0000/3625/3625v1-max-150x150.png"],
+         [[210,
+           87],
+          "assets/images/resized/0000/3625/3625v1-max-250x250.png"],
+         [[210,
+           87],
+          "assets/images/resized/0000/3625/3625v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

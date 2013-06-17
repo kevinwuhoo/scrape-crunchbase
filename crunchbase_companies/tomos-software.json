@@ -1,0 +1,97 @@
+{"name": "TOMOS Software",
+ "permalink": "tomos-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/tomos-software",
+ "homepage_url": "http://www.reachsimplicity.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "testing, test-management, application-life-cycle, requirements, defect-tracking, test-case, test-plan, quality",
+ "alias_list": null,
+ "email_address": "info@reachsimplicity.com",
+ "phone_number": "212-682-1315",
+ "description": "Software Quality Lifecycle Management",
+ "created_at": "Thu Mar 05 20:04:49 UTC 2009",
+ "updated_at": "Sat Mar 07 15:04:35 UTC 2009",
+ "overview": "\u003Cp\u003ETOMOS is a software quality management solution. \u003C/p\u003E\n\n\u003Cp\u003EAs a web 2.0, SaaS solution that is targeted at Analysts, Developers, Testers and  Managers, TOMOS provides modules for requirements management, test case authoring \u0026amp; test execution and defect tracking, along with a built-in methodology for each module and workflows for each role.  \u003C/p\u003E\n\n\u003Cp\u003ETOMOS provides the team with a distributed software (web 2.0) that feeds into a centralized database.  This facilitates full traceability of assets from requirements to test cases to defects and provides a full audit trail of changes to anything.  The interface has been designed to provide a similar look-and-feel to Microsoft Office, minimizing the ramp-up time.  Collaboration functions such as email notification and document \u0026amp; file sharing promote faster and better communication throughout the team. \u003C/p\u003E\n\n\u003Cp\u003EAs a SaaS application,  there are no installation or maintenance costs and upgrades are made to a central code base, allowing for faster rollout of new features and fixes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[125,
+       58],
+      "assets/images/resized/0003/7413/37413v2-max-150x150.jpg"],
+     [[125,
+       58],
+      "assets/images/resized/0003/7413/37413v2-max-250x250.jpg"],
+     [[125,
+       58],
+      "assets/images/resized/0003/7413/37413v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "TOMOS",
+    "permalink": "tomos",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Hayduk",
+      "permalink": "bill-hayduk",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Sales",
+    "person":
+     {"first_name": "Ron",
+      "last_name": "Axelrod",
+      "permalink": "ron-axelrod",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "360 Lexington Avenue",
+    "address2": "",
+    "zip_code": "10017",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.7504268,
+    "longitude": -73.9768083}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        82],
+       "assets/images/resized/0003/7412/37412v2-max-150x150.png"],
+      [[250,
+        137],
+       "assets/images/resized/0003/7412/37412v2-max-250x250.png"],
+      [[450,
+        248],
+       "assets/images/resized/0003/7412/37412v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://finance.yahoo.com/news/New-SaaS-Tool-Eases-the-prnews-14399950.html",
+    "title": "New SaaS Tool Eases the Stress of Software Development"}]}

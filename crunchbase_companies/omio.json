@@ -1,0 +1,104 @@
+{"name": "Omio",
+ "permalink": "omio",
+ "crunchbase_url": "http://www.crunchbase.com/company/omio",
+ "homepage_url": "http://www.omio.com",
+ "blog_url": "http://blog.omio.com/",
+ "blog_feed_url": "http://blog.omio.com/feed/",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 8,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-phones, mobile-phone-comparison, mobile-forum, mobile-reviews, ajax, real-time-search",
+ "alias_list": null,
+ "email_address": "talk@omio.com",
+ "phone_number": "+442071213105",
+ "description": null,
+ "created_at": "Tue Sep 16 16:55:59 UTC 2008",
+ "updated_at": "Mon Oct 11 17:52:25 UTC 2010",
+ "overview": "\u003Cp\u003EOmio.com is a mobile phone comparison and community site. Launched in November 2007, Omio.com uses an innovative ajax interface to help users filter the vast array of mobile phones and price plans available in real-time.\u003C/p\u003E\n\n\u003Cp\u003EUsers can sign up to dedicated mobile forums, add reviews, ratings and articles about their phones. Omio is also home to a team of mobile experts who are on hand to answer any mobile phone question. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       71],
+      "assets/images/resized/0002/5171/25171v4-max-150x150.jpg"],
+     [[250,
+       118],
+      "assets/images/resized/0002/5171/25171v4-max-250x250.jpg"],
+     [[306,
+       145],
+      "assets/images/resized/0002/5171/25171v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Wheeler",
+      "permalink": "matt-wheeler",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Neil",
+      "last_name": "Hutchinson",
+      "permalink": "neil-hutchinson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Editor",
+    "person":
+     {"first_name": "Ernest",
+      "last_name": "Doku",
+      "permalink": "ernest-doku",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Phones Limited",
+      "permalink": "phones-limited",
+      "image":
+       {"available_sizes":
+         [[[150,
+            17],
+           "assets/images/resized/0003/9129/39129v1-max-150x150.png"],
+          [[241,
+            28],
+           "assets/images/resized/0003/9129/39129v1-max-250x250.png"],
+          [[241,
+            28],
+           "assets/images/resized/0003/9129/39129v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Best Mobile",
+      "permalink": "best-mobile",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.omio.com/staticpromo/press_release/",
+    "title": "Omio Press Releases"},
+   {"external_url": "http://www.forward.co.uk",
+    "title": "Forward Internet Group"}]}

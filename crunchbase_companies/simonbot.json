@@ -1,0 +1,105 @@
+{"name": "Simonbot",
+ "permalink": "simonbot",
+ "crunchbase_url": "http://www.crunchbase.com/company/simonbot",
+ "homepage_url": "https://simonbot.com",
+ "blog_url": "http://blog.simonbot.com",
+ "blog_feed_url": "http://blog.simonbot.com/feeds/posts/default",
+ "twitter_username": "simonbot_",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-metrics, load-time, performance, monitoring, easy",
+ "alias_list": null,
+ "email_address": "hello@simonbot.com",
+ "phone_number": "0033482534875",
+ "description": "Web quality \u0026 performance monitoring",
+ "created_at": "Mon Jan 21 16:51:39 UTC 2013",
+ "updated_at": "Tue Jan 22 20:45:07 UTC 2013",
+ "overview": "\u003Cp\u003EAutomatically check your website\u0026#8217;s quality \u0026amp; performance with Simonbot. \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cp\u003ENo technical requirements\nThere is no need to browse the source code of your website, or install any software on your server. Register, create a watcher and Simonbot will collect the data for you.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003E5 min-setup guaranteed\nYou can monitor any website and URL you want. Simply sign up to Simonbot, provide the URL and you\u0026#8217;re ready to go. It can be your website, Google, a blog or even a competitor!\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EWorldwide checks\nYour website is out there on the web, so it is avaiable anywhere in the world. But is it efficiently available? How fast is your load time in Los Angeles, Paris or Amsterdam? Is your ad server slowing down your Japanese customers? Simonbot can help you to find out!\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EMultiple indicators\nSimonbot comes with several indicators (load time, page weight, image weight, external JavaScript files, YSlow score, missing files, etc). It offers you a quick overview of any bottlenecks on your website.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EE-Mail alerts\nFor each performance or quality indicator you can set a limit. Whenever this is reached, Simonbot will instantly send you an email to let you know what\u0026#8217;s going on.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EBenchmark your competitors\nYou can use Simonbot to benchmark your competitors. You can then compare scores, load times and target your efforts and budget on specific points to enhance your website\u0026#8217;s user experience.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EReal browser, with customer view\nSimonbot uses a real browser to test your website. It loads your web pages as a real user would do, so all the data gathered is accurate, real and can be compared to human browsing.\u003C/p\u003E\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EGet results, analyse them and find bottlenecks\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/0824/230824v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0023/0824/230824v2-max-250x250.jpg"],
+     [[450,
+       450],
+      "assets/images/resized/0023/0824/230824v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Pierre",
+      "last_name": "de La Celle",
+      "permalink": "pierre-de-la-celle",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yottaa",
+      "permalink": "yottaa",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0008/7833/87833v1-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0008/7833/87833v1-max-250x250.png"],
+          [[450,
+            118],
+           "assets/images/resized/0008/7833/87833v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Compuware Gomez",
+      "permalink": "compuware-gomez",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "33 quai Arloing",
+    "address2": "",
+    "zip_code": "69009",
+    "city": "Lyon",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        100],
+       "assets/images/resized/0023/0823/230823v2-max-150x150.png"],
+      [[250,
+        167],
+       "assets/images/resized/0023/0823/230823v2-max-250x250.png"],
+      [[450,
+        301],
+       "assets/images/resized/0023/0823/230823v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

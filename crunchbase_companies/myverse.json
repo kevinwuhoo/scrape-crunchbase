@@ -1,0 +1,122 @@
+{"name": "MyVerse",
+ "permalink": "myverse",
+ "crunchbase_url": "http://www.crunchbase.com/company/myverse",
+ "homepage_url": "http://www.myverse.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online, teens, teen, millennials, resources, career, health, personal-development, finance",
+ "alias_list": null,
+ "email_address": "wayne@myverse.com",
+ "phone_number": "415 310 8925",
+ "description": "Online teen resource",
+ "created_at": "Sun Aug 01 23:01:46 UTC 2010",
+ "updated_at": "Mon Aug 29 12:38:13 UTC 2011",
+ "overview": "\u003Cp\u003EMyVerse is an Online Personal development and professional networking for Millennials (13-25 years) through Careers, Finance, Health, Culture, Entertainment, interactive tools and more. MyVerse helps Millennials further define themselves, set goals, and prepare for a successful future.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       62],
+      "assets/images/resized/0010/1218/101218v2-max-150x150.png"],
+     [[250,
+       104],
+      "assets/images/resized/0010/1218/101218v2-max-250x250.png"],
+     [[450,
+       187],
+      "assets/images/resized/0010/1218/101218v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder/CTO",
+    "person":
+     {"first_name": "Andreas",
+      "last_name": "Hjelming",
+      "permalink": "andreas-hjelming",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder/CMO",
+    "person":
+     {"first_name": "Jeanine",
+      "last_name": "LeFlore",
+      "permalink": "jeanine-leflore",
+      "image":
+       {"available_sizes":
+         [[[136,
+            150],
+           "assets/images/resized/0001/6938/16938v1-max-150x150.jpg"],
+          [[227,
+            250],
+           "assets/images/resized/0001/6938/16938v1-max-250x250.jpg"],
+          [[410,
+            450],
+           "assets/images/resized/0001/6938/16938v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "OMM",
+      "permalink": "omm",
+      "image": null}}],
+ "total_money_raised": "$400k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 400000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 7,
+    "funded_day": 30,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Raf",
+         "last_name": "Manji",
+         "permalink": "raf-manji",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "John",
+         "last_name": "Wood",
+         "permalink": "john-wood-2",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "P.O. Box 575",
+    "address2": "",
+    "zip_code": "94104-0575",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,104 @@
+{"name": "MeetingSprout",
+ "permalink": "meetingsprout",
+ "crunchbase_url": "http://www.crunchbase.com/company/meetingsprout",
+ "homepage_url": "http://meetingsprout.com/",
+ "blog_url": "http://meetingsprout.com/index.php?page=blog",
+ "blog_feed_url": "http://meetingsprout.com/index.php?page=blog",
+ "twitter_username": "meetingsprout",
+ "category_code": "web",
+ "number_of_employees": 8,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "scheduling, online-scheduling, apointments, calendar-sharing, calendar-merging, appointment-scheduling, online-calendar, meeting, planning",
+ "alias_list": null,
+ "email_address": "contact@meetingsprout.com",
+ "phone_number": "201-956-4480",
+ "description": "Calendar scheduling",
+ "created_at": "Fri Jun 17 21:05:25 UTC 2011",
+ "updated_at": "Wed Jul 06 00:20:24 UTC 2011",
+ "overview": "\u003Cp\u003EMeetingSprout, an online calendar-based community, coordinates individuals, groups, and businesses in a simple and efficient way through curated information.\u003C/p\u003E\n\n\u003Cp\u003EIndividuals need to reference many different sources, ranging from other individuals to businesses, to schedule their day. MeetingSprout brings all needed information into one place and presents them in a clean, relevant fashion in the context of users\u00e2\u20ac\u2122 own calendars. As a result, users save time locating the scattered information and avoid the stress of putting it together. Groups can schedule events with the knowledge of its members\u00e2\u20ac\u2122 available times. Businesses can promote themselves, inform customers, and accept appointments and transactions, a form of inbound marketing.\u003C/p\u003E\n\n\u003Cp\u003EIndividuals can organize a trip to the gym by merging schedules with their friends to see who is available at what times. They can also merge with the gym\u00e2\u20ac\u2122s calendar to find its hours of operation. In addition to scheduling, groups can collaborate using the discussion board and note-sending features. Businesses can access market research derived from their customer base, including the times when most of their customers are available.\u003C/p\u003E\n\n\u003Cp\u003EMeetingSprout is an online social calendar platform that allows users to coordinate their schedule with other users, groups, and businesses while maintaining privacy.\nMeetingSprout allows you to:\n\u00e2\u20ac\u00a2 View your personal, social, and professional schedule in an easy, simple way \u00e2\u20ac\u00a2    Merge your calendar with those of your friends, groups, and local businesses \u00e2\u20ac\u00a2    Send meeting requests in open times\n\u00e2\u20ac\u00a2 Establish a reputation for showing up to scheduled events\n\u00e2\u20ac\u00a2 Know the reliability of others before scheduling with them\n\u00e2\u20ac\u00a2 Create a group with a shared calendar and discussion board\n\u00e2\u20ac\u00a2 Set group meetings, due dates, and important events \n\u00e2\u20ac\u00a2 Add, remove, and send messages to group members all from one place \n\u00e2\u20ac\u00a2      Connect with businesses, schedule appointments, and plan ahead with ease\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Blaine",
+      "last_name": "Killen",
+      "permalink": "blaine-killen",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Marketing Officer",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "Bernitt",
+      "permalink": "jeremy-bernitt",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Executive Officer",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Kettell",
+      "permalink": "kevin-kettell",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tungle.me",
+      "permalink": "tungle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0001/7376/17376v5-max-150x150.png"],
+          [[200,
+            57],
+           "assets/images/resized/0001/7376/17376v5-max-250x250.png"],
+          [[200,
+            57],
+           "assets/images/resized/0001/7376/17376v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$5k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://ischool.syr.edu/newsroom/?recid=1119",
+    "source_description": "Syracuse iSchool students bring home $5,000 from Ray von Dran Awards, are first team of freshmen to join Syracuse Student Sandbox",
+    "raised_amount": 5000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 7,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Syracuse Tech Garden",
+    "address1": "235 Harrison Street",
+    "address2": "",
+    "zip_code": "13202",
+    "city": "Syracuse",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://ischool.syr.edu/newsroom/?recid=1119",
+    "title": "MeetingSprout funding"}]}

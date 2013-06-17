@@ -1,0 +1,160 @@
+{"name": "Guestlist",
+ "permalink": "guestlist",
+ "crunchbase_url": "http://www.crunchbase.com/company/guestlist",
+ "homepage_url": "http://www.guestlistapp.com",
+ "blog_url": "http://www.guestlistapp.com/blog",
+ "blog_feed_url": "http://feeds.feedburner.com/guestlist",
+ "twitter_username": "guestlistapp",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "events, event-management, registration, ecommerce, paypal, saas",
+ "alias_list": null,
+ "email_address": "support@guestlistapp.com",
+ "phone_number": "",
+ "description": "Online event registration",
+ "created_at": "Mon Oct 12 22:17:23 UTC 2009",
+ "updated_at": "Tue Mar 26 10:55:19 UTC 2013",
+ "overview": "\u003Cp\u003EBased out of Toronto, Canada, Guestlist is an event registration service that helps users sell tickets online.\u003C/p\u003E\n\n\u003Cp\u003EGuestlist lets users create a hosted public event page, which both promotes the event and handles customer registrations. Payment processing is handled by PayPal.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0006/2536/62536v2-max-150x150.png"],
+     [[250,
+       59],
+      "assets/images/resized/0006/2536/62536v2-max-250x250.png"],
+     [[450,
+       107],
+      "assets/images/resized/0006/2536/62536v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Justin",
+      "last_name": "Giancola",
+      "permalink": "justin-giancola",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Vinegar",
+      "permalink": "ben-vinegar",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jaco",
+      "last_name": "Joubert",
+      "permalink": "jaco-joubert",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Eventbrite",
+      "permalink": "eventbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/3442/3442v8-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0000/3442/3442v8-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/3442/3442v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventbee",
+      "permalink": "eventbee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/4384/4384v1-max-150x150.png"],
+          [[200,
+            55],
+           "assets/images/resized/0000/4384/4384v1-max-250x250.png"],
+          [[200,
+            55],
+           "assets/images/resized/0000/4384/4384v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TicketLeap",
+      "permalink": "ticketleap",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/7907/17907v5-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/7907/17907v5-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/7907/17907v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SimpleTix",
+      "permalink": "simpletick",
+      "image":
+       {"available_sizes":
+         [[[150,
+            122],
+           "assets/images/resized/0007/2909/72909v5-max-150x150.png"],
+          [[250,
+            204],
+           "assets/images/resized/0007/2909/72909v5-max-250x250.png"],
+          [[450,
+            367],
+           "assets/images/resized/0007/2909/72909v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Toronto, Ontario",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        123],
+       "assets/images/resized/0006/2558/62558v2-max-150x150.png"],
+      [[250,
+        206],
+       "assets/images/resized/0006/2558/62558v2-max-250x250.png"],
+      [[450,
+        371],
+       "assets/images/resized/0006/2558/62558v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

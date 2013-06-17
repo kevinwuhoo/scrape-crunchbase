@@ -1,0 +1,117 @@
+{"name": "GetQuik",
+ "permalink": "getquik",
+ "crunchbase_url": "http://www.crunchbase.com/company/getquik",
+ "homepage_url": "http://www.getquik.com",
+ "blog_url": "http://www.getquikblog.com/",
+ "blog_feed_url": "http://www.getquikblog.com/feeds/posts/default?alt=rss",
+ "twitter_username": "GetQuik",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "food, ordering, restaurants",
+ "alias_list": "",
+ "email_address": "support@GetQuik.com",
+ "phone_number": "(408) 884-3889",
+ "description": "",
+ "created_at": "Sun Mar 02 19:03:14 UTC 2008",
+ "updated_at": "Wed Apr 03 04:58:36 UTC 2013",
+ "overview": "\u003Cp\u003EGetQuik is attempting to simplify online restaurant ordering.  It enables customers to order from restaurants using the Internet, mobile phones, and customized widget technology.  GetQuik handles the rest of the ordering process.  Customers pay for orders through their GetQuik accounts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0001/4202/14202v1-max-150x150.png"],
+     [[209,
+       58],
+      "assets/images/resized/0001/4202/14202v1-max-250x250.png"],
+     [[209,
+       58],
+      "assets/images/resized/0001/4202/14202v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "GetQuik",
+    "permalink": "getquik",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Ken",
+      "last_name": "Ryu",
+      "permalink": "ken-ryu",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Public Relations",
+    "is_past": null,
+    "provider":
+     {"name": "Dovetail Public Relations",
+      "permalink": "dovetail-public-relations",
+      "image":
+       {"available_sizes":
+         [[[126,
+            140],
+           "assets/images/resized/0001/4196/14196v1-max-150x150.png"],
+          [[126,
+            140],
+           "assets/images/resized/0001/4196/14196v1-max-250x250.png"],
+          [[126,
+            140],
+           "assets/images/resized/0001/4196/14196v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.thealarmclock.com/mt/archives/2007/12/getquik_seeded_1.html",
+    "source_description": "GetQuik Seeded For Online Food Ordering",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 12,
+    "funded_day": 17,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Mark",
+         "last_name": "Coker",
+         "permalink": "mark-coker",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Sam",
+         "last_name": "Ryu",
+         "permalink": "sam-ryu",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "2320 Walsh Avenue, Suite D",
+    "address2": "",
+    "zip_code": "95051",
+    "city": "Santa Clara",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.369444,
+    "longitude": -121.966268}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

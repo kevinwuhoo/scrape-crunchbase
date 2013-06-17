@@ -1,0 +1,113 @@
+{"name": "Mavituna Security",
+ "permalink": "mavituna-security",
+ "crunchbase_url": "http://www.crunchbase.com/company/mavituna-security",
+ "homepage_url": "http://www.mavitunasecurity.com",
+ "blog_url": "http://www.mavitunasecurity.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/netsparker",
+ "twitter_username": "netsparker",
+ "category_code": "security",
+ "number_of_employees": 6,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "security, web-application-security, scanner",
+ "alias_list": null,
+ "email_address": "contact@mavitunasecurity.com",
+ "phone_number": "00448456863001",
+ "description": "",
+ "created_at": "Tue Dec 08 11:15:17 UTC 2009",
+ "updated_at": "Tue Dec 08 20:19:31 UTC 2009",
+ "overview": "\u003Cp\u003EMavituna Security is a small company consisting of six people and a small board of advisors. We are a well-funded company and we are here to stay. We focused on a single product \u0026#8220;Netsparker, Web Application Security Scanner\u0026#8221; and are not developing any other product or providing any other service.\u003C/p\u003E\n\n\u003Cp\u003EThe development and security research team is led by Ferruh Mavituna, who is also the founder of the company and a well-known application security researcher.\u003C/p\u003E\n\n\u003Cp\u003ENetsparker\u003C/p\u003E\n\n\u003Cp\u003EWe are committed to developing a web application security scanner which accomplishes what it claims. A web application security scanner should find vulnerabilities and should not report false-positives. Therefore, instead of spending our time on creating useless features, we focused on actually finding vulnerabilities and eliminating false-positives.\u003C/p\u003E\n\n\u003Cp\u003ENetsparker has confirmation and exploitation engines. These engines ensure that it does not report any false-positives and allow users to see the actual impact of attacks instead of a text which explains what might happen.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0006/8865/68865v2-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0006/8865/68865v2-max-250x250.png"],
+     [[350,
+       79],
+      "assets/images/resized/0006/8865/68865v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ferruh",
+      "last_name": "Mavituna",
+      "permalink": "ferruh-mavituna",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "IBM",
+      "permalink": "ibm",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+          [[170,
+            68],
+           "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hewlett-Packard",
+      "permalink": "hewlett-packard",
+      "image":
+       {"available_sizes":
+         [[[145,
+            150],
+           "assets/images/resized/0001/4529/14529v5-max-150x150.jpg"],
+          [[242,
+            250],
+           "assets/images/resized/0001/4529/14529v5-max-250x250.jpg"],
+          [[291,
+            300],
+           "assets/images/resized/0001/4529/14529v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cenzic",
+      "permalink": "cenzic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0002/2942/22942v1-max-150x150.png"],
+          [[224,
+            66],
+           "assets/images/resized/0002/2942/22942v1-max-250x250.png"],
+          [[224,
+            66],
+           "assets/images/resized/0002/2942/22942v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

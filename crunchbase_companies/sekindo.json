@@ -1,0 +1,141 @@
+{"name": "SekiNdo",
+ "permalink": "sekindo",
+ "crunchbase_url": "http://www.crunchbase.com/company/sekindo",
+ "homepage_url": "http://www.sekindo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "advertising",
+ "number_of_employees": 4,
+ "founded_year": 2006,
+ "founded_month": 10,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-advertising, online-marketing, ad-marketplace, banners",
+ "alias_list": null,
+ "email_address": "rotem@sekindo.com",
+ "phone_number": "+972544279755",
+ "description": null,
+ "created_at": "Tue Jan 13 12:24:26 UTC 2009",
+ "updated_at": "Thu Jan 29 13:36:17 UTC 2009",
+ "overview": "\u003Cp\u003ESekiNdo is an intelligent online ad marketplace established in 2006 for the purpose of improving online advertising in terms of targeting, transparency, control and simplicity. SekiNdo was founded after recognizing the online advertisers\u0026#8217; and publishers\u0026#8217; needs for a simple transparent online advertising solution.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0003/3704/33704v2-max-150x150.jpg"],
+     [[250,
+       110],
+      "assets/images/resized/0003/3704/33704v2-max-250x250.jpg"],
+     [[450,
+       199],
+      "assets/images/resized/0003/3704/33704v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Sales",
+    "person":
+     {"first_name": "Oren",
+      "last_name": "Berdichevsky",
+      "permalink": "oren-berdichevsky",
+      "image": null}},
+   {"is_past": false,
+    "title": "R\u0026D",
+    "person":
+     {"first_name": "Rotem",
+      "last_name": "Shaul",
+      "permalink": "rotem-shaul",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "adBrite",
+      "permalink": "adbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0000/3424/3424v14-max-150x150.jpg"],
+          [[250,
+            92],
+           "assets/images/resized/0000/3424/3424v14-max-250x250.jpg"],
+          [[286,
+            106],
+           "assets/images/resized/0000/3424/3424v14-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Web Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Pearl Cohen Zedek \u0026 Lazer",
+      "permalink": "pearl-cohen-zedek-lazer",
+      "image": null}},
+   {"title": "Billing",
+    "is_past": false,
+    "provider":
+     {"name": "Tranzila",
+      "permalink": "tranzila",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Bloch 14 st.",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

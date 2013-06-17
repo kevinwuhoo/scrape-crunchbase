@@ -1,0 +1,117 @@
+{"name": "DemoHire",
+ "permalink": "demohire",
+ "crunchbase_url": "http://www.crunchbase.com/company/demohire",
+ "homepage_url": "http://www.demohire.com",
+ "blog_url": "http://blog.demohire.com",
+ "blog_feed_url": "",
+ "twitter_username": "demohire",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video-hiring, video, hiring, online-hiring",
+ "alias_list": null,
+ "email_address": "hello@demohire.com",
+ "phone_number": "(305) 814-3216",
+ "description": "Video hiring site",
+ "created_at": "Wed Mar 06 17:45:14 UTC 2013",
+ "updated_at": "Thu Mar 07 09:48:52 UTC 2013",
+ "overview": "\u003Cp\u003EDemoHire is a video based hiring platform where jobseekers define their own personal brand.\u003C/p\u003E\n\n\u003Cp\u003EDemoHire is a remarkable new video hiring site that aims to take the agony out of the process of \u0026#8216;getting a job\u0026#8217;. We use dating-like matching algorithms plus assign a personal job scout to ensure chances of getting people hired are greatly increased. Employers are loving the video profiles and applicants are having fun doing their videos so we designed our platform in a way that gets them matched quickly and easily. \u003C/p\u003E\n\n\u003Cp\u003EApplicants simply fill out his/her profile, upload a video resume and set their preferences. DemoHire matches them. Employers contact them.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Tamara",
+      "last_name": "Brenes",
+      "permalink": "tamara-brenes",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GetHired.com",
+      "permalink": "gethired-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0017/2142/172142v5-max-150x150.jpg"],
+          [[250,
+            44],
+           "assets/images/resized/0017/2142/172142v5-max-250x250.jpg"],
+          [[450,
+            79],
+           "assets/images/resized/0017/2142/172142v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LinkedIn",
+      "permalink": "linkedin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-150x150.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-250x250.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Miami Dev Office",
+    "address1": "5712 NE 4th Ave",
+    "address2": "",
+    "zip_code": "33137-2528",
+    "city": "Miami",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Announced hire of new Career Coach",
+    "stoned_year": 2013,
+    "stoned_month": 3,
+    "stoned_day": 6,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "DemoHire",
+      "permalink": "demohire"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

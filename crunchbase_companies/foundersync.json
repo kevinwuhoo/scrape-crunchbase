@@ -1,0 +1,132 @@
+{"name": "FounderSync",
+ "permalink": "foundersync",
+ "crunchbase_url": "http://www.crunchbase.com/company/foundersync",
+ "homepage_url": "http://www.foundersync.com",
+ "blog_url": "http://blog.foundersync.com",
+ "blog_feed_url": "http://blog.foundersync.com/feed/",
+ "twitter_username": "foundersync",
+ "category_code": "other",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "entrepreneur",
+ "alias_list": null,
+ "email_address": "contact@foundersync.com",
+ "phone_number": "216-200-SYNC",
+ "description": "Entrepreneurial Match Making",
+ "created_at": "Wed Nov 16 00:40:07 UTC 2011",
+ "updated_at": "Tue Dec 13 20:29:25 UTC 2011",
+ "overview": "\u003Cp\u003EFounderSync is an online matching service that seeks to pair up co-founders of companies based on skills, needs, ideas, and the missing pieces needed to get an idea off the ground. We strive to put people together and give them the tools and resources to succeed.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0016/4840/164840v2-max-150x150.png"],
+     [[250,
+       91],
+      "assets/images/resized/0016/4840/164840v2-max-250x250.png"],
+     [[357,
+       131],
+      "assets/images/resized/0016/4840/164840v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Gambrill",
+      "permalink": "ryan-gambrill",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/3989/253989v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/3989/253989v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/3989/253989v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LinkedIn",
+      "permalink": "linkedin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-150x150.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-250x250.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Marketing \u0026 Design",
+    "is_past": false,
+    "provider":
+     {"name": "Babl Media",
+      "permalink": "babl-media",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://launchhouse.com/news/launchhouse-invests-in-foundersync/",
+    "source_description": "LaunchHouse Invests in FounderSync",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 20,
+    "investments":
+     [{"company":
+        {"name": "Launch House",
+         "permalink": "launch-house",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HeadQuarters",
+    "address1": "3558 Lee Road",
+    "address2": "",
+    "zip_code": "44127",
+    "city": "Shaker Heights",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/32007085?title=0\u0026amp;byline=0\u0026amp;portrait=0\" width=\"400\" height=\"225\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EWhat is FounderSync?\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        122],
+       "assets/images/resized/0016/2554/162554v2-max-150x150.jpg"],
+      [[250,
+        204],
+       "assets/images/resized/0016/2554/162554v2-max-250x250.jpg"],
+      [[450,
+        367],
+       "assets/images/resized/0016/2554/162554v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

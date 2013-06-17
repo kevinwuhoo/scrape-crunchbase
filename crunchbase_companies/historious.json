@@ -1,0 +1,99 @@
+{"name": "historious",
+ "permalink": "historious",
+ "crunchbase_url": "http://www.crunchbase.com/company/historious",
+ "homepage_url": "http://historio.us/",
+ "blog_url": "http://blog.historio.us/",
+ "blog_feed_url": "http://feeds.feedburner.com/historiousblog",
+ "twitter_username": "historrific",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-bookmarking, references, search-engine",
+ "alias_list": null,
+ "email_address": "info@historio.us",
+ "phone_number": "",
+ "description": "bookmark search engine",
+ "created_at": "Wed Aug 18 00:15:37 UTC 2010",
+ "updated_at": "Wed Aug 18 00:54:04 UTC 2010",
+ "overview": "\u003Cp\u003Ehistorious is a social bookmarking search engine for favorite sites.\u003C/p\u003E\n\n\u003Cp\u003EThe user adds a site using the bookmarklet the browser extensions or manually, and can then search for it later by going back to the site and entering a few keywords.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Diigo",
+      "permalink": "diigo",
+      "image":
+       {"available_sizes":
+         [[[136,
+            65],
+           "assets/images/resized/0001/6019/16019v1-max-150x150.png"],
+          [[136,
+            65],
+           "assets/images/resized/0001/6019/16019v1-max-250x250.png"],
+          [[136,
+            65],
+           "assets/images/resized/0001/6019/16019v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pinboard",
+      "permalink": "pinboard",
+      "image":
+       {"available_sizes":
+         [[[144,
+            47],
+           "assets/images/resized/0005/2014/52014v1-max-150x150.jpg"],
+          [[144,
+            47],
+           "assets/images/resized/0005/2014/52014v1-max-250x250.jpg"],
+          [[144,
+            47],
+           "assets/images/resized/0005/2014/52014v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://thenextweb.com/apps/2010/07/15/historious-the-bookmarking-tool-ive-been-waiting-for-has-finally-been-built-what-took-so-long/",
+    "title": "TheNextWeb review"},
+   {"external_url": "http://lifehacker.com/5608065/historious-creates-a-content+searchable-index-for-your-bookmarks",
+    "title": "Lifehacker review"}]}

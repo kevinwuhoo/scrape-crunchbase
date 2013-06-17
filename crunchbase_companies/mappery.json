@@ -1,0 +1,101 @@
+{"name": "mappery",
+ "permalink": "mappery",
+ "crunchbase_url": "http://www.crunchbase.com/company/mappery",
+ "homepage_url": "http://mappery.com",
+ "blog_url": "http://mappery.wordpress.com/",
+ "blog_feed_url": "http://mappery.wordpress.com/feed/",
+ "twitter_username": "mappery",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "maps, mapping, geoweb",
+ "alias_list": null,
+ "email_address": "info@mappery.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Apr 30 16:23:40 UTC 2008",
+ "updated_at": "Wed Feb 23 04:13:25 UTC 2011",
+ "overview": "\u003Cp\u003Emappery is a diverse collection of thousands of real life maps contributed by map lovers worldwide. For the first time it allows people to easily find relevant and interesting maps of yet unknown places by visually browsing a larger context. mappery makes it easy to find and explore maps by keyword, location, or simply by browsing a map.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       67],
+      "assets/images/resized/0001/7865/17865v1-max-150x150.jpg"],
+     [[250,
+       112],
+      "assets/images/resized/0001/7865/17865v1-max-250x250.jpg"],
+     [[250,
+       112],
+      "assets/images/resized/0001/7865/17865v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Kendall",
+      "permalink": "scott-kendall",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0005/3248/53248v2-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0005/3248/53248v2-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0005/3248/53248v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "94117",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7717185,
+    "longitude": -122.4438929}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        137],
+       "assets/images/resized/0002/9615/29615v2-max-150x150.png"],
+      [[250,
+        229],
+       "assets/images/resized/0002/9615/29615v2-max-250x250.png"],
+      [[450,
+        413],
+       "assets/images/resized/0002/9615/29615v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://googlemapsmania.blogspot.com/2007/10/google-maps-mania-links-for-2007-10-22.html",
+    "title": "Google Maps Mania"},
+   {"external_url": "http://www.gisuser.com/content/view/13963/",
+    "title": "GIS User"}]}

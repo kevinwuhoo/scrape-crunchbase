@@ -1,0 +1,75 @@
+{"name": "Signals Ready",
+ "permalink": "signals-ready",
+ "crunchbase_url": "http://www.crunchbase.com/company/signals-ready",
+ "homepage_url": "http://signalsready.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "java, ruby, rails, web-apps, twitter",
+ "alias_list": null,
+ "email_address": "crunchbase@signalsready.com",
+ "phone_number": "512.961.6122",
+ "description": "Software development and consulting",
+ "created_at": "Mon Mar 23 07:59:35 UTC 2009",
+ "updated_at": "Sat Mar 28 13:48:35 UTC 2009",
+ "overview": "\u003Cp\u003ESignals Ready creates web applications and provides custom software development and consulting services.\u003C/p\u003E\n\n\u003Cp\u003ESignals Ready was founded in 2008 by Brian Deterling, co-founder of Blue Sky Technologies.  It currently provides two software applications: TweepDiff - a Twitter friend/follower comparison tool; and SlideJam - a tool to manage PowerPoint presentations and create new presentations by including slides from multiple existing ones.\u003C/p\u003E\n\n\u003Cp\u003EIn addition to its own products, Signals Ready provides consulting services to clients such as Blue Sky Technologies, Dwellgo, Design Fifty-One, and the Austin Projects Group.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "TweepDiff",
+    "permalink": "tweepdiff",
+    "image": null},
+   {"name": "SlideJam",
+    "permalink": "slidejam",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Deterling",
+      "permalink": "brian-deterling",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0003/8929/38929v2-max-150x150.png"],
+          [[183,
+            183],
+           "assets/images/resized/0003/8929/38929v2-max-250x250.png"],
+          [[183,
+            183],
+           "assets/images/resized/0003/8929/38929v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://tweepdiff.com",
+    "title": "TweepDiff"}]}

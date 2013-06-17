@@ -1,0 +1,108 @@
+{"name": "LionDrive",
+ "permalink": "liondrive",
+ "crunchbase_url": "http://www.crunchbase.com/company/liondrive",
+ "homepage_url": "http://www.liondrive.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "file-hosting, file-sharing, online-drive, share-files, free-online-storage",
+ "alias_list": null,
+ "email_address": "info@liondrive.com",
+ "phone_number": "+44 789 4076 949",
+ "description": "File hosting provider",
+ "created_at": "Sat Mar 07 19:57:51 UTC 2009",
+ "updated_at": "Sat Mar 21 15:04:02 UTC 2009",
+ "overview": "\u003Cp\u003ELiondrive is a free file hosting provider that generates presentation for all file types in a browser.\u003C/p\u003E\n\n\u003Cp\u003ELiondrive offers 5GB of online space with FTP, WebDav or Web upload options. A web presentation is generated from all common file types including video, audio, documents, pictures, archives and source code. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0003/7533/37533v2-max-150x150.png"],
+     [[208,
+       60],
+      "assets/images/resized/0003/7533/37533v2-max-250x250.png"],
+     [[208,
+       60],
+      "assets/images/resized/0003/7533/37533v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "file hosting",
+    "permalink": "file-hosting",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Jiri",
+      "last_name": "Celak",
+      "permalink": "jiri-celak",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ADrive",
+      "permalink": "adrive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0003/6105/36105v2-max-150x150.jpg"],
+          [[200,
+            68],
+           "assets/images/resized/0003/6105/36105v2-max-250x250.jpg"],
+          [[200,
+            68],
+           "assets/images/resized/0003/6105/36105v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "4shared",
+      "permalink": "4shared",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0004/5189/45189v3-max-150x150.jpg"],
+          [[250,
+            54],
+           "assets/images/resized/0004/5189/45189v3-max-250x250.jpg"],
+          [[400,
+            88],
+           "assets/images/resized/0004/5189/45189v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London",
+    "address1": "12 Padcroft road",
+    "address2": "",
+    "zip_code": "UB77RB",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

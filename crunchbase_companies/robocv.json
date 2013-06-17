@@ -1,0 +1,63 @@
+{"name": "RoboCV",
+ "permalink": "robocv",
+ "crunchbase_url": "http://www.crunchbase.com/company/robocv",
+ "homepage_url": "http://www.robocv.ru",
+ "blog_url": "http://community.sk.ru/net/1120075/b/about_en/",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "skolkovo, robot, autopilot, robocv, it",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Autopilot for transport robots",
+ "created_at": "Wed Nov 07 10:42:17 UTC 2012",
+ "updated_at": "Wed Nov 07 19:09:38 UTC 2012",
+ "overview": "\u003Cp\u003ECompany develop a universal navigation system - \u0026#8220;the autopilot for a transport robots\u0026#8221; capable of functioning as a part of land or water transport robots, UAVs, and as part of the planetary autonomous robot. The system is based on machine vision technology, IMU and GLONASS/GPS. \u003C/p\u003E\n\n\u003Cp\u003E\u0026#8220;Autopilot\u0026#8221; will allow the mobile robot always know their location and surroundings, as well as to calculate route to a given point in view of static and dynamic obstacles. The project uses achievements of its founders in the field of computer vision and pattern recognition, build telemetry and autonomous computing systems.\u003C/p\u003E\n\n\u003Cp\u003EThere is developed a model of the product based on the automobile model. The system is able to calculate the route by itself and ensures autonomic movement of the automobile taking into account static and dynamic obstacles on its way.\nThe complex is able to automatically build a 2D map of the location; there are developments for automatic building a 3D\nmap of the location. \u003C/p\u003E\n\n\u003Cp\u003EAn operator from a remote computer can enter in the field map the end point of the route for the automobile model. This point is translated to the autopilot system by radio channel, and the automobile starts moving.\u003C/p\u003E\n\n\u003Cp\u003EAlong with the technological realization of the project, the company development strategy has been worked out,\na business plan has been created, market analysis of the market niches has been conducted and first priority directions\nfor working with the potential clients have been chosen.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       119],
+      "assets/images/resized/0021/9192/219192v2-max-150x150.png"],
+     [[188,
+       150],
+      "assets/images/resized/0021/9192/219192v2-max-250x250.png"],
+     [[188,
+       150],
+      "assets/images/resized/0021/9192/219192v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

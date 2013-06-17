@@ -1,0 +1,101 @@
+{"name": "Fresh.li",
+ "permalink": "fresh-li",
+ "crunchbase_url": "http://www.crunchbase.com/company/fresh-li",
+ "homepage_url": "http://fresh.li",
+ "blog_url": "http://blog.fresh.li",
+ "blog_feed_url": "http://blog.fresh.li/rss",
+ "twitter_username": "freshli",
+ "category_code": "public_relations",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "art, design, portfolio, hosted, presentation, creative",
+ "alias_list": null,
+ "email_address": "info@fresh.li",
+ "phone_number": "+31645004824",
+ "description": "Online portfolio service",
+ "created_at": "Mon Oct 06 08:23:45 UTC 2008",
+ "updated_at": "Thu May 24 01:16:32 UTC 2012",
+ "overview": "\u003Cp\u003EFresh.li offers a hosted portfolio service to creatives. Clients can register for a paid plan giving them options such as different templates or use of their own domain name.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0002/6214/26214v2-max-150x150.png"],
+     [[250,
+       97],
+      "assets/images/resized/0002/6214/26214v2-max-250x250.png"],
+     [[403,
+       157],
+      "assets/images/resized/0002/6214/26214v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Fresh.li",
+    "permalink": "fresh-li",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Tijs",
+      "last_name": "Teulings",
+      "permalink": "tijs-teulings",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0002/6478/26478v4-max-150x150.jpg"],
+          [[248,
+            250],
+           "assets/images/resized/0002/6478/26478v4-max-250x250.jpg"],
+          [[447,
+            450],
+           "assets/images/resized/0002/6478/26478v4-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Ehttp://tijs.org\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "Binckhorstlaan 36",
+    "address2": "Magazijn Suite 319",
+    "zip_code": "2516 BE",
+    "city": "Den Haag",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.073763,
+    "longitude": 4.332934}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        114],
+       "assets/images/resized/0002/6213/26213v2-max-150x150.png"],
+      [[250,
+        191],
+       "assets/images/resized/0002/6213/26213v2-max-250x250.png"],
+      [[450,
+        344],
+       "assets/images/resized/0002/6213/26213v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://thenextweb.org/2008/08/25/portfolio-service-freshli-addressing-the-untapped-potential-of-non-geeks/",
+    "title": "Portfolio service Fresh.li addressing the untapped potential of non-geeks"}]}

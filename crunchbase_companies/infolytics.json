@@ -1,0 +1,149 @@
+{"name": "ClearGist",
+ "permalink": "infolytics",
+ "crunchbase_url": "http://www.crunchbase.com/company/infolytics",
+ "homepage_url": "http://www.cleargist.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@cleargist.com",
+ "phone_number": "",
+ "description": "Commoditizing personalization technology",
+ "created_at": "Mon Nov 07 10:25:40 UTC 2011",
+ "updated_at": "Sun Mar 25 06:43:43 UTC 2012",
+ "overview": "\u003Cp\u003EClearGist offers personalization and recommendation widgets that are embeddable in any ecommerce site\u003C/p\u003E\n\n\u003Cp\u003EClearGist recommendations are data-driven, require minimal setup and are proven to increase your sales by 10% or more\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0016/1167/161167v6-max-150x150.png"],
+     [[211,
+       35],
+      "assets/images/resized/0016/1167/161167v6-max-250x250.png"],
+     [[211,
+       35],
+      "assets/images/resized/0016/1167/161167v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "George",
+      "last_name": "Papadogiannis",
+      "permalink": "george-papadogiannis",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Konstantinos",
+      "last_name": "Boulis",
+      "permalink": "konstantinos-boulis",
+      "image":
+       {"available_sizes":
+         [[[130,
+            150],
+           "assets/images/resized/0017/4742/174742v2-max-150x150.jpg"],
+          [[216,
+            250],
+           "assets/images/resized/0017/4742/174742v2-max-250x250.jpg"],
+          [[390,
+            450],
+           "assets/images/resized/0017/4742/174742v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Strands Labs",
+      "permalink": "strands",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0000/4489/4489v2-max-150x150.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-250x250.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RichRelevance",
+      "permalink": "richrelevance",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0001/7060/17060v7-max-150x150.png"],
+          [[250,
+            48],
+           "assets/images/resized/0001/7060/17060v7-max-250x250.png"],
+          [[450,
+            86],
+           "assets/images/resized/0001/7060/17060v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac15k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://bit.ly/vlLSSw",
+    "source_description": "",
+    "raised_amount": 15000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 6,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "TANEO fund",
+         "permalink": "taneo-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               47],
+              "assets/images/resized/0026/1305/261305v1-max-150x150.png"],
+             [[169,
+               54],
+              "assets/images/resized/0026/1305/261305v1-max-250x250.png"],
+             [[169,
+               54],
+              "assets/images/resized/0026/1305/261305v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Athens office",
+    "address1": "Koronis stin Periochi Palatianis",
+    "address2": "Ilion ",
+    "zip_code": "13121",
+    "city": "Athens",
+    "state_code": null,
+    "country_code": "GRC",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,76 @@
+{"name": "WonderNetwork",
+ "permalink": "wondernetwork",
+ "crunchbase_url": "http://www.crunchbase.com/company/wondernetwork",
+ "homepage_url": "http://wondernetwork.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "WonderNetwork",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "geoip, proxy, load-testing, dns",
+ "alias_list": null,
+ "email_address": "support@wondernetwork.com",
+ "phone_number": "",
+ "description": "Global Networking Solution Provider",
+ "created_at": "Sat Oct 27 17:30:24 UTC 2012",
+ "updated_at": "Mon Nov 12 08:46:55 UTC 2012",
+ "overview": "\u003Cp\u003EWonderNetwork operates a global network of servers and leverages them to provide network testing solutions. They continuously seek innovative ways of utilizing their network to provide their customers with new and exciting products.\u003C/p\u003E\n\n\u003Cp\u003EWonderNetwork owns an ever-growing network of servers in more than 70 cities, in 46 countries, on 6 continents.  Their first product, WonderProxy, was originally conceived for developers who needed to test their GeoIP-sensitive applications\u2014checking that the correct credit card processor was used in different countries, that prices appeared in local currency, or that location-based ads appeared in the correct locations.  Since its founding in 2009, WonderProxy has grown into WonderNetwork, and they have found ways to harness their network of servers for a variety of other uses: Global Ping Statistics provides useful metrics to check latency between geographically distributed servers, Where\u0026#8217;s It Up? provides global site status details including diagnostic information (ping, traceroute, DNS), and Natural Load Testing enables developers to test the performance of their sites before they go live / viral.\u003C/p\u003E\n\n\u003Cp\u003EWonderNetwork strives to provide solutions to the myriad issues associated with global web development.  They\u0026#8217;re proud to help their clients meet their needs, and build their own wonderful products, while maintaining a cheery disposition and sense of Wonder.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0021/9958/219958v2-max-150x150.jpg"],
+     [[250,
+       62],
+      "assets/images/resized/0021/9958/219958v2-max-250x250.jpg"],
+     [[400,
+       100],
+      "assets/images/resized/0021/9958/219958v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "205 Notre-Dame Street West, Suite 350",
+    "address2": "",
+    "zip_code": "H2Y 1T3",
+    "city": "Montreal, Quebec",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://wheresitup.com/",
+    "title": "Where's it Up?"},
+   {"external_url": "http://wondernetwork.com",
+    "title": "WonderNetwork"},
+   {"external_url": "http://api.wheresitup.com/",
+    "title": "Where's it Up API"}]}

@@ -1,0 +1,124 @@
+{"name": "Inboard",
+ "permalink": "inboard",
+ "crunchbase_url": "http://www.crunchbase.com/company/inboard",
+ "homepage_url": "http://inboardapp.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "inboardapp",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mac, apple, screenshots",
+ "alias_list": null,
+ "email_address": "support@inboardapp.com",
+ "phone_number": "",
+ "description": "Mac app for organizing screenshots",
+ "created_at": "Tue Jun 04 12:40:18 UTC 2013",
+ "updated_at": "Thu Jun 06 10:01:11 UTC 2013",
+ "overview": "\u003Cp\u003EInboard is a Mac app that organizes your screenshots and photos. Inboard app is targeted towards designers and web developers. In Inboard you can tag images, organize them in folders and take full-page screenshots of websites.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0027/1103/271103v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0027/1103/271103v2-max-250x250.png"],
+     [[256,
+       256],
+      "assets/images/resized/0027/1103/271103v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Davis",
+      "last_name": "Siksnans",
+      "permalink": "davis-siksnans-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Gustavs",
+      "last_name": "Cirulis",
+      "permalink": "gustavs-cirulis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pixa",
+      "permalink": "pixa",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0005/9756/59756v2-max-150x150.jpg"],
+          [[250,
+            129],
+           "assets/images/resized/0005/9756/59756v2-max-250x250.jpg"],
+          [[450,
+            232],
+           "assets/images/resized/0005/9756/59756v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Realmac Software",
+      "permalink": "realmac-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0015/8849/158849v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0015/8849/158849v2-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0015/8849/158849v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Draugiem Group",
+    "address1": "Ziedleju 1",
+    "address2": "",
+    "zip_code": "LV-2167",
+    "city": "Marupe",
+    "state_code": null,
+    "country_code": "LVA",
+    "latitude": 56.9209526,
+    "longitude": 24.0213053}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/62415815\" width=\"450\" height=\"253\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E \u003Cp\u003E\u003Ca href=\"http://vimeo.com/62415815\"\u003EInboard - Organize Your Inspiration\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/inboard\"\u003EInboard\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EInboard Tour\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        108],
+       "assets/images/resized/0027/1102/271102v2-max-150x150.png"],
+      [[250,
+        180],
+       "assets/images/resized/0027/1102/271102v2-max-250x250.png"],
+      [[450,
+        325],
+       "assets/images/resized/0027/1102/271102v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

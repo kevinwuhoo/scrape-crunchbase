@@ -1,0 +1,113 @@
+{"name": "Global Name Registry",
+ "permalink": "globalnameregistry",
+ "crunchbase_url": "http://www.crunchbase.com/company/globalnameregistry",
+ "homepage_url": "http://gnr.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 0,
+ "founded_year": 2000,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Sep 13 14:24:37 UTC 2007",
+ "updated_at": "Thu Mar 10 06:45:36 UTC 2011",
+ "overview": "\u003Cp\u003EGlobal Name Registry (GNR) is the license operator of .name, a global top-level domain (gTLD) for individuals, approved by the Internet Corporation for Assigned Names and Numbers (ICANN) in November 2000 and launched in 2002.\u003C/p\u003E\n\n\u003Cp\u003EThe company offers two types of registration products: second level domains of the type morgan.name (structured like .com domains, except much more names are available on .name), and third level domains, which include personalized email address name.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       51],
+      "assets/images/resized/0000/0802/802v1-max-150x150.png"],
+     [[250,
+       85],
+      "assets/images/resized/0000/0802/802v1-max-250x250.png"],
+     [[300,
+       103],
+      "assets/images/resized/0000/0802/802v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "dotname",
+    "permalink": "dotname",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "president",
+    "person":
+     {"first_name": "hakon",
+      "last_name": "haugnes",
+      "permalink": "hakon-haugnes",
+      "image":
+       {"available_sizes":
+         [[[143,
+            150],
+           "assets/images/resized/0000/9748/9748v1-max-150x150.jpg"],
+          [[239,
+            250],
+           "assets/images/resized/0000/9748/9748v1-max-250x250.jpg"],
+          [[326,
+            341],
+           "assets/images/resized/0000/9748/9748v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://www.techcrunch.com/2008/10/03/domain-name-consolidation-verisign-acquires-name-guys/",
+   "source_description": "Domain Name Consolidation: Verisign Acquires .Name Guys",
+   "acquired_year": 2008,
+   "acquired_month": 10,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "VeriSign Authentication Services",
+     "permalink": "verisign",
+     "image":
+      {"available_sizes":
+        [[[150,
+           17],
+          "assets/images/resized/0002/3928/23928v2-max-150x150.png"],
+         [[250,
+           28],
+          "assets/images/resized/0002/3928/23928v2-max-250x250.png"],
+         [[344,
+           39],
+          "assets/images/resized/0002/3928/23928v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": null,
+    "zip_code": "e14",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

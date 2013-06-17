@@ -1,0 +1,95 @@
+{"name": "Paydirt",
+ "permalink": "paydirt",
+ "crunchbase_url": "http://www.crunchbase.com/company/paydirt",
+ "homepage_url": "http://paydirtapp.com",
+ "blog_url": "http://paydirtapp.com/blog",
+ "blog_feed_url": "http://paydirtapp.com/blog/feed.xml",
+ "twitter_username": "paydirtapp",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "time-tracking, invoicing, freelancing",
+ "alias_list": null,
+ "email_address": "talk@paydirtapp.com",
+ "phone_number": "",
+ "description": "Online time tracking and invoicing",
+ "created_at": "Wed Sep 07 02:12:18 UTC 2011",
+ "updated_at": "Sat Mar 03 08:14:35 UTC 2012",
+ "overview": "\u003Cp\u003EPaydirt produces online time tracking and invoicing software for freelancers and small businesses.\u003C/p\u003E\n\n\u003Cp\u003EPaydirt is focused on providing automated time tracking for browser-based freelancers. Chrome and Firefox addons are available for Paydirt which intelligently determine whether you are working for a client and provide a prompt to start tracking time for them.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       128],
+      "assets/images/resized/0015/3002/153002v2-max-150x150.png"],
+     [[128,
+       128],
+      "assets/images/resized/0015/3002/153002v2-max-250x250.png"],
+     [[128,
+       128],
+      "assets/images/resized/0015/3002/153002v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Tristan",
+      "last_name": "Gamilis",
+      "permalink": "tristan-gamilis",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/4973/264973v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4973/264973v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4973/264973v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Nicholas",
+      "last_name": "Firth-McCoy",
+      "permalink": "nicholas-firth-mccoy",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Paydirt HQ",
+    "address1": "203 Langridge Street",
+    "address2": "",
+    "zip_code": "3055",
+    "city": "Abbotsford",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

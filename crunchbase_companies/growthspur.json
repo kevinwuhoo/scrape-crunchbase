@@ -1,0 +1,159 @@
+{"name": "GrowthSpur",
+ "permalink": "growthspur",
+ "crunchbase_url": "http://www.crunchbase.com/company/growthspur",
+ "homepage_url": "http://www.growthspur.com",
+ "blog_url": "http://growthspur.wordpress.com",
+ "blog_feed_url": "http://growthspur.wordpress.com/feed",
+ "twitter_username": "growthspur",
+ "category_code": "advertising",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "local, hyperlocal, ad-networks, advertising, ad-serving",
+ "alias_list": null,
+ "email_address": "info@growthspur.com",
+ "phone_number": "703-338-5126",
+ "description": "Local ad sales networks",
+ "created_at": "Fri Jul 31 15:07:41 UTC 2009",
+ "updated_at": "Fri Jul 31 16:39:27 UTC 2009",
+ "overview": "\u003Cp\u003EGrowthSpur offers tools, training, networks and other resources to hyperlocal and local media Web sites. \u003C/p\u003E\n\n\u003Cp\u003EGrowthSpur partner sites have access to:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EExpert advertising-sales training and best practices\u003C/li\u003E\n\u003Cli\u003EThe GrowthSpur Operations Manual, a handbook for developing successful local sites\u003C/li\u003E\n\u003Cli\u003EProspector, GrowthSpur\u00e2\u20ac\u2122s exclusive advertiser-management platform\u003C/li\u003E\n\u003Cli\u003EGrowthSpur-recommended third-party tools and services, from ad builders to ad servers to SEO expertise to libel insurance and more\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EGrowthSpur organizes and operates local advertising networks, providing:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EAdditional ad sales opportunities for partner sites\u003C/li\u003E\n\u003Cli\u003EAdditional ad revenue from network sales\u003C/li\u003E\n\u003Cli\u003E\u00e2\u20ac\u0153Citizen ad sales\u00e2\u20ac\u009d by independent entrepreneurs\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0005/4881/54881v2-max-150x150.jpg"],
+     [[250,
+       77],
+      "assets/images/resized/0005/4881/54881v2-max-250x250.jpg"],
+     [[360,
+       112],
+      "assets/images/resized/0005/4881/54881v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Potts",
+      "permalink": "mark-potts",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, Biz Dev",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Davidson",
+      "permalink": "tom-davidson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, Development",
+    "person":
+     {"first_name": "Jennifer",
+      "last_name": "McFadden",
+      "permalink": "jennifer-mcfadden",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, Training",
+    "person":
+     {"first_name": "Mel",
+      "last_name": "Taylor",
+      "permalink": "mel-taylor",
+      "image": null}},
+   {"is_past": true,
+    "title": "Senior Advisor",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Jarvis",
+      "permalink": "jeff-jarvis",
+      "image":
+       {"available_sizes":
+         [[[102,
+            150],
+           "assets/images/resized/0003/5125/35125v1-max-150x150.jpg"],
+          [[170,
+            250],
+           "assets/images/resized/0003/5125/35125v1-max-250x250.jpg"],
+          [[240,
+            351],
+           "assets/images/resized/0003/5125/35125v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Ewww.dld-conference.com\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ReachLocal",
+      "permalink": "reachlocal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0002/0667/20667v6-max-150x150.png"],
+          [[198,
+            83],
+           "assets/images/resized/0002/0667/20667v6-max-250x250.png"],
+          [[198,
+            83],
+           "assets/images/resized/0002/0667/20667v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MerchantCircle",
+      "permalink": "merchantcircle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0017/3364/173364v1-max-150x150.jpg"],
+          [[250,
+            60],
+           "assets/images/resized/0017/3364/173364v1-max-250x250.jpg"],
+          [[310,
+            75],
+           "assets/images/resized/0017/3364/173364v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Village Voice Media",
+      "permalink": "village-voice-media",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/4829/44829v1-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0004/4829/44829v1-max-250x250.png"],
+          [[307,
+            90],
+           "assets/images/resized/0004/4829/44829v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.businessweek.com/magazine/content/09_32/b4142065732002.htm?chan=magazine+channel_business+views",
+    "title": ""},
+   {"external_url": "http://recoveringjournalist.typepad.com/recovering_journalist/2009/07/introducing-growthspur.html",
+    "title": ""},
+   {"external_url": "http://gesterling.wordpress.com/2009/07/31/growthspur-ads-tools-training-for-local/",
+    "title": ""},
+   {"external_url": "http://www.buzzmachine.com/2009/07/30/supporting-the-new-news-ecosystem/",
+    "title": ""}]}

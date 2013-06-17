@@ -1,0 +1,130 @@
+{"name": "Try{catch}",
+ "permalink": "try-catch",
+ "crunchbase_url": "http://www.crunchbase.com/company/try-catch",
+ "homepage_url": "http://trycat.ch/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "qa",
+ "alias_list": null,
+ "email_address": "contact@trycat.ch",
+ "phone_number": "",
+ "description": "Collaborative error repository",
+ "created_at": "Mon Feb 07 16:51:33 UTC 2011",
+ "updated_at": "Wed Feb 09 22:41:30 UTC 2011",
+ "overview": "\u003Cp\u003Etry{catch} is a community maintained repository for error messages and their solutions.\u003C/p\u003E\n\n\u003Cp\u003EIt\u0026#8217;s a place for technical people to post error messages they encounter, and to submit solutions to error messages they know how to solve.\u003C/p\u003E\n\n\u003Cp\u003Etry{catch}\u0026#8217;s goal is to simplify the way technical people find solutions to their problems.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       64],
+      "assets/images/resized/0012/0825/120825v2-max-150x150.png"],
+     [[153,
+       66],
+      "assets/images/resized/0012/0825/120825v2-max-250x250.png"],
+     [[153,
+       66],
+      "assets/images/resized/0012/0825/120825v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Oz",
+      "last_name": "K",
+      "permalink": "oz-k",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Stack Exchange",
+      "permalink": "stack-exchange",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0012/5685/125685v3-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0012/5685/125685v3-max-250x250.png"],
+          [[450,
+            134],
+           "assets/images/resized/0012/5685/125685v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Quora",
+      "permalink": "quora",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0007/2415/72415v4-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0007/2415/72415v4-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0007/2415/72415v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        111],
+       "assets/images/resized/0012/0822/120822v2-max-150x150.png"],
+      [[250,
+        186],
+       "assets/images/resized/0012/0822/120822v2-max-250x250.png"],
+      [[450,
+        334],
+       "assets/images/resized/0012/0822/120822v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        115],
+       "assets/images/resized/0012/0823/120823v2-max-150x150.png"],
+      [[250,
+        192],
+       "assets/images/resized/0012/0823/120823v2-max-250x250.png"],
+      [[450,
+        346],
+       "assets/images/resized/0012/0823/120823v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        124],
+       "assets/images/resized/0012/0824/120824v2-max-150x150.png"],
+      [[250,
+        208],
+       "assets/images/resized/0012/0824/120824v2-max-250x250.png"],
+      [[450,
+        374],
+       "assets/images/resized/0012/0824/120824v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

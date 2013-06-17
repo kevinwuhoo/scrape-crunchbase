@@ -1,0 +1,94 @@
+{"name": "WiNi network",
+ "permalink": "wini-network",
+ "crunchbase_url": "http://www.crunchbase.com/company/wini-network",
+ "homepage_url": "http://wini.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "paas, travel-business, personalize-travel-packs",
+ "alias_list": null,
+ "email_address": "roman@wini.net",
+ "phone_number": "",
+ "description": "PLATFORM",
+ "created_at": "Mon Dec 17 11:37:46 UTC 2012",
+ "updated_at": "Wed Mar 13 16:54:46 UTC 2013",
+ "overview": "\u003Cp\u003EPaaS (Platform as a Service). \nProvide possibility to make the own business online. We start with travel business: guides, city transfer, rural hotels etc. etc. Everybody can create and sale the own travel pack.\nThe new era for the tourism business!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[105,
+       78],
+      "assets/images/resized/0022/5749/225749v2-max-150x150.jpg"],
+     [[105,
+       78],
+      "assets/images/resized/0022/5749/225749v2-max-250x250.jpg"],
+     [[105,
+       78],
+      "assets/images/resized/0022/5749/225749v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Roman",
+      "last_name": "Maximov",
+      "permalink": "roman-maximov",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Maxim",
+      "last_name": "Poltarak",
+      "permalink": "maxim-poltarak",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac250k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 10,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Spain Office",
+    "address1": "Av. Pais Valenciano, 119-3B",
+    "address2": "",
+    "zip_code": "03140",
+    "city": "Guardamar (Alicante)",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://winitravel.com",
+    "title": "travel business part of Platform"}]}

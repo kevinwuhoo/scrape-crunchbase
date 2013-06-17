@@ -1,0 +1,194 @@
+{"name": "Directed Edge",
+ "permalink": "directed-edge",
+ "crunchbase_url": "http://www.crunchbase.com/company/directed-edge",
+ "homepage_url": "http://www.directededge.com/",
+ "blog_url": "http://blog.directededge.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/directededge",
+ "twitter_username": "directededge",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recommendations, graphs, web-services",
+ "alias_list": "",
+ "email_address": "info@directededge.com",
+ "phone_number": "",
+ "description": "Recommendations engine",
+ "created_at": "Thu Aug 14 04:52:05 UTC 2008",
+ "updated_at": "Mon Nov 15 19:11:07 UTC 2010",
+ "overview": "\u003Cp\u003EDirected Edge delivers Amazon-like \u0026#8220;People who bought this also bought\u0026#8230;\u0026#8221; and \u0026#8220;We think you\u0026#8217;d also like\u0026#8221;-style recommendations to other sites, using existing data being collected such as purchase or click histories.  Recommendations are served in real-time via a REST API, with language bindings in several programming languages to make integration easy.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0002/3698/23698v4-max-150x150.png"],
+     [[250,
+       52],
+      "assets/images/resized/0002/3698/23698v4-max-250x250.png"],
+     [[307,
+       65],
+      "assets/images/resized/0002/3698/23698v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Wheeler",
+      "permalink": "scott-wheeler",
+      "image":
+       {"available_sizes":
+         [[[113,
+            150],
+           "assets/images/resized/0003/0208/30208v2-max-150x150.jpg"],
+          [[140,
+            185],
+           "assets/images/resized/0003/0208/30208v2-max-250x250.jpg"],
+          [[140,
+            185],
+           "assets/images/resized/0003/0208/30208v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Valentin",
+      "last_name": "Hussong",
+      "permalink": "valentin-hussong",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Strands Labs",
+      "permalink": "strands",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0000/4489/4489v2-max-150x150.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-250x250.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Aggregate Knowledge",
+      "permalink": "aggregateknowledge",
+      "image":
+       {"available_sizes":
+         [[[150,
+            96],
+           "assets/images/resized/0000/1003/1003v7-max-150x150.png"],
+          [[250,
+            160],
+           "assets/images/resized/0000/1003/1003v7-max-250x250.png"],
+          [[321,
+            206],
+           "assets/images/resized/0000/1003/1003v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loomia",
+      "permalink": "loomia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/3433/3433v1-max-150x150.jpg"],
+          [[160,
+            50],
+           "assets/images/resized/0000/3433/3433v1-max-250x250.jpg"],
+          [[160,
+            50],
+           "assets/images/resized/0000/3433/3433v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RichRelevance",
+      "permalink": "richrelevance",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0001/7060/17060v7-max-150x150.png"],
+          [[250,
+            48],
+           "assets/images/resized/0001/7060/17060v7-max-250x250.png"],
+          [[450,
+            86],
+           "assets/images/resized/0001/7060/17060v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ChoiceStream",
+      "permalink": "choicestream",
+      "image":
+       {"available_sizes":
+         [[[150,
+            20],
+           "assets/images/resized/0001/2181/12181v3-max-150x150.jpg"],
+          [[250,
+            34],
+           "assets/images/resized/0001/2181/12181v3-max-250x250.jpg"],
+          [[250,
+            34],
+           "assets/images/resized/0001/2181/12181v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$15k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.techcrunch.com/2009/08/06/yc-funded-directed-edge-sees-a-post-search-web-where-recommendations-rule/",
+    "source_description": "YC-Funded Directed Edge Sees A Post-Search Web Where Recommendations Rule",
+    "raised_amount": 15000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Directed Edge, Inc.",
+    "address1": "Schlesische Str. 26",
+    "address2": "",
+    "zip_code": "10997",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

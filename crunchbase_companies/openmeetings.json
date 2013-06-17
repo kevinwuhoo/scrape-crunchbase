@@ -1,0 +1,111 @@
+{"name": "OpenMeetings",
+ "permalink": "openmeetings",
+ "crunchbase_url": "http://www.crunchbase.com/company/openmeetings",
+ "homepage_url": "http://www.openmeetings.de",
+ "blog_url": "http://opensourcewebconferencing.blogspot.de/",
+ "blog_feed_url": "http://opensourcewebconferencing.blogspot.com/feeds/posts/default",
+ "twitter_username": "dead_lock",
+ "category_code": "public_relations",
+ "number_of_employees": 10,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-conferencing, collaboration, video-conferencing, screensharing, elearning, education, distance-teaching, voip",
+ "alias_list": null,
+ "email_address": "service@openmeetings.de",
+ "phone_number": "++49 (0) 721 467 27327",
+ "description": "OS Web-Conferencing with OpenMeetings",
+ "created_at": "Wed May 16 07:57:16 UTC 2012",
+ "updated_at": "Thu Jun 14 19:45:32 UTC 2012",
+ "overview": "\u003Cp\u003EWe provide full support plus customized packages of Apache OpenMeetings Web-Conferencing, integrations and custom module development.\u003C/p\u003E\n\n\u003Cp\u003EApache OpenMeetings is a free Audio/Video conferencing software that allows you to instantly set up  a conference in the Web. You can use your microphone or webcam, share documents on a white board, share your screen or record meetings. You can use it in education, training, ad-hoc meeting or build your very own Video-Conferencing platform with it.\u003C/p\u003E\n\n\u003Cp\u003EWe founded Openmeetings in 2007 and still have a strong commitment to the project. Openmeetings is translated in over 30 languages and downloaded over 500.000 times.\u003C/p\u003E\n\n\u003Cp\u003EYou can integrate using Atlassian Jira or Confluence Enterprise Wiki, Asterisk VoIP server, Drupal, Joomla, Wordpress or any other Website and CMS and there are also LDAP/ADS connectors available. OpenMeetings can be installed on Virtual and Dedicated Servers as well as on Amazon Cloud or XEN Virtualized environments.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Apache OpenMeetings Commercial Services",
+    "permalink": "apache-openmeetings-commercial-services",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sebastian",
+      "last_name": "Wagner",
+      "permalink": "sebastian-wagner",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dimdim",
+      "permalink": "dimdim",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0001/6071/16071v1-max-150x150.png"],
+          [[210,
+            61],
+           "assets/images/resized/0001/6071/16071v1-max-250x250.png"],
+          [[210,
+            61],
+           "assets/images/resized/0001/6071/16071v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adobe Connect Pro",
+      "permalink": "adobe-connect-pro",
+      "image": null}},
+   {"competitor":
+     {"name": "GoToMeeting",
+      "permalink": "gotomeeting",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0024/9220/249220v1-max-150x150.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0024/9220/249220v1-max-250x250.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0024/9220/249220v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Kaiserstra\u00dfe 66",
+    "address2": "",
+    "zip_code": "76133",
+    "city": "Karlsruhe",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        100],
+       "assets/images/resized/0019/0004/190004v2-max-150x150.png"],
+      [[250,
+        167],
+       "assets/images/resized/0019/0004/190004v2-max-250x250.png"],
+      [[450,
+        302],
+       "assets/images/resized/0019/0004/190004v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

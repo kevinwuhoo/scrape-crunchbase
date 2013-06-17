@@ -1,0 +1,127 @@
+{"name": "Stylenda",
+ "permalink": "stylenda",
+ "crunchbase_url": "http://www.crunchbase.com/company/stylenda",
+ "homepage_url": "http://bottega12.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "bottega12",
+ "category_code": "ecommerce",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "madeinitaly, fashion, style, quality, moda, menswear",
+ "alias_list": "bottega12",
+ "email_address": "info@bottega12.com",
+ "phone_number": "",
+ "description": "Marketplace for tailor made garments",
+ "created_at": "Fri Jun 07 09:08:28 UTC 2013",
+ "updated_at": "Mon Jun 17 16:34:51 UTC 2013",
+ "overview": "\u003Cp\u003EStylenda is an ecommerce selling 100% Made Italy menswear and accessories produced exclusively by selected artisans.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Alessio",
+      "last_name": "Patron",
+      "permalink": "alessio-patron",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Marco",
+      "last_name": "Martini",
+      "permalink": "marco-martini-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Michele",
+      "last_name": "Prandina",
+      "permalink": "michele-prandina",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Indochino",
+      "permalink": "indochino",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0001/7841/17841v3-max-150x150.jpg"],
+          [[250,
+            69],
+           "assets/images/resized/0001/7841/17841v3-max-250x250.jpg"],
+          [[450,
+            125],
+           "assets/images/resized/0001/7841/17841v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "youtailor",
+      "permalink": "youtailor",
+      "image": null}},
+   {"competitor":
+     {"name": "tailorstore",
+      "permalink": "tailorstore",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "H-Farm Source",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company":
+        {"name": "H-FARM Ventures",
+         "permalink": "h-farm",
+         "image":
+          {"available_sizes":
+            [[[90,
+               88],
+              "assets/images/resized/0005/2229/52229v2-max-150x150.png"],
+             [[90,
+               88],
+              "assets/images/resized/0005/2229/52229v2-max-250x250.png"],
+             [[90,
+               88],
+              "assets/images/resized/0005/2229/52229v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "H-FARM Italy (HQ)",
+    "address1": "Via Sile Roncade",
+    "address2": "",
+    "zip_code": "31056",
+    "city": "Roncade (TV)",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": 45.5855528,
+    "longitude": 12.3576527}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

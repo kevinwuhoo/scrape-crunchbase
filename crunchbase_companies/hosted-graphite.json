@@ -1,0 +1,113 @@
+{"name": "Hosted Graphite",
+ "permalink": "hosted-graphite",
+ "crunchbase_url": "http://www.crunchbase.com/company/hosted-graphite",
+ "homepage_url": "http://www.hostedgraphite.com",
+ "blog_url": "http://blog.hostedgraphite.com/",
+ "blog_feed_url": "",
+ "twitter_username": "hostedgraphite",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "metrics, graphite, saas, application-metrics",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "510 502 7165",
+ "description": "Scalable Hosted Graphite Metrics",
+ "created_at": "Thu Aug 02 21:06:30 UTC 2012",
+ "updated_at": "Tue Apr 09 05:47:37 UTC 2013",
+ "overview": "\u003Cp\u003EHosted Graphite provides scalable hosting for the real-time graphing software Graphite.\u003C/p\u003E\n\n\u003Cp\u003EGraphite is a popular enterprise graphing software, used by large companies such as Etsy for their application metrics needs. Hosted Graphite provides a cloud-based interface to Graphite for a monthly subscription allowing high-volume metric data, configurable dashboards, and secure backups.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[81,
+       93],
+      "assets/images/resized/0021/1988/211988v2-max-150x150.png"],
+     [[81,
+       93],
+      "assets/images/resized/0021/1988/211988v2-max-250x250.png"],
+     [[81,
+       93],
+      "assets/images/resized/0021/1988/211988v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Concannon",
+      "permalink": "dave-concannon",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Charles",
+      "last_name": "von Metzradt",
+      "permalink": "charles-von-metzradt",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Librato",
+      "permalink": "librato",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0007/8230/78230v3-max-150x150.png"],
+          [[250,
+            50],
+           "assets/images/resized/0007/8230/78230v3-max-250x250.png"],
+          [[450,
+            90],
+           "assets/images/resized/0007/8230/78230v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "StatsMix",
+      "permalink": "statsmix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0009/6173/96173v3-max-150x150.jpg"],
+          [[250,
+            56],
+           "assets/images/resized/0009/6173/96173v3-max-250x250.jpg"],
+          [[299,
+            68],
+           "assets/images/resized/0009/6173/96173v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Registered office",
+    "address1": "4 Percy Place,",
+    "address2": "",
+    "zip_code": "",
+    "city": " Dublin 4,",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

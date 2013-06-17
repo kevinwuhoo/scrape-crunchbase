@@ -1,0 +1,172 @@
+{"name": "tagUin",
+ "permalink": "taguin",
+ "crunchbase_url": "http://www.crunchbase.com/company/taguin",
+ "homepage_url": "http://taguin.com",
+ "blog_url": "http://blog.taguin.com",
+ "blog_feed_url": "http://blog.taguin.com/feed",
+ "twitter_username": "tagUin",
+ "category_code": "ecommerce",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 10,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-network, games, videogames, ecommerce",
+ "alias_list": null,
+ "email_address": "contacto@taguin.com",
+ "phone_number": "",
+ "description": "Social network for videoplayers",
+ "created_at": "Tue Oct 06 08:48:41 UTC 2009",
+ "updated_at": "Wed Dec 30 21:20:57 UTC 2009",
+ "overview": "\u003Cp\u003EtagUin is a social network for videoplayers where they can extend the gaming experience sharing they activity with other players and friends, uploading photos and pictures, submiting opinions about games. In addition, tagUin offers rank of everything related with videogames industry based on users valoration.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[146,
+       44],
+      "assets/images/resized/0006/1787/61787v2-max-150x150.jpg"],
+     [[146,
+       44],
+      "assets/images/resized/0006/1787/61787v2-max-250x250.jpg"],
+     [[146,
+       44],
+      "assets/images/resized/0006/1787/61787v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Brandi",
+      "permalink": "daniel-brandi",
+      "image": null}},
+   {"is_past": true,
+    "title": "Board member",
+    "person":
+     {"first_name": "Fran\u00e7ois",
+      "last_name": "Derbaix",
+      "permalink": "francois-derbaix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            148],
+           "assets/images/resized/0002/9860/29860v2-max-150x150.jpg"],
+          [[225,
+            223],
+           "assets/images/resized/0002/9860/29860v2-max-250x250.jpg"],
+          [[225,
+            223],
+           "assets/images/resized/0002/9860/29860v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Raptr",
+      "permalink": "raptr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0001/3230/13230v5-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0001/3230/13230v5-max-250x250.png"],
+          [[300,
+            100],
+           "assets/images/resized/0001/3230/13230v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Playfire",
+      "permalink": "playfire",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0006/5865/65865v1-max-150x150.png"],
+          [[162,
+            32],
+           "assets/images/resized/0006/5865/65865v1-max-250x250.png"],
+          [[162,
+            32],
+           "assets/images/resized/0006/5865/65865v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://loogic.com/taguin-recibe-160-000-euros-de-inversion/",
+    "source_description": "Loogic",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2009,
+    "funded_month": 12,
+    "funded_day": 30,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Fran\u00e7ois",
+         "last_name": "Derbaix",
+         "permalink": "francois-derbaix",
+         "image":
+          {"available_sizes":
+            [[[150,
+               148],
+              "assets/images/resized/0002/9860/29860v2-max-150x150.jpg"],
+             [[225,
+               223],
+              "assets/images/resized/0002/9860/29860v2-max-250x250.jpg"],
+             [[225,
+               223],
+              "assets/images/resized/0002/9860/29860v2-max-450x450.jpg"]],
+           "attribution": ""}}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Jos\u00c3\u00a9",
+         "last_name": "Luis Vallejo",
+         "permalink": "jos-luis-vallejo",
+         "image": null}},
+      {"company": null,
+       "financial_org":
+        {"name": "Grupo ItNet",
+         "permalink": "grupo-itnet",
+         "image":
+          {"available_sizes":
+            [[[150,
+               105],
+              "assets/images/resized/0004/6048/46048v7-max-150x150.jpg"],
+             [[250,
+               176],
+              "assets/images/resized/0004/6048/46048v7-max-250x250.jpg"],
+             [[450,
+               317],
+              "assets/images/resized/0004/6048/46048v7-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "BeGreat",
+         "permalink": "begreat",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

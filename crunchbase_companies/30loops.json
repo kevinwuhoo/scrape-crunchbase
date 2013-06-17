@@ -1,0 +1,87 @@
+{"name": "30loops",
+ "permalink": "30loops",
+ "crunchbase_url": "http://www.crunchbase.com/company/30loops",
+ "homepage_url": "http://30loops.net",
+ "blog_url": "http://30loops.net/blog",
+ "blog_feed_url": "http://30loops.net/blog/rss",
+ "twitter_username": "30loops",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hosting, cloud, python, django, php, scalable, platform",
+ "alias_list": null,
+ "email_address": "mail@30loops.net",
+ "phone_number": "",
+ "description": "Application hosting platform",
+ "created_at": "Mon Aug 15 14:25:16 UTC 2011",
+ "updated_at": "Wed Aug 17 21:28:03 UTC 2011",
+ "overview": "\u003Cp\u003E30loops is a scalable platform for your web applications. You can easy deploy and scale out in seconds. Currently we are focussing on Python and Django applications, but more will be added in a later stadium.\u003C/p\u003E\n\n\u003Cp\u003EThe platform is currently still in beta. Sign up for an invite!\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bas",
+      "last_name": "Tichelaar",
+      "permalink": "bas-tichelaar",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Crito",
+      "last_name": "Buschek",
+      "permalink": "crito-buschek",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "dotCloud",
+      "permalink": "dotcloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0012/4387/124387v3-max-150x150.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-250x250.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Grubbehoeve 420",
+    "address2": "",
+    "zip_code": "1103GZ",
+    "city": "Amsterdam",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

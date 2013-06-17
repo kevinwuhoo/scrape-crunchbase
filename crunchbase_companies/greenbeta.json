@@ -1,0 +1,164 @@
+{"name": "GreenBeta",
+ "permalink": "greenbeta",
+ "crunchbase_url": "http://www.crunchbase.com/company/greenbeta",
+ "homepage_url": "http://www.greenbeta.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "greenbetainc",
+ "category_code": "security",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "website-security, it-security, security, hacker, hacking",
+ "alias_list": null,
+ "email_address": "info@greenbeta.net",
+ "phone_number": "(617) 410-6226",
+ "description": "Small business website security",
+ "created_at": "Thu Mar 31 16:59:43 UTC 2011",
+ "updated_at": "Thu May 05 21:46:05 UTC 2011",
+ "overview": "\u003Cp\u003EGreenBeta, Inc. is an IT company that is focused on SaaS web security products for small businesses.\u003C/p\u003E\n\n\u003Cp\u003EThey have developed various tools and systems that are able to detect when other companies servers and websites have been compromised, usually long before these companies discover it themselves. Using this information,  help companies remove any current threats as well as provide services to help protect against future ones. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0013/2946/132946v2-max-150x150.jpg"],
+     [[250,
+       55],
+      "assets/images/resized/0013/2946/132946v2-max-250x250.jpg"],
+     [[450,
+       99],
+      "assets/images/resized/0013/2946/132946v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Gregory",
+      "last_name": "Milne",
+      "permalink": "gregory-milne-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Lepley",
+      "permalink": "brian-lepley",
+      "image":
+       {"available_sizes":
+         [[[145,
+            150],
+           "assets/images/resized/0012/8616/128616v2-max-150x150.png"],
+          [[242,
+            250],
+           "assets/images/resized/0012/8616/128616v2-max-250x250.png"],
+          [[411,
+            424],
+           "assets/images/resized/0012/8616/128616v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Websense",
+      "permalink": "websense",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0003/4948/34948v3-max-150x150.png"],
+          [[239,
+            52],
+           "assets/images/resized/0003/4948/34948v3-max-250x250.png"],
+          [[239,
+            52],
+           "assets/images/resized/0003/4948/34948v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "McAfee",
+      "permalink": "mcafee",
+      "image":
+       {"available_sizes":
+         [[[123,
+            38],
+           "assets/images/resized/0024/1865/241865v1-max-150x150.png"],
+          [[123,
+            38],
+           "assets/images/resized/0024/1865/241865v1-max-250x250.png"],
+          [[123,
+            38],
+           "assets/images/resized/0024/1865/241865v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Barracuda Networks",
+      "permalink": "barracuda-networks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/2554/22554v1-max-150x150.png"],
+          [[230,
+            69],
+           "assets/images/resized/0002/2554/22554v1-max-250x250.png"],
+          [[230,
+            69],
+           "assets/images/resized/0002/2554/22554v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Symantec",
+      "permalink": "symantec",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/7569/17569v4-max-150x150.jpg"],
+          [[226,
+            59],
+           "assets/images/resized/0001/7569/17569v4-max-250x250.jpg"],
+          [[226,
+            59],
+           "assets/images/resized/0001/7569/17569v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "12 Stoneholm Street",
+    "address2": "#526",
+    "zip_code": "02115",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        136],
+       "assets/images/resized/0013/2947/132947v2-max-150x150.png"],
+      [[250,
+        227],
+       "assets/images/resized/0013/2947/132947v2-max-250x250.png"],
+      [[450,
+        409],
+       "assets/images/resized/0013/2947/132947v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,153 @@
+{"name": "Star.me",
+ "permalink": "star-me",
+ "crunchbase_url": "http://www.crunchbase.com/company/star-me",
+ "homepage_url": "http://star.me/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Tell Your Friends How Awesome They Are",
+ "created_at": "Sat Feb 05 02:15:44 UTC 2011",
+ "updated_at": "Mon May 06 20:54:14 UTC 2013",
+ "overview": "\u003Cp\u003EStar.me is a platform that facilitates rich and deep engagement for brands and celebrities, including Imogen Heap, iJustine, Michael Buckley, and many more. Star.me provides fans with opportunities for participation in the form of missions, games, custom rewards, and fun. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       94],
+      "assets/images/resized/0012/0631/120631v1-max-150x150.png"],
+     [[223,
+       140],
+      "assets/images/resized/0012/0631/120631v1-max-250x250.png"],
+     [[223,
+       140],
+      "assets/images/resized/0012/0631/120631v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ze",
+      "last_name": "Frank",
+      "permalink": "ze-frank",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0009/3742/93742v1-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0009/3742/93742v1-max-250x250.jpg"],
+          [[200,
+            300],
+           "assets/images/resized/0009/3742/93742v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 6,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "SV Angel",
+         "permalink": "sv-angel",
+         "image":
+          {"available_sizes":
+            [[[150,
+               86],
+              "assets/images/resized/0010/6581/106581v3-max-150x150.png"],
+             [[250,
+               144],
+              "assets/images/resized/0010/6581/106581v3-max-250x250.png"],
+             [[450,
+               259],
+              "assets/images/resized/0010/6581/106581v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company":
+        {"name": "betaworks",
+         "permalink": "betaworks",
+         "image":
+          {"available_sizes":
+            [[[111,
+               120],
+              "assets/images/resized/0004/0123/40123v2-max-150x150.png"],
+             [[111,
+               120],
+              "assets/images/resized/0004/0123/40123v2-max-250x250.png"],
+             [[111,
+               120],
+              "assets/images/resized/0004/0123/40123v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://crosscutventures.com/portfolio_item/star-me/",
+   "source_description": "",
+   "acquired_year": 2011,
+   "acquired_month": 9,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "BuzzFeed",
+     "permalink": "buzzfeed",
+     "image":
+      {"available_sizes":
+        [[[150,
+           37],
+          "assets/images/resized/0001/2515/12515v1-max-150x150.png"],
+         [[166,
+           41],
+          "assets/images/resized/0001/2515/12515v1-max-250x250.png"],
+         [[166,
+           41],
+          "assets/images/resized/0001/2515/12515v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

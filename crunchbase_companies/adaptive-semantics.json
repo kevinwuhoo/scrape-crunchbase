@@ -1,0 +1,116 @@
+{"name": "Adaptive Semantics",
+ "permalink": "adaptive-semantics",
+ "crunchbase_url": "http://www.crunchbase.com/company/adaptive-semantics",
+ "homepage_url": "http://adaptivesemantics.com",
+ "blog_url": "http://adaptivesemantics.com/blogs",
+ "blog_feed_url": "http://adaptivesemantics.com/blogs/feed",
+ "twitter_username": "elliesemantic",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "machine-learning, sentiment-analysis, natural-language-processing, text-mining, user-generated-content, community-management, social-media, semantic-web, semantic-technologies",
+ "alias_list": null,
+ "email_address": "sales@adaptivesemantics.com",
+ "phone_number": "",
+ "description": "building custom machine learning product",
+ "created_at": "Sat Jun 27 20:58:33 UTC 2009",
+ "updated_at": "Mon Jun 29 17:29:39 UTC 2009",
+ "overview": "\u003Cp\u003EAdaptive Semantics builds custom machine learning products for enterprise clients. \u003C/p\u003E\n\n\u003Cp\u003EASI specializes in moderation and management solutions for user generated content, like blog comments. The company\u0026#8217;s first product is JuLiA (Just a Linguistic Algorithm), an automated comment moderation solution for blogs and online publications. JuLiA uses sentiment analysis and natural language processing methods to detect abusiveness in text, and automates the moderation process.\u003C/p\u003E\n\n\u003Cp\u003EJuLiA is a flexible system that can be customized for online publishers\u0026#8217; and social networks\u0026#8217; community standards, and for purposes other than content moderation. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0005/1181/51181v2-max-150x150.jpg"],
+     [[239,
+       104],
+      "assets/images/resized/0005/1181/51181v2-max-250x250.jpg"],
+     [[239,
+       104],
+      "assets/images/resized/0005/1181/51181v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "JuLiA (Just a Linguistic Algorithm) moderation system",
+    "permalink": "julia-just-a-linguistic-algorithm-moderation-system",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Revesz",
+      "permalink": "jeff-revesz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, COO",
+    "person":
+     {"first_name": "Elena",
+      "last_name": "Haliczer",
+      "permalink": "elena-haliczer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Crisp Thinking",
+      "permalink": "crisp-thinking",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0007/3833/73833v2-max-150x150.jpg"],
+          [[250,
+            119],
+           "assets/images/resized/0007/3833/73833v2-max-250x250.jpg"],
+          [[331,
+            158],
+           "assets/images/resized/0007/3833/73833v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://techcrunch.com/2010/06/17/huffington-post-buys-adapative-semantics/",
+   "source_description": "Huffington Post Buys Adaptive Semantics To Keep Up With 100,000 Comments A Day",
+   "acquired_year": 2010,
+   "acquired_month": 6,
+   "acquired_day": 17,
+   "acquiring_company":
+    {"name": "Huffington Post",
+     "permalink": "huffingtonpost",
+     "image":
+      {"available_sizes":
+        [[[150,
+           18],
+          "assets/images/resized/0002/0662/20662v1-max-150x150.png"],
+         [[250,
+           30],
+          "assets/images/resized/0002/0662/20662v1-max-250x250.png"],
+         [[450,
+           54],
+          "assets/images/resized/0002/0662/20662v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.newscientist.com/article/dn17101-innovation-software-to-track-our-emotional-outbursts.html",
+    "title": "Innovation: Software to track our emotional outbursts"}]}

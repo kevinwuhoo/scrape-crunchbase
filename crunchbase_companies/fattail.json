@@ -1,0 +1,190 @@
+{"name": "FatTail",
+ "permalink": "fattail",
+ "crunchbase_url": "http://www.crunchbase.com/company/fattail",
+ "homepage_url": "https://adserver.fattail.com/abn/public/index.html",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@fattail.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Oct 15 02:14:49 UTC 2008",
+ "updated_at": "Wed Mar 27 09:10:48 UTC 2013",
+ "overview": "\u003Cp\u003EFatTail\u2019s founders come from the financial industry where they honed their expertise building financial models and services that reduce operational risk and optimize performance. When they took at look at the online advertising industry, they realized that a book of advertising assets is very similar to a book of financial assets, and that many of the methods pioneered in the financial industry would benefit online publishers and advertisers.\u003C/p\u003E\n\n\u003Cp\u003EFatTail makes it easy for online publishers to price, plan and sell premium guaranteed inventory. With FatTail\u2019s sales optimization software, publishers can maximize revenue and save time and resources by automating proposal building, inventory and availability forecasting, and other sales processes. FatTail helps publishers process more transactions faster, get from quote to cash more quickly, and dramatically reduce their reliance on ad networks.\u003C/p\u003E\n\n\u003Cp\u003EFounded in 2001, the company\u2019s AdBook sales and ad operations optimization software for digital advertising is used by more than 500 of the world\u2019s leading websites. PageGage, the company\u2019s new online ad sales optimization software helps online publishers increase ad revenues by selling more inventory direct and relying less on ad networks. The company\u2019s Ad Operation Services are designed to provide complete ad traffic services on an \u00e0 la carte or end-to-end basis to both smaller publishers that want to launch their own direct sales programs and large media conglomerates looking to cut operations costs.\u003C/p\u003E\n\n\u003Cp\u003EFatTail built its reputation on providing extremely flexible products, exceptionally responsive support and creating innovative solutions that solve customers\u2019 most compelling business challenges.\u003C/p\u003E\n\n\u003Cp\u003EFatTail investors include Velocity Interactive Group, Ted Meisel and others.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0002/6708/26708v3-max-150x150.jpg"],
+     [[250,
+       55],
+      "assets/images/resized/0002/6708/26708v3-max-250x250.jpg"],
+     [[301,
+       67],
+      "assets/images/resized/0002/6708/26708v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Board of Directors",
+    "person":
+     {"first_name": "Ross",
+      "last_name": "Levinsohn",
+      "permalink": "ross-levinsohn",
+      "image":
+       {"available_sizes":
+         [[[111,
+            150],
+           "assets/images/resized/0001/2992/12992v1-max-150x150.png"],
+          [[185,
+            250],
+           "assets/images/resized/0001/2992/12992v1-max-250x250.png"],
+          [[334,
+            450],
+           "assets/images/resized/0001/2992/12992v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Solbright",
+      "permalink": "solbright",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0006/7991/67991v1-max-150x150.jpg"],
+          [[231,
+            108],
+           "assets/images/resized/0006/7991/67991v1-max-250x250.jpg"],
+          [[231,
+            108],
+           "assets/images/resized/0006/7991/67991v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Operative Media",
+      "permalink": "operative",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/2902/22902v2-max-150x150.jpg"],
+          [[150,
+            29],
+           "assets/images/resized/0002/2902/22902v2-max-250x250.jpg"],
+          [[150,
+            29],
+           "assets/images/resized/0002/2902/22902v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$3.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.techcrunch.com/2008/10/15/ross-levinsohn-and-ted-meisel-put-35-million-into-fattail/",
+    "source_description": "TechCrunch",
+    "raised_amount": 3500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 10,
+    "funded_day": 15,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Fuse Capital",
+         "permalink": "fuse-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               63],
+              "assets/images/resized/0001/3621/13621v4-max-150x150.jpg"],
+             [[250,
+               106],
+              "assets/images/resized/0001/3621/13621v4-max-250x250.jpg"],
+             [[250,
+               106],
+              "assets/images/resized/0001/3621/13621v4-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Ted",
+         "last_name": "Meisel",
+         "permalink": "ted-meisel",
+         "image":
+          {"available_sizes":
+            [[[150,
+               44],
+              "assets/images/resized/0007/3905/73905v2-max-150x150.png"],
+             [[250,
+               73],
+              "assets/images/resized/0007/3905/73905v2-max-250x250.png"],
+             [[406,
+               120],
+              "assets/images/resized/0007/3905/73905v2-max-450x450.png"]],
+           "attribution": "\u003Cp\u003EElevation Partners\u003C/p\u003E"}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "20969 Ventura Blvd",
+    "address2": "",
+    "zip_code": "91364",
+    "city": "Woodland Hills",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.167314,
+    "longitude": -118.590286}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

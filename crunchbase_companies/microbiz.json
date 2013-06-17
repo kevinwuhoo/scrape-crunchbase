@@ -1,0 +1,153 @@
+{"name": "MicroBiz",
+ "permalink": "microbiz",
+ "crunchbase_url": "http://www.crunchbase.com/company/microbiz",
+ "homepage_url": "http://www.microbiz.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "point-of-sale, pos, retail-software, magento, ecommerce, ipad-pos, android-pos, cloud-pos, web-pos",
+ "alias_list": null,
+ "email_address": "kevin.kogler@microbiz.com",
+ "phone_number": "17027495349",
+ "description": "Cloud-based Point of Sale",
+ "created_at": "Fri May 25 21:39:45 UTC 2012",
+ "updated_at": "Thu May 16 04:01:14 UTC 2013",
+ "overview": "\u003Cp\u003EMicroBiz develops and sells cloud-based retail point of sale software.  In March 2012, the business spun out of CAM Commerce Solutions LLC, an established vendor of retail management software.  MicroBiz is owned and led by Kevin T. Kogler, the former President of CAM Commerce.  The business is based in Menlo Park CA, with a development facility in Las Vegas NV.   MicroBiz currently markets MicroBiz for Windows,, a Windows-based point of sale software solution.  MicroBiz software has been purchased by over 25,000 small and mid-sized retailers worldwide.  \u003C/p\u003E\n\n\u003Cp\u003EIn 2013, MicroBiz introduced MicroBiz Fused, a completely new web-based integrated point of sale/eCommerce software as a service (SaaS) targeted at multi-channel merchants.  MicroBiz Fused combines easy to use yet feature rich web-based point of sale software with the popular Magento Community eCommerce platform.  This completely integrated solution enables local multi-channel retailers to operate their retail stores and eCommerce sites with a single Cloud-based management system \u2013 including unified product records, customer records, inventory management and reporting.  MicroBiz Fused runs on any type of Internet device (iPads, tablets, PC\u0026#8217;s, Mac\u0026#8217;s, smart phones) and all popular operating systems (iOS, Windows, Android)\u003C/p\u003E\n\n\u003Cp\u003EMicroBiz Online point of sale allows any of the 150,000+ merchants running a Magento Community eCommerce site the ability to seamlessly \u0026#8216;plug in\u0026#8217;  their offline brick and mortar store with their online operations without the need for any custom integration or middleware.  This tight integration eliminates the need to do double data entry or manage two sets of customer or inventory records.  It will also customers go leverage the power of the Magento Connect Community and open source technologies.\u003C/p\u003E\n\n\u003Cp\u003EThe product is offered on a subscription basis, with no license fee upfront and a monthly subscription fee.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President \u0026 CEO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Kogler",
+      "permalink": "kevin-kogler",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MerchantOS",
+      "permalink": "merchantos",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0001/1526/11526v1-max-150x150.jpg"],
+          [[250,
+            48],
+           "assets/images/resized/0001/1526/11526v1-max-250x250.jpg"],
+          [[279,
+            54],
+           "assets/images/resized/0001/1526/11526v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ERPLY",
+      "permalink": "erply",
+      "image":
+       {"available_sizes":
+         [[[150,
+            69],
+           "assets/images/resized/0006/0817/60817v2-max-150x150.png"],
+          [[167,
+            77],
+           "assets/images/resized/0006/0817/60817v2-max-250x250.png"],
+          [[167,
+            77],
+           "assets/images/resized/0006/0817/60817v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cashier Live",
+      "permalink": "cashier-live",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0007/6351/76351v2-max-150x150.png"],
+          [[218,
+            59],
+           "assets/images/resized/0007/6351/76351v2-max-250x250.png"],
+          [[218,
+            59],
+           "assets/images/resized/0007/6351/76351v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ShopKeep POS",
+      "permalink": "shopkeep-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0007/4175/74175v5-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0007/4175/74175v5-max-250x250.png"],
+          [[450,
+            83],
+           "assets/images/resized/0007/4175/74175v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "POSLavu",
+      "permalink": "poslavu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            74],
+           "assets/images/resized/0012/8090/128090v2-max-150x150.jpg"],
+          [[151,
+            75],
+           "assets/images/resized/0012/8090/128090v2-max-250x250.jpg"],
+          [[151,
+            75],
+           "assets/images/resized/0012/8090/128090v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LightSpeed",
+      "permalink": "lightspeed",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Development Center",
+    "address1": "285 E. Warm Springs Road",
+    "address2": "Suite 105",
+    "zip_code": "89118",
+    "city": "Las Vegas",
+    "state_code": "NV",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "Corporate Office",
+    "address1": "655 Oak Grove Avenue #493",
+    "address2": "",
+    "zip_code": "94026",
+    "city": "Menlo Park",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

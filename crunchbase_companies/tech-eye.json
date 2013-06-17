@@ -1,0 +1,99 @@
+{"name": "Tech Eye",
+ "permalink": "tech-eye",
+ "crunchbase_url": "http://www.crunchbase.com/company/tech-eye",
+ "homepage_url": "http://www.techeye.net/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "thetecheye",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "technology, news",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Peeking into technology",
+ "created_at": "Fri Jan 15 13:08:03 UTC 2010",
+ "updated_at": "Mon Aug 23 18:36:15 UTC 2010",
+ "overview": "\u003Cp\u003ETechEye peeks into the IT industry and investigates the doings of Intel, Microsoft, Google, Cisco and every other firm on the planet\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       104],
+      "assets/images/resized/0007/3555/73555v2-max-150x150.png"],
+     [[198,
+       138],
+      "assets/images/resized/0007/3555/73555v2-max-250x250.png"],
+     [[198,
+       138],
+      "assets/images/resized/0007/3555/73555v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Crowley",
+      "permalink": "james-crowley",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0008/4426/84426v2-max-150x150.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0008/4426/84426v2-max-250x250.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0008/4426/84426v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Editor",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Magee",
+      "permalink": "mike-magee",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Allan",
+      "last_name": "Rutherford",
+      "permalink": "allan-rutherford",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.siliconvalleywatcher.com/mt/archives/2010/01/mike_magees_tec.php",
+    "title": "Mike Magee's TechEye Debuts"},
+   {"external_url": "http://volesoft.com/2010/01/15/we-open-techeye-to-the-world/",
+    "title": "We open TechEye to the world"},
+   {"external_url": "http://techreport.com/discussions.x/18307",
+    "title": "Mike Magee intros TechEye for the straight guy"}]}

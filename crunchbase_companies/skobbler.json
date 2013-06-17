@@ -1,0 +1,124 @@
+{"name": "skobbler",
+ "permalink": "skobbler",
+ "crunchbase_url": "http://www.crunchbase.com/company/skobbler",
+ "homepage_url": "http://beta.skobbler.com",
+ "blog_url": "http://blog.skobbler.de",
+ "blog_feed_url": "http://blog.skobbler.de/feed/",
+ "twitter_username": "skobbler",
+ "category_code": "mobile",
+ "number_of_employees": 30,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "skobbler, lbs, navigation, gps, mobile-social-networking, friend-finder",
+ "alias_list": null,
+ "email_address": "philipp.kandal@skobbler.com",
+ "phone_number": "",
+ "description": "LBS and mobile navigation",
+ "created_at": "Sun May 24 20:43:02 UTC 2009",
+ "updated_at": "Fri Oct 08 05:57:29 UTC 2010",
+ "overview": "\u003Cp\u003Eskobbler is a management buy-out from Europes Nr. 3 navigation supplier (Navigon). The skobbler company was founded during a spin-off in September 2008 and has been developing its very own software for mobile phones ever since. skobbler strives to offer smart products that provide orientation and fun on the OpenStreetMap.\u003C/p\u003E\n\n\u003Cp\u003Eskobbler has won the Navteq EMEA LBS challenge 2009.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       77],
+      "assets/images/resized/0004/5340/45340v2-max-150x150.jpg"],
+     [[250,
+       128],
+      "assets/images/resized/0004/5340/45340v2-max-250x250.jpg"],
+     [[356,
+       183],
+      "assets/images/resized/0004/5340/45340v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "skobbler iPhone",
+    "permalink": "skobbler-mobile",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Scheufen",
+      "permalink": "peter-scheufen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Qype",
+      "permalink": "qype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0001/2025/12025v3-max-150x150.png"],
+          [[250,
+            95],
+           "assets/images/resized/0001/2025/12025v3-max-250x250.png"],
+          [[450,
+            171],
+           "assets/images/resized/0001/2025/12025v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "aka-aki networks",
+      "permalink": "akaaki",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0000/0463/463v2-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0000/0463/463v2-max-250x250.jpg"],
+          [[450,
+            99],
+           "assets/images/resized/0000/0463/463v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Brightkite",
+      "permalink": "brightkite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0001/5798/15798v6-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0001/5798/15798v6-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0001/5798/15798v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Luisenstr. 41",
+    "address2": "",
+    "zip_code": "10117",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 53.5771514,
+    "longitude": 10.0115926}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.slideshare.net/oliver.kuehn/skobbler-navteq-lbs-challenge",
+    "title": "Skobbler LBS challenge presentation"}]}

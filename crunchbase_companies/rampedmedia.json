@@ -1,0 +1,126 @@
+{"name": "RampedMedia",
+ "permalink": "rampedmedia",
+ "crunchbase_url": "http://www.crunchbase.com/company/rampedmedia",
+ "homepage_url": "http://www.ramped.com/",
+ "blog_url": "http://www.ramped.com/blog",
+ "blog_feed_url": "http://ramped.com/blog/atom",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2006,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "founders@ramped.com",
+ "phone_number": "314-563-0001",
+ "description": null,
+ "created_at": "Sat Aug 25 03:28:20 UTC 2007",
+ "updated_at": "Thu Dec 01 07:34:23 UTC 2011",
+ "overview": "\u003Cp\u003ESt. Louis\u0026#8217; Ramped Media builds community-based web products. Founded in February, 2006, their first project is IMThere, a user-driven events site. Their competitors include  \u003Ca href=\"http://www.crunchbase.com/company/Renkoo\" title=\"Renkoo\"\u003ERenkoo\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/Socializr\" title=\"Socializr\"\u003ESocializr\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/MyPunchBowl\" title=\"MyPunchBowl\"\u003EMyPunchBowl\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/MadeIt\" title=\"MadeIt\"\u003EMadeIt\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0000/0040/40v1-max-150x150.png"],
+     [[200,
+       82],
+      "assets/images/resized/0000/0040/40v1-max-250x250.png"],
+     [[200,
+       82],
+      "assets/images/resized/0000/0040/40v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "ImThere",
+    "permalink": "imthere",
+    "image":
+     {"available_sizes":
+       [[[150,
+          44],
+         "assets/images/resized/0001/4610/14610v1-max-150x150.png"],
+        [[250,
+          73],
+         "assets/images/resized/0001/4610/14610v1-max-250x250.png"],
+        [[450,
+          132],
+         "assets/images/resized/0001/4610/14610v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Gorman",
+      "permalink": "david-gorman",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Benjamin",
+      "last_name": "Roodman",
+      "permalink": "benjamin-roodman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Renkoo",
+      "permalink": "renkoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/1642/1642v1-max-150x150.png"],
+          [[200,
+            60],
+           "assets/images/resized/0000/1642/1642v1-max-250x250.png"],
+          [[200,
+            60],
+           "assets/images/resized/0000/1642/1642v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Rob",
+         "last_name": "Lord",
+         "permalink": "rob-lord",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "1225 Mackay Place",
+    "address2": null,
+    "zip_code": "63104",
+    "city": "Saint Louis",
+    "state_code": "MO",
+    "country_code": "USA",
+    "latitude": 38.618874,
+    "longitude": -90.216499}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

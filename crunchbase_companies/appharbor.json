@@ -1,0 +1,102 @@
+{"name": "AppHarbor",
+ "permalink": "appharbor",
+ "crunchbase_url": "http://www.crunchbase.com/company/appharbor",
+ "homepage_url": "http://appharbor.com/",
+ "blog_url": "http://blog.appharbor.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/appharbor",
+ "twitter_username": "appharbor",
+ "category_code": "network_hosting",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Azure done right",
+ "created_at": "Fri Jan 21 14:54:41 UTC 2011",
+ "updated_at": "Tue May 22 03:32:19 UTC 2012",
+ "overview": "\u003Cp\u003EAppHarbor is a .NET Platform-as-a-Service. Developers push code to AppHarbor using either Git or Mercurial. AppHarbor then builds the code and runs any unit tests. If everything checks out, the code is deployed to AppHarbor\u0026#8217;s scalable cloud platform.\u003C/p\u003E\n\n\u003Cp\u003EAppHarbor lets developers spend their time coming up with ideas and developing applications, not patching servers, worrying about deployment, messing with configuration files, or scaling.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[115,
+       41],
+      "assets/images/resized/0012/7383/127383v4-max-150x150.png"],
+     [[115,
+       41],
+      "assets/images/resized/0012/7383/127383v4-max-250x250.png"],
+     [[115,
+       41],
+      "assets/images/resized/0012/7383/127383v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Rune",
+      "last_name": "S\u00f8rensen",
+      "permalink": "rune-srensen",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Troels",
+      "last_name": "Thomsen",
+      "permalink": "troels-thomsen",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Friis",
+      "permalink": "michael-friis",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0013/4077/134077v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0013/4077/134077v2-max-250x250.jpg"],
+          [[450,
+            300],
+           "assets/images/resized/0013/4077/134077v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EThomas Wilmann / Ekstra Bladet\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

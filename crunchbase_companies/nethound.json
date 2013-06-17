@@ -1,0 +1,91 @@
+{"name": "NetHound",
+ "permalink": "nethound",
+ "crunchbase_url": "http://www.crunchbase.com/company/nethound",
+ "homepage_url": "http://nethound.us",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "network, network-monitoring, cloud, netflow, anomaly-detection, network-behavior-analysis",
+ "alias_list": null,
+ "email_address": "nethound@advaict.com",
+ "phone_number": "+420 511 112 170",
+ "description": "Easy network monitoring",
+ "created_at": "Wed Dec 07 13:05:08 UTC 2011",
+ "updated_at": "Wed Jan 18 09:09:48 UTC 2012",
+ "overview": "\u003Cp\u003ENetHound is an online network monitoring service for small companies with up to 100 computers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       87],
+      "assets/images/resized/0016/5549/165549v2-max-150x150.png"],
+     [[250,
+       145],
+      "assets/images/resized/0016/5549/165549v2-max-250x250.png"],
+     [[312,
+       182],
+      "assets/images/resized/0016/5549/165549v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder, CEO",
+    "person":
+     {"first_name": "Zdenek",
+      "last_name": "Vrbka",
+      "permalink": "zdenek-vrbka",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, CTO",
+    "person":
+     {"first_name": "Pavel",
+      "last_name": "Minarik",
+      "permalink": "pavel-minarik",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "David",
+      "last_name": "Balcak",
+      "permalink": "david-balcak",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Jundrovska 618/31",
+    "address2": "",
+    "zip_code": "624 00",
+    "city": "Brno",
+    "state_code": null,
+    "country_code": "CZE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

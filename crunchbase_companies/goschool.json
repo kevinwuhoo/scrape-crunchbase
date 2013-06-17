@@ -1,0 +1,135 @@
+{"name": "GoSchool",
+ "permalink": "goschool",
+ "crunchbase_url": "http://www.crunchbase.com/company/goschool",
+ "homepage_url": "http://www.goschool.com.ar",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "myGoSchool",
+ "category_code": "education",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@goschool.com.ar",
+ "phone_number": "+54 261 4290215",
+ "description": "Saas school management system",
+ "created_at": "Tue Apr 24 18:37:30 UTC 2012",
+ "updated_at": "Mon Apr 30 01:41:07 UTC 2012",
+ "overview": "\u003Cp\u003EGoSchool is a SaaS school management system that focus on the communication gap that exist between schools and parents.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0018/5721/185721v2-max-150x150.png"],
+     [[250,
+       58],
+      "assets/images/resized/0018/5721/185721v2-max-250x250.png"],
+     [[300,
+       70],
+      "assets/images/resized/0018/5721/185721v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CoFounder \u0026 CSO",
+    "person":
+     {"first_name": "Marcos",
+      "last_name": "Dominguez",
+      "permalink": "marcos-dominguez",
+      "image": null}},
+   {"is_past": false,
+    "title": "CoFounder \u0026 CTO",
+    "person":
+     {"first_name": "Ezequiel",
+      "last_name": "Prieto",
+      "permalink": "ezequiel-prieto",
+      "image": null}},
+   {"is_past": false,
+    "title": "CoFounder \u0026 CCO",
+    "person":
+     {"first_name": "Lisandro",
+      "last_name": "Rabida",
+      "permalink": "lisandro-rabida",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Schoology",
+      "permalink": "schoology",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0005/9519/59519v6-max-150x150.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-250x250.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LearnBoost",
+      "permalink": "learnboost",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0008/5631/85631v1-max-150x150.png"],
+          [[250,
+            99],
+           "assets/images/resized/0008/5631/85631v1-max-250x250.png"],
+          [[287,
+            114],
+           "assets/images/resized/0008/5631/85631v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Edmodo",
+      "permalink": "edmodo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6596/16596v6-max-150x150.png"],
+          [[250,
+            109],
+           "assets/images/resized/0001/6596/16596v6-max-250x250.png"],
+          [[450,
+            196],
+           "assets/images/resized/0001/6596/16596v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "GoSchoo HQ",
+    "address1": "Pedro Molina 493",
+    "address2": "Office 24",
+    "zip_code": "5500",
+    "city": "Mendoza",
+    "state_code": null,
+    "country_code": "ARG",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

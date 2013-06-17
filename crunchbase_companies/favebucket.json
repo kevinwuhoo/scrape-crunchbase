@@ -1,0 +1,176 @@
+{"name": "Favebucket",
+ "permalink": "favebucket",
+ "crunchbase_url": "http://www.crunchbase.com/company/favebucket",
+ "homepage_url": "http://www.favebucket.com",
+ "blog_url": "http://favebucket.tumblr.com",
+ "blog_feed_url": "http://favebucket.tumblr.com/rss",
+ "twitter_username": "Favebucket",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "content, social, discovery, bookmarking, curation, shifting, search, private, professional, consumer, remember, share, save, fave, web",
+ "alias_list": null,
+ "email_address": "marcel@favebucket.com",
+ "phone_number": "0032483420818",
+ "description": "Save Remember Share Inspire",
+ "created_at": "Thu May 09 11:25:06 UTC 2013",
+ "updated_at": "Mon May 13 03:40:43 UTC 2013",
+ "overview": "\u003Cp\u003EFavebucket is the assistant that helps you save, recollect and share your favorites online!\u003C/p\u003E\n\n\u003Cp\u003EFavebucket provides people with help to organize their life online. Forget regular bookmarking or the fact you can\u0026#8217;t remember \u0026#8220;where you saw that before\u0026#8221;. The assistant makes that a thing of the past.\u003C/p\u003E\n\n\u003Cp\u003ECurrently we are in startup modus so you can expect bumps in the road. ;) But there are a lot of goodies to enjoy already.\u003C/p\u003E\n\n\u003Cp\u003EWe will bring you a lot of cool stuff in upcoming releases and next to serving you privately, we will also offer assistance for pro\u0026#8217;s who use the web for their jobs, daily.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[75,
+       75],
+      "assets/images/resized/0026/0446/260446v2-max-150x150.jpg"],
+     [[75,
+       75],
+      "assets/images/resized/0026/0446/260446v2-max-250x250.jpg"],
+     [[75,
+       75],
+      "assets/images/resized/0026/0446/260446v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Marcel",
+      "last_name": "Cramer",
+      "permalink": "marcel-cramer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Engineer",
+    "person":
+     {"first_name": "Frederic",
+      "last_name": "Charliers",
+      "permalink": "frederic-charliers",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Christophe",
+      "last_name": "Novalet",
+      "permalink": "christophe-novalet",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Vermeulen",
+      "permalink": "philip-vermeulen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Evernote",
+      "permalink": "evernote",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/3178/13178v3-max-150x150.jpg"],
+          [[250,
+            129],
+           "assets/images/resized/0001/3178/13178v3-max-250x250.jpg"],
+          [[315,
+            163],
+           "assets/images/resized/0001/3178/13178v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Clipboard",
+      "permalink": "clipboard",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0016/0831/160831v3-max-150x150.jpg"],
+          [[250,
+            69],
+           "assets/images/resized/0016/0831/160831v3-max-250x250.jpg"],
+          [[299,
+            83],
+           "assets/images/resized/0016/0831/160831v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Snip.it",
+      "permalink": "snip-it",
+      "image":
+       {"available_sizes":
+         [[[145,
+            150],
+           "assets/images/resized/0016/2555/162555v2-max-150x150.png"],
+          [[218,
+            225],
+           "assets/images/resized/0016/2555/162555v2-max-250x250.png"],
+          [[218,
+            225],
+           "assets/images/resized/0016/2555/162555v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kippt",
+      "permalink": "kippt",
+      "image":
+       {"available_sizes":
+         [[[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-150x150.png"],
+          [[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-250x250.png"],
+          [[102,
+            45],
+           "assets/images/resized/0026/5581/265581v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/63482667\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EFavebucket\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0026/0445/260445v2-max-150x150.jpg"],
+      [[250,
+        143],
+       "assets/images/resized/0026/0445/260445v2-max-250x250.jpg"],
+      [[450,
+        258],
+       "assets/images/resized/0026/0445/260445v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://favebucket.tumblr.com/",
+    "title": "Favebucket Blog"}]}

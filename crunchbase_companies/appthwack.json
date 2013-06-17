@@ -1,0 +1,85 @@
+{"name": "AppThwack",
+ "permalink": "appthwack",
+ "crunchbase_url": "http://www.crunchbase.com/company/appthwack",
+ "homepage_url": "http://appthwack.com",
+ "blog_url": "http://blog.appthwack.com",
+ "blog_feed_url": "http://feeds.feedburner.com/appthwack",
+ "twitter_username": "AppThwack",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, saas, android, ios, mobile-web, qa, testing",
+ "alias_list": null,
+ "email_address": "connect@appthwack.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Oct 02 04:46:51 UTC 2012",
+ "updated_at": "Wed Oct 17 16:48:36 UTC 2012",
+ "overview": "\u003Cp\u003EAppThwack tests mobile apps on 100s of real, non-emulated phones and tablets and provides results in about five minutes.\u003C/p\u003E\n\n\u003Cp\u003ETesting apps takes 100s of devices and days to be effective. Even the wealthiest companies struggle while smaller shops are left to release and hope for the best. AppThwack solves this problem by automatically detecting any problems encountered while installing, launching, and stress-testing the apps on an ever-growing lab of real devices AppThwack hosts. In addition, AppThwack supports custom tests via multiple automation platforms (Robotium, MonkeyTalk, and others). Reports generate in real time and contain high-level results, low-level details, performance data, and pixel-perfect screenchots.\u003C/p\u003E\n\n\u003Cp\u003EIts initial offering is for native Android apps, and they are currently in private beta for mobile web testing (Multiple browsers on real devices). Other platforms, such as iOS, are on the way.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/3790/213790v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/3790/213790v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0021/3790/213790v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Trent",
+      "last_name": "Peterson",
+      "permalink": "trent-peterson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Pawel",
+      "last_name": "Wojnarowicz",
+      "permalink": "pawel-wojnarowicz",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": " 1227 NW Davis Street",
+    "address2": "",
+    "zip_code": "97209",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"430\" height=\"270\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/pJblzg1iB7M?version=3\u0026amp;hl=en_US\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/pJblzg1iB7M?version=3\u0026amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"430\" height=\"270\" allowscriptaccess=\"always\" allowfullscreen=\"true\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EAppThwack at PIE Demo Day\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

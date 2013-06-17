@@ -1,0 +1,114 @@
+{"name": "CasaSwap.com",
+ "permalink": "casaswap",
+ "crunchbase_url": "http://www.crunchbase.com/company/casaswap",
+ "homepage_url": "http://www.casaswap.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2004,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "mkc@casaswap.com",
+ "phone_number": "40854533",
+ "description": "",
+ "created_at": "Mon Sep 15 12:32:31 UTC 2008",
+ "updated_at": "Mon Oct 11 17:48:41 UTC 2010",
+ "overview": "\u003Cp\u003ECasaSwap.com is a place where people can rent, sublet and swap rooms and apartments. CasaSwap has accommodation offers all over the world and many new rooms and apartments are being listed into their database everyday.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0002/5156/25156v2-max-150x150.jpg"],
+     [[250,
+       71],
+      "assets/images/resized/0002/5156/25156v2-max-250x250.jpg"],
+     [[450,
+       127],
+      "assets/images/resized/0002/5156/25156v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Soren",
+      "last_name": "Keller",
+      "permalink": "soren-keller",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Mikael",
+      "last_name": "Klint",
+      "permalink": "mikael-klint",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Kasper",
+      "last_name": "Balslev",
+      "permalink": "kasper-balslev",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Erasmate",
+      "permalink": "erasmate",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0010/3897/103897v2-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0010/3897/103897v2-max-250x250.jpg"],
+          [[450,
+            116],
+           "assets/images/resized/0010/3897/103897v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$80k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "European Commission funding",
+    "raised_amount": 80000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Copenhagen",
+    "address1": "Nyborggade 12",
+    "address2": "",
+    "zip_code": "2100",
+    "city": "Copenhagen",
+    "state_code": null,
+    "country_code": "DNK",
+    "latitude": 55.709743,
+    "longitude": 12.579332}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

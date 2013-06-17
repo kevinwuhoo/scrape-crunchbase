@@ -1,0 +1,112 @@
+{"name": "SiteBrains",
+ "permalink": "sitebrains",
+ "crunchbase_url": "http://www.crunchbase.com/company/sitebrains",
+ "homepage_url": "http://www.sitebrains.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "sitebrains",
+ "category_code": "other",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "semantic-analysis, spam-detection, social-spam-solution, saas, internet-infrastructure, web-2-0, enterprise-software",
+ "alias_list": null,
+ "email_address": "jon@sitebrains.com",
+ "phone_number": "18888112220",
+ "description": "Intelligent Social Spam Protection",
+ "created_at": "Mon Nov 14 19:29:42 UTC 2011",
+ "updated_at": "Mon Nov 14 21:50:22 UTC 2011",
+ "overview": "\u003Cp\u003ESiteBrains provides interactive social spam protection and form validation as software as a service (SaaS) to enterprises and SMBs. Utilizing semantic analysis and web crawling technology, SiteBrains scans comments for link spam that other solutions can\u0026#8217;t detect. Additionally, SiteBrains utilizes encryption and server-side validation to defeat bot generated spam injection attacks on HTML forms, without using Captcha, check boxes or other impediments to user interaction.\u003C/p\u003E\n\n\u003Cp\u003ESiteBrains is unique in that it stops not just bot-generated spam but human generated comment spam as well, with accuracy and reliability. By providing users with real-time notifications of policy violations, user satisfaction and form submissions rates both benefit greatly. \u003C/p\u003E\n\n\u003Cp\u003ESuccessful publishers are always under attack from subversive users with selfish intentions. With SiteBrains they keep the conversation relevant and informative without an army of hired moderators and inconvenient delays to publication inherent in manual moderation.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Cardella",
+      "permalink": "jonathan-cardella",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Impermium",
+      "permalink": "impermium",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0014/0931/140931v1-max-150x150.jpg"],
+          [[250,
+            61],
+           "assets/images/resized/0014/0931/140931v1-max-250x250.jpg"],
+          [[331,
+            82],
+           "assets/images/resized/0014/0931/140931v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$350k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 350000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 8,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Jonathan",
+         "last_name": "Cardella",
+         "permalink": "jonathan-cardella",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "zohar",
+         "last_name": "israel",
+         "permalink": "zohar-israel",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "SiteBrains Headquarters",
+    "address1": "222 7th St. 2nd Flr",
+    "address2": "",
+    "zip_code": "94103",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0016/2330/162330v2-max-150x150.jpg"],
+      [[250,
+        140],
+       "assets/images/resized/0016/2330/162330v2-max-250x250.jpg"],
+      [[450,
+        253],
+       "assets/images/resized/0016/2330/162330v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

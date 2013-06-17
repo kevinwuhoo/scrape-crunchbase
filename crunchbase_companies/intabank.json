@@ -1,0 +1,139 @@
+{"name": "Intabank",
+ "permalink": "intabank",
+ "crunchbase_url": "http://www.crunchbase.com/company/intabank",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@intabank.com",
+ "phone_number": "",
+ "description": "Global Connectivity Exchange",
+ "created_at": "Wed Apr 24 06:59:24 UTC 2013",
+ "updated_at": "Mon Jun 17 09:05:04 UTC 2013",
+ "overview": "\u003Cp\u003EIntabank is a market leading International bandwidth exchange which utilises the power of a network of Global Data Centres, to offer businesses the ability to sell remnant connectivity to buyers wanting \u201cburst\u201d or short term Internet capacity.\u003C/p\u003E\n\n\u003Cp\u003EThis also includes the ability for multinational organisations to manage their connectivity across locations - territories and countries.\u003C/p\u003E\n\n\u003Cp\u003EIntabank is currently located in 10 Data Center locations across 4 Continents and will expand this footprint to another 6 Data Centers (totalling 16 DC\u2019s in all) by the end of 2013.\u003C/p\u003E\n\n\u003Cp\u003EThe Intabank technology is built on Carrier Grade equipment including Cisco and NetApp, utilizing an infrastructure partnership with ASE IT (www.aseit.com.au) and Data Center relationships with Equinix, Global Switch and Next DC. \u003C/p\u003E\n\n\u003Cp\u003ETypical Buyers of burst bandwidth include: \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EFinancial Services: Banking\u003C/li\u003E\n\u003Cli\u003EMedia Groups: Production Houses (Film \u0026amp; Television)\u003C/li\u003E\n\u003Cli\u003EISP\u2019s (including Residential)\u003C/li\u003E\n\u003Cli\u003ECDN\u2019s\u003C/li\u003E\n\u003Cli\u003EAny company wishing to purchase bandwidth on a flexible contract basis (Hourly, Daily, Monthly).\u003C/li\u003E\n\u003Cli\u003EA group connected to a unilateral peering platform such as LINX, WAIX, PIPEIX, Equinix Exchange and seeking to connect to another peering platform in an alternate location.  \u003C/li\u003E\n\u003Cli\u003EA business that has Data Centre infrastructure in a Co-Lo environment (eg: Equinix) with the ability to cross-connect with Intabank (a service Intabank will facilitate).\u003C/li\u003E\n\u003Cli\u003EA global organisation looking to manage its \u201cterritory-by-territory\u201d bandwidth on a global basis.\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EWhile sellers can choose from two products:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003EBurst Bandwidth Speed (by the Mpbs)\u003C/li\u003E\n\u003Cli\u003ETransfer Exchange Window (by the GB)\u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003EIt takes just 3 simple steps to connect a business to Intabank:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003EBe in an Intabank Data Centre, or order a local loop to an Intabank Data Center.\u003C/li\u003E\n\u003Cli\u003EOrder Cross Connect\u003C/li\u003E\n\u003Cli\u003EConfigure your Network (Router)\u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003ENote: Intabank has 24/7 (365) support to help with all of these steps.\u003C/p\u003E\n\n\u003Cp\u003Einfo@intabank.com | sales@intabank.com\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0025/6933/256933v2-max-150x150.png"],
+     [[250,
+       65],
+      "assets/images/resized/0025/6933/256933v2-max-250x250.png"],
+     [[450,
+       118],
+      "assets/images/resized/0025/6933/256933v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "David",
+      "last_name": "McGrath",
+      "permalink": "david-mcgrath",
+      "image":
+       {"available_sizes":
+         [[[107,
+            150],
+           "assets/images/resized/0017/1468/171468v2-max-150x150.jpg"],
+          [[178,
+            250],
+           "assets/images/resized/0017/1468/171468v2-max-250x250.jpg"],
+          [[321,
+            450],
+           "assets/images/resized/0017/1468/171468v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Sjoquist",
+      "permalink": "andrew-sjoquist",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "eCX (Epsilon Capacity Exchange",
+      "permalink": "ecx-epsilon-capacity-exchange",
+      "image": null}}],
+ "providerships":
+  [{"title": "Hardware",
+    "is_past": false,
+    "provider":
+     {"name": "Cisco",
+      "permalink": "cisco-2",
+      "image": null}},
+   {"title": "Hardware",
+    "is_past": false,
+    "provider":
+     {"name": "NetApp",
+      "permalink": "netapp",
+      "image": null}},
+   {"title": "Data Centers",
+    "is_past": false,
+    "provider":
+     {"name": "Equinix",
+      "permalink": "equinix",
+      "image": null}},
+   {"title": "Data Centers",
+    "is_past": false,
+    "provider":
+     {"name": "NextDC",
+      "permalink": "nextdc",
+      "image": null}},
+   {"title": "Data Centers",
+    "is_past": false,
+    "provider":
+     {"name": "Global Switch",
+      "permalink": "global-switch",
+      "image": null}},
+   {"title": "Data Centers",
+    "is_past": false,
+    "provider":
+     {"name": "iSeek",
+      "permalink": "iseek",
+      "image": null}},
+   {"title": "Technology | Support",
+    "is_past": false,
+    "provider":
+     {"name": "ASE Networks",
+      "permalink": "ase-networks",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "Suite 301",
+    "address2": "44 Hampden Rd",
+    "zip_code": "2064",
+    "city": "Sydney",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -33.805708,
+    "longitude": 151.19287}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,320 @@
+{"name": "Featurestage",
+ "permalink": "featurestage",
+ "crunchbase_url": "http://www.crunchbase.com/company/featurestage",
+ "homepage_url": "http://featurestage.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "featurestage",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": 4,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "help-desk-software, issue-tracking, project-management, collaboration, cloud, saas, on-demand, collaboration-network",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "1-877-663-7824",
+ "description": "Collaboration in the Cloud",
+ "created_at": "Mon Jan 31 07:53:16 UTC 2011",
+ "updated_at": "Tue Apr 30 05:02:13 UTC 2013",
+ "overview": "",
+ "image":
+  {"available_sizes":
+    [[[138,
+       19],
+      "assets/images/resized/0014/7721/147721v2-max-150x150.png"],
+     [[138,
+       19],
+      "assets/images/resized/0014/7721/147721v2-max-250x250.png"],
+     [[138,
+       19],
+      "assets/images/resized/0014/7721/147721v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Curtis",
+      "permalink": "brian-curtis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Atlassian",
+      "permalink": "atlassian",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/2854/2854v3-max-150x150.png"],
+          [[250,
+            77],
+           "assets/images/resized/0000/2854/2854v3-max-250x250.png"],
+          [[450,
+            139],
+           "assets/images/resized/0000/2854/2854v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fog Creek Software",
+      "permalink": "fog-creek-software",
+      "image":
+       {"available_sizes":
+         [[[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-150x150.png"],
+          [[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-250x250.png"],
+          [[143,
+            38],
+           "assets/images/resized/0002/1729/21729v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Get Satisfaction",
+      "permalink": "satisfaction",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0000/0766/766v5-max-150x150.jpg"],
+          [[250,
+            58],
+           "assets/images/resized/0000/0766/766v5-max-250x250.jpg"],
+          [[450,
+            104],
+           "assets/images/resized/0000/0766/766v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kayako",
+      "permalink": "kayako",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0005/5466/55466v4-max-150x150.png"],
+          [[172,
+            57],
+           "assets/images/resized/0005/5466/55466v4-max-250x250.png"],
+          [[172,
+            57],
+           "assets/images/resized/0005/5466/55466v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zendesk",
+      "permalink": "zendesk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0002/2043/22043v1-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0002/2043/22043v1-max-250x250.png"],
+          [[399,
+            119],
+           "assets/images/resized/0002/2043/22043v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Unfuddle",
+      "permalink": "unfuddle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0006/5958/65958v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0006/5958/65958v1-max-250x250.png"],
+          [[270,
+            74],
+           "assets/images/resized/0006/5958/65958v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Desk",
+      "permalink": "assistly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0006/2667/62667v18-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0006/2667/62667v18-max-250x250.png"],
+          [[262,
+            93],
+           "assets/images/resized/0006/2667/62667v18-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Serena Software",
+      "permalink": "serena-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            14],
+           "assets/images/resized/0005/6244/56244v1-max-150x150.jpg"],
+          [[250,
+            23],
+           "assets/images/resized/0005/6244/56244v1-max-250x250.jpg"],
+          [[389,
+            37],
+           "assets/images/resized/0005/6244/56244v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Intuit",
+      "permalink": "intuit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6183/16183v3-max-150x150.png"],
+          [[250,
+            109],
+           "assets/images/resized/0001/6183/16183v3-max-250x250.png"],
+          [[450,
+            196],
+           "assets/images/resized/0001/6183/16183v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jive Software",
+      "permalink": "jive-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0000/0235/235v4-max-150x150.jpg"],
+          [[250,
+            119],
+           "assets/images/resized/0000/0235/235v4-max-250x250.jpg"],
+          [[420,
+            200],
+           "assets/images/resized/0000/0235/235v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "entp",
+      "permalink": "entp",
+      "image": null}},
+   {"competitor":
+     {"name": "ForeSee",
+      "permalink": "foresee-results",
+      "image":
+       {"available_sizes":
+         [[[85,
+            50],
+           "assets/images/resized/0004/7164/47164v3-max-150x150.jpg"],
+          [[85,
+            50],
+           "assets/images/resized/0004/7164/47164v3-max-250x250.jpg"],
+          [[85,
+            50],
+           "assets/images/resized/0004/7164/47164v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "OpinionLab",
+      "permalink": "opinionlab",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0009/1586/91586v5-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0009/1586/91586v5-max-250x250.png"],
+          [[450,
+            119],
+           "assets/images/resized/0009/1586/91586v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SurveyGizmo",
+      "permalink": "surveygizmo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0001/9950/19950v2-max-150x150.png"],
+          [[250,
+            42],
+           "assets/images/resized/0001/9950/19950v2-max-250x250.png"],
+          [[310,
+            53],
+           "assets/images/resized/0001/9950/19950v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SurveyMonkey",
+      "permalink": "surveymonkey",
+      "image":
+       {"available_sizes":
+         [[[150,
+            20],
+           "assets/images/resized/0004/1973/41973v7-max-150x150.png"],
+          [[250,
+            33],
+           "assets/images/resized/0004/1973/41973v7-max-250x250.png"],
+          [[300,
+            40],
+           "assets/images/resized/0004/1973/41973v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "556 Pinegrove Pl",
+    "address2": "",
+    "zip_code": "43230",
+    "city": "Gahanna",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,219 @@
+{"name": "Voicendo",
+ "permalink": "voicendo",
+ "crunchbase_url": "http://www.crunchbase.com/company/voicendo",
+ "homepage_url": "http://www.voicendo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "voicendo",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "phone, voice, telecommunications, voip, telephony, cloud",
+ "alias_list": null,
+ "email_address": "service@voicendo.com",
+ "phone_number": "",
+ "description": "Easily communicate everywhere.",
+ "created_at": "Tue Aug 10 02:13:54 UTC 2010",
+ "updated_at": "Tue Mar 26 04:31:11 UTC 2013",
+ "overview": "\u003Cp\u003EYour complete phone system in 5 minutes or less.\u003C/p\u003E\n\n\u003Cp\u003EVoicendo provides a user interface for small businesses and independent professionals to manage their incoming phone calls (even SMS) routed according to their call rules, routes, and variables, anywhere and however they like.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0009/6827/96827v4-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0009/6827/96827v4-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0009/6827/96827v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Garrett",
+      "last_name": "Wilson",
+      "permalink": "garrett-wilson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0009/1001/91001v9-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0009/1001/91001v9-max-250x250.png"],
+          [[279,
+            279],
+           "assets/images/resized/0009/1001/91001v9-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "RingCentral",
+      "permalink": "ringcentral",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0000/0970/970v4-max-150x150.jpg"],
+          [[250,
+            52],
+           "assets/images/resized/0000/0970/970v4-max-250x250.jpg"],
+          [[450,
+            94],
+           "assets/images/resized/0000/0970/970v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Grasshopper",
+      "permalink": "grasshopper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/4492/14492v7-max-150x150.png"],
+          [[215,
+            43],
+           "assets/images/resized/0001/4492/14492v7-max-250x250.png"],
+          [[215,
+            43],
+           "assets/images/resized/0001/4492/14492v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Line2",
+      "permalink": "toktumi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0003/1480/31480v9-max-150x150.png"],
+          [[223,
+            84],
+           "assets/images/resized/0003/1480/31480v9-max-250x250.png"],
+          [[223,
+            84],
+           "assets/images/resized/0003/1480/31480v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Line2",
+      "permalink": "toktumi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0003/1480/31480v9-max-150x150.png"],
+          [[223,
+            84],
+           "assets/images/resized/0003/1480/31480v9-max-250x250.png"],
+          [[223,
+            84],
+           "assets/images/resized/0003/1480/31480v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vonage",
+      "permalink": "vonage",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0002/3024/23024v1-max-150x150.png"],
+          [[181,
+            66],
+           "assets/images/resized/0002/3024/23024v1-max-250x250.png"],
+          [[181,
+            66],
+           "assets/images/resized/0002/3024/23024v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "twilio fund",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 3,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "500 Startups",
+         "permalink": "500-startups",
+         "image":
+          {"available_sizes":
+            [[[150,
+               104],
+              "assets/images/resized/0009/6288/96288v7-max-150x150.png"],
+             [[250,
+               173],
+              "assets/images/resized/0009/6288/96288v7-max-250x250.png"],
+             [[450,
+               312],
+              "assets/images/resized/0009/6288/96288v7-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "reinmkr capital",
+         "permalink": "reinmkr-inc",
+         "image":
+          {"available_sizes":
+            [[[150,
+               32],
+              "assets/images/resized/0011/2538/112538v5-max-150x150.png"],
+             [[250,
+               54],
+              "assets/images/resized/0011/2538/112538v5-max-250x250.png"],
+             [[266,
+               58],
+              "assets/images/resized/0011/2538/112538v5-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

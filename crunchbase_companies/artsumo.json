@@ -1,0 +1,145 @@
+{"name": "ArtSumo",
+ "permalink": "artsumo",
+ "crunchbase_url": "http://www.crunchbase.com/company/artsumo",
+ "homepage_url": "http://www.artsumo.com",
+ "blog_url": "http://www.artsumo.com",
+ "blog_feed_url": "http://feeds.feedburner.com/ArtSumoBlog",
+ "twitter_username": "artsumo",
+ "category_code": "ecommerce",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "art, ecommerce, discounts, shopping",
+ "alias_list": null,
+ "email_address": "naysawn@artsumo.com",
+ "phone_number": "7275603251",
+ "description": "Gallery quality art for cheap",
+ "created_at": "Tue Apr 12 18:49:08 UTC 2011",
+ "updated_at": "Tue Oct 30 02:31:33 UTC 2012",
+ "overview": "\u003Cp\u003EArt Sumo sells distinctive and unique handmade paintings for low prices.  They feature the work of artists in developing countries who are currently unknown in North America. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0013/0237/130237v3-max-150x150.jpg"],
+     [[182,
+       47],
+      "assets/images/resized/0013/0237/130237v3-max-250x250.jpg"],
+     [[182,
+       47],
+      "assets/images/resized/0013/0237/130237v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Naysawn",
+      "last_name": "Smith",
+      "permalink": "naysawn-naderi-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Etsy",
+      "permalink": "etsy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0000/2839/2839v7-max-150x150.png"],
+          [[234,
+            127],
+           "assets/images/resized/0000/2839/2839v7-max-250x250.png"],
+          [[234,
+            127],
+           "assets/images/resized/0000/2839/2839v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "eBay",
+      "permalink": "ebay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/3625/3625v1-max-150x150.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-250x250.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "World of Good",
+      "permalink": "world-of-good",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0006/0023/60023v2-max-150x150.png"],
+          [[250,
+            77],
+           "assets/images/resized/0006/0023/60023v2-max-250x250.png"],
+          [[256,
+            79],
+           "assets/images/resized/0006/0023/60023v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0013/0236/130236v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0013/0236/130236v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0013/0236/130236v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0013/3168/133168v2-max-150x150.png"],
+      [[250,
+        158],
+       "assets/images/resized/0013/3168/133168v2-max-250x250.png"],
+      [[450,
+        285],
+       "assets/images/resized/0013/3168/133168v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0013/3169/133169v2-max-150x150.png"],
+      [[250,
+        158],
+       "assets/images/resized/0013/3169/133169v2-max-250x250.png"],
+      [[450,
+        285],
+       "assets/images/resized/0013/3169/133169v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

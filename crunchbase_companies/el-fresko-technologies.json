@@ -1,0 +1,132 @@
+{"name": "El Fresko Technologies",
+ "permalink": "el-fresko-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/el-fresko-technologies",
+ "homepage_url": "http://www.elfresko.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 11,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "storage, archive, archival, compliance, replication, business-continuity, data-protection, data-storage, smb, professional-services, it, raid, nas, san, disk, disc, optical, worm, cloud, data-center, information-governance, ediscovery, financial, healthca",
+ "alias_list": null,
+ "email_address": "sean.orman@elfresko.com",
+ "phone_number": "403.265.5727",
+ "description": "Long-Term Storage \u0026 Compliance Archiving",
+ "created_at": "Thu Oct 21 23:23:23 UTC 2010",
+ "updated_at": "Fri Oct 22 20:44:13 UTC 2010",
+ "overview": "\u003Cp\u003EEl Fresko provides Small Businesses and Professional Services Firms such as Legal, Accounting, Financial, Healthcare with long-term data protection and compliance archiving solutions.\u003C/p\u003E\n\n\u003Cp\u003EMagnaStor is El Fresko\u0026#8217;s flagship product designed and developed to provide Managed Service Providers and Outsourced IT Providers a plug and play local storage solution that prevents file data from being modified, deleted or corrupted, by any user at any time. MagnaStor provides your customers with a reliable storage solution that ensures that vital business records are available when needed, for the long-term. \u003C/p\u003E\n\n\u003Cp\u003EThe  Sub-$15,000 market has been ignored by the major storage providers yet the regulatory needs and data protection requirements of small businesses are every bit as important. MagnaStor offers businesses all of the storage features of the major storage providers, replication, deduplication, WORM+, disaster recovery and business continuity etc., but at a cost that is affordable.\u003C/p\u003E\n\n\u003Cp\u003EBenefits:\n*Pay-as-you-grow scaling units, pay for only what you need \n*MagnaStor is hardware independent\u003Cbr/\u003E\n*Simple, easy to use, no training required\n*Quick and easy install, very low maintenance\n*Real-time/automatic replication to cloud storage\n*Business Continuity is ensured\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Fowlie",
+      "permalink": "mark-fowlie",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business Development \u0026 COO",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Orman",
+      "permalink": "sean-orman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "EMC",
+      "permalink": "emc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/1658/21658v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/1658/21658v2-max-250x250.png"],
+          [[400,
+            400],
+           "assets/images/resized/0002/1658/21658v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NetApp",
+      "permalink": "netapp",
+      "image":
+       {"available_sizes":
+         [[[88,
+            94],
+           "assets/images/resized/0002/2829/22829v1-max-150x150.png"],
+          [[88,
+            94],
+           "assets/images/resized/0002/2829/22829v1-max-250x250.png"],
+          [[88,
+            94],
+           "assets/images/resized/0002/2829/22829v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ProStor Systems",
+      "permalink": "prostor-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0008/7700/87700v1-max-150x150.jpg"],
+          [[237,
+            74],
+           "assets/images/resized/0008/7700/87700v1-max-250x250.jpg"],
+          [[237,
+            74],
+           "assets/images/resized/0008/7700/87700v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Check Point Software Technologies",
+      "permalink": "check-point",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0002/0810/20810v2-max-150x150.png"],
+          [[250,
+            41],
+           "assets/images/resized/0002/0810/20810v2-max-250x250.png"],
+          [[287,
+            48],
+           "assets/images/resized/0002/0810/20810v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "#14, 6320 11 St SE",
+    "address2": "",
+    "zip_code": "T2H 2L7",
+    "city": "Calgary",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

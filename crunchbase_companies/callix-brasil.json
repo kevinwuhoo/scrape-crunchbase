@@ -1,0 +1,161 @@
+{"name": "Callix Brasil",
+ "permalink": "callix-brasil",
+ "crunchbase_url": "http://www.crunchbase.com/company/callix-brasil",
+ "homepage_url": "http://www.callixbrasil.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "callixbrasil",
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "call-center, software, system, contact-center, virtual-pabx, communications",
+ "alias_list": null,
+ "email_address": "comercial@callixbrasil.com",
+ "phone_number": "+55 11 40634222",
+ "description": "Call center software company",
+ "created_at": "Thu Jan 17 19:21:49 UTC 2013",
+ "updated_at": "Fri Apr 12 18:20:46 UTC 2013",
+ "overview": "\u003Cp\u003ECallix provides cloud-based communication software solutions for business. Its main advantage is the lack of need for any type of infrastructure expenses, plus additional cloud benefits: mobility, scalability and economy.\u003C/p\u003E\n\n\u003Cp\u003EIts portfolio includes: \u003C/p\u003E\n\n\u003Cp\u003ECallix 3C \u2013 Cloud Contact Center: An online system for call center management and operation.\u003C/p\u003E\n\n\u003Cp\u003ECallix PABX Virtual: A full virtual PBX system with reports and call recording.\u003C/p\u003E\n\n\u003Cp\u003ECallix Click \u0026amp; Fale: A button that generates calls from any website to a call center, landline or mobile phone.\u003C/p\u003E\n\n\u003Cp\u003ECallix Torpedos: An online system for sending SMS and voice mails.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0023/0782/230782v2-max-150x150.jpg"],
+     [[200,
+       65],
+      "assets/images/resized/0023/0782/230782v2-max-250x250.jpg"],
+     [[200,
+       65],
+      "assets/images/resized/0023/0782/230782v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Marcos",
+      "last_name": "Alves",
+      "permalink": "marcos-alves",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "CallFire",
+      "permalink": "callfire-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0006/3929/63929v7-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0006/3929/63929v7-max-250x250.png"],
+          [[403,
+            142],
+           "assets/images/resized/0006/3929/63929v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LiveOps",
+      "permalink": "liveops",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/5733/15733v1-max-150x150.jpg"],
+          [[150,
+            44],
+           "assets/images/resized/0001/5733/15733v1-max-250x250.jpg"],
+          [[150,
+            44],
+           "assets/images/resized/0001/5733/15733v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Five9",
+      "permalink": "five9",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0003/2640/32640v2-max-150x150.png"],
+          [[250,
+            112],
+           "assets/images/resized/0003/2640/32640v2-max-250x250.png"],
+          [[392,
+            176],
+           "assets/images/resized/0003/2640/32640v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "inContact",
+      "permalink": "incontact",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0004/2386/42386v2-max-150x150.png"],
+          [[250,
+            92],
+           "assets/images/resized/0004/2386/42386v2-max-250x250.png"],
+          [[260,
+            96],
+           "assets/images/resized/0004/2386/42386v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Trindade Investimentos",
+         "permalink": "trindade-investimentos",
+         "image":
+          {"available_sizes":
+            [[[150,
+               31],
+              "assets/images/resized/0012/1719/121719v2-max-150x150.png"],
+             [[250,
+               52],
+              "assets/images/resized/0012/1719/121719v2-max-250x250.png"],
+             [[450,
+               93],
+              "assets/images/resized/0012/1719/121719v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "S\u00e3o Paulo",
+    "address1": "Alameda Vicente Pinzon, 144 cj 122",
+    "address2": "Vila Ol\u00edmpia",
+    "zip_code": "04547-130",
+    "city": "S\u00e3o Paulo",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": -23.5970793,
+    "longitude": -46.6867602}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

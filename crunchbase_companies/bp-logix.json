@@ -1,0 +1,161 @@
+{"name": "BP Logix",
+ "permalink": "bp-logix",
+ "crunchbase_url": "http://www.crunchbase.com/company/bp-logix",
+ "homepage_url": "http://www.bplogix.com",
+ "blog_url": "http://blog.bplogix.com/",
+ "blog_feed_url": "",
+ "twitter_username": "ESMatBPL",
+ "category_code": "software",
+ "number_of_employees": 25,
+ "founded_year": 1995,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "business-process-management, bpm-software, workflow-software, workflow-management, workflow-management-software, business-process-automation, workflow-automation",
+ "alias_list": null,
+ "email_address": "info@bplogix.com",
+ "phone_number": "760-643-4121",
+ "description": "Developer of web-based BPM solutions",
+ "created_at": "Thu Feb 17 22:06:47 UTC 2011",
+ "updated_at": "Sat Feb 19 22:36:39 UTC 2011",
+ "overview": "\u003Cp\u003EBP Logix created Process Director 2.0, the first product to introduce the dimension of time into business process management (BPM) and workflow software. Process Director learns over time how processes behave, predicting the impact of changing business conditions. From Onboarding, invoice processing, change control and provisioning to rapid process discovery, BP Logix provides business users with both on-premise and Cloud-based solutions that enable users to more effectively manage their business processes. \u003C/p\u003E\n\n\u003Cp\u003EWith Process Director 2.0, BP Logix is also the first company to offer Process Timeline\u00e2\u201e\u00a2 technology that enables companies to predict the impact of actions and activities on running processes. This technology forms the basis for Predictive BPM\u00e2\u201e\u00a2 (pBPM\u00e2\u201e\u00a2), providing business users with advanced notice of potential delays, leading to faster and more accurate decision-making. Users can anticipate the impact of processes that are running long or late, as well as any processes that are finishing ahead of their due dates. This enables business managers to adjust the processes, resulting in greater agility \u00e2\u20ac\u201d and greater control over the processes themselves. pBPM makes it possible to look at business decisions with greater detail and within tighter timeframes.\u003C/p\u003E\n\n\u003Cp\u003EUnlike other BPM solutions, Process Director enables users to take pre-emptive action. They can see, at a glance, how long a process \u00e2\u20ac\u201d and every activity within that process \u00e2\u20ac\u201d is likely to take, based on the original Process Timeline\u00e2\u201e\u00a2 definition and the previous behaviour of each activity. Combined with traditional flowchart-based workflows, the Process Timeline\u00e2\u201e\u00a2 offers a more powerful, business-friendly solution for controlling key business processes.\u003C/p\u003E\n\n\u003Cp\u003EWhat makes Process Director 2.0 stand out:\u003C/p\u003E\n\n\u003Cpre\u003E\u003Ccode\u003E* Only BPM product with Predictive capabilities: enables faster decisions on running processes\n* Only BPM product providing a timeline modelling interface\n* Solves business process management problems faster and less expensively than any other product\n* Easy to use, and requires no programming\n\u003C/code\u003E\u003C/pre\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0012/2665/122665v2-max-150x150.jpg"],
+     [[250,
+       70],
+      "assets/images/resized/0012/2665/122665v2-max-250x250.jpg"],
+     [[450,
+       126],
+      "assets/images/resized/0012/2665/122665v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jay",
+      "last_name": "O'Brien",
+      "permalink": "jay-obrien",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Business Solutions",
+    "person":
+     {"first_name": "E.",
+      "last_name": "Scott Menter",
+      "permalink": "e-scott-menter",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Development",
+    "person":
+     {"first_name": "Joby",
+      "last_name": "O'Brien",
+      "permalink": "joby-obrien",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Marketing",
+    "person":
+     {"first_name": "Marti",
+      "last_name": "Colwell",
+      "permalink": "marti-colwell",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Appian",
+      "permalink": "appian",
+      "image":
+       {"available_sizes":
+         [[[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-150x150.png"],
+          [[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-250x250.png"],
+          [[138,
+            77],
+           "assets/images/resized/0002/1018/21018v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Singularity",
+      "permalink": "singularity",
+      "image":
+       {"available_sizes":
+         [[[131,
+            29],
+           "assets/images/resized/0006/7698/67698v1-max-150x150.png"],
+          [[131,
+            29],
+           "assets/images/resized/0006/7698/67698v1-max-250x250.png"],
+          [[131,
+            29],
+           "assets/images/resized/0006/7698/67698v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PerfectForms",
+      "permalink": "perfectforms",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0005/0225/50225v1-max-150x150.png"],
+          [[196,
+            84],
+           "assets/images/resized/0005/0225/50225v1-max-250x250.png"],
+          [[196,
+            84],
+           "assets/images/resized/0005/0225/50225v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Integrify",
+      "permalink": "integrify",
+      "image": null}},
+   {"competitor":
+     {"name": "WorkflowGen",
+      "permalink": "workflowgen",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "410 S.Melrose Ave",
+    "address2": "Ste 100",
+    "zip_code": "92081",
+    "city": "Vista",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        102],
+       "assets/images/resized/0012/2664/122664v2-max-150x150.jpg"],
+      [[250,
+        170],
+       "assets/images/resized/0012/2664/122664v2-max-250x250.jpg"],
+      [[450,
+        306],
+       "assets/images/resized/0012/2664/122664v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.bplogix.com/docs/whitepapers/BPLogix-Process-Timeline-White-Paper.pdf.",
+    "title": "Adding the Dimension of Time to BPM"}]}

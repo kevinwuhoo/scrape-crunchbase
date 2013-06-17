@@ -1,0 +1,104 @@
+{"name": "MDCapsule",
+ "permalink": "mdcapsule",
+ "crunchbase_url": "http://www.crunchbase.com/company/mdcapsule",
+ "homepage_url": "http://mdcapsule.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mdcapsule",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "health exchange IT",
+ "created_at": "Mon Apr 01 01:19:37 UTC 2013",
+ "updated_at": "Thu Apr 04 18:17:19 UTC 2013",
+ "overview": "\u003Cp\u003EMDCapsule helps consumers create their own online health and wellness provider community. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0024/8095/248095v2-max-150x150.jpg"],
+     [[155,
+       66],
+      "assets/images/resized/0024/8095/248095v2-max-250x250.jpg"],
+     [[155,
+       66],
+      "assets/images/resized/0024/8095/248095v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "cofounder, chief medical officer",
+    "person":
+     {"first_name": "Nathalie",
+      "last_name": "Majorek",
+      "permalink": "nathalie-majorek",
+      "image": null}},
+   {"is_past": false,
+    "title": "cofounder, CFO",
+    "person":
+     {"first_name": "Celina",
+      "last_name": "Hanson",
+      "permalink": "celina-hanson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Athena Health/Epocrates",
+      "permalink": "athena-health-epocrates",
+      "image": null}},
+   {"competitor":
+     {"name": "Epic",
+      "permalink": "epic",
+      "image": null}},
+   {"competitor":
+     {"name": "itriage",
+      "permalink": "itriage",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 6,
+    "funded_day": 21,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "113 2nd st",
+    "address2": "",
+    "zip_code": "",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.3678507,
+    "longitude": -71.0793037}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

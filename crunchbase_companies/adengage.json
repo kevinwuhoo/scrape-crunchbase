@@ -1,0 +1,130 @@
+{"name": "AdEngage",
+ "permalink": "adengage",
+ "crunchbase_url": "http://www.crunchbase.com/company/adengage",
+ "homepage_url": "http://adengage.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 12,
+ "founded_year": 2004,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "john@adengage.com",
+ "phone_number": "+1 (888) 459-4590",
+ "description": null,
+ "created_at": "Wed Mar 19 05:38:56 UTC 2008",
+ "updated_at": "Mon Jan 30 17:38:59 UTC 2012",
+ "overview": "\u003Cp\u003EAdEngage operates a major online advertising network that displays ads on more than 4000 websites and works with thousands of advertisers to display over 12 billion ads every month. The network acts as an exchange between advertisers and publishers.\u003C/p\u003E\n\n\u003Cp\u003EThe network enables online ad purchases, collects funds via credit card, PayPal, bank wire and other payment methods, serves ads, gathers statistics, provides fraud control and clears funds to the parties via choice of check, PayPal, ePassporte, Western Union, and wire transfer.\u003C/p\u003E\n\n\u003Cp\u003EThe company offers industry leading online ad creation tools for creating ad spaces that integrate seamlessly into a publisher website, while featuring industry leading 75% remuneration to publishers, 15 days after end of a billing period.\u003C/p\u003E\n\n\u003Cp\u003EAdEngage currently supports text and Pho-Text ads (hybrid text/photo). In addition, the company offers white label branded solutions for select publishers and publisher groups.\u003C/p\u003E\n\n\u003Cp\u003EAdengage is owned by a Robert Martin, and the company is based in El Segundo, CA. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0001/5957/15957v1-max-150x150.jpg"],
+     [[191,
+       36],
+      "assets/images/resized/0001/5957/15957v1-max-250x250.jpg"],
+     [[191,
+       36],
+      "assets/images/resized/0001/5957/15957v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "AdEngage",
+    "permalink": "adengage",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Marston",
+      "permalink": "john-marston",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder/Board Member",
+    "person":
+     {"first_name": "Ted",
+      "last_name": "Johnson",
+      "permalink": "ted-johnson",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder/Chairman",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Katinsky",
+      "permalink": "steve-katinsky",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Etology",
+      "permalink": "etology",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0003/5347/35347v1-max-150x150.png"],
+          [[250,
+            30],
+           "assets/images/resized/0003/5347/35347v1-max-250x250.png"],
+          [[323,
+            40],
+           "assets/images/resized/0003/5347/35347v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "stock",
+   "source_url": "http://www.techcrunch.com/2008/10/15/technorati-acquires-adengage-advertising-network/",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 10,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Technorati",
+     "permalink": "technorati",
+     "image":
+      {"available_sizes":
+        [[[150,
+           35],
+          "assets/images/resized/0001/0740/10740v1-max-150x150.png"],
+         [[250,
+           59],
+          "assets/images/resized/0001/0740/10740v1-max-250x250.png"],
+         [[379,
+           90],
+          "assets/images/resized/0001/0740/10740v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "101 Continental Blvd.  ",
+    "address2": "",
+    "zip_code": "90245",
+    "city": "El Segundo",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.917031,
+    "longitude": -118.392564}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,134 @@
+{"name": "Security Brigade",
+ "permalink": "security-brigade",
+ "crunchbase_url": "http://www.crunchbase.com/company/security-brigade",
+ "homepage_url": "http://www.securitybrigade.com/",
+ "blog_url": "http://blog.securitybrigade.com/",
+ "blog_feed_url": "http://blog.securitybrigade.com/feed/",
+ "twitter_username": "securitybrigade",
+ "category_code": "security",
+ "number_of_employees": 20,
+ "founded_year": 2006,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "penetration-testing, application-security, website-security, network-security, source-code-audit",
+ "alias_list": null,
+ "email_address": "contactus@securitybrigade.com",
+ "phone_number": "+91-022-65264585",
+ "description": "Manual Web-Application Penetration Testi",
+ "created_at": "Tue Apr 23 10:57:52 UTC 2013",
+ "updated_at": "Mon Apr 29 16:02:10 UTC 2013",
+ "overview": "\u003Cp\u003ESecurity Brigade was founded in 2006 specifically to cater to customers looking for manual application security services that focus on both technical and business logic testing. Automated tools are great and we couldn\u0026#8217;t do our jobs well without them - however they are only one piece of the puzzle.\u003C/p\u003E\n\n\u003Cp\u003EFor us, the real value to an audit comes from:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EIntegrating tools and automation to maximize auditor efficiency and eliminate unintelligent tasks\u003C/li\u003E\n\u003Cli\u003EBuilding strong processes that allow auditors to only focus on tasks where their involvement adds direct value\u003C/li\u003E\n\u003Cli\u003EUsing our workflow driven audit management system to ensure sustained quality through approvals, reviews and benchmarks\u003C/li\u003E\n\u003Cli\u003EDelivering reports that don\u0026#8217;t just fill pages but also deliver real and long-term value to developers and administrators\u003C/li\u003E\n\u003Cli\u003EEnsuring a fast turn-around-time from audit to fixed in production by providing secure code and configuration examples\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003ESecurity Brigade is a pure-play information security consulting firm specializing in delivering high quality services through expert driven manual testing. With a core focus on Penetration Testing, Vulnerability Assessment, Web Application Security and Source Code Security Audit. Security Brigade is founded on the core belief that \u0026#8220;Great audits are done by great auditors - not expensive tools\u0026#8221;. Security Brigade\u0026#8217;s approach is built around strong processes that enable auditors to conduct in-depth manual security audits. Security Brigade\u0026#8217;s proprietary E.D.I.T.E platform provides a workflow based testing engine that encapsulates the complete audit process. It allows expert auditors to follow am in-depth manual testing processes while assisted by a combination of proprietary, open-source and commercial technology.\u003C/p\u003E\n\n\u003Cp\u003ESecurity Brigade is based out of Mumbai, India and was founded in December 2006. It conducts thousands of audits a year for organizations such as: MakeMyTrip, Network 18, Tata Group, HDFC, Vodafone, IRDA, Reliance Money, and Netmagic Solutions among many others.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Yash",
+      "last_name": "Kadakia",
+      "permalink": "yash-kadakia",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "WhiteHat Security",
+      "permalink": "whitehat-security",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0003/2077/32077v1-max-150x150.png"],
+          [[220,
+            50],
+           "assets/images/resized/0003/2077/32077v1-max-250x250.png"],
+          [[220,
+            50],
+           "assets/images/resized/0003/2077/32077v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Veracode",
+      "permalink": "veracode",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0003/2950/32950v1-max-150x150.png"],
+          [[237,
+            45],
+           "assets/images/resized/0003/2950/32950v1-max-250x250.png"],
+          [[237,
+            45],
+           "assets/images/resized/0003/2950/32950v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "McAfee",
+      "permalink": "mcafee",
+      "image":
+       {"available_sizes":
+         [[[123,
+            38],
+           "assets/images/resized/0024/1865/241865v1-max-150x150.png"],
+          [[123,
+            38],
+           "assets/images/resized/0024/1865/241865v1-max-250x250.png"],
+          [[123,
+            38],
+           "assets/images/resized/0024/1865/241865v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IBM Security Services",
+      "permalink": "ibm-security-services",
+      "image": null}},
+   {"competitor":
+     {"name": "Cenzic",
+      "permalink": "cenzic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0002/2942/22942v1-max-150x150.png"],
+          [[224,
+            66],
+           "assets/images/resized/0002/2942/22942v1-max-250x250.png"],
+          [[224,
+            66],
+           "assets/images/resized/0002/2942/22942v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Mumbai",
+    "address1": "B/20 3rd Floor, Everest Building",
+    "address2": "Tardeo Road",
+    "zip_code": "400034",
+    "city": "Mumbai",
+    "state_code": null,
+    "country_code": "IND",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.hindustantimes.com/special-news-report/News-Feed/IT-Tech-that/Article1-282822.aspx",
+    "title": "IT: Tech that"},
+   {"external_url": "http://www.hindustantimes.com/News-Feed/gadgets/Byte-that/Article1-333791.aspx",
+    "title": "Byte that"},
+   {"external_url": "http://www.educationworldonline.net/index.php/page-article-choice-more-id-3198",
+    "title": "Galloping demand for ethical hackers"}]}

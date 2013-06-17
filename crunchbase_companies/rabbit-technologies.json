@@ -1,0 +1,162 @@
+{"name": "Rabbit Technologies",
+ "permalink": "rabbit-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/rabbit-technologies",
+ "homepage_url": "http://www.rabbitmq.com",
+ "blog_url": "http://www.lshift.net/blog/category/lshift-sw/rabbitmq",
+ "blog_feed_url": "http://www.lshift.net/blog/feed",
+ "twitter_username": "rabbitmq",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software, opensource, cloud, messaging, amqp, xmpp, web",
+ "alias_list": null,
+ "email_address": "info@rabbitmq.com",
+ "phone_number": "44 77 9865 2911",
+ "description": "Commercial company for RabbitMQ",
+ "created_at": "Thu Jun 18 06:53:04 UTC 2009",
+ "updated_at": "Tue Apr 13 21:05:09 UTC 2010",
+ "overview": "\u003Cp\u003EWe develop and market RabbitMQ, the leading open source messaging server.  Messaging is a fundamental technology needed for \u0026#8220;data in motion\u0026#8221;.  RabbitMQ is most popular for cloud applications and the real time web.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0004/9304/49304v4-max-150x150.png"],
+     [[204,
+       37],
+      "assets/images/resized/0004/9304/49304v4-max-250x250.png"],
+     [[204,
+       37],
+      "assets/images/resized/0004/9304/49304v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "RabbitMQ",
+    "permalink": "rabbitmq",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alexis",
+      "last_name": "Richardson",
+      "permalink": "alexis-richardson",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Red Hat",
+      "permalink": "red-hat",
+      "image":
+       {"available_sizes":
+         [[[150,
+            147],
+           "assets/images/resized/0002/1264/21264v2-max-150x150.png"],
+          [[250,
+            245],
+           "assets/images/resized/0002/1264/21264v2-max-250x250.png"],
+          [[345,
+            339],
+           "assets/images/resized/0002/1264/21264v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "IMatix",
+      "permalink": "imatix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0012/2617/122617v1-max-150x150.jpg"],
+          [[250,
+            103],
+           "assets/images/resized/0012/2617/122617v1-max-250x250.jpg"],
+          [[260,
+            108],
+           "assets/images/resized/0012/2617/122617v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Microsoft",
+      "permalink": "microsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Progress Software",
+      "permalink": "progress-software",
+      "image":
+       {"available_sizes":
+         [[[146,
+            55],
+           "assets/images/resized/0001/9519/19519v1-max-150x150.png"],
+          [[146,
+            55],
+           "assets/images/resized/0001/9519/19519v1-max-250x250.png"],
+          [[146,
+            55],
+           "assets/images/resized/0001/9519/19519v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2010/04/13/springsource-rabbit/",
+   "source_description": "SpringSource Acquires UK-based Open Source Company Rabbit Technologies",
+   "acquired_year": 2010,
+   "acquired_month": 4,
+   "acquired_day": 13,
+   "acquiring_company":
+    {"name": "SpringSource",
+     "permalink": "springsource",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0002/3042/23042v1-max-150x150.png"],
+         [[214,
+           73],
+          "assets/images/resized/0002/3042/23042v1-max-250x250.png"],
+         [[214,
+           73],
+          "assets/images/resized/0002/3042/23042v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London HQ",
+    "address1": "First Floor Office",
+    "address2": "6 Rufus St",
+    "zip_code": "N1 6PE",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.55738,
+    "longitude": -0.27548}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.rabbitmq.com/how",
+    "title": "selection of interesting links"}]}

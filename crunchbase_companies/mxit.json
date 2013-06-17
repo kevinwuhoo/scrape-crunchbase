@@ -1,0 +1,132 @@
+{"name": "Mxit",
+ "permalink": "mxit",
+ "crunchbase_url": "http://www.crunchbase.com/company/mxit",
+ "homepage_url": "http://mxit.com",
+ "blog_url": "http://blog.mxit.com",
+ "blog_feed_url": "",
+ "twitter_username": "mxit",
+ "category_code": "mobile",
+ "number_of_employees": 125,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, social, social-network, africa, apps, api, platform",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "+27 21 888 7000",
+ "description": "Africa's largest social network",
+ "created_at": "Fri Apr 20 12:51:01 UTC 2012",
+ "updated_at": "Wed Apr 03 17:46:50 UTC 2013",
+ "overview": "\u003Cp\u003EMxit is Africa\u0026#8217;s largest mobile social network. Users can share updates, chat with friends, send messages, exchange images, and upload and download media.\u003C/p\u003E\n\n\u003Cp\u003EThe Mxit API allows developers to access and integrate Mxit with other applications, and to create new applications. Available API methods include: sending and receiving messages, listing and retrieving elements, and managing user accounts.\u003C/p\u003E\n\n\u003Cp\u003EMxit Moola, Mxit\u2019s own internal currency, gives users access to premium features such as apps, skins, wallpapers and other digital goods.\u003C/p\u003E\n\n\u003Cp\u003EMxit has over 50 million users worldwide, runs on close to 3000 models of mobile devices, and has active users predominantly in Africa.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0018/7847/187847v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0018/7847/187847v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0018/7847/187847v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Francois",
+      "last_name": "Swart",
+      "permalink": "francois-swart",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Marnus",
+      "last_name": "Freeman",
+      "permalink": "marnus-freeman",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alan",
+      "last_name": "Knott-Craig",
+      "permalink": "alan-knott-craig-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Herman",
+      "last_name": "Heunis",
+      "permalink": "herman-heunis",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Ad Network",
+    "is_past": false,
+    "provider":
+     {"name": "Shinka",
+      "permalink": "shinka",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0018/7843/187843v2-max-150x150.png"],
+          [[250,
+            93],
+           "assets/images/resized/0018/7843/187843v2-max-250x250.png"],
+          [[450,
+            167],
+           "assets/images/resized/0018/7843/187843v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "Market Research",
+    "is_past": false,
+    "provider":
+     {"name": "Pondering Panda",
+      "permalink": "pondering-panda",
+      "image":
+       {"available_sizes":
+         [[[132,
+            150],
+           "assets/images/resized/0018/9652/189652v2-max-150x150.png"],
+          [[221,
+            250],
+           "assets/images/resized/0018/9652/189652v2-max-250x250.png"],
+          [[398,
+            450],
+           "assets/images/resized/0018/9652/189652v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Ground Floor, La Gratitude Building",
+    "address2": "97 Dorp Street",
+    "zip_code": "7600",
+    "city": "Stellenbosch",
+    "state_code": null,
+    "country_code": "ZAF",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://code.mxit.com",
+    "title": "Mxit Developer Centre"}]}

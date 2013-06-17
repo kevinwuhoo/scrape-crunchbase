@@ -1,0 +1,159 @@
+{"name": "NowThisNews",
+ "permalink": "nowthisnews",
+ "crunchbase_url": "http://www.crunchbase.com/company/nowthisnews",
+ "homepage_url": "http://www.nowthisnews.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "nowthisnews",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Jan 31 20:55:51 UTC 2013",
+ "updated_at": "Thu May 09 10:21:56 UTC 2013",
+ "overview": "\u003Cp\u003EA brand new video network built from scratch for people who get their news on mobile devices and through social streams.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0026/0410/260410v1-max-150x150.png"],
+     [[250,
+       52],
+      "assets/images/resized/0026/0410/260410v1-max-250x250.png"],
+     [[399,
+       84],
+      "assets/images/resized/0026/0410/260410v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Theo",
+      "last_name": "Burry",
+      "permalink": "theo-burry",
+      "image": null}},
+   {"is_past": false,
+    "title": "SVP of Strategy \u0026 Business Development",
+    "person":
+     {"first_name": "Frank",
+      "last_name": "Kavilanz",
+      "permalink": "frank-kavilanz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Production",
+    "person":
+     {"first_name": "Steven",
+      "last_name": "Belser",
+      "permalink": "steven-belser",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$4.8M",
+ "funding_rounds":
+  [{"round_code": "private_equity",
+    "source_url": "http://venturebeat.com/2013/05/08/nowthisnews-funding/",
+    "source_description": "NowThisNews raises $4.8M to be the Buzzfeed of video journalism",
+    "raised_amount": 4800000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 8,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Bedrocket Media Ventures",
+         "permalink": "bedrocket-media-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               43],
+              "assets/images/resized/0022/6262/226262v1-max-150x150.jpg"],
+             [[212,
+               61],
+              "assets/images/resized/0022/6262/226262v1-max-250x250.jpg"],
+             [[212,
+               61],
+              "assets/images/resized/0022/6262/226262v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Oak Investment Partners",
+         "permalink": "oak-investment-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               60],
+              "assets/images/resized/0001/5086/15086v4-max-150x150.png"],
+             [[193,
+               78],
+              "assets/images/resized/0001/5086/15086v4-max-250x250.png"],
+             [[193,
+               78],
+              "assets/images/resized/0001/5086/15086v4-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Lerer Ventures",
+         "permalink": "lerer-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               5],
+              "assets/images/resized/0008/9468/89468v1-max-150x150.png"],
+             [[250,
+               9],
+              "assets/images/resized/0008/9468/89468v1-max-250x250.png"],
+             [[450,
+               16],
+              "assets/images/resized/0008/9468/89468v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "SoftBank Capital",
+         "permalink": "softbank-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               36],
+              "assets/images/resized/0000/3955/3955v3-max-150x150.png"],
+             [[250,
+               60],
+              "assets/images/resized/0000/3955/3955v3-max-250x250.png"],
+             [[358,
+               86],
+              "assets/images/resized/0000/3955/3955v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,125 @@
+{"name": "Flipzu",
+ "permalink": "flipzu",
+ "crunchbase_url": "http://www.crunchbase.com/company/flipzu",
+ "homepage_url": "http://flipzu.com",
+ "blog_url": "http://blog.flipzu.com",
+ "blog_feed_url": "http://blog.flipzu.com/feeds/posts/default",
+ "twitter_username": "flipzu",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": 2012,
+ "deadpooled_month": 6,
+ "deadpooled_day": null,
+ "deadpooled_url": "http://thanks.flipzu.com/",
+ "tag_list": "broadcast, live, radio, band, sound",
+ "alias_list": null,
+ "email_address": "lucas@flipzu.com",
+ "phone_number": "+5491166215845",
+ "description": "Cool live audio broadcast system",
+ "created_at": "Fri May 14 16:14:33 UTC 2010",
+ "updated_at": "Sat Jun 09 23:35:27 UTC 2012",
+ "overview": "\u003Cp\u003EFlipzu is an Audio Broadcasting System: You click a button, and you are live on the internet. \u003C/p\u003E\n\n\u003Cp\u003EYou can live broadcast audio to all your Facebook and Twitter contacts\u003C/p\u003E\n\n\u003Cp\u003EYou can:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EBroadcast your band\u003C/li\u003E\n\u003Cli\u003EMake your radio show \u003C/li\u003E\n\u003Cli\u003EInterview people on the street\u003C/li\u003E\n\u003Cli\u003E\u0026#8230; or Share a live show with your buddies.\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EWorks in iPhone/iPad/Android\u003C/p\u003E\n\n\u003Cp\u003EIf you want to integrate with our API, contact us at lucas@flipzu.com\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       77],
+      "assets/images/resized/0009/0763/90763v6-max-150x150.png"],
+     [[152,
+       79],
+      "assets/images/resized/0009/0763/90763v6-max-250x250.png"],
+     [[152,
+       79],
+      "assets/images/resized/0009/0763/90763v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Dario",
+      "last_name": "Rapisardi",
+      "permalink": "dario-rapisardi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            138],
+           "assets/images/resized/0010/5976/105976v2-max-150x150.jpg"],
+          [[246,
+            227],
+           "assets/images/resized/0010/5976/105976v2-max-250x250.jpg"],
+          [[246,
+            227],
+           "assets/images/resized/0010/5976/105976v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Lucas",
+      "last_name": "Lain",
+      "permalink": "lucas-lain",
+      "image":
+       {"available_sizes":
+         [[[103,
+            150],
+           "assets/images/resized/0007/0361/70361v4-max-150x150.jpg"],
+          [[172,
+            250],
+           "assets/images/resized/0007/0361/70361v4-max-250x250.jpg"],
+          [[310,
+            450],
+           "assets/images/resized/0007/0361/70361v4-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EEntrepreneur\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$150k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 13,
+    "investments":
+     [{"company":
+        {"name": "PMOVIL",
+         "permalink": "pmovil",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Flipzu closed because could not get proper traction. ",
+    "stoned_year": 2012,
+    "stoned_month": 6,
+    "stoned_day": 7,
+    "source_url": "http://thanks.flipzu.com",
+    "source_text": null,
+    "source_description": "Flipzu Thanks Page",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Flipzu",
+      "permalink": "flipzu"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

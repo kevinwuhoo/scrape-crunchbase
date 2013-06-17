@@ -1,0 +1,116 @@
+{"name": "Hello World!",
+ "permalink": "hello-world-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/hello-world-2",
+ "homepage_url": "http://hellowrld.ru",
+ "blog_url": "https://www.facebook.com/hellotothewrld",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "public_relations",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "local, messaging, share, advertising, network, deals, offers, things, photos, talks, meet-ups, discounts, news",
+ "alias_list": null,
+ "email_address": "che@wonderwork.me",
+ "phone_number": "+79639985715",
+ "description": "Local Messaging Platform",
+ "created_at": "Wed Dec 12 14:04:48 UTC 2012",
+ "updated_at": "Tue Dec 18 08:41:20 UTC 2012",
+ "overview": "\u003Cp\u003EHello World is an interactive tool for local messaging and sharing what\u2019s happening nearby.\u003C/p\u003E\n\n\u003Cp\u003EGet the latest news from individuals and places, shop discounts, lunch deals from cafes \u0026amp; restaurants, nearest taxi contacts and many amazing novelties.\u003C/p\u003E\n\n\u003Cp\u003EHello World gives you the immediate access to all breaking news in your location.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       100],
+      "assets/images/resized/0022/5057/225057v2-max-150x150.jpg"],
+     [[180,
+       120],
+      "assets/images/resized/0022/5057/225057v2-max-250x250.jpg"],
+     [[180,
+       120],
+      "assets/images/resized/0022/5057/225057v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founcer",
+    "person":
+     {"first_name": "Ivan",
+      "last_name": "Cherepukhin",
+      "permalink": "ivan-cherepukhin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/5918/225918v2-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0022/5918/225918v2-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0022/5918/225918v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://blog.500startups.com/2011/06/09/500-fast-furious-accelerator/",
+    "source_description": "FITTY GRAND FOR TEH FAST \u0026 FURIOUS #500STRONG #WINNING",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "500 Startups",
+         "permalink": "500-startups",
+         "image":
+          {"available_sizes":
+            [[[150,
+               104],
+              "assets/images/resized/0009/6288/96288v7-max-150x150.png"],
+             [[250,
+               173],
+              "assets/images/resized/0009/6288/96288v7-max-250x250.png"],
+             [[450,
+               312],
+              "assets/images/resized/0009/6288/96288v7-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main",
+    "address1": "Timura Frunze st. 11",
+    "address2": "",
+    "zip_code": "119146",
+    "city": "Moscow",
+    "state_code": null,
+    "country_code": "RUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://hellowrld.ru",
+    "title": "Platform Website"},
+   {"external_url": "http://wonderwork.me",
+    "title": "Developer"}]}

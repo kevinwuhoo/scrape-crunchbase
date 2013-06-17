@@ -1,0 +1,119 @@
+{"name": "savvisdirect",
+ "permalink": "savvisdirect",
+ "crunchbase_url": "http://www.crunchbase.com/company/savvisdirect",
+ "homepage_url": "http://savvisdirect.com",
+ "blog_url": "http://savvisdirect.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "savvisdirect",
+ "category_code": "network_hosting",
+ "number_of_employees": 100000,
+ "founded_year": 2012,
+ "founded_month": 12,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud-storage, cloud-server, cloud-hosting, transition-to-the-cloud, cloud-computing",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "855-459-5121",
+ "description": "Suite of Cloud Products",
+ "created_at": "Wed Jan 02 21:59:19 UTC 2013",
+ "updated_at": "Thu Jan 03 05:31:36 UTC 2013",
+ "overview": "\u003Cp\u003Esavvisdirect, a suite of cloud products offered by CenturyLink, includes cloud applications, cloud servers and cloud storage. \u003C/p\u003E\n\n\u003Cp\u003Esavvisdirect leverages the global infrastructure of our parent company CenturyLink, the third largest telecommunications company in the U.S., as well as the best practices of our partner company Savvis, a worldwide leader in cloud infrastructure and hosted IT solutions for large enterprises. Whether you\u0026#8217;re an on-the-go business user, IT administrator or a savvy developer, savvisdirect makes the cloud simple and easy to use.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO Savvis and President ",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Higginbotham",
+      "permalink": "andrew-higginbotham",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rackspace Cloud",
+      "permalink": "rackspace-cloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0006/4752/64752v2-max-150x150.png"],
+          [[250,
+            45],
+           "assets/images/resized/0006/4752/64752v2-max-250x250.png"],
+          [[450,
+            81],
+           "assets/images/resized/0006/4752/64752v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon Elastic Compute Cloud (Amazon EC2)",
+      "permalink": "amazon-elastic-compute-cloud-amazon-ec2",
+      "image": null}},
+   {"competitor":
+     {"name": "GoDaddy.com",
+      "permalink": "godaddy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            116],
+           "assets/images/resized/0002/2280/22280v2-max-150x150.png"],
+          [[150,
+            116],
+           "assets/images/resized/0002/2280/22280v2-max-250x250.png"],
+          [[150,
+            116],
+           "assets/images/resized/0002/2280/22280v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SoftLayer",
+      "permalink": "softlayer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            12],
+           "assets/images/resized/0005/1564/51564v6-max-150x150.png"],
+          [[250,
+            21],
+           "assets/images/resized/0005/1564/51564v6-max-250x250.png"],
+          [[450,
+            38],
+           "assets/images/resized/0005/1564/51564v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarters",
+    "address1": "100 CenturyLink Drive",
+    "address2": "",
+    "zip_code": "71201",
+    "city": "Monroe",
+    "state_code": "LA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://finance.yahoo.com/news/centurylink-unveils-savvisdirect-230904827.html",
+    "title": "CenturyLink Unveils savvisdirect"},
+   {"external_url": "http://www.datacenterknowledge.com/archives/2012/10/10/centurylink-brings-self-service-to-savvis-cloud/",
+    "title": "CenturyLink Brings Self-Service to Savvis Cloud"},
+   {"external_url": "http://www.telecompetitor.com/with-savvisdirect-centurylink-offers-cloud-on-demand/",
+    "title": "With Savvisdirect, CenturyLink Offers Cloud on Demand"}]}

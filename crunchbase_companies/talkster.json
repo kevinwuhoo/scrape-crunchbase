@@ -1,0 +1,154 @@
+{"name": "Talkster",
+ "permalink": "talkster",
+ "crunchbase_url": "http://www.crunchbase.com/company/talkster",
+ "homepage_url": "http://www.talkster.com/",
+ "blog_url": "http://www.mobilityblogs.net/talkster/",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "voip, mvoip",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon Dec 15 12:54:18 UTC 2008",
+ "updated_at": "Sat Mar 14 14:56:22 UTC 2009",
+ "overview": "\u003Cp\u003ETalkster is a Toronto-based company offering mobile to mobile calls at local rates using VOIP.\u003C/p\u003E\n\n\u003Cp\u003EIt uses an advertising-based business model.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0003/1764/31764v2-max-150x150.jpg"],
+     [[250,
+       150],
+      "assets/images/resized/0003/1764/31764v2-max-250x250.jpg"],
+     [[450,
+       270],
+      "assets/images/resized/0003/1764/31764v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Talki",
+    "permalink": "talki",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Wanless",
+      "permalink": "james-wanless",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Jajah",
+      "permalink": "jajah",
+      "image":
+       {"available_sizes":
+         [[[126,
+            79],
+           "assets/images/resized/0000/1360/1360v1-max-150x150.png"],
+          [[126,
+            79],
+           "assets/images/resized/0000/1360/1360v1-max-250x250.png"],
+          [[126,
+            79],
+           "assets/images/resized/0000/1360/1360v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ConnectMeAnywhere",
+      "permalink": "connectmeanywhere",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0000/3691/3691v1-max-150x150.jpg"],
+          [[250,
+            32],
+           "assets/images/resized/0000/3691/3691v1-max-250x250.jpg"],
+          [[348,
+            45],
+           "assets/images/resized/0000/3691/3691v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "barablu",
+      "permalink": "barablu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0000/3685/3685v2-max-150x150.jpg"],
+          [[160,
+            56],
+           "assets/images/resized/0000/3685/3685v2-max-250x250.jpg"],
+          [[160,
+            56],
+           "assets/images/resized/0000/3685/3685v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": true,
+    "provider":
+     {"name": "Mobility Public Relations",
+      "permalink": "mobility-public-relations",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0003/7392/37392v2-max-150x150.png"],
+          [[250,
+            113],
+           "assets/images/resized/0003/7392/37392v2-max-250x250.png"],
+          [[450,
+            204],
+           "assets/images/resized/0003/7392/37392v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1300 Don Mills Road",
+    "address2": "2nd Floor",
+    "zip_code": "M3B 2W6",
+    "city": "Toronto, Ontario",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 43.7456927,
+    "longitude": -79.3457805}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

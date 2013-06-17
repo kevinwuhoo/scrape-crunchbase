@@ -1,0 +1,132 @@
+{"name": "Mosso",
+ "permalink": "mosso",
+ "crunchbase_url": "http://www.crunchbase.com/company/mosso",
+ "homepage_url": "http://www.mosso.com",
+ "blog_url": "http://blog.mosso.com",
+ "blog_feed_url": "http://blog.mosso.com/feed/",
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hosting, cloud",
+ "alias_list": null,
+ "email_address": "founders@mosso.com",
+ "phone_number": "1.877.934.0409",
+ "description": null,
+ "created_at": "Wed Jun 25 20:46:10 UTC 2008",
+ "updated_at": "Tue Apr 13 19:04:15 UTC 2010",
+ "overview": "\u003Cp\u003EMosso is a hosting cloud service that gives customers unlimited sites \u0026amp; mailboxes, an enterprise clustered platform and more for $100/month.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0002/1019/21019v1-max-150x150.png"],
+     [[179,
+       59],
+      "assets/images/resized/0002/1019/21019v1-max-250x250.png"],
+     [[179,
+       59],
+      "assets/images/resized/0002/1019/21019v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Mosso",
+    "permalink": "mosso",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "GoGrid",
+      "permalink": "gogrid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0002/1475/21475v7-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0002/1475/21475v7-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0002/1475/21475v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ElasticHosts",
+      "permalink": "elastichosts-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0002/0865/20865v5-max-150x150.jpg"],
+          [[198,
+            50],
+           "assets/images/resized/0002/0865/20865v5-max-250x250.jpg"],
+          [[198,
+            50],
+           "assets/images/resized/0002/0865/20865v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.thealarmclock.com/mt/archives/2007/03/rackspace_inves.html",
+    "source_description": "Rackspace Invests in Spin-off Mosso",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 3,
+    "funded_day": 21,
+    "investments":
+     [{"company":
+        {"name": "Rackspace",
+         "permalink": "rackspace",
+         "image":
+          {"available_sizes":
+            [[[150,
+               54],
+              "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+             [[250,
+               90],
+              "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+             [[300,
+               109],
+              "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Mosso was an R\u0026D division of Rackspace - always fully owned and funded by Rackspace. ",
+    "stoned_year": 2011,
+    "stoned_month": 4,
+    "stoned_day": 12,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Mosso",
+      "permalink": "mosso"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

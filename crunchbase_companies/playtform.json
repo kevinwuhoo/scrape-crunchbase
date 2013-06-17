@@ -1,0 +1,102 @@
+{"name": "Playtform",
+ "permalink": "playtform",
+ "crunchbase_url": "http://www.crunchbase.com/company/playtform",
+ "homepage_url": "http://playtform.com",
+ "blog_url": "http://support.playtform.com/news",
+ "blog_feed_url": "http://support.playtform.com/news.atom",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 1,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, transcoding, media, mobile, adaptation, device, on-demand",
+ "alias_list": null,
+ "email_address": "support@playtform.com",
+ "phone_number": "4806509002",
+ "description": "Deliver your videos anywhere",
+ "created_at": "Thu Mar 04 21:42:16 UTC 2010",
+ "updated_at": "Wed Aug 25 20:40:07 UTC 2010",
+ "overview": "\u003Cp\u003EPlaytform is a platform for delivering videos to all video enabled devices. \u003C/p\u003E\n\n\u003Cp\u003EPublish your video only once, in the format of your choice, and use one universal URL to deliver it to any any video-enabled phone in good quality and optimal speed using  on-demand transcoding.  There is no API, no video knowledge or device knowledge. One link is all what you need. \u003C/p\u003E\n\n\u003Cp\u003EPlaytform harnesses Amazon\u00c2\u00a9 infrastructure to deliver your videos to to their destination device. Even if you are delivering your videos to personal computers (non mobile), Playtform will deliver the videos using Amazon infrastructure relieving you from having to worry about bandwidth and scalability issues. Everything is done transparently to you using one universal link.\u003C/p\u003E\n\n\u003Cp\u003EPlaytform adapts your video in real time to the capabilities of the device your video is being played on resulting in an optimal experience. Playtform uses a database of over 1,000 devices that contains complete information about the playing device video and audio capabilities. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0007/9111/79111v2-max-150x150.png"],
+     [[245,
+       62],
+      "assets/images/resized/0007/9111/79111v2-max-250x250.png"],
+     [[245,
+       62],
+      "assets/images/resized/0007/9111/79111v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Bashar",
+      "last_name": "Abdul Jawad",
+      "permalink": "bashar-abdul-jawad-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Darius",
+      "last_name": "Bashar",
+      "permalink": "darius-bashar",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Encoding.com",
+      "permalink": "encoding-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0002/1093/21093v3-max-150x150.jpg"],
+          [[250,
+            56],
+           "assets/images/resized/0002/1093/21093v3-max-250x250.jpg"],
+          [[450,
+            101],
+           "assets/images/resized/0002/1093/21093v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "flixcloud.com",
+      "permalink": "flixcloud-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "10888 N 70th St",
+    "address2": "",
+    "zip_code": "85254",
+    "city": "Scottsdale",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

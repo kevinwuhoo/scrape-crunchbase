@@ -1,0 +1,95 @@
+{"name": "Serinus42",
+ "permalink": "serinus42",
+ "crunchbase_url": "http://www.crunchbase.com/company/serinus42",
+ "homepage_url": "http://www.serinus42.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2013,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@serinus42.com",
+ "phone_number": "",
+ "description": "Realtime outage detection",
+ "created_at": "Thu May 09 13:55:50 UTC 2013",
+ "updated_at": "Wed Jun 12 17:08:16 UTC 2013",
+ "overview": "\u003Cp\u003ESerinus42 develops websites that allow for real-time outage detection based on social media monitoring and other input.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[140,
+       150],
+      "assets/images/resized/0026/1888/261888v2-max-150x150.png"],
+     [[234,
+       250],
+      "assets/images/resized/0026/1888/261888v2-max-250x250.png"],
+     [[400,
+       426],
+      "assets/images/resized/0026/1888/261888v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Sanders",
+      "permalink": "tom-sanders",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Sander",
+      "last_name": "Van de Graaf",
+      "permalink": "sander-van-de-graaf",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Haarlem",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.383626,
+    "longitude": 4.635956}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        109],
+       "assets/images/resized/0026/0509/260509v2-max-150x150.png"],
+      [[250,
+        182],
+       "assets/images/resized/0026/0509/260509v2-max-250x250.png"],
+      [[450,
+        328],
+       "assets/images/resized/0026/0509/260509v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.networkworld.com/news/2013/050813-downdetectorcom-scours-twittersphere-to-detect-269533.html",
+    "title": "Downdetector.com scours Twittersphere to detect service outages faster"}]}

@@ -1,0 +1,116 @@
+{"name": "MyAnimeList",
+ "permalink": "myanimelist",
+ "crunchbase_url": "http://www.crunchbase.com/company/myanimelist",
+ "homepage_url": "http://myanimelist.net/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 4,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "anime, manga, community, anime-social-network, manga-social-network",
+ "alias_list": null,
+ "email_address": "webmaster@myanimelist.net",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Apr 30 15:21:09 UTC 2008",
+ "updated_at": "Sat Mar 16 20:15:01 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://myanimelist.net/\" title=\"MyAnimeList\" rel=\"nofollow\"\u003EMyAnimeList\u003C/a\u003E is a social network for anime and manga fans. MyAnimeList provide users a customizable \u0026#8216;listing\u0026#8217; feature to show other users what anime or manga they have watched or read.  Users can read anime and manga reviews and connect to other users who read and watch same things as they do. MyAnimeList also offers a database with anime,manga and person information.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0001/7864/17864v5-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0001/7864/17864v5-max-250x250.jpg"],
+     [[268,
+       268],
+      "assets/images/resized/0001/7864/17864v5-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "MyAnimeList",
+    "permalink": "myanimelist",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Garrett",
+      "last_name": "Gyssler",
+      "permalink": "garrett-gyssler",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Anime News Network",
+      "permalink": "anime-news-network",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0002/2010/22010v1-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0002/2010/22010v1-max-250x250.png"],
+          [[365,
+            68],
+           "assets/images/resized/0002/2010/22010v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.itnewsonline.com/showprnstory.php?storyid=4719",
+   "source_description": "CraveOnline Acquires MyAnimeList",
+   "acquired_year": 2008,
+   "acquired_month": 8,
+   "acquired_day": 4,
+   "acquiring_company":
+    {"name": "CraveOnline",
+     "permalink": "craveonline",
+     "image":
+      {"available_sizes":
+        [[[150,
+           69],
+          "assets/images/resized/0010/9494/109494v3-max-150x150.jpg"],
+         [[250,
+           116],
+          "assets/images/resized/0010/9494/109494v3-max-250x250.jpg"],
+         [[418,
+           195],
+          "assets/images/resized/0010/9494/109494v3-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "92887",
+    "city": "Yorba Linda",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.887112,
+    "longitude": -117.729229}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,143 @@
+{"name": "ColdSpark",
+ "permalink": "coldspark",
+ "crunchbase_url": "http://www.crunchbase.com/company/coldspark",
+ "homepage_url": "http://www.coldspark.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "info@bakbone.com",
+ "phone_number": "303-962-7800",
+ "description": "platforms for email processing",
+ "created_at": "Tue Jul 07 23:15:13 UTC 2009",
+ "updated_at": "Mon Apr 19 01:02:07 UTC 2010",
+ "overview": "\u003Cp\u003EColdSpark, Inc. provides enterprise solutions and platforms for email processing and delivery. It offers SparkEngine Mail Transport Platform, an open platform for enterprise email processing, and routing and delivery; MailFusion Email Automation System, a platform for customer email message; and Inbound Processing Manager, an in-process API application that classifies and acts upon inbound email messages. The company also provides Compliance Catalyst that allows enterprises to capture, classify, and insert automated messages into existing enterprise archiving solutions; Third-Party (Partner) Modules that support integration with open-source or commercial messaging applications; and automated paperless notification solutions for healthcare payer organizations. In addition, ColdSpark, Inc. offers a range of services, including managed services, implementation, custom consulting, and education services. It serves financial institutions and enterprises in the United States and internationally. The company was founded in 2001 and is based in Broomfield, Colorado. As of May 13, 2009, ColdSpark, Inc. operates as a subsidiary of Bakbone Software Inc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0008/4086/84086v1-max-150x150.png"],
+     [[218,
+       48],
+      "assets/images/resized/0008/4086/84086v1-max-250x250.png"],
+     [[218,
+       48],
+      "assets/images/resized/0008/4086/84086v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Kelly",
+      "last_name": "Wanser",
+      "permalink": "kelly-wanser",
+      "image": null}},
+   {"is_past": true,
+    "title": "VP, Marketing",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Puterbaugh",
+      "permalink": "mike-puterbaugh",
+      "image":
+       {"available_sizes":
+         [[[132,
+            150],
+           "assets/images/resized/0003/3420/33420v3-max-150x150.jpg"],
+          [[187,
+            211],
+           "assets/images/resized/0003/3420/33420v3-max-250x250.jpg"],
+          [[187,
+            211],
+           "assets/images/resized/0003/3420/33420v3-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Estratavia.com \u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$6.5M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.theregister.co.uk/2009/05/15/bakbone_coldspark/",
+    "source_description": "ColdSpark  raised  $6.5m in venture capital funding in 2006",
+    "raised_amount": 6500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "JK\u0026B Capital",
+         "permalink": "jk-b-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               67],
+              "assets/images/resized/0004/4272/44272v1-max-150x150.png"],
+             [[210,
+               95],
+              "assets/images/resized/0004/4272/44272v1-max-250x250.png"],
+             [[210,
+               95],
+              "assets/images/resized/0004/4272/44272v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 15900000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "Capital Report Index",
+   "acquired_year": 2009,
+   "acquired_month": 5,
+   "acquired_day": 11,
+   "acquiring_company":
+    {"name": "Bakbone Software",
+     "permalink": "bakbone-software",
+     "image":
+      {"available_sizes":
+        [[[150,
+           38],
+          "assets/images/resized/0006/9098/69098v2-max-150x150.png"],
+         [[193,
+           50],
+          "assets/images/resized/0006/9098/69098v2-max-250x250.png"],
+         [[193,
+           50],
+          "assets/images/resized/0006/9098/69098v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "10901 W 120 Avenue",
+    "address2": "Suite 150",
+    "zip_code": "80021",
+    "city": "Broomfield",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

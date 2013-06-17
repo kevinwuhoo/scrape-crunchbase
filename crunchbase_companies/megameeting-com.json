@@ -1,0 +1,121 @@
+{"name": "MegaMeeting.com",
+ "permalink": "megameeting-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/megameeting-com",
+ "homepage_url": "http://www.megameeting.com",
+ "blog_url": "http://blog.megameeting.com",
+ "blog_feed_url": "http://www.megameeting.com/rss/",
+ "twitter_username": "megameeting",
+ "category_code": "software",
+ "number_of_employees": 30,
+ "founded_year": 2003,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-conferencing, video-conferencing, webinar-software",
+ "alias_list": null,
+ "email_address": "tawnyl@megameeting.com",
+ "phone_number": "877 634 6342",
+ "description": "Web and Video Conferencing",
+ "created_at": "Tue Dec 07 18:18:17 UTC 2010",
+ "updated_at": "Sun Sep 04 01:19:32 UTC 2011",
+ "overview": "\u003Cp\u003EInternet MegaMeeting, LLC the company behind MegaMeeting.com was established in October 2003 with the intention of making audio and video conferencing via the web simple and affordable to millions of people. MegaMeeting.com, its web based vehicle for connecting virtually anyone on a PC, MAC or Linux system, was launched in February 2004. Developed by a passionate team of marketing and technology experts in Southern California, MegaMeeting.com breaks down previous barriers and provides a seamless experience for web and video conferencing that anyone with an internet connection can use.\u003C/p\u003E\n\n\u003Cp\u003EMegaMeeting.com Web Conferencing is 100% browser-based, using open architecture and non-proprietary methods to allow people to share information and ideas over the Internet. Running off of Flash Communication servers, all Web Conferencing done through MegaMeeting.com includes powerful Video Conferencing capabilities, allowing participants the following benefits:\u003C/p\u003E\n\n\u003Cp\u003EBrowser-based Video components - meaning there is no bulky, expensive or \u00e2\u20ac\u0153proprietary\u00e2\u20ac\u009d equipment required to conduct the Video portion of a Web Conference. With MegaMeeting.com, in order for an individual to be seen in a Web Conference, all they need is an Internet browser, a broadband Internet connection and a device in which they can be seen, either a web camera or a digital video camera.\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u0153Multi-point\u00e2\u20ac\u009d Video capability - meaning that more than two people can simultaneously see each other from any and all locations throughout the world. With MegaMeeting.com, up to 16 separate individuals can be seen at the same time, and in the same Web Conference room. These same 16 individuals can also be seen by an unlimited number of additional Web Conference attendees.\nTrue Voice Over Internet Protocol (VoIP)- meaning that participants in a Web Conference can also talk and hear one another by using standard microphones and headsets\u003C/p\u003E\n\n\u003Cp\u003EMegaMeeting.com is operating system agnostic, meaning anyone that is using a Windows, Mac or Linux based machine may participate in a Web Conference.\nMegaMeeting.com Personal and Professional products are all hosted on MegaMeeting.com web servers in a secure data center, using Secure Sockets Layer (SSL) 128-bit encryption.\u003C/p\u003E\n\n\u003Cp\u003EThe MegaMeeting.com services utilize the Real Time Message Protocol (RTMP) over port 1935, as well as the Real Time Message Protocol (RTMPT) over port 80 (tunneling via http) and the Real Time Message Protocol Secured (RTMPTS) over port 443 (tunneling via https) to allow audio, video and text chat to securely be transmitted from computer to computer.\u003C/p\u003E\n\n\u003Cp\u003EThe MegaMeeting.com Flash Communication servers do not run any web services, rather, the Flash Communication servers provide the background \u0026#8220;heavy lifting\u0026#8221; for the secured browser page you are viewing during the meeting. Because we take Internet privacy and security very seriously, all audio/video streams between the MegaMeeting.com servers and an end-user\u0026#8217;s computer(s) are fully secure.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0011/4390/114390v2-max-150x150.jpg"],
+     [[160,
+       30],
+      "assets/images/resized/0011/4390/114390v2-max-250x250.jpg"],
+     [[160,
+       30],
+      "assets/images/resized/0011/4390/114390v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Richmond",
+      "permalink": "dan-richmond",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GoToMeeting",
+      "permalink": "gotomeeting",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0024/9220/249220v1-max-150x150.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0024/9220/249220v1-max-250x250.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0024/9220/249220v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WebEx",
+      "permalink": "webex",
+      "image":
+       {"available_sizes":
+         [[[134,
+            47],
+           "assets/images/resized/0002/6488/26488v1-max-150x150.png"],
+          [[134,
+            47],
+           "assets/images/resized/0002/6488/26488v1-max-250x250.png"],
+          [[134,
+            47],
+           "assets/images/resized/0002/6488/26488v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fuze Box",
+      "permalink": "fuze-box",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0005/1800/51800v1-max-150x150.png"],
+          [[200,
+            78],
+           "assets/images/resized/0005/1800/51800v1-max-250x250.png"],
+          [[200,
+            78],
+           "assets/images/resized/0005/1800/51800v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "14900 Ventura Blvd #310",
+    "address2": "",
+    "zip_code": "91403",
+    "city": "Sherman Oaks",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

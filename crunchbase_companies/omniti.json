@@ -1,0 +1,88 @@
+{"name": "OmniTI",
+ "permalink": "omniti",
+ "crunchbase_url": "http://www.crunchbase.com/company/omniti",
+ "homepage_url": "http://omniti.com/",
+ "blog_url": "http://omniti.com/seeds",
+ "blog_feed_url": "http://omniti.com/shares/seeds",
+ "twitter_username": "OmniTI",
+ "category_code": "consulting",
+ "number_of_employees": 50,
+ "founded_year": 1997,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "php, perl, postgresql, internet, scalability, security, performance",
+ "alias_list": null,
+ "email_address": "hello@omniti.com",
+ "phone_number": "+1 443-325-1357",
+ "description": "Scalability and Performance Consulting",
+ "created_at": "Tue May 20 06:16:15 UTC 2008",
+ "updated_at": "Wed Sep 22 18:09:12 UTC 2010",
+ "overview": "\u003Cp\u003EOmniTI provides web application design and development, scalability and performance consulting, web application security services and architecture and infrastructure support to a range of large and small clients.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0001/8979/18979v2-max-150x150.png"],
+     [[236,
+       105],
+      "assets/images/resized/0001/8979/18979v2-max-250x250.png"],
+     [[236,
+       105],
+      "assets/images/resized/0001/8979/18979v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Message Systems",
+    "permalink": "omniti-message-systems",
+    "image": null},
+   {"name": "Circonus [spinoff]",
+    "permalink": "circonus",
+    "image":
+     {"available_sizes":
+       [[[150,
+          46],
+         "assets/images/resized/0012/7037/127037v2-max-150x150.png"],
+        [[250,
+          77],
+         "assets/images/resized/0012/7037/127037v2-max-250x250.png"],
+        [[294,
+          91],
+         "assets/images/resized/0012/7037/127037v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "7070 Samuel Morse Drive",
+    "address2": "Suite 150",
+    "zip_code": "21046",
+    "city": "Columbia",
+    "state_code": "MD",
+    "country_code": "USA",
+    "latitude": 39.169397,
+    "longitude": -76.811526}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.sun.com/customers/software/omniti.xml",
+    "title": ""}]}

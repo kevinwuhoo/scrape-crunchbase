@@ -1,0 +1,163 @@
+{"name": "Twimera",
+ "permalink": "twimera",
+ "crunchbase_url": "http://www.crunchbase.com/company/twimera",
+ "homepage_url": "http://www.twimera.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "twimera",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-messaging, discrete-messaging, group-messaging",
+ "alias_list": null,
+ "email_address": "team@twimera.com",
+ "phone_number": "203 981 5480",
+ "description": "James Bond gone social",
+ "created_at": "Sat Mar 03 16:25:51 UTC 2012",
+ "updated_at": "Sat Mar 10 22:32:35 UTC 2012",
+ "overview": "\u003Cp\u003ETwimera is a online tool that you can use to share discrete information with anyone. The concept is smart and simple. A message is posted on your behalf to Facebook or Twitter, except that this message also contains a unique link which  takes your reader to a discrete message that you provided. If the reader was authorized by you to read the private message, then the message will be displayed and that\u0026#8217;s all there is to it.\u003C/p\u003E\n\n\u003Cp\u003EThere are many tricks to it, especially noteworthy the \u0026#8220;cloak\u0026#8221; feature which lets you provide misleading messages for unauthorized viewers. You can also post anonymously or take you messages anywhere, not just on Facebook or Twitter.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       132],
+      "assets/images/resized/0017/6820/176820v2-max-150x150.jpg"],
+     [[180,
+       159],
+      "assets/images/resized/0017/6820/176820v2-max-250x250.jpg"],
+     [[180,
+       159],
+      "assets/images/resized/0017/6820/176820v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Raul",
+      "last_name": "Mihali",
+      "permalink": "raul-mihali-6",
+      "image":
+       {"available_sizes":
+         [[[123,
+            150],
+           "assets/images/resized/0017/7300/177300v2-max-150x150.png"],
+          [[206,
+            250],
+           "assets/images/resized/0017/7300/177300v2-max-250x250.png"],
+          [[345,
+            418],
+           "assets/images/resized/0017/7300/177300v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Raul",
+      "last_name": "Mihali",
+      "permalink": "raul-mihali",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Raul",
+      "last_name": "Mihali",
+      "permalink": "raul-mihali-3",
+      "image":
+       {"available_sizes":
+         [[[123,
+            150],
+           "assets/images/resized/0017/7594/177594v2-max-150x150.png"],
+          [[206,
+            250],
+           "assets/images/resized/0017/7594/177594v2-max-250x250.png"],
+          [[345,
+            418],
+           "assets/images/resized/0017/7594/177594v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Beluga",
+      "permalink": "beluga",
+      "image":
+       {"available_sizes":
+         [[[72,
+            72],
+           "assets/images/resized/0010/8757/108757v4-max-150x150.png"],
+          [[72,
+            72],
+           "assets/images/resized/0010/8757/108757v4-max-250x250.png"],
+          [[72,
+            72],
+           "assets/images/resized/0010/8757/108757v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GroupMe",
+      "permalink": "groupme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0009/9345/99345v5-max-150x150.jpg"],
+          [[250,
+            85],
+           "assets/images/resized/0009/9345/99345v5-max-250x250.jpg"],
+          [[450,
+            154],
+           "assets/images/resized/0009/9345/99345v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "backend",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        90],
+       "assets/images/resized/0017/6819/176819v2-max-150x150.png"],
+      [[250,
+        150],
+       "assets/images/resized/0017/6819/176819v2-max-250x250.png"],
+      [[450,
+        270],
+       "assets/images/resized/0017/6819/176819v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://hollandsopus.wordpress.com/2011/06/06/twimera-ushers-in-james-bond-social-media/",
+    "title": ""},
+   {"external_url": "http://www.startupsea.com/2012/02/twimera-send-secret-messages-on-twitter.html?spref=fb",
+    "title": ""}]}

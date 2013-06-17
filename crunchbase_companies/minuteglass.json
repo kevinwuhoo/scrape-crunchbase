@@ -1,0 +1,182 @@
+{"name": "Minuteglass",
+ "permalink": "minuteglass",
+ "crunchbase_url": "http://www.crunchbase.com/company/minuteglass",
+ "homepage_url": "http://www.minuteglass.com",
+ "blog_url": "http://www.minuteglass.com/blog",
+ "blog_feed_url": "http://www.minuteglass.com/blog/?feed=rss2",
+ "twitter_username": "minuteglass",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "time-tracking, project-management",
+ "alias_list": null,
+ "email_address": "support@minuteglass.com",
+ "phone_number": "602-538-9120",
+ "description": "Web and Desktop Time Tracking",
+ "created_at": "Mon Jun 29 06:33:58 UTC 2009",
+ "updated_at": "Mon Oct 05 22:05:13 UTC 2009",
+ "overview": "\u003Cp\u003EMinuteglass is a web based time tracking application. The company is based in Phoenix, AZ.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0005/1217/51217v2-max-150x150.jpg"],
+     [[250,
+       51],
+      "assets/images/resized/0005/1217/51217v2-max-250x250.jpg"],
+     [[450,
+       93],
+      "assets/images/resized/0005/1217/51217v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Minuteglass",
+    "permalink": "minuteglass",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and Designer",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Tingom",
+      "permalink": "chris-tingom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0001/7971/17971v1-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0001/7971/17971v1-max-250x250.jpg"],
+          [[450,
+            338],
+           "assets/images/resized/0001/7971/17971v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EChris Tingom\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Chapin",
+      "permalink": "tom-chapin",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0002/8206/28206v2-max-150x150.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0002/8206/28206v2-max-250x250.jpg"],
+          [[128,
+            128],
+           "assets/images/resized/0002/8206/28206v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Harvest",
+      "permalink": "harvest",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0004/3585/43585v2-max-150x150.png"],
+          [[244,
+            99],
+           "assets/images/resized/0004/3585/43585v2-max-250x250.png"],
+          [[244,
+            99],
+           "assets/images/resized/0004/3585/43585v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tsheets",
+      "permalink": "tsheets",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0001/7531/17531v3-max-150x150.png"],
+          [[250,
+            77],
+           "assets/images/resized/0001/7531/17531v3-max-250x250.png"],
+          [[295,
+            91],
+           "assets/images/resized/0001/7531/17531v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Fanurio Time Tracking",
+      "permalink": "fanurio-time-tracking",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0003/4904/34904v2-max-150x150.png"],
+          [[192,
+            192],
+           "assets/images/resized/0003/4904/34904v2-max-250x250.png"],
+          [[192,
+            192],
+           "assets/images/resized/0003/4904/34904v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Time Warden",
+      "permalink": "time-warden",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0002/0982/20982v2-max-150x150.png"],
+          [[250,
+            121],
+           "assets/images/resized/0002/0982/20982v2-max-250x250.png"],
+          [[250,
+            121],
+           "assets/images/resized/0002/0982/20982v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Minuteglass, LLC",
+    "address1": "100 West Camelback Rd.",
+    "address2": "",
+    "zip_code": "85013",
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": 33.479692,
+    "longitude": -111.980855}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,87 @@
+{"name": "Citex Software",
+ "permalink": "citex-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/citex-software",
+ "homepage_url": "http://www.citexsoftware.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2007,
+ "founded_month": 2,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software-design-services, small-scale-outsourcing, open-source, application-software, mobile-value-added-services, mobile-advertising",
+ "alias_list": null,
+ "email_address": "info@citexsoftware.com",
+ "phone_number": "+20 2 33371672",
+ "description": null,
+ "created_at": "Tue Jan 13 16:05:42 UTC 2009",
+ "updated_at": "Sat Jan 17 14:38:35 UTC 2009",
+ "overview": "\u003Cp\u003ECitex Software is developing Adhere Mobile Advertising Platform (adhere.citexsoftware.com). Adhere  is a suite of software products that serve the needs of the mobile advertising community. At the core of the platform is the free open-source Adhere Ad Server. The platform also includes the Adhere User Profiles Server which is key to Adhere\u00e2\u20ac\u2122s ad targeting capabilities. Finally, the platform includes sample applications and engines to manipulate the various mobile media and to utilize them effectively as advertising channels.\u003C/p\u003E\n\n\u003Cp\u003ECitex Software is a bootstrapped startup based in Cairo, Egypt. The company offers software design services to technology startups and companies in North America and Europe to fund the development of Adhere.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0003/3715/33715v2-max-150x150.jpg"],
+     [[250,
+       125],
+      "assets/images/resized/0003/3715/33715v2-max-250x250.jpg"],
+     [[450,
+       225],
+      "assets/images/resized/0003/3715/33715v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Adhere Mobile",
+    "permalink": "adhere-mobile-advertising-platform",
+    "image": null},
+   {"name": "Software Design Services",
+    "permalink": "software-design-services",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Hussein",
+      "last_name": "Salama",
+      "permalink": "hussein-salama",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "4 Dr. Soliman Square",
+    "address2": "Dokki",
+    "zip_code": "12311",
+    "city": "Giza",
+    "state_code": null,
+    "country_code": "EGY",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://adhere.citexsoftware.com",
+    "title": "Adhere is Citex Software's main product"},
+   {"external_url": "http://blog.openx.org/12/openx-mobile-ad-server/",
+    "title": "Adhere mentioned in OpenX blog"},
+   {"external_url": "http://arabcrunch.com/2008/12/adhere-the-first-open-source-mobile-advertising-platform.html",
+    "title": "Adhere coverage by arabcrunch.com"}]}

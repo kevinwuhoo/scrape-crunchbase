@@ -1,0 +1,91 @@
+{"name": "FundedByMe",
+ "permalink": "fundedbyme",
+ "crunchbase_url": "http://www.crunchbase.com/company/fundedbyme",
+ "homepage_url": "http://www.fundedbyme.com",
+ "blog_url": "http://blog.fundedbyme.com",
+ "blog_feed_url": "feed://blog.fundedbyme.com/feed/",
+ "twitter_username": "fundedbyme",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "crowdfunding, crowdsourcing, funding-tool, equity-crowdfunding, crowdfinancing",
+ "alias_list": null,
+ "email_address": "info@fundedbyme.com",
+ "phone_number": "+46767948218",
+ "description": "Fund projects through social networks",
+ "created_at": "Tue Apr 19 09:33:07 UTC 2011",
+ "updated_at": "Thu Jan 05 05:53:35 UTC 2012",
+ "overview": "\u003Cp\u003EFunded By Me is the Scandinavian \u0026#8220;Kickstarter\u0026#8221;, a tool for crowdfunding your projects through social networks, family, friends and followers.\nThe idea is simple: Take your idea, put it to the internet and ask people to be part of it\u0026#8217;s funding and creation.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       114],
+      "assets/images/resized/0013/1161/131161v2-max-150x150.jpg"],
+     [[250,
+       190],
+      "assets/images/resized/0013/1161/131161v2-max-250x250.jpg"],
+     [[450,
+       343],
+      "assets/images/resized/0013/1161/131161v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder / CEO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Daboczy",
+      "permalink": "daniel-daboczy",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder / Lead Developer",
+    "person":
+     {"first_name": "Arno",
+      "last_name": "Smit",
+      "permalink": "arno-smit",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder / Designer",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Weber",
+      "permalink": "eric-weber",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,100 @@
+{"name": "ASIC Architect",
+ "permalink": "asic-architect",
+ "crunchbase_url": "http://www.crunchbase.com/company/asic-architect",
+ "homepage_url": "http://www.asic-architectinc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "semiconductor",
+ "number_of_employees": null,
+ "founded_year": 2004,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "408-247-9931",
+ "description": "",
+ "created_at": "Fri Aug 07 09:17:18 UTC 2009",
+ "updated_at": "Fri Aug 07 09:18:34 UTC 2009",
+ "overview": "\u003Cp\u003EASIC Architect, Inc., an interface controller company, develops controller intellectual property cores and solutions. Its products include PCI express endpoint, dual mode, root complex, and switch cores, as well as port PCI express switch cores, which provides non-blocking switching architecture and peer-to-peer routing; serial advanced technology attachment devices and host cores, which include AHCI hardware stack that provides native-command queuing, multiple port instantiations, and DMA capability; and double data rate memory controllers. The company also provides PCI express advanced microcontroller bus architecture AHB bridge and AXI bridge cores that provides connectivity between advanced microcontroller bus architecture AHB bus to PIPE-compliant PCI express physical layer; and double data rate AMBA AXI bridge cores. Its products and services are used in networking, storage, wireless, and consumer product markets. The company was founded in 2004 and is based in Santa Clara, California with additional offices in Silicon Valley and India; and engineering development and support centers located in the United States and India. As of July 25, 2008, ASIC Architect, Inc. operates as a subsidiary of Snowbush, Inc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0005/5609/55609v1-max-150x150.png"],
+     [[160,
+       70],
+      "assets/images/resized/0005/5609/55609v1-max-250x250.png"],
+     [[160,
+       70],
+      "assets/images/resized/0005/5609/55609v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and President ",
+    "person":
+     {"first_name": "Kishore",
+      "last_name": "Mishra",
+      "permalink": "kishore-mishra",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 1500000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 7,
+   "acquired_day": 28,
+   "acquiring_company":
+    {"name": "Snowbush",
+     "permalink": "snowbush",
+     "image":
+      {"available_sizes":
+        [[[150,
+           58],
+          "assets/images/resized/0005/5611/55611v1-max-150x150.png"],
+         [[183,
+           71],
+          "assets/images/resized/0005/5611/55611v1-max-250x250.png"],
+         [[183,
+           71],
+          "assets/images/resized/0005/5611/55611v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2314 Walsh Avenue",
+    "address2": "",
+    "zip_code": "95051",
+    "city": "Santa Clara",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3694275,
+    "longitude": -121.9662596}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

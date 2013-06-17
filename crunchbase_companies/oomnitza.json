@@ -1,0 +1,101 @@
+{"name": "Oomnitza",
+ "permalink": "oomnitza",
+ "crunchbase_url": "http://www.crunchbase.com/company/oomnitza",
+ "homepage_url": "http://www.oomnitza.com",
+ "blog_url": "http://blog.oomnitza.com",
+ "blog_feed_url": "",
+ "twitter_username": "oomnitza",
+ "category_code": "enterprise",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 2,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise-software, paas, saas",
+ "alias_list": null,
+ "email_address": "team@oomnitza.com",
+ "phone_number": "",
+ "description": "Mobile Enterprise 2.0",
+ "created_at": "Wed May 02 16:56:04 UTC 2012",
+ "updated_at": "Wed May 23 01:57:37 UTC 2012",
+ "overview": "\u003Cp\u003EOomnitza provides a Platform as a Service (PaaS) for configuring and deploying enterprise software on mobile devices. The company is best knows for their Mobile Enterprise Asset Management (MEAM) solution.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0018/7574/187574v2-max-150x150.png"],
+     [[250,
+       72],
+      "assets/images/resized/0018/7574/187574v2-max-250x250.png"],
+     [[450,
+       129],
+      "assets/images/resized/0018/7574/187574v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and Co-Founder",
+    "person":
+     {"first_name": "Arthur",
+      "last_name": "Lozinski",
+      "permalink": "arthur-lozinski",
+      "image":
+       {"available_sizes":
+         [[[128,
+            150],
+           "assets/images/resized/0019/8711/198711v2-max-150x150.jpg"],
+          [[214,
+            250],
+           "assets/images/resized/0019/8711/198711v2-max-250x250.jpg"],
+          [[385,
+            450],
+           "assets/images/resized/0019/8711/198711v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO and Co-Founder",
+    "person":
+     {"first_name": "Trent",
+      "last_name": "Seed",
+      "permalink": "trent-seed",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

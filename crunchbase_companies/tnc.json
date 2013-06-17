@@ -1,0 +1,132 @@
+{"name": "TNC",
+ "permalink": "tnc",
+ "crunchbase_url": "http://www.crunchbase.com/company/tnc",
+ "homepage_url": "http://tnccompany.com",
+ "blog_url": "http://blog.tnccompany.com",
+ "blog_feed_url": "http://blog.tnccompany.com/rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Sep 12 16:30:04 UTC 2008",
+ "updated_at": "Sun Sep 27 17:16:25 UTC 2009",
+ "overview": "\u003Cp\u003ETNC is a blogging platform provider based in South Korea.  The company was acquired by Google on September 12, 2008.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[133,
+       55],
+      "assets/images/resized/0002/5019/25019v1-max-150x150.jpg"],
+     [[133,
+       55],
+      "assets/images/resized/0002/5019/25019v1-max-250x250.jpg"],
+     [[133,
+       55],
+      "assets/images/resized/0002/5019/25019v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Textcube",
+    "permalink": "textcube",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Cofounder, Co-CEO",
+    "person":
+     {"first_name": "Chang",
+      "last_name": "Kim",
+      "permalink": "chang-kim",
+      "image":
+       {"available_sizes":
+         [[[130,
+            150],
+           "assets/images/resized/0012/7816/127816v2-max-150x150.png"],
+          [[217,
+            250],
+           "assets/images/resized/0012/7816/127816v2-max-250x250.png"],
+          [[312,
+            359],
+           "assets/images/resized/0012/7816/127816v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "co-founder, co-CEO",
+    "person":
+     {"first_name": "Chang",
+      "last_name": "Kim",
+      "permalink": "chang-kim-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/4234/264234v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4234/264234v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4234/264234v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://www.softbank.com",
+    "source_description": "Softbank Capital",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2008/09/12/google-buys-foothold-in-korea-with-acquisition-of-blog-platform-tnc/",
+   "source_description": "TechCrunch",
+   "acquired_year": 2008,
+   "acquired_month": 9,
+   "acquired_day": 12,
+   "acquiring_company":
+    {"name": "Google",
+     "permalink": "google",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+         [[250,
+           85],
+          "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+         [[450,
+           154],
+          "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

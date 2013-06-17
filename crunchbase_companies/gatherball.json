@@ -1,0 +1,135 @@
+{"name": "Gatherball",
+ "permalink": "gatherball",
+ "crunchbase_url": "http://www.crunchbase.com/company/gatherball",
+ "homepage_url": "https://gatherball.com/",
+ "blog_url": "https://gatherball.com/blog",
+ "blog_feed_url": "https://gatherball.com/blog/feeds/rss",
+ "twitter_username": "gatherball",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, social-travel, collaborative-consumption",
+ "alias_list": null,
+ "email_address": "contact@gatherball.com",
+ "phone_number": "206-518-4086",
+ "description": "Group travel planning",
+ "created_at": "Wed Feb 06 18:37:04 UTC 2013",
+ "updated_at": "Fri Feb 08 04:18:53 UTC 2013",
+ "overview": "\u003Cp\u003EGatherball is a website that provides a collaborative space for travelers to plan group getaways together. \u003C/p\u003E\n\n\u003Cp\u003EWe help keep track of ideas, decisions, itineraries, and expenses in a friendly web application, rather than a string of reply-all emails or a complex spreadsheet.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0023/4038/234038v2-max-150x150.png"],
+     [[250,
+       45],
+      "assets/images/resized/0023/4038/234038v2-max-250x250.png"],
+     [[450,
+       82],
+      "assets/images/resized/0023/4038/234038v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, Engineering",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Demboski",
+      "permalink": "ben-demboski",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, CEO",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Watts",
+      "permalink": "paul-watts",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, Product Design",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Nelson",
+      "permalink": "jonathan-nelson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0001/6147/16147v5-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0001/6147/16147v5-max-250x250.jpg"],
+          [[400,
+            300],
+           "assets/images/resized/0001/6147/16147v5-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJonathan Nelson\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Kukunu",
+      "permalink": "kukunu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0006/1031/61031v6-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0006/1031/61031v6-max-250x250.jpg"],
+          [[285,
+            285],
+           "assets/images/resized/0006/1031/61031v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Triporama",
+      "permalink": "triporama",
+      "image": null}},
+   {"competitor":
+     {"name": "Flights With Friends",
+      "permalink": "flights-with-friends",
+      "image":
+       {"available_sizes":
+         [[[130,
+            130],
+           "assets/images/resized/0017/1072/171072v4-max-150x150.png"],
+          [[130,
+            130],
+           "assets/images/resized/0017/1072/171072v4-max-250x250.png"],
+          [[130,
+            130],
+           "assets/images/resized/0017/1072/171072v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "821 2nd Ave Suite 800",
+    "address2": "",
+    "zip_code": "98104",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

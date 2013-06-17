@@ -1,0 +1,133 @@
+{"name": "BotProof",
+ "permalink": "botproof",
+ "crunchbase_url": "http://www.crunchbase.com/company/botproof",
+ "homepage_url": "http://www.BotProof.com",
+ "blog_url": "http://www.BotProof.com/wordpress",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "captcha, animated-captcha",
+ "alias_list": null,
+ "email_address": "marketing@botproof.com",
+ "phone_number": "",
+ "description": "Better, easier-to-read animated CAPTCHAs",
+ "created_at": "Mon Apr 26 16:11:09 UTC 2010",
+ "updated_at": "Mon Apr 26 20:48:21 UTC 2010",
+ "overview": "\u003Cp\u003EBotProof has developed an easier-to-read, more effective animated CAPTCHA.  \u003C/p\u003E\n\n\u003Cp\u003EBots employ Optical Character Recognition (OCR) to defeat CAPTCHAs and have been shown to be especially adept at defeating static CAPTCHAs such as those used by Google, Microsoft, AOL, and others.\u003C/p\u003E\n\n\u003Cp\u003EBotProof CAPTCHAs are animated and it is this movement that defeats even the most sophisticated OCR software. And yet, this very same animation enables us to make the CAPTCHAs visually rich and supremely easy to read because the human mind is so much more complex than a computer.\u003C/p\u003E\n\n\u003Cp\u003EHumans are able to make out the numbers and letters, even though they are moving and changing.\u003C/p\u003E\n\n\u003Cp\u003EAs bot capabilities evolve, as we fully expect them to do, we simply serve out a new style of animation rendering any specific bot attack harmless. Thus our technology \u00e2\u20ac\u201c and your site \u00e2\u20ac\u201c remain \u0026#8220;BotProof.\u0026#8221;\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[52,
+       39],
+      "assets/images/resized/0008/4944/84944v4-max-150x150.jpg"],
+     [[52,
+       39],
+      "assets/images/resized/0008/4944/84944v4-max-250x250.jpg"],
+     [[52,
+       39],
+      "assets/images/resized/0008/4944/84944v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Koziol",
+      "permalink": "jason-koziol",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, CTO",
+    "person":
+     {"first_name": "Anthony",
+      "last_name": "Koziol",
+      "permalink": "anthony-koziol",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Brown",
+      "permalink": "tim-brown",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/4073/274073v1-max-150x150.jpg"],
+          [[217,
+            217],
+           "assets/images/resized/0027/4073/274073v1-max-250x250.jpg"],
+          [[217,
+            217],
+           "assets/images/resized/0027/4073/274073v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "reCAPTCHA",
+      "permalink": "recaptcha",
+      "image":
+       {"available_sizes":
+         [[[150,
+            97],
+           "assets/images/resized/0006/0310/60310v1-max-150x150.jpg"],
+          [[198,
+            129],
+           "assets/images/resized/0006/0310/60310v1-max-250x250.jpg"],
+          [[198,
+            129],
+           "assets/images/resized/0006/0310/60310v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Lanapsoft",
+      "permalink": "lanapsoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0027/3487/273487v2-max-150x150.png"],
+          [[240,
+            110],
+           "assets/images/resized/0027/3487/273487v2-max-250x250.png"],
+          [[240,
+            110],
+           "assets/images/resized/0027/3487/273487v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        50],
+       "assets/images/resized/0008/4943/84943v2-max-150x150.png"],
+      [[250,
+        83],
+       "assets/images/resized/0008/4943/84943v2-max-250x250.png"],
+      [[375,
+        125],
+       "assets/images/resized/0008/4943/84943v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,138 @@
+{"name": "Solid Information Technology",
+ "permalink": "solid-information-technology",
+ "crunchbase_url": "http://www.crunchbase.com/company/solid-information-technology",
+ "homepage_url": "http://www.solidtech.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 1992,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "408-454-4700",
+ "description": "",
+ "created_at": "Wed Apr 21 02:50:09 UTC 2010",
+ "updated_at": "Wed Dec 08 13:11:39 UTC 2010",
+ "overview": "\u003Cp\u003ESolid Information Technology Corporation provides database solutions. It offers solidDB 6, a relational database that delivers transaction speeds and on data access; solidDB for Sun Netra HA suite, which provides a management platform for Sun\u0026#8217;s Solaris and Linux based Netra Systems; and solidDB for VxWorks. The company\u00e2\u20ac\u2122s telecommunication solutions include solidDB in-memory database and IP multimedia subsystem. It also provides various consulting services, which include technical assessment, proof of concept, and database and application migration services. Solid Information Technology serves telecommunication networks, trading rooms, multimedia network printers, medical devices, fleet management systems, and point of sale (POS) solutions. The company was founded in 1992 and is based in Cupertino, California with regional offices in North America, Europe, and Asia. As of January 30, 2008, Solid Information Technology Corporation operates as a subsidiary of International Business Machines Corp.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ari",
+      "last_name": "Valtanen",
+      "permalink": "ari-valtanen",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Ronald",
+      "last_name": "F.E. Weissman",
+      "permalink": "ronald-f-e-weissman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$5.23M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 5230000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 12,
+    "funded_day": 18,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Apax Partners",
+         "permalink": "apax-partners",
+         "image":
+          {"available_sizes":
+            [[[114,
+               42],
+              "assets/images/resized/0000/3841/3841v1-max-150x150.png"],
+             [[114,
+               42],
+              "assets/images/resized/0000/3841/3841v1-max-250x250.png"],
+             [[114,
+               42],
+              "assets/images/resized/0000/3841/3841v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "CapMan Oyj",
+         "permalink": "capman-oyj",
+         "image":
+          {"available_sizes":
+            [[[133,
+               50],
+              "assets/images/resized/0005/8261/58261v1-max-150x150.png"],
+             [[133,
+               50],
+              "assets/images/resized/0005/8261/58261v1-max-250x250.png"],
+             [[133,
+               50],
+              "assets/images/resized/0005/8261/58261v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www-03.ibm.com/press/us/en/pressrelease/22921.wss",
+   "source_description": "IBM to Acquire Solid Information Technology to Broaden Information on Demand Portfolio",
+   "acquired_year": 2007,
+   "acquired_month": 12,
+   "acquired_day": 21,
+   "acquiring_company":
+    {"name": "IBM",
+     "permalink": "ibm",
+     "image":
+      {"available_sizes":
+        [[[150,
+           60],
+          "assets/images/resized/0002/1370/21370v1-max-150x150.png"],
+         [[170,
+           68],
+          "assets/images/resized/0002/1370/21370v1-max-250x250.png"],
+         [[170,
+           68],
+          "assets/images/resized/0002/1370/21370v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "20400 Stevens Creek Boulevard",
+    "address2": "Suite 200",
+    "zip_code": "95014",
+    "city": "Cupertino",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,111 @@
+{"name": "Euraeka Technologies",
+ "permalink": "euraeka-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/euraeka-technologies",
+ "homepage_url": "http://www.euraeka.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "the_world_news",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "news, content, recommendation, engine, search, ranking",
+ "alias_list": null,
+ "email_address": "info@euraeka.com",
+ "phone_number": "202-491-6490",
+ "description": "news content recommendation engine",
+ "created_at": "Mon Nov 08 20:36:28 UTC 2010",
+ "updated_at": "Wed Nov 10 00:35:57 UTC 2010",
+ "overview": "\u003Cp\u003EEuraeka is a search, discovery and recommendation engine for textual content. In particular, it focuses on continuously aggregating news and other analytical content from publicly available sources. The collected content is ranked by an artificial intelligence engine and stored for efficient search and retrieval. The site presents two views - generic and personalized. The generic view is the front page, which presents the most important news for the day from all the sources we monitor, ranked by our algorithm. The personalized view is based on a recommendation engine that tracks user\u0026#8217;s reading habits and personalizes the content stream to each user\u0026#8217;s detected preferences. The recommendation engine continuously adapts itself to the changing user reading habits so that the recommendations are always relevant.\nFinally, Euraeka offers a few unique features not found on other sites of the same industry. As part of the ranking process, the engine automatically detects the political bias (liberal, conservative) of articles on that topic, as well the propaganda level (deception intention) of the text regardless of its topic. The goal is to provide a system that not only can recommend content that is most interesting to each user, but also warn of potential harmful articles and attempts of disinformation.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       85],
+      "assets/images/resized/0010/9205/109205v2-max-150x150.png"],
+     [[250,
+       142],
+      "assets/images/resized/0010/9205/109205v2-max-250x250.png"],
+     [[450,
+       257],
+      "assets/images/resized/0010/9205/109205v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Georgi",
+      "last_name": "Dinkov",
+      "permalink": "georgi-dinkov",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-counder",
+    "person":
+     {"first_name": "Jack",
+      "last_name": "Dempsey",
+      "permalink": "jack-dempsey",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Reddit",
+      "permalink": "reddit",
+      "image":
+       {"available_sizes":
+         [[[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-150x150.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-250x250.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal and PR",
+    "is_past": false,
+    "provider":
+     {"name": "Pillsbury Law",
+      "permalink": "pillsbury-law",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://patriotentrepreneur.gmu.edu/issues/aug_2009/feature_entrepreneur.html",
+    "title": "GMU Entrepreneurial Journal"}]}

@@ -1,0 +1,147 @@
+{"name": "Podclass",
+ "permalink": "podclass",
+ "crunchbase_url": "http://www.crunchbase.com/company/podclass",
+ "homepage_url": "http://www.podclass.com",
+ "blog_url": "http://www.podclass.com/blog/",
+ "blog_feed_url": "http://www.podclass.com/blog/feed/",
+ "twitter_username": "GaryGil",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-classes, elearning, online-teaching, online-learning",
+ "alias_list": "",
+ "email_address": "gary@podclass.com",
+ "phone_number": "858-793-6259",
+ "description": "An eLearning Platform",
+ "created_at": "Wed Dec 08 20:52:19 UTC 2010",
+ "updated_at": "Thu Jun 16 21:50:14 UTC 2011",
+ "overview": "\u003Cp\u003EPodclass is one of the first round fbFund recipients and is an online teaching and learning community that enables anyone to teach online classes on any subject and get paid for their expertise. Students can access the content from Podclass.com or from within Facebook.\u003C/p\u003E\n\n\u003Cp\u003EUsing Podclass, users can create complete paid or free online classes, offer virtual seminars or workshops, upload podcasts and even offer private membership courses.\u003C/p\u003E\n\n\u003Cp\u003EPodclass offers an API that interfaces with an industry-standard learning management system used by over 50,000 colleges, universities and companies worldwide, enabling students from these institutions to access courses inside of Facebook using the Podclass Facebook app.\u003C/p\u003E\n\n\u003Cp\u003EPodclass is in public beta.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0011/3530/113530v2-max-150x150.jpg"],
+     [[226,
+       113],
+      "assets/images/resized/0011/3530/113530v2-max-250x250.jpg"],
+     [[226,
+       113],
+      "assets/images/resized/0011/3530/113530v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Udemy",
+      "permalink": "udemy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0005/9608/59608v3-max-150x150.png"],
+          [[150,
+            50],
+           "assets/images/resized/0005/9608/59608v3-max-250x250.png"],
+          [[150,
+            50],
+           "assets/images/resized/0005/9608/59608v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NIXTY",
+      "permalink": "nixty",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0007/8962/78962v2-max-150x150.png"],
+          [[200,
+            81],
+           "assets/images/resized/0007/8962/78962v2-max-250x250.png"],
+          [[200,
+            81],
+           "assets/images/resized/0007/8962/78962v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Cloud hosting \u0026 CDN",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "CDN",
+    "is_past": true,
+    "provider":
+     {"name": "LimeLight Networks",
+      "permalink": "limelight-networks",
+      "image": null}},
+   {"title": "Hosting",
+    "is_past": true,
+    "provider":
+     {"name": "Rackspace Hosting",
+      "permalink": "rackspace-hosting",
+      "image": null}}],
+ "total_money_raised": "$250k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "http://www.facebook.com/press/releases.php?p=48242",
+    "source_description": "Facebook fbFund",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 8,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "12526 High Bluff Dr.",
+    "address2": "Suite 300",
+    "zip_code": "92130",
+    "city": "San Diego",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        114],
+       "assets/images/resized/0011/3398/113398v2-max-150x150.png"],
+      [[250,
+        190],
+       "assets/images/resized/0011/3398/113398v2-max-250x250.png"],
+      [[421,
+        321],
+       "assets/images/resized/0011/3398/113398v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

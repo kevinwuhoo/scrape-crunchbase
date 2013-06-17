@@ -1,0 +1,92 @@
+{"name": "SimplyTapp",
+ "permalink": "simplytapp",
+ "crunchbase_url": "http://www.crunchbase.com/company/simplytapp",
+ "homepage_url": "http://www.simplytapp.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "contactless-payment, contactlesspayment, mobile-payment, mobilepayment, nfc, nfc-payment, nfc-payments, nfcpayment, nfcpayments, payment, point-of-sale, pointofsale, tap-to-pay, taptopay, mobile, payments, mobile-payments, qr, coupons, pos-terminals, bank",
+ "alias_list": null,
+ "email_address": "info@simplytapp.com",
+ "phone_number": "5122982774",
+ "description": "Mobile payments distribution ",
+ "created_at": "Wed Apr 10 16:25:07 UTC 2013",
+ "updated_at": "Wed Apr 10 16:25:15 UTC 2013",
+ "overview": "\u003Cp\u003ESimplyTapp was founded in 2011 and is headquartered in Austin, Texas. They provide mobile payment distribution and authorization solutions for enterprises including financial institutions, big box retailers, fueling stations, quick service merchants as well as mobile wallet providers and developers.\u003C/p\u003E\n\n\u003Cp\u003ETheir solutions leverage emerging payment and distribution technologies like NFC as well as traditional technologies like 2D bar codes and QR codes to add secure and flexible payment functionality to mobile applications.  \u003C/p\u003E\n\n\u003Cp\u003EMoreover, SimplyTapp\u0026#8217;s solutions utilize the existing payment infrastructure such as card networks, existing and near term payment acceptance terminals.  \u003C/p\u003E\n\n\u003Cp\u003ESimplyTapp offers both branded and white label solutions. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Ted",
+      "last_name": "Fifelski",
+      "permalink": "ted-fifelski",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Doug",
+      "last_name": "Yeager",
+      "permalink": "doug-yeager",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Isis Mobile Commerce",
+      "permalink": "isis-mobile-commerce",
+      "image": null}},
+   {"competitor":
+     {"name": "Google wallet",
+      "permalink": "google-wallet",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Not authorized to disclose",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 2,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "114 west 7th street Suite 1240",
+    "address2": "",
+    "zip_code": "78701",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.engadget.com/2012/08/29/cyanogenmod-simplytapp-nfc-payment/",
+    "title": "SimplyTapp released with CM9.1"},
+   {"external_url": "http://www.nfcworld.com/2012/09/19/317966/simplytapp-proposes-secure-elements-in-the-cloud/",
+    "title": "could based NFC payments"}]}

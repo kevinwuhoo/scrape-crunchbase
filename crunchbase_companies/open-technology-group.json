@@ -1,0 +1,113 @@
+{"name": "Open Technology Group",
+ "permalink": "open-technology-group",
+ "crunchbase_url": "http://www.crunchbase.com/company/open-technology-group",
+ "homepage_url": "http://www.otg-nc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "consulting",
+ "number_of_employees": 7,
+ "founded_year": 2004,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "python-training, django-training, django, python, php-training, linux-training, mapserver, mapserver-training, openlayers, openlayers-training, postgis, postgis-training, postgresql, postgresql-training, postgres-training, mysql, mysql-training",
+ "alias_list": null,
+ "email_address": "info@otg-nc.com",
+ "phone_number": "919-463-0999",
+ "description": null,
+ "created_at": "Mon Jan 05 01:33:50 UTC 2009",
+ "updated_at": "Sat Jan 10 14:43:48 UTC 2009",
+ "overview": "\u003Cp\u003EThe Open Technology Group (OTG) is a training company focused primarily on Open Source Technologies.\u003C/p\u003E\n\n\u003Cp\u003EOTG develops and delivers training solutions focused around  a wide range of Open Source technologies including PostgreSQL, MySQL, Python, PHP, Django, PostGIS, OpenLayers, UMN MapServer, Linux, Apache, and others. \u003C/p\u003E\n\n\u003Cp\u003EOTG also provides customized training solutions and consulting services.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0003/3012/33012v1-max-150x150.png"],
+     [[193,
+       71],
+      "assets/images/resized/0003/3012/33012v1-max-250x250.png"],
+     [[193,
+       71],
+      "assets/images/resized/0003/3012/33012v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Chander",
+      "last_name": "Ganesan",
+      "permalink": "chander-ganesan",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Big Nerd Ranch",
+      "permalink": "big-nerd-ranch",
+      "image":
+       {"available_sizes":
+         [[[101,
+            150],
+           "assets/images/resized/0002/7626/27626v2-max-150x150.jpg"],
+          [[168,
+            250],
+           "assets/images/resized/0002/7626/27626v2-max-250x250.jpg"],
+          [[304,
+            450],
+           "assets/images/resized/0002/7626/27626v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Big Nerd Ranch Consulting",
+      "permalink": "big-nerd-ranch-consulting",
+      "image":
+       {"available_sizes":
+         [[[150,
+            12],
+           "assets/images/resized/0003/9625/39625v1-max-150x150.png"],
+          [[250,
+            20],
+           "assets/images/resized/0003/9625/39625v1-max-250x250.png"],
+          [[450,
+            36],
+           "assets/images/resized/0003/9625/39625v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1 Copley Parkway, Suite 210",
+    "address2": "",
+    "zip_code": "27560",
+    "city": "Morrisville",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": 35.864045,
+    "longitude": -78.820816}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.baldguyweb.com/blog/2008/08/shameless_unpaid_endorsement_the_open_technology_group.php",
+    "title": ""},
+   {"external_url": "http://www.2paths.com/blog/burbles/postgresql-administration-course-morrisville-nc-march-2007/",
+    "title": ""},
+   {"external_url": "http://people.planetpostgresql.org/paul/index.php?/archives/7-PostgreSQL-Performance-Tuning-class-rocked....html",
+    "title": ""},
+   {"external_url": "http://www.mikesimonds.com/php-ajax-class-review-open-technology-group-t55.html",
+    "title": ""}]}

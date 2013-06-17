@@ -1,0 +1,125 @@
+{"name": "Lainaaja",
+ "permalink": "lainaaja",
+ "crunchbase_url": "http://www.crunchbase.com/company/lainaaja",
+ "homepage_url": "http://www.lainaaja.fi/",
+ "blog_url": "http://www.lainaaja.fi/blogi",
+ "blog_feed_url": "http://feeds.feedburner.com/Lainaaja",
+ "twitter_username": "ttalola",
+ "category_code": "other",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "p2p-lending, bank-2-0, financial-innovation",
+ "alias_list": null,
+ "email_address": "lainaaja@lainaaja.fi",
+ "phone_number": "+358453483825",
+ "description": "P2P-Lending ",
+ "created_at": "Fri Jul 16 13:46:59 UTC 2010",
+ "updated_at": "Sat Jan 14 00:34:29 UTC 2012",
+ "overview": "\u003Cp\u003ELainaaja.fi is P2P-lending marketplace for individuals and businesses.\u003C/p\u003E\n\n\u003Cp\u003ELainaaja is the first person-to-person lending marketplace in Finland. Currently we are  alpha testing, planned launch is in autumn 2010. At first we are available only in Finland.\u003C/p\u003E\n\n\u003Cp\u003EWhat is the idea of P2P lending? \u003C/p\u003E\n\n\u003Cp\u003EP2P lending makes it possible for people to get loans at lower rate than through traditional financial institutions. Lenders, on the other hand, can get decent return for alternative investment.\u003C/p\u003E\n\n\u003Cp\u003EHow it works?\u003C/p\u003E\n\n\u003Cp\u003EIndividuals can make a loan application at Lainaaja.fi. Each applicant is credit- and identity-checked. Lenders can make offers to the loan, they can set the interest rate, but only the best offers participate in the loan. If loan gets funded, then borrower starts to repaying to Lainaaja\u0026#8217;s account. Lenders can re-invest or transfer money back to their own bank accounts.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder, CEO",
+    "person":
+     {"first_name": "Tuomas",
+      "last_name": "Talola",
+      "permalink": "tuomas-talola",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, CFO",
+    "person":
+     {"first_name": "Henri",
+      "last_name": "Norio",
+      "permalink": "henri-norio",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Ville",
+      "last_name": "Leino",
+      "permalink": "ville-leino",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Zopa",
+      "permalink": "zopa",
+      "image":
+       {"available_sizes":
+         [[[141,
+            89],
+           "assets/images/resized/0001/2097/12097v1-max-150x150.png"],
+          [[141,
+            89],
+           "assets/images/resized/0001/2097/12097v1-max-250x250.png"],
+          [[141,
+            89],
+           "assets/images/resized/0001/2097/12097v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Lending Club",
+      "permalink": "lendingclub",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0000/4531/4531v4-max-150x150.jpg"],
+          [[250,
+            50],
+           "assets/images/resized/0000/4531/4531v4-max-250x250.jpg"],
+          [[307,
+            62],
+           "assets/images/resized/0000/4531/4531v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Prosper",
+      "permalink": "prosper",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0000/0070/70v3-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0000/0070/70v3-max-250x250.png"],
+          [[450,
+            69],
+           "assets/images/resized/0000/0070/70v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Hietalahdenkatu 2 B 18",
+    "address2": "",
+    "zip_code": "00180",
+    "city": "Helsinki",
+    "state_code": null,
+    "country_code": "FIN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.talouselama.fi/uutiset/article428601.ece",
+    "title": "Story of us (in Finnish)"}]}

@@ -1,0 +1,95 @@
+{"name": "Paremus",
+ "permalink": "paremus",
+ "crunchbase_url": "http://www.crunchbase.com/company/paremus",
+ "homepage_url": "http://www.paremus.com",
+ "blog_url": "http://blogs.paremus.com/",
+ "blog_feed_url": "",
+ "twitter_username": "service_fabric",
+ "category_code": "software",
+ "number_of_employees": 12,
+ "founded_year": 2001,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "osgi, cloud-computing",
+ "alias_list": null,
+ "email_address": "info@paremus.com",
+ "phone_number": "+44 207 936 9098",
+ "description": "OSGi based private Cloud",
+ "created_at": "Tue Nov 02 11:30:40 UTC 2010",
+ "updated_at": "Mon Apr 22 14:25:20 UTC 2013",
+ "overview": "\u003Cp\u003EParemus provides an OSGi based private-cloud runtime: the Paremus Service Fabric. \u003C/p\u003E\n\n\u003Cp\u003EThe Service Fabric replaces traditional silo-ed application server \u0026amp; compute Grids and associated ad-hoc  provisioning, management \u0026amp; CMDB tools; with an elastic, self repairing, self-describing runtime; where composite applications are dynamically assembled on-demand.\u003C/p\u003E\n\n\u003Cp\u003EThe Paremus Service Fabric can be used as the distributed runtime for your OSGi Blueprint, Declarative Service or Spring applications and also supports JEE and WAR based applications via support for Glassfish, Jetty and Tomcat. \u003C/p\u003E\n\n\u003Cp\u003EThe Paremus Service Fabric command and control sub-systems adaptively distributed across available compute nodes. \u003C/p\u003E\n\n\u003Cp\u003EParemus engineers contribute the a number of OSGi Alliance initiatives and currently lead the OBR resolver RFC and the OSGi / Cloud computing RFP. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       113],
+      "assets/images/resized/0010/8256/108256v2-max-150x150.jpg"],
+     [[250,
+       189],
+      "assets/images/resized/0010/8256/108256v2-max-250x250.jpg"],
+     [[450,
+       340],
+      "assets/images/resized/0010/8256/108256v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Advisory Board Member",
+    "person":
+     {"first_name": "Jean-Luc",
+      "last_name": "Vaillant",
+      "permalink": "jean-luc-vaillant",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0014/6269/146269v1-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0014/6269/146269v1-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0014/6269/146269v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Nicholson",
+      "permalink": "richard-nicholson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office ",
+    "address1": "107/111 Fleet Street ",
+    "address2": "",
+    "zip_code": "EC4A 2AB",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,116 @@
+{"name": "Music.Info",
+ "permalink": "music-info",
+ "crunchbase_url": "http://www.crunchbase.com/company/music-info",
+ "homepage_url": "http://musicinfo.fi",
+ "blog_url": "http://blog.musicinfo.fi",
+ "blog_feed_url": "http://blog.musicinfo.fi/rss",
+ "twitter_username": "musicinfooy",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music-information, music-knowledge, music-database, music-discovery, music-startup, metadata, music, releases, albums, artists, bands",
+ "alias_list": null,
+ "email_address": "info@musicinfo.fi",
+ "phone_number": "+358458498340",
+ "description": "The search engine of music.",
+ "created_at": "Tue Feb 26 10:17:50 UTC 2013",
+ "updated_at": "Thu Feb 28 05:23:59 UTC 2013",
+ "overview": "\u003Cp\u003EMusic.Info is the search engine of music.\u003C/p\u003E\n\n\u003Cp\u003EThe service aggregates the information about bands, artists, and everything around them and presents them in an artist profile. \u003C/p\u003E\n\n\u003Cp\u003EThe information it gathers is fetched from multiple sources, and it contains: biographies, discographies, photos, videos, related websites, suggested artists (examples of sources: Discogs, Last.FM, Wikipedia e.t.c.)\u003C/p\u003E\n\n\u003Cp\u003EThe user can experience an in-depth search on his/hers interested bands and artists while at the same time, he or she is able to buy their releases from various sources (for example iTunes, amazon, 7digital, to name a few).\u003C/p\u003E\n\n\u003Cp\u003ECurrently Music.Info is under heavy development but users can register via email to get notified when it goes live. The service has an accessible ALPHA version where users can test and taste what\u0026#8217;s to come.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/8642/238642v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0023/8642/238642v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0023/8642/238642v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Kari",
+      "last_name": "Halttunen",
+      "permalink": "kari-halttunen",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO \u0026 Founder",
+    "person":
+     {"first_name": "Antti",
+      "last_name": "Jokipii",
+      "permalink": "antti-jokipii",
+      "image": null}},
+   {"is_past": false,
+    "title": "Software Designer",
+    "person":
+     {"first_name": "Toni",
+      "last_name": "Latvakoski",
+      "permalink": "toni-latvakoski",
+      "image": null}},
+   {"is_past": false,
+    "title": "User Experience Designer",
+    "person":
+     {"first_name": "Angelos",
+      "last_name": "Arnis",
+      "permalink": "angelos-arnis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Allmusic",
+      "permalink": "allmusic",
+      "image": null}},
+   {"competitor":
+     {"name": "Gracenote",
+      "permalink": "gracenote",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0001/7591/17591v1-max-150x150.png"],
+          [[215,
+            73],
+           "assets/images/resized/0001/7591/17591v1-max-250x250.png"],
+          [[215,
+            73],
+           "assets/images/resized/0001/7591/17591v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Ylist\u00f6nm\u00e4entie 24",
+    "address2": "",
+    "zip_code": "40500",
+    "city": "Jyv\u00e4skyl\u00e4",
+    "state_code": null,
+    "country_code": "FIN",
+    "latitude": 62.2259508,
+    "longitude": 25.7453973}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

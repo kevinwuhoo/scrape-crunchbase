@@ -1,0 +1,87 @@
+{"name": "Darcy Ripper",
+ "permalink": "darcy-ripper",
+ "crunchbase_url": "http://www.crunchbase.com/company/darcy-ripper",
+ "homepage_url": "http://www.darcyripper.com",
+ "blog_url": "http://www.darcyripper.com/blog/",
+ "blog_feed_url": "http://darcyripper.com/blog/feed/",
+ "twitter_username": "DarcyRipper",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2013,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "scraper-software, web-crawler, web-ripper, web-spider",
+ "alias_list": null,
+ "email_address": "narrowteq@gmail.com",
+ "phone_number": "+40761973806",
+ "description": "Website Scraper Software ",
+ "created_at": "Sun Jun 09 07:55:37 UTC 2013",
+ "updated_at": "Mon Jun 10 19:05:52 UTC 2013",
+ "overview": "\u003Cp\u003EDarcy Ripper is apure Java multi-platform web crawler (web ripper). Darcy is a standalone multi-platform Graphical User Interface Application that can be used by simple users as well as programmers to download web related resources.\u003C/p\u003E\n\n\u003Cp\u003EDarcy Ripper offers a large list of features:\u003C/p\u003E\n\n\u003Cp\u003EGraphical User Interface\nMulti-platform;\nReal-time view of the download job progress;\nPause/Resume/Stop download job anytime;\nSave and Load download job template files;\nRegular Expression Tester;\nCheck for Updates support;\nOnline Help and support.\u003C/p\u003E\n\n\u003Cp\u003EGeneral Download Features\nMultithreaded \u2013 configurable number of parallel download jobs to run at a certain period of time;\nMemory control options \u2013 user can control what happens to download jobs after they finish;\nMultiple starting points (URLs) for download job \u2013 user can specify multiple hosts on which a download job can run.\u003C/p\u003E\n\n\u003Cp\u003EHTTP Connection Features\nHTTP/HTTPS support;\nGZip compression support;\nHTTP Proxy support;\nWWW Authentication support;\nCookies support;\nRequest customization support: referral behavior, configurable agent name;\nHTTP response code analysis and configurable behavior;\nConnection limits support: number of maximum connections per server, retries number control, bandwidth limitation, limitation depending on the HTTP response code.\u003C/p\u003E\n\n\u003Cp\u003EDownload Control Features\nMaximum search depth support;\nMaximum number of followed links support;\nMaximum time limit support;\nDownloaded file size support;\nFollowed URL prefix support;\nHostname limitation support;\nSave to Disk limitation support;\nResponse behavior limitation matching response header with regular expressions;\nResponse behavior limitation matching response content with regular expressions;\nDownloaded file content limitation support.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0027/3276/273276v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0027/3276/273276v2-max-250x250.png"],
+     [[300,
+       100],
+      "assets/images/resized/0027/3276/273276v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Co",
+      "last_name": "founder",
+      "permalink": "co-founder",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Narrowteq",
+    "address1": "Vlad Tepes nr 16",
+    "address2": "",
+    "zip_code": "200346",
+    "city": "Craiova",
+    "state_code": "NY",
+    "country_code": "ROM",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        125],
+       "assets/images/resized/0027/3275/273275v2-max-150x150.png"],
+      [[250,
+        208],
+       "assets/images/resized/0027/3275/273275v2-max-250x250.png"],
+      [[450,
+        375],
+       "assets/images/resized/0027/3275/273275v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

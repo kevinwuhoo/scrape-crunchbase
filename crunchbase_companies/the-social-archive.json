@@ -1,0 +1,139 @@
+{"name": "Archiver",
+ "permalink": "the-social-archive",
+ "crunchbase_url": "http://www.crunchbase.com/company/the-social-archive",
+ "homepage_url": "http://archiver.co",
+ "blog_url": "http://archiver.co/news.html",
+ "blog_feed_url": "http://dataranch.net/archiver/stream.xml",
+ "twitter_username": "socialarchive",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, social-networking, archive, archiving-social-media, digital-society, identica",
+ "alias_list": null,
+ "email_address": "admin@archiver.co",
+ "phone_number": "(801)TSA-HELP",
+ "description": "Archiving digital society.",
+ "created_at": "Thu Oct 28 21:57:28 UTC 2010",
+ "updated_at": "Tue Mar 08 06:59:35 UTC 2011",
+ "overview": "\u003Cp\u003EArchiver contains historical tweets and other status messages. Using its API you can retrieve a real-time stream, as we as search Twitter by keyword.\u003C/p\u003E\n\n\u003Cp\u003EArchiver, as the name suggests, aims to be a place to store messages permanently. It also aims to be as open as possible, providing access to its data and information. Using the service you can search by keyword, user, location or hash tag. You can also specify Twitter-only results, another service, or receive results from any service archived by The Social Archive.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[131,
+       150],
+      "assets/images/resized/0010/7784/107784v2-max-150x150.png"],
+     [[219,
+       250],
+      "assets/images/resized/0010/7784/107784v2-max-250x250.png"],
+     [[289,
+       329],
+      "assets/images/resized/0010/7784/107784v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Financial",
+    "person":
+     {"first_name": "John",
+      "last_name": "Foster",
+      "permalink": "john-foster",
+      "image":
+       {"available_sizes":
+         [[[119,
+            150],
+           "assets/images/resized/0004/7823/47823v1-max-150x150.jpg"],
+          [[139,
+            175],
+           "assets/images/resized/0004/7823/47823v1-max-250x250.jpg"],
+          [[139,
+            175],
+           "assets/images/resized/0004/7823/47823v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "President ",
+    "person":
+     {"first_name": "Mendel",
+      "last_name": "Kurland",
+      "permalink": "mendel-kurland",
+      "image":
+       {"available_sizes":
+         [[[96,
+            96],
+           "assets/images/resized/0010/7783/107783v2-max-150x150.jpg"],
+          [[96,
+            96],
+           "assets/images/resized/0010/7783/107783v2-max-250x250.jpg"],
+          [[96,
+            96],
+           "assets/images/resized/0010/7783/107783v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Topsy Labs",
+      "permalink": "topsy-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0004/5571/45571v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0004/5571/45571v1-max-250x250.png"],
+          [[284,
+            78],
+           "assets/images/resized/0004/5571/45571v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "tweetscan.com",
+      "permalink": "tweetscan-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2011,
+   "acquired_month": 4,
+   "acquired_day": 11,
+   "acquiring_company":
+    {"name": "World Life Networks",
+     "permalink": "world-life-networks",
+     "image": null}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Iowa City",
+    "state_code": "IA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.programmableweb.com/2010/10/25/at-least-four-ways-to-search-twitter-via-api/",
+    "title": "At Least Four Ways to Search Twitter Via API (Programmable Web)"},
+   {"external_url": "http://archiver.co/api.html",
+    "title": "The Social Archive API"}]}

@@ -1,0 +1,105 @@
+{"name": "Artlog",
+ "permalink": "artlog",
+ "crunchbase_url": "http://www.crunchbase.com/company/artlog",
+ "homepage_url": "http://artlog.com",
+ "blog_url": "http://artlog.com",
+ "blog_feed_url": "http://feeds.feedburner.com/artlog/in_focus",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "art, galleries, portfolios, portfolio-software, gallery-manager, design, social-community, artists, painters, photography, blog, art-blog, content-management-system",
+ "alias_list": null,
+ "email_address": "artlog@artlog.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Dec 02 04:22:26 UTC 2008",
+ "updated_at": "Sat Dec 06 14:43:32 UTC 2008",
+ "overview": "\u003Cp\u003EArtlog is a social platform for artists, art institutions and art lovers. \u003C/p\u003E\n\n\u003Cp\u003EArtists use Artlog to build portfolio websites, market and sell artworks, find exhibition opportunities and network with gallerists, dealers and curators.  Art lovers use Artlog to discover and purchase art and design and attend art events. Art institutions and insiders use artlog to build audiences and clients, publicize events, network,  and recruit/find jobs\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0003/0631/30631v2-max-150x150.jpg"],
+     [[250,
+       83],
+      "assets/images/resized/0003/0631/30631v2-max-250x250.jpg"],
+     [[450,
+       150],
+      "assets/images/resized/0003/0631/30631v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Manish",
+      "last_name": "Vora",
+      "permalink": "manish-vora",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dylan",
+      "last_name": "Fareed",
+      "permalink": "dylan-fareed",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/3142/273142v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/3142/273142v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/3142/273142v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "artcloud",
+      "permalink": "artcloud",
+      "image": null}},
+   {"competitor":
+     {"name": "myartinfo",
+      "permalink": "myartinfo",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0003/0630/30630v2-max-150x150.jpg"],
+      [[250,
+        156],
+       "assets/images/resized/0003/0630/30630v2-max-250x250.jpg"],
+      [[450,
+        281],
+       "assets/images/resized/0003/0630/30630v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://mashable.com/2008/06/04/artlog/",
+    "title": "Artlog Brings Artists And Art Aficionados Together"}]}

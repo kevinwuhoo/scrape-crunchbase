@@ -1,0 +1,87 @@
+{"name": "Dezide",
+ "permalink": "dezide",
+ "crunchbase_url": "http://www.crunchbase.com/company/dezide",
+ "homepage_url": "http://www.dezide.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 12,
+ "founded_year": 2001,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ai, artificial-intelligence, decision-support, bayesian, troubleshooting",
+ "alias_list": null,
+ "email_address": "info@dezide.com",
+ "phone_number": "0045 96557370",
+ "description": null,
+ "created_at": "Wed May 14 12:01:52 UTC 2008",
+ "updated_at": "Fri May 30 10:37:20 UTC 2008",
+ "overview": "\u003Cp\u003EDezide develops software for decision support and guided troubleshooting. The software can be used through web-based interfaces, standalone tools and embedded in larger software systems. It is primarily used to optimize technical customer service functions with better self-service and better internal knowledge sharing, but it can in principle be used in any kind of decision scenario, where a user should be guided to the best solution/recommendation through a sequence of questions.\u003C/p\u003E\n\n\u003Cp\u003EIn this way, slow and error-prone fault diagnostics and problem solving processes when servicing complex products can be made much more efficient, precise and consistent.\u003C/p\u003E\n\n\u003Cp\u003EThe product is based on Artificial Intelligence technology (Bayesian Networks) to make it more:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Escalable: no other technology world-wide can scale to handle the extreme complexity that Dezide Advisor can handle.\u003C/li\u003E\n\u003Cli\u003Emuch more precise: even when facing very high uncertainty and conflicting information, we can mathematically prove that Dezide Advisor will reach the correct conclusions.\u003C/li\u003E\n\u003Cli\u003Emuch easier to maintain and manage: special patented knowledge management tools for developing the knowledge base makes it easy and fast to structure and maintain the knowledge.\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       113],
+      "assets/images/resized/0001/8564/18564v2-max-150x150.jpg"],
+     [[250,
+       189],
+      "assets/images/resized/0001/8564/18564v2-max-250x250.jpg"],
+     [[394,
+       299],
+      "assets/images/resized/0001/8564/18564v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Claus",
+      "last_name": "Skaaning",
+      "permalink": "claus-skaaning",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$350k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 350000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2003,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "Gasv\u00c3\u00a6rksvej 5",
+    "address2": "",
+    "zip_code": "DK-9000",
+    "city": "Aalborg",
+    "state_code": null,
+    "country_code": "DNK",
+    "latitude": 57.047302,
+    "longitude": 9.945944}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.dezide.com",
+    "title": "Dezide homepage"}]}

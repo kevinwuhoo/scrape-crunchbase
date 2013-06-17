@@ -1,0 +1,199 @@
+{"name": "licobo",
+ "permalink": "licobo",
+ "crunchbase_url": "http://www.crunchbase.com/company/licobo",
+ "homepage_url": "http://licobo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "licobo",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "address-book, contact, cloud, sync, id, share, encryption, privacy, data-protection",
+ "alias_list": null,
+ "email_address": "info@licobo.com",
+ "phone_number": "+4962148345965",
+ "description": "your new address book",
+ "created_at": "Fri Apr 19 09:01:24 UTC 2013",
+ "updated_at": "Thu May 16 02:52:24 UTC 2013",
+ "overview": "\u003Cp\u003Elicobo is an online address book which keeps contact information up-to-date, eliminates the need of phone numbers and addresses with the help of short ID\u2018s and is completely encrypted to protect the data. There is also the possibility to share address books to use it in a team and to sync it with most devices. The German start-up licobo combines all this awesome features in a free cloud service.\nIt is based on the well known system of business cards \u2013 just digital and in the cloud.\nEverybody creates an own virtual business card where all personal contact information such as phone numbers and profiles of social networks are stored in. This card is linked to a so called licobo-ID. If a friend hands you such an ID, the system will know all possibilities to contact him and always guarantees up-to-date information.\nHeart of the system is an online address book where all the contacts can be managed. This is similar to the address books which most of us already use. In addition there are more innovative features which make the life easier. Contacts will be automatically updated as soon as the owners change their card. For example if your friend changes his cell phone number you will have it in your address book just a few seconds later.\nThis address book can be accessed via a computer or smartphone and can be synchronized with almost any device.\nAnother big advantage of licobo are sharable objects. This could be an address book of customer information, that can be easily shared with a team.\nLicobo is taking the data protection to an entirely new level. Using a new type of encryption technology all contact data is securely encrypted with the user\u2018s password. That means nobody, even not licobo as the provider, can access data or misuse it for advertising. Thus licobo can guarantee absolute privacy.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0025/3023/253023v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0025/3023/253023v2-max-250x250.png"],
+     [[450,
+       150],
+      "assets/images/resized/0025/3023/253023v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Felix",
+      "last_name": "Kollmar",
+      "permalink": "felix-kollmar",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Amann",
+      "permalink": "david-amann",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Plaxo",
+      "permalink": "plaxo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/3880/3880v7-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0000/3880/3880v7-max-250x250.png"],
+          [[450,
+            141],
+           "assets/images/resized/0000/3880/3880v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gist",
+      "permalink": "gist",
+      "image":
+       {"available_sizes":
+         [[[150,
+            76],
+           "assets/images/resized/0004/3210/43210v1-max-150x150.jpg"],
+          [[211,
+            107],
+           "assets/images/resized/0004/3210/43210v1-max-250x250.jpg"],
+          [[211,
+            107],
+           "assets/images/resized/0004/3210/43210v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Xobni",
+      "permalink": "xobni",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/0568/568v2-max-150x150.png"],
+          [[198,
+            65],
+           "assets/images/resized/0000/0568/568v2-max-250x250.png"],
+          [[198,
+            65],
+           "assets/images/resized/0000/0568/568v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cobook",
+      "permalink": "codo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0017/4660/174660v2-max-150x150.png"],
+          [[232,
+            232],
+           "assets/images/resized/0017/4660/174660v2-max-250x250.png"],
+          [[232,
+            232],
+           "assets/images/resized/0017/4660/174660v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Brewster",
+      "permalink": "brewster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            139],
+           "assets/images/resized/0021/6001/216001v1-max-150x150.png"],
+          [[207,
+            192],
+           "assets/images/resized/0021/6001/216001v1-max-250x250.png"],
+          [[207,
+            192],
+           "assets/images/resized/0021/6001/216001v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "fruux",
+      "permalink": "fruux",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0002/8446/28446v2-max-150x150.png"],
+          [[250,
+            92],
+           "assets/images/resized/0002/8446/28446v2-max-250x250.png"],
+          [[250,
+            92],
+           "assets/images/resized/0002/8446/28446v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "licobo GmbH",
+    "address1": "Julius-Hatry-Str. 1",
+    "address2": "",
+    "zip_code": "68163",
+    "city": "Mannheim",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 49.4677562,
+    "longitude": 8.506636}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0025/3022/253022v2-max-150x150.jpg"],
+      [[250,
+        155],
+       "assets/images/resized/0025/3022/253022v2-max-250x250.jpg"],
+      [[450,
+        280],
+       "assets/images/resized/0025/3022/253022v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://t3n.de/news/licobo-deutsches-startup-456023/",
+    "title": "t3n (German)"}]}

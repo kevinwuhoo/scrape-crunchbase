@@ -1,0 +1,91 @@
+{"name": "SocketLabs",
+ "permalink": "socketlabs",
+ "crunchbase_url": "http://www.crunchbase.com/company/socketlabs",
+ "homepage_url": "http://www.socketlabs.com",
+ "blog_url": "http://www.socketlabs.com/blog",
+ "blog_feed_url": "http://feeds2.feedburner.com/socketlabs",
+ "twitter_username": "socketlabs",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email-marketing, smtp, smtp-server, smtp-service",
+ "alias_list": null,
+ "email_address": "sales@socketlabs.com",
+ "phone_number": "484-419-1285",
+ "description": "Transactional Email Delivered",
+ "created_at": "Tue Aug 31 20:19:11 UTC 2010",
+ "updated_at": "Tue Aug 31 21:31:11 UTC 2010",
+ "overview": "\u003Cp\u003ESocketLabs provides hosted and on-premise software solutions for the delivery of marketing and transactional email.  \u003C/p\u003E\n\n\u003Cp\u003ESocketLabs Email On-Demand is a cloud based, fully managed, SMTP relay service for delivering email. The service is fully managed and provides ISP throttling, DKIM authentication, bounce and complaint processing, accredited IP addresses and automated list hygiene.  Email can be tracked via an online web console or through a Rest API.\u003C/p\u003E\n\n\u003Cp\u003ESocketLabs\u0026#8217; two on-premise products include Hurricane MTA Server and Hurricane Assembly Server:\u003C/p\u003E\n\n\u003Cp\u003EHurricane MTA Server is a very advanced SMTP MTA designed specifically for the Windows platform and provides high througput and deliverability. Hurricane MTA Server\u0026#8217;s event driven plugin API fires events in your .Net code with real time delivery information right down to the message level. Hurricane MTA Server is capable of delivering over 1 million messages per hour and supports all the latest authentication standards such as SPF, SenderId, DomainKeys and DKIM.\u003C/p\u003E\n\n\u003Cp\u003EHurricane Assembly Server is a turn-key, high performance, scalable email message assembly server with powerful merge \u0026amp; customization capabilities. It provides a solution to the challenges of construction, merging, customization, scalability, tracking, reporting, integration, list hygiene and fail-safe operation. It integrates perfectly with Microsoft SQL Server.v\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       22],
+      "assets/images/resized/0010/0079/100079v2-max-150x150.jpg"],
+     [[250,
+       36],
+      "assets/images/resized/0010/0079/100079v2-max-250x250.jpg"],
+     [[450,
+       66],
+      "assets/images/resized/0010/0079/100079v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Alessi",
+      "permalink": "john-alessi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SendGrid",
+      "permalink": "sendgrid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0010/7565/107565v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-250x250.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "650 Naamans Road",
+    "address2": "Suite 307",
+    "zip_code": "19703",
+    "city": "Claymont",
+    "state_code": "DE",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

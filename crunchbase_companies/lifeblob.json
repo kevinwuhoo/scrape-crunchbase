@@ -1,0 +1,167 @@
+{"name": "Lifeblob",
+ "permalink": "lifeblob",
+ "crunchbase_url": "http://www.crunchbase.com/company/lifeblob",
+ "homepage_url": "http://www.lifeblob.com/",
+ "blog_url": "http://blog.lifeblob.com",
+ "blog_feed_url": "http://feeds.feedburner.com/lifeblob",
+ "twitter_username": "lifeblob",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "timeline, social-timeline, lifestream, memories, experiences, photo-sharing",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Sep 25 00:04:37 UTC 2008",
+ "updated_at": "Sat Jan 05 23:49:37 UTC 2013",
+ "overview": "\u003Cp\u003ELifeblob is a social timeline service where you can get your life on a timeline and see how it intersects with your friends and family at various points in time.\u003C/p\u003E\n\n\u003Cp\u003EThe core feature of the offering is a timeline that shows events in your life on a time scale. Each of these events, also known as blobs are composed of media ( photos, videos, text ) and relations ( people, place, interests, timelines, other things you care about ). Every relation in lifeblob is represented as a timeline - the interesting thing about these timelines is that they are connected with each other.\u003C/p\u003E\n\n\u003Cp\u003EAn example to show how this works - If you come back from a trip with your friends, you can make a post on your timeline and add your friends as participants. This immediately causes the post to show up on your timeline and also the timelines of your friends. Add to it that you were in Las Vegas and the post also starts showing up on the Las Vegas timeline.\u003C/p\u003E\n\n\u003Cp\u003EThis builds an interesting social structure where as your friends and family add posts to their timelines, those relevant to you become a part of your timeline automatically. It also turns on interesting discovery mechanisms where if you are planning to visit a place, you can meet people who have been there or live there on the place timeline and connect with them.\u003C/p\u003E\n\n\u003Cp\u003ETimelines can be used to map your personal life, showcase achievements of your company, keep a runbook of events of your community and educational purposes too.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[131,
+       40],
+      "assets/images/resized/0002/5933/25933v2-max-150x150.png"],
+     [[131,
+       40],
+      "assets/images/resized/0002/5933/25933v2-max-250x250.png"],
+     [[131,
+       40],
+      "assets/images/resized/0002/5933/25933v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Pranav",
+      "last_name": "Bhasin",
+      "permalink": "pranav-bhasin",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Vishnu",
+      "last_name": "GS",
+      "permalink": "vishnu-gs",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Vishwas",
+      "last_name": "Narendra",
+      "permalink": "vishwas-narendra",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO \u0026 Co-founder",
+    "person":
+     {"first_name": "Rakesh",
+      "last_name": "Rajan",
+      "permalink": "rakesh-rajan",
+      "image":
+       {"available_sizes":
+         [[[150,
+            145],
+           "assets/images/resized/0008/8510/88510v2-max-150x150.jpg"],
+          [[250,
+            242],
+           "assets/images/resized/0008/8510/88510v2-max-250x250.jpg"],
+          [[450,
+            437],
+           "assets/images/resized/0008/8510/88510v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dipity",
+      "permalink": "dipity",
+      "image":
+       {"available_sizes":
+         [[[128,
+            30],
+           "assets/images/resized/0001/8250/18250v1-max-150x150.png"],
+          [[128,
+            30],
+           "assets/images/resized/0001/8250/18250v1-max-250x250.png"],
+          [[128,
+            30],
+           "assets/images/resized/0001/8250/18250v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Plurk",
+      "permalink": "plurk",
+      "image":
+       {"available_sizes":
+         [[[81,
+            38],
+           "assets/images/resized/0001/9619/19619v1-max-150x150.png"],
+          [[81,
+            38],
+           "assets/images/resized/0001/9619/19619v1-max-250x250.png"],
+          [[81,
+            38],
+           "assets/images/resized/0001/9619/19619v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.pluggd.in/indian-startups/lifeblob-receives-1mn-from-seedfund-google-backed-2493/",
+    "source_description": "LifeBlob receives 1mn$ from SeedFund",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 8,
+    "funded_day": 14,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "SeedFund",
+         "permalink": "seedfund",
+         "image":
+          {"available_sizes":
+            [[[126,
+               33],
+              "assets/images/resized/0003/0214/30214v1-max-150x150.jpg"],
+             [[126,
+               33],
+              "assets/images/resized/0003/0214/30214v1-max-250x250.jpg"],
+             [[126,
+               33],
+              "assets/images/resized/0003/0214/30214v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://blog.lifeblob.com/2010/11/22/lifeblob-is-now-a-part-of-the-printo-family/",
+   "source_description": "Lifeblob is now a part of the Printo family",
+   "acquired_year": 2010,
+   "acquired_month": 11,
+   "acquired_day": 22,
+   "acquiring_company":
+    {"name": "Printo",
+     "permalink": "printo",
+     "image": null}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

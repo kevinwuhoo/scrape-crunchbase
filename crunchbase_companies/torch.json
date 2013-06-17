@@ -1,0 +1,102 @@
+{"name": "TORCH",
+ "permalink": "torch",
+ "crunchbase_url": "http://www.crunchbase.com/company/torch",
+ "homepage_url": "http://www.torch.sh",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "TORCH_gmbh",
+ "category_code": "enterprise",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "business-analytics-software, logging-analytics, machine-data, big-data",
+ "alias_list": null,
+ "email_address": "e@torch.sh",
+ "phone_number": "+49 151 645 01293",
+ "description": "Lighting up yourbusiness data.",
+ "created_at": "Mon Nov 19 14:49:54 UTC 2012",
+ "updated_at": "Mon Jun 03 23:58:20 UTC 2013",
+ "overview": "\u003Cp\u003ETORCH is the official provider of services and support for Graylog2.\u003C/p\u003E\n\n\u003Cp\u003EGraylog2 is a leading open source product for analysis and visualization of big data used by many startups and SMEs (and even a few major corporations) - all around the world.\u003C/p\u003E\n\n\u003Cp\u003EGraylog2 has rapidly established itself as a serious open source product. In the two years since launch Graylog2 has been downloaded almost 100.000 times, a google search will give over 50.000 results and Graylog2 is now used in production by many companies around the world, from small startups to major corporations; including some well-known names. And all of this success has been achieved without any marketing or sales efforts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0022/1029/221029v4-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0022/1029/221029v4-max-250x250.png"],
+     [[300,
+       100],
+      "assets/images/resized/0022/1029/221029v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder / ceo",
+    "person":
+     {"first_name": "Hass",
+      "last_name": "Chapman",
+      "permalink": "hass-chapman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Cofounder / creator of Graylog2",
+    "person":
+     {"first_name": "Lennart",
+      "last_name": "Koopmann",
+      "permalink": "lennart-koopmann",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Logstash",
+      "permalink": "logstash",
+      "image": null}},
+   {"competitor":
+     {"name": "Splunk",
+      "permalink": "splunk",
+      "image":
+       {"available_sizes":
+         [[[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-150x150.png"],
+          [[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-250x250.png"],
+          [[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Hamburg",
+    "address1": "Max-Brauer-Allee 10",
+    "address2": "",
+    "zip_code": "22765",
+    "city": "Hamburg",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 53.5471054,
+    "longitude": 9.9364484}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

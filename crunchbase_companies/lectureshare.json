@@ -1,0 +1,102 @@
+{"name": "LectureShare",
+ "permalink": "lectureshare",
+ "crunchbase_url": "http://www.crunchbase.com/company/lectureshare",
+ "homepage_url": "http://www.lectureshare.com/",
+ "blog_url": "http://www.lectureshare.com/main.php?course=213",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "public_relations",
+ "number_of_employees": 1,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "e-learning, education, cms, lms, teachers, students, high-school, college, university, professors",
+ "alias_list": null,
+ "email_address": "ezra@lectureshare.com",
+ "phone_number": "516-459-4358",
+ "description": null,
+ "created_at": "Thu Jul 17 23:49:07 UTC 2008",
+ "updated_at": "Sat Sep 06 14:00:13 UTC 2008",
+ "overview": "\u003Cp\u003ELectureShare is an e-learning environment which allows instructors to manage their course content so students can easily access course information.  \u003C/p\u003E\n\n\u003Cp\u003EGoal:\nLectureShares goal is to allow teachers to create courses which are easily shared among universities and individuals. Current CMS\u0026#8217;s, such as BlackBoard, Angel and Moodle, allow instructors to create course but dont allow schools to share the content. LectureShare intends to allow the users to define where, how and when their course material should be available to others. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0002/2300/22300v2-max-150x150.png"],
+     [[250,
+       50],
+      "assets/images/resized/0002/2300/22300v2-max-250x250.png"],
+     [[320,
+       65],
+      "assets/images/resized/0002/2300/22300v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ezra",
+      "last_name": "Katz",
+      "permalink": "ezra-katz",
+      "image": null}},
+   {"is_past": true,
+    "title": "Designer",
+    "person":
+     {"first_name": "Nathan",
+      "last_name": "Carnes",
+      "permalink": "nathan-carnes",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0006/0198/60198v2-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0006/0198/60198v2-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0006/0198/60198v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Blackboard",
+      "permalink": "blackboard",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-150x150.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-250x250.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://zaidlearn.blogspot.com/2007/09/lectureshare-share-your-lecture-notes.html",
+    "title": "ZaidLearn"}]}

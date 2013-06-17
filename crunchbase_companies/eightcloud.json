@@ -1,0 +1,101 @@
+{"name": "eightCloud",
+ "permalink": "eightcloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/eightcloud",
+ "homepage_url": "http://www.eightcloud.com",
+ "blog_url": "http://eightcloud8.blogspot.com/",
+ "blog_feed_url": "",
+ "twitter_username": "eightCloud8",
+ "category_code": "other",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sfdc-admin, salesforce-support, salesforce-com-projects, salesforce-com-optimization, sales-cloud, service-cloud",
+ "alias_list": null,
+ "email_address": "sales@eightcloud.com",
+ "phone_number": "",
+ "description": "SFDC Managed Services",
+ "created_at": "Mon Jul 11 19:02:00 UTC 2011",
+ "updated_at": "Mon Oct 08 09:47:48 UTC 2012",
+ "overview": "\u003Cp\u003EeightCloud is a leading provider of optimization, administration, and program management services for salesforce.com  Using a flexible subscription model, eightCloud saves small to mid-sized businesses the cost and overhead of hiring full-time salesforce administrators, analysts, project managers and developers.  By implementing eightCloud\u0026#8217;s LEVEL8 best-practices framework, clients can reach a standard of excellence in their use of salesforce while maximizing their investment returns.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       106],
+      "assets/images/resized/0014/3850/143850v2-max-150x150.jpg"],
+     [[250,
+       178],
+      "assets/images/resized/0014/3850/143850v2-max-250x250.jpg"],
+     [[450,
+       320],
+      "assets/images/resized/0014/3850/143850v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ajay",
+      "last_name": "Nair",
+      "permalink": "ajay-nair",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP and Secretary",
+    "person":
+     {"first_name": "Darryl",
+      "last_name": "Lemecha",
+      "permalink": "darryl-lemecha",
+      "image": null}},
+   {"is_past": false,
+    "title": "Sales Consultant",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Barnes",
+      "permalink": "jason-barnes-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Analyst",
+    "person":
+     {"first_name": "Michelle",
+      "last_name": "Feldman",
+      "permalink": "michelle-feldman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "98034",
+    "city": "Kirkland",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.siliconindia.com/magazine_articles/Support_Governance__Success_A_Competency_for_Cloud_Applications-HEND74488313.html",
+    "title": "Support as a Competency: Cloud Applications"},
+   {"external_url": "http://appexchange.salesforce.com/listingDetail?listingId=a0N30000004fjnAEAQ#.TpOBvsc8nsM.email",
+    "title": "eightCloud now on AppExchange"}]}

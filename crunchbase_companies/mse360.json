@@ -1,0 +1,151 @@
+{"name": "MSE360",
+ "permalink": "mse360",
+ "crunchbase_url": "http://www.crunchbase.com/company/mse360",
+ "homepage_url": "http://mse360.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search-engine, search, image, web, blog",
+ "alias_list": null,
+ "email_address": "daniel@mse360.com",
+ "phone_number": "NA ",
+ "description": null,
+ "created_at": "Wed Aug 27 00:18:50 UTC 2008",
+ "updated_at": "Tue Mar 24 09:26:27 UTC 2009",
+ "overview": "\u003Cp\u003EMSE360 provides a unique search experience using a 3 tier layout system and unique Ajax interaction. Powered by several API\u0026#8217;s MSE360 does not demand the user select one content type, but rather provides Blogs, Wikipedia, Images, Web \u0026amp; Job results on one easy to understand page. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0003/9131/39131v1-max-150x150.png"],
+     [[247,
+       76],
+      "assets/images/resized/0003/9131/39131v1-max-250x250.png"],
+     [[247,
+       76],
+      "assets/images/resized/0003/9131/39131v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "MSE360",
+    "permalink": "mse360",
+    "image":
+     {"available_sizes":
+       [[[143,
+          150],
+         "assets/images/resized/0002/4315/24315v2-max-150x150.png"],
+        [[210,
+          220],
+         "assets/images/resized/0002/4315/24315v2-max-250x250.png"],
+        [[210,
+          220],
+         "assets/images/resized/0002/4315/24315v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Miller",
+      "permalink": "mike-miller-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Clarke",
+      "permalink": "daniel-clarke",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yahoo!",
+      "permalink": "yahoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0001/0836/10836v9-max-150x150.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-250x250.png"],
+          [[226,
+            81],
+           "assets/images/resized/0001/0836/10836v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ask.com",
+      "permalink": "ask-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0001/0842/10842v6-max-150x150.png"],
+          [[250,
+            165],
+           "assets/images/resized/0001/0842/10842v6-max-250x250.png"],
+          [[365,
+            241],
+           "assets/images/resized/0001/0842/10842v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London Head Office",
+    "address1": "Westminster Park",
+    "address2": "",
+    "zip_code": "SW134DL",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0003/9132/39132v1-max-150x150.png"],
+      [[250,
+        159],
+       "assets/images/resized/0003/9132/39132v1-max-250x250.png"],
+      [[450,
+        286],
+       "assets/images/resized/0003/9132/39132v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

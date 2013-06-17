@@ -1,0 +1,128 @@
+{"name": "Flog",
+ "permalink": "flog",
+ "crunchbase_url": "http://www.crunchbase.com/company/flog",
+ "homepage_url": "http://www.toflog.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "toflogdotcom",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "google-map, street-view, social-network, emotions, feel",
+ "alias_list": null,
+ "email_address": "info@toflog.com",
+ "phone_number": "",
+ "description": "geolocalized social network",
+ "created_at": "Wed Jan 30 01:42:38 UTC 2013",
+ "updated_at": "Wed Feb 06 23:19:54 UTC 2013",
+ "overview": "\u003Cp\u003EFlog is a new social network where people can look for a place in Google Map, go inside Street View, put a marker wherever they want, select an emotion about that place, add a comment (upload pictures, embed video) and share it with everyone in the world or just with friends. Other people can write back comments about that place. With Street View, people can have a real experience.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       135],
+      "assets/images/resized/0023/3696/233696v2-max-150x150.png"],
+     [[250,
+       225],
+      "assets/images/resized/0023/3696/233696v2-max-250x250.png"],
+     [[300,
+       270],
+      "assets/images/resized/0023/3696/233696v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Stefano",
+      "last_name": "Iannarone",
+      "permalink": "stefano-iannarone",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Gianluigi",
+      "last_name": "Coviello",
+      "permalink": "gianluigi-coviello",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TripAdvisor",
+      "permalink": "tripadvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/2953/2953v18-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0000/2953/2953v18-max-250x250.jpg"],
+          [[450,
+            264],
+           "assets/images/resized/0000/2953/2953v18-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "20093",
+    "city": "Milan",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        135],
+       "assets/images/resized/0023/2469/232469v2-max-150x150.png"],
+      [[250,
+        225],
+       "assets/images/resized/0023/2469/232469v2-max-250x250.png"],
+      [[300,
+        270],
+       "assets/images/resized/0023/2469/232469v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.start-ups.co/toflog-com-an-online-geo-social-network-where-users-can-pin-any-place-in-the-world-write-a-comment-about-it-and-share-it/",
+    "title": "Interview"},
+   {"external_url": "http://googlemapsmania.blogspot.it/2012/07/share-feelings-memories-with-street.html",
+    "title": "Interview 2"},
+   {"external_url": "http://www.killerstartups.com/rising-startup-stars/the-meaning-of-flog-in-an-interview-with-their-founder/",
+    "title": "INterview 3"}]}

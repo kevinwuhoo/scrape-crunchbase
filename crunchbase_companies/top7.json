@@ -1,0 +1,111 @@
+{"name": "Top7",
+ "permalink": "top7",
+ "crunchbase_url": "http://www.crunchbase.com/company/top7",
+ "homepage_url": "http://www.top7.com",
+ "blog_url": "http://blog.top7.com",
+ "blog_feed_url": "",
+ "twitter_username": "Top7",
+ "category_code": "web",
+ "number_of_employees": 20,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recommendations, social, taste-graph",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Consumer Web Application",
+ "created_at": "Sun Sep 04 16:10:22 UTC 2011",
+ "updated_at": "Tue Jun 04 17:48:16 UTC 2013",
+ "overview": "\u003Cp\u003ETop7 is a ranking and recommendation platform that utilizes rich media to engage users in the creation of personal \u2018Best of \u2018 lists which are used to deliver highly personalized recommendations based on an individual\u2019s taste.\u003C/p\u003E\n\n\u003Cp\u003ETop7 aggregates data by distributing its \u2018playful\u2019 rich media ranking app as an \u201cengagement tool with insights\u201d, free of charge, to publishers on multiple platforms \u2013 Facebook, Tumblr, and as a web widget.\u003C/p\u003E\n\n\u003Cp\u003EAs of July 2012 Top7 had over 7.5 million rankings and more than 450k unique users. Despite showing market adoption, the company considers itself \u201cunlaunched\u201d.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0016/7898/167898v2-max-150x150.png"],
+     [[180,
+       180],
+      "assets/images/resized/0016/7898/167898v2-max-250x250.png"],
+     [[180,
+       180],
+      "assets/images/resized/0016/7898/167898v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Shai",
+      "last_name": "Sharabi",
+      "permalink": "shai-sharabi",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Nadav",
+      "last_name": "Benedek",
+      "permalink": "nadav-benedek",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hunch",
+      "permalink": "hunch",
+      "image":
+       {"available_sizes":
+         [[[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-150x150.png"],
+          [[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-250x250.png"],
+          [[145,
+            56],
+           "assets/images/resized/0002/3134/23134v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "30 Lilienblum",
+    "address2": "",
+    "zip_code": "",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Jonathan Nimrodi appointed VP of Content and S.M strategy.",
+    "stoned_year": 2012,
+    "stoned_month": 7,
+    "stoned_day": 1,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Top7",
+      "permalink": "top7"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

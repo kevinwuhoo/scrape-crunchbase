@@ -1,0 +1,172 @@
+{"name": "BetaKit",
+ "permalink": "betakit",
+ "crunchbase_url": "http://www.crunchbase.com/company/betakit",
+ "homepage_url": "http://betakit.com",
+ "blog_url": "",
+ "blog_feed_url": "http://betakit.com/feed/atom",
+ "twitter_username": "betakit",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 2,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "media, publishing, technology, journalism",
+ "alias_list": null,
+ "email_address": "erin@betakit.com",
+ "phone_number": "",
+ "description": "Global emerging technology news.",
+ "created_at": "Fri Mar 02 21:18:28 UTC 2012",
+ "updated_at": "Tue Mar 06 20:25:29 UTC 2012",
+ "overview": "\u003Cp\u003ESomething is missing in emerging technology reporting today. \u003C/p\u003E\n\n\u003Cp\u003EThere\u2019s a focus on amount of money raised instead of innovation and quality of a product or service. A wealth of coverage on what the big, established players are releasing next instead of reporting on what\u2019s new and innovative. An emphasis placed on being first to report, rather than providing in-depth analysis. An echo chamber of Silicon Valley happenings with little attention paid to the rest of the world. Too much opinion and bias, not enough journalistic integrity. Enough is enough.\u003C/p\u003E\n\n\u003Cp\u003EAt BetaKit, we care about providing the what, but we\u2019re also committed to explaining why it matters. Breaking news is important, but so is relating news to larger industry trends, and telling you why you and your company should care.\u003C/p\u003E\n\n\u003Cp\u003EBetaKit is a new publication dedicated to providing original, real-time reporting and analysis of emerging technology news and global innovation. Built by the team behind Sprouter.com, BetaKit draws upon an established community of over 80,000 emerging technology founders who are building the next big thing.\u003C/p\u003E\n\n\u003Cp\u003EFind out what\u2019s next, and what\u2019s right now \u2013 from the people who see innovation as it happens.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0017/6760/176760v2-max-150x150.png"],
+     [[250,
+       75],
+      "assets/images/resized/0017/6760/176760v2-max-250x250.png"],
+     [[450,
+       135],
+      "assets/images/resized/0017/6760/176760v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Editor",
+    "person":
+     {"first_name": "Erin",
+      "last_name": "Bury",
+      "permalink": "erin-bury",
+      "image":
+       {"available_sizes":
+         [[[129,
+            150],
+           "assets/images/resized/0015/8566/158566v4-max-150x150.jpg"],
+          [[215,
+            250],
+           "assets/images/resized/0015/8566/158566v4-max-250x250.jpg"],
+          [[388,
+            450],
+           "assets/images/resized/0015/8566/158566v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Senior Writer",
+    "person":
+     {"first_name": "Darrell",
+      "last_name": "Etherington",
+      "permalink": "darrell-etherington",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0017/7293/177293v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0017/7293/177293v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0017/7293/177293v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EDarrell Etherington\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PandoDaily",
+      "permalink": "pandodaily",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0017/0394/170394v1-max-150x150.png"],
+          [[250,
+            58],
+           "assets/images/resized/0017/0394/170394v1-max-250x250.png"],
+          [[277,
+            65],
+           "assets/images/resized/0017/0394/170394v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TechCrunch",
+      "permalink": "techcrunch",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0001/0576/10576v3-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0001/0576/10576v3-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0001/0576/10576v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ReadWriteWeb",
+      "permalink": "readwriteweb",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0006/5581/65581v2-max-150x150.png"],
+          [[250,
+            55],
+           "assets/images/resized/0006/5581/65581v2-max-250x250.png"],
+          [[368,
+            82],
+           "assets/images/resized/0006/5581/65581v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "VentureBeat",
+      "permalink": "venturebeat",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0001/1625/11625v1-max-150x150.jpg"],
+          [[200,
+            38],
+           "assets/images/resized/0001/1625/11625v1-max-250x250.jpg"],
+          [[200,
+            38],
+           "assets/images/resized/0001/1625/11625v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "The Verge",
+      "permalink": "the-verge",
+      "image":
+       {"available_sizes":
+         [[[150,
+            135],
+           "assets/images/resized/0024/6151/246151v2-max-150x150.png"],
+          [[250,
+            225],
+           "assets/images/resized/0024/6151/246151v2-max-250x250.png"],
+          [[250,
+            225],
+           "assets/images/resized/0024/6151/246151v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

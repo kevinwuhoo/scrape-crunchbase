@@ -1,0 +1,130 @@
+{"name": "Bubbli",
+ "permalink": "bubbli",
+ "crunchbase_url": "http://www.crunchbase.com/company/bubbli",
+ "homepage_url": "http://www.bubbli.co",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Feb 09 02:26:38 UTC 2011",
+ "updated_at": "Wed Feb 09 05:04:19 UTC 2011",
+ "overview": "\u003Cp\u003EBubbli is a stealth startup that\u0026#8217;s looking to reinvent photos. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0012/1102/121102v1-max-150x150.png"],
+     [[250,
+       77],
+      "assets/images/resized/0012/1102/121102v1-max-250x250.png"],
+     [[318,
+       98],
+      "assets/images/resized/0012/1102/121102v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Terrence",
+      "last_name": "McArdle",
+      "permalink": "terrence-mcardle",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Newhouse",
+      "permalink": "ben-newhouse",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Patent Counsel",
+    "is_past": false,
+    "provider":
+     {"name": "Schox Patent Group",
+      "permalink": "schox-plc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            85],
+           "assets/images/resized/0019/1593/191593v4-max-150x150.jpg"],
+          [[195,
+            111],
+           "assets/images/resized/0019/1593/191593v4-max-250x250.jpg"],
+          [[195,
+            111],
+           "assets/images/resized/0019/1593/191593v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2011/02/08/stealth-startup-bubbli-raises-funding-wants-to-create-a-new-kind-of-photograph/",
+    "source_description": "Stealth Startup Bubbli Raises Funding",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 2,
+    "funded_day": 9,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "August Capital",
+         "permalink": "august-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               16],
+              "assets/images/resized/0000/4018/4018v1-max-150x150.jpg"],
+             [[250,
+               27],
+              "assets/images/resized/0000/4018/4018v1-max-250x250.jpg"],
+             [[300,
+               33],
+              "assets/images/resized/0000/4018/4018v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Stealth Startup Bubbli Raises Funding, Wants To Create A New Kind Of Photograph",
+    "stoned_year": 2011,
+    "stoned_month": 2,
+    "stoned_day": 8,
+    "source_url": "http://techcrunch.com/2011/02/08/stealth-startup-bubbli-raises-funding-wants-to-create-a-new-kind-of-photograph/",
+    "source_text": "",
+    "source_description": "Stealth Startup Bubbli Raises Funding, Wants To Create A New Kind Of Photograph",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Bubbli",
+      "permalink": "bubbli"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

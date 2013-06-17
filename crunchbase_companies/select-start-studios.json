@@ -1,0 +1,101 @@
+{"name": "Select Start Studios",
+ "permalink": "select-start-studios",
+ "crunchbase_url": "http://www.crunchbase.com/company/select-start-studios",
+ "homepage_url": "http://selectstartstudios.com",
+ "blog_url": "http://selectstartstudios.com/blog/",
+ "blog_feed_url": "http://selectstartstudios.com/blog/feed/",
+ "twitter_username": "select_start",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, iphone, ipad, ipod, ios, blackberry, android, windows-mobile, j2me",
+ "alias_list": null,
+ "email_address": "info@selectstartstudios.com",
+ "phone_number": "1.866.222.1512",
+ "description": "Mobile apps and games",
+ "created_at": "Mon Aug 16 23:58:17 UTC 2010",
+ "updated_at": "Thu Feb 02 03:05:03 UTC 2012",
+ "overview": "\u003Cp\u003ESelect Start Studios is a mobile app and game studio in the heart of Ottawa, Canada. Select Start creates beautiful products for all major mobile platforms including Apple iOS, BlackBerry, Android, J2ME, and Windows Mobile.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       79],
+      "assets/images/resized/0009/7987/97987v4-max-150x150.png"],
+     [[250,
+       133],
+      "assets/images/resized/0009/7987/97987v4-max-250x250.png"],
+     [[450,
+       239],
+      "assets/images/resized/0009/7987/97987v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "McNamara",
+      "permalink": "adam-mcnamara",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2012/02/01/ecommerce-platform-shopify-acquires-mobile-app-development-studio-select-start/",
+   "source_description": "Ecommerce Platform Shopify Acquires Mobile App Development Studio Select Start",
+   "acquired_year": 2012,
+   "acquired_month": 2,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "Shopify",
+     "permalink": "shopify",
+     "image":
+      {"available_sizes":
+        [[[150,
+           41],
+          "assets/images/resized/0007/1673/71673v6-max-150x150.png"],
+         [[250,
+           68],
+          "assets/images/resized/0007/1673/71673v6-max-250x250.png"],
+         [[450,
+           123],
+          "assets/images/resized/0007/1673/71673v6-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "185 Rideau Street",
+    "address2": "Suite 200",
+    "zip_code": "K1N 5X8",
+    "city": "Ottawa",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://headquartersapp.com",
+    "title": ""}]}

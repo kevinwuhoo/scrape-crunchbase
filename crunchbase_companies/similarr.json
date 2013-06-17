@@ -1,0 +1,86 @@
+{"name": "Similarr",
+ "permalink": "similarr",
+ "crunchbase_url": "http://www.crunchbase.com/company/similarr",
+ "homepage_url": "http://www.similarr.com/",
+ "blog_url": "http://blog.similarr.com/",
+ "blog_feed_url": "http://blog.similarr.com/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 0,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-search, search-engine, discussion, social-network, similarr",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "-",
+ "description": "Search with Comments",
+ "created_at": "Thu Sep 04 12:53:10 UTC 2008",
+ "updated_at": "Tue May 12 21:27:52 UTC 2009",
+ "overview": "\u003Cp\u003ESimilarr is web search engine which allows post messages about any search query.\u003C/p\u003E\n\n\u003Cp\u003ESimilarr can be used as a classical search engine to search the web. Users can start discussion and post messages about any search query. Other users who will search the same query will be able to read and answer the message.\u003C/p\u003E\n\n\u003Cp\u003ERegistered users can also post attachments, send private messages to other users and use signature in their posts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0002/4597/24597v1-max-150x150.jpg"],
+     [[250,
+       51],
+      "assets/images/resized/0002/4597/24597v1-max-250x250.jpg"],
+     [[327,
+       67],
+      "assets/images/resized/0002/4597/24597v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ivan",
+      "last_name": "Sas",
+      "permalink": "ivan-sas",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/similarr_talk_about_search_results.php",
+    "title": "Similarr: Talk About Search Results"},
+   {"external_url": "http://www.killerstartups.com/Search/similarr-com-search-and-discuss",
+    "title": "Similarr.com - Search and Discuss"}]}

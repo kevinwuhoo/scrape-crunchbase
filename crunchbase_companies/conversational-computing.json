@@ -1,0 +1,107 @@
+{"name": "Conversational Computing",
+ "permalink": "conversational-computing",
+ "crunchbase_url": "http://www.crunchbase.com/company/conversational-computing",
+ "homepage_url": "http://www.conversay.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 1992,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "425-895-1800",
+ "description": "",
+ "created_at": "Mon Aug 03 10:35:14 UTC 2009",
+ "updated_at": "Mon Aug 03 10:36:30 UTC 2009",
+ "overview": "\u003Cp\u003EConversational Computing Corporation doing business as Conversay, provides speech technology, interfaces, and application for mobile devices. The company specializes in embedded speech technologies. Its speech solutions enable companies to offer customers two-way access paths to data and content services. The company leverages speech engines, including Conversay Advanced Speech Software Interface, a portable and noise-tolerant speech recognition engine; Human-Quality Text-to-Speech for embedded implementations; and ISSAC, a vocabulary continuous speech recognition engine. Its technologies include JSAPI2, a speech application development standard; Conversay Master Developer Suite, a development tool enabling C/C++ programmers to build speech applications for a variety of embedded platforms; and VoiceAssist 1.0, an application suite for wireless phones, which enables speech-enabled name dialing, digit dialing, and application launch. The company also provides Conversation Forms Automation, a tool suite, which includes Conversation Forms Builder, a developer tool for describing the form elements, GUI arrangement, database dependencies, and business rules contained in a Conversationa Form; and Conversation Forms Processor(CFP), a client application that runs Conversation Forms. Its CFP\u00e2\u20ac\u2122s features include hands-free and eyes-free processing, and project and runtime management. The company serves wireless mobile computing market with focus on aviation and avionics, enterprise mobility, and the wireless handset/consumer electronics sectors. Conversational Computing Corporation was founded in 1992 and is based in Redmond, Washington.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       85],
+      "assets/images/resized/0005/5036/55036v1-max-150x150.png"],
+     [[250,
+       141],
+      "assets/images/resized/0005/5036/55036v1-max-250x250.png"],
+     [[300,
+       170],
+      "assets/images/resized/0005/5036/55036v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "A. Rondel",
+      "permalink": "stephen-a-rondel",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Schaller",
+      "permalink": "john-schaller",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 4200000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 8,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "Here Enterprises",
+     "permalink": "here-enterprises",
+     "image":
+      {"available_sizes":
+        [[[150,
+           84],
+          "assets/images/resized/0005/5037/55037v1-max-150x150.png"],
+         [[166,
+           94],
+          "assets/images/resized/0005/5037/55037v1-max-250x250.png"],
+         [[166,
+           94],
+          "assets/images/resized/0005/5037/55037v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "15375 NE 90th Street",
+    "address2": "",
+    "zip_code": "98052",
+    "city": "Redmond",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.6822081,
+    "longitude": -122.1352993}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

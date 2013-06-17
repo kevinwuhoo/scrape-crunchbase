@@ -1,0 +1,127 @@
+{"name": "ChoicePass",
+ "permalink": "choicepass",
+ "crunchbase_url": "http://www.crunchbase.com/company/choicepass",
+ "homepage_url": "http://choicepass.com",
+ "blog_url": "http://choicepass.wordpress.com",
+ "blog_feed_url": "",
+ "twitter_username": "choicepass",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "consumer-internet, mobile-platform, local-merchants",
+ "alias_list": null,
+ "email_address": "info@choicepass.com",
+ "phone_number": "",
+ "description": "Cloud-based Perks \u0026 Rewards",
+ "created_at": "Thu Sep 08 00:47:51 UTC 2011",
+ "updated_at": "Wed May 02 09:44:17 UTC 2012",
+ "overview": "\u003Cp\u003EChoicePass is a customized corporate perks and employee rewards technology company. ChoicePass is building the world\u0026#8217;s most relevant and easy to use platform for employees to discover, redeem and share company-sponsored perks and benefits. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0015/5763/155763v5-max-150x150.png"],
+     [[250,
+       73],
+      "assets/images/resized/0015/5763/155763v5-max-250x250.png"],
+     [[450,
+       132],
+      "assets/images/resized/0015/5763/155763v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kyle",
+      "last_name": "Lui",
+      "permalink": "kyle-lui-2",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0019/1110/191110v2-max-150x150.jpg"],
+          [[201,
+            250],
+           "assets/images/resized/0019/1110/191110v2-max-250x250.jpg"],
+          [[329,
+            408],
+           "assets/images/resized/0019/1110/191110v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Coudron",
+      "permalink": "chris-coudron",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$250k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 7,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2012/06/18/choicepass-acquired-by-salesforce/",
+   "source_description": "Enterprise Perks Management Startup ChoicePass Acquired By Salesforce, Will Shut Down June 30",
+   "acquired_year": 2012,
+   "acquired_month": 6,
+   "acquired_day": 18,
+   "acquiring_company":
+    {"name": "Salesforce",
+     "permalink": "salesforce",
+     "image":
+      {"available_sizes":
+        [[[150,
+           117],
+          "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+         [[250,
+           195],
+          "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+         [[300,
+           235],
+          "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,118 @@
+{"name": "Yendo",
+ "permalink": "yendo",
+ "crunchbase_url": "http://www.crunchbase.com/company/yendo",
+ "homepage_url": "http://www.yendo.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "yendoaccounts",
+ "category_code": "software",
+ "number_of_employees": 16,
+ "founded_year": 2001,
+ "founded_month": 4,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "accounting, finance, bookkeeping, small-business, extranet, accounts",
+ "alias_list": null,
+ "email_address": "info@yendo.com",
+ "phone_number": "",
+ "description": "Yendo Financial Accounting",
+ "created_at": "Mon Apr 21 18:43:52 UTC 2008",
+ "updated_at": "Fri Sep 17 17:15:52 UTC 2010",
+ "overview": "\u003Cp\u003EYendo provides accounting software for small and medium sized businesses. As a cloud computing application Yendo is available to users anytime and anyplace that has a web connection. \u003C/p\u003E\n\n\u003Cp\u003EUsers can manage invoicing, purchases, expenses and payments as well as profit \u0026amp; loss, balance sheet and create their own reports to chart their companies performance.\u003C/p\u003E\n\n\u003Cp\u003EThe company is based in Ireland but has a significant customer base in both the United Kingdom and the US.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       69],
+      "assets/images/resized/0001/7522/17522v1-max-150x150.jpg"],
+     [[250,
+       115],
+      "assets/images/resized/0001/7522/17522v1-max-250x250.jpg"],
+     [[402,
+       186],
+      "assets/images/resized/0001/7522/17522v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Yendo Content Management",
+    "permalink": "vendor-master",
+    "image": null},
+   {"name": "Yendo Accounts",
+    "permalink": "yendo-accounts",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Morgan",
+      "last_name": "Lynch",
+      "permalink": "morgan-lynch",
+      "image": null}},
+   {"is_past": false,
+    "title": "Head of Operations",
+    "person":
+     {"first_name": "Sue",
+      "last_name": "Deeley",
+      "permalink": "sue-deeley",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Intuit",
+      "permalink": "intuit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6183/16183v3-max-150x150.png"],
+          [[250,
+            109],
+           "assets/images/resized/0001/6183/16183v3-max-250x250.png"],
+          [[450,
+            196],
+           "assets/images/resized/0001/6183/16183v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FreshBooks",
+      "permalink": "freshbooks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            77],
+           "assets/images/resized/0001/7135/17135v5-max-150x150.png"],
+          [[250,
+            129],
+           "assets/images/resized/0001/7135/17135v5-max-250x250.png"],
+          [[450,
+            233],
+           "assets/images/resized/0001/7135/17135v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Tyrconnell Park,",
+    "address2": "Inchicore",
+    "zip_code": "00008",
+    "city": "Dublin",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": 53.337935,
+    "longitude": -6.32868}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

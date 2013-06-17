@@ -1,0 +1,117 @@
+{"name": "JethroData",
+ "permalink": "jethrodata",
+ "crunchbase_url": "http://www.crunchbase.com/company/jethrodata",
+ "homepage_url": "http://www.jethrodata.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hadoop, analytic-database, big-data, indexing-engine",
+ "alias_list": null,
+ "email_address": "esinger@jethrodata.com",
+ "phone_number": "",
+ "description": "Analytic DB for Hadoop",
+ "created_at": "Sat Feb 16 22:11:50 UTC 2013",
+ "updated_at": "Fri Jun 07 16:36:50 UTC 2013",
+ "overview": "\u003Cp\u003EJethroData is an index-based SQL engine for Hadoop.  It lets you run 1000 X faster interactive ad-hoc queries, live dashboards and reports. With Jethro, you enjoy the scalability of Hadoop with the performance of an analytical database, in one system. Jethro works by automatically indexing data as it is written into Hadoop.  Queries use indexes to access only the data they need instead of performing a full-scan of the entire dataset, leading to an increase in speed and a dramatic reduction in use of computing resources.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       138],
+      "assets/images/resized/0023/8544/238544v2-max-150x150.jpg"],
+     [[227,
+       210],
+      "assets/images/resized/0023/8544/238544v2-max-250x250.jpg"],
+     [[227,
+       210],
+      "assets/images/resized/0023/8544/238544v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eli",
+      "last_name": "Singer",
+      "permalink": "eli-singer",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Ronen",
+      "last_name": "Ovadya",
+      "permalink": "ronen-ovadya",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Boaz",
+      "last_name": "Raufman",
+      "permalink": "boaz-raufman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$4.5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2013/02/27/jethrodata-raises-4-5m-for-new-analytics-database-that-addresses-hadoops-achilles-heel/",
+    "source_description": "JethroData Raises $4.5M For New Analytics Database That Addresses Hadoop\u2019s Achilles Heel",
+    "raised_amount": 4500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 2,
+    "funded_day": 27,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Pitango Venture Capital",
+         "permalink": "pitango-venture-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               53],
+              "assets/images/resized/0001/8978/18978v1-max-150x150.png"],
+             [[206,
+               73],
+              "assets/images/resized/0001/8978/18978v1-max-250x250.png"],
+             [[206,
+               73],
+              "assets/images/resized/0001/8978/18978v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "R\u0026D Center",
+    "address1": "Arieh Regev",
+    "address2": "",
+    "zip_code": "",
+    "city": "Netanya",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.dbta.com/Articles/Editorial/News-Flashes/Whats-Ahead-10-Emerging-Companies-to-Watch-in-Data-89924.aspx",
+    "title": "What's Ahead: 10 emerging companies to watch in data"}]}

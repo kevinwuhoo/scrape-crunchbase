@@ -1,0 +1,103 @@
+{"name": "MarketAPI",
+ "permalink": "marketapi",
+ "crunchbase_url": "http://www.crunchbase.com/company/marketapi",
+ "homepage_url": "http://marketapi.com",
+ "blog_url": "http://mkfmn.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "fibonacci, evented-systems, worker-queues, xmpp, amqp, distributed-routing, matrix, calculations, analytics, finance-stocks-options-futures-data-api-xmpp-dashboard-crm-productivity-collaboration",
+ "alias_list": null,
+ "email_address": "matt@mkfmn.com",
+ "phone_number": "1-503-881-6906",
+ "description": "Open Trading Appliance (IDE, API, Host)",
+ "created_at": "Fri Nov 20 19:45:18 UTC 2009",
+ "updated_at": "Wed Oct 10 04:43:52 UTC 2012",
+ "overview": "\u003Cp\u003EMarketAPI is a XMPP Agent and Presence communication server system infrastructure for developing, monitoring and running automatic trading systems. \u003C/p\u003E\n\n\u003Cp\u003EIt is intended to provide support for a wide range of orders, financial instruments and time scales. It provides tooling for real-time comparison of live data against rolling backtesting the price movements in range of rolling time-framed previous day or other time period data, and a separate tool for running the strategies in live mode. Strategies currently require some Java coding experience, and knowledge of XMPP (ejabberd) although this may change at a later date.\u003C/p\u003E\n\n\u003Cp\u003EIt is no longer being actively supported. Thanks to everyone for their interest and help. If you are interested in MarketAPI\u0026#8217;s diverged current work, it has taken shape in the form of a new company called MI2 (Market Information and Intelligence [MI \u0026#8220;Squared\u0026#8221;] \u0026#8212; and will be releasing to the public at MI2.com in 2012-2013.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0007/9387/79387v4-max-150x150.png"],
+     [[190,
+       70],
+      "assets/images/resized/0007/9387/79387v4-max-250x250.png"],
+     [[190,
+       70],
+      "assets/images/resized/0007/9387/79387v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Kaufman",
+      "permalink": "matthew-m-kaufman",
+      "image":
+       {"available_sizes":
+         [[[129,
+            150],
+           "assets/images/resized/0010/0491/100491v2-max-150x150.png"],
+          [[215,
+            250],
+           "assets/images/resized/0010/0491/100491v2-max-250x250.png"],
+          [[238,
+            276],
+           "assets/images/resized/0010/0491/100491v2-max-450x450.png"]],
+        "attribution": "\u003Cp\u003Ein Boston\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Online Trading Academy",
+      "permalink": "online-trading-academy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0016/5228/165228v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0016/5228/165228v2-max-250x250.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0016/5228/165228v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Waltham",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.factset.com/products/ib/",
+    "title": "Similar: FactSet"}]}

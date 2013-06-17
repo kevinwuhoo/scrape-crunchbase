@@ -1,0 +1,140 @@
+{"name": "Cinetraffic",
+ "permalink": "cinetraffic",
+ "crunchbase_url": "http://www.crunchbase.com/company/cinetraffic",
+ "homepage_url": "http://www.cinetraffic.tv/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "search",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "movie-recommendation-engine, video-on-demand-movie-search-and-discovery",
+ "alias_list": null,
+ "email_address": "julien@cinetraffic.tv",
+ "phone_number": "",
+ "description": "Movie recommender system ",
+ "created_at": "Thu Nov 25 17:42:17 UTC 2010",
+ "updated_at": "Fri Feb 04 23:11:10 UTC 2011",
+ "overview": "\u003Cp\u003ECinetraffic provides human-powered services for movie and TV Show recommendation, discovery and search, to help you find your next good movie. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0011/1720/111720v2-max-150x150.jpg"],
+     [[250,
+       70],
+      "assets/images/resized/0011/1720/111720v2-max-250x250.jpg"],
+     [[450,
+       126],
+      "assets/images/resized/0011/1720/111720v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Julien",
+      "last_name": "Batifoulier",
+      "permalink": "julien-batifoulier",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Jinni",
+      "permalink": "jinni",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0001/8008/18008v10-max-150x150.png"],
+          [[159,
+            72],
+           "assets/images/resized/0001/8008/18008v10-max-250x250.png"],
+          [[159,
+            72],
+           "assets/images/resized/0001/8008/18008v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ClerkDogs",
+      "permalink": "clerkdogs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            83],
+           "assets/images/resized/0003/5070/35070v1-max-150x150.png"],
+          [[200,
+            111],
+           "assets/images/resized/0003/5070/35070v1-max-250x250.png"],
+          [[200,
+            111],
+           "assets/images/resized/0003/5070/35070v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gravity",
+      "permalink": "gravity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0004/6811/46811v9-max-150x150.png"],
+          [[250,
+            156],
+           "assets/images/resized/0004/6811/46811v9-max-250x250.png"],
+          [[450,
+            281],
+           "assets/images/resized/0004/6811/46811v9-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Private",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 9,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Paris Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[39,
+        150],
+       "assets/images/resized/0011/1719/111719v2-max-150x150.jpg"],
+      [[66,
+        250],
+       "assets/images/resized/0011/1719/111719v2-max-250x250.jpg"],
+      [[119,
+        450],
+       "assets/images/resized/0011/1719/111719v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,135 @@
+{"name": "OCR Terminal",
+ "permalink": "paper-terminal",
+ "crunchbase_url": "http://www.crunchbase.com/company/paper-terminal",
+ "homepage_url": "http://www.ocrterminal.com",
+ "blog_url": "http://blog.ocrterminal.com",
+ "blog_feed_url": "",
+ "twitter_username": "ocrterminal",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-ocr, pdf-to-word-conversion, online-ocr-api",
+ "alias_list": null,
+ "email_address": "khasali@ocrterminal.com",
+ "phone_number": "65-67777987",
+ "description": "Digitization and Paper Management ",
+ "created_at": "Fri Aug 14 05:55:36 UTC 2009",
+ "updated_at": "Sun Oct 30 16:14:07 UTC 2011",
+ "overview": "\u003Cp\u003EOCR Terminal is an online OCR service that allows users to convert scanned documents into editable text.\u003C/p\u003E\n\n\u003Cp\u003EOCR Terminal makes it easy for users to convert image formats (such as TIFF, JPEG, PNG and PDFs) to editable (DOC, TXT, RTF) and searchable document formats (searchable PDFs). OCR Terminal preserves the formatting and page layout so that tables, images, captions and headers are accurately replicated in the processed files.\u003C/p\u003E\n\n\u003Cp\u003EAfter creating an account, performing OCR is straightforward - upload an image file, wait for a few seconds for processing to complete and download the OCRed results. All users get 20 free pages a month and can purchase additional pages if required.\u003C/p\u003E\n\n\u003Cp\u003EOCR Terminal recently introduced a web based API that allows third party developers to integrate OCR in their applications. It also provides enterprise and custom hosted digitization solutions to clients.\u003C/p\u003E\n\n\u003Cp\u003EIt has been acquired by ABBYY and is now part of ABBYY FineReader Online.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       19],
+      "assets/images/resized/0005/6443/56443v2-max-150x150.png"],
+     [[250,
+       32],
+      "assets/images/resized/0005/6443/56443v2-max-250x250.png"],
+     [[251,
+       33],
+      "assets/images/resized/0005/6443/56443v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Khasali",
+      "last_name": "M",
+      "permalink": "khasali-m",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Mani",
+      "last_name": "Bhat",
+      "permalink": "mani-bhat",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Sarabjit",
+      "last_name": "Singh",
+      "permalink": "sarabjit-singh",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "OnlineOCR.net",
+      "permalink": "onlineocr-net",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0006/7491/67491v2-max-150x150.jpg"],
+          [[250,
+            47],
+           "assets/images/resized/0006/7491/67491v2-max-250x250.jpg"],
+          [[289,
+            55],
+           "assets/images/resized/0006/7491/67491v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wordcraft International Ltd",
+      "permalink": "wordcraft-international-ltd",
+      "image": null}}],
+ "providerships":
+  [{"title": "Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Quarters",
+    "address1": "13 Computing Drive",
+    "address2": "#02-43 Computing 1",
+    "zip_code": "117417",
+    "city": "Singapore",
+    "state_code": null,
+    "country_code": "SGP",
+    "latitude": 1.2894066,
+    "longitude": 103.8499619}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        146],
+       "assets/images/resized/0005/6442/56442v2-max-150x150.jpg"],
+      [[250,
+        243],
+       "assets/images/resized/0005/6442/56442v2-max-250x250.jpg"],
+      [[450,
+        439],
+       "assets/images/resized/0005/6442/56442v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

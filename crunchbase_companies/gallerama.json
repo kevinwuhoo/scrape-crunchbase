@@ -1,0 +1,146 @@
+{"name": "Gallerama",
+ "permalink": "gallerama",
+ "crunchbase_url": "http://www.crunchbase.com/company/gallerama",
+ "homepage_url": "http://www.gallerama.com",
+ "blog_url": "http://blog.gallerama.com",
+ "blog_feed_url": "http://blog.gallerama.com/feed/",
+ "twitter_username": "gallerama",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "photography, cloud, file-storage, network, photo-sharing, photo-archiving, photo-showcasing",
+ "alias_list": null,
+ "email_address": "support@gallerama.com",
+ "phone_number": "",
+ "description": "Archive, manage and showcase your photos",
+ "created_at": "Fri Jul 30 17:26:13 UTC 2010",
+ "updated_at": "Mon Feb 06 23:37:45 UTC 2012",
+ "overview": "\u003Cp\u003EGallerama is a cloud based photo management application which provides permanent and secure storage of high-resolution photos, simple tools for their management, and elegant, customizable gallery layouts for their showcase.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0009/5497/95497v2-max-150x150.png"],
+     [[197,
+       61],
+      "assets/images/resized/0009/5497/95497v2-max-250x250.png"],
+     [[197,
+       61],
+      "assets/images/resized/0009/5497/95497v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Aleksandar",
+      "last_name": "Kolundzija",
+      "permalink": "aleksandar-kolundzija",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Steinberg",
+      "permalink": "dave-steinberg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Zenfolio",
+      "permalink": "zenfolio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/3802/3802v1-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0000/3802/3802v1-max-250x250.png"],
+          [[250,
+            78],
+           "assets/images/resized/0000/3802/3802v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SmugMug",
+      "permalink": "smugmug",
+      "image":
+       {"available_sizes":
+         [[[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-150x150.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-250x250.png"],
+          [[1,
+            1],
+           "assets/images/resized/0000/2539/2539v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Flickr",
+      "permalink": "flickr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0021/3864/213864v1-max-150x150.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-250x250.png"],
+          [[180,
+            30],
+           "assets/images/resized/0021/3864/213864v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "S3",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        104],
+       "assets/images/resized/0017/2492/172492v2-max-150x150.png"],
+      [[250,
+        173],
+       "assets/images/resized/0017/2492/172492v2-max-250x250.png"],
+      [[450,
+        312],
+       "assets/images/resized/0017/2492/172492v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

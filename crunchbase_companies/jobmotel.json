@@ -1,0 +1,90 @@
+{"name": "JobMotel",
+ "permalink": "jobmotel",
+ "crunchbase_url": "http://www.crunchbase.com/company/jobmotel",
+ "homepage_url": "http://jobmotel.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "JobMotel",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "jobs, aggregator, ruby-on-rails",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Job Aggregator",
+ "created_at": "Sun Jun 14 13:38:04 UTC 2009",
+ "updated_at": "Sun Jun 14 19:31:17 UTC 2009",
+ "overview": "\u003Cp\u003EJobMotel is a location aware Job Aggregator aimed at the web industry, which pulls jobs from many specialized job boards and classifies them into categories, companies and location. \u003C/p\u003E\n\n\u003Cp\u003ECurrently there are two API\u0026#8217;s being used to help organize jobs found. The yahoo GeoPlant api is used to determine the location and provide geo coordinates, along with the CruchBase api to group jobs by company and provide further insight the business.\u003C/p\u003E\n\n\u003Cp\u003EThe data that JobMotel collects is posted to twitter along with being available in various formats such as RSS, XML and JSON.\u003C/p\u003E\n\n\u003Cp\u003EJobMotel has been built using Ruby on Rails 2.3, Mysql and is currently using Phusion Passenger. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       110],
+      "assets/images/resized/0004/8433/48433v2-max-150x150.jpg"],
+     [[250,
+       183],
+      "assets/images/resized/0004/8433/48433v2-max-250x250.jpg"],
+     [[274,
+       201],
+      "assets/images/resized/0004/8433/48433v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner / Developer",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Sherwood",
+      "permalink": "scott-sherwood",
+      "image":
+       {"available_sizes":
+         [[[150,
+            135],
+           "assets/images/resized/0004/8431/48431v2-max-150x150.png"],
+          [[200,
+            181],
+           "assets/images/resized/0004/8431/48431v2-max-250x250.png"],
+          [[200,
+            181],
+           "assets/images/resized/0004/8431/48431v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        149],
+       "assets/images/resized/0004/8432/48432v2-max-150x150.png"],
+      [[250,
+        248],
+       "assets/images/resized/0004/8432/48432v2-max-250x250.png"],
+      [[450,
+        447],
+       "assets/images/resized/0004/8432/48432v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

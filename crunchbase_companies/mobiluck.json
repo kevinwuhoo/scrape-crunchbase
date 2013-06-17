@@ -1,0 +1,157 @@
+{"name": "Mobiluck",
+ "permalink": "mobiluck",
+ "crunchbase_url": "http://www.crunchbase.com/company/mobiluck",
+ "homepage_url": "http://www.mobiluck.com",
+ "blog_url": "http://www.mobiluckdiary.blogspot.com",
+ "blog_feed_url": "feed://mobiluckdiary.blogspot.com/feeds/posts/default",
+ "twitter_username": "mobiluck",
+ "category_code": "mobile",
+ "number_of_employees": 1234,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, social, local, mobile-social-networking, mososo, lbs, checkin, location-based, advertising, mobile-advertising",
+ "alias_list": null,
+ "email_address": "olivier.chouraki@mobiluck.com",
+ "phone_number": "09939117123",
+ "description": "MobiLuck is a Friend Finder.",
+ "created_at": "Sun Feb 24 09:43:46 UTC 2008",
+ "updated_at": "Tue May 07 14:48:05 UTC 2013",
+ "overview": "\u003Cp\u003EMobiLuck is one of the oldest, largest and fastest-growing mobile location-based social networks.\u003C/p\u003E\n\n\u003Cp\u003EMobiLuck allows users to find nearby friends, people and places with their mobile, sorted by distance. It lets people and businesses create their own mobile webpage for free in order to be found on the mobile web.\u003C/p\u003E\n\n\u003Cp\u003EMobiLuck\u0026#8217;s strengths are its excellent privacy management, its sms alert feature and the huge size of its market. MobiLuck is browser and sms based, so it\u0026#8217;s available on all phone models (and PCs), in all countries, on all operator networks, without downloading any software.\u003C/p\u003E\n\n\u003Cp\u003EMobiLuck is a pioneer and a recognized expert in mobile advertising. The company also plans to launch paying services to members and paying services to businesses.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0010/1805/101805v13-max-150x150.png"],
+     [[235,
+       75],
+      "assets/images/resized/0010/1805/101805v13-max-250x250.png"],
+     [[235,
+       75],
+      "assets/images/resized/0010/1805/101805v13-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Mobiluck",
+    "permalink": "mobiluck",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Olivier",
+      "last_name": "Chouraki",
+      "permalink": "olivier-chouraki",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/9789/259789v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/9789/259789v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/9789/259789v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Casassovici",
+      "permalink": "alexander-casassovici",
+      "image":
+       {"available_sizes":
+         [[[132,
+            150],
+           "assets/images/resized/0006/2472/62472v2-max-150x150.jpg"],
+          [[193,
+            219],
+           "assets/images/resized/0006/2472/62472v2-max-250x250.jpg"],
+          [[193,
+            219],
+           "assets/images/resized/0006/2472/62472v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gowalla",
+      "permalink": "gowalla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/5118/25118v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loopt",
+      "permalink": "loopt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0000/1972/1972v6-max-150x150.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-250x250.jpg"],
+          [[156,
+            67],
+           "assets/images/resized/0000/1972/1972v6-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "MobiLuck exceeds 1.5 million members",
+    "stoned_year": 2010,
+    "stoned_month": 6,
+    "stoned_day": null,
+    "source_url": "http://fr.techcrunch.com/2010/06/17/le-foursquare-francais-mobiluck-depasse-la-barre-des-15-millions-dutilisateurs/",
+    "source_text": null,
+    "source_description": "Le Foursquare fran\u00c3\u00a7ais MobiLuck d\u00c3\u00a9passe la barre des 1,5 millions d\u00e2\u20ac\u2122utilisateurs",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Mobiluck",
+      "permalink": "mobiluck"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

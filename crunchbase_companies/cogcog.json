@@ -1,0 +1,115 @@
+{"name": "CogCog",
+ "permalink": "cogcog",
+ "crunchbase_url": "http://www.crunchbase.com/company/cogcog",
+ "homepage_url": "http://www.cogcog.com",
+ "blog_url": "http://www.cogcog.com/blog/",
+ "blog_feed_url": "http://www.cogcog.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cogcog, widgets, ajax, blog, blogging",
+ "alias_list": "",
+ "email_address": "josh@cogcog.com",
+ "phone_number": "",
+ "description": "Live Traffic Stream Stats",
+ "created_at": "Wed May 07 04:27:45 UTC 2008",
+ "updated_at": "Thu Dec 01 07:43:36 UTC 2011",
+ "overview": "\u003Cp\u003ECogCog produces AJAX based widgets that show live blog and website traffic statistics. Currently available is their new \u0026#8220;Live Traffic Stream\u0026#8221; widget which shows the last 12 visitors on a scrolling list similar to MyBlogLog and Feedjit. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       84],
+      "assets/images/resized/0001/8067/18067v1-max-150x150.jpg"],
+     [[178,
+       100],
+      "assets/images/resized/0001/8067/18067v1-max-250x250.jpg"],
+     [[178,
+       100],
+      "assets/images/resized/0001/8067/18067v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Live Traffic Stream",
+    "permalink": "live-traffic-stream",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder \u0026 CEO",
+    "person":
+     {"first_name": "Josh",
+      "last_name": "Evans",
+      "permalink": "josh-evans",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Jeremiah",
+      "last_name": "Evans",
+      "permalink": "jeremiah-evans",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Feedjit",
+      "permalink": "feedjit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0000/0388/388v6-max-150x150.png"],
+          [[215,
+            49],
+           "assets/images/resized/0000/0388/388v6-max-250x250.png"],
+          [[215,
+            49],
+           "assets/images/resized/0000/0388/388v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyBlogLog",
+      "permalink": "mybloglog",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/5755/15755v2-max-150x150.png"],
+          [[195,
+            59],
+           "assets/images/resized/0001/5755/15755v2-max-250x250.png"],
+          [[195,
+            59],
+           "assets/images/resized/0001/5755/15755v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "44221",
+    "city": "Akron",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": 41.143544,
+    "longitude": -81.473725}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

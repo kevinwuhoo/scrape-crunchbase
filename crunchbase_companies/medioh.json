@@ -1,0 +1,111 @@
+{"name": "Medioh!",
+ "permalink": "medioh",
+ "crunchbase_url": "http://www.crunchbase.com/company/medioh",
+ "homepage_url": "http://medioh.tv/",
+ "blog_url": "http://medioh.com/blog",
+ "blog_feed_url": "http://medioh.com/rss/",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 15,
+ "founded_year": 2005,
+ "founded_month": 9,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, search, RSS, API, set-top-box, iPhone, mobile-video",
+ "alias_list": null,
+ "email_address": "info@medioh.com",
+ "phone_number": "303-785-1751",
+ "description": null,
+ "created_at": "Thu Apr 17 08:48:33 UTC 2008",
+ "updated_at": "Thu Dec 01 07:42:19 UTC 2011",
+ "overview": "\u003Cp\u003EMedioh is a video search engine powered by RSS video aggregation.  Medioh! claims to enable users to create their own tailored viewing experience, \u0026#8220;with access to the broadest range of content available on the web.\u0026#8221;  They offer an API to allow developers to manipulate a database of aggregated video feeds and create their own customized customer-facing application. \u003C/p\u003E\n\n\u003Cp\u003EFeatures available through the API include searching and filtering by all sorts of information about a video, including its title, description, and tags, as well as information about its quality including resolution, duration, and codec.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       78],
+      "assets/images/resized/0001/7420/17420v1-max-150x150.png"],
+     [[250,
+       130],
+      "assets/images/resized/0001/7420/17420v1-max-250x250.png"],
+     [[326,
+       170],
+      "assets/images/resized/0001/7420/17420v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "blinkx",
+      "permalink": "blinkx",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0000/2068/2068v3-max-150x150.png"],
+          [[158,
+            72],
+           "assets/images/resized/0000/2068/2068v3-max-250x250.png"],
+          [[158,
+            72],
+           "assets/images/resized/0000/2068/2068v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.kudelski.com/media-pr.html?id=646",
+   "source_description": "KUDELSKI GROUP ACQUIRES MEDIOH!",
+   "acquired_year": 2009,
+   "acquired_month": 10,
+   "acquired_day": 9,
+   "acquiring_company":
+    {"name": "Kudelski Group",
+     "permalink": "kudelski-group",
+     "image":
+      {"available_sizes":
+        [[[144,
+           61],
+          "assets/images/resized/0007/5222/75222v1-max-150x150.jpg"],
+         [[144,
+           61],
+          "assets/images/resized/0007/5222/75222v1-max-250x250.jpg"],
+         [[144,
+           61],
+          "assets/images/resized/0007/5222/75222v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "1690 30th Street",
+    "address2": "",
+    "zip_code": "80301",
+    "city": "Boulder",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 40.016582,
+    "longitude": -105.253601}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.newswiretoday.com/news/31753/",
+    "title": "newswire on medioh"},
+   {"external_url": "http://www.killerstartups.com/Video-Music-Photo/Mediohcom---A-Video-Aggregating-Platform/",
+    "title": "killerstartups on medioh"}]}

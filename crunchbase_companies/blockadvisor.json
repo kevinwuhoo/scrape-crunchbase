@@ -1,0 +1,138 @@
+{"name": "BlockAdvisor",
+ "permalink": "blockadvisor",
+ "crunchbase_url": "http://www.crunchbase.com/company/blockadvisor",
+ "homepage_url": "htttp://www.blockadvisor.com",
+ "blog_url": "htttp://www.blog.blockadvisor.com",
+ "blog_feed_url": "http://blog.blockadvisor.com/rss",
+ "twitter_username": "blockadvisor",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 16,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "realestate",
+ "alias_list": null,
+ "email_address": "mike@blockadvisor.com",
+ "phone_number": "509-432-1718",
+ "description": "real estate news feed",
+ "created_at": "Mon May 16 16:27:29 UTC 2011",
+ "updated_at": "Tue May 17 06:10:22 UTC 2011",
+ "overview": "\u003Cp\u003EBlockAdvisor aggregates hundreds of real estate data sources and provides a personalized news feed for neighborhoods that interest you.\u003C/p\u003E\n\n\u003Cp\u003EHere is a quick summary of our main features:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cp\u003EReceive alerts when a home is sold, foreclosed, or listed for sale around you. \u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EConnect with the best reviewed and highest producing real estate agents on your block.\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003ECompare neighborhoods based on market data, school information, crime data, Walk Scores, etc\u00e2\u20ac\u00a6\u003C/p\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cp\u003EExplore neighborhood information including public records, assessments, zoning, building permits, demographics, and school information.\u003C/p\u003E\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       22],
+      "assets/images/resized/0013/4852/134852v2-max-150x150.png"],
+     [[250,
+       36],
+      "assets/images/resized/0013/4852/134852v2-max-250x250.png"],
+     [[320,
+       47],
+      "assets/images/resized/0013/4852/134852v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "King",
+      "permalink": "mike-king-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "King",
+      "permalink": "matt-king",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Realtor.com",
+      "permalink": "realtor-com",
+      "image":
+       {"available_sizes":
+         [[[110,
+            61],
+           "assets/images/resized/0009/7704/97704v1-max-150x150.png"],
+          [[110,
+            61],
+           "assets/images/resized/0009/7704/97704v1-max-250x250.png"],
+          [[110,
+            61],
+           "assets/images/resized/0009/7704/97704v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zillow",
+      "permalink": "zillow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/0946/946v7-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0000/0946/946v7-max-250x250.png"],
+          [[400,
+            127],
+           "assets/images/resized/0000/0946/946v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Trulia",
+      "permalink": "trulia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/4504/4504v5-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0000/4504/4504v5-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0000/4504/4504v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Seattle, USA",
+    "address1": "",
+    "address2": "",
+    "zip_code": "98101",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[149,
+        150],
+       "assets/images/resized/0013/4851/134851v2-max-150x150.jpg"],
+      [[249,
+        250],
+       "assets/images/resized/0013/4851/134851v2-max-250x250.jpg"],
+      [[449,
+        450],
+       "assets/images/resized/0013/4851/134851v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

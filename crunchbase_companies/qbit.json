@@ -1,0 +1,96 @@
+{"name": "Qbit",
+ "permalink": "qbit",
+ "crunchbase_url": "http://www.crunchbase.com/company/qbit",
+ "homepage_url": "http://www.qbit.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2005,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "entertainment, medical-imaging, security, data-storage",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "443.248.4266",
+ "description": null,
+ "created_at": "Wed Jan 21 14:48:05 UTC 2009",
+ "updated_at": "Sat Apr 18 19:34:51 UTC 2009",
+ "overview": "\u003Cp\u003EQbit is a research-focused algorithm development and implementation company that specializes in pattern recognition and compression algorithms that can be applied to a wide variety of commercial applications, including lossless compression/decompression for high resolution frame based images and video, and audio.\u003C/p\u003E\n\n\u003Cp\u003EQbit\u0026#8217;s codec is a mathematically lossless, flexible, content-specific and HD-oriented software package which enables faster delivery, minimizes storage volumes and increases throughput of high fidelity content for applications in the entertainment, medical, defense and web markets.\u003C/p\u003E\n\n\u003Cp\u003EQbit envisions an entirely new paradigm in data storage and transmission, one that calls upon the most recent advances across the spectrum of scientific disciplines to produce some truly ground breaking technologies. Qbit\u0026#8217;s highly talented research team developed novel mathematical algorithms that break away from the typical approaches used in the rest of the data compression field. In addition, the Qbit research team is adopting a more cognitive, computational approach that will develop smarter systems that will evolve the coding schemes and the patterns they are seeking and will also learn from prior experience. As such, these systems can be used for information densification of any type of data.\u003C/p\u003E\n\n\u003Cp\u003EThe first short-term outcome of this research is a series of CODEC algorithms, in software and hardware configurations, that are being brought to market now. The Qbit approach takes advantage of inherent probability distributions in digital data, combined with transformations from different mathematical spaces, to perform compression in a lossless, reversible manner. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       97],
+      "assets/images/resized/0004/1841/41841v1-max-150x150.png"],
+     [[162,
+       105],
+      "assets/images/resized/0004/1841/41841v1-max-250x250.png"],
+     [[162,
+       105],
+      "assets/images/resized/0004/1841/41841v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Opus Suite Hardware/Software",
+    "permalink": "opus-suite-hardware-software",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Kilbank",
+      "permalink": "daniel-kilbank",
+      "image": null}},
+   {"is_past": false,
+    "title": "EVP, Business Development",
+    "person":
+     {"first_name": "John",
+      "last_name": "Griffin",
+      "permalink": "john-griffin-4",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "704 Quince Orchard Road",
+    "address2": "Suite 330",
+    "zip_code": "20878",
+    "city": "Gaithersburg",
+    "state_code": "MD",
+    "country_code": "USA",
+    "latitude": 39.136902,
+    "longitude": -77.223186}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0004/1842/41842v1-max-150x150.png"],
+      [[250,
+        155],
+       "assets/images/resized/0004/1842/41842v1-max-250x250.png"],
+      [[450,
+        279],
+       "assets/images/resized/0004/1842/41842v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

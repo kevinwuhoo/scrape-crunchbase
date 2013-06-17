@@ -1,0 +1,88 @@
+{"name": "Love Electronics",
+ "permalink": "love-electronics",
+ "crunchbase_url": "http://www.crunchbase.com/company/love-electronics",
+ "homepage_url": "http://www.loveelectronics.co.uk",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "loveelectron",
+ "category_code": "semiconductor",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "electronics, oshw, open-source",
+ "alias_list": null,
+ "email_address": "info@loveelectronics.co.uk",
+ "phone_number": "",
+ "description": "Open source electronics manufacturer",
+ "created_at": "Thu Apr 12 15:13:34 UTC 2012",
+ "updated_at": "Sun Apr 15 00:58:27 UTC 2012",
+ "overview": "\u003Cp\u003ELove Electronics designs, manufactures and distributes unique and compelling open source hardware designs in the UK and across the globe.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0018/3945/183945v2-max-150x150.png"],
+     [[250,
+       50],
+      "assets/images/resized/0018/3945/183945v2-max-250x250.png"],
+     [[450,
+       90],
+      "assets/images/resized/0018/3945/183945v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "BMP180 Breakout Board",
+    "permalink": "bmp180-breakout-board",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "James",
+      "last_name": "Carter",
+      "permalink": "james-carter-3",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "2 Minster Drive",
+    "address2": "Bowdon",
+    "zip_code": "WA14 3FA",
+    "city": "Cheshire",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null},
+   {"description": "UK Warehouse",
+    "address1": "",
+    "address2": "Laughton",
+    "zip_code": "",
+    "city": "East Sussex",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

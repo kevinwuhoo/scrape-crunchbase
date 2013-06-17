@@ -1,0 +1,133 @@
+{"name": "Appartisan",
+ "permalink": "pay4bugs",
+ "crunchbase_url": "http://www.crunchbase.com/company/pay4bugs",
+ "homepage_url": "http://www.appartisan.com",
+ "blog_url": "https://www.pay4bugs.com/blog/",
+ "blog_feed_url": "https://www.pay4bugs.com/blog/atom.xml",
+ "twitter_username": "pay4bugs",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software-testing, qa-testing, software-debugging",
+ "alias_list": null,
+ "email_address": "info@appartisan.com",
+ "phone_number": "",
+ "description": "Creator of Pay4bugs",
+ "created_at": "Mon Feb 15 03:37:17 UTC 2010",
+ "updated_at": "Tue Apr 16 07:07:53 UTC 2013",
+ "overview": "\u003Cp\u003EPay4Bugs is an online software testing marketplace, designed to suit development teams of every size.\u003C/p\u003E\n\n\u003Cp\u003EThe system is free to use, and the customer chooses the bounty for each bug found. Money is only paid out to testers after the customer has had an opportunity to review the bug reports.\u003C/p\u003E\n\n\u003Cp\u003EThe site also has a referral program that provides financial incentives to refer customers and testers alike.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0007/7042/77042v2-max-150x150.png"],
+     [[200,
+       65],
+      "assets/images/resized/0007/7042/77042v2-max-250x250.png"],
+     [[200,
+       65],
+      "assets/images/resized/0007/7042/77042v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Pay4Bugs",
+    "permalink": "pay4bugs",
+    "image":
+     {"available_sizes":
+       [[[150,
+          39],
+         "assets/images/resized/0007/7403/77403v2-max-150x150.png"],
+        [[250,
+          66],
+         "assets/images/resized/0007/7403/77403v2-max-250x250.png"],
+        [[335,
+          89],
+         "assets/images/resized/0007/7403/77403v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Larry",
+      "last_name": "Salibra",
+      "permalink": "larry-salibra",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/1854/251854v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0025/1854/251854v2-max-250x250.png"],
+          [[320,
+            320],
+           "assets/images/resized/0025/1854/251854v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "C.S.",
+      "last_name": "Hsia",
+      "permalink": "c-s-hsia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/1865/251865v2-max-150x150.png"],
+          [[150,
+            150],
+           "assets/images/resized/0025/1865/251865v2-max-250x250.png"],
+          [[150,
+            150],
+           "assets/images/resized/0025/1865/251865v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "uTest",
+      "permalink": "utest",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/2761/2761v10-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/2761/2761v10-max-250x250.jpg"],
+          [[361,
+            136],
+           "assets/images/resized/0000/2761/2761v10-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1104 Crawford House",
+    "address2": "70 Queen's Road Central",
+    "zip_code": "",
+    "city": "Central",
+    "state_code": null,
+    "country_code": "HKG",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

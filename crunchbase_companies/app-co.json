@@ -1,0 +1,120 @@
+{"name": "App.Co",
+ "permalink": "app-co",
+ "crunchbase_url": "http://www.crunchbase.com/company/app-co",
+ "homepage_url": "http://app.co",
+ "blog_url": "http://blog.app.co",
+ "blog_feed_url": "http://appco.tumblr.com/rss",
+ "twitter_username": "app_co",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "support@app.co",
+ "phone_number": "4082562735",
+ "description": "Automated mobile app creation",
+ "created_at": "Fri Aug 06 19:58:37 UTC 2010",
+ "updated_at": "Mon Aug 09 14:32:56 UTC 2010",
+ "overview": "\u003Cp\u003EApp.Co lets anyone make simple apps in just a few minutes, free.\u003C/p\u003E\n\n\u003Cp\u003EApp.Co lets users bundle together feeds of content from online sources, wrap them in various features and static functionality, and create an app. App.Co was founded in 2010 after the founders killed off a previous company attempting to solve the automated app problem. With a more focused approach, App.Co is specifically focused on the mass market and creating a future where anyone has access to the means to produce their own App, with which they can secure their claim on the screen real-estate of their target audience.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0009/6391/96391v2-max-150x150.png"],
+     [[160,
+       160],
+      "assets/images/resized/0009/6391/96391v2-max-250x250.png"],
+     [[160,
+       160],
+      "assets/images/resized/0009/6391/96391v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "App.Co - App Builder",
+    "permalink": "app-co-app-builder",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, Lead Engineer",
+    "person":
+     {"first_name": "Anurag",
+      "last_name": "Mishra",
+      "permalink": "anurag-mishra",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Richard",
+      "last_name": "Jordan",
+      "permalink": "richard-jordan",
+      "image":
+       {"available_sizes":
+         [[[149,
+            150],
+           "assets/images/resized/0009/6621/96621v3-max-150x150.jpg"],
+          [[249,
+            250],
+           "assets/images/resized/0009/6621/96621v3-max-250x250.jpg"],
+          [[249,
+            250],
+           "assets/images/resized/0009/6621/96621v3-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003ERichard Jordan / [App.Co] (http://app.co)\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mobile Roadie",
+      "permalink": "mobile-roadie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0004/1979/41979v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0004/1979/41979v3-max-250x250.png"],
+          [[450,
+            131],
+           "assets/images/resized/0004/1979/41979v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AppMakr",
+      "permalink": "appmakr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0010/6040/106040v2-max-150x150.png"],
+          [[175,
+            75],
+           "assets/images/resized/0010/6040/106040v2-max-250x250.png"],
+          [[175,
+            75],
+           "assets/images/resized/0010/6040/106040v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"420\" height=\"340\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/JEaxlMBwWGo\u0026amp;hl=en_US\u0026amp;fs=1\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/JEaxlMBwWGo\u0026amp;hl=en_US\u0026amp;fs=1\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"420\" height=\"340\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EApp.Co Two Minute Tutorial\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://facebook.com/app.co",
+    "title": "Facebook Page"}]}

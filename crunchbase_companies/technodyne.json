@@ -1,0 +1,85 @@
+{"name": "Technodyne",
+ "permalink": "technodyne",
+ "crunchbase_url": "http://www.crunchbase.com/company/technodyne",
+ "homepage_url": "http://www.technodyne.gr",
+ "blog_url": "http://technodyne.wordpress.com",
+ "blog_feed_url": "http://technodyne.wordpress.com/feed/",
+ "twitter_username": null,
+ "category_code": "consulting",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@technodyne.gr",
+ "phone_number": "+302105776734",
+ "description": null,
+ "created_at": "Tue Dec 02 08:03:50 UTC 2008",
+ "updated_at": "Sun Dec 07 17:53:45 UTC 2008",
+ "overview": "\u003Cp\u003ESmart Buildings - HVAC - BEMS - TELECOMS\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0003/0652/30652v2-max-150x150.png"],
+     [[250,
+       70],
+      "assets/images/resized/0003/0652/30652v2-max-250x250.png"],
+     [[450,
+       126],
+      "assets/images/resized/0003/0652/30652v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Qbus",
+    "permalink": "qbus",
+    "image": null},
+   {"name": "Dupline Bus",
+    "permalink": "dupline-bus",
+    "image": null},
+   {"name": "HAI",
+    "permalink": "hai",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner",
+    "person":
+     {"first_name": "Vassilios",
+      "last_name": "Koutsounis",
+      "permalink": "vassilios-koutsounis",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "75  Artoxinou",
+    "address2": "",
+    "zip_code": "12135",
+    "city": "Athens",
+    "state_code": null,
+    "country_code": "GRC",
+    "latitude": 38.0248447,
+    "longitude": 23.6879859}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

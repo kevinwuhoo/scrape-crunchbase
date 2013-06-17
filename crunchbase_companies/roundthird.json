@@ -1,0 +1,98 @@
+{"name": "Roundthird",
+ "permalink": "roundthird",
+ "crunchbase_url": "http://www.crunchbase.com/company/roundthird",
+ "homepage_url": "http://www.roundthird.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "roundthird",
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-application-development, iphone-development, online-marketing",
+ "alias_list": null,
+ "email_address": "robin@roundthird.com",
+ "phone_number": "314-814-2757",
+ "description": "Mobile \u0026 Web Development",
+ "created_at": "Thu Jun 04 19:40:12 UTC 2009",
+ "updated_at": "Wed Jun 10 20:42:35 UTC 2009",
+ "overview": "\u003Cp\u003ERoundthird provides application development services for both mobile and web platforms.\u003C/p\u003E\n\n\u003Cp\u003ERoundthird provides its development, design, usability and online marketing services to small and medium sized business looking to enhance their product and services image and reach. Roundthird also develops and manages web application software. Roundthird\u0026#8217;s most recent project is an entertainment application for the iPhone mobile platform, titled Radial 50.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0004/6768/46768v2-max-150x150.jpg"],
+     [[250,
+       64],
+      "assets/images/resized/0004/6768/46768v2-max-250x250.jpg"],
+     [[250,
+       64],
+      "assets/images/resized/0004/6768/46768v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Radial 50",
+    "permalink": "radial-50",
+    "image":
+     {"available_sizes":
+       [[[150,
+          44],
+         "assets/images/resized/0004/7449/47449v2-max-150x150.jpg"],
+        [[250,
+          73],
+         "assets/images/resized/0004/7449/47449v2-max-250x250.jpg"],
+        [[326,
+          96],
+         "assets/images/resized/0004/7449/47449v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Robin",
+      "last_name": "Rath",
+      "permalink": "robin-rath",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Jordan",
+      "last_name": "Koene",
+      "permalink": "jordan-koene",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "St. Louis Office",
+    "address1": "1051 S. Big Bend Blvd.",
+    "address2": "Suite 210",
+    "zip_code": "63117",
+    "city": "St. Louis",
+    "state_code": "MO",
+    "country_code": "USA",
+    "latitude": 38.633586,
+    "longitude": -90.319021}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://radial50.com",
+    "title": "Radial 50 Official Homepage"}]}

@@ -1,0 +1,106 @@
+{"name": "ClassCloud",
+ "permalink": "classcloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/classcloud",
+ "homepage_url": "http://classcloud.me",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ClassCloud",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "saas, cloud, consumer-web, education, k-12",
+ "alias_list": null,
+ "email_address": "brian@icouch.me",
+ "phone_number": "202-642-2742",
+ "description": "SaaS for schools",
+ "created_at": "Sun Oct 02 09:27:12 UTC 2011",
+ "updated_at": "Thu Oct 13 03:49:54 UTC 2011",
+ "overview": "\u003Cp\u003EClassCloud software as a service provider for teachers and schools.\u003C/p\u003E\n\n\u003Cp\u003EThe ClassCloud application lets teachers and students interact, allows parents to track student progress and administrators to manage school resources in the cloud.\u003C/p\u003E\n\n\u003Cp\u003EIt was founded by iCouch cofounders Brian Dear and Jessica Rios and is currently based in Shanghai, China.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Dear",
+      "permalink": "brian-dear-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jessica",
+      "last_name": "Rios",
+      "permalink": "jessica-rios",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "HP Software",
+      "permalink": "hp-software",
+      "image": null}},
+   {"competitor":
+     {"name": "Blackboard",
+      "permalink": "blackboard",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-150x150.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-250x250.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ClassConnect",
+      "permalink": "classconnect-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0010/5329/105329v4-max-150x150.png"],
+          [[250,
+            32],
+           "assets/images/resized/0010/5329/105329v4-max-250x250.png"],
+          [[450,
+            59],
+           "assets/images/resized/0010/5329/105329v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Shanghai Dev Office",
+    "address1": "399 Xiangnan Road",
+    "address2": "",
+    "zip_code": "201203",
+    "city": "Shanghai",
+    "state_code": null,
+    "country_code": "CHN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

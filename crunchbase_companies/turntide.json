@@ -1,0 +1,143 @@
+{"name": "TurnTide",
+ "permalink": "turntide",
+ "crunchbase_url": "http://www.crunchbase.com/company/turntide",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Mon Sep 01 23:20:23 UTC 2008",
+ "updated_at": "Thu May 17 00:37:17 UTC 2012",
+ "overview": "\u003Cp\u003ETurnTide Inc. was an anti-spam technology company founded in 2004 and based in Conshohocken, Pennsylvania. \u003C/p\u003E\n\n\u003Cp\u003EThe firm was created as a spin-off corporation from privacy and anti-spam technology firm ePrivacy Group to bring to market the world\u0026#8217;s first anti-spam router. The technology, linking anti-spam detection algorithms with network-level flow controls, was originally marketed by ePrivacy Group under the name \u0026#8220;SpamSquelcher\u0026#8221;.\u003C/p\u003E\n\n\u003Cp\u003ETurnTide was acquired by Symantec six months after its creation for USD $28 million\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Josh",
+      "last_name": "Kopelman",
+      "permalink": "josh-kopelman",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0001/8182/18182v1-max-150x150.jpg"],
+          [[127,
+            192],
+           "assets/images/resized/0001/8182/18182v1-max-250x250.jpg"],
+          [[127,
+            192],
+           "assets/images/resized/0001/8182/18182v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "VP, Sales",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Smalls",
+      "permalink": "michael-smalls",
+      "image":
+       {"available_sizes":
+         [[[150,
+            135],
+           "assets/images/resized/0025/0850/250850v2-max-150x150.png"],
+          [[250,
+            225],
+           "assets/images/resized/0025/0850/250850v2-max-250x250.png"],
+          [[450,
+            405],
+           "assets/images/resized/0025/0850/250850v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Senior Software Engineer",
+    "person":
+     {"first_name": "Toby",
+      "last_name": "DiPasquale",
+      "permalink": "toby-dipasquale",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$750k",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 750000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2003,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Josh",
+         "last_name": "Kopelman",
+         "permalink": "josh-kopelman",
+         "image":
+          {"available_sizes":
+            [[[99,
+               150],
+              "assets/images/resized/0001/8182/18182v1-max-150x150.jpg"],
+             [[127,
+               192],
+              "assets/images/resized/0001/8182/18182v1-max-250x250.jpg"],
+             [[127,
+               192],
+              "assets/images/resized/0001/8182/18182v1-max-450x450.jpg"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 28000000.0,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://www.internetnews.com/xSP/article.php/3380281/Symantec+to+Turn+Tide+on+Spam.htm",
+   "source_description": "Symantec to Turn Tide on Spam",
+   "acquired_year": 2004,
+   "acquired_month": 7,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Symantec",
+     "permalink": "symantec",
+     "image":
+      {"available_sizes":
+        [[[150,
+           39],
+          "assets/images/resized/0001/7569/17569v4-max-150x150.jpg"],
+         [[226,
+           59],
+          "assets/images/resized/0001/7569/17569v4-max-250x250.jpg"],
+         [[226,
+           59],
+          "assets/images/resized/0001/7569/17569v4-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

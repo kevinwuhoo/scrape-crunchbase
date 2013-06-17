@@ -1,0 +1,89 @@
+{"name": "AgileLaw",
+ "permalink": "agilelaw",
+ "crunchbase_url": "http://www.crunchbase.com/company/agilelaw",
+ "homepage_url": "http://www.agilelaw.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "agilelaw",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "legal, saas, attorney, software, legal-technology, legal-tech, depositions, litigation",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "512.348.6525",
+ "description": "Paperless Depositions for Attorneys",
+ "created_at": "Wed May 29 16:45:57 UTC 2013",
+ "updated_at": "Thu May 30 23:40:41 UTC 2013",
+ "overview": "\u003Cp\u003EAgileLaw is located in Austin, TX and was founded in 2011 to provide cloud-based mobile solutions for attorneys. Its flagship product enables attorneys to manage the entire deposition process by replacing stacks of printed document exhibits with a tablet device. Lawyers can now securely upload documents into the cloud, conduct a deposition by securely revealing documents to witnesses using a laptop or tablet device, and eliminate printing and shipping deposition exhibits. \u003C/p\u003E\n\n\u003Cp\u003EAgileLaw\u0026#8217;s software allows every attendee in a deposition to view, search, and annotate their own copy of the documents, while still allowing the lead counsel to direct the witness to specific pages during their testimony. Deposing attorneys can privately review all of their documents on their laptop and then reveal documents they choose according to their pace during the deposition. The witness and opposing counsel only see the documents that a deposing attorney reveals. \u003C/p\u003E\n\n\u003Cp\u003EThe workflow of revealing, marking, annotating, and distributing documents is unchanged from paper depositions, but now all participants in the deposition view the exhibits using a laptop, iPad, or Android tablet device. Once the deposition is completed, a copy of the exhibits, including annotations, is saved and is accessible by all parties in the deposition. All data on the AgileLaw system is securely transmitted and stored using NSA-approved encryption algorithms.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0026/8763/268763v2-max-150x150.jpg"],
+     [[250,
+       78],
+      "assets/images/resized/0026/8763/268763v2-max-250x250.jpg"],
+     [[450,
+       140],
+      "assets/images/resized/0026/8763/268763v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Allen",
+      "permalink": "thomas-allen-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chairman of the Board",
+    "person":
+     {"first_name": "Cyclone",
+      "last_name": "Covey",
+      "permalink": "cyclone-covey",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "3925 W. Braker Ln",
+    "address2": "3rd Floor ",
+    "zip_code": "78759",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://thedroidlawyer.com/2013/03/agilelaw-brings-cloud-depositions/",
+    "title": "AgileLaw Brings Cloud Depositions"},
+   {"external_url": "http://thedroidlawyer.com/2013/03/android-app-review-agilelaw-for-android/",
+    "title": "Android App Review: AgileLaw for Android"},
+   {"external_url": "http://www.chron.com/business/press-releases/article/AgileLaw-Introduces-Paperless-Deposition-System-4409120.php",
+    "title": "AgileLaw Introduces Paperless Deposition System"}]}

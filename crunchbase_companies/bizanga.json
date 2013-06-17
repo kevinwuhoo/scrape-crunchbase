@@ -1,0 +1,142 @@
+{"name": "Bizanga",
+ "permalink": "bizanga",
+ "crunchbase_url": "http://www.crunchbase.com/company/bizanga",
+ "homepage_url": "http://www.bizanga.com",
+ "blog_url": "http://blog.cloudmark.com/",
+ "blog_feed_url": "http://www.cloudmark.com/en/press",
+ "twitter_username": "Cloudmark",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": 2003,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "E-mail Platform",
+ "created_at": "Tue Feb 17 16:51:37 UTC 2009",
+ "updated_at": "Sun Apr 07 07:41:32 UTC 2013",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.bizanga.com\" title=\"Bizanga\" rel=\"nofollow\"\u003EBizanga\u003C/a\u003E is a provider of email and message management platforms. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[135,
+       91],
+      "assets/images/resized/0003/6372/36372v1-max-150x150.png"],
+     [[135,
+       91],
+      "assets/images/resized/0003/6372/36372v1-max-250x250.png"],
+     [[135,
+       91],
+      "assets/images/resized/0003/6372/36372v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP Engineering",
+    "person":
+     {"first_name": "Giorgio",
+      "last_name": "Regni",
+      "permalink": "giorgio-regni",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$8M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://in.sys-con.com/node/844713",
+    "source_description": "Bizanga Completes $8 Million Funding Round led by Credit Agricole Private Equity - Galileo Reinvests",
+    "raised_amount": 8000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 2,
+    "funded_day": 17,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Credit Agricole Private Equity",
+         "permalink": "credit-agricole-private-equity",
+         "image":
+          {"available_sizes":
+            [[[150,
+               41],
+              "assets/images/resized/0002/3491/23491v3-max-150x150.jpg"],
+             [[250,
+               68],
+              "assets/images/resized/0002/3491/23491v3-max-250x250.jpg"],
+             [[450,
+               123],
+              "assets/images/resized/0002/3491/23491v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Galileo Partners",
+         "permalink": "galileo-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               68],
+              "assets/images/resized/0002/7714/27714v1-max-150x150.jpg"],
+             [[250,
+               114],
+              "assets/images/resized/0002/7714/27714v1-max-250x250.jpg"],
+             [[253,
+               116],
+              "assets/images/resized/0002/7714/27714v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.bizjournals.com/sanfrancisco/stories/2010/02/15/daily33.html",
+   "source_description": "Cloudmark to buy Bizanga",
+   "acquired_year": 2010,
+   "acquired_month": 2,
+   "acquired_day": 17,
+   "acquiring_company":
+    {"name": "Cloudmark",
+     "permalink": "cloudmark",
+     "image":
+      {"available_sizes":
+        [[[150,
+           28],
+          "assets/images/resized/0002/2971/22971v4-max-150x150.jpg"],
+         [[244,
+           47],
+          "assets/images/resized/0002/2971/22971v4-max-250x250.jpg"],
+         [[244,
+           47],
+          "assets/images/resized/0002/2971/22971v4-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2988 Campus Drive",
+    "address2": "Suite 100",
+    "zip_code": "94403",
+    "city": "San Mateo",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.537542,
+    "longitude": -122.327609}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

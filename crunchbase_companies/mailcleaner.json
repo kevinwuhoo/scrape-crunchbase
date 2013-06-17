@@ -1,0 +1,134 @@
+{"name": "MailCleaner",
+ "permalink": "mailcleaner",
+ "crunchbase_url": "http://www.crunchbase.com/company/mailcleaner",
+ "homepage_url": "http://www.mailcleaner.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mailcleaner",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": 1994,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "anti-spam, spam, antivirus, antispam, gateway, smtp, filtering, isp, security",
+ "alias_list": null,
+ "email_address": "info@mailcleaner.net",
+ "phone_number": "+41 21 695 2020",
+ "description": "Part of Fastnet SA",
+ "created_at": "Wed May 18 13:12:43 UTC 2011",
+ "updated_at": "Thu Apr 04 13:48:31 UTC 2013",
+ "overview": "\u003Cp\u003EMailCleaner is a full software solution, including the operating system, anti-virus, anti-spam and a complete administration environment.\nMailCleaner offers professional protection against viruses and eliminates up to 99% of spam. MailCleaner is installed between the Internet and your mail server. It blocks intrusive messages before they reach their destination.\nMailCleaner is widely adopted in large companies, ISPs \u0026amp; ASPs, and SME \u0026amp; SMIs.\u003C/p\u003E\n\n\u003Cp\u003EProducts:\nCloud Anti-Spam Service: MailCleaner Hosted Services\nMailCleaner Enterprise solution\nMailCleaner Appliance\nMailCleaner for ISPs / ASPs\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       105],
+      "assets/images/resized/0013/5180/135180v2-max-150x150.jpg"],
+     [[150,
+       105],
+      "assets/images/resized/0013/5180/135180v2-max-250x250.jpg"],
+     [[150,
+       105],
+      "assets/images/resized/0013/5180/135180v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "IronPort Systems",
+      "permalink": "ironport",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0003/1929/31929v2-max-150x150.png"],
+          [[200,
+            70],
+           "assets/images/resized/0003/1929/31929v2-max-250x250.png"],
+          [[200,
+            70],
+           "assets/images/resized/0003/1929/31929v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Barracuda Networks",
+      "permalink": "barracuda-networks",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/2554/22554v1-max-150x150.png"],
+          [[230,
+            69],
+           "assets/images/resized/0002/2554/22554v1-max-250x250.png"],
+          [[230,
+            69],
+           "assets/images/resized/0002/2554/22554v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SpamTitan",
+      "permalink": "spamtitan",
+      "image": null}},
+   {"competitor":
+     {"name": "Brightmail",
+      "permalink": "brightmail-symantec",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0005/7057/57057v1-max-150x150.png"],
+          [[203,
+            56],
+           "assets/images/resized/0005/7057/57057v1-max-250x250.png"],
+          [[203,
+            56],
+           "assets/images/resized/0005/7057/57057v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Network",
+    "is_past": false,
+    "provider":
+     {"name": "Fastnet SA",
+      "permalink": "fastnet-sa",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "rue des Jordils 40",
+    "address2": "",
+    "zip_code": "1025",
+    "city": "St-Sulpice",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        117],
+       "assets/images/resized/0023/6173/236173v2-max-150x150.png"],
+      [[250,
+        196],
+       "assets/images/resized/0023/6173/236173v2-max-250x250.png"],
+      [[450,
+        353],
+       "assets/images/resized/0023/6173/236173v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

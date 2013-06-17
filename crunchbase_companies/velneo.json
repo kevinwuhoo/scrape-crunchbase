@@ -1,0 +1,128 @@
+{"name": "Velneo",
+ "permalink": "velneo",
+ "crunchbase_url": "http://www.crunchbase.com/company/velneo",
+ "homepage_url": "http://v7.velneo.es/",
+ "blog_url": "http://v7.velneo.es/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/VelneoV7",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 60,
+ "founded_year": 2005,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software, development, cloud-computing, paas, saas",
+ "alias_list": null,
+ "email_address": "velneo@velneo.com",
+ "phone_number": "+34902366382",
+ "description": null,
+ "created_at": "Thu Feb 19 16:52:05 UTC 2009",
+ "updated_at": "Fri May 03 13:31:14 UTC 2013",
+ "overview": "\u003Cp\u003EVelneo provides a complete business application development platform. \u003C/p\u003E\n\n\u003Cp\u003EThe last version it\u0026#8217;s Velneo V7 wich it\u0026#8217;s composed by seven components:\nServer: vServer and vAdmin \nDevelopment: vDevelop and vTranslator\nExecution: vClient and vDataClient\nUtilities: ODBC Driver\u003C/p\u003E\n\n\u003Cp\u003EVelneo V7 let develop and execute in the \u0026#8220;cloud\u0026#8221; (cloud computing) and all of their components are multiplatform. \u003C/p\u003E\n\n\u003Cp\u003ESoftware be avaible in spanish, english and chinese. Web in english soon.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       100],
+      "assets/images/resized/0003/6543/36543v2-max-150x150.jpg"],
+     [[100,
+       100],
+      "assets/images/resized/0003/6543/36543v2-max-250x250.jpg"],
+     [[100,
+       100],
+      "assets/images/resized/0003/6543/36543v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Velneo",
+    "permalink": "velneo",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Alfonso",
+      "last_name": "Gutierrez",
+      "permalink": "alfonso-gutierrez",
+      "image": null}},
+   {"is_past": false,
+    "title": "Coordinator",
+    "person":
+     {"first_name": "Jes\u00c3\u00bas",
+      "last_name": "Arboleya",
+      "permalink": "jess-arboleya",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bungee Labs",
+      "permalink": "bungee-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0001/1936/11936v1-max-150x150.png"],
+          [[250,
+            44],
+           "assets/images/resized/0001/1936/11936v1-max-250x250.png"],
+          [[405,
+            72],
+           "assets/images/resized/0001/1936/11936v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": " 36400 ",
+    "city": "Vigo",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": 42.1638716,
+    "longitude": -8.6105703}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        116],
+       "assets/images/resized/0003/6542/36542v2-max-150x150.png"],
+      [[250,
+        194],
+       "assets/images/resized/0003/6542/36542v2-max-250x250.png"],
+      [[450,
+        349],
+       "assets/images/resized/0003/6542/36542v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.youtube.com/view_play_list?p=5965DDC171FEEB40",
+    "title": "English Velneo videos"},
+   {"external_url": "http://www.youtube.com/watch?v=FENgHLYmTQE\u0026feature=related",
+    "title": "Interview with Velneo's CEO (in spanish)"}]}

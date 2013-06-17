@@ -1,0 +1,111 @@
+{"name": "podcast.de",
+ "permalink": "podcast-de",
+ "crunchbase_url": "http://www.crunchbase.com/company/podcast-de",
+ "homepage_url": "http://www.podcast.de",
+ "blog_url": "http://blog.podcast.de",
+ "blog_feed_url": "http://feeds.blog.podcast.de/blogpodcastde",
+ "twitter_username": "podcastDe",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "podcast, podcasting, rss, feed, feed-reader, video",
+ "alias_list": null,
+ "email_address": "presse@podcast.de",
+ "phone_number": "+4930868708048",
+ "description": "Podcast portal",
+ "created_at": "Mon Oct 27 17:19:23 UTC 2008",
+ "updated_at": "Wed Apr 04 06:44:48 UTC 2012",
+ "overview": "\u003Cp\u003ESince October of 2004 podcast.de aggregates information and data regarding \npodcasting focused on the German speaking area and culture.  \u003C/p\u003E\n\n\u003Cp\u003EThe editorially managed catalog of German podcasts contains more than 6.000 podcasts with over 600.000 audio and video files. All podcasts are categorized and tagged. Many of the episodes are also tagged. Episodes can be played in the \nself-developed online podcast-player.\u003C/p\u003E\n\n\u003Cp\u003EA powerful search provides easy access for the 250.000 users who visit the site monthly. Registered users in the community can vote, comment, share and easily subscribe to podcasts online. Subscribed podcasts as well as self and automatically created playlists can be exported in many formats (RSS, OPML, M3U, \u0026#8230;). The service provides easy subscriptions to iTunes, Miro and many other podcatchers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0002/7399/27399v2-max-150x150.png"],
+     [[250,
+       101],
+      "assets/images/resized/0002/7399/27399v2-max-250x250.png"],
+     [[450,
+       182],
+      "assets/images/resized/0002/7399/27399v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "podcast.de",
+    "permalink": "podcast-de",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Fabio",
+      "last_name": "Bacigalupo",
+      "permalink": "fabio-bacigalupo",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jonas",
+      "last_name": "Girnatis",
+      "permalink": "jonas-girnatis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Odeo",
+      "permalink": "odeo",
+      "image":
+       {"available_sizes":
+         [[[137,
+            52],
+           "assets/images/resized/0001/9162/19162v2-max-150x150.png"],
+          [[137,
+            52],
+           "assets/images/resized/0001/9162/19162v2-max-250x250.png"],
+          [[137,
+            52],
+           "assets/images/resized/0001/9162/19162v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Berlin",
+    "address1": "",
+    "address2": "",
+    "zip_code": "13355",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 52.4767935,
+    "longitude": 13.2962036}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        144],
+       "assets/images/resized/0002/8193/28193v2-max-150x150.png"],
+      [[250,
+        241],
+       "assets/images/resized/0002/8193/28193v2-max-250x250.png"],
+      [[450,
+        434],
+       "assets/images/resized/0002/8193/28193v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://ip.podcast.de",
+    "title": "Mobile web app for smartphones"}]}

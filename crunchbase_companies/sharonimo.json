@@ -1,0 +1,117 @@
+{"name": "Sharonimo",
+ "permalink": "sharonimo",
+ "crunchbase_url": "http://www.crunchbase.com/company/sharonimo",
+ "homepage_url": "http://sharonimo.com",
+ "blog_url": "http://blog.sharonimo.com",
+ "blog_feed_url": "http://blog.sharonimo.com/feed",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 0,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "resource-sharing, community, social-network",
+ "alias_list": null,
+ "email_address": "jon@sharonimo.com",
+ "phone_number": "",
+ "description": "Personal resource-sharing software",
+ "created_at": "Thu Apr 09 13:34:42 UTC 2009",
+ "updated_at": "Sun Apr 12 22:16:33 UTC 2009",
+ "overview": "\u003Cp\u003ESharonimo provides online software that helps people share tangible and intangible personal resources with their friends. Each user creates a list of shareable resources\u0026#8211;from tools to toys to talents\u0026#8211;and then invites her friends to join her network and create their own resource lists. \u003C/p\u003E\n\n\u003Cp\u003EWhen a user needs a resource (a hacksaw, for instance), he can search the resource lists of everyone in his network, then submit a request for the resource, with start and end dates and a brief note. The friend who receives the request can grant or deny it; if a request is granted then the software creates a transaction record for the shared resource and sends a reminder when the it\u0026#8217;s due to be returned.\u003C/p\u003E\n\n\u003Cp\u003EThe Sharonimo software can also be used to plan and manage projects and events\u0026#8211;from community service projects to dinner parties\u0026#8211;that combine friends and resources. Additional free features are under development, as is a premium subscription version of the software.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0004/0951/40951v1-max-150x150.png"],
+     [[250,
+       60],
+      "assets/images/resized/0004/0951/40951v1-max-250x250.png"],
+     [[313,
+       76],
+      "assets/images/resized/0004/0951/40951v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Sharonimo Beta",
+    "permalink": "sharonimo-beta",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Jon",
+      "last_name": "Andrews",
+      "permalink": "jon-andrews",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Coburn",
+      "permalink": "aaron-coburn",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BorrowMe",
+      "permalink": "borrowme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0004/8835/48835v2-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0004/8835/48835v2-max-250x250.png"],
+          [[450,
+            88],
+           "assets/images/resized/0004/8835/48835v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Neighborrow",
+      "permalink": "neighborrow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0008/8518/88518v2-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0008/8518/88518v2-max-250x250.png"],
+          [[400,
+            70],
+           "assets/images/resized/0008/8518/88518v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        87],
+       "assets/images/resized/0004/0687/40687v2-max-150x150.png"],
+      [[250,
+        146],
+       "assets/images/resized/0004/0687/40687v2-max-250x250.png"],
+      [[450,
+        262],
+       "assets/images/resized/0004/0687/40687v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

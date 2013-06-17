@@ -1,0 +1,138 @@
+{"name": "CardFlight",
+ "permalink": "cardflight",
+ "crunchbase_url": "http://www.crunchbase.com/company/cardflight",
+ "homepage_url": "http://getcardflight.com",
+ "blog_url": "http://cardflight.tumblr.com/",
+ "blog_feed_url": "",
+ "twitter_username": "CardFlight",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2013,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "payments, mobile, mobile-app, mobile-payment, credit-card-payment, payment-processing",
+ "alias_list": null,
+ "email_address": "info@getcardflight.com",
+ "phone_number": "",
+ "description": "Mobile Payments SDK",
+ "created_at": "Mon May 06 15:40:01 UTC 2013",
+ "updated_at": "Thu May 09 04:40:52 UTC 2013",
+ "overview": "\u003Cp\u003ECardFlight connects mobile developers with payment processors. We bring the same developer\u2010friendly, transparent approach to payment processing as Stripe and Braintree. However, we focus on the ~90% of payment transactions that happen offline. Developers retain full control of their integrated app experience, and use our encrypted mag stripe reader and SDK/API so that they can safely and securely accept card present payments in their apps, with support for their existing merchant account.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0025/9321/259321v2-max-150x150.png"],
+     [[250,
+       73],
+      "assets/images/resized/0025/9321/259321v2-max-250x250.png"],
+     [[450,
+       132],
+      "assets/images/resized/0025/9321/259321v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Derek",
+      "last_name": "Webster",
+      "permalink": "derek-webster",
+      "image":
+       {"available_sizes":
+         [[[134,
+            150],
+           "assets/images/resized/0012/9795/129795v4-max-150x150.jpg"],
+          [[223,
+            250],
+           "assets/images/resized/0012/9795/129795v4-max-250x250.jpg"],
+          [[402,
+            450],
+           "assets/images/resized/0012/9795/129795v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ROAM Data",
+      "permalink": "roam-data",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0006/7316/67316v1-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0006/7316/67316v1-max-250x250.png"],
+          [[450,
+            78],
+           "assets/images/resized/0006/7316/67316v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PayAnywhere",
+      "permalink": "payanywhere",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0022/0291/220291v2-max-150x150.jpg"],
+          [[250,
+            47],
+           "assets/images/resized/0022/0291/220291v2-max-250x250.jpg"],
+          [[450,
+            85],
+           "assets/images/resized/0022/0291/220291v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[126,
+        150],
+       "assets/images/resized/0025/9319/259319v2-max-150x150.png"],
+      [[210,
+        250],
+       "assets/images/resized/0025/9319/259319v2-max-250x250.png"],
+      [[378,
+        448],
+       "assets/images/resized/0025/9319/259319v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        62],
+       "assets/images/resized/0025/9320/259320v2-max-150x150.png"],
+      [[250,
+        104],
+       "assets/images/resized/0025/9320/259320v2-max-250x250.png"],
+      [[450,
+        188],
+       "assets/images/resized/0025/9320/259320v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

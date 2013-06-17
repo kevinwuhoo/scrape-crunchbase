@@ -1,0 +1,105 @@
+{"name": "CtoJ",
+ "permalink": "ctoj",
+ "crunchbase_url": "http://www.crunchbase.com/company/ctoj",
+ "homepage_url": "http://www.CtoJ.de",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "consulting",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": 14,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "migration",
+ "alias_list": "",
+ "email_address": "info@CtoJ.de",
+ "phone_number": "+492212985082",
+ "description": "Software Migration",
+ "created_at": "Sun Dec 21 14:15:00 UTC 2008",
+ "updated_at": "Mon May 18 20:24:22 UTC 2009",
+ "overview": "\u003Cp\u003ECtoJ is a service provider that focuses on the migration of large-scale, mission critical software systems. \u003C/p\u003E\n\n\u003Cp\u003EThe company offers a service to automate migration from legacy programming languages to state-of-the-art languages. \u003C/p\u003E\n\n\u003Cp\u003ECtoJ has developed solutions to automate migration from C++ to Java, C++ to C# and C to Java.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       58],
+      "assets/images/resized/0003/2196/32196v2-max-150x150.png"],
+     [[250,
+       96],
+      "assets/images/resized/0003/2196/32196v2-max-250x250.png"],
+     [[256,
+       99],
+      "assets/images/resized/0003/2196/32196v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "CtoJ Generator",
+    "permalink": "ctoj-generator",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Rafael",
+      "last_name": "Otero",
+      "permalink": "rafael-otero",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Amir",
+      "last_name": "Hosseinpour",
+      "permalink": "amir-hosseinpour-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Klinker",
+      "permalink": "eric-klinker",
+      "image":
+       {"available_sizes":
+         [[[85,
+            128],
+           "assets/images/resized/0001/7652/17652v1-max-150x150.jpg"],
+          [[85,
+            128],
+           "assets/images/resized/0001/7652/17652v1-max-250x250.jpg"],
+          [[85,
+            128],
+           "assets/images/resized/0001/7652/17652v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "CtoJ",
+    "address1": "Im Mediapark 10",
+    "address2": "",
+    "zip_code": "50670",
+    "city": "Cologne",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 50.9471389,
+    "longitude": 6.9410409}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://ctoj.de/info/Article.pdf",
+    "title": "Technical Article"}]}

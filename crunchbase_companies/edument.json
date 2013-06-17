@@ -1,0 +1,95 @@
+{"name": "Edument",
+ "permalink": "edument",
+ "crunchbase_url": "http://www.crunchbase.com/company/edument",
+ "homepage_url": "http://www.edument.se",
+ "blog_url": "http://blog.edument.se/",
+ "blog_feed_url": "http://blog.edument.se/feed/",
+ "twitter_username": "Edument",
+ "category_code": "consulting",
+ "number_of_employees": 7,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "training, consulting, mentorship",
+ "alias_list": null,
+ "email_address": "tore@edument.se",
+ "phone_number": "+46708166856",
+ "description": "Consulting and training",
+ "created_at": "Wed Oct 31 09:08:15 UTC 2012",
+ "updated_at": "Thu Feb 14 04:32:19 UTC 2013",
+ "overview": "\u003Cp\u003EEdument specializes in the most challenging aspects of software development. Our consultants/teachers have top competence in the most advanced parts of software development and architecture. Besides helping you solve specific problems, our knowledgeable consultants act as mentors and help your whole development process become more efficient. \u003C/p\u003E\n\n\u003Cp\u003EGreater knowledge, more efficient working methods and improved tools deliver long-term results, including higher quality, saved time and lower development costs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0021/8044/218044v2-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0021/8044/218044v2-max-250x250.png"],
+     [[448,
+       112],
+      "assets/images/resized/0021/8044/218044v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Tore",
+      "last_name": "Nestenius",
+      "permalink": "tore-nestenius",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Acke",
+      "last_name": "Salem",
+      "permalink": "acke-salem",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main office",
+    "address1": "Sundstorget 5",
+    "address2": "",
+    "zip_code": "25221",
+    "city": "Helsingborg",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": 56.048544,
+    "longitude": 12.6898634}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        123],
+       "assets/images/resized/0021/9008/219008v2-max-150x150.png"],
+      [[250,
+        206],
+       "assets/images/resized/0021/9008/219008v2-max-250x250.png"],
+      [[450,
+        371],
+       "assets/images/resized/0021/9008/219008v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.cqrs.nu",
+    "title": "CQRS Frequenty Asked Questions"}]}

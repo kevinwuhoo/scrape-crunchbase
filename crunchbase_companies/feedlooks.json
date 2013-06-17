@@ -1,0 +1,149 @@
+{"name": "Feedlooks",
+ "permalink": "feedlooks",
+ "crunchbase_url": "http://www.crunchbase.com/company/feedlooks",
+ "homepage_url": "http://www.feedlooks.com",
+ "blog_url": "http://blog.feedlooks.com",
+ "blog_feed_url": "http://blog.feedlooks.com/rss",
+ "twitter_username": "Feedlooks",
+ "category_code": "public_relations",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "feed, rss, twitter, aggregator, reader",
+ "alias_list": null,
+ "email_address": "artur@feedlooks.com",
+ "phone_number": "",
+ "description": "Blog and Twitter reader",
+ "created_at": "Wed Dec 08 16:58:10 UTC 2010",
+ "updated_at": "Sat Jan 08 00:52:58 UTC 2011",
+ "overview": "\u003Cp\u003EFeedlooks is an all-in-one solution for following blogs and tweets.\u003C/p\u003E\n\n\u003Cp\u003EBuilt to address the core verticals of modern news/feed reading, i.e. Follow, Share, Filter, and Discover, Feedlooks combines a refreshingly clean and simple interface with all the major features expected by the current and the next generation of users.\u003C/p\u003E\n\n\u003Cp\u003EWith Feedlooks, users can:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Cem\u003EFollow\u003C/em\u003E any blog (RSS) or Twitter feed;\u003C/li\u003E\n\u003Cli\u003E\u003Cem\u003ERead\u003C/em\u003E content in full visual glory, right within the app;\u003C/li\u003E\n\u003Cli\u003E\u003Cem\u003EShare\u003C/em\u003E interesting posts with friends using a variety of services;\u003C/li\u003E\n\u003Cli\u003E\u003Cem\u003ESpot\u003C/em\u003E popular posts with our visual Interest Meter (TM);\u003C/li\u003E\n\u003Cli\u003E\u003Cem\u003EDiscover\u003C/em\u003E new and relevant sources of content (feature coming soon).\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EFounded and developed by \u003Ca href=\"http://about.me/artur\" title=\"Artur Adib\" rel=\"nofollow\"\u003EArtur Adib\u003C/a\u003E, Feedlooks is currently the seed of a product with ambitious long-term goals.\u003C/p\u003E\n\n\u003Cp\u003EDespite its young age (first public alpha version in \u003Ca href=\"http://news.ycombinator.com/item?id=1451576\" title=\"late June\" rel=\"nofollow\"\u003Elate June\u003C/a\u003E), Feedlooks is already serving millions of posts to thousands of engaged users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0011/3367/113367v2-max-150x150.png"],
+     [[250,
+       49],
+      "assets/images/resized/0011/3367/113367v2-max-250x250.png"],
+     [[450,
+       88],
+      "assets/images/resized/0011/3367/113367v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Artur",
+      "last_name": "Adib",
+      "permalink": "artur-adib",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Netvibes",
+      "permalink": "netvibes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2974/2974v8-max-150x150.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-250x250.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HootSuite",
+      "permalink": "hootsuite",
+      "image": null}},
+   {"competitor":
+     {"name": "Bloglines",
+      "permalink": "bloglines",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0000/2734/2734v8-max-150x150.png"],
+          [[206,
+            60],
+           "assets/images/resized/0000/2734/2734v8-max-250x250.png"],
+          [[206,
+            60],
+           "assets/images/resized/0000/2734/2734v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bloglovin",
+      "permalink": "bloglovin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/5689/25689v1-max-150x150.png"],
+          [[210,
+            58],
+           "assets/images/resized/0002/5689/25689v1-max-250x250.png"],
+          [[210,
+            58],
+           "assets/images/resized/0002/5689/25689v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google Reader",
+      "permalink": "google-reader",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 9,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Washington, DC",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        103],
+       "assets/images/resized/0011/3366/113366v2-max-150x150.png"],
+      [[250,
+        171],
+       "assets/images/resized/0011/3366/113366v2-max-250x250.png"],
+      [[400,
+        275],
+       "assets/images/resized/0011/3366/113366v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://brodeur.com/openblog/?p=530",
+    "title": "Independent review by PR agency Brodeur"}]}

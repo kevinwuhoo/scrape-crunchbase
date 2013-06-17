@@ -1,0 +1,79 @@
+{"name": "Sedicii",
+ "permalink": "sedicii",
+ "crunchbase_url": "http://www.crunchbase.com/company/sedicii",
+ "homepage_url": "http://www.sedicii.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "gbrsedicii",
+ "category_code": "security",
+ "number_of_employees": 1,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "authentication, single-sign-on, security, phishing, fraud, identity-management",
+ "alias_list": null,
+ "email_address": "robert.leslie@sedicii.com",
+ "phone_number": "00353872356952",
+ "description": "Secure Authentication",
+ "created_at": "Wed Jun 05 13:11:00 UTC 2013",
+ "updated_at": "Wed Jun 05 18:34:39 UTC 2013",
+ "overview": "\u003Cp\u003ESedicii\u0026#8217;s authentication service, TrustInside, authenticates people without the need to transmit a password over the web, or for the end service to retain a password for comparison. This means there is nothing to intercept and nothing to steal on the server end as passwords are not retained. \u003C/p\u003E\n\n\u003Cp\u003EEach time a web-application provides authentication, both username and password details are sent. In most cases the credentials are transferred from a client to a server using HTTP. Although for security reasons, in most of existing solutions, the credentials are not stored on the servers in their plaintext form, they are given to the servers in a readable form during the authentication procedure. It gives servers the unlimited control over the user identity.\nThis is a serious privacy problem. For commercial software such as banking and on-line shopping, developers use asymmetric cryptography communication protocols, for instance, HTTPS. This protocol sets up a secure connection but the credentials are still sent. Hence, it presents an opportunity for phishing attacks.\nPhishing is an attempt to masquerade a trustworthy entity to\nobtain customers\u2019 credentials, such as usernames, passwords,\ncredit card numbers, etc. Public key encryption solves the problem partially because users are required to provide public and private key-pairs or digital certificates. Users, however, are accustomed to logins with passwords that are easy to remember and convenient to use. Installing a certificate to a web browser is still prone to various attacks including phishing.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       136],
+      "assets/images/resized/0027/1547/271547v2-max-150x150.png"],
+     [[250,
+       227],
+      "assets/images/resized/0027/1547/271547v2-max-250x250.png"],
+     [[295,
+       269],
+      "assets/images/resized/0027/1547/271547v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Leslie",
+      "permalink": "rob-leslie",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business Development Director",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Cronin",
+      "permalink": "ben-cronin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "OneID",
+      "permalink": "oneid",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

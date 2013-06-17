@@ -1,0 +1,69 @@
+{"name": "Webepags",
+ "permalink": "webepags",
+ "crunchbase_url": "http://www.crunchbase.com/company/webepags",
+ "homepage_url": "http://www.webepags.com",
+ "blog_url": "http://twitter.com/webepags",
+ "blog_feed_url": "http://twitter.com/statuses/user_timeline/17496631.rss",
+ "twitter_username": "webepags",
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "database, semantic-web",
+ "alias_list": null,
+ "email_address": "jchachere@webepags.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Nov 28 18:43:59 UTC 2008",
+ "updated_at": "Mon Apr 26 05:28:52 UTC 2010",
+ "overview": "\u003Cp\u003EWebepags is an online database platform that allows people to easily edit, add, and query for data.  The data is stored in RDF format, so this makes it easier for other web applications to use the data stored in webepags.  \u003C/p\u003E\n\n\u003Cp\u003EThe platform is geared toward both consumers and developers.  Consumers appreciate the search tools and the way that the data is displayed in a simple, easy to understand format. \u003C/p\u003E\n\n\u003Cp\u003EThere is also a search feature that allows a user to enter a block of text and for the retrieval of facts by words in the text.  There is also an ontology feature that makes sure that words meaning the same thing as another are also included.  For example, seeing as the term \u0026#8220;Mozart\u0026#8221; is used frequently to refer to \u0026#8220;Wolfgang Amadeus Mozart,\u0026#8221; the ontology feature is able to recognize this in searches.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0003/0037/30037v2-max-150x150.png"],
+     [[250,
+       72],
+      "assets/images/resized/0003/0037/30037v2-max-250x250.png"],
+     [[382,
+       111],
+      "assets/images/resized/0003/0037/30037v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Chachere",
+      "permalink": "john-chachere",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,90 @@
+{"name": "WiFiSLAM",
+ "permalink": "wifislam",
+ "crunchbase_url": "http://www.crunchbase.com/company/wifislam",
+ "homepage_url": "http://wifislam.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "wifislam",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wifi, location-based-services, indoor",
+ "alias_list": null,
+ "email_address": "team@wifislam.com",
+ "phone_number": "",
+ "description": "Scalable indoor location-based services",
+ "created_at": "Fri May 20 19:01:07 UTC 2011",
+ "updated_at": "Sun Mar 24 06:07:06 UTC 2013",
+ "overview": "\u003Cp\u003EWiFiSLAM is developing enabling technologies for indoor location-based services. Its technology can run on any smart phone and has the ability to provide indoor location based services with no initial setup in any Wi-Fi-enabled building.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Creative Director \u0026 Product Engineer",
+    "person":
+     {"first_name": "Nav",
+      "last_name": "Patel",
+      "permalink": "nav-patel",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 20000000.0,
+   "price_currency_code": "USD",
+   "term_code": "cash_and_stock",
+   "source_url": "http://techcrunch.com/2013/03/24/apple-acquires-indoor-gps-startup-wifislam-for-20m/",
+   "source_description": "Apple Acquires Indoor GPS Startup WiFiSlam For $20M",
+   "acquired_year": 2013,
+   "acquired_month": 3,
+   "acquired_day": 24,
+   "acquiring_company":
+    {"name": "Apple",
+     "permalink": "apple",
+     "image":
+      {"available_sizes":
+        [[[124,
+           150],
+          "assets/images/resized/0005/4061/54061v1-max-150x150.jpg"],
+         [[206,
+           250],
+          "assets/images/resized/0005/4061/54061v1-max-250x250.jpg"],
+         [[372,
+           450],
+          "assets/images/resized/0005/4061/54061v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2011/05/20/sse-labs-announces-impressive-list-of-advisors-offers-sneak-peek-at-latest-startups/",
+    "title": ""}]}

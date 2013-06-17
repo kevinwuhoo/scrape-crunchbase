@@ -1,0 +1,158 @@
+{"name": "Eviesays",
+ "permalink": "dobie-media",
+ "crunchbase_url": "http://www.crunchbase.com/company/dobie-media",
+ "homepage_url": "http://www.eviesays.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "eviesays",
+ "category_code": "games_video",
+ "number_of_employees": 8,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "events, local, search, entertainment, music, movies, restaurants",
+ "alias_list": null,
+ "email_address": "info@eviesays.com",
+ "phone_number": "615-351-2489",
+ "description": "Event information everywhere",
+ "created_at": "Thu Mar 04 21:00:03 UTC 2010",
+ "updated_at": "Wed Nov 10 03:06:34 UTC 2010",
+ "overview": "\u003Cp\u003EEviesays aggregates event and entertainment listings so that you will know what is happening around you. From music to film, theater to dance, sports to comedy, eviesays has an extensive database of event and entertainment listings in towns and cities around the world.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0010/8158/108158v2-max-150x150.jpg"],
+     [[250,
+       51],
+      "assets/images/resized/0010/8158/108158v2-max-250x250.jpg"],
+     [[292,
+       60],
+      "assets/images/resized/0010/8158/108158v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bruce",
+      "last_name": "Dobie",
+      "permalink": "bruce-dobie",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Financial Officer",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Gray",
+      "permalink": "ben-gray",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "David",
+      "last_name": "Stewart",
+      "permalink": "david-stewart-2",
+      "image":
+       {"available_sizes":
+         [[[114,
+            150],
+           "assets/images/resized/0007/9101/79101v2-max-150x150.jpg"],
+          [[182,
+            239],
+           "assets/images/resized/0007/9101/79101v2-max-250x250.jpg"],
+          [[182,
+            239],
+           "assets/images/resized/0007/9101/79101v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Chief Operating Officer",
+    "person":
+     {"first_name": "David",
+      "last_name": "Mohr",
+      "permalink": "david-mohr",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Eventful",
+      "permalink": "eventful",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0024/6014/246014v2-max-150x150.jpg"],
+          [[250,
+            88],
+           "assets/images/resized/0024/6014/246014v2-max-250x250.jpg"],
+          [[450,
+            159],
+           "assets/images/resized/0024/6014/246014v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zvents",
+      "permalink": "zvents",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0001/4245/14245v1-max-150x150.png"],
+          [[196,
+            72],
+           "assets/images/resized/0001/4245/14245v1-max-250x250.png"],
+          [[196,
+            72],
+           "assets/images/resized/0001/4245/14245v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Upcoming",
+      "permalink": "upcoming",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/1816/1816v1-max-150x150.png"],
+          [[200,
+            57],
+           "assets/images/resized/0000/1816/1816v1-max-250x250.png"],
+          [[200,
+            57],
+           "assets/images/resized/0000/1816/1816v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "112 30th Avenue North",
+    "address2": "",
+    "zip_code": "37203",
+    "city": "Nashville",
+    "state_code": "TN",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.venturenashville.com/iso-capital-dobie-media-sets-b-round-for-eviesays-cms-421",
+    "title": "ISO Capital: Dobie Media sets B-round for EvieSays"},
+   {"external_url": "http://www.newzjunky.com/news/0609eveisays_nj.htm",
+    "title": "Eviesays Announces Content Partnership with Newzjunky"},
+   {"external_url": "http://business.nashvillepost.com/2010/04/30/evie-has-your-sports-info/",
+    "title": "Evie has your sports info"}]}

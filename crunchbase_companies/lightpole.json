@@ -1,0 +1,132 @@
+{"name": "LightPole",
+ "permalink": "lightpole",
+ "crunchbase_url": "http://www.crunchbase.com/company/lightpole",
+ "homepage_url": "http://www.lightpole.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, cell-phones, poi",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Apr 23 06:03:16 UTC 2008",
+ "updated_at": "Sat Jan 12 04:34:15 UTC 2013",
+ "overview": "\u003Cp\u003ELightPole is designed to give you information you\u0026#8217;re interested in about points of interest (POI)\u2014locations such as your current location or locations you\u0026#8217;re traveling to. For any location, LightPole is designed to answer the most probable questions in the shortest amount of time and with the least amount of interaction.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[107,
+       91],
+      "assets/images/resized/0001/7604/17604v1-max-150x150.png"],
+     [[107,
+       91],
+      "assets/images/resized/0001/7604/17604v1-max-250x250.png"],
+     [[107,
+       91],
+      "assets/images/resized/0001/7604/17604v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "VP Marketing, Co-Founder",
+    "person":
+     {"first_name": "Marcus",
+      "last_name": "Colombano",
+      "permalink": "marcus-colombano",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/5678/125678v4-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0012/5678/125678v4-max-250x250.png"],
+          [[400,
+            400],
+           "assets/images/resized/0012/5678/125678v4-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.1M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://sec.gov/Archives/edgar/vprr/08/9999999997-08-009741",
+    "source_description": "SEC D",
+    "raised_amount": 1600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 3,
+    "funded_day": 3,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Alloy Ventures",
+         "permalink": "alloy-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               59],
+              "assets/images/resized/0000/3916/3916v5-max-150x150.png"],
+             [[156,
+               62],
+              "assets/images/resized/0000/3916/3916v5-max-250x250.png"],
+             [[156,
+               62],
+              "assets/images/resized/0000/3916/3916v5-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Stanford University",
+         "permalink": "stanford-university",
+         "image":
+          {"available_sizes":
+            [[[150,
+               35],
+              "assets/images/resized/0003/0949/30949v1-max-150x150.jpg"],
+             [[250,
+               58],
+              "assets/images/resized/0003/0949/30949v1-max-250x250.jpg"],
+             [[255,
+               60],
+              "assets/images/resized/0003/0949/30949v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]},
+   {"round_code": "unattributed",
+    "source_url": "http://sec.gov/Archives/edgar/vprr/07/9999999997-07-028326",
+    "source_description": "SEC D",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 6,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

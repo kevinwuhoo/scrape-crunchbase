@@ -1,0 +1,127 @@
+{"name": "WindPole Ventures",
+ "permalink": "windpole-ventures",
+ "crunchbase_url": "http://www.crunchbase.com/company/windpole-ventures",
+ "homepage_url": "http://www.windpole.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "cleantech",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "energy-information, wind-power, wind-resource-data",
+ "alias_list": null,
+ "email_address": "kropper@windpole.com",
+ "phone_number": "6173069312",
+ "description": "The \"Bloomberg of Wind\"",
+ "created_at": "Thu Oct 27 14:31:22 UTC 2011",
+ "updated_at": "Thu Nov 03 22:11:21 UTC 2011",
+ "overview": "\u003Cp\u003EWindPole sells actual hub height wind resource data that solves two problems:\n1) historical wind data that de-risks and improves finance terms for wind power development projects, and \n2) real-time data based wind forecasting that improves operational effectiveness for utilities, grid operators, wind farm operators, and power traders.   \u003C/p\u003E\n\n\u003Cp\u003EWindPole installs weather monitoring sensors and systems on existing narrow faced, 80+ meters (hub height), broadcast towers.  Each tower is polled every five minutes to compile real-time wind resource data.  WindPole\u00e2\u20ac\u2122s clients include five of the top ten wind developers, grid operators, and industry analysts.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       95],
+      "assets/images/resized/0015/9782/159782v2-max-150x150.jpg"],
+     [[250,
+       158],
+      "assets/images/resized/0015/9782/159782v2-max-250x250.jpg"],
+     [[450,
+       285],
+      "assets/images/resized/0015/9782/159782v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Kropper",
+      "permalink": "steve-kropper",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Regional tower erectors",
+      "permalink": "regional-tower-erectors",
+      "image": null}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Morse Barnes-Brown Pendleton",
+      "permalink": "morse-barnes-brown-pendleton",
+      "image": null}}],
+ "total_money_raised": "$1.03M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.masshightech.com/stories/2010/03/29/daily53-Wind-informatics-startup-blows-in-1M-funding.html",
+    "source_description": "http://www.renewableenergyworld.com/rea/partner/windpole-ventures-llc/news/article/2010/05/windpole-ventures-completes-1-million-working-capital-raise",
+    "raised_amount": 1025000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "James",
+         "last_name": "P. Lang",
+         "permalink": "james-p-lang",
+         "image": null}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Paul",
+         "last_name": "Chernick",
+         "permalink": "paul-chernick",
+         "image": null}},
+      {"company": null,
+       "financial_org":
+        {"name": "Mass Clean Energy Center",
+         "permalink": "mass-clean-energy-center",
+         "image":
+          {"available_sizes":
+            [[[150,
+               45],
+              "assets/images/resized/0027/2131/272131v1-max-150x150.png"],
+             [[250,
+               76],
+              "assets/images/resized/0027/2131/272131v1-max-250x250.png"],
+             [[343,
+               105],
+              "assets/images/resized/0027/2131/272131v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "WindPole HQ",
+    "address1": "Seven Central Street, Suite 210",
+    "address2": "",
+    "zip_code": "02476",
+    "city": "Arlington",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://windpoleventures.com/wpv/wp-content/uploads/2011/02/CleanlinePR.pdf",
+    "title": "Clean Line and WindPole"},
+   {"external_url": "http://windpoleventures.com/wpv/wp-content/uploads/2010/04/DowJones_Clean_Technology_Insight_October_19_2009.pdf",
+    "title": "WindPole signing up customers"}]}

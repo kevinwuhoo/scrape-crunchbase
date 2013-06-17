@@ -1,0 +1,113 @@
+{"name": "TestLodge",
+ "permalink": "testlodge",
+ "crunchbase_url": "http://www.crunchbase.com/company/testlodge",
+ "homepage_url": "http://www.testlodge.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "TestLodge",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "test-management-tool, test-case-software, test-case-management, test-cases, test-suite, test-suite-software, test-plans",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Online test case management tool",
+ "created_at": "Wed May 12 18:31:15 UTC 2010",
+ "updated_at": "Mon Apr 29 11:07:23 UTC 2013",
+ "overview": "\u003Cp\u003ETestLodge is a tool that is designed to be a lot simpler than traditional software by only providing the essentials to get the job done well. The system focuses on helping you create your test plans, input your requirements, create and manage your test suites and cases along with allowing you to easily perform multiple test runs and generate reports.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       128],
+      "assets/images/resized/0008/7204/87204v5-max-150x150.png"],
+     [[128,
+       128],
+      "assets/images/resized/0008/7204/87204v5-max-250x250.png"],
+     [[128,
+       128],
+      "assets/images/resized/0008/7204/87204v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Owner / Developer",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Sherwood",
+      "permalink": "scott-sherwood",
+      "image":
+       {"available_sizes":
+         [[[150,
+            135],
+           "assets/images/resized/0004/8431/48431v2-max-150x150.png"],
+          [[200,
+            181],
+           "assets/images/resized/0004/8431/48431v2-max-250x250.png"],
+          [[200,
+            181],
+           "assets/images/resized/0004/8431/48431v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SpiraTest",
+      "permalink": "spiratest",
+      "image": null}},
+   {"competitor":
+     {"name": "TestLog",
+      "permalink": "testlog",
+      "image": null}},
+   {"competitor":
+     {"name": "TestRail",
+      "permalink": "testrail",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"338\" src=\"http://www.youtube.com/embed/HwjRIT3DcKY?rel=0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[90,
+        150],
+       "assets/images/resized/0024/1063/241063v2-max-150x150.png"],
+      [[151,
+        250],
+       "assets/images/resized/0024/1063/241063v2-max-250x250.png"],
+      [[272,
+        450],
+       "assets/images/resized/0024/1063/241063v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[86,
+        150],
+       "assets/images/resized/0024/1064/241064v2-max-150x150.png"],
+      [[144,
+        250],
+       "assets/images/resized/0024/1064/241064v2-max-250x250.png"],
+      [[260,
+        450],
+       "assets/images/resized/0024/1064/241064v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

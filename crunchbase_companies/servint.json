@@ -1,0 +1,178 @@
+{"name": "ServInt",
+ "permalink": "servint",
+ "crunchbase_url": "http://www.crunchbase.com/company/servint",
+ "homepage_url": "http://www.servint.net",
+ "blog_url": "http://blog.servint.net",
+ "blog_feed_url": "http://blog.servint.net/feed/",
+ "twitter_username": "servint",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 1995,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "virtualization, vps, enterprise-hosting, web-hosting, managed-web-hosting, open-source",
+ "alias_list": null,
+ "email_address": "busdev@servint.com",
+ "phone_number": "800.573.7846",
+ "description": "Managed Hosting Services",
+ "created_at": "Thu Jul 23 15:00:19 UTC 2009",
+ "updated_at": "Sat May 08 00:06:58 UTC 2010",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.ServInt.net\" title=\"ServInt\" rel=\"nofollow\"\u003EServInt\u003C/a\u003E is a provider of enterprise class, environmentally friendly, managed hosting services. \u003C/p\u003E\n\n\u003Cp\u003EFounded in 1995 by CEO Reed Caldwell, ServInt is a pioneer in the dedicated server space. After surviving the dot com bust at the turn of the millennium, ServInt became a prominent provider of both Virtual Private Server (VPS) and dedicated server hosting where it continues today. ServInt primarily specializes in enterprise-class hosting, as such it\u0026#8217;s services are primarily geared towards businesses ranging from tiny start ups to large corporations.\u003C/p\u003E\n\n\u003Cp\u003EServInt\u0026#8217;s corporate office are located in Mclean, VA and its data centers are located in Washington, D.C., throughout Northern Virginia, and Los Angeles, California.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0005/4016/54016v2-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0005/4016/54016v2-max-250x250.png"],
+     [[388,
+       88],
+      "assets/images/resized/0005/4016/54016v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Reed",
+      "last_name": "Caldwell",
+      "permalink": "reed-caldwell",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Operating Officer",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Dawson",
+      "permalink": "christian-dawson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Loschert",
+      "permalink": "matthew-loschert",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business Intelligence Manager",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Morales",
+      "permalink": "eric-morales",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+          [[300,
+            109],
+           "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Amazon",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FireHost",
+      "permalink": "firehost",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0005/8523/58523v9-max-150x150.png"],
+          [[250,
+            58],
+           "assets/images/resized/0005/8523/58523v9-max-250x250.png"],
+          [[400,
+            93],
+           "assets/images/resized/0005/8523/58523v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "The Planet",
+      "permalink": "the-planet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0002/4110/24110v2-max-150x150.jpg"],
+          [[250,
+            30],
+           "assets/images/resized/0002/4110/24110v2-max-250x250.jpg"],
+          [[365,
+            45],
+           "assets/images/resized/0002/4110/24110v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "cPanel Inc",
+      "permalink": "cpanel-inc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0007/4946/74946v2-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0007/4946/74946v2-max-250x250.png"],
+          [[450,
+            110],
+           "assets/images/resized/0007/4946/74946v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "ServInt Corporate Office",
+    "address1": "6861 Elm St",
+    "address2": "4th Floor",
+    "zip_code": "22101",
+    "city": "Mclean",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": 38.9365507,
+    "longitude": -77.1807279}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.datacenterknowledge.com/archives/2009/07/09/hosting-downtime-and-competition/",
+    "title": "Hosting Downtime and Competition"},
+   {"external_url": "http://www.thehostingnews.com/news-web-hosting-climate-positive-goals-for-2008-achieved-by-servint-5209.html",
+    "title": ""},
+   {"external_url": "http://www.thewhir.com/web-hosting-news/070709_ServInt_Names_Business_Intelligence_Manager",
+    "title": ""}]}

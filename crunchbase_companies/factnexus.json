@@ -1,0 +1,147 @@
+{"name": "FactNexus",
+ "permalink": "factnexus",
+ "crunchbase_url": "http://www.crunchbase.com/company/factnexus",
+ "homepage_url": "http://factnexus.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "factnexus",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "graph-database, database, shared-database, semantic-web, public-data, natural-language-processing, nosql, wikme, knowledge-management, ontology, wikipedia",
+ "alias_list": null,
+ "email_address": "info@factnexus.com",
+ "phone_number": "61 2 4929 2183",
+ "description": "The Keyword is Dead",
+ "created_at": "Thu Dec 02 00:26:10 UTC 2010",
+ "updated_at": "Mon Jan 03 15:07:32 UTC 2011",
+ "overview": "\u003Cp\u003EFactNexus is building a single universal shared database to help organizations and individuals get and maintain shared data that is current, accurate and complete.  They\u0026#8217;re building this semantically-structured store using GraphBase, their proprietary Distributed Graph Database.  \u003C/p\u003E\n\n\u003Cp\u003EShared data and knowledge is a community resource. To foster community engagement FactNexus has helped to create http://wik.me, a new and powerful way to bring together, to discover and to manage facts. wik.me facts mesh together to become a \u0026#8220;smart encyclopaedia and directory\u0026#8221; of shared knowledge.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       85],
+      "assets/images/resized/0011/2527/112527v2-max-150x150.png"],
+     [[240,
+       136],
+      "assets/images/resized/0011/2527/112527v2-max-250x250.png"],
+     [[240,
+       136],
+      "assets/images/resized/0011/2527/112527v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Young",
+      "permalink": "stephen-young",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Metaweb Technologies",
+      "permalink": "metawebtechnologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/3094/3094v2-max-150x150.png"],
+          [[176,
+            55],
+           "assets/images/resized/0000/3094/3094v2-max-250x250.png"],
+          [[176,
+            55],
+           "assets/images/resized/0000/3094/3094v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Evri",
+      "permalink": "evri",
+      "image":
+       {"available_sizes":
+         [[[150,
+            84],
+           "assets/images/resized/0001/9423/19423v1-max-150x150.jpg"],
+          [[250,
+            140],
+           "assets/images/resized/0001/9423/19423v1-max-250x250.jpg"],
+          [[255,
+            143],
+           "assets/images/resized/0001/9423/19423v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kosmix",
+      "permalink": "kosmix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0004/0291/40291v1-max-150x150.png"],
+          [[192,
+            54],
+           "assets/images/resized/0004/0291/40291v1-max-250x250.png"],
+          [[192,
+            54],
+           "assets/images/resized/0004/0291/40291v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Factual",
+      "permalink": "factual",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0006/2569/62569v3-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0006/2569/62569v3-max-250x250.png"],
+          [[450,
+            118],
+           "assets/images/resized/0006/2569/62569v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Australian Office",
+    "address1": "17 Bolton Street",
+    "address2": "",
+    "zip_code": "2300",
+    "city": "Newcastle NSW",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        115],
+       "assets/images/resized/0011/2522/112522v2-max-150x150.png"],
+      [[250,
+        193],
+       "assets/images/resized/0011/2522/112522v2-max-250x250.png"],
+      [[450,
+        347],
+       "assets/images/resized/0011/2522/112522v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://wik.me",
+    "title": ""}]}

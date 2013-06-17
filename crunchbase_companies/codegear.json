@@ -1,0 +1,136 @@
+{"name": "Codegear",
+ "permalink": "codegear",
+ "crunchbase_url": "http://www.crunchbase.com/company/codegear",
+ "homepage_url": "http://www.codegear.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "info@embarcadero.com",
+ "phone_number": "415.834.3131",
+ "description": "Systems Software",
+ "created_at": "Fri Nov 21 21:48:34 UTC 2008",
+ "updated_at": "Tue Nov 23 15:54:07 UTC 2010",
+ "overview": "\u003Cp\u003EAs of June 30, 2008, Codegear was acquired by Embarcadero Technologies, Inc. Codegear delivers development tools for software developers. Its products include 3rdRail, an integrated Ruby on Rails development environment, which helps in the development of database-backed Web applications; Blackfish SQL, an SQL-92 compliant transactional database, which includes power meta-data classes for writing tooling and applications for creating and managing data; C++Builder, an RAD C++ development environment for Windows; RAD Studio, which helps in developing Native Windows and .NET applications; Delphi for Win32, an RAD visual development environment for Windows; Delphifor PHP, an RAD visual PHP development environment; InterBase, database for embedded and business-critical small-to-medium enterprise server applications; JBuilder, Java integrated development environment; Turbo Delphi and Turbo C++, featuring pre-built drag and drop components, which help in starting Windows development; and JGear, eclipse plug-ins for Java development. The company also operates an online community for software developers. In addition, it trains, as well as offers books and manuals for developers. The company serves individual and enterprise software developers. Codegear offers its products through online stores in Americas, Africa, and Asia/Pacific and European regions. The company is based in Scotts Valley, California. Codegear was formerly a subsidiary of Borland Software Corporation.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0005/2506/52506v1-max-150x150.png"],
+     [[191,
+       52],
+      "assets/images/resized/0005/2506/52506v1-max-250x250.png"],
+     [[191,
+       52],
+      "assets/images/resized/0005/2506/52506v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ben T.",
+      "last_name": "Smith, IV",
+      "permalink": "ben-smith-iv",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0001/0030/10030v1-max-150x150.jpg"],
+          [[250,
+            165],
+           "assets/images/resized/0001/0030/10030v1-max-250x250.jpg"],
+          [[320,
+            212],
+           "assets/images/resized/0001/0030/10030v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"is_past": true,
+    "title": "VP, HR and Tech Support",
+    "person":
+     {"first_name": "Carol",
+      "last_name": "Mackinlay",
+      "permalink": "carol-mackinlay",
+      "image": null}},
+   {"is_past": true,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Ben T.",
+      "last_name": "Smith, IV",
+      "permalink": "ben-smith-iv",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0001/0030/10030v1-max-150x150.jpg"],
+          [[250,
+            165],
+           "assets/images/resized/0001/0030/10030v1-max-250x250.jpg"],
+          [[320,
+            212],
+           "assets/images/resized/0001/0030/10030v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 20700000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "Cap Index Report",
+   "acquired_year": 2008,
+   "acquired_month": 5,
+   "acquired_day": 2,
+   "acquiring_company":
+    {"name": "Embarcadero Technologies",
+     "permalink": "embarcadero-technologies",
+     "image":
+      {"available_sizes":
+        [[[150,
+           20],
+          "assets/images/resized/0005/2507/52507v7-max-150x150.jpg"],
+         [[250,
+           34],
+          "assets/images/resized/0005/2507/52507v7-max-250x250.jpg"],
+         [[325,
+           45],
+          "assets/images/resized/0005/2507/52507v7-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "100 California Street",
+    "address2": "12th Floor",
+    "zip_code": "94111",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.793949,
+    "longitude": -122.398062}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

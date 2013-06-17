@@ -1,0 +1,230 @@
+{"name": "NatSent",
+ "permalink": "natsent",
+ "crunchbase_url": "http://www.crunchbase.com/company/natsent",
+ "homepage_url": "http://www.natsent.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-2-0, polls, democracy, politics, social-media, business, economics, opinion, national-sentiment",
+ "alias_list": null,
+ "email_address": "shelby.joe@natsent.com",
+ "phone_number": "+1 281 989 4594",
+ "description": "Facebook + Continuos Polling",
+ "created_at": "Fri May 06 18:32:53 UTC 2011",
+ "updated_at": "Sun May 08 23:12:35 UTC 2011",
+ "overview": "\u003Cp\u003ENatSent (short for National Sentiment) enables individuals to tell political, business, and civil leaders what they care about, why, and to what degree.  To do this, NatSent aggregates user votes to calculate a percentage approval rating on just about any subject. \u003C/p\u003E\n\n\u003Cp\u003ENatSent is an individually tailored news and discussion web platform that enables anyone to identify, follow, frame, and influence the issues that they care about.  Ostensibly, NatSent looks like a very attractive online newspaper.  However, if users dig deeper they will see that it\u0026#8217;s more interactive, customizable, and informative than most traditional media.  On NatSent, users are the editor, writer and reader.  Users decide what topics make the front page, the perspective that the coverage takes, and what content is discussed.  \u003C/p\u003E\n\n\u003Cp\u003EUsers can easily add content to NatSent by writing a post or article or tagging articles from external blogs the user come across while browsing the web. Other users may rate and comment on these posts or articles, influencing the impact the original post made on a specific issue. \u003C/p\u003E\n\n\u003Cp\u003ENatSent serves as a continually open public poll, where the weighted averages of the users voting will serve as a barometer indicating the overall approval rating for individual topics.\u003C/p\u003E\n\n\u003Cp\u003ENatSent has a social network aspect to its site. Users can follow and befriend each other via discussions and articles that covers topics that are similar to another users interests. \u003C/p\u003E\n\n\u003Cp\u003EAs a site, NatSent covers both local and national issues; its content and perspective all depends on the contributions from users. \u003C/p\u003E\n\n\u003Cp\u003EBe it an article about an upcoming national debate or an individual user\u0026#8217;s own point of view about new traffic lights in Albuquerque, NatSent enables anyone to express their opinion in a meaningful and measurable way.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       130],
+      "assets/images/resized/0013/3554/133554v2-max-150x150.jpg"],
+     [[250,
+       218],
+      "assets/images/resized/0013/3554/133554v2-max-250x250.jpg"],
+     [[450,
+       392],
+      "assets/images/resized/0013/3554/133554v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Shelby",
+      "last_name": "Joe",
+      "permalink": "shelby-joe",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Disqus",
+      "permalink": "disqus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0000/1765/1765v6-max-150x150.png"],
+          [[250,
+            48],
+           "assets/images/resized/0000/1765/1765v6-max-250x250.png"],
+          [[450,
+            87],
+           "assets/images/resized/0000/1765/1765v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Harris Interactive",
+      "permalink": "harris-interactive",
+      "image":
+       {"available_sizes":
+         [[[140,
+            54],
+           "assets/images/resized/0014/5880/145880v1-max-150x150.jpg"],
+          [[140,
+            54],
+           "assets/images/resized/0014/5880/145880v1-max-250x250.jpg"],
+          [[140,
+            54],
+           "assets/images/resized/0014/5880/145880v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gallup",
+      "permalink": "gallup",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0014/3505/143505v1-max-150x150.jpg"],
+          [[157,
+            41],
+           "assets/images/resized/0014/3505/143505v1-max-250x250.jpg"],
+          [[157,
+            41],
+           "assets/images/resized/0014/3505/143505v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mixx",
+      "permalink": "mixx",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0000/0949/949v1-max-150x150.png"],
+          [[225,
+            105],
+           "assets/images/resized/0000/0949/949v1-max-250x250.png"],
+          [[225,
+            105],
+           "assets/images/resized/0000/0949/949v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Reddit",
+      "permalink": "reddit",
+      "image":
+       {"available_sizes":
+         [[[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-150x150.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-250x250.jpg"],
+          [[120,
+            40],
+           "assets/images/resized/0000/3886/3886v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MySpace",
+      "permalink": "myspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0000/4414/4414v80-max-150x150.jpg"],
+          [[250,
+            52],
+           "assets/images/resized/0000/4414/4414v80-max-250x250.jpg"],
+          [[450,
+            94],
+           "assets/images/resized/0000/4414/4414v80-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$70k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Friends and Family",
+    "raised_amount": 70000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 2,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "2339 University Blvd Ste 3",
+    "address2": "",
+    "zip_code": "77005",
+    "city": "Houston",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[130,
+        150],
+       "assets/images/resized/0013/3553/133553v2-max-150x150.jpg"],
+      [[217,
+        250],
+       "assets/images/resized/0013/3553/133553v2-max-250x250.jpg"],
+      [[391,
+        450],
+       "assets/images/resized/0013/3553/133553v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

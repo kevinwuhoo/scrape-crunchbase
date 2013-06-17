@@ -1,0 +1,126 @@
+{"name": "CircuitPeople",
+ "permalink": "circuitpeople",
+ "crunchbase_url": "http://www.crunchbase.com/company/circuitpeople",
+ "homepage_url": "http://circuitpeople.com",
+ "blog_url": "http://circuitpeople.com/Blog",
+ "blog_feed_url": "",
+ "twitter_username": "circuitpeople",
+ "category_code": "enterprise",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "pcb, saas, circuit-boards, eda, gerber-files, gerber-viewer, portland",
+ "alias_list": null,
+ "email_address": "info@circuitpeople.com",
+ "phone_number": "(503) 406-8721",
+ "description": "SaaS Tools for EDA",
+ "created_at": "Wed Sep 15 05:02:25 UTC 2010",
+ "updated_at": "Tue Aug 28 09:45:20 UTC 2012",
+ "overview": "\u003Cp\u003ECircuitPeople provides software tools to help making getting customer PCBs built easier. Our best-in-class software powers PCB visualization and review at leading industry websites including circuitpeople.com. Our mission is to help the creative create. \u003C/p\u003E\n\n\u003Cp\u003EThe Gerber file format is the de-facto format for communicating fabrication information for \u0026#8220;bare\u0026#8221; PCBs to the companies that make them.  Billions of dollars in commerce reply on the use of this format each year.  Unfortunately, the Gerber format is incompletely specified and many incompatible implementations exist in design, production and embedded software.  Our software allows designers, their clients and fabricators to agree on a common interpretation of Gerber data to ensure consistent expectations and eliminate costly rework and production delays.\u003C/p\u003E\n\n\u003Cp\u003ESince our founding in 2009 we have experienced steady growth and serve a very large number of clients around in the world.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[80,
+       80],
+      "assets/images/resized/0020/8364/208364v2-max-150x150.png"],
+     [[80,
+       80],
+      "assets/images/resized/0020/8364/208364v2-max-250x250.png"],
+     [[80,
+       80],
+      "assets/images/resized/0020/8364/208364v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Lee",
+      "last_name": "Harding",
+      "permalink": "lee-harding",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Microsoft",
+      "permalink": "microsoft-2",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Lake Oswego",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        87],
+       "assets/images/resized/0010/1773/101773v2-max-150x150.png"],
+      [[250,
+        145],
+       "assets/images/resized/0010/1773/101773v2-max-250x250.png"],
+      [[450,
+        262],
+       "assets/images/resized/0010/1773/101773v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,66 @@
+{"name": "ANONcraigslist",
+ "permalink": "anoncraigslist",
+ "crunchbase_url": "http://www.crunchbase.com/company/anoncraigslist",
+ "homepage_url": "http://www.anoncraigslist.org",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "me@anoncraigslist.org",
+ "phone_number": "",
+ "description": "email-based anonymizer",
+ "created_at": "Tue Apr 17 13:51:28 UTC 2012",
+ "updated_at": "Sun Apr 22 07:28:42 UTC 2012",
+ "overview": "\u003Cp\u003Ewww.anoncraigslist.org is an email-based service which anonymizes your email address and phone numbers your reply email before it\u0026#8217;s sent to the posting party in real-time. \u003C/p\u003E\n\n\u003Cp\u003EReal email addresses and phone numbers are written normally in the body of the reply email. The sender simply adds \u0026#8220;anon\u0026#8221; infront of the craigslist domain name (i.e., reply-to@gigs.craigslist.org becomes reply-to@gigs.anoncraigslist.org.) Then during the email transfer proces all of the senders known email addresses are replaced with anonymized versions and all phone numbers are replaced with anonymized versions. \u003C/p\u003E\n\n\u003Cp\u003EThe person receiving the response never sees the senders real email address or phone number in the body of the email, yet can contact via email or by phone as usual.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Nika",
+      "last_name": "Jones",
+      "permalink": "nika-jones",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Minneapolis Office",
+    "address1": "2404 Plymouth Ave N",
+    "address2": "",
+    "zip_code": "55411",
+    "city": "Minneapolis",
+    "state_code": "MN",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

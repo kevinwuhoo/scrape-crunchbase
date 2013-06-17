@@ -1,0 +1,119 @@
+{"name": "DeckPresenter",
+ "permalink": "deckpresenter",
+ "crunchbase_url": "http://www.crunchbase.com/company/deckpresenter",
+ "homepage_url": "http://www.deckpresenter.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "DeckPresenter",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2013,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "content-marketing",
+ "alias_list": null,
+ "email_address": "DeckPresenter@gmail.com",
+ "phone_number": "",
+ "description": "SlideShare for Enterprises",
+ "created_at": "Sun Jun 16 07:41:23 UTC 2013",
+ "updated_at": "Mon Jun 17 16:58:19 UTC 2013",
+ "overview": "",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Curliss",
+      "permalink": "brian-curliss",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SlideShare",
+      "permalink": "slideshare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0001/6198/16198v1-max-150x150.png"],
+          [[198,
+            44],
+           "assets/images/resized/0001/6198/16198v1-max-250x250.png"],
+          [[198,
+            44],
+           "assets/images/resized/0001/6198/16198v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Prezi",
+      "permalink": "prezi",
+      "image":
+       {"available_sizes":
+         [[[150,
+            86],
+           "assets/images/resized/0002/2746/22746v13-max-150x150.jpg"],
+          [[250,
+            144],
+           "assets/images/resized/0002/2746/22746v13-max-250x250.jpg"],
+          [[342,
+            197],
+           "assets/images/resized/0002/2746/22746v13-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SlideRocket",
+      "permalink": "sliderocket",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0001/3990/13990v1-max-150x150.png"],
+          [[216,
+            42],
+           "assets/images/resized/0001/3990/13990v1-max-250x250.png"],
+          [[216,
+            42],
+           "assets/images/resized/0001/3990/13990v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Midwest Headquarters",
+    "address1": "207 W. Milwaukee",
+    "address2": "#210",
+    "zip_code": "53202",
+    "city": "Milwaukee",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null},
+   {"description": "South Headquarters",
+    "address1": "2307 Rio Grande",
+    "address2": "",
+    "zip_code": "78705",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

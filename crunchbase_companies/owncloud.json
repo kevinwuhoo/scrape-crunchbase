@@ -1,0 +1,151 @@
+{"name": "ownCloud",
+ "permalink": "owncloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/owncloud",
+ "homepage_url": "http://owncloud.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@owncloud.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sat Dec 24 02:54:29 UTC 2011",
+ "updated_at": "Mon Dec 24 12:00:06 UTC 2012",
+ "overview": "\u003Cp\u003EownCloud is the company behind the ownCloud project \u2013 the most downloaded open source project for data and file sync, share and view. ownCloud enables businesses to host their own, on premises or remote, cloud storage while maintaining regulatory and compliance needs. Located in Boston, Massachusetts with an international office in Germany we offer your cloud with your data \u2013 your way!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       70],
+      "assets/images/resized/0016/7582/167582v1-max-150x150.jpg"],
+     [[168,
+       79],
+      "assets/images/resized/0016/7582/167582v1-max-250x250.jpg"],
+     [[168,
+       79],
+      "assets/images/resized/0016/7582/167582v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Markus",
+      "last_name": "Rex",
+      "permalink": "markus-rex",
+      "image":
+       {"available_sizes":
+         [[[118,
+            149],
+           "assets/images/resized/0022/6829/226829v1-max-150x150.jpg"],
+          [[118,
+            149],
+           "assets/images/resized/0022/6829/226829v1-max-250x250.jpg"],
+          [[118,
+            149],
+           "assets/images/resized/0022/6829/226829v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Frank",
+      "last_name": "Karlitschek",
+      "permalink": "frank-karlitschek",
+      "image":
+       {"available_sizes":
+         [[[118,
+            149],
+           "assets/images/resized/0022/6830/226830v1-max-150x150.jpg"],
+          [[118,
+            149],
+           "assets/images/resized/0022/6830/226830v1-max-250x250.jpg"],
+          [[118,
+            149],
+           "assets/images/resized/0022/6830/226830v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "vice president sales \u0026 marketing",
+    "person":
+     {"first_name": "Holger",
+      "last_name": "Dyroff",
+      "permalink": "holger-dyroff",
+      "image":
+       {"available_sizes":
+         [[[118,
+            149],
+           "assets/images/resized/0022/6831/226831v1-max-150x150.jpg"],
+          [[118,
+            149],
+           "assets/images/resized/0022/6831/226831v1-max-250x250.jpg"],
+          [[118,
+            149],
+           "assets/images/resized/0022/6831/226831v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$3.32M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.masshightech.com/stories/2011/12/19/daily44-OwnCloud-showered-with-820K-in-first-funding-round.html",
+    "source_description": "OwnCloud showered with $820K in first funding round",
+    "raised_amount": 820000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 12,
+    "funded_day": 23,
+    "investments":
+     []},
+   {"round_code": "unattributed",
+    "source_url": "http://venturebeat.com/2012/11/26/build-your-own-cloud/",
+    "source_description": "OwnCloud, the open-source challenger to Box, nets $2.5M",
+    "raised_amount": 2500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 26,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "General Catalyst Partners",
+         "permalink": "general-catalyst-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               35],
+              "assets/images/resized/0017/6425/176425v1-max-150x150.png"],
+             [[240,
+               57],
+              "assets/images/resized/0017/6425/176425v1-max-250x250.png"],
+             [[240,
+               57],
+              "assets/images/resized/0017/6425/176425v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

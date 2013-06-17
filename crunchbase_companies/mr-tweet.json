@@ -1,0 +1,148 @@
+{"name": "Mr. Tweet",
+ "permalink": "mr-tweet",
+ "crunchbase_url": "http://www.crunchbase.com/company/mr-tweet",
+ "homepage_url": "http://mrtweet.com",
+ "blog_url": "http://blog.mrtweet.com",
+ "blog_feed_url": "http://blog.mrtweet.com/feed",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter",
+ "alias_list": null,
+ "email_address": "mingyeow@mrtweet.net",
+ "phone_number": "650 283 6558",
+ "description": "",
+ "created_at": "Sun Nov 30 17:49:02 UTC 2008",
+ "updated_at": "Mon Jul 20 19:25:24 UTC 2009",
+ "overview": "\u003Cp\u003EMr. Tweet looks through your extended network to help you find effective relationships and information most relevant to yourself. Developed because \u0026#8220;Social Media can be even better with some insights and discovery\u0026#8221;, Mr. Tweet sends personalized reports on key influencers in your network and people you should be following.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0003/0256/30256v1-max-150x150.png"],
+     [[250,
+       55],
+      "assets/images/resized/0003/0256/30256v1-max-250x250.png"],
+     [[282,
+       63],
+      "assets/images/resized/0003/0256/30256v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Ming",
+      "last_name": "Yeow Ng",
+      "permalink": "ming-yeow-ng",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Yu-Shan",
+      "last_name": "Fung",
+      "permalink": "yu-shan-fung",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twellow",
+      "permalink": "twellow",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0002/0944/20944v1-max-150x150.jpg"],
+          [[250,
+            69],
+           "assets/images/resized/0002/0944/20944v1-max-250x250.jpg"],
+          [[370,
+            103],
+           "assets/images/resized/0002/0944/20944v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twubble",
+      "permalink": "twubble",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0001/6979/16979v1-max-150x150.png"],
+          [[159,
+            53],
+           "assets/images/resized/0001/6979/16979v1-max-250x250.png"],
+          [[159,
+            53],
+           "assets/images/resized/0001/6979/16979v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WhoShouldiFollow",
+      "permalink": "whoshouldifollow",
+      "image": null}},
+   {"competitor":
+     {"name": "Chirpio",
+      "permalink": "chirpio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0004/5242/45242v1-max-150x150.png"],
+          [[250,
+            57],
+           "assets/images/resized/0004/5242/45242v1-max-250x250.png"],
+          [[351,
+            81],
+           "assets/images/resized/0004/5242/45242v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        80],
+       "assets/images/resized/0003/0255/30255v1-max-150x150.png"],
+      [[250,
+        133],
+       "assets/images/resized/0003/0255/30255v1-max-250x250.png"],
+      [[450,
+        240],
+       "assets/images/resized/0003/0255/30255v1-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0003/3757/33757v2-max-150x150.png"],
+      [[250,
+        178],
+       "assets/images/resized/0003/3757/33757v2-max-250x250.png"],
+      [[450,
+        322],
+       "assets/images/resized/0003/3757/33757v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://venturebeat.com/2008/11/26/adding-social-context-to-twitter-mr-tweet-and-more/",
+    "title": "Adding social context to Twitter: Mr. Tweet, and more"},
+   {"external_url": "http://mashable.com/2008/11/26/mr-tweet/",
+    "title": "You Gotta Try Mr. Tweet"}]}

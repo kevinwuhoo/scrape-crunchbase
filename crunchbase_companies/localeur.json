@@ -1,0 +1,125 @@
+{"name": "Localeur",
+ "permalink": "localeur",
+ "crunchbase_url": "http://www.crunchbase.com/company/localeur",
+ "homepage_url": "http://www.localeur.com",
+ "blog_url": "http://blog.localeur.com",
+ "blog_feed_url": "",
+ "twitter_username": "localeur",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2013,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, local, millennial, content, austin",
+ "alias_list": null,
+ "email_address": "joah@localeur.com",
+ "phone_number": "",
+ "description": "Helps travelers experience local.",
+ "created_at": "Sat Mar 23 03:01:06 UTC 2013",
+ "updated_at": "Mon May 13 03:36:29 UTC 2013",
+ "overview": "\u003Cp\u003ELocaleur is a place where travelers will go to experience local wherever they go by tapping into a curated community of local insiders offering recommendations. Millennial travelers want local travel experiences, not tourist experiences, and our technology enables people to have authentic and fun local experiences.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       120],
+      "assets/images/resized/0024/4912/244912v4-max-150x150.png"],
+     [[120,
+       120],
+      "assets/images/resized/0024/4912/244912v4-max-250x250.png"],
+     [[120,
+       120],
+      "assets/images/resized/0024/4912/244912v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder and CEO",
+    "person":
+     {"first_name": "Joah",
+      "last_name": "Spearman",
+      "permalink": "joah-spearman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder and President",
+    "person":
+     {"first_name": "Chase",
+      "last_name": "White",
+      "permalink": "chase-white",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TripAdvisor",
+      "permalink": "tripadvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/2953/2953v18-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0000/2953/2953v18-max-250x250.jpg"],
+          [[450,
+            264],
+           "assets/images/resized/0000/2953/2953v18-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$250k",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://m.bizjournals.com/austin/print-edition/2013/04/26/heralded-at-sxsw-app-attracts-funding.html?r=full",
+    "source_description": "Austin Business Journal",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.267153,
+    "longitude": -97.7430608}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.blackenterprise.com/small-business/localeur-travel-startup-launched-sxsw/",
+    "title": "Black Enterprise"},
+   {"external_url": "http://www.blackenterprise.com/small-business/localeur-travel-startup-launched-sxsw/",
+    "title": "Digital Trends"}]}

@@ -1,0 +1,112 @@
+{"name": "Qrowd",
+ "permalink": "qrowd",
+ "crunchbase_url": "http://www.crunchbase.com/company/qrowd",
+ "homepage_url": "http://www.qrowd.com",
+ "blog_url": "http://www.qrowd.com/blog",
+ "blog_feed_url": "http://feeds.feedburner.com/Cooqy",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "start-page, startpage, webtop, dashboard, widget, widgets, web-2-0, web, technology, social, news, community",
+ "alias_list": null,
+ "email_address": "sales@qrowd.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Nov 06 21:22:17 UTC 2008",
+ "updated_at": "Sun Nov 16 17:06:03 UTC 2008",
+ "overview": "\u003Cp\u003EQrowd is a new type of start page, coined a \u0026#8220;mashable webtop\u0026#8221;.  Qrowd is both a widget platform and a customizable start page.\u003C/p\u003E\n\n\u003Cp\u003EQrowd consists of three main components:  a visual wiring editor, a part IDE, and a webtop.\u003C/p\u003E\n\n\u003Cp\u003ENative widgets in Qrowd are constructed using a visual wiring editor that allows data sources to be loaded, manipulated, and displayed with ease.  The visual wiring editor connects software parts together and configures them into a finished widget that can run either in the webtop or on external web pages.\u003C/p\u003E\n\n\u003Cp\u003EThe software parts themselves can be edited by software developers knowing Javascript and XML with the part IDE.  Qrowd is a fully extensible system.\u003C/p\u003E\n\n\u003Cp\u003EThe webtop is a highly customizable dashboard to the Internet.  Users can aggregate all their frequently accessed web content into a single place.  Native widgets feature integrated alerts.  Third party widgets such as Google Gadgets can be added to the webtop via wrapper widgets.  Content from almost any web page can also be clipped with a web page clipping widget.\u003C/p\u003E\n\n\u003Cp\u003EBy overlaying a widget platform with a webtop, Qrowd enables users to take data of interest from around the web, manipulate it, and then choose how to best visualize it.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       51],
+      "assets/images/resized/0002/7976/27976v2-max-150x150.png"],
+     [[100,
+       51],
+      "assets/images/resized/0002/7976/27976v2-max-250x250.png"],
+     [[100,
+       51],
+      "assets/images/resized/0002/7976/27976v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Qrowd",
+    "permalink": "qrowd",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Yeager",
+      "permalink": "robert-yeager",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Netvibes",
+      "permalink": "netvibes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2974/2974v8-max-150x150.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-250x250.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pageflakes",
+      "permalink": "pageflakes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0024/2857/242857v1-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0024/2857/242857v1-max-250x250.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0024/2857/242857v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iGoogle",
+      "permalink": "igoogle",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Atlanta",
+    "state_code": "GA",
+    "country_code": "USA",
+    "latitude": 33.754487,
+    "longitude": -84.389663}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

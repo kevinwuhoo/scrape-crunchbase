@@ -1,0 +1,178 @@
+{"name": "DealPop",
+ "permalink": "dealpop",
+ "crunchbase_url": "http://www.crunchbase.com/company/dealpop",
+ "homepage_url": "http://www.dealpop.com",
+ "blog_url": "http://blog.dealpop.com/",
+ "blog_feed_url": "http://blog.dealpop.com/feed/",
+ "twitter_username": "dealpop",
+ "category_code": "ecommerce",
+ "number_of_employees": 10,
+ "founded_year": 2010,
+ "founded_month": 7,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-buying, daily-deal, group-buying, ecommerce, groupon, livingsocial",
+ "alias_list": "",
+ "email_address": "michele@buzzbuilders.net",
+ "phone_number": "425-205-9444",
+ "description": "Social Buying Coupon Site",
+ "created_at": "Tue Sep 07 19:55:42 UTC 2010",
+ "updated_at": "Thu Jun 02 03:18:49 UTC 2011",
+ "overview": "\u003Cp\u003EDealPop from WhitePages is the place where people find great deals from local merchants, then easily share them with friends. For businesses, it\u00e2\u20ac\u2122s an excellent place to gain new customers, increase foot traffic, and extend the reach of your marketing \u00e2\u20ac\u201dwithout any upfront costs.\u003C/p\u003E\n\n\u003Cp\u003EAs a WhitePages subsidiary, DealPop analyzes more than 100 million local and business searches conducted monthly by 20 million people per month at WhitePages.com and 411.com to determine the most popular places to eat, shop, and have fun. This insight, combined with first-hand knowledge by DealPop\u00e2\u20ac\u2122s local insiders, will allow DealPop to quickly identify relevant merchants and provide the hottest deals for consumers. The company will promote each deal on www.dealpop.com, through a daily email to subscribers, via Twitter and Facebook and on WhitePages\u00e2\u20ac\u2122 website. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0010/0875/100875v2-max-150x150.jpg"],
+     [[201,
+       101],
+      "assets/images/resized/0010/0875/100875v2-max-250x250.jpg"],
+     [[201,
+       101],
+      "assets/images/resized/0010/0875/100875v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Nakao",
+      "permalink": "kevin-nakao",
+      "image":
+       {"available_sizes":
+         [[[111,
+            150],
+           "assets/images/resized/0006/2768/62768v2-max-150x150.jpg"],
+          [[185,
+            250],
+           "assets/images/resized/0006/2768/62768v2-max-250x250.jpg"],
+          [[333,
+            450],
+           "assets/images/resized/0006/2768/62768v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Groupon",
+      "permalink": "groupon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/5604/25604v10-max-150x150.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-250x250.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LivingSocial",
+      "permalink": "livingsocial",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0002/2416/22416v5-max-150x150.jpg"],
+          [[250,
+            91],
+           "assets/images/resized/0002/2416/22416v5-max-250x250.jpg"],
+          [[450,
+            163],
+           "assets/images/resized/0002/2416/22416v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tippr",
+      "permalink": "tippr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0007/7293/77293v3-max-150x150.png"],
+          [[250,
+            86],
+           "assets/images/resized/0007/7293/77293v3-max-250x250.png"],
+          [[450,
+            155],
+           "assets/images/resized/0007/7293/77293v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "HomeRun",
+      "permalink": "homerun",
+      "image":
+       {"available_sizes":
+         [[[119,
+            50],
+           "assets/images/resized/0008/6997/86997v2-max-150x150.png"],
+          [[119,
+            50],
+           "assets/images/resized/0008/6997/86997v2-max-250x250.png"],
+          [[119,
+            50],
+           "assets/images/resized/0008/6997/86997v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Buzz Builders",
+    "is_past": false,
+    "provider":
+     {"name": "Michele Mehl",
+      "permalink": "michele-mehl",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/06/01/tippr-acquires-whitepages-group-buying-site-dealpop/",
+   "source_description": "Tippr Acquires WhitePages\u00e2\u20ac\u2122 Group Buying Site DealPop",
+   "acquired_year": 2011,
+   "acquired_month": 6,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "Tippr",
+     "permalink": "tippr",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0007/7293/77293v3-max-150x150.png"],
+         [[250,
+           86],
+          "assets/images/resized/0007/7293/77293v3-max-250x250.png"],
+         [[450,
+           155],
+          "assets/images/resized/0007/7293/77293v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1301 Fifth Ave, Suite 1600",
+    "address2": "",
+    "zip_code": "98101",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://seattletimes.nwsource.com/html/retailreport/2012259556_retailreport02.html",
+    "title": "Local shops join forces with coupon websites to sweeten sales"},
+   {"external_url": "http://www.xconomy.com/seattle/2010/07/16/seattle%E2%80%99s-deal-a-day-sites-dealpop-and-tippr-seek-to-rival-groupon-and-livingsocial/",
+    "title": "Seattle\u00e2\u20ac\u2122s Deal-A-Day Sites, DealPop and Tippr, Challenge Groupon and LivingSocial"}]}

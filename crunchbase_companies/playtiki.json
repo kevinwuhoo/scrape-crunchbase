@@ -1,0 +1,157 @@
+{"name": "PlayTiki",
+ "permalink": "playtiki",
+ "crunchbase_url": "http://www.crunchbase.com/company/playtiki",
+ "homepage_url": "http://www.playtiki.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "playtiki",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "livestreaming, stream, video, conference, auditorium, qa, ama, live",
+ "alias_list": null,
+ "email_address": "laurent@playtiki.com",
+ "phone_number": "310-804-8879",
+ "description": "Many to one conferencing",
+ "created_at": "Tue Jun 11 05:20:19 UTC 2013",
+ "updated_at": "Tue Jun 11 17:57:23 UTC 2013",
+ "overview": "\u003Cp\u003ETiki simulates a live auditorium experience on your website. The video chat experience is designed for press conferences, fan engagement and easy-to-use group interaction. \u003C/p\u003E\n\n\u003Cp\u003EProblem: \u003C/p\u003E\n\n\u003Cp\u003ECurrent conferencing software has too many features to emulate the simplicity of an auditorium, but\u0026#8230; Embeddable live streams such as Youtube and UStream lack essential basic tools for audience engagement. \u003C/p\u003E\n\n\u003Cp\u003ESolution: \u003C/p\u003E\n\n\u003Cp\u003ETiki is a many-to-one video chat experience. Audience members and a host engage through moderated and controlled interaction. Clean and simple with streamlined user navigation. Limited user distractions. Controlled Q \u0026amp; A . Audience members can ask video, audio and text questions. Moderators can screen questions before pushing it live to the room.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Laurent",
+      "last_name": "Grill",
+      "permalink": "laurent-grill",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Ho",
+      "permalink": "aaron-ho",
+      "image": null}},
+   {"is_past": false,
+    "title": "CSO",
+    "person":
+     {"first_name": "Aviv",
+      "last_name": "Grill",
+      "permalink": "aviv-grill",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0011/1988/111988v2-max-150x150.png"],
+          [[166,
+            234],
+           "assets/images/resized/0011/1988/111988v2-max-250x250.png"],
+          [[166,
+            234],
+           "assets/images/resized/0011/1988/111988v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Creative Director",
+    "person":
+     {"first_name": "Joselle",
+      "last_name": "Ho",
+      "permalink": "joselle-ho",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0013/4886/134886v1-max-150x150.jpg"],
+          [[166,
+            234],
+           "assets/images/resized/0013/4886/134886v1-max-250x250.jpg"],
+          [[166,
+            234],
+           "assets/images/resized/0013/4886/134886v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Ustream",
+      "permalink": "ustream",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0017/1425/171425v4-max-150x150.png"],
+          [[250,
+            54],
+           "assets/images/resized/0017/1425/171425v4-max-250x250.png"],
+          [[450,
+            98],
+           "assets/images/resized/0017/1425/171425v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Spreecast",
+      "permalink": "spreecast",
+      "image":
+       {"available_sizes":
+         [[[150,
+            79],
+           "assets/images/resized/0016/7287/167287v1-max-150x150.png"],
+          [[198,
+            105],
+           "assets/images/resized/0016/7287/167287v1-max-250x250.png"],
+          [[198,
+            105],
+           "assets/images/resized/0016/7287/167287v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google Hangout",
+      "permalink": "google-hangout",
+      "image": null}},
+   {"competitor":
+     {"name": "WebEx",
+      "permalink": "webex",
+      "image":
+       {"available_sizes":
+         [[[134,
+            47],
+           "assets/images/resized/0002/6488/26488v1-max-150x150.png"],
+          [[134,
+            47],
+           "assets/images/resized/0002/6488/26488v1-max-250x250.png"],
+          [[134,
+            47],
+           "assets/images/resized/0002/6488/26488v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tiki HQ",
+    "address1": "854 9th St #1",
+    "address2": "",
+    "zip_code": "90403",
+    "city": "Santa Monica",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

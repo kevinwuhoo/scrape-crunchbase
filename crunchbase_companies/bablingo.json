@@ -1,0 +1,162 @@
+{"name": "Bablingo!",
+ "permalink": "bablingo",
+ "crunchbase_url": "http://www.crunchbase.com/company/bablingo",
+ "homepage_url": "http://www.bablingo.com",
+ "blog_url": "http://bablingo.com/blog",
+ "blog_feed_url": "http://bablingo.com/rss.xml",
+ "twitter_username": "bablingo",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "semantic, newswire, pr, distribution, media-releases, relevancy, context",
+ "alias_list": null,
+ "email_address": "kate@bablingo.com",
+ "phone_number": "4048222272",
+ "description": "Semantic driven news distribution.",
+ "created_at": "Sat Feb 12 21:25:10 UTC 2011",
+ "updated_at": "Thu Feb 17 03:20:02 UTC 2011",
+ "overview": "\u003Cp\u003EBablingo! acts as an inbox for media professionals, performing semantic analysis on inbound press releases, tips and tweets and prioritizing the results. This allows us to distribute news and events on behalf of organizations to journalists, bloggers and influencer\u0026#8217;s actually interested in on what they have to say. Coming late Spring, 2011.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0012/1861/121861v2-max-150x150.png"],
+     [[250,
+       110],
+      "assets/images/resized/0012/1861/121861v2-max-250x250.png"],
+     [[401,
+       177],
+      "assets/images/resized/0012/1861/121861v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, Director of Systems Architecture",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Holt",
+      "permalink": "ben-holt",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, CTO",
+    "person":
+     {"first_name": "Francis",
+      "last_name": "Pilon",
+      "permalink": "francis-pilon",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder - Director of User Experience",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Krueger",
+      "permalink": "steve-krueger",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Kate",
+      "last_name": "Hiscox",
+      "permalink": "kate-hiscox",
+      "image":
+       {"available_sizes":
+         [[[135,
+            150],
+           "assets/images/resized/0006/9632/69632v4-max-150x150.jpg"],
+          [[225,
+            250],
+           "assets/images/resized/0006/9632/69632v4-max-250x250.jpg"],
+          [[406,
+            450],
+           "assets/images/resized/0006/9632/69632v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Vocus",
+      "permalink": "vocus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            90],
+           "assets/images/resized/0001/9692/19692v3-max-150x150.png"],
+          [[200,
+            121],
+           "assets/images/resized/0001/9692/19692v3-max-250x250.png"],
+          [[200,
+            121],
+           "assets/images/resized/0001/9692/19692v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cision",
+      "permalink": "cision",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0008/0984/80984v2-max-150x150.jpg"],
+          [[200,
+            67],
+           "assets/images/resized/0008/0984/80984v2-max-250x250.jpg"],
+          [[200,
+            67],
+           "assets/images/resized/0008/0984/80984v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PRWeb",
+      "permalink": "prweb",
+      "image": null}},
+   {"competitor":
+     {"name": "PitchEngine",
+      "permalink": "pitchengine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0002/2758/22758v3-max-150x150.jpg"],
+          [[250,
+            61],
+           "assets/images/resized/0002/2758/22758v3-max-250x250.jpg"],
+          [[450,
+            110],
+           "assets/images/resized/0002/2758/22758v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "24-7 News",
+      "permalink": "24-7-news",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Vancouver",
+    "address1": "508 - 256 E 2nd Ave.",
+    "address2": "",
+    "zip_code": "V5T 0A7",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://twitter.com/bablingo",
+    "title": "Bablingo! on Twitter"}]}

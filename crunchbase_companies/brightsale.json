@@ -1,0 +1,101 @@
+{"name": "BrightSale",
+ "permalink": "brightsale",
+ "crunchbase_url": "http://www.crunchbase.com/company/brightsale",
+ "homepage_url": "http://www.brightsale.co.uk",
+ "blog_url": "http://brightsale.blogspot.com",
+ "blog_feed_url": "http://brightsale.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "public_relations",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-estate, property, estate-agents, finance, homes",
+ "alias_list": null,
+ "email_address": "andy@brightsale.co.uk",
+ "phone_number": "0800 231 6363",
+ "description": null,
+ "created_at": "Thu Apr 10 11:14:43 UTC 2008",
+ "updated_at": "Thu Dec 01 07:41:46 UTC 2011",
+ "overview": "\u003Cp\u003EBrightSale is an online estate agency which aims to combine the best elements of both traditional estate agents with private sale online companies. BrightSale charges a fee of just 0.5%, representing a significant saving when compared to traditional high street estate agents. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0001/7108/17108v1-max-150x150.jpg"],
+     [[250,
+       80],
+      "assets/images/resized/0001/7108/17108v1-max-250x250.jpg"],
+     [[400,
+       129],
+      "assets/images/resized/0001/7108/17108v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Andy",
+      "last_name": "Etches",
+      "permalink": "andy-etches",
+      "image": null}},
+   {"is_past": false,
+    "title": "Financial Director",
+    "person":
+     {"first_name": "Jeremy",
+      "last_name": "Howard",
+      "permalink": "jeremy-howard",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Housenetwork",
+      "permalink": "housenetwork",
+      "image": null}}],
+ "providerships":
+  [{"title": "Portal Listings",
+    "is_past": false,
+    "provider":
+     {"name": "Dothomes",
+      "permalink": "dothomes",
+      "image": null}},
+   {"title": "Portal Listings",
+    "is_past": false,
+    "provider":
+     {"name": "Zoomf",
+      "permalink": "zoomf",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "20th Floor Tolworth Tower",
+    "address2": "Ewell Road",
+    "zip_code": "KT6 7EL",
+    "city": "Surbiton",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.3552388,
+    "longitude": -0.3272835}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://news.bbc.co.uk/1/hi/business/6958427.stm",
+    "title": "BrightSale \"fair estate agency\" campaign on the BBC"},
+   {"external_url": "http://www.citywire.co.uk/personal/-/personality-finance/bricks-and-mortar/content.aspx?ID=303618\u0026Page=3",
+    "title": "Estate Agents Must Adapt or Die"}]}

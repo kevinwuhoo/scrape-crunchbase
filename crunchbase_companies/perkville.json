@@ -1,0 +1,167 @@
+{"name": "Perkville",
+ "permalink": "perkville",
+ "crunchbase_url": "http://www.crunchbase.com/company/perkville",
+ "homepage_url": "http://www.perkville.com",
+ "blog_url": "http://blog.perkville.com",
+ "blog_feed_url": "",
+ "twitter_username": "perkvilleinc",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rewards, local, deal",
+ "alias_list": null,
+ "email_address": "info@perkville.com",
+ "phone_number": "(415) \u00ad723-4318",
+ "description": "Customer Loyalty Solution",
+ "created_at": "Mon Jul 18 19:18:12 UTC 2011",
+ "updated_at": "Thu Jan 31 11:37:10 UTC 2013",
+ "overview": "\u003Cp\u003EHow many loyalty cards do you have in your wallet? How often have you forgotten it when at your local sandwich shop or hair salon? We felt there had to be a better way.  And so we made Perkville. Perkville turns your email address into a virtual reward card. No cards to carry. No apps to download. All you need is an email address to participate at any merchant on Perkville. And we love merchants. Many of them are just getting by. That\u0026#8217;s why Perkville\u0026#8217;s reward program is free for merchants too. They can be up and running in minutes and without paying a penny :)\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0014/4831/144831v2-max-150x150.png"],
+     [[197,
+       70],
+      "assets/images/resized/0014/4831/144831v2-max-250x250.png"],
+     [[197,
+       70],
+      "assets/images/resized/0014/4831/144831v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Bollman",
+      "permalink": "eric-bollman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Sunil",
+      "last_name": "Saha",
+      "permalink": "sunil-saha-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BlingNation",
+      "permalink": "blingnation",
+      "image": null}},
+   {"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Fenwick \u0026 West",
+      "permalink": "fenwick-west",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0001/6899/16899v1-max-150x150.png"],
+          [[196,
+            68],
+           "assets/images/resized/0001/6899/16899v1-max-250x250.png"],
+          [[196,
+            68],
+           "assets/images/resized/0001/6899/16899v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 20,
+    "investments":
+     []},
+   {"round_code": "seed",
+    "source_url": "http://www.finsmes.com/2013/01/perkville-closes-500k-seed-funding.html",
+    "source_description": "Perkville Closes $500k Seed Funding",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 1,
+    "funded_day": 31,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "48 Sanchez St.",
+    "address2": "219",
+    "zip_code": "94114",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

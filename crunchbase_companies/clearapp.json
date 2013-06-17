@@ -1,0 +1,142 @@
+{"name": "ClearApp",
+ "permalink": "clearapp",
+ "crunchbase_url": "http://www.crunchbase.com/company/clearapp",
+ "homepage_url": "http://www.clearapp.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "650-967-1212",
+ "description": "application service management",
+ "created_at": "Sun Aug 16 07:09:45 UTC 2009",
+ "updated_at": "Fri Apr 09 06:56:43 UTC 2010",
+ "overview": "\u003Cp\u003EAs per the transaction announced on September 2, 2008, ClearApp, Inc. was acquired by Oracle Corp. ClearApp, Inc. provides application service management for the J2EE-based composite applications to the enterprises. It offers performance, application change, and SOA performance management solutions. The company provides QuickVision that correlates the services provided by applications to the underlying code components supporting those services; and automates application performance management for portals, applications servers, integration platforms, ESBs, and BPEL engines. Its products optimize the performance of enterprise portal, J2EE, and SOA based applications. The company was founded as Acsera Corp. in 2002 and changed its name to ClearApp, Inc. in 2006. ClearApp, Inc. is headquartered in Mountain View, California.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$14.2M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "",
+    "source_description": "EDGAR",
+    "raised_amount": 14200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 6,
+    "funded_day": 14,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Partech International",
+         "permalink": "partech-international",
+         "image":
+          {"available_sizes":
+            [[[150,
+               37],
+              "assets/images/resized/0000/2926/2926v5-max-150x150.png"],
+             [[250,
+               62],
+              "assets/images/resized/0000/2926/2926v5-max-250x250.png"],
+             [[450,
+               111],
+              "assets/images/resized/0000/2926/2926v5-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "3i Group",
+         "permalink": "3i-group",
+         "image":
+          {"available_sizes":
+            [[[70,
+               68],
+              "assets/images/resized/0001/9740/19740v1-max-150x150.png"],
+             [[70,
+               68],
+              "assets/images/resized/0001/9740/19740v1-max-250x250.png"],
+             [[70,
+               68],
+              "assets/images/resized/0001/9740/19740v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Sierra Ventures",
+         "permalink": "sierra-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               27],
+              "assets/images/resized/0007/2271/72271v4-max-150x150.png"],
+             [[230,
+               42],
+              "assets/images/resized/0007/2271/72271v4-max-250x250.png"],
+             [[230,
+               42],
+              "assets/images/resized/0007/2271/72271v4-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.oracle.com/corporate/press/2008_sep/clearapp.html",
+   "source_description": "Oracle Buys ClearApp ",
+   "acquired_year": 2008,
+   "acquired_month": 9,
+   "acquired_day": 2,
+   "acquiring_company":
+    {"name": "Oracle Corporation",
+     "permalink": "oracle",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+         [[158,
+           54],
+          "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+         [[158,
+           54],
+          "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "1871 Landings Drive",
+    "address2": "",
+    "zip_code": "94043",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.4204805,
+    "longitude": -122.087219}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

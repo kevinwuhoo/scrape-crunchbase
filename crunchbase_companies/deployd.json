@@ -1,0 +1,130 @@
+{"name": "deployd",
+ "permalink": "deployd",
+ "crunchbase_url": "http://www.crunchbase.com/company/deployd",
+ "homepage_url": "http://www.deployd.com",
+ "blog_url": "http://www.deployd.com/blog.html",
+ "blog_feed_url": "",
+ "twitter_username": "deploydapp",
+ "category_code": "network_hosting",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "backend-as-a-service, paas, baas, saas, html5, javascript, node-js, mongodb",
+ "alias_list": null,
+ "email_address": "hello@deployd.com",
+ "phone_number": "",
+ "description": "Open Source API platform",
+ "created_at": "Wed Sep 12 17:15:45 UTC 2012",
+ "updated_at": "Wed Oct 10 15:26:11 UTC 2012",
+ "overview": "\u003Cp\u003EDeployd is an open-source platform for developing APIs for Web and Mobile apps. \u003C/p\u003E\n\n\u003Cp\u003EDeployd\u0026#8217;s approach to the problem involves a web-based dashboard, where developers define their API by adding and defining \u0026#8220;Resources\u0026#8221; without writing the typical structural, boilerplate code associated with building backends. \u003C/p\u003E\n\n\u003Cp\u003EUnlike other players in the space, deployd is free and open source. The company provides specialized commercial hosting services for the platform, as well as consulting, support, and training around the platform.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/3571/213571v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/3571/213571v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0021/3571/213571v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Cross",
+      "permalink": "jeff-cross",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ritchie",
+      "last_name": "Martori",
+      "permalink": "ritchie-martori",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Parse",
+      "permalink": "parse",
+      "image":
+       {"available_sizes":
+         [[[118,
+            51],
+           "assets/images/resized/0014/7930/147930v3-max-150x150.jpg"],
+          [[118,
+            51],
+           "assets/images/resized/0014/7930/147930v3-max-250x250.jpg"],
+          [[118,
+            51],
+           "assets/images/resized/0014/7930/147930v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "StackMob",
+      "permalink": "stackmob",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0011/9336/119336v1-max-150x150.png"],
+          [[230,
+            56],
+           "assets/images/resized/0011/9336/119336v1-max-250x250.png"],
+          [[230,
+            56],
+           "assets/images/resized/0011/9336/119336v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kinvey",
+      "permalink": "kinvey",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0013/7678/137678v2-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0013/7678/137678v2-max-250x250.png"],
+          [[450,
+            135],
+           "assets/images/resized/0013/7678/137678v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"253\" src=\"http://www.youtube.com/embed/I_Jq1BVj6D0\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EDeployd Demo\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://github.com/deployd/deployd",
+    "title": "Deployd on Github"}]}

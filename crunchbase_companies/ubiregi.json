@@ -1,0 +1,151 @@
+{"name": "Ubiregi",
+ "permalink": "ubiregi",
+ "crunchbase_url": "http://www.crunchbase.com/company/ubiregi",
+ "homepage_url": "https://ubiregi.com/en",
+ "blog_url": "http://blog.ubiregi.com/",
+ "blog_feed_url": "feed://blog.ubiregi.com/?feed=rss2",
+ "twitter_username": "ubiregi_en",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2010,
+ "founded_month": 3,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ipad-app, mobile-app, mobile-payment, pos, saas, retail, cloud-based, point-of-sale",
+ "alias_list": "",
+ "email_address": "info@ubiregi.com",
+ "phone_number": "+81-3-3780-0574",
+ "description": "POS system on iPad",
+ "created_at": "Sun Jul 31 10:57:45 UTC 2011",
+ "updated_at": "Thu Aug 11 05:51:36 UTC 2011",
+ "overview": "\u003Cp\u003EUbiregi was founded in March 2010 in Fujisawa, Kanagawa. It was, at the beginning, a company to develop a web service to look for apartments. In June 2010, iPad got available in Japan. They bought it, and found it can be more than a book reader or game console.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0014/7612/147612v2-max-150x150.png"],
+     [[250,
+       77],
+      "assets/images/resized/0014/7612/147612v2-max-250x250.png"],
+     [[450,
+       138],
+      "assets/images/resized/0014/7612/147612v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Keita",
+      "last_name": "Kido",
+      "permalink": "keita-kido",
+      "image":
+       {"available_sizes":
+         [[[50,
+            50],
+           "assets/images/resized/0014/8934/148934v1-max-150x150.png"],
+          [[50,
+            50],
+           "assets/images/resized/0014/8934/148934v1-max-250x250.png"],
+          [[50,
+            50],
+           "assets/images/resized/0014/8934/148934v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder and CTO",
+    "person":
+     {"first_name": "Soutaro",
+      "last_name": "Matsumoto",
+      "permalink": "soutaro-matsumoto",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Square",
+      "permalink": "square",
+      "image":
+       {"available_sizes":
+         [[[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-150x150.png"],
+          [[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-250x250.png"],
+          [[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vend",
+      "permalink": "vendhq",
+      "image":
+       {"available_sizes":
+         [[[150,
+            84],
+           "assets/images/resized/0008/0355/80355v9-max-150x150.png"],
+          [[178,
+            100],
+           "assets/images/resized/0008/0355/80355v9-max-250x250.png"],
+          [[178,
+            100],
+           "assets/images/resized/0008/0355/80355v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ERPLY",
+      "permalink": "erply",
+      "image":
+       {"available_sizes":
+         [[[150,
+            69],
+           "assets/images/resized/0006/0817/60817v2-max-150x150.png"],
+          [[167,
+            77],
+           "assets/images/resized/0006/0817/60817v2-max-250x250.png"],
+          [[167,
+            77],
+           "assets/images/resized/0006/0817/60817v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a510.5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 10500000.0,
+    "raised_currency_code": "JPY",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tokyo Office",
+    "address1": "8-16, Shinsen-tyo, Shibuya-ku",
+    "address2": "ShibuyaFirstPlaceBuilding 8F BOAT",
+    "zip_code": "150-0045",
+    "city": "Tokyo",
+    "state_code": null,
+    "country_code": "JPN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://itunes.apple.com/md/app/ubiregi2/id442910152?mt=8",
+    "title": "AppStore"},
+   {"external_url": "http://jp.techcrunch.com/archives/jp20101214ubiregi-ipad-pos-application/",
+    "title": "TechCrunch"}]}

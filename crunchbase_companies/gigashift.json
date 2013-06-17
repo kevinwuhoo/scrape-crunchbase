@@ -1,0 +1,119 @@
+{"name": "GigaShift",
+ "permalink": "gigashift",
+ "crunchbase_url": "http://www.crunchbase.com/company/gigashift",
+ "homepage_url": "http://www.gigashift.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 10,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "secure-large-file, file-sharing, file-upload, large-file-upload, upload-10-gb",
+ "alias_list": null,
+ "email_address": "admin@gigashift.com",
+ "phone_number": "516-965-3552",
+ "description": null,
+ "created_at": "Tue Nov 04 18:35:33 UTC 2008",
+ "updated_at": "Sat Nov 08 14:36:13 UTC 2008",
+ "overview": "\u003Cp\u003EGigashift - File Sharing With a Business Model\u003C/p\u003E\n\n\u003Cp\u003EGigashift is a file-sharing service with a twist: your file recipient can begin downloading while you are still uploading the file, all files are encrypted, pause/resume functionality, and the ability to upload a 10 GB file in one upload. \u003C/p\u003E\n\n\u003Cp\u003EThe service uses a simple Java applet which provides pricing once you select the files to upload. Up to 200mb is free, and then the pricing model kicks in. \u003C/p\u003E\n\n\u003Cp\u003EGigashift appears to compete directly with other popular file sharing services including YouSendIt and Rapidshare.  Gigashift files can be secured with a password and you need the unique id for each file to download it. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0002/8077/28077v1-max-150x150.png"],
+     [[250,
+       71],
+      "assets/images/resized/0002/8077/28077v1-max-250x250.png"],
+     [[283,
+       81],
+      "assets/images/resized/0002/8077/28077v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Aman",
+      "last_name": "Oza",
+      "permalink": "aman-oza",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "YouSendIt",
+      "permalink": "yousendit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0000/3922/3922v1-max-150x150.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-250x250.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RapidShare",
+      "permalink": "rapidshare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            107],
+           "assets/images/resized/0005/0491/50491v1-max-150x150.png"],
+          [[250,
+            178],
+           "assets/images/resized/0005/0491/50491v1-max-250x250.png"],
+          [[300,
+            214],
+           "assets/images/resized/0005/0491/50491v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        117],
+       "assets/images/resized/0002/7814/27814v2-max-150x150.png"],
+      [[250,
+        195],
+       "assets/images/resized/0002/7814/27814v2-max-250x250.png"],
+      [[450,
+        351],
+       "assets/images/resized/0002/7814/27814v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        117],
+       "assets/images/resized/0002/7815/27815v2-max-150x150.png"],
+      [[250,
+        195],
+       "assets/images/resized/0002/7815/27815v2-max-250x250.png"],
+      [[450,
+        351],
+       "assets/images/resized/0002/7815/27815v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

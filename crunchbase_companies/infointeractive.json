@@ -1,0 +1,129 @@
+{"name": "InfoInterActive",
+ "permalink": "infointeractive",
+ "crunchbase_url": "http://www.crunchbase.com/company/infointeractive",
+ "homepage_url": "http://www.infointeractive.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 1997,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "voice, media, communications, aol, voip",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Oct 29 21:48:01 UTC 2008",
+ "updated_at": "Fri Jun 05 17:44:07 UTC 2009",
+ "overview": "\u003Cp\u003EInfoInterActive develops and deploys network-based enhanced services combining telephone, Internet and wireless technologies.\u003C/p\u003E\n\n\u003Cp\u003EThe company markets its services through distribution and service provider partners including telecommunications companies, Internet service providers and original equipment manufacturers worldwide as well as directly to end users.\u003C/p\u003E\n\n\u003Cp\u003EInfoInterActive was bought by AOL in 2001 and has been incorporated into the AOL Halifax product. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0002/7569/27569v1-max-150x150.jpg"],
+     [[202,
+       47],
+      "assets/images/resized/0002/7569/27569v1-max-250x250.jpg"],
+     [[202,
+       47],
+      "assets/images/resized/0002/7569/27569v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "McMullin",
+      "permalink": "bill-mcmullin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "eVoice",
+      "permalink": "evoice",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0002/7445/27445v1-max-150x150.png"],
+          [[250,
+            53],
+           "assets/images/resized/0002/7445/27445v1-max-250x250.png"],
+          [[315,
+            67],
+           "assets/images/resized/0002/7445/27445v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 28200000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://query.nytimes.com/gst/fullpage.html?res=9E07E6DF163DF93AA25756C0A9679C8B63",
+   "source_description": "COMPANY NEWS; AOL TIME WARNER AGREES TO ACQUIRE INFOINTERACTIVE ",
+   "acquired_year": 2001,
+   "acquired_month": 5,
+   "acquired_day": 19,
+   "acquiring_company":
+    {"name": "AOL",
+     "permalink": "aol",
+     "image":
+      {"available_sizes":
+        [[[150,
+           84],
+          "assets/images/resized/0000/4003/4003v5-max-150x150.png"],
+         [[174,
+           98],
+          "assets/images/resized/0000/4003/4003v5-max-250x250.png"],
+         [[174,
+           98],
+          "assets/images/resized/0000/4003/4003v5-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1550 Bedford Highway",
+    "address2": "Suite 600",
+    "zip_code": "B4A 1E6",
+    "city": "Bedford, Nova Scotia",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 44.7321379,
+    "longitude": -63.6568212}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

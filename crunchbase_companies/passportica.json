@@ -1,0 +1,117 @@
+{"name": "Passportica",
+ "permalink": "passportica",
+ "crunchbase_url": "http://www.crunchbase.com/company/passportica",
+ "homepage_url": "http://passportica.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "passportica",
+ "category_code": "ecommerce",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "passport-photo, online-passport-photo, passport-picture, passport-photos, online-passport-photos",
+ "alias_list": null,
+ "email_address": "hi@passportica.com",
+ "phone_number": "",
+ "description": "Online passport photos, delivered.",
+ "created_at": "Fri Mar 23 00:45:04 UTC 2012",
+ "updated_at": "Mon Mar 26 01:43:04 UTC 2012",
+ "overview": "\u003Cp\u003EPassportica is a web app for creating official online passport photos that are printed and shipped to the user.\u003C/p\u003E\n\n\u003Cp\u003EPhotos can be taken with a phone or camera (native mobile apps are in development).  Those photos are uploaded to the editing page and resized to fit exact government specifications. The passport pictures are printed and shipped within 1 business day and delivered within 2-4 days in the continental United States.\u003C/p\u003E\n\n\u003Cp\u003EPassportica\u0026#8217;s photos are valid for passports, passport cards, visas, green cards, and many more applications where passport photos are required.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Fred",
+      "last_name": "Perowne",
+      "permalink": "fred-perowne",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder, President, CEO",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "O'Grady",
+      "permalink": "sean-ogrady",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Sather",
+      "permalink": "andrew-sather",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Walgreens",
+      "permalink": "walgreens-2",
+      "image": null}},
+   {"competitor":
+     {"name": "Costco",
+      "permalink": "costco",
+      "image": null}},
+   {"competitor":
+     {"name": "epassportphoto",
+      "permalink": "epassportphoto",
+      "image": null}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Goodwin Procter",
+      "permalink": "goodwin-procter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0010/8187/108187v2-max-150x150.jpg"],
+          [[250,
+            107],
+           "assets/images/resized/0010/8187/108187v2-max-250x250.jpg"],
+          [[342,
+            147],
+           "assets/images/resized/0010/8187/108187v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Passportica Headquarters",
+    "address1": "168 South Park Ave",
+    "address2": "",
+    "zip_code": "94107",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        72],
+       "assets/images/resized/0018/0684/180684v2-max-150x150.png"],
+      [[250,
+        120],
+       "assets/images/resized/0018/0684/180684v2-max-250x250.png"],
+      [[450,
+        216],
+       "assets/images/resized/0018/0684/180684v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

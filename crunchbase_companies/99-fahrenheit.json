@@ -1,0 +1,133 @@
+{"name": "99 Fahrenheit",
+ "permalink": "99-fahrenheit",
+ "crunchbase_url": "http://www.crunchbase.com/company/99-fahrenheit",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "ll@99f.co",
+ "phone_number": "",
+ "description": "Venture Incubator",
+ "created_at": "Wed Nov 02 16:26:33 UTC 2011",
+ "updated_at": "Tue Mar 06 05:03:49 UTC 2012",
+ "overview": "\u003Cp\u003E99 Fahrenheit is a Venture Incubator; with a mission to accelerate the development of Internet startups via a combination of seed investment and incubation services.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[107,
+       150],
+      "assets/images/resized/0017/7088/177088v2-max-150x150.png"],
+     [[179,
+       250],
+      "assets/images/resized/0017/7088/177088v2-max-250x250.png"],
+     [[323,
+       450],
+      "assets/images/resized/0017/7088/177088v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Partner \u0026 Founder",
+    "person":
+     {"first_name": "luca",
+      "last_name": "longobardi",
+      "permalink": "luca-longobardi",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Partner \u0026 Founder",
+    "person":
+     {"first_name": "Stefano",
+      "last_name": "Longobardi",
+      "permalink": "stefano-longobardi",
+      "image": null}},
+   {"is_past": false,
+    "title": "Partner",
+    "person":
+     {"first_name": "Stefano",
+      "last_name": "Lieto",
+      "permalink": "stefano-lieto",
+      "image": null}},
+   {"is_past": false,
+    "title": "Associate",
+    "person":
+     {"first_name": "Ludovico",
+      "last_name": "Facchini",
+      "permalink": "ludovico-facchini",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "H-FARM Ventures",
+      "permalink": "h-farm",
+      "image":
+       {"available_sizes":
+         [[[90,
+            88],
+           "assets/images/resized/0005/2229/52229v2-max-150x150.png"],
+          [[90,
+            88],
+           "assets/images/resized/0005/2229/52229v2-max-250x250.png"],
+          [[90,
+            88],
+           "assets/images/resized/0005/2229/52229v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 15,
+    "investments":
+     []}],
+ "investments":
+  [{"funding_round":
+     {"round_code": "seed",
+      "source_url": "",
+      "source_description": "",
+      "raised_amount": 100000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 2,
+      "funded_day": 20,
+      "company":
+       {"name": "sfilatino",
+        "permalink": "sfilatino",
+        "image": null}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "via Tortona, 18a",
+    "address2": "",
+    "zip_code": "20144",
+    "city": "milano",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

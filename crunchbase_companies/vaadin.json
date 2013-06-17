@@ -1,0 +1,141 @@
+{"name": "Vaadin",
+ "permalink": "vaadin",
+ "crunchbase_url": "http://www.crunchbase.com/company/vaadin",
+ "homepage_url": "http://vaadin.com/",
+ "blog_url": "http://vaadin.com/blog/",
+ "blog_feed_url": "https://vaadin.com/blog/-/blogs/rss",
+ "twitter_username": "vaadin",
+ "category_code": "software",
+ "number_of_employees": 48,
+ "founded_year": 2000,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ria-java-html5-html-cloud-enterprise-development-web-user-interface-toolkit-framework-open-source",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Rich Web UI for Java",
+ "created_at": "Tue Sep 27 15:35:54 UTC 2011",
+ "updated_at": "Sat Feb 04 06:27:32 UTC 2012",
+ "overview": "\u003Cp\u003EVaadin provides an open source framework for creating rich web applications with Java.\u003C/p\u003E\n\n\u003Cp\u003EVaadin Framework allows building compelling HTML5 based user interfaces with established Java platform and tooling. It reduces complexity by removing need to program the web and the communication layers. Instead the whole application is run in the server. Technology combines rapid development time and the widely used Java platform with the possibility of using rich web user interfaces from any web browser, tablet or smartphone.\u003C/p\u003E\n\n\u003Cp\u003ECompany supports the open source core product with commercial add-on components, tools, support and services. The Vaadin Framework is one of the most popular web frameworks for building business applications on Java platform. It is used by some of the largest enterprises and public organizations the world.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       29],
+      "assets/images/resized/0017/2629/172629v2-max-150x150.jpg"],
+     [[120,
+       29],
+      "assets/images/resized/0017/2629/172629v2-max-250x250.jpg"],
+     [[120,
+       29],
+      "assets/images/resized/0017/2629/172629v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Joonas",
+      "last_name": "Lehtinen",
+      "permalink": "joonas-lehtinen",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP of US Operations, Founder",
+    "person":
+     {"first_name": "Jani",
+      "last_name": "Laakso",
+      "permalink": "jani-laakso",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sencha",
+      "permalink": "sencha",
+      "image":
+       {"available_sizes":
+         [[[120,
+            50],
+           "assets/images/resized/0009/1563/91563v1-max-150x150.png"],
+          [[120,
+            50],
+           "assets/images/resized/0009/1563/91563v1-max-250x250.png"],
+          [[120,
+            50],
+           "assets/images/resized/0009/1563/91563v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Adobe Systems",
+      "permalink": "adobe-systems",
+      "image":
+       {"available_sizes":
+         [[[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-150x150.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-250x250.png"],
+          [[56,
+            66],
+           "assets/images/resized/0001/3687/13687v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ZK",
+      "permalink": "zk",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Ruukinkatu 2-4",
+    "address2": "",
+    "zip_code": "20540",
+    "city": "Turku",
+    "state_code": "CA",
+    "country_code": "FIN",
+    "latitude": null,
+    "longitude": null},
+   {"description": "US office",
+    "address1": "1530 Page Mill Rd.",
+    "address2": "Suite 200",
+    "zip_code": "94304-1125",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

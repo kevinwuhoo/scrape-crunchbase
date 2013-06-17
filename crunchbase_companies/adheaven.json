@@ -1,0 +1,121 @@
+{"name": "Adheaven",
+ "permalink": "adheaven",
+ "crunchbase_url": "http://www.crunchbase.com/company/adheaven",
+ "homepage_url": "http://adheaven.net/",
+ "blog_url": "http://adheaven.net/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "adheaven",
+ "category_code": "advertising",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-advertising, technology, internet, in-text-advertising, in-text",
+ "alias_list": null,
+ "email_address": "info@adheaven.net",
+ "phone_number": "(+30) 211 7109347",
+ "description": "Online Advertising Solutions",
+ "created_at": "Fri Nov 12 16:23:56 UTC 2010",
+ "updated_at": "Thu Nov 03 21:22:16 UTC 2011",
+ "overview": "\u003Cp\u003EAdheaven is a technology provider for both online advertisers and publishers. We are specializing in innovative online advertising solutions for the online industry. Adheaven is headquartered in Chalandri - Greece. Our vision is to produce innovative ideas and provide high quality support to the professionals of the online market.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0010/9982/109982v2-max-150x150.png"],
+     [[198,
+       88],
+      "assets/images/resized/0010/9982/109982v2-max-250x250.png"],
+     [[198,
+       88],
+      "assets/images/resized/0010/9982/109982v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Bubblebox",
+    "permalink": "bubblebox",
+    "image":
+     {"available_sizes":
+       [[[150,
+          43],
+         "assets/images/resized/0011/0568/110568v2-max-150x150.png"],
+        [[250,
+          72],
+         "assets/images/resized/0011/0568/110568v2-max-250x250.png"],
+        [[297,
+          86],
+         "assets/images/resized/0011/0568/110568v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Marketing Manager",
+    "person":
+     {"first_name": "Dimitris",
+      "last_name": "Rizoglou",
+      "permalink": "dimitris-rizoglou",
+      "image": null}},
+   {"is_past": true,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "George",
+      "last_name": "Kapothanasis",
+      "permalink": "george-kapothanasis",
+      "image": null}},
+   {"is_past": true,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Christos",
+      "last_name": "Stamatelos-Mavromichalis",
+      "permalink": "christos-stamatelos",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0011/0229/110229v5-max-150x150.jpg"],
+          [[212,
+            141],
+           "assets/images/resized/0011/0229/110229v5-max-250x250.jpg"],
+          [[212,
+            141],
+           "assets/images/resized/0011/0229/110229v5-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Intext Advertising",
+    "is_past": false,
+    "provider":
+     {"name": "Bubblebox",
+      "permalink": "bubblebox",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Adheaven LTD",
+    "address1": "43 Mikras Asias Str.",
+    "address2": "",
+    "zip_code": "15233",
+    "city": "Chalandri",
+    "state_code": null,
+    "country_code": "GRC",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://bubblebox.eu/",
+    "title": "Bubblebox Intext Advertising"}]}

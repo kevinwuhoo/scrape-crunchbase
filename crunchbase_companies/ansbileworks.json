@@ -1,0 +1,83 @@
+{"name": "AnsibleWorks",
+ "permalink": "ansbileworks",
+ "crunchbase_url": "http://www.crunchbase.com/company/ansbileworks",
+ "homepage_url": "http://ansibleworks.com",
+ "blog_url": "http://blog.ansibleworks.com",
+ "blog_feed_url": "http://blog.ansibleworks.com/feed/",
+ "twitter_username": "AnsibleWorks",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "systems-management, configuration-management, deployment, orchestration, devops, systems-administration, sysadmin",
+ "alias_list": null,
+ "email_address": "info@ansibleworks.com",
+ "phone_number": "1 800-825-0212",
+ "description": "radically simple IT automation",
+ "created_at": "Tue Mar 05 23:31:30 UTC 2013",
+ "updated_at": "Tue Mar 12 21:46:45 UTC 2013",
+ "overview": "\u003Cp\u003EAnsibleWorks is the company behind Ansible, the radically simple IT orchestration solution.\u003C/p\u003E\n\n\u003Cp\u003EAnsible simplifies the way IT departments manage systems, applications, and cloud infrastructure.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sa\u00efd",
+      "last_name": "Ziouani",
+      "permalink": "sad-ziouani",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "DeHaan",
+      "permalink": "michael-dehaan",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP of Services and Support",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Gerla",
+      "permalink": "tim-gerla",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1482 East Valley Road, Suite 888",
+    "address2": "",
+    "zip_code": "93108",
+    "city": "Montecito",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://ansible.cc",
+    "title": "Project Page"},
+   {"external_url": "http://github.com/ansible",
+    "title": "Project GitHub"}]}

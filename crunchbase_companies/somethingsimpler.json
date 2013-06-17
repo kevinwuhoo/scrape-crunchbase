@@ -1,0 +1,122 @@
+{"name": "SomethingSimpler",
+ "permalink": "somethingsimpler",
+ "crunchbase_url": "http://www.crunchbase.com/company/somethingsimpler",
+ "homepage_url": "http://www.somethingsimpler.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Aug 15 11:15:15 UTC 2007",
+ "updated_at": "Thu Sep 30 17:47:43 UTC 2010",
+ "overview": "\u003Cp\u003EPubsub is an advanced search company planning to go live with a search engine by Winter 2008. It also plans on deploying its search technology through a Facebook application by late Summer or early Fall 2007. Pubsub likens itself to Yahoo Pipes, but with an improved user experience.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0000/4321/4321v1-max-150x150.png"],
+     [[250,
+       50],
+      "assets/images/resized/0000/4321/4321v1-max-250x250.png"],
+     [[354,
+       72],
+      "assets/images/resized/0000/4321/4321v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "PubSub",
+    "permalink": "pubsub",
+    "image":
+     {"available_sizes":
+       [[[150,
+          50],
+         "assets/images/resized/0001/2476/12476v1-max-150x150.png"],
+        [[182,
+          61],
+         "assets/images/resized/0001/2476/12476v1-max-250x250.png"],
+        [[182,
+          61],
+         "assets/images/resized/0001/2476/12476v1-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "Pulse",
+    "permalink": "pulse-facebook-application",
+    "image":
+     {"available_sizes":
+       [[[146,
+          50],
+         "assets/images/resized/0001/2506/12506v1-max-150x150.png"],
+        [[146,
+          50],
+         "assets/images/resized/0001/2506/12506v1-max-250x250.png"],
+        [[146,
+          50],
+         "assets/images/resized/0001/2506/12506v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": true,
+    "title": "President \u0026 CEO",
+    "person":
+     {"first_name": "Ian",
+      "last_name": "Bell",
+      "permalink": "ian-bell",
+      "image":
+       {"available_sizes":
+         [[[127,
+            150],
+           "assets/images/resized/0010/4632/104632v2-max-150x150.jpg"],
+          [[213,
+            250],
+           "assets/images/resized/0010/4632/104632v2-max-250x250.jpg"],
+          [[383,
+            450],
+           "assets/images/resized/0010/4632/104632v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Chief Scientist",
+    "person":
+     {"first_name": "Einar",
+      "last_name": "Vollset",
+      "permalink": "einar-vollset",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Vancouver",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 49.263588,
+    "longitude": -123.138565}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

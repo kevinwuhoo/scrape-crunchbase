@@ -1,0 +1,104 @@
+{"name": "PriceFlurry",
+ "permalink": "priceflurry",
+ "crunchbase_url": "http://www.crunchbase.com/company/priceflurry",
+ "homepage_url": "http://priceflurry.com",
+ "blog_url": "http://blog.priceflurry.com",
+ "blog_feed_url": "http://blog.priceflurry.com/rss",
+ "twitter_username": "priceflurry",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "prices, wiki, consumer",
+ "alias_list": null,
+ "email_address": "contact@priceflurry.com",
+ "phone_number": "+45 81 61 42 96",
+ "description": "A community-driven database of prices.",
+ "created_at": "Sun Nov 25 14:19:04 UTC 2012",
+ "updated_at": "Sat Dec 01 07:21:29 UTC 2012",
+ "overview": "\u003Cp\u003EPriceFlurry is a place where people can find and share information regarding prices on various goods and services all around the Globe.\u003C/p\u003E\n\n\u003Cp\u003EBut PriceFlurry is not just a wiki-like website for collecting prices. It\u2019s a tool that will help consumers reducing their expenses. It\u2019s also a platform that can help businesses understand their customers better based on reviews they submit.\u003C/p\u003E\n\n\u003Cp\u003EThere\u2019s also a gaming aspect in the use of the service which is intended to stimulate shoppers. A user can earn so called \u201cbadges\u201d for submitting a certain kind of reviews. The local businesses can then encourage these achievements by providing a certain types of benefits for such customers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[96,
+       96],
+      "assets/images/resized/0022/2084/222084v2-max-150x150.png"],
+     [[96,
+       96],
+      "assets/images/resized/0022/2084/222084v2-max-250x250.png"],
+     [[96,
+       96],
+      "assets/images/resized/0022/2084/222084v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO \u0026 Co-founder",
+    "person":
+     {"first_name": "Pavel",
+      "last_name": "Volgarev",
+      "permalink": "pavel-volgarev",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0022/2855/222855v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0022/2855/222855v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0022/2855/222855v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Product manager",
+    "person":
+     {"first_name": "Artem",
+      "last_name": "Manchenko",
+      "permalink": "artem-manchenko",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Milo",
+      "permalink": "milo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            96],
+           "assets/images/resized/0004/2698/42698v6-max-150x150.png"],
+          [[175,
+            113],
+           "assets/images/resized/0004/2698/42698v6-max-250x250.png"],
+          [[175,
+            113],
+           "assets/images/resized/0004/2698/42698v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.youtube.com/watch?v=gcE2sQJrA4w",
+    "title": "Pavel presenting PriceFlurry at Danish IT-UPDATE 2012 (Aarhus, Denmark)"},
+   {"external_url": "http://dinkovadesign.blogspot.dk/2012/11/behind-scene-at-priceflurrycom.html",
+    "title": "Interview with Pavel by Iskra Dinkova"}]}

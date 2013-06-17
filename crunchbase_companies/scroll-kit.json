@@ -1,0 +1,101 @@
+{"name": "scroll kit",
+ "permalink": "scroll-kit",
+ "crunchbase_url": "http://www.crunchbase.com/company/scroll-kit",
+ "homepage_url": "http://www.scrollkit.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "scrollkit",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "scroll-kit",
+ "alias_list": null,
+ "email_address": "hey@scrollkit.com",
+ "phone_number": "",
+ "description": "3D Printer for Webpages",
+ "created_at": "Tue Oct 16 17:33:49 UTC 2012",
+ "updated_at": "Wed May 22 21:15:36 UTC 2013",
+ "overview": "\u003Cp\u003Escroll kit makes assembling a page on the web more like drawing on a piece of paper.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Cody",
+      "last_name": "Brown",
+      "permalink": "cody-brown",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kate",
+      "last_name": "Ray",
+      "permalink": "kate-ray",
+      "image": null}},
+   {"is_past": false,
+    "title": "advisor",
+    "person":
+     {"first_name": "Clay",
+      "last_name": "Shirky",
+      "permalink": "clay-shirky",
+      "image":
+       {"available_sizes":
+         [[[150,
+            100],
+           "assets/images/resized/0009/7736/97736v2-max-150x150.jpg"],
+          [[250,
+            168],
+           "assets/images/resized/0009/7736/97736v2-max-250x250.jpg"],
+          [[450,
+            302],
+           "assets/images/resized/0009/7736/97736v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJoi Ito\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$222k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://betabeat.com/2011/10/scroll-up-bushwick-based-mini-startup-scores-222-k-after-a-pivot-and-16-months-of-ramen/",
+    "source_description": "brooklyn based startup raises",
+    "raised_amount": 222000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 10,
+    "funded_day": 26,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "175 Varick",
+    "address2": "4th Floor",
+    "zip_code": "10014",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.727425,
+    "longitude": -74.0057125}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2012/06/05/dont-know-how-to-code-use-scroll-kit-to-build-your-next-website/",
+    "title": "Don\u2019t Know How To Code? Use Scroll Kit To Build Your Next Website"}]}

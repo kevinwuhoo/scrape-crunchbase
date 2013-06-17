@@ -1,0 +1,106 @@
+{"name": "Blink Messenger",
+ "permalink": "blink-messenger",
+ "crunchbase_url": "http://www.crunchbase.com/company/blink-messenger",
+ "homepage_url": "http://www.blinkapp.co",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "BlinkApp",
+ "category_code": "mobile",
+ "number_of_employees": 6,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "support@blinkapp.co",
+ "phone_number": "",
+ "description": "Expiring group messages",
+ "created_at": "Thu Apr 25 23:34:38 UTC 2013",
+ "updated_at": "Fri Apr 26 12:55:38 UTC 2013",
+ "overview": "\u003Cp\u003EBlink Messenger is a group messaging app that lets users send self-destructing photos and text messages.\u003C/p\u003E\n\n\u003Cp\u003EThe app is made by Kismet, which is founded by Ex-Googler Kevin Stephens and Michelle Norgan.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       105],
+      "assets/images/resized/0025/5121/255121v2-max-150x150.png"],
+     [[250,
+       175],
+      "assets/images/resized/0025/5121/255121v2-max-250x250.png"],
+     [[450,
+       315],
+      "assets/images/resized/0025/5121/255121v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-founder \u0026 CEO",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Stephens",
+      "permalink": "kevin-stephens",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Michelle",
+      "last_name": "Norgan",
+      "permalink": "michelle-norgan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/03/08/kismet-combines-check-ins-background-location-and-more-a-sxsw-dark-horse/",
+    "source_description": "Kismet Combines Check-Ins, Background Location and More",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 2,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[84,
+        150],
+       "assets/images/resized/0025/5119/255119v2-max-150x150.png"],
+      [[140,
+        250],
+       "assets/images/resized/0025/5119/255119v2-max-250x250.png"],
+      [[253,
+        450],
+       "assets/images/resized/0025/5119/255119v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[84,
+        150],
+       "assets/images/resized/0025/5120/255120v2-max-150x150.png"],
+      [[140,
+        250],
+       "assets/images/resized/0025/5120/255120v2-max-250x250.png"],
+      [[253,
+        450],
+       "assets/images/resized/0025/5120/255120v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

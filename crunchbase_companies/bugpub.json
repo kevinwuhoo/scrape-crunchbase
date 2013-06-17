@@ -1,0 +1,94 @@
+{"name": "BugPub",
+ "permalink": "bugpub",
+ "crunchbase_url": "http://www.crunchbase.com/company/bugpub",
+ "homepage_url": "http://bugpub.com",
+ "blog_url": "http://blog.bugpub.com",
+ "blog_feed_url": "http://blog.bugpub.com/feed/",
+ "twitter_username": "bugpub",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "testing, crowdsourced-testing, qa, quality-assurance, hackers, bugs, testers, beta-testing, usability-testing, mobile-testing, cloud-testing",
+ "alias_list": null,
+ "email_address": "bugpub@bugpub.com",
+ "phone_number": "312-772-2508",
+ "description": "Professional Worldwide CrowdTesting",
+ "created_at": "Thu Feb 02 19:01:24 UTC 2012",
+ "updated_at": "Sun Mar 25 22:51:45 UTC 2012",
+ "overview": "\u003Cp\u003EBugPub unlocks affordable, on-demand software testing by professional testers and ethical hackers distributed around the world. According to our research, a cost per bug detection with in-house testing is $50, with Bugpub this cost is ramped down to $15. Our proven community can address any type of testing with very scalable resource allocation from few testers to hundreds testers spread across the globe. Our platform is built with help of cutting edge tools like Jira and variety of test automation apps, so our clients and testers work in very familiar and enterprise-friendly environment.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[97,
+       76],
+      "assets/images/resized/0017/2692/172692v6-max-150x150.jpg"],
+     [[97,
+       76],
+      "assets/images/resized/0017/2692/172692v6-max-250x250.jpg"],
+     [[97,
+       76],
+      "assets/images/resized/0017/2692/172692v6-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Kartashov",
+      "permalink": "peter-kartashov",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Kreynin",
+      "permalink": "steve-kreynin",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "200 S. Wacker Drive, 15th Floor",
+    "address2": "",
+    "zip_code": "60606",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        65],
+       "assets/images/resized/0017/2691/172691v2-max-150x150.png"],
+      [[250,
+        108],
+       "assets/images/resized/0017/2691/172691v2-max-250x250.png"],
+      [[450,
+        196],
+       "assets/images/resized/0017/2691/172691v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

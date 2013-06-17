@@ -1,0 +1,160 @@
+{"name": "Skitch",
+ "permalink": "skitch",
+ "crunchbase_url": "http://www.crunchbase.com/company/skitch",
+ "homepage_url": "http://www.skitch.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Screenshot Sharing service",
+ "created_at": "Mon May 19 19:18:30 UTC 2008",
+ "updated_at": "Wed Mar 21 13:01:44 UTC 2012",
+ "overview": "\u003Cp\u003ESkitch.com is a webservice that works hand in hand with our application Skitch to give you 1-click uploading of images for fast and fun image sharing.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0006/2135/62135v1-max-150x150.png"],
+     [[200,
+       77],
+      "assets/images/resized/0006/2135/62135v1-max-250x250.png"],
+     [[200,
+       77],
+      "assets/images/resized/0006/2135/62135v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "cofounder",
+    "person":
+     {"first_name": "Cris",
+      "last_name": "Pearson",
+      "permalink": "cris-pearson",
+      "image":
+       {"available_sizes":
+         [[[127,
+            150],
+           "assets/images/resized/0014/0113/140113v1-max-150x150.png"],
+          [[129,
+            152],
+           "assets/images/resized/0014/0113/140113v1-max-250x250.png"],
+          [[129,
+            152],
+           "assets/images/resized/0014/0113/140113v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "cofounder",
+    "person":
+     {"first_name": "Keith",
+      "last_name": "Lang",
+      "permalink": "keith-lang",
+      "image":
+       {"available_sizes":
+         [[[150,
+            142],
+           "assets/images/resized/0014/0114/140114v1-max-150x150.png"],
+          [[164,
+            156],
+           "assets/images/resized/0014/0114/140114v1-max-250x250.png"],
+          [[164,
+            156],
+           "assets/images/resized/0014/0114/140114v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ScrnShots",
+      "permalink": "scrnshots",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0001/8826/18826v1-max-150x150.png"],
+          [[183,
+            53],
+           "assets/images/resized/0001/8826/18826v1-max-250x250.png"],
+          [[183,
+            53],
+           "assets/images/resized/0001/8826/18826v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Monkiri",
+      "permalink": "monkiri",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/9930/19930v2-max-150x150.png"],
+          [[246,
+            75],
+           "assets/images/resized/0001/9930/19930v2-max-250x250.png"],
+          [[246,
+            75],
+           "assets/images/resized/0001/9930/19930v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2011/08/18/evernote-acquires-image-sharing-site-skitch/",
+   "source_description": "Evernote Buys Image Sharing App Skitch, Plans On Offering It For Free",
+   "acquired_year": 2011,
+   "acquired_month": 8,
+   "acquired_day": 18,
+   "acquiring_company":
+    {"name": "Evernote",
+     "permalink": "evernote",
+     "image":
+      {"available_sizes":
+        [[[150,
+           77],
+          "assets/images/resized/0001/3178/13178v3-max-150x150.jpg"],
+         [[250,
+           129],
+          "assets/images/resized/0001/3178/13178v3-max-250x250.jpg"],
+         [[315,
+           163],
+          "assets/images/resized/0001/3178/13178v3-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        115],
+       "assets/images/resized/0018/0394/180394v1-max-150x150.jpg"],
+      [[250,
+        192],
+       "assets/images/resized/0018/0394/180394v1-max-250x250.jpg"],
+      [[450,
+        346],
+       "assets/images/resized/0018/0394/180394v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

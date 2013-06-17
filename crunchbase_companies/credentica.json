@@ -1,0 +1,116 @@
+{"name": "Credentica",
+ "permalink": "credentica",
+ "crunchbase_url": "http://www.crunchbase.com/company/credentica",
+ "homepage_url": "http://www.credentica.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "identification, cryptography, authentification, openid",
+ "alias_list": "",
+ "email_address": "info@credentica.com",
+ "phone_number": "",
+ "description": "User Authentication",
+ "created_at": "Sun Mar 09 18:53:56 UTC 2008",
+ "updated_at": "Fri Jun 05 17:41:24 UTC 2009",
+ "overview": "\u003Cp\u003ECredentica is the company behind U-Prove technology, an identification protocol used to verify a user\u0026#8217;s identity online.  The technology can be utilized via a Software Development Kit, and operates by assigning highly secure ID Tokens to individual users. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0001/4937/14937v1-max-150x150.jpg"],
+     [[250,
+       40],
+      "assets/images/resized/0001/4937/14937v1-max-250x250.jpg"],
+     [[254,
+       41],
+      "assets/images/resized/0001/4937/14937v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "UProve SDK",
+    "permalink": "uprove-sdk",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Stefan",
+      "last_name": "Brands",
+      "permalink": "stefan-brands",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "iovation",
+      "permalink": "iovation",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0001/6445/16445v3-max-150x150.png"],
+          [[200,
+            40],
+           "assets/images/resized/0001/6445/16445v3-max-250x250.png"],
+          [[200,
+            40],
+           "assets/images/resized/0001/6445/16445v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://www.credentica.com/",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 3,
+   "acquired_day": 8,
+   "acquiring_company":
+    {"name": "Microsoft",
+     "permalink": "microsoft",
+     "image":
+      {"available_sizes":
+        [[[150,
+           32],
+          "assets/images/resized/0001/0926/10926v11-max-150x150.jpg"],
+         [[250,
+           53],
+          "assets/images/resized/0001/0926/10926v11-max-250x250.jpg"],
+         [[450,
+           96],
+          "assets/images/resized/0001/0926/10926v11-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Montreal",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 45.545447,
+    "longitude": -73.639076}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,81 @@
+{"name": "This is Tech",
+ "permalink": "this-is-tech",
+ "crunchbase_url": "http://www.crunchbase.com/company/this-is-tech",
+ "homepage_url": "http://www.thisistech.com",
+ "blog_url": "",
+ "blog_feed_url": "http://feeds.feedburner.com/thisistech/kDAC",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "iphone, wsgr, app-store, phone-tree-navigation, iphone-security",
+ "alias_list": "",
+ "email_address": "mike@thisistech.com",
+ "phone_number": "206-428-7530",
+ "description": "iPhone Application Developer",
+ "created_at": "Wed Oct 08 02:47:11 UTC 2008",
+ "updated_at": "Thu Apr 02 22:22:26 UTC 2009",
+ "overview": "\u003Cp\u003EThis is Tech builds simple applications for the iPhone and the Web.  Founded by WSGR attorney Michael Schneider, This is Tech is a side project for the attorney to commercialize applications he has written to meet the needs of iPhone users.  This is Tech publishes Direct Line, an iPhone application that automatically navigates users to a customer service person when dialing large companies for customer service.  This is Tech\u0026#8217;s second application, Private-I, allows users to recover their lost or stolen iPhone using the phone\u0026#8217;s built-in GPS location services.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0002/6375/26375v4-max-150x150.jpg"],
+     [[250,
+       69],
+      "assets/images/resized/0002/6375/26375v4-max-250x250.jpg"],
+     [[450,
+       125],
+      "assets/images/resized/0002/6375/26375v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Direct Line",
+    "permalink": "direct-line",
+    "image": null},
+   {"name": "Private-I",
+    "permalink": "private-i",
+    "image": null},
+   {"name": "TouchType",
+    "permalink": "touchtype",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Schneider",
+      "permalink": "michael-schneider-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/nQBkRhk6qEI\u0026hl=en\u0026fs=\u0026ap=%2526fmt%3D6\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/nQBkRhk6qEI\u0026hl=en\u0026fs=\u0026ap=%2526fmt%3D6\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E\r\n\r\n\u003Ca href=\"http://www.appvee.com/t/sms-touch\"\u003E SMS Touch iPhone App Review - AppVee.com\u003C/a\u003E\r\n",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techcrunch.com/2008/09/18/private-i-brings-lojack-to-your-iphone/",
+    "title": "Private-I Review (TechCrunch)"},
+   {"external_url": "http://www.techcrunch.com/2008/08/28/direct-line-saves-iphone-users-from-automated-call-hell/",
+    "title": "Direct Line Review (TechCrunch)"}]}

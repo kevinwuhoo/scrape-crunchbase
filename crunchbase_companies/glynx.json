@@ -1,0 +1,97 @@
+{"name": "Glynx",
+ "permalink": "glynx",
+ "crunchbase_url": "http://www.crunchbase.com/company/glynx",
+ "homepage_url": "http://www.glynx.com/",
+ "blog_url": "http://www.glynx.com/blog",
+ "blog_feed_url": "http://www.glynx.com/feed/recentBlogEntries",
+ "twitter_username": null,
+ "category_code": "public_relations",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "p2p, identity, privacy-control, blackpages, trust, verification, pki",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon Feb 16 15:01:56 UTC 2009",
+ "updated_at": "Sat Feb 21 14:46:37 UTC 2009",
+ "overview": "\u003Cp\u003EGlynx is software you run on your PC to control your online identities and make your internet private.  It is a peer-to-peer identity management system which consists of a contact manager, an IM-like rich presence notification system, and an OpenID credential for Website logins.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[140,
+       139],
+      "assets/images/resized/0003/6286/36286v1-max-150x150.png"],
+     [[140,
+       139],
+      "assets/images/resized/0003/6286/36286v1-max-250x250.png"],
+     [[140,
+       139],
+      "assets/images/resized/0003/6286/36286v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Glynx Personal",
+    "permalink": "glynx-personal",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Malcolm",
+      "last_name": "Allen",
+      "permalink": "malcolm-allen",
+      "image":
+       {"available_sizes":
+         [[[147,
+            150],
+           "assets/images/resized/0015/1014/151014v2-max-150x150.jpg"],
+          [[245,
+            250],
+           "assets/images/resized/0015/1014/151014v2-max-250x250.jpg"],
+          [[442,
+            450],
+           "assets/images/resized/0015/1014/151014v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Rolan",
+      "permalink": "greg-rolan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Melbourne",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -37.841345,
+    "longitude": 144.977417}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

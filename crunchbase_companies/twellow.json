@@ -1,0 +1,115 @@
+{"name": "Twellow",
+ "permalink": "twellow",
+ "crunchbase_url": "http://www.crunchbase.com/company/twellow",
+ "homepage_url": "http://www.twellow.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, people-search",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Jun 25 00:26:57 UTC 2008",
+ "updated_at": "Thu Aug 04 20:21:46 UTC 2011",
+ "overview": "\u003Cp\u003ETwellow is a people search tool for the micro-blogging service Twitter.  The service grabs publicly available messages from Twitter.com and then analyzes and categorizes each of the users responsible for those messages into various categories. This aims to help you narrow your searching.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0002/0944/20944v1-max-150x150.jpg"],
+     [[250,
+       69],
+      "assets/images/resized/0002/0944/20944v1-max-250x250.jpg"],
+     [[370,
+       103],
+      "assets/images/resized/0002/0944/20944v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Twellow",
+    "permalink": "twellow",
+    "image":
+     {"available_sizes":
+       [[[150,
+          34],
+         "assets/images/resized/0014/7322/147322v2-max-150x150.png"],
+        [[242,
+          55],
+         "assets/images/resized/0014/7322/147322v2-max-250x250.png"],
+        [[242,
+          55],
+         "assets/images/resized/0014/7322/147322v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Mr. Tweet",
+      "permalink": "mr-tweet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0003/0256/30256v1-max-150x150.png"],
+          [[250,
+            55],
+           "assets/images/resized/0003/0256/30256v1-max-250x250.png"],
+          [[282,
+            63],
+           "assets/images/resized/0003/0256/30256v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TweetWagon",
+      "permalink": "tweetwagon",
+      "image":
+       {"available_sizes":
+         [[[127,
+            80],
+           "assets/images/resized/0004/6588/46588v2-max-150x150.jpg"],
+          [[127,
+            80],
+           "assets/images/resized/0004/6588/46588v2-max-250x250.jpg"],
+          [[127,
+            80],
+           "assets/images/resized/0004/6588/46588v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Lexington",
+    "state_code": "KY",
+    "country_code": "USA",
+    "latitude": 38.048906,
+    "longitude": -84.499838}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cembed width=\"297\" height=\"176\" flashvars=\"config=http%3A%2F%2Fvideos.webpronews.com%2Fvideo%2Fjwplayer%2Fconfig.xml\u0026file=http%3A%2F%2Fvideos.webpronews.com%2Fvideo%2Fplaylist.php%3Fmovie_name%3Dtwellow2\" allowfullscreen=\"true\" allowscriptaccess=\"always\" src=\"http://videos.webpronews.com/video/jwplayer/player.swf\"\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://twitter.dupedb.com/",
+    "title": "Twitter Profiles"}]}

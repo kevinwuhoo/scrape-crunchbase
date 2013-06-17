@@ -1,0 +1,140 @@
+{"name": "12seconds",
+ "permalink": "12seconds",
+ "crunchbase_url": "http://www.crunchbase.com/company/12seconds",
+ "homepage_url": "http://12seconds.tv",
+ "blog_url": "http://blog.12seconds.tv",
+ "blog_feed_url": "http://12seconds.wordpress.com/feed/",
+ "twitter_username": "12seconds",
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, messaging, micro-blogging, 12seconds",
+ "alias_list": "",
+ "email_address": "info@12seconds.tv",
+ "phone_number": "",
+ "description": "Twitter in Video",
+ "created_at": "Thu Jul 24 05:30:18 UTC 2008",
+ "updated_at": "Tue Apr 02 12:02:52 UTC 2013",
+ "overview": "\u003Cp\u003E12seconds.tv is a Twitter-like video status service.  It gives you 12 seconds to share video moments from your life.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0002/2678/22678v1-max-150x150.png"],
+     [[248,
+       51],
+      "assets/images/resized/0002/2678/22678v1-max-250x250.png"],
+     [[248,
+       51],
+      "assets/images/resized/0002/2678/22678v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "12seconds",
+    "permalink": "12seconds",
+    "image": null},
+   {"name": "12seconds iPhone App",
+    "permalink": "12seconds-iphone-app",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Beach",
+      "permalink": "david-beach",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0002/9732/29732v2-max-150x150.png"],
+          [[250,
+            187],
+           "assets/images/resized/0002/9732/29732v2-max-250x250.png"],
+          [[450,
+            336],
+           "assets/images/resized/0002/9732/29732v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sol",
+      "last_name": "Lipman",
+      "permalink": "sol-lipman",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0003/2764/32764v3-max-150x150.png"],
+          [[177,
+            250],
+           "assets/images/resized/0003/2764/32764v3-max-250x250.png"],
+          [[239,
+            337],
+           "assets/images/resized/0003/2764/32764v3-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder, Lead Developer",
+    "person":
+     {"first_name": "Jacob",
+      "last_name": "Knobel",
+      "permalink": "jacob-knobel",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0003/2744/32744v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0003/2744/32744v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0003/2744/32744v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Phreadz",
+      "permalink": "phreadz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/9259/19259v1-max-150x150.png"],
+          [[211,
+            55],
+           "assets/images/resized/0001/9259/19259v1-max-250x250.png"],
+          [[211,
+            55],
+           "assets/images/resized/0001/9259/19259v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject type=\"application/x-shockwave-flash\" data=\"http://embed.12seconds.tv/players/remotePlayer.swf\" width=\"430\" height=\"360\" \u003E\u003Cparam name=\"movie\" value=\"http://embed.12seconds.tv/players/remotePlayer.swf\" /\u003E\u003Cparam name=\"FlashVars\" value=\"vid=4139\"/\u003E\u003Cembed src=\"http://embed.12seconds.tv/players/remotePlayer.swf\" width=\"430\" height=\"360\" flashvars=\"vid=4139\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cbr\u003E\u003Ca href=\"http://12seconds.tv/channel/sol/4139\"\u003Ewhat is 12seconds?\u003C/a\u003E on \u003Ca href=\"http://embed.12seconds.tv\"\u003E12seconds.tv\u003C/a\u003E",
+    "description": ""},
+   {"embed_code": "\u003Cobject type=\"application/x-shockwave-flash\" data=\"http://embed.12seconds.tv/players/remotePlayer.swf\" width=\"430\" height=\"360\" \u003E\u003Cparam name=\"movie\" value=\"http://embed.12seconds.tv/players/remotePlayer.swf\" /\u003E\u003Cparam name=\"FlashVars\" value=\"vid=4125\"/\u003E\u003Cembed src=\"http://embed.12seconds.tv/players/remotePlayer.swf\" width=\"430\" height=\"360\" flashvars=\"vid=4125\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cbr\u003E\u003Ca href=\"http://12seconds.tv/channel/sol/4125\"\u003Ecorndogs\u003C/a\u003E on \u003Ca href=\"http://embed.12seconds.tv\"\u003E12seconds.tv\u003C/a\u003E",
+    "description": ""},
+   {"embed_code": "\u003Cobject type=\"application/x-shockwave-flash\" data=\"http://embed.12seconds.tv/players/remotePlayer.swf\" width=\"430\" height=\"360\" \u003E\u003Cparam name=\"movie\" value=\"http://embed.12seconds.tv/players/remotePlayer.swf\" /\u003E\u003Cparam name=\"FlashVars\" value=\"vid=4115\"/\u003E\u003Cembed src=\"http://embed.12seconds.tv/players/remotePlayer.swf\" width=\"430\" height=\"360\" flashvars=\"vid=4115\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cbr\u003E\u003Ca href=\"http://12seconds.tv/channel/sol/4115\"\u003Euse your mobile phone\u003C/a\u003E on \u003Ca href=\"http://embed.12seconds.tv\"\u003E12seconds.tv\u003C/a\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

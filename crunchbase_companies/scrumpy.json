@@ -1,0 +1,105 @@
+{"name": "Scrumpy",
+ "permalink": "scrumpy",
+ "crunchbase_url": "http://www.crunchbase.com/company/scrumpy",
+ "homepage_url": "http://www.scrumpyapp.com/",
+ "blog_url": "http://scrumpy.posterous.com/",
+ "blog_feed_url": "http://feeds.feedburner.com/ScrumpyBlog",
+ "twitter_username": "scrumpyapp",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "project-management, todo-lists, teamwork, productivity, tasks, projects",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Simple task management and to-do list",
+ "created_at": "Wed Feb 24 13:39:28 UTC 2010",
+ "updated_at": "Thu Feb 25 21:06:49 UTC 2010",
+ "overview": "\u003Cp\u003EScrumpy is a web application to allow teams and individuals to work together on projects. Based around a simple taskboard with threaded discussions, Scrumpy makes team working easy, whether it\u0026#8217;s on technical projects or a village fete.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0007/8280/78280v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0007/8280/78280v2-max-250x250.jpg"],
+     [[370,
+       370],
+      "assets/images/resized/0007/8280/78280v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Gilman",
+      "permalink": "ben-gilman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Walker",
+      "permalink": "dave-walker",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Remember The Milk",
+      "permalink": "remember-the-milk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/9117/29117v2-max-150x150.png"],
+          [[188,
+            83],
+           "assets/images/resized/0002/9117/29117v2-max-250x250.png"],
+          [[188,
+            83],
+           "assets/images/resized/0002/9117/29117v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

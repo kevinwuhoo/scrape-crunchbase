@@ -1,0 +1,219 @@
+{"name": "clearTXT",
+ "permalink": "cleartxt",
+ "crunchbase_url": "http://www.crunchbase.com/company/cleartxt",
+ "homepage_url": "http://www.zenect.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 4,
+ "founded_year": 2003,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "text, messaging, social, sms, mobile-marketing, community, micro-blog",
+ "alias_list": null,
+ "email_address": "info@clearTXT.com",
+ "phone_number": "866-472-1901",
+ "description": null,
+ "created_at": "Fri Nov 07 15:00:55 UTC 2008",
+ "updated_at": "Sat Jun 02 02:06:52 UTC 2012",
+ "overview": "\u003Cp\u003EclearTXT develops mobile messaging and mobile marketing solutions. Its latest product, Zenect lets anyone to create their own micro-blog and mobile marketing network in seconds.\u003C/p\u003E\n\n\u003Cp\u003EFounded in 2003 by Dr. Doug Kaufman, clearTXT was one of the first companies to provide mobile messaging services to the higher education community (highlights of interview with Robert Scoble: http://www.podtech.net/scobleshow/technology/1685/highlights-of-cleartxt-interview). With clearTXT, students received class announcements, assignments, grades, campus updates, and emergency alerts on their mobile phones as text messages. The higher education business was sold to Rave Wireless in 2008, enabling clearTXT to focus on Zenect. \u003C/p\u003E\n\n\u003Cp\u003EZenect combines the popularity of SMS and micro-blogs with a completely unique, self-service mobile marketing system to give anyone the ability to create an unlimited number of micro-blogs for any purpose, and run their own mobile marketing network in seconds. It\u0026#8217;s this self-service mobile marketing network that sets Zenect apart - modeled after Google Adwords/Adsense, but designed for SMS and mobile phones rather than online or the mobile web. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0002/8017/28017v2-max-150x150.jpg"],
+     [[225,
+       84],
+      "assets/images/resized/0002/8017/28017v2-max-250x250.jpg"],
+     [[225,
+       84],
+      "assets/images/resized/0002/8017/28017v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Zenect",
+    "permalink": "zenect",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and Founder",
+    "person":
+     {"first_name": "Doug",
+      "last_name": "Kaufman",
+      "permalink": "doug-kaufman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Technology",
+    "person":
+     {"first_name": "Anthony",
+      "last_name": "DiMarco",
+      "permalink": "anthony-dimarco",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Product Development",
+    "person":
+     {"first_name": "Brandon",
+      "last_name": "Crafts",
+      "permalink": "brandon-crafts",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pownce",
+      "permalink": "pownce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0000/0925/925v1-max-150x150.png"],
+          [[250,
+            87],
+           "assets/images/resized/0000/0925/925v1-max-250x250.png"],
+          [[285,
+            100],
+           "assets/images/resized/0000/0925/925v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "4INFO",
+      "permalink": "4info",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0000/0205/205v8-max-150x150.jpg"],
+          [[150,
+            50],
+           "assets/images/resized/0000/0205/205v8-max-250x250.jpg"],
+          [[150,
+            50],
+           "assets/images/resized/0000/0205/205v8-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AdMob",
+      "permalink": "admob",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0000/0172/172v5-max-150x150.png"],
+          [[250,
+            81],
+           "assets/images/resized/0000/0172/172v5-max-250x250.png"],
+          [[300,
+            98],
+           "assets/images/resized/0000/0172/172v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MoVoxx",
+      "permalink": "movoxx",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0002/5043/25043v6-max-150x150.jpg"],
+          [[250,
+            107],
+           "assets/images/resized/0002/5043/25043v6-max-250x250.jpg"],
+          [[450,
+            192],
+           "assets/images/resized/0002/5043/25043v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zeep Mobile",
+      "permalink": "zeep-mobile",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/4255/24255v2-max-150x150.png"],
+          [[210,
+            63],
+           "assets/images/resized/0002/4255/24255v2-max-250x250.png"],
+          [[210,
+            63],
+           "assets/images/resized/0002/4255/24255v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mobivity",
+      "permalink": "mobivity",
+      "image":
+       {"available_sizes":
+         [[[143,
+            59],
+           "assets/images/resized/0002/6126/26126v7-max-150x150.png"],
+          [[143,
+            59],
+           "assets/images/resized/0002/6126/26126v7-max-250x250.png"],
+          [[143,
+            59],
+           "assets/images/resized/0002/6126/26126v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Hutchison Law Group",
+      "permalink": "hutchison-law-group",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0001/7999/17999v1-max-150x150.jpg"],
+          [[195,
+            89],
+           "assets/images/resized/0001/7999/17999v1-max-250x250.jpg"],
+          [[195,
+            89],
+           "assets/images/resized/0001/7999/17999v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"title": "PR",
+    "is_past": false,
+    "provider":
+     {"name": "SRK Communications",
+      "permalink": "srk-communications",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "133 Keybridge Dr",
+    "address2": "Suite C",
+    "zip_code": "27560",
+    "city": "Morrisville",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": 35.820365,
+    "longitude": -78.821516}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,106 @@
+{"name": "NewsCurve",
+ "permalink": "newscurve",
+ "crunchbase_url": "http://www.crunchbase.com/company/newscurve",
+ "homepage_url": "http://newscurve.com",
+ "blog_url": "http://newscurve.com/blog",
+ "blog_feed_url": "http://www.newscurve.com/blog/feed/index.rss",
+ "twitter_username": "newscurve",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-time, analytics, online-media, publishers, content-metrics",
+ "alias_list": null,
+ "email_address": "hi@newscurve.com",
+ "phone_number": "381 11 3115020",
+ "description": "Content metrics for publishers",
+ "created_at": "Mon Jun 13 09:02:05 UTC 2011",
+ "updated_at": "Sat Jun 18 14:28:17 UTC 2011",
+ "overview": "\u003Cp\u003ENewsCurve helps publishers and online media understand and measure which content, topics, and authors are driving the most attention and engagement from their audience. \u003C/p\u003E\n\n\u003Cp\u003EBy providing content effectiveness metrics, the key benefit is to generate analytic results more efficiently and allow editorial team to recognize content failure quickly, recover quickly, and react just in time by discovering insights on content, topics, and authors that generate engagement. \u003C/p\u003E\n\n\u003Cp\u003EAs a key benefit, publishers can increase audience reach and penetration, thus having more opened pages on the site.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Boris",
+      "last_name": "Krstovic",
+      "permalink": "boris-krstovic",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Slobodan",
+      "last_name": "Utvic",
+      "permalink": "slobodan-utvic",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.finsmes.com/2012/05/neodata-group-acquires-newscurve.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+   "source_description": "Neodata Group Acquires Newscurve",
+   "acquired_year": 2012,
+   "acquired_month": 5,
+   "acquired_day": 23,
+   "acquiring_company":
+    {"name": "Neodata",
+     "permalink": "neodata",
+     "image":
+      {"available_sizes":
+        [[[150,
+           41],
+          "assets/images/resized/0017/4472/174472v3-max-150x150.png"],
+         [[250,
+           69],
+          "assets/images/resized/0017/4472/174472v3-max-250x250.png"],
+         [[450,
+           124],
+          "assets/images/resized/0017/4472/174472v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "P. Solidarnosti 24",
+    "address2": "",
+    "zip_code": "11070",
+    "city": "Beograd",
+    "state_code": null,
+    "country_code": "CSS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        125],
+       "assets/images/resized/0013/8850/138850v2-max-150x150.png"],
+      [[250,
+        208],
+       "assets/images/resized/0013/8850/138850v2-max-250x250.png"],
+      [[450,
+        376],
+       "assets/images/resized/0013/8850/138850v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,117 @@
+{"name": "Clef",
+ "permalink": "clef",
+ "crunchbase_url": "http://www.crunchbase.com/company/clef",
+ "homepage_url": "http://getclef.com",
+ "blog_url": "http://blog.getclef.com",
+ "blog_feed_url": "",
+ "twitter_username": "getclef",
+ "category_code": "mobile",
+ "number_of_employees": 5,
+ "founded_year": 2013,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, security, internet, infrastructure",
+ "alias_list": null,
+ "email_address": "info@getclef.com",
+ "phone_number": "415-580-2533",
+ "description": "Replacement for usernames and passwords",
+ "created_at": "Sat Jun 01 19:18:11 UTC 2013",
+ "updated_at": "Tue Jun 04 00:00:16 UTC 2013",
+ "overview": "\u003Cp\u003EClef is a replacement for usernames and passwords online. It works to make logging in safer and easier by providing a smartphone app that lets a site recognize users based on their phone instead of anything they have to type or remember. A user waves their phone in front of the screen and is immediately logged in. Once a user has logged into one site with Clef, they are also automatically logged in to every site in the Clef network. In addition to this ease and convenience, Clef uses the phone\u0026#8217;s hardware to authenticate with cryptography and make the process much more secure. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0027/0143/270143v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0027/0143/270143v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0027/0143/270143v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Brennen",
+      "last_name": "Byrne",
+      "permalink": "brennen-byrne",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0023/1556/231556v2-max-150x150.jpg"],
+          [[248,
+            248],
+           "assets/images/resized/0023/1556/231556v2-max-250x250.jpg"],
+          [[248,
+            248],
+           "assets/images/resized/0023/1556/231556v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EBrennen\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Hudnall",
+      "permalink": "mark-hudnall",
+      "image": null}},
+   {"is_past": false,
+    "title": "CPO",
+    "person":
+     {"first_name": "Jesse",
+      "last_name": "Pollak",
+      "permalink": "jesse-pollak",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Doty, Barlow, Britt, and Thieman",
+      "permalink": "doty-barlow-britt-and-thieman",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "SOMA",
+    "address1": "199B 2nd Street",
+    "address2": "",
+    "zip_code": "94105",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7869539,
+    "longitude": -122.3982952}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[84,
+        150],
+       "assets/images/resized/0027/0142/270142v2-max-150x150.png"],
+      [[140,
+        250],
+       "assets/images/resized/0027/0142/270142v2-max-250x250.png"],
+      [[253,
+        450],
+       "assets/images/resized/0027/0142/270142v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

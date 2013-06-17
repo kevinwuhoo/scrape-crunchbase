@@ -1,0 +1,95 @@
+{"name": "Freebase",
+ "permalink": "freebase",
+ "crunchbase_url": "http://www.crunchbase.com/company/freebase",
+ "homepage_url": "http://freebase.com/",
+ "blog_url": "http://blog.freebase.com/",
+ "blog_feed_url": "http://blog.freebase.com/feed/",
+ "twitter_username": "fbase",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue May 11 04:36:20 UTC 2010",
+ "updated_at": "Sat Jun 23 23:38:46 UTC 2012",
+ "overview": "\u003Cp\u003EFreebase is a large collaborative knowledge base consisting of metadata composed mainly by its community members. It is an online collection of structured data harvested from many sources, including individual \u0026#8216;wiki\u0026#8217; contributions. Freebase aims to create a global resource which allows people (and machines) to access common information more effectively. It was developed by the American software company Metaweb and has been running publicly since March 2007. Metaweb was acquired by Google in a private sale announced July 16, 2010.\nFreebase data is available for free/libre for commercial and non-commercial use under a Creative Commons Attribution License, and an open API, RDF endpoint, and database dump are provided for programmers. Google\u0026#8217;s News Timeline includes media information from Freebase.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0008/6911/86911v2-max-150x150.png"],
+     [[220,
+       90],
+      "assets/images/resized/0008/6911/86911v2-max-250x250.png"],
+     [[220,
+       90],
+      "assets/images/resized/0008/6911/86911v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$42M",
+ "funding_rounds":
+  [{"round_code": "b",
+    "source_url": "http://techcrunch.com/2008/01/16/freebase-takes-42-million/",
+    "source_description": "techcrunch",
+    "raised_amount": 42000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 16,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://blog.freebase.com/2010/07/16/metaweb-joins-google/",
+   "source_description": "Metaweb joins Google",
+   "acquired_year": 2010,
+   "acquired_month": 7,
+   "acquired_day": 16,
+   "acquiring_company":
+    {"name": "Google",
+     "permalink": "google",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+         [[250,
+           85],
+          "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+         [[450,
+           154],
+          "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,131 @@
+{"name": "Nessos - {m}brace the cloud",
+ "permalink": "nessos-m-brace-the-cloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/nessos-m-brace-the-cloud",
+ "homepage_url": "http://www.m-brace.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mbracethecloud",
+ "category_code": "software",
+ "number_of_employees": 14,
+ "founded_year": 2001,
+ "founded_month": 12,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, big-data, development-framework, functional-programming, f",
+ "alias_list": null,
+ "email_address": "ppetrogian@nessos.gr",
+ "phone_number": "+30 2108847000",
+ "description": "A big data framework for the cloud",
+ "created_at": "Sat Apr 20 15:56:29 UTC 2013",
+ "updated_at": "Tue Apr 30 10:23:41 UTC 2013",
+ "overview": "\u003Cp\u003E{m}brace is a big data framework for private and public clouds. \u003C/p\u003E\n\n\u003Cp\u003E{m}brace is similar to Hadoop in functionality but its main difference is that it is not confined to the map-reduce programming paradigm. It is taking care of all things that have to do with task orchestration and data flow between computer nodes, allowing the user to deal just with the algorithm that he wants to execute. Moreover, it abstracts the underlying cloud infrastructure which means that any code developed using {m}brace can either run on a private or a public cloud that is supported.\u003C/p\u003E\n\n\u003Cp\u003E{m}brace is also providing the mbrace shell where someone can delve into REPL style programming which enables fast code prototyping in a cloud scale. Moreover it enables you to monitor your computer nodes, deploy new code and get information about the jobs that are currently executing.\u003C/p\u003E\n\n\u003Cp\u003E{m}brace also offers superior performance compared to the competition, providing upto 2x faster running times compared with Hadoop in various big data benchmarking algorithms.\u003C/p\u003E\n\n\u003Cp\u003EUse {m}brace to:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EHarness the computational power of contemporary compute farms \u003C/li\u003E\n\u003Cli\u003EBoost productivity by giving the developer a simple, streamlined programming experience\u003C/li\u003E\n\u003Cli\u003EFacilitate the utilization of legacy code to distributed parallel environments\u003C/li\u003E\n\u003Cli\u003EGain maximum performance from your computer nodes\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003E{m}brace is the flagship of Nessos, a highly qualified software development company, based mostly on Microsoft .NET with C# and F# as languages of choice. Nessos excels in custom integrated solutions with advanced software engineering requirements and has developed applications in a variety of business sectors.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Kostas",
+      "last_name": "Rammos",
+      "permalink": "kostas-rammos",
+      "image": null}},
+   {"is_past": true,
+    "title": "Technical Director",
+    "person":
+     {"first_name": "Pantelis",
+      "last_name": "Petrogiannakis",
+      "permalink": "pantelis-petrogiannakis",
+      "image": null}},
+   {"is_past": true,
+    "title": "President",
+    "person":
+     {"first_name": "Apostolos",
+      "last_name": "Zafiris",
+      "permalink": "apostolos-zafiris",
+      "image": null}},
+   {"is_past": true,
+    "title": "{m}bracethecloud Product manager",
+    "person":
+     {"first_name": "George",
+      "last_name": "Stavroulakis",
+      "permalink": "george-stavroulakis",
+      "image": null}},
+   {"is_past": true,
+    "title": "{m}bracethecloud lead engineer",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Palladinos",
+      "permalink": "nick-palladinos",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Hadoop",
+      "permalink": "hadoop",
+      "image": null}},
+   {"competitor":
+     {"name": "Typesafe",
+      "permalink": "typesafe",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0013/4436/134436v1-max-150x150.png"],
+          [[197,
+            47],
+           "assets/images/resized/0013/4436/134436v1-max-250x250.png"],
+          [[197,
+            47],
+           "assets/images/resized/0013/4436/134436v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GridGain Systems",
+      "permalink": "gridgain-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0012/4902/124902v4-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0012/4902/124902v4-max-250x250.png"],
+          [[450,
+            108],
+           "assets/images/resized/0012/4902/124902v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "89 patision avenue",
+    "address2": "",
+    "zip_code": "10434",
+    "city": "Athens",
+    "state_code": null,
+    "country_code": "GRC",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "http://www.youtube.com/watch?v=13_4EUJ0v4A",
+    "description": "\u003Cp\u003E{m}brace demo\u003C/p\u003E"},
+   {"embed_code": "http://www.youtube.com/watch?v=0rgo37rbQQU",
+    "description": "\u003Cp\u003E{m}brace overview\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.m-brace.net",
+    "title": "{m}bracethecloud"}]}

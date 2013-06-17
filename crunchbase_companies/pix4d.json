@@ -1,0 +1,96 @@
+{"name": "Pix4D",
+ "permalink": "pix4d",
+ "crunchbase_url": "http://www.crunchbase.com/company/pix4d",
+ "homepage_url": "http://www.pix4d.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "pix4d",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "uav, drone, mapping, gis, image-processing, computer-vision, maps, photogrammetry",
+ "alias_list": null,
+ "email_address": "info@pix4d.com",
+ "phone_number": "+41 22 548 39 40",
+ "description": "UAV mapping software",
+ "created_at": "Thu Aug 30 07:18:00 UTC 2012",
+ "updated_at": "Tue Sep 04 13:31:13 UTC 2012",
+ "overview": "\u003Cp\u003EPix4D developed Pix4UAV, a unique software package that converts thousands of standard pictures, taken by readily available drones, into a professional geo-referenced image and a highly accurate 3D model. Pix4D truly enables civilian UAVs as the next-generation mapping and surveying tool.\u003C/p\u003E\n\n\u003Cp\u003EToday, lightweight flying platforms such as civil drones and UAVs are increasingly used to provide aerial photography in the mining industry, for civil engineering, precision farming and urban areas modeling.\u003C/p\u003E\n\n\u003Cp\u003EPix4UAV is available both as a Cloud Service and as a Desktop License.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0020/8858/208858v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0020/8858/208858v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0020/8858/208858v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2.4M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://pix4d.com/press_release.html",
+    "source_description": "pix4d press release",
+    "raised_amount": 2400000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 7,
+    "funded_day": 18,
+    "investments":
+     [{"company":
+        {"name": "Parrot",
+         "permalink": "parrot",
+         "image":
+          {"available_sizes":
+            [[[150,
+               45],
+              "assets/images/resized/0011/5228/115228v3-max-150x150.png"],
+             [[250,
+               76],
+              "assets/images/resized/0011/5228/115228v3-max-250x250.png"],
+             [[450,
+               137],
+              "assets/images/resized/0011/5228/115228v3-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Chemin de la Raye 13",
+    "address2": "",
+    "zip_code": "1024",
+    "city": "Ecublens",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

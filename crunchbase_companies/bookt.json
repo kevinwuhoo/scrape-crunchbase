@@ -1,0 +1,117 @@
+{"name": "Bookt",
+ "permalink": "bookt",
+ "crunchbase_url": "http://www.crunchbase.com/company/bookt",
+ "homepage_url": "http://www.instamanager.com",
+ "blog_url": "http://www.bookt.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "bookt_solid",
+ "category_code": "enterprise",
+ "number_of_employees": 11,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, saas, big-data, cloud-services, marketing, enterprise",
+ "alias_list": null,
+ "email_address": "info@bookt.com",
+ "phone_number": "305 760 4576",
+ "description": "Cloud based Lodging Technology",
+ "created_at": "Sun Feb 12 21:10:03 UTC 2012",
+ "updated_at": "Tue Feb 14 03:48:34 UTC 2012",
+ "overview": "\u003Cp\u003EBookt delivers marketing and operational technology to lodging companies through the cloud.\u003C/p\u003E\n\n\u003Cp\u003EBookt primary product is instamanager (www.instamanager.com) for Vacation Rental Managers around the globe and is delivered in partnership with FlipKey and TripAdvisor.com\u003C/p\u003E\n\n\u003Cp\u003EBookt is founded by a team that have experience building and running large scale enterprise and consumer website solutions.\u003C/p\u003E\n\n\u003Cp\u003EBecause Bookt has a 360 degree view of our customers operational data, the company have unique abilities to analyze and optimize their clients\u0026#8217; performance through its proprietary data algorithms.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Kall",
+      "permalink": "rob-kall",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Strum",
+      "permalink": "ben-strum",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Escapia",
+      "permalink": "escapia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0001/2175/12175v3-max-150x150.png"],
+          [[225,
+            92],
+           "assets/images/resized/0001/2175/12175v3-max-250x250.png"],
+          [[225,
+            92],
+           "assets/images/resized/0001/2175/12175v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LiveRez",
+      "permalink": "liverez",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0020/0787/200787v2-max-150x150.jpg"],
+          [[250,
+            72],
+           "assets/images/resized/0020/0787/200787v2-max-250x250.jpg"],
+          [[450,
+            130],
+           "assets/images/resized/0020/0787/200787v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kigo.Net",
+      "permalink": "kigo-net",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Bookt Headquarters",
+    "address1": "2450 Hollywood Blvd ",
+    "address2": "Suite #201",
+    "zip_code": "33020",
+    "city": "Hollywood",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/f-xnxKjgN1A\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EInstaManager Overview\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[63,
+        150],
+       "assets/images/resized/0017/4063/174063v2-max-150x150.png"],
+      [[106,
+        250],
+       "assets/images/resized/0017/4063/174063v2-max-250x250.png"],
+      [[191,
+        450],
+       "assets/images/resized/0017/4063/174063v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

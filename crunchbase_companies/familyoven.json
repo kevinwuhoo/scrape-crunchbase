@@ -1,0 +1,163 @@
+{"name": "FamilyOven",
+ "permalink": "familyoven",
+ "crunchbase_url": "http://www.crunchbase.com/company/familyoven",
+ "homepage_url": "http://www.familyoven.com/",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cooking, recipe",
+ "alias_list": null,
+ "email_address": "info@familyoven.com",
+ "phone_number": null,
+ "description": null,
+ "created_at": "Thu Nov 15 14:14:39 UTC 2007",
+ "updated_at": "Sat May 24 00:53:19 UTC 2008",
+ "overview": "\u003Cp\u003EFamilyOven is recipe website. It contains over 500,000 recipes uploaded by users and gathered from other websites like Allrecipes and RecipeZaar. Recipes are searchable and browseable by keyword and by the name of ingredients you want to include or exclude. FamilyOven is also a social network. Users can create profile pages with their favorite recipes, food related videos, and standard friends list and wall for comments. Videos are also aggregated and searchable. \u003C/p\u003E\n\n\u003Cp\u003EFamilyOven\u0026#8217;s competitors include \u003Ca href=\"http://www.crunchbase.com/company/recipezaar\" title=\"Recipe Zaar\"\u003ERecipe Zaar\u003C/a\u003E and \u003Ca href=\"http://www.techcrunch.com/2007/09/28/cooking-with-video-on-cookshowcom-2/\" title=\"Cookshow\"\u003ECookshow\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0000/2146/2146v1-max-150x150.png"],
+     [[189,
+       58],
+      "assets/images/resized/0000/2146/2146v1-max-250x250.png"],
+     [[189,
+       58],
+      "assets/images/resized/0000/2146/2146v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "FamilyOven",
+    "permalink": "familyoven",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Shadmand",
+      "permalink": "sean-shadmand",
+      "image":
+       {"available_sizes":
+         [[[131,
+            130],
+           "assets/images/resized/0016/4086/164086v2-max-150x150.png"],
+          [[131,
+            130],
+           "assets/images/resized/0016/4086/164086v2-max-250x250.png"],
+          [[131,
+            130],
+           "assets/images/resized/0016/4086/164086v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Isaac",
+      "last_name": "Mosquera",
+      "permalink": "isaac-mosquera",
+      "image": null}},
+   {"is_past": null,
+    "title": "",
+    "person":
+     {"first_name": "Lalia",
+      "last_name": "Fitare",
+      "permalink": "lalia-fitare",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Recipezaar",
+      "permalink": "recipezaar",
+      "image":
+       {"available_sizes":
+         [[[147,
+            100],
+           "assets/images/resized/0000/3613/3613v1-max-150x150.jpg"],
+          [[147,
+            100],
+           "assets/images/resized/0000/3613/3613v1-max-250x250.jpg"],
+          [[147,
+            100],
+           "assets/images/resized/0000/3613/3613v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "RecipeMatcher",
+      "permalink": "recipematcher",
+      "image":
+       {"available_sizes":
+         [[[150,
+            114],
+           "assets/images/resized/0002/4449/24449v2-max-150x150.jpg"],
+          [[250,
+            190],
+           "assets/images/resized/0002/4449/24449v2-max-250x250.jpg"],
+          [[450,
+            342],
+           "assets/images/resized/0002/4449/24449v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Epicurious",
+      "permalink": "epicurious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0001/2995/12995v1-max-150x150.png"],
+          [[250,
+            57],
+           "assets/images/resized/0001/2995/12995v1-max-250x250.png"],
+          [[319,
+            73],
+           "assets/images/resized/0001/2995/12995v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FoodNetwork.com",
+      "permalink": "foodnetwork-com",
+      "image":
+       {"available_sizes":
+         [[[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-150x150.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-250x250.jpg"],
+          [[129,
+            103],
+           "assets/images/resized/0011/8555/118555v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": "20172",
+    "city": "Herndon",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": 38.9209,
+    "longitude": -77.3953}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

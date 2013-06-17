@@ -1,0 +1,106 @@
+{"name": "ByteLight",
+ "permalink": "bytelight",
+ "crunchbase_url": "http://www.crunchbase.com/company/bytelight",
+ "homepage_url": "http://www.bytelight.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ByteLight",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@bytelight.com",
+ "phone_number": "",
+ "description": "Indoor Location with Light",
+ "created_at": "Thu Jul 12 17:23:56 UTC 2012",
+ "updated_at": "Wed Apr 03 19:03:31 UTC 2013",
+ "overview": "\u003Cp\u003EUse the existing overhead lights to pinpoint the location of your mobile device indoors. ByteLight empowers developers with the ability to build better location awareness into their apps.\u003C/p\u003E\n\n\u003Cp\u003EFind out where your friends are at a conference. Enter your shopping list and use an app to navigate to each product. Go to an art gallery and learn more about the piece you\u0026#8217;re standing in front of. Never get lost inside a building again.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       108],
+      "assets/images/resized/0020/0549/200549v2-max-150x150.png"],
+     [[250,
+       180],
+      "assets/images/resized/0020/0549/200549v2-max-250x250.png"],
+     [[450,
+       325],
+      "assets/images/resized/0020/0549/200549v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Ryan",
+      "permalink": "dan-ryan-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Aaron",
+      "last_name": "Ganick",
+      "permalink": "aaron-ganick",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "MarComm",
+    "is_past": false,
+    "provider":
+     {"name": "Beantown Media Ventures",
+      "permalink": "beantown-media-ventures",
+      "image": null}}],
+ "total_money_raised": "$1.25M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.finsmes.com/2012/10/bytelight-raises-1-25m-funding.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "ByteLight Raises $1.25M in Funding",
+    "raised_amount": 1250000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 10,
+    "funded_day": 16,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "VantagePoint Capital Partners",
+         "permalink": "vantagepoint-capital-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               38],
+              "assets/images/resized/0001/0782/10782v3-max-150x150.png"],
+             [[250,
+               64],
+              "assets/images/resized/0001/0782/10782v3-max-250x250.png"],
+             [[254,
+               66],
+              "assets/images/resized/0001/0782/10782v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

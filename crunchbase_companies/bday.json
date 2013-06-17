@@ -1,0 +1,113 @@
+{"name": "Bday",
+ "permalink": "bday",
+ "crunchbase_url": "http://www.crunchbase.com/company/bday",
+ "homepage_url": "http://www.bdayteam.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "tomer@bdayteam.com",
+ "phone_number": "+972.52.6364213",
+ "description": "social gifts platform",
+ "created_at": "Wed Nov 16 09:11:03 UTC 2011",
+ "updated_at": "Thu Feb 02 02:19:25 UTC 2012",
+ "overview": "\u003Cp\u003EBday is a social group-gifting platform.\u003C/p\u003E\n\n\u003Cp\u003EIts service enables Facebook members to organize a game card gift campaign for their friends (or for themselves) via group-buying experience- choose who the gift is for; choose the type of gift card ; define what the occasion is; invite friend to participate in funding the gift card buying.\u003C/p\u003E\n\n\u003Cp\u003EUsers can now pick the right publishers gift cards, and invite others to share the cost.,Solving the funding issue of relatively expensive gift cards is done by inviting friends and families to participate and collectively buy the gift.\u003C/p\u003E\n\n\u003Cp\u003EGame publishers increase the exposure to their items, and increase their revenues by allowing the price barrier to be shared by many, and thus increase the selling opportunity.\u003C/p\u003E\n\n\u003Cp\u003EBday- The easiest way to gift the people you love together with your friends!!!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       95],
+      "assets/images/resized/0016/2606/162606v2-max-150x150.jpg"],
+     [[250,
+       159],
+      "assets/images/resized/0016/2606/162606v2-max-250x250.jpg"],
+     [[450,
+       286],
+      "assets/images/resized/0016/2606/162606v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Idan",
+      "last_name": "Schultz",
+      "permalink": "idan-schultz",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Tomer",
+      "last_name": "Irge",
+      "permalink": "tomer-irge",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$4M",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 4,
+    "investments":
+     [{"company":
+        {"name": "Tel-Ad Electronics",
+         "permalink": "tel-ad-electronics",
+         "image": null},
+       "financial_org": null,
+       "person": null}]},
+   {"round_code": "a",
+    "source_url": "http://www.finsmes.com/2012/02/bday-raises-2m-series-funding.html?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+finsmes%2FcNHu+%28FinSMEs%29",
+    "source_description": "Bday Raises $2M in Series A Funding",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 2,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Tel-Ad Electronics",
+         "permalink": "tel-ad-electronics",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Israel Office",
+    "address1": "Atir Yeda 13",
+    "address2": "",
+    "zip_code": "44641",
+    "city": "Kfar Saba",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

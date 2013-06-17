@@ -1,0 +1,87 @@
+{"name": "FixMeStick",
+ "permalink": "fixmestick",
+ "crunchbase_url": "http://www.crunchbase.com/company/fixmestick",
+ "homepage_url": "http://www.fixmestick.com",
+ "blog_url": "http://www.fixmestick.com/blog/",
+ "blog_feed_url": "http://www.fixmestick.com/blog/feed/",
+ "twitter_username": "FixMeStick",
+ "category_code": "security",
+ "number_of_employees": 6,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "computer-security, it-security, antivirus, malware-removal, virus-removal, trojan-removal, adware-removal, spyware-removal",
+ "alias_list": null,
+ "email_address": "help@fixmestick.com",
+ "phone_number": "(888) 530-6125",
+ "description": "Computer Virus Removal Device",
+ "created_at": "Fri Sep 21 19:22:58 UTC 2012",
+ "updated_at": "Tue Oct 09 23:02:14 UTC 2012",
+ "overview": "\u003Cp\u003EMontrealers Corey Velan and Marty Algire founded FixMeStick in 2011. A Queen\u2019s and Stanford graduate, Velan was previously Director of Development and Lead Architect at Radialpoint, provider of consumer PC security to very large ISPs. Algire, who completed his Master\u2019s in Biosystems Engineering at McGill, was a founding employee of the pioneering Internet privacy company Zero-Knowledge and Vice-President of Products and Engineering at Radialpoint.\u003C/p\u003E\n\n\u003Cp\u003EThe FixMeStick was born out of the need to solve the malware removal problem for regular computer users. Antivirus programs do their best to prevent viruses from infecting computers, but infections remain a widespread problem. Viruses that get past antivirus software can be impossible to find or remove because the infections take control of the PC. The United States Computer Emergency Readiness Team and the Canadian Cyber Incident Response Centre recommend scanning an infected PC with a \u201ctrusted bootable USB\u0026#8221; like the FixMeStick. In partnership with 3 of the world\u0026#8217;s leading antivirus companies (Kaspersky Lab, Sophos, and GFI), FixMeStick brings this easy-to-use virus removal device that won\u0026#8217;t harm a user\u2019s PC. The FixMeStick is not a replacement for antivirus programs, which protect PCs from infections, it is for removing infections that got past the antivirus.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       85],
+      "assets/images/resized/0021/2494/212494v2-max-150x150.jpg"],
+     [[250,
+       143],
+      "assets/images/resized/0021/2494/212494v2-max-250x250.jpg"],
+     [[297,
+       170],
+      "assets/images/resized/0021/2494/212494v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Marty",
+      "last_name": "Algire",
+      "permalink": "marty-algire",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Corey",
+      "last_name": "Velan",
+      "permalink": "corey-velan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "376 Victoria Ave, Suite #425",
+    "address2": "",
+    "zip_code": "H3Z 1C3 ",
+    "city": "Westmount",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.theglobeandmail.com/technology/gadgets-and-gear/gadgets/take-a-swing-at-malicious-software-with-fixmestick/article4186700/",
+    "title": "Take a swing at malicious software with FixMeStick "},
+   {"external_url": "http://www.dailymail.co.uk/sciencetech/article-2161076/Virus-removal-tools-FixMeStick-USB-key-plugs-deletes-malware.html",
+    "title": "The USB stick that you plug into your computer - and then it deletes all the viruses"}]}

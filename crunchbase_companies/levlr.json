@@ -1,0 +1,127 @@
+{"name": "Levlr",
+ "permalink": "levlr",
+ "crunchbase_url": "http://www.crunchbase.com/company/levlr",
+ "homepage_url": "http://levlr.com",
+ "blog_url": "http://gamemechanics.levlr.com",
+ "blog_feed_url": "",
+ "twitter_username": "levlr",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "game-mechanics, game-dynamics, marketing, social-media, social-gaming",
+ "alias_list": null,
+ "email_address": "contact@levlr.com",
+ "phone_number": "",
+ "description": "Game mechanics platform",
+ "created_at": "Sun Aug 08 15:14:40 UTC 2010",
+ "updated_at": "Sat Mar 19 03:08:03 UTC 2011",
+ "overview": "\u003Cp\u003ELevlr provides a powerful, scalable platform for companies wanting to integrate game mechanics (points, badges, etc\u0026#8230;) into their application to increase participation, engagement and fun.\u003C/p\u003E\n\n\u003Cp\u003ELevlr works with companies to determine the appropriate game mechanics for their application, and provides an API to allow seamless integration.\u003C/p\u003E\n\n\u003Cp\u003EThe company has also produced a series of example applications to prove the power of the platform.  This includes Levlr.com, a personal life tracking site which turns your life into a video game. And Beerby, a mobile application that allows you to not just check-in to where you are with FourSquare, but tell what beer you are drinking there as well.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       88],
+      "assets/images/resized/0009/6574/96574v2-max-150x150.png"],
+     [[250,
+       147],
+      "assets/images/resized/0009/6574/96574v2-max-250x250.png"],
+     [[450,
+       266],
+      "assets/images/resized/0009/6574/96574v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder and CEO",
+    "person":
+     {"first_name": "Phil",
+      "last_name": "Anderson",
+      "permalink": "phil-anderson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0014/9515/149515v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0014/9515/149515v2-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0014/9515/149515v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder and CTO",
+    "person":
+     {"first_name": "Shawn",
+      "last_name": "Wall",
+      "permalink": "shawn-wall",
+      "image": null}},
+   {"is_past": false,
+    "title": "Intern",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Furman",
+      "permalink": "andrew-furman-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://alphalab.org/meet_our_companies.aspx",
+    "source_description": "AlphaLab.org",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "AlphaLab",
+         "permalink": "alphalab",
+         "image":
+          {"available_sizes":
+            [[[150,
+               58],
+              "assets/images/resized/0006/0041/60041v2-max-150x150.jpg"],
+             [[250,
+               97],
+              "assets/images/resized/0006/0041/60041v2-max-250x250.jpg"],
+             [[450,
+               174],
+              "assets/images/resized/0006/0041/60041v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Levlr HQ",
+    "address1": "5711 Friendship Ave",
+    "address2": "Suite 3",
+    "zip_code": "15206",
+    "city": "Pittsburgh",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

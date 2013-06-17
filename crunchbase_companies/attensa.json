@@ -1,0 +1,100 @@
+{"name": "Attensa",
+ "permalink": "attensa",
+ "crunchbase_url": "http://www.crunchbase.com/company/attensa",
+ "homepage_url": "http://www.attensa.com",
+ "blog_url": "http://www.attensa.com/blogs/attensa2/",
+ "blog_feed_url": "feed://feeds.feedburner.com/attensablog",
+ "twitter_username": "attensa",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@attensa.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Jan 06 02:07:29 UTC 2009",
+ "updated_at": "Wed Jan 13 20:15:41 UTC 2010",
+ "overview": "\u003Cp\u003EAttensa provides an enterprise news and information delivery system that leverages RSS to deliver targeted information to your team.\u003C/p\u003E\n\n\u003Cp\u003EThe Attensa StreamServer breaks down information silos by allowing information from multiple systems to be found, organized, and monitored throughout your business.  \u003C/p\u003E\n\n\u003Cp\u003EStreamServer helps you get the most out of your paid content sources by filtering and delivering the most relevant information to each user on a personalized basis.\u003C/p\u003E\n\n\u003Cp\u003EAttensa offers StreamServer products for Life Sciences, Legal, and Corporate Communications customers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0006/1024/61024v2-max-150x150.jpg"],
+     [[250,
+       78],
+      "assets/images/resized/0006/1024/61024v2-max-250x250.jpg"],
+     [[450,
+       140],
+      "assets/images/resized/0006/1024/61024v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Attensa StreamServer",
+    "permalink": "attensa-streamserver",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Charlie",
+      "last_name": "Davidson",
+      "permalink": "charlie-davidson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director, Product Development",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Nadler",
+      "permalink": "jeff-nadler",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO, Co-Founder",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Hayes",
+      "permalink": "eric-hayes-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Craig",
+      "last_name": "Barnes",
+      "permalink": "craig-barnes",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Portland, Oregon",
+    "address1": "919 SW Taylor St",
+    "address2": "Suite 200",
+    "zip_code": "97239",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

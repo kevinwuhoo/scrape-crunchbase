@@ -1,0 +1,71 @@
+{"name": "Botonomy",
+ "permalink": "botonomy",
+ "crunchbase_url": "http://www.crunchbase.com/company/botonomy",
+ "homepage_url": "http://www.botonomy.com",
+ "blog_url": "http://mcoyle.botonomy.com/blog",
+ "blog_feed_url": "http://mcoyle.botonomy.com/blog?format=rss",
+ "twitter_username": "",
+ "category_code": "consulting",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "python-consulting",
+ "alias_list": null,
+ "email_address": "info@botonomy.com",
+ "phone_number": "888 776 5747",
+ "description": "Software and Consulting Services",
+ "created_at": "Thu Mar 19 19:15:34 UTC 2009",
+ "updated_at": "Mon Jun 03 23:50:13 UTC 2013",
+ "overview": "\u003Cp\u003EBotonomy LLC is a software and consulting services firm located in the Philadelphia area serving clients in a variety of industries since 2005.  \u003C/p\u003E\n\n\u003Cp\u003EThey have been specialists in the Python programming language since the company\u0026#8217;s founding, and in recent years have added Google App Engine, AngularJS, and HTML5 mobile application development to their list of core technology competencies.\u003C/p\u003E\n\n\u003Cp\u003EBotonomy\u0026#8217;s latest offering is PlanZent, an interactive sales presentation application that merges the familiar look and feel of a traditional slide deck with dynamic rule-driven data capture.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "PyGuys.com (Python Consulting Services)",
+    "permalink": "pyguys-com-python-consulting-services",
+    "image": null},
+   {"name": "PlanZent (Sales Presentation Software)",
+    "permalink": "planzent-sales-presentation-software",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Coyle",
+      "permalink": "mike-coyle",
+      "image": null}},
+   {"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Christian",
+      "last_name": "Simms",
+      "permalink": "christian-simms",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.python.org/about/success/projectpipe/",
+    "title": "Python.org Success Story about ProjectPipe.com"}]}

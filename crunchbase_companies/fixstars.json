@@ -1,0 +1,100 @@
+{"name": "Fixstars",
+ "permalink": "fixstars",
+ "crunchbase_url": "http://www.crunchbase.com/company/fixstars",
+ "homepage_url": "http://www.fixstars.com/en/index.html",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 80,
+ "founded_year": 2002,
+ "founded_month": 8,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "multicore, opencl, cuda, h-264, encoder, ydl, linux, porting, optimization, yellow-dog",
+ "alias_list": null,
+ "email_address": "contact@fixstars.com",
+ "phone_number": "408-624-0604",
+ "description": "Multicore Software Solutions",
+ "created_at": "Wed Dec 16 22:45:22 UTC 2009",
+ "updated_at": "Thu Dec 17 01:57:53 UTC 2009",
+ "overview": "\u003Cp\u003EFixstars provides full solutions that harness the high computing performance of multi-core technology.  We provide expertise in migrating your computer processes to multicore platforms. Our strengths are Linux Enterprise solutions, image processing and computing simulations for a wide range of industries worldwide. \u003C/p\u003E\n\n\u003Cp\u003ESoftware Products:\nYellow Dog Enterprise Linux (YDEL)\nBased on the renown OS \u00e2\u20ac\u0153Yellow Dog Linux\u00e2\u20ac\u009d, Fixstars provides enterprise support for IT Linux infrastructure that takes advantage of multicore servers. We have a track record of reliability, availability and serviceability. \u003C/p\u003E\n\n\u003Cp\u003ECodecSys\nCodecSys is a software base H.264 encoder. It enables real time encoding with the latest image compressing technology while maintaining high image quality required for HD video. The system has blazing encoding speeds due to its internal IBM Cell/B.E. accelerator. \nIt is available for video creation for IPTV, Blu-ray authoring studios and digitalization of media archives.\u003C/p\u003E\n\n\u003Cp\u003EProfessional Services\nOur service and support helps you drastically accelerate your computing processes. We  free your resources and build your capabilities to give you the ability to generate additional revenue and cut costs. Our services reduce servers, maintenance, space and electricity usage.   \u003C/p\u003E\n\n\u003Cp\u003EConsulting and Profiling \nWe analyze the original code or pseudo-code that is to be transplanted, identifying deficiencies and bottlenecks in computation, and determine transplant policy and hardware.\u003C/p\u003E\n\n\u003Cp\u003EPorting and Optimization\nWe port  and optimize original code to multi-core processors in order to utilize cores efficiently. We use key indicators as parallelization and SIMD.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP Business Development",
+    "person":
+     {"first_name": "Camilo",
+      "last_name": "Lopez",
+      "permalink": "camilo-lopez-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/3762/253762v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/3762/253762v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/3762/253762v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a5210M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.fixstars.com/en/company/profile.html",
+    "source_description": "",
+    "raised_amount": 210000000.0,
+    "raised_currency_code": "JPY",
+    "funded_year": 2003,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": null,
+    "source_url": "",
+    "source_description": "",
+    "acquired_year": null,
+    "acquired_month": null,
+    "acquired_day": null,
+    "company":
+     {"name": "TerraSoft",
+      "permalink": "terrasoft",
+      "image":
+       {"available_sizes":
+         [[[150,
+            74],
+           "assets/images/resized/0006/6630/66630v1-max-150x150.png"],
+          [[161,
+            80],
+           "assets/images/resized/0006/6630/66630v1-max-250x250.png"],
+          [[161,
+            80],
+           "assets/images/resized/0006/6630/66630v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

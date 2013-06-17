@@ -1,0 +1,87 @@
+{"name": "Toluu",
+ "permalink": "toluu",
+ "crunchbase_url": "http://www.crunchbase.com/company/toluu",
+ "homepage_url": "http://www.toluu.com",
+ "blog_url": "http://www.toluu.com/blog/",
+ "blog_feed_url": "http://www.toluu.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "blogs, opml, rss",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sat Mar 29 12:17:29 UTC 2008",
+ "updated_at": "Sat Apr 05 10:25:00 UTC 2008",
+ "overview": "\u003Cp\u003EToluu, which \u003Ca href=\"http://www.louisgray.com/live/2008/03/toluu-offers-gateway-to-friends-rss.html\" title=\"launched\" rel=\"nofollow\"\u003Elaunched\u003C/a\u003E in March 2008, is a service that helps frequent blog readers find other blogs and content sites that might interest them. As of March 29, 2008 the service is in private beta.\u003C/p\u003E\n\n\u003Cp\u003ELike the now deadpooled \u003Ca href=\"http://www.techcrunch.com/2006/05/07/share-your-opml/\" title=\"ShareYourOPML\"\u003EShareYourOPML\u003C/a\u003E,   users upload their OPML file of RSS feeds to the service (you can obtain this file from your RSS reader, it is simply a list of the feeds you read). Users then tell Toluu which of their feeds are their favorites, and the service returns matching users to you and recommends new feeds. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       74],
+      "assets/images/resized/0001/6509/16509v1-max-150x150.png"],
+     [[168,
+       83],
+      "assets/images/resized/0001/6509/16509v1-max-250x250.png"],
+     [[168,
+       83],
+      "assets/images/resized/0001/6509/16509v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Toluu",
+    "permalink": "toluu",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Caleb",
+      "last_name": "Elston",
+      "permalink": "caleb-elston",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0005/2605/52605v2-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0005/2605/52605v2-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0005/2605/52605v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.louisgray.com/live/2008/03/toluu-offers-gateway-to-friends-rss.html",
+    "title": "Louis Gray Launch Review"},
+   {"external_url": "http://www.centernetworks.com/toluu-feed-discovery",
+    "title": "CenterNetworks Launch Review"},
+   {"external_url": "http://www.readwriteweb.com/archives/10_reasons_why_youre_going_to_love_toluu.php",
+    "title": "ReadWriteWeb Launch Review"}]}

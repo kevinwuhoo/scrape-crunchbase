@@ -1,0 +1,102 @@
+{"name": "MobiQpons",
+ "permalink": "mobiqpons",
+ "crunchbase_url": "http://www.crunchbase.com/company/mobiqpons",
+ "homepage_url": "http://www.mobiqpons.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mobiqpons",
+ "category_code": "advertising",
+ "number_of_employees": 9,
+ "founded_year": 2009,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-coupons, mobile-ads, mobile-publishing, lbs, real-time-mobile-advertising",
+ "alias_list": null,
+ "email_address": "contactus@mobiqpons.com",
+ "phone_number": "650-283-5164",
+ "description": "Location Based Mobile Offers",
+ "created_at": "Thu Mar 11 20:41:21 UTC 2010",
+ "updated_at": "Thu Mar 11 22:40:49 UTC 2010",
+ "overview": "\u003Cp\u003EMobiQpons is the leading location based mobile ads and mobile coupons platform. We offer a simple self-serve mobile advertising platform to retailers looking to drive foot traffic to their stores.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Navneet",
+      "last_name": "Aron",
+      "permalink": "navneet-aron",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yowza",
+      "permalink": "yowza",
+      "image":
+       {"available_sizes":
+         [[[145,
+            102],
+           "assets/images/resized/0009/3536/93536v2-max-150x150.png"],
+          [[145,
+            102],
+           "assets/images/resized/0009/3536/93536v2-max-250x250.png"],
+          [[145,
+            102],
+           "assets/images/resized/0009/3536/93536v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cellfire",
+      "permalink": "cellfire",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0002/0734/20734v1-max-150x150.png"],
+          [[216,
+            62],
+           "assets/images/resized/0002/0734/20734v1-max-250x250.png"],
+          [[216,
+            62],
+           "assets/images/resized/0002/0734/20734v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "SF Bay Area ",
+    "address1": "830 Stewart Dr.",
+    "address2": "Suite #265",
+    "zip_code": "94085",
+    "city": "Sunnyvale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://wnyt.com/article/stories/S1438912.shtml?cat=300",
+    "title": "Economic survival guide: phone \"apps\" that save you money"},
+   {"external_url": "http://www.nytimes.com/2009/08/29/technology/29coupon.html?_r=2\u0026hpw",
+    "title": "Coupons You Don\u00e2\u20ac\u2122t Clip, Sent to Your Cellphone"},
+   {"external_url": "http://mashable.com/2009/05/22/MobiQpons/",
+    "title": "MobiQpons: Hyperlocal Mobile Coupons for iPhones"},
+   {"external_url": "http://marketingisadirtyword.com/2009/06/04/MobiQpons-the-future-of-location-based-mobile-computing-and-a-darn-good-idea/",
+    "title": "mobiqpons \u00e2\u20ac\u201c the future of location based mobile computing (and a darn good idea)"}]}

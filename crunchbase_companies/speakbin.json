@@ -1,0 +1,91 @@
+{"name": "SpeakBin",
+ "permalink": "speakbin",
+ "crunchbase_url": "http://www.crunchbase.com/company/speakbin",
+ "homepage_url": "http://www.speakbin.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "speakbin",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "audio, social, network, recording, sound",
+ "alias_list": null,
+ "email_address": "press@speakbin.com",
+ "phone_number": "",
+ "description": "Social Sound",
+ "created_at": "Sun Mar 20 06:40:55 UTC 2011",
+ "updated_at": "Mon Mar 28 21:50:56 UTC 2011",
+ "overview": "\u003Cp\u003ESpeakBin is a social audio network that integrates with Twitter and Facebook accounts to allow users to post audio recordings and share them online.  The recordings are generated from a user\u0026#8217;s mobile phone, and each mobile app uses Facebook and Twitter APIs to integrate directly with the platform.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       106],
+      "assets/images/resized/0012/6975/126975v2-max-150x150.png"],
+     [[169,
+       120],
+      "assets/images/resized/0012/6975/126975v2-max-250x250.png"],
+     [[169,
+       120],
+      "assets/images/resized/0012/6975/126975v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder / CEO",
+    "person":
+     {"first_name": "Tony",
+      "last_name": "Chuinard",
+      "permalink": "tony-chuinard",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Craig",
+      "last_name": "Lan",
+      "permalink": "craig-landry",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SoundCloud",
+      "permalink": "soundcloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0002/0462/20462v19-max-150x150.png"],
+          [[250,
+            156],
+           "assets/images/resized/0002/0462/20462v19-max-250x250.png"],
+          [[250,
+            156],
+           "assets/images/resized/0002/0462/20462v19-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.zooly.com/the-speakbin-app-reviewed/",
+    "title": "SpeakBin for Android Review"}]}

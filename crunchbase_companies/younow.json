@@ -1,0 +1,100 @@
+{"name": "YouNow",
+ "permalink": "younow",
+ "crunchbase_url": "http://www.crunchbase.com/company/younow",
+ "homepage_url": "http://www.younow.com",
+ "blog_url": "http://blog.younow.com/",
+ "blog_feed_url": "http://blog.younow.com/feed/rss/",
+ "twitter_username": "younow",
+ "category_code": "games_video",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "adi@younow.com",
+ "phone_number": "646 378 4333",
+ "description": "Social Television Platform",
+ "created_at": "Tue Jul 26 20:20:13 UTC 2011",
+ "updated_at": "Wed Mar 20 11:58:00 UTC 2013",
+ "overview": "\u003Cp\u003EYouNow is a live social television platform, combining elements of reality TV and social games, it is programmed by users.  YouNow allows anyone to broadcast, via mobile or webcam, be judged by a live audience, and earn fame and social equity.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[144,
+       54],
+      "assets/images/resized/0015/3824/153824v1-max-150x150.png"],
+     [[144,
+       54],
+      "assets/images/resized/0015/3824/153824v1-max-250x250.png"],
+     [[144,
+       54],
+      "assets/images/resized/0015/3824/153824v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Adi",
+      "last_name": "Sideman",
+      "permalink": "adi-sideman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": null,
+    "source_url": "http://techcrunch.com/2013/03/13/younow-buys-blogtv/",
+    "source_description": "Live Social Video Network YouNow Acquires Streaming Service BlogTV",
+    "acquired_year": 2013,
+    "acquired_month": 3,
+    "acquired_day": 13,
+    "company":
+     {"name": "blogTV",
+      "permalink": "blogtv",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0000/0280/280v2-max-150x150.png"],
+          [[202,
+            83],
+           "assets/images/resized/0000/0280/280v2-max-250x250.png"],
+          [[202,
+            83],
+           "assets/images/resized/0000/0280/280v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "offices":
+  [{"description": "",
+    "address1": "25 West 36th Street",
+    "address2": "5th Floor",
+    "zip_code": "10018",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2011/10/29/recorded-videos-on-youtube-and-live-performances-on-younow-get-excited/",
+    "title": ""}]}

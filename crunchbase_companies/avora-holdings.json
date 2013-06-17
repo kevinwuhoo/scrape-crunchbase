@@ -1,0 +1,126 @@
+{"name": "Avora Holdings",
+ "permalink": "avora-holdings",
+ "crunchbase_url": "http://www.crunchbase.com/company/avora-holdings",
+ "homepage_url": "http://www.invisiblecrm.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "inquires@invisiblecrm.com",
+ "phone_number": "(650) 450 9487",
+ "description": "",
+ "created_at": "Thu Apr 29 02:20:09 UTC 2010",
+ "updated_at": "Thu Apr 29 02:20:37 UTC 2010",
+ "overview": "\u003Cp\u003EAvora Holdings, Ltd. provides application technology solutions to integrate Microsoft desktop products with CRM, ERP, and DMS applications. The company\u00e2\u20ac\u2122s solutions include InvisibleBridge that enables people to use the Windows environment as a front-end to business applications, which include OutlookBridge, an MS Outlook-based mash-up platform that brings applications in MS Outlook; FolderBridge that helps in organizing documents in users\u00e2\u20ac\u2122 computers, while changes and additions made offline; and AlertsBridge, which provides real-time notifications whenever a change is made to corporate information. Its solutions also include LotusBridge that allows users to use Lotus Notes as a framework for business application; and ContentBridge, which provides access to email-centric content relating to business objects inside the Microsoft Outlook interface. The company also offers solutions to integrate sales forces, as well as to create unified sales workplace that offers customer information, contact databases, calendars, and tasks in one slot. Avora Holdings also offers SmartFolder solution that provides access to EMC Documentum repositories through a local folder on the desktop; SmartFolder for WebOffice, a desktop application that enables invisible document organization, collaboration, and delivery; SmartFolder for SharePoint, an invisible document organization, collaboration, and delivery system; and SalesFolder for SugarCRM that helps users to work with CRM contents. Its solutions enable users to work with customer and corporate information. Avora Holdings, Ltd. was founded in 2005 and is based in Mountain View, California.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0008/5260/85260v1-max-150x150.png"],
+     [[150,
+       112],
+      "assets/images/resized/0008/5260/85260v1-max-250x250.png"],
+     [[150,
+       112],
+      "assets/images/resized/0008/5260/85260v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Vlad",
+      "last_name": "Voskresensky",
+      "permalink": "vlad-voskresensky",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Krider",
+      "permalink": "jeff-krider",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.invisiblecrm.com/pressroom/icrm_news/11/",
+    "source_description": "InvisibleCRM, Provider of Innovative Solutions for Salesforce.com, receives Investments from Martinson Trigon, ABRT",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 7,
+    "funded_day": 19,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Martinson Trigon Venture Partners",
+         "permalink": "martinson-trigon-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               41],
+              "assets/images/resized/0002/8529/28529v3-max-150x150.png"],
+             [[181,
+               50],
+              "assets/images/resized/0002/8529/28529v3-max-250x250.png"],
+             [[181,
+               50],
+              "assets/images/resized/0002/8529/28529v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "ABRT Venture Fund",
+         "permalink": "abrt",
+         "image":
+          {"available_sizes":
+            [[[150,
+               63],
+              "assets/images/resized/0002/0237/20237v1-max-150x150.png"],
+             [[153,
+               65],
+              "assets/images/resized/0002/0237/20237v1-max-250x250.png"],
+             [[153,
+               65],
+              "assets/images/resized/0002/0237/20237v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "650 Castro street",
+    "address2": "Ste 120/385",
+    "zip_code": "94041 ",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

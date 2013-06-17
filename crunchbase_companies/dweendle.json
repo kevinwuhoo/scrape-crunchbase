@@ -1,0 +1,214 @@
+{"name": "Dweendle",
+ "permalink": "dweendle",
+ "crunchbase_url": "http://www.crunchbase.com/company/dweendle",
+ "homepage_url": "http://www.dweendle.com",
+ "blog_url": "http://www.dweendleblog.tumblr.com",
+ "blog_feed_url": "",
+ "twitter_username": "Dweendle",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "price-comparison, product-search-engine",
+ "alias_list": null,
+ "email_address": "team@dweendle.com",
+ "phone_number": "",
+ "description": "World Product Search Engine",
+ "created_at": "Thu Feb 02 20:02:12 UTC 2012",
+ "updated_at": "Thu Feb 16 00:19:41 UTC 2012",
+ "overview": "\u003Cp\u003EDweendle is the first online world-wide Price comparator (aka Product Search Engine). By browsing through Dweendle, e-shoppers can quickly and freely compare the price of a desired product among thousands of offers on the Global and local market. According to their location, delivery and price requirements, Dweendle will automatically calculate the total price of the good including eventual custom duties. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0017/2712/172712v2-max-150x150.png"],
+     [[250,
+       63],
+      "assets/images/resized/0017/2712/172712v2-max-250x250.png"],
+     [[315,
+       80],
+      "assets/images/resized/0017/2712/172712v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Denis",
+      "last_name": "Leonard",
+      "permalink": "denis-leonard",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder \u0026 CEO",
+    "person":
+     {"first_name": "Charles",
+      "last_name": "SCHMITT",
+      "permalink": "charles-schmitt",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Frederic",
+      "last_name": "De Todaro",
+      "permalink": "frederic-de-todaro",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PriceGrabber",
+      "permalink": "pricegrabber",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0002/7164/27164v2-max-150x150.png"],
+          [[250,
+            45],
+           "assets/images/resized/0002/7164/27164v2-max-250x250.png"],
+          [[260,
+            47],
+           "assets/images/resized/0002/7164/27164v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google",
+      "permalink": "google",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+          [[450,
+            154],
+           "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bing Shopping",
+      "permalink": "bing-shopping",
+      "image": null}},
+   {"competitor":
+     {"name": "TheFind",
+      "permalink": "thefind",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/3307/3307v10-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0000/3307/3307v10-max-250x250.png"],
+          [[450,
+            109],
+           "assets/images/resized/0000/3307/3307v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kelkoo",
+      "permalink": "kelkoo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0000/4468/4468v1-max-150x150.png"],
+          [[156,
+            40],
+           "assets/images/resized/0000/4468/4468v1-max-250x250.png"],
+          [[156,
+            40],
+           "assets/images/resized/0000/4468/4468v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NexTag",
+      "permalink": "nextag",
+      "image":
+       {"available_sizes":
+         [[[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-150x150.png"],
+          [[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-250x250.png"],
+          [[91,
+            75],
+           "assets/images/resized/0004/4841/44841v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twenga",
+      "permalink": "twenga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0000/2551/2551v5-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0000/2551/2551v5-max-250x250.png"],
+          [[450,
+            132],
+           "assets/images/resized/0000/2551/2551v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shopzilla",
+      "permalink": "shopzilla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0003/7909/37909v3-max-150x150.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0003/7909/37909v3-max-250x250.jpg"],
+          [[450,
+            83],
+           "assets/images/resized/0003/7909/37909v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shopping.com",
+      "permalink": "shopping-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0002/7114/27114v1-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0002/7114/27114v1-max-250x250.png"],
+          [[374,
+            69],
+           "assets/images/resized/0002/7114/27114v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Paris Office",
+    "address1": "64 rue rambuteau",
+    "address2": "",
+    "zip_code": "75003",
+    "city": "Paris",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

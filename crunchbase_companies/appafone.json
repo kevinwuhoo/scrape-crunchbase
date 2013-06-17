@@ -1,0 +1,111 @@
+{"name": "Appafone",
+ "permalink": "appafone",
+ "crunchbase_url": "http://www.crunchbase.com/company/appafone",
+ "homepage_url": "http://www.appafone.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "appafone",
+ "category_code": "mobile",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 2,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, ambient, service, retail, local, geolocation",
+ "alias_list": null,
+ "email_address": "solutions@appafone.com",
+ "phone_number": "",
+ "description": "Ambient Location App",
+ "created_at": "Thu Jun 28 05:39:02 UTC 2012",
+ "updated_at": "Thu Jun 28 18:47:24 UTC 2012",
+ "overview": "\u003Cp\u003EAppafone provides a mobile application that runs in the background and delivers push notifications to users when they\u0026#8217;re near a point of interest.\u003C/p\u003E\n\n\u003Cp\u003EOne of the biggest problems with location based mobile apps is remembering to open them.  Appafone takes care of this by running in the background and alerting you when you\u0026#8217;re near something interesting, shopping, transport, sales, coffee, bars and restaurants plus much more.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Gerard",
+      "last_name": "McDonald",
+      "permalink": "gerard-mcdonald",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Glancee",
+      "permalink": "glancee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0017/3565/173565v2-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0017/3565/173565v2-max-250x250.png"],
+          [[450,
+            150],
+           "assets/images/resized/0017/3565/173565v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Highlight",
+      "permalink": "highlight",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0017/1530/171530v1-max-150x150.png"],
+          [[250,
+            94],
+           "assets/images/resized/0017/1530/171530v1-max-250x250.png"],
+          [[450,
+            169],
+           "assets/images/resized/0017/1530/171530v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Dublin Office",
+    "address1": "Rosemount Shopping center",
+    "address2": "Rathfarnam",
+    "zip_code": "",
+    "city": "Dublin",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://thenextweb.com/uk/2012/05/22/leweb-london-startup-competition-semifinalist-shortlist-announced/",
+    "title": "LeWEb London Semifinalists"}]}

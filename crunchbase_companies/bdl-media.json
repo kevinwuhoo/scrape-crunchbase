@@ -1,0 +1,148 @@
+{"name": "BDL Media",
+ "permalink": "bdl-media",
+ "crunchbase_url": "http://www.crunchbase.com/company/bdl-media",
+ "homepage_url": "http://www.bdlmedia.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 40,
+ "founded_year": 2004,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "china, chinese, media, social-media, media-monitoring, saas, cloud-computing, rss, press-release",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "(852) 2523 1979",
+ "description": "Internet Media Marketing Software",
+ "created_at": "Thu Feb 09 01:33:20 UTC 2012",
+ "updated_at": "Thu Feb 09 22:06:55 UTC 2012",
+ "overview": "\u003Cp\u003EBDL Media provides online visibility, marketing, and PR software tools for companies in China.\u003C/p\u003E\n\n\u003Cp\u003EThe company provides both \u0026#8220;Sales PR\u0026#8221; and \u0026#8220;News PR\u0026#8221; distribution and monitoring services for public relations and marketing initiatives for Chinese businesses.\u003C/p\u003E\n\n\u003Cp\u003EFor sales-related distribution initiatives, the company provides its own proprietary B2B e-marketing database through its BDL Direct offering. Clients can also manage their own email lists and databases in the cloud through BDL Media\u0026#8217;s XZList.com service.\u003C/p\u003E\n\n\u003Cp\u003EFor news-related distribution, the company operates Xinwengao.com (xinwengao means \u0026#8220;press release\u0026#8221; in Mandarin), a Chinese-language social media platform for companies to distribute their press releases to key journalists and media outlets in China. As a companion to that service, the company also provides ChinaNewswire.com for English-language press release distribution. BDL Media\u0026#8217;s MyRSS.cn is a free Internet news media monitoring tool that allows users to analyze and aggregate news from the Chinese blogosphere and online news websites. Using MyRSS.cn, users can create their own RSS feeds and be alerted when news articles match their criteria.\u003C/p\u003E\n\n\u003Cp\u003EBDL Media operates in China as a Wholly-Foreign Owned Enterprise with a software license. It also has a relationship with Shanghai-based Boshiyuan Ltd, which provides the company important marketing, advertising, and Internet content licenses to operate legally in China.\u003C/p\u003E\n\n\u003Cp\u003EIn early 2010, BDL Media was acquired by Vocus, Inc. (NASDAQ: VOCS), a global leader in on-demand software for public relations.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO, CTO",
+    "person":
+     {"first_name": "Danny",
+      "last_name": "Levinson",
+      "permalink": "danny-levinson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, Chairman",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Doyle",
+      "permalink": "paul-doyle-4",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PR Newswire",
+      "permalink": "pr-newswire",
+      "image":
+       {"available_sizes":
+         [[[150,
+            110],
+           "assets/images/resized/0005/4883/54883v4-max-150x150.jpg"],
+          [[250,
+            184],
+           "assets/images/resized/0005/4883/54883v4-max-250x250.jpg"],
+          [[450,
+            331],
+           "assets/images/resized/0005/4883/54883v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Media Monitors",
+      "permalink": "media-monitors",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0012/2683/122683v1-max-150x150.png"],
+          [[227,
+            79],
+           "assets/images/resized/0012/2683/122683v1-max-250x250.png"],
+          [[227,
+            79],
+           "assets/images/resized/0012/2683/122683v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Reuters",
+      "permalink": "reuters",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0001/8749/18749v1-max-150x150.png"],
+          [[159,
+            59],
+           "assets/images/resized/0001/8749/18749v1-max-250x250.png"],
+          [[159,
+            59],
+           "assets/images/resized/0001/8749/18749v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wisers Information Limited",
+      "permalink": "wisers-information-limited",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Hong Kong",
+    "address1": "38th Floor, Tower One",
+    "address2": "Lippo Centre, 89 Queensway",
+    "zip_code": "n/a",
+    "city": "Hong Kong",
+    "state_code": null,
+    "country_code": "HKG",
+    "latitude": null,
+    "longitude": null},
+   {"description": "Beijing",
+    "address1": "ULO Park, Futong East Street, Wangjing",
+    "address2": "Chaoyang District",
+    "zip_code": "100102",
+    "city": "Beijing",
+    "state_code": null,
+    "country_code": "CHN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.myrss.cn",
+    "title": "MyRSS.cn Homepage"},
+   {"external_url": "http://www.xinwengao.com",
+    "title": "Xinwengao.com Homepage"}]}

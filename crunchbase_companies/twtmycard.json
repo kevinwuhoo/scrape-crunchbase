@@ -1,0 +1,80 @@
+{"name": "TwtMyCard",
+ "permalink": "twtmycard",
+ "crunchbase_url": "http://www.crunchbase.com/company/twtmycard",
+ "homepage_url": "http://www.twtmycard.com",
+ "blog_url": "",
+ "blog_feed_url": "http://www.twtmycard.com",
+ "twitter_username": "twtmycard",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "vcard, business-cards, twitter, twitter-app, oauth",
+ "alias_list": "",
+ "email_address": "twtmycard@gmail.com",
+ "phone_number": "",
+ "description": "Exchange Business Cards on Twitter",
+ "created_at": "Fri Sep 11 07:02:39 UTC 2009",
+ "updated_at": "Thu Oct 01 20:17:30 UTC 2009",
+ "overview": "\u003Cp\u003ETwtMyCard lets you exchange business cards on Twitter. It\u0026#8217;s exclusively for Twitter users. Here\u0026#8217;s how it works :\u003C/p\u003E\n\n\u003Cp\u003E1.. Sign on to http://twtmycard.com using your Twitter credentials (we use OAuth). \u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003ESubmit your profile information or upload a vCard, which we will parse for you. You can set your profile to be public or private. If your profile is set to be private, your profile can only be seen by people you have explicitly sent your card to. \u003C/li\u003E\n\u003Cli\u003EFollow @twtmycard (the \u00e2\u20ac\u02dcbot\u00e2\u20ac\u2122 will automatically follow you back). \u003C/li\u003E\n\u003Cli\u003EWhen you meet someone who you want to share your profile information with ask them for their twitter handle and send a direct message to @twtmycard with their handle. For example: \u0026#8216;d twtmycard anandiyer\u0026#8217;. The recipient (anandiyer in this case) will be sent a link to your profile on twtmycard.\u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003EThat\u0026#8217;s it!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[73,
+       73],
+      "assets/images/resized/0005/9446/59446v2-max-150x150.png"],
+     [[73,
+       73],
+      "assets/images/resized/0005/9446/59446v2-max-250x250.png"],
+     [[73,
+       73],
+      "assets/images/resized/0005/9446/59446v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder, \"Ideator\"",
+    "person":
+     {"first_name": "Anand",
+      "last_name": "Iyer",
+      "permalink": "anand-iyer",
+      "image":
+       {"available_sizes":
+         [[[108,
+            150],
+           "assets/images/resized/0004/6062/46062v2-max-150x150.jpg"],
+          [[180,
+            250],
+           "assets/images/resized/0004/6062/46062v2-max-250x250.jpg"],
+          [[258,
+            357],
+           "assets/images/resized/0004/6062/46062v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003Ehttp://www.facebook.com/pages/ANAND-IYER/86180082038\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

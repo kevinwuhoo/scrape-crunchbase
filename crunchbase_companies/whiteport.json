@@ -1,0 +1,222 @@
+{"name": "Whiteport",
+ "permalink": "whiteport",
+ "crunchbase_url": "http://www.crunchbase.com/company/whiteport",
+ "homepage_url": "http://www.whiteport.com",
+ "blog_url": "http://www.whiteport.com",
+ "blog_feed_url": "http://www.whiteport.com",
+ "twitter_username": "whiteportmethod",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "apps, app, ios, android, healthcare, insurance, management, mgmt, windows, macosx, saas, marketing, agencies",
+ "alias_list": null,
+ "email_address": "info@whiteport.com",
+ "phone_number": "+46854510000",
+ "description": "Design management application",
+ "created_at": "Wed Jan 09 22:55:21 UTC 2013",
+ "updated_at": "Mon Jan 14 07:35:27 UTC 2013",
+ "overview": "\u003Cp\u003EDesigning a apps and sites requires collaboration and structure. With Whiteport you get the perfect tool to gather and document your design process from sketches and moodboard to finished design in one tool. You will share, discuss, adjust and receive feedback from start to end. Our nifty integrations with online tools such as Github, TFS and BaseCamp make sure the programmers always have access the latest design with spec and product owners will see the status of each scenario in one tool.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0022/8928/228928v2-max-150x150.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0022/8928/228928v2-max-250x250.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0022/8928/228928v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "User experience analyst",
+    "person":
+     {"first_name": "John",
+      "last_name": "Olsson",
+      "permalink": "john-olsson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            130],
+           "assets/images/resized/0015/7973/157973v2-max-150x150.jpg"],
+          [[250,
+            217],
+           "assets/images/resized/0015/7973/157973v2-max-250x250.jpg"],
+          [[450,
+            392],
+           "assets/images/resized/0015/7973/157973v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJohn Olsson\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Axure Software Solutions",
+      "permalink": "axure-rp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0010/8880/108880v1-max-150x150.png"],
+          [[185,
+            101],
+           "assets/images/resized/0010/8880/108880v1-max-250x250.png"],
+          [[185,
+            101],
+           "assets/images/resized/0010/8880/108880v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Balsamiq",
+      "permalink": "balsamiq",
+      "image": null}},
+   {"competitor":
+     {"name": "Visio",
+      "permalink": "visio",
+      "image": null}},
+   {"competitor":
+     {"name": "Wirify",
+      "permalink": "wirify",
+      "image": null}},
+   {"competitor":
+     {"name": "Mock Flow",
+      "permalink": "mock-flow",
+      "image": null}},
+   {"competitor":
+     {"name": "Power mockup",
+      "permalink": "power-mockup",
+      "image": null}},
+   {"competitor":
+     {"name": "Pattern Tap",
+      "permalink": "pattern-tap",
+      "image": null}},
+   {"competitor":
+     {"name": "Cliffy",
+      "permalink": "cliffy",
+      "image": null}},
+   {"competitor":
+     {"name": "justinmind Prototyper",
+      "permalink": "justinmind-prototyper",
+      "image": null}},
+   {"competitor":
+     {"name": "FluidlA",
+      "permalink": "fluidla",
+      "image": null}},
+   {"competitor":
+     {"name": "CogTool",
+      "permalink": "cogtool",
+      "image": null}},
+   {"competitor":
+     {"name": "Lumzy",
+      "permalink": "lumzy",
+      "image": null}},
+   {"competitor":
+     {"name": "The Pencil Project",
+      "permalink": "the-pencil-project",
+      "image": null}},
+   {"competitor":
+     {"name": "App sketcher",
+      "permalink": "app-sketcher",
+      "image": null}},
+   {"competitor":
+     {"name": "UX Pin",
+      "permalink": "ux-pin",
+      "image": null}},
+   {"competitor":
+     {"name": "Pidoco Usability Suite",
+      "permalink": "pidoco-usability-suite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0005/8957/58957v2-max-150x150.png"],
+          [[250,
+            89],
+           "assets/images/resized/0005/8957/58957v2-max-250x250.png"],
+          [[286,
+            102],
+           "assets/images/resized/0005/8957/58957v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mockingbird",
+      "permalink": "mockingbird",
+      "image":
+       {"available_sizes":
+         [[[150,
+            98],
+           "assets/images/resized/0010/9276/109276v2-max-150x150.jpg"],
+          [[250,
+            164],
+           "assets/images/resized/0010/9276/109276v2-max-250x250.jpg"],
+          [[276,
+            182],
+           "assets/images/resized/0010/9276/109276v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cacoo",
+      "permalink": "cacoo",
+      "image": null}},
+   {"competitor":
+     {"name": "HotGloo",
+      "permalink": "hotgloo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0010/5615/105615v5-max-150x150.png"],
+          [[250,
+            65],
+           "assets/images/resized/0010/5615/105615v5-max-250x250.png"],
+          [[450,
+            117],
+           "assets/images/resized/0010/5615/105615v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iplotz",
+      "permalink": "iplotz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0003/4752/34752v2-max-150x150.jpg"],
+          [[223,
+            85],
+           "assets/images/resized/0003/4752/34752v2-max-250x250.jpg"],
+          [[223,
+            85],
+           "assets/images/resized/0003/4752/34752v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Axvallsv\u00e4gen 52",
+    "address2": "",
+    "zip_code": "12150",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

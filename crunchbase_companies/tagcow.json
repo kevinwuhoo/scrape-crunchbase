@@ -1,0 +1,182 @@
+{"name": "TagCow",
+ "permalink": "tagcow",
+ "crunchbase_url": "http://www.crunchbase.com/company/tagcow",
+ "homepage_url": "http://www.tagcow.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Photo Tagger",
+ "created_at": "Sun Mar 30 01:57:11 UTC 2008",
+ "updated_at": "Tue May 21 14:27:01 UTC 2013",
+ "overview": "\u003Cp\u003ETagCow, launched in March 2008, is a service that tags your photos with descriptive keywords. If there\u0026#8217;s a mountain in the photo, it\u0026#8217;s tagged. A dog? yep. A yellow cup? Absolutely. It does people, too. Upload an image of a person and say who it is, and all other images you upload will be tagged with that person, too. The service also integrates with Flickr and will auto tag the photos you have on the service.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0001/6545/16545v2-max-150x150.png"],
+     [[250,
+       80],
+      "assets/images/resized/0001/6545/16545v2-max-250x250.png"],
+     [[280,
+       90],
+      "assets/images/resized/0001/6545/16545v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder and CEO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Z. Cantu",
+      "permalink": "david-z-cantu",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/5058/265058v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5058/265058v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5058/265058v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder and  Chief Business Architect",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "J. Droz",
+      "permalink": "michael-j-droz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder and COO",
+    "person":
+     {"first_name": "Timothy",
+      "last_name": "Wright",
+      "permalink": "timothy-wright-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/5056/265056v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5056/265056v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/5056/265056v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Principle Architect",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Nichols",
+      "permalink": "matt-nichols",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0026/5063/265063v1-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0026/5063/265063v1-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0026/5063/265063v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Z . Cantu",
+      "permalink": "david-z-cantu-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Polar Rose",
+      "permalink": "polarrose",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/0712/712v25-max-150x150.jpg"],
+          [[250,
+            125],
+           "assets/images/resized/0000/0712/712v25-max-250x250.jpg"],
+          [[420,
+            210],
+           "assets/images/resized/0000/0712/712v25-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Like.com",
+      "permalink": "like",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0023/2490/232490v1-max-150x150.png"],
+          [[162,
+            66],
+           "assets/images/resized/0023/2490/232490v1-max-250x250.png"],
+          [[162,
+            66],
+           "assets/images/resized/0023/2490/232490v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Face.com",
+      "permalink": "face-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0003/9136/39136v2-max-150x150.jpg"],
+          [[187,
+            53],
+           "assets/images/resized/0003/9136/39136v2-max-250x250.jpg"],
+          [[187,
+            53],
+           "assets/images/resized/0003/9136/39136v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.620973,
+    "longitude": -122.347276}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

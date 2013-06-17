@@ -1,0 +1,152 @@
+{"name": "Identyx",
+ "permalink": "identyx",
+ "crunchbase_url": "http://www.crunchbase.com/company/identyx",
+ "homepage_url": "http://www.identyx.com",
+ "blog_url": "http://www.idtopia.com",
+ "blog_feed_url": "http://www.idtopia.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "identity-management",
+ "alias_list": null,
+ "email_address": "info@identyx.com",
+ "phone_number": "(888) 883-7438",
+ "description": null,
+ "created_at": "Fri May 23 04:38:33 UTC 2008",
+ "updated_at": "Thu Dec 01 07:45:09 UTC 2011",
+ "overview": "\u003Cp\u003EIdentyx is a company providing identity management software. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0001/9216/19216v2-max-150x150.png"],
+     [[239,
+       50],
+      "assets/images/resized/0001/9216/19216v2-max-250x250.png"],
+     [[239,
+       50],
+      "assets/images/resized/0001/9216/19216v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Yang",
+      "permalink": "jim-yang",
+      "image":
+       {"available_sizes":
+         [[[148,
+            150],
+           "assets/images/resized/0011/5776/115776v2-max-150x150.png"],
+          [[198,
+            200],
+           "assets/images/resized/0011/5776/115776v2-max-250x250.png"],
+          [[198,
+            200],
+           "assets/images/resized/0011/5776/115776v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sun Microsystems",
+      "permalink": "sun-microsystems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0001/6586/16586v2-max-150x150.png"],
+          [[180,
+            86],
+           "assets/images/resized/0001/6586/16586v2-max-250x250.png"],
+          [[180,
+            86],
+           "assets/images/resized/0001/6586/16586v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Oracle Corporation",
+      "permalink": "oracle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7825/17825v1-max-150x150.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-250x250.png"],
+          [[158,
+            54],
+           "assets/images/resized/0001/7825/17825v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Self Funding",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 6,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Red Hat",
+     "permalink": "red-hat",
+     "image":
+      {"available_sizes":
+        [[[150,
+           147],
+          "assets/images/resized/0002/1264/21264v2-max-150x150.png"],
+         [[250,
+           245],
+          "assets/images/resized/0002/1264/21264v2-max-250x250.png"],
+         [[345,
+           339],
+          "assets/images/resized/0002/1264/21264v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "78759",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.39791,
+    "longitude": -97.748714}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.networkcomputing.com/channels/appinfrastructure/showArticle.jhtml?queryText=\u0026articleID=198900108\u0026pgno=2",
+    "title": "Virtual Directories Take Hold "},
+   {"external_url": "http://www.networkworld.com/newsletters/dir/2005/1003id2.html",
+    "title": "Identity execs give back to the community"}]}

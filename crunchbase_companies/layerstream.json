@@ -1,0 +1,100 @@
+{"name": "Layerstream",
+ "permalink": "layerstream",
+ "crunchbase_url": "http://www.crunchbase.com/company/layerstream",
+ "homepage_url": "http://www.layerstream.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 4,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "layered-stream, streaming-video",
+ "alias_list": null,
+ "email_address": "info@layerstream.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed May 07 18:01:43 UTC 2008",
+ "updated_at": "Thu Dec 01 07:43:38 UTC 2011",
+ "overview": "\u003Cp\u003ELayerstream Technologies offers a content distribution platform that targets streaming live content over shared IP networks, such as the Internet, where throughput and latency are always changing.\u003C/p\u003E\n\n\u003Cp\u003ELayerstream is able to circumvent the traditional problems caused by network congestions by applying its patented stream-layering technology which makes data streams immune to large bandwidth fluctuations and allows it to always guarantee real-time delivery, regardless of whether the streams contain high-definition video, audio, financial data, or any type of proprietary, custom data.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0001/8104/18104v1-max-150x150.jpg"],
+     [[211,
+       38],
+      "assets/images/resized/0001/8104/18104v1-max-250x250.jpg"],
+     [[211,
+       38],
+      "assets/images/resized/0001/8104/18104v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Layerstream",
+    "permalink": "layerstream",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Joost",
+      "last_name": "Schreve",
+      "permalink": "joost-schreve",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Erik",
+      "last_name": "van Zijst",
+      "permalink": "erik-van-zijst",
+      "image": null}},
+   {"is_past": false,
+    "title": "Digital Video Architect",
+    "person":
+     {"first_name": "Werner",
+      "last_name": "Altewischer",
+      "permalink": "werner-altewischer",
+      "image": null}},
+   {"is_past": false,
+    "title": "Network Architect",
+    "person":
+     {"first_name": "Leon",
+      "last_name": "van Zantvoort",
+      "permalink": "leon-van-zantvoort",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "516 Bryant St",
+    "address2": "",
+    "zip_code": "",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.445714,
+    "longitude": -122.161247}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

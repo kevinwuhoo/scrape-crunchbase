@@ -1,0 +1,129 @@
+{"name": "DailyTicket",
+ "permalink": "dailyticket",
+ "crunchbase_url": "http://www.crunchbase.com/company/dailyticket",
+ "homepage_url": "http://dailyticket.com",
+ "blog_url": "http://dailyticket.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "dailyticket",
+ "category_code": "advertising",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "jon@dailyticket.com",
+ "phone_number": "678.632.4598",
+ "description": "Daily deals franchise model",
+ "created_at": "Sun Jan 30 23:41:10 UTC 2011",
+ "updated_at": "Wed Jun 01 21:47:58 UTC 2011",
+ "overview": "\u003Cp\u003EDailyTicket is a daily deals business based out of Seattle, WA. DailyTicket utilizes a franchise business model with exclusive regional ownership rights for franchisees. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       99],
+      "assets/images/resized/0011/9639/119639v4-max-150x150.jpg"],
+     [[250,
+       165],
+      "assets/images/resized/0011/9639/119639v4-max-250x250.jpg"],
+     [[450,
+       297],
+      "assets/images/resized/0011/9639/119639v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Washburn",
+      "permalink": "jonathan-washburn",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Lauren",
+      "last_name": "Bernstein",
+      "permalink": "lauren-bernstein",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LivingSocial",
+      "permalink": "livingsocial",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0002/2416/22416v5-max-150x150.jpg"],
+          [[250,
+            91],
+           "assets/images/resized/0002/2416/22416v5-max-250x250.jpg"],
+          [[450,
+            163],
+           "assets/images/resized/0002/2416/22416v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Groupon",
+      "permalink": "groupon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/5604/25604v10-max-150x150.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-250x250.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Tippr",
+      "permalink": "tippr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0007/7293/77293v3-max-150x150.png"],
+          [[250,
+            86],
+           "assets/images/resized/0007/7293/77293v3-max-250x250.png"],
+          [[450,
+            155],
+           "assets/images/resized/0007/7293/77293v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 7,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

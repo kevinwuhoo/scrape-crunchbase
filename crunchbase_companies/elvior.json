@@ -1,0 +1,100 @@
+{"name": "Elvior",
+ "permalink": "elvior",
+ "crunchbase_url": "http://www.crunchbase.com/company/elvior",
+ "homepage_url": "http://www.elvior.com",
+ "blog_url": "http://www.elvior.com/news-and-blog/blog",
+ "blog_feed_url": "http://www.elvior.com/news-and-blog/blog.rss",
+ "twitter_username": "elviortesting",
+ "category_code": "software",
+ "number_of_employees": 12,
+ "founded_year": 1992,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software-testing, ttcn-3-testing, black-box-testing, test-automation",
+ "alias_list": null,
+ "email_address": "elvior@elvior.com",
+ "phone_number": "",
+ "description": "Test automation tools",
+ "created_at": "Thu Aug 05 06:39:47 UTC 2010",
+ "updated_at": "Thu Feb 10 00:57:50 UTC 2011",
+ "overview": "\u003Cp\u003EElvior is focused on software test automation by providing software testing services and tools. Elvior specialises in test automation of embedded and distributed systems and has vast experience in software testing with leading telecommunications companies in Europe. The core competences are software black-box functional tests, test automation, TTCN-3 testing and model-based testing. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       54],
+      "assets/images/resized/0009/6100/96100v2-max-150x150.png"],
+     [[250,
+       90],
+      "assets/images/resized/0009/6100/96100v2-max-250x250.png"],
+     [[450,
+       163],
+      "assets/images/resized/0009/6100/96100v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CRO",
+    "person":
+     {"first_name": "Andres",
+      "last_name": "Kull",
+      "permalink": "andres-kull",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Erki",
+      "last_name": "Lipre",
+      "permalink": "erki-lipre",
+      "image":
+       {"available_sizes":
+         [[[148,
+            150],
+           "assets/images/resized/0012/1728/121728v2-max-150x150.png"],
+          [[247,
+            250],
+           "assets/images/resized/0012/1728/121728v2-max-250x250.png"],
+          [[437,
+            441],
+           "assets/images/resized/0012/1728/121728v2-max-450x450.png"]],
+        "attribution": "\u003Cp\u003EErki Lipre / \u003Ca href=\"http://www.elvior.com\" title=\"portrait\" rel=\"nofollow\"\u003Eportrait\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ of Elvior",
+    "address1": "Mustam\u00c3\u00a4e tee 44",
+    "address2": "",
+    "zip_code": "10621",
+    "city": "Tallinn",
+    "state_code": null,
+    "country_code": "EST",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pr.com/press-release/131058",
+    "title": "Elvior and OAK Systems Announce Reseller Agreement"},
+   {"external_url": "http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view\u0026newsId=20100607007063\u0026newsLang=en",
+    "title": "Elvior and Conformiq Strike OEM Deal for Model-Based Testing"},
+   {"external_url": "http://press-releases.techwhack.com/106044-elvior",
+    "title": "Elvior and Qast Software Group Announce Reselling Agreement"}]}

@@ -1,0 +1,80 @@
+{"name": "TADASoft",
+ "permalink": "tadasoft",
+ "crunchbase_url": "http://www.crunchbase.com/company/tadasoft",
+ "homepage_url": "http://www.restorepoint.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "tadasoft",
+ "category_code": "network_hosting",
+ "number_of_employees": 12,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "check-point, brocade, netapp, f5, cisco, proofpoint, restorepoint, tadasoft, 3com, fortinet, barracuda, router, wireless, switch, managed, unmanaged, firewall, ips, ids",
+ "alias_list": null,
+ "email_address": "mbell@restorepoint.com",
+ "phone_number": "+44 1506 467 100",
+ "description": "Automating Network \u0026 Security operations",
+ "created_at": "Mon Dec 21 14:58:01 UTC 2009",
+ "updated_at": "Thu May 24 02:47:47 UTC 2012",
+ "overview": "\u003Cp\u003ETADASoft manufacture Restorepoint, the affordable solution for backing up \u0026amp; restoring your multi-vendor network devices.\u003C/p\u003E\n\n\u003Cp\u003ERestorepoint is an integrated hardware and software solution for Network Administrators, which makes it easy to automatically backup and store the configuration of your network devices and to restore it when needed. This is managed from one convenient central location with an easy to use web interface. Restorepoint is the only vendor independent appliance on the market and the first product to address this commonly overlooked issue.\u003C/p\u003E\n\n\u003Cp\u003ETADASoft currently provide the RSP \u0026amp; MSP solutions.\u003C/p\u003E\n\n\u003Cp\u003ERestorepoint RSP - designed for end user networks where the Restorepoint RSP solution will backup \u0026amp; restore configurations from supported multi-vendor devices. \u003C/p\u003E\n\n\u003Cp\u003ERestorepoint MSP - The Restorepoint MSP appliance is designed for capacity and reliability. With very large redundant, hot-swappable internal storage and redundant hot-swappable power supply, the Restorepoint MSP is aimed at Service Providers and will support up to 10,000 devices. With the new role-based administration, Service Providers can configure separate administration domains for each of their customers, and give each customer visibility of the configurations of their own devices, audit logs, or even the ability of perform backups and restores. \u003C/p\u003E\n\n\u003Cp\u003EFeatures \u0026amp; Benefits:\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Backup the configuration of your device \u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Multiple Role-based administration (Restorepoint MSP models only)\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Transparently encrypts all sensitive information (authentication credentials, device configurations etc)\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Secure \u0026amp; Hardened Appliance\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Web Based Management Console\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Backups can be scheduled or run on-demand\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Import and Export of devices\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Old backups are automatically removed based on a configurable retention policy\u003C/p\u003E\n\n\u003Cp\u003ESupported Vendors:\u003C/p\u003E\n\n\u003Cp\u003E3Com\u003C/p\u003E\n\n\u003Cp\u003ECisco\u003C/p\u003E\n\n\u003Cp\u003ENetApp\u003C/p\u003E\n\n\u003Cp\u003EAlcatel\u003C/p\u003E\n\n\u003Cp\u003ECitrix Netscaler\u003C/p\u003E\n\n\u003Cp\u003ENokia\u003C/p\u003E\n\n\u003Cp\u003EArray Networks\u003C/p\u003E\n\n\u003Cp\u003EConSentry Network   \u003C/p\u003E\n\n\u003Cp\u003ENortel\u003C/p\u003E\n\n\u003Cp\u003EBarracuda Networks\u003C/p\u003E\n\n\u003Cp\u003EExtreme Network\u003C/p\u003E\n\n\u003Cp\u003EMcAfee\u003C/p\u003E\n\n\u003Cp\u003EBloxx\u003C/p\u003E\n\n\u003Cp\u003Ef5 Networks\u003C/p\u003E\n\n\u003Cp\u003EProofpoint\u003C/p\u003E\n\n\u003Cp\u003EBlue Coat\u003C/p\u003E\n\n\u003Cp\u003EFortinet\u003C/p\u003E\n\n\u003Cp\u003ERiverbed\u003C/p\u003E\n\n\u003Cp\u003EBrocade \u003C/p\u003E\n\n\u003Cp\u003EHP  \u003C/p\u003E\n\n\u003Cp\u003EWatchguard\u003C/p\u003E\n\n\u003Cp\u003ECheck Point \u003C/p\u003E\n\n\u003Cp\u003EJuniper Networks\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Enew device support is regularly added free of charge. Please check back for updates.\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EQuick Recovery:\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Quick recovery for devices\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Reverting to any safe version available in configuration history\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Quick configuration push for replacement device\u003C/p\u003E\n\n\u003Cp\u003EWeb Interface\u003C/p\u003E\n\n\u003Cp\u003EAll operations of Restorepoint can be performed through the web UI, which is arranged into various tabs. The arrangement of tabs and screens in the UI are simple to use. Step-by-step instructions for performing various operations have been provided in the form of context-sensitive help, wherever necessary.\u003C/p\u003E\n\n\u003Cp\u003EAudit\u003C/p\u003E\n\n\u003Cp\u003EAudit records contain the list of all operations performed with details such as who performed the operation, timestamp and the result of the operation.\u003C/p\u003E\n\n\u003Cp\u003EAutomatic Updates\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Plug-ins for new devices are deployed automatically and are free of charge to customers.\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u00a2 Customer can request new plugins to be developed for appliances not currently supported.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0007/0612/70612v4-max-150x150.png"],
+     [[155,
+       39],
+      "assets/images/resized/0007/0612/70612v4-max-250x250.png"],
+     [[155,
+       39],
+      "assets/images/resized/0007/0612/70612v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Sales Director",
+    "person":
+     {"first_name": "Rory",
+      "last_name": "Nolan",
+      "permalink": "rory-nolan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Fleming House",
+    "address2": "Fleming Road",
+    "zip_code": "EH54 7BN",
+    "city": "Livingston",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://datacenterjournal.com/content/view/3152/40/",
+    "title": "Network automated tools don\u00e2\u20ac\u2122t put humans out of jobs"},
+   {"external_url": "http://www.scmagazineuk.com/Restorepoint-RSP-500/Review/2899/",
+    "title": "Restorepoint Review by SC Magazine"}]}

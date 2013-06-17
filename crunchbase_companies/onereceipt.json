@@ -1,0 +1,97 @@
+{"name": "OneReceipt",
+ "permalink": "onereceipt",
+ "crunchbase_url": "http://www.crunchbase.com/company/onereceipt",
+ "homepage_url": "http://www.onereceipt.com",
+ "blog_url": "http://blog.onereceipt.com/",
+ "blog_feed_url": "",
+ "twitter_username": "OneReceipt",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "e-receipts, organization, receipts, email-receipts, e-commerce",
+ "alias_list": null,
+ "email_address": "support@onereceipt.me",
+ "phone_number": "",
+ "description": "Receipt aggregator",
+ "created_at": "Fri Nov 25 20:42:34 UTC 2011",
+ "updated_at": "Thu May 23 18:33:11 UTC 2013",
+ "overview": "\u003Cp\u003EOneReceipt is a faster and simpler way for people to organize their receipts and analyze their spending habits. OneReceipt works directly with Gmail / Google Apps to automatically understand e-receipts. Registration is quick and accounts get synced automatically. For paper receipts, users need to take a picture with their phone and email it to their personal @onereceipt.com address. This data is presented to the user through an easily navigated interface. OneReceipt also provides tools like monthly spending reports and return alerts. The service acts as a post-purchase hub for consumers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0016/4035/164035v6-max-150x150.jpg"],
+     [[250,
+       56],
+      "assets/images/resized/0016/4035/164035v6-max-250x250.jpg"],
+     [[450,
+       101],
+      "assets/images/resized/0016/4035/164035v6-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Altman",
+      "permalink": "michael-altman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Sam",
+      "last_name": "Fine",
+      "permalink": "sam-fine",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        98],
+       "assets/images/resized/0025/3226/253226v2-max-150x150.png"],
+      [[250,
+        163],
+       "assets/images/resized/0025/3226/253226v2-max-250x250.png"],
+      [[450,
+        295],
+       "assets/images/resized/0025/3226/253226v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://venturebeat.com/2011/11/24/black-friday-apps-services/",
+    "title": "Black Friday 2011: the best apps and services for holiday shoppers"},
+   {"external_url": "http://techcrunch.com/2011/11/28/onereceipt-tracks-your-online-purchases-takes-aim-at-lemon-and-slice/",
+    "title": "TechCrunch - OneReceipt"},
+   {"external_url": "http://venturebeat.com/2011/11/28/onereceipt-receipt-tracking/",
+    "title": "VentureBeat - OneReceipt"},
+   {"external_url": "http://www.coolhunting.com/tech/onereceipt.php",
+    "title": "CoolHunting - OneReceipt"},
+   {"external_url": "http://www.dailydisruption.com/?p=3397",
+    "title": "DailyDisruption - OneReceipt"},
+   {"external_url": "http://www.killerstartups.com/Web-App-Tools/onereceipt-com-store-your-receipts-online",
+    "title": "KillerStartups - OneReceipt"}]}

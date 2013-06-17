@@ -1,0 +1,109 @@
+{"name": "Skycure",
+ "permalink": "skycure",
+ "crunchbase_url": "http://www.crunchbase.com/company/skycure",
+ "homepage_url": "http://www.skycure.com",
+ "blog_url": "http://blog.skycure.com",
+ "blog_feed_url": "",
+ "twitter_username": "skycuresecurity",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "contact@skycure.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sat Nov 17 04:57:01 UTC 2012",
+ "updated_at": "Tue Jun 11 17:46:14 UTC 2013",
+ "overview": "\u003Cp\u003EMobile Security\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0022/0792/220792v1-max-150x150.jpg"],
+     [[163,
+       60],
+      "assets/images/resized/0022/0792/220792v1-max-250x250.jpg"],
+     [[163,
+       60],
+      "assets/images/resized/0022/0792/220792v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CTO",
+    "person":
+     {"first_name": "Yair",
+      "last_name": "Amit",
+      "permalink": "yair-amit",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Adi",
+      "last_name": "Sharabani",
+      "permalink": "adi-sharabani",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$3M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/11/13/byod-startup-skycure-inks-3m-seed-round-with-israeli-vc-pitango/",
+    "source_description": "BYOD Startup Skycure Inks $3M Seed Round With Israeli VC Pitango",
+    "raised_amount": 3000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 13,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Pitango Venture Capital",
+         "permalink": "pitango-venture-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               53],
+              "assets/images/resized/0001/8978/18978v1-max-150x150.png"],
+             [[206,
+               73],
+              "assets/images/resized/0001/8978/18978v1-max-250x250.png"],
+             [[206,
+               73],
+              "assets/images/resized/0001/8978/18978v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Tel-Aviv Office",
+    "address1": "Brenner 5",
+    "address2": "",
+    "zip_code": "63826",
+    "city": "Tel-Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

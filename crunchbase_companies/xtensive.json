@@ -1,0 +1,127 @@
+{"name": "Xtensive",
+ "permalink": "xtensive",
+ "crunchbase_url": "http://www.crunchbase.com/company/xtensive",
+ "homepage_url": "http://www.x-tensive.com",
+ "blog_url": "http://blog.x-tensive.com",
+ "blog_feed_url": "http://feeds.feedburner.com/Xtensive",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 2003,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "-net, orm, software-development-tools",
+ "alias_list": null,
+ "email_address": "info@x-tensive.com",
+ "phone_number": "+73432637174",
+ "description": "Russian software company",
+ "created_at": "Tue Nov 15 07:05:48 UTC 2011",
+ "updated_at": "Mon Nov 21 04:58:57 UTC 2011",
+ "overview": "\u003Cp\u003EXtensive is software company delivering products for .NET developers as well as custom software solutions for small and medium sized enterprises.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[115,
+       115],
+      "assets/images/resized/0016/2424/162424v2-max-150x150.png"],
+     [[115,
+       115],
+      "assets/images/resized/0016/2424/162424v2-max-250x250.png"],
+     [[115,
+       115],
+      "assets/images/resized/0016/2424/162424v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder, VP",
+    "person":
+     {"first_name": "Alexey",
+      "last_name": "Belov",
+      "permalink": "alexey-belov",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, CTO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Yakunin",
+      "permalink": "alex-yakunin",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder, president",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Ustinov",
+      "permalink": "alexander-ustinov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Telerik",
+      "permalink": "telerik",
+      "image":
+       {"available_sizes":
+         [[[107,
+            30],
+           "assets/images/resized/0012/2925/122925v2-max-150x150.png"],
+          [[107,
+            30],
+           "assets/images/resized/0012/2925/122925v2-max-250x250.png"],
+          [[107,
+            30],
+           "assets/images/resized/0012/2925/122925v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "NHibernate",
+      "permalink": "nhibernate",
+      "image": null}},
+   {"competitor":
+     {"name": "Devart",
+      "permalink": "devart",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/4560/124560v4-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/4560/124560v4-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/4560/124560v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Primary office",
+    "address1": "9 Kirova st. ",
+    "address2": "",
+    "zip_code": "620028",
+    "city": "Yekaterinburg",
+    "state_code": null,
+    "country_code": "RUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://dataobjects.net",
+    "title": "DataObjects.Net product web site"},
+   {"external_url": "http://mescontrol.ru",
+    "title": "MEScontrol.net product web site (in Russian)"}]}

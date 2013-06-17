@@ -1,0 +1,168 @@
+{"name": "Relationship Analytics",
+ "permalink": "relationship-analytics",
+ "crunchbase_url": "http://www.crunchbase.com/company/relationship-analytics",
+ "homepage_url": "http://www.relationshipmanager.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ERM_Solution",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "enterprise-relationship-management-insurance-marketing-automation-business-intelligence-visualization-analytics",
+ "alias_list": null,
+ "email_address": "info@relationshipmanager.com",
+ "phone_number": "908-240-5434",
+ "description": "Enterprise Relationship Management",
+ "created_at": "Mon Oct 01 15:52:16 UTC 2012",
+ "updated_at": "Sun May 19 22:29:24 UTC 2013",
+ "overview": "\u003Cp\u003ERelationshipManager enables users to maximize the value of their professional relationship networks by quickly identifying centers of influence, scoring and qualifying relationships and predicting behavioral intentions. RelationshipManager was created in response to expressed industry demand by major insurance carriers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0021/3687/213687v2-max-150x150.png"],
+     [[250,
+       66],
+      "assets/images/resized/0021/3687/213687v2-max-250x250.png"],
+     [[450,
+       120],
+      "assets/images/resized/0021/3687/213687v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder/CTO",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Liebowitz",
+      "permalink": "greg-liebowitz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder/SME",
+    "person":
+     {"first_name": "Harry",
+      "last_name": "J. Abrahamsen",
+      "permalink": "harry-j-abrahamsen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "eMoney Advisor",
+      "permalink": "emoney-advisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0015/8540/158540v1-max-150x150.jpg"],
+          [[188,
+            64],
+           "assets/images/resized/0015/8540/158540v1-max-250x250.jpg"],
+          [[188,
+            64],
+           "assets/images/resized/0015/8540/158540v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Salesforce",
+      "permalink": "salesforce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            117],
+           "assets/images/resized/0001/1691/11691v3-max-150x150.png"],
+          [[250,
+            195],
+           "assets/images/resized/0001/1691/11691v3-max-250x250.png"],
+          [[300,
+            235],
+           "assets/images/resized/0001/1691/11691v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ebix",
+      "permalink": "ebix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0005/4560/54560v1-max-150x150.jpg"],
+          [[225,
+            101],
+           "assets/images/resized/0005/4560/54560v1-max-250x250.jpg"],
+          [[225,
+            101],
+           "assets/images/resized/0005/4560/54560v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "SorinRand",
+      "permalink": "sorinrand",
+      "image": null}}],
+ "total_money_raised": "$125k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.njtechweekly.com/art/1914-techlaunch-accelerator-unveils-second-class-of-startups/",
+    "source_description": "TechLaunch Accelerator Unveils Second Class of Startups",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 4,
+    "funded_day": 5,
+    "investments":
+     []},
+   {"round_code": "seed",
+    "source_url": "http://www.finsmes.com/2013/05/techlaunch-launches-2013-class.html",
+    "source_description": "TechLaunch Opens 2013 Class",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 16,
+    "investments":
+     [{"company":
+        {"name": "TechLaunch",
+         "permalink": "techlaunch",
+         "image":
+          {"available_sizes":
+            [[[150,
+               28],
+              "assets/images/resized/0023/4340/234340v2-max-150x150.jpg"],
+             [[250,
+               46],
+              "assets/images/resized/0023/4340/234340v2-max-250x250.jpg"],
+             [[450,
+               84],
+              "assets/images/resized/0023/4340/234340v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "415 Amwell Road",
+    "address2": "Suite 209",
+    "zip_code": "08844",
+    "city": "Hillsborough",
+    "state_code": "NJ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

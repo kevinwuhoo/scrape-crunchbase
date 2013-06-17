@@ -1,0 +1,147 @@
+{"name": "Panopta",
+ "permalink": "panopta",
+ "crunchbase_url": "http://www.crunchbase.com/company/panopta",
+ "homepage_url": "http://www.panopta.com",
+ "blog_url": "http://blog.panopta.com/",
+ "blog_feed_url": "",
+ "twitter_username": "Panopta",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "monitoring, server-monitoring, network-monitoring, saas-monitoring, hosting, outage-management",
+ "alias_list": null,
+ "email_address": "sales@panopta.com",
+ "phone_number": "800-606-7153",
+ "description": "Advanced Server Monitoring Service",
+ "created_at": "Fri Oct 16 18:58:48 UTC 2009",
+ "updated_at": "Thu Oct 18 14:53:25 UTC 2012",
+ "overview": "\u003Cp\u003EPanopta provides an advanced server and network monitoring service and outage management system for online businesses and service providers that goes beyond basic monitoring to give operations teams the tools they need to minimize the impact of outages to their online business.\u003C/p\u003E\n\n\u003Cp\u003EPanopta\u0026#8217;s core monitoring functionality provides high frequency checks every 60 seconds from our global monitoring network (currently 24 locations in North and South America, Europe and Asia) to ensure that all outages, regardless of duration, are detected.  \u003C/p\u003E\n\n\u003Cp\u003EOnce outages are detected, a number of notification options are available to ensure that the right people know about the problem.  Email, SMS and voice alerts can be sent out an a configurable notification timeline, allowing automatic escalation of the problem to wider ranges of staff.\u003C/p\u003E\n\n\u003Cp\u003EAdditionally, outage management tools allow operations teams to more efficiently manage outages, making it easy for everyone involved to work together, including system administrators, call center staff and management, and resolve problems faster without getting in each other\u0026#8217;s way.\u003C/p\u003E\n\n\u003Cp\u003EThe service is fully hosted on Panopta\u0026#8217;s distributed monitoring infrastructure and requires no software or hardware installation, and with automatic configuration tools customers can be up monitoring their entire network in minutes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0006/2977/62977v5-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0006/2977/62977v5-max-250x250.png"],
+     [[383,
+       87],
+      "assets/images/resized/0006/2977/62977v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Abate",
+      "permalink": "jason-abate",
+      "image":
+       {"available_sizes":
+         [[[124,
+            150],
+           "assets/images/resized/0021/6246/216246v2-max-150x150.jpg"],
+          [[207,
+            250],
+           "assets/images/resized/0021/6246/216246v2-max-250x250.jpg"],
+          [[373,
+            450],
+           "assets/images/resized/0021/6246/216246v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Scout Monitoring",
+      "permalink": "scout-monitoring",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0006/1330/61330v2-max-150x150.png"],
+          [[179,
+            42],
+           "assets/images/resized/0006/1330/61330v2-max-250x250.png"],
+          [[179,
+            42],
+           "assets/images/resized/0006/1330/61330v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pingdom",
+      "permalink": "pingdom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/8963/18963v1-max-150x150.png"],
+          [[250,
+            91],
+           "assets/images/resized/0001/8963/18963v1-max-250x250.png"],
+          [[255,
+            93],
+           "assets/images/resized/0001/8963/18963v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "JustUptime",
+      "permalink": "justuptime",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/0258/20258v2-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0002/0258/20258v2-max-250x250.png"],
+          [[315,
+            62],
+           "assets/images/resized/0002/0258/20258v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WatchMouse",
+      "permalink": "watchmouse",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0002/1744/21744v6-max-150x150.png"],
+          [[250,
+            56],
+           "assets/images/resized/0002/1744/21744v6-max-250x250.png"],
+          [[450,
+            102],
+           "assets/images/resized/0002/1744/21744v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Chicago headquarters",
+    "address1": "219 W. Chicago Ave",
+    "address2": "Suite 5F",
+    "zip_code": "60654",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

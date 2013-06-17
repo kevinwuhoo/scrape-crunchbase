@@ -1,0 +1,134 @@
+{"name": "Quantum4D",
+ "permalink": "quantum4d",
+ "crunchbase_url": "http://www.crunchbase.com/company/quantum4d",
+ "homepage_url": "http://www.quantum4d.com/",
+ "blog_url": "http://www.quantum4d.com/blogs",
+ "blog_feed_url": "",
+ "twitter_username": "quantum4d",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 12,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "data-mash-up-cloud-analytics-visualization",
+ "alias_list": null,
+ "email_address": "info@quantum4d.com",
+ "phone_number": "415 830 4444",
+ "description": "Big Data Visual Analytics",
+ "created_at": "Fri Jun 11 19:32:23 UTC 2010",
+ "updated_at": "Fri Feb 11 21:29:40 UTC 2011",
+ "overview": "\u003Cp\u003EQuantum4D is a next generation visual information solution. It integrates large data sets into sophisticated models producing moving visual representations that enable users to identify trends, relationships and anomalies in real time data. The platform is flexible, intuitive and powerful at simplifying data into key insights.\u003C/p\u003E\n\n\u003Cp\u003EQuantum4D allows individuals and groups of users to analyze and simulate large datasets in a fraction of the time that analysts presently use to import, sort, understand and manipulate information. Quantum4D offers the competitive advantage of providing faster and deeper insights into large volumes of data, resulting in not only time and cost savings but also improved, real time decision making.\u003C/p\u003E\n\n\u003Cp\u003EFinancial institutions, corporations and governments today have no shortage of data. Spreadsheets, graphs and charts were not engineered to handle today\u00e2\u20ac\u2122s this ongoing deluge. These tools do not enable users to synthesize and analyze data in a timely, cost effective manner. Quantum4D is the solution for today\u00e2\u20ac\u2122s data deluge. Large volumes of data can be viewed in two and three dimensional models which are dynamic. The technology easily converts multiple spreadsheets, databases and data feeds into visual moving models which enable real time identification of patterns, anomalies, correlations and trends. What used to take users hours to model and analyze only takes seconds when using Quantum4D. Quantum4D provides a solution for today\u00e2\u20ac\u2122s data deluge for finance, government and corporations.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Warner",
+      "permalink": "michael-warner",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tableau Software",
+      "permalink": "tableau-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0003/1298/31298v1-max-150x150.png"],
+          [[232,
+            85],
+           "assets/images/resized/0003/1298/31298v1-max-250x250.png"],
+          [[232,
+            85],
+           "assets/images/resized/0003/1298/31298v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EViews",
+      "permalink": "eviews",
+      "image": null}},
+   {"competitor":
+     {"name": "Palantir Technologies",
+      "permalink": "palantir-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0007/3542/73542v3-max-150x150.png"],
+          [[250,
+            60],
+           "assets/images/resized/0007/3542/73542v3-max-250x250.png"],
+          [[450,
+            108],
+           "assets/images/resized/0007/3542/73542v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.iqt.org/technology-portfolio/quantum4d.html",
+    "source_description": "In-Q-Tel Invests in Quantum4D",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 12,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "In-Q-Tel",
+         "permalink": "in-q-tel",
+         "image":
+          {"available_sizes":
+            [[[125,
+               91],
+              "assets/images/resized/0002/9271/29271v1-max-150x150.png"],
+             [[125,
+               91],
+              "assets/images/resized/0002/9271/29271v1-max-250x250.png"],
+             [[125,
+               91],
+              "assets/images/resized/0002/9271/29271v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "150",
+    "address2": "Green St.",
+    "zip_code": "94111",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        80],
+       "assets/images/resized/0009/0292/90292v2-max-150x150.jpg"],
+      [[250,
+        134],
+       "assets/images/resized/0009/0292/90292v2-max-250x250.jpg"],
+      [[450,
+        241],
+       "assets/images/resized/0009/0292/90292v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

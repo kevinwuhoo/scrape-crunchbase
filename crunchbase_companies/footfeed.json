@@ -1,0 +1,122 @@
+{"name": "Footfeed",
+ "permalink": "footfeed",
+ "crunchbase_url": "http://www.crunchbase.com/company/footfeed",
+ "homepage_url": "http://www.footfeed.com",
+ "blog_url": "http://blog.footfeed.com",
+ "blog_feed_url": "",
+ "twitter_username": "footfeedtweet",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "foursquare, gowalla, checkin, brightkite, whrrl, check-in",
+ "alias_list": null,
+ "email_address": "dennis@footfeed.com",
+ "phone_number": "",
+ "description": "Geo-location multi checkin aggregator",
+ "created_at": "Mon Jun 28 05:22:01 UTC 2010",
+ "updated_at": "Tue Aug 10 16:26:52 UTC 2010",
+ "overview": "\u003Cp\u003EFootfeed is a geo-location mobile check-in aggregator network that brings together the mobile check-in services making it easy for consumers to check-in to many networks without the need to open multiple apps. \u003C/p\u003E\n\n\u003Cp\u003EBuilt from the ground up as a stand alone check-in service, Footfeed integrates APIs from Brightkite, Foursquare, Gowalla, Facebook and Twitter then applies an advanced location matching algorithm to match locations across the different services. Using the Footfeed mobile check-in app, the app will automatically match the user\u0026#8217;s location across the different networks connected to their account and check them in to all networks simultaneously. \u003C/p\u003E\n\n\u003Cp\u003EFootfeed also offers a public API to companies interested in adding multi check-in capabilities to their mobile applications.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0009/6824/96824v2-max-150x150.jpg"],
+     [[250,
+       76],
+      "assets/images/resized/0009/6824/96824v2-max-250x250.jpg"],
+     [[450,
+       138],
+      "assets/images/resized/0009/6824/96824v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dennis",
+      "last_name": "Mink",
+      "permalink": "dennis-mink",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Floering",
+      "permalink": "ben-floering",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Check.In",
+      "permalink": "check-in",
+      "image":
+       {"available_sizes":
+         [[[104,
+            150],
+           "assets/images/resized/0008/7760/87760v2-max-150x150.png"],
+          [[173,
+            250],
+           "assets/images/resized/0008/7760/87760v2-max-250x250.png"],
+          [[313,
+            450],
+           "assets/images/resized/0008/7760/87760v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[100,
+        150],
+       "assets/images/resized/0009/1887/91887v2-max-150x150.jpg"],
+      [[166,
+        250],
+       "assets/images/resized/0009/1887/91887v2-max-250x250.jpg"],
+      [[300,
+        450],
+       "assets/images/resized/0009/1887/91887v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[100,
+        150],
+       "assets/images/resized/0009/1923/91923v2-max-150x150.jpg"],
+      [[166,
+        250],
+       "assets/images/resized/0009/1923/91923v2-max-250x250.jpg"],
+      [[300,
+        450],
+       "assets/images/resized/0009/1923/91923v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[100,
+        150],
+       "assets/images/resized/0009/6823/96823v2-max-150x150.png"],
+      [[166,
+        250],
+       "assets/images/resized/0009/6823/96823v2-max-250x250.png"],
+      [[300,
+        450],
+       "assets/images/resized/0009/6823/96823v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

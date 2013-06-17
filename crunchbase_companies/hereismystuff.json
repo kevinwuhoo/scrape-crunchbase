@@ -1,0 +1,99 @@
+{"name": "HereIsMyStuff",
+ "permalink": "hereismystuff",
+ "crunchbase_url": "http://www.crunchbase.com/company/hereismystuff",
+ "homepage_url": "http://www.hereismystuff.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "hereismystuff",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "invetory, twitter, personal, stuff, personal-invetory, stuff-blogging",
+ "alias_list": null,
+ "email_address": "markandey.singh@gmail.com",
+ "phone_number": "+919703803404",
+ "description": "Online Personal Inventory Manager",
+ "created_at": "Thu Oct 28 18:51:37 UTC 2010",
+ "updated_at": "Fri Nov 05 17:05:46 UTC 2010",
+ "overview": "\u003Cp\u003EHereIsMyStuff is a web application that helps in managing personal stuff \u0026amp; sharing with friends. HereIsMyStuff will solve majority of your book-keeping need related to stuff you own. One can login with twitter oauth \u0026amp; Add his personal stuff. If stuff is marked public it can be shared with friends. Advantage of personal inventory management is you can easily decide what to pack when you are travelling \u0026amp; keep track when you lend something to ur friends like book and CD.\u003C/p\u003E\n\n\u003Cp\u003EHereIsMyStuff is founded \u0026amp; developed by Markandey. This web App is built on Google App Engine(python), Using jquery and YUI as frontend. \u003C/p\u003E\n\n\u003Cp\u003EHereIsMyStuff has mobile version which works on all modern mobile phones. You can easily access your inventory anywhere anytime.\u003C/p\u003E\n\n\u003Cp\u003EYou can also contact product owners to get review of a product, all communication goes over twitter.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       142],
+      "assets/images/resized/0010/7745/107745v2-max-150x150.png"],
+     [[194,
+       184],
+      "assets/images/resized/0010/7745/107745v2-max-250x250.png"],
+     [[194,
+       184],
+      "assets/images/resized/0010/7745/107745v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Mr.",
+      "last_name": "Markandey Singh",
+      "permalink": "mr-markandey-singh",
+      "image":
+       {"available_sizes":
+         [[[132,
+            150],
+           "assets/images/resized/0010/7987/107987v2-max-150x150.jpg"],
+          [[220,
+            250],
+           "assets/images/resized/0010/7987/107987v2-max-250x250.jpg"],
+          [[396,
+            450],
+           "assets/images/resized/0010/7987/107987v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003ENone\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "208",
+    "address1": "Krishnanagar",
+    "address2": "",
+    "zip_code": "50008",
+    "city": "Hyderabad",
+    "state_code": null,
+    "country_code": "IND",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0010/7744/107744v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0010/7744/107744v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0010/7744/107744v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.hereismystuff.com",
+    "title": "Home Page"}]}

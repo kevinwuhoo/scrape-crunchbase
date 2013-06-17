@@ -1,0 +1,100 @@
+{"name": "MaxiScale",
+ "permalink": "maxiscale",
+ "crunchbase_url": "http://www.crunchbase.com/company/maxiscale",
+ "homepage_url": "http://www.maxiscale.com",
+ "blog_url": "http://blog.maxiscale.com",
+ "blog_feed_url": "",
+ "twitter_username": "maxiscale",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@maxiscale.com",
+ "phone_number": "408 962 6018",
+ "description": "Web-scale Software Infrastruc",
+ "created_at": "Tue Sep 22 22:04:01 UTC 2009",
+ "updated_at": "Mon Dec 06 02:52:03 UTC 2010",
+ "overview": "\u003Cp\u003EMaxiScale provides a breakthrough software platform for Internet data centers and storage infrastructure that fundamentally changes the economics of deploying Web-scale applications. This platform addresses the unpredictable and expanding data requirements facing companies that deliver Internet applications. MaxiScale enables customers to reduce capital and operational costs while improving performance by an order of magnitude over competing solutions. The company\u00e2\u20ac\u2122s innovative Peer Set\u00e2\u201e\u00a2 architecture and single disk I/O small file operations allow data centers to linearly scale a single namespace to hundreds of petabytes, eliminate forklift upgrades and reduce disk spindle counts by a factor of 10. This results in the ability to scale to 100 times the capacity of current solutions. For more information, please visit: www.MaxiScale.com.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0006/0493/60493v2-max-150x150.jpg"],
+     [[250,
+       62],
+      "assets/images/resized/0006/0493/60493v2-max-250x250.jpg"],
+     [[288,
+       72],
+      "assets/images/resized/0006/0493/60493v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Principal Engineer",
+    "person":
+     {"first_name": "Ashok",
+      "last_name": "Ganesan",
+      "permalink": "ashok-ganesan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2010,
+   "acquired_month": 10,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Overland Storage",
+     "permalink": "overland-storage",
+     "image":
+      {"available_sizes":
+        [[[150,
+           61],
+          "assets/images/resized/0007/8857/78857v1-max-150x150.png"],
+         [[153,
+           63],
+          "assets/images/resized/0007/8857/78857v1-max-250x250.png"],
+         [[153,
+           63],
+          "assets/images/resized/0007/8857/78857v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "776 Palomar Avenue",
+    "address2": "",
+    "zip_code": "94085",
+    "city": "Sunnyvale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

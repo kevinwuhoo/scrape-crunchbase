@@ -1,0 +1,90 @@
+{"name": "Axiomatics",
+ "permalink": "axiomatics",
+ "crunchbase_url": "http://www.crunchbase.com/company/axiomatics",
+ "homepage_url": "http://www.axiomatics.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Dynamic authorization solutions",
+ "created_at": "Fri May 10 07:06:08 UTC 2013",
+ "updated_at": "Mon May 13 19:55:31 UTC 2013",
+ "overview": "\u003Cp\u003EAxiomatics\u0026#8217; products are used by large organizations to securely share information within and across organizational boundaries, while complying with complex and ever-evolving regulations. The company is a driving force behind standardized access control through its suite of XACML 3.0-based products. By implementing these standardized solutions its customers can also reduce IT development costs and time-to-market.\u003C/p\u003E\n\n\u003Cp\u003EThe Axiomatics product suite includes the Axiomatics Policy Server, (APS) the Axiomatics Policy Auditor (APA) and the Axiomatics Reverse Query (ARQ) among others. The company also provides professional services within access control.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0026/0801/260801v2-max-150x150.png"],
+     [[250,
+       70],
+      "assets/images/resized/0026/0801/260801v2-max-250x250.png"],
+     [[328,
+       92],
+      "assets/images/resized/0026/0801/260801v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Babak",
+      "last_name": "Sadighi",
+      "permalink": "babak-sadighi",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Erik",
+      "last_name": "Rissanen",
+      "permalink": "erik-rissanen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$6.5M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://www.axiomatics.com/news.html",
+    "source_description": "Leading independent authorization solution provider Axiomatics, secures $6.5 million funding",
+    "raised_amount": 6500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 7,
+    "investments":
+     [{"company":
+        {"name": "Monterro",
+         "permalink": "monterro",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

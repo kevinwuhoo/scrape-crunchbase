@@ -1,0 +1,134 @@
+{"name": "Tarsnap",
+ "permalink": "tarsnap",
+ "crunchbase_url": "http://www.crunchbase.com/company/tarsnap",
+ "homepage_url": "http://www.tarsnap.com/",
+ "blog_url": "http://www.daemonology.net/blog/",
+ "blog_feed_url": "http://www.daemonology.net/blog/index.rss",
+ "twitter_username": "cperciva",
+ "category_code": "network_hosting",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "backup",
+ "alias_list": null,
+ "email_address": "cperciva@tarsnap.com",
+ "phone_number": "",
+ "description": "Secure online backup service",
+ "created_at": "Fri Nov 27 19:46:25 UTC 2009",
+ "updated_at": "Mon Nov 30 19:17:40 UTC 2009",
+ "overview": "\u003Cp\u003ETarsnap is a secure online backup service for BSD, Linux, OS X, Solaris, Cygwin, and other UNIXy operating systems.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Tarsnap",
+    "permalink": "tarsnap",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Colin",
+      "last_name": "Percival",
+      "permalink": "colin-percival",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SpiderOak",
+      "permalink": "spideroak",
+      "image":
+       {"available_sizes":
+         [[[149,
+            124],
+           "assets/images/resized/0002/3518/23518v1-max-150x150.png"],
+          [[149,
+            124],
+           "assets/images/resized/0002/3518/23518v1-max-250x250.png"],
+          [[149,
+            124],
+           "assets/images/resized/0002/3518/23518v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mozy",
+      "permalink": "mozy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/0982/982v1-max-150x150.png"],
+          [[206,
+            52],
+           "assets/images/resized/0000/0982/982v1-max-250x250.png"],
+          [[206,
+            52],
+           "assets/images/resized/0000/0982/982v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Carbonite",
+      "permalink": "carbonite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            122],
+           "assets/images/resized/0000/3493/3493v2-max-150x150.png"],
+          [[250,
+            204],
+           "assets/images/resized/0000/3493/3493v2-max-250x250.png"],
+          [[275,
+            225],
+           "assets/images/resized/0000/3493/3493v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jungle Disk",
+      "permalink": "jungledisk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0001/5533/15533v4-max-150x150.png"],
+          [[242,
+            42],
+           "assets/images/resized/0001/5533/15533v4-max-250x250.png"],
+          [[242,
+            42],
+           "assets/images/resized/0001/5533/15533v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,214 @@
+{"name": "Chargify",
+ "permalink": "chargify",
+ "crunchbase_url": "http://www.crunchbase.com/company/chargify",
+ "homepage_url": "http://chargify.com",
+ "blog_url": "https://chargify.com/blog/",
+ "blog_feed_url": "https://chargify.com/blog/",
+ "twitter_username": "chargify",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recurring-billing, financial-services, saas-billing, software-as-a-service",
+ "alias_list": "",
+ "email_address": "marketing@chargify.com",
+ "phone_number": "1-800-401-2414",
+ "description": "Recurring billing for web 2.0",
+ "created_at": "Fri Aug 28 12:13:39 UTC 2009",
+ "updated_at": "Mon Mar 18 07:48:42 UTC 2013",
+ "overview": "\u003Cp\u003EChargify simplifies recurring billing for Web 2.0 and SaaS companies. Build innovative web applications without worrying how to bill your customers. Whether you\u00e2\u20ac\u2122re a startup or a well established business needing to bill thousands of customers a month, Chargify works for you.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       64],
+      "assets/images/resized/0005/7969/57969v11-max-150x150.jpg"],
+     [[250,
+       107],
+      "assets/images/resized/0005/7969/57969v11-max-250x250.jpg"],
+     [[406,
+       174],
+      "assets/images/resized/0005/7969/57969v11-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Siamak",
+      "last_name": "Taghaddos",
+      "permalink": "siamak-taghaddos",
+      "image":
+       {"available_sizes":
+         [[[116,
+            150],
+           "assets/images/resized/0008/7470/87470v2-max-150x150.jpg"],
+          [[128,
+            165],
+           "assets/images/resized/0008/7470/87470v2-max-250x250.jpg"],
+          [[128,
+            165],
+           "assets/images/resized/0008/7470/87470v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Lance",
+      "last_name": "Walley",
+      "permalink": "lance-walley",
+      "image":
+       {"available_sizes":
+         [[[133,
+            150],
+           "assets/images/resized/0001/0330/10330v1-max-150x150.jpg"],
+          [[160,
+            180],
+           "assets/images/resized/0001/0330/10330v1-max-250x250.jpg"],
+          [[160,
+            180],
+           "assets/images/resized/0001/0330/10330v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Hauser",
+      "permalink": "david-hauser",
+      "image":
+       {"available_sizes":
+         [[[133,
+            150],
+           "assets/images/resized/0011/9262/119262v2-max-150x150.jpg"],
+          [[222,
+            250],
+           "assets/images/resized/0011/9262/119262v2-max-250x250.jpg"],
+          [[289,
+            324],
+           "assets/images/resized/0011/9262/119262v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Recurly",
+      "permalink": "recurly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0006/1348/61348v4-max-150x150.png"],
+          [[250,
+            76],
+           "assets/images/resized/0006/1348/61348v4-max-250x250.png"],
+          [[300,
+            92],
+           "assets/images/resized/0006/1348/61348v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CheddarGetter",
+      "permalink": "cheddargetter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0005/6264/56264v1-max-150x150.png"],
+          [[250,
+            146],
+           "assets/images/resized/0005/6264/56264v1-max-250x250.png"],
+          [[293,
+            172],
+           "assets/images/resized/0005/6264/56264v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zuora",
+      "permalink": "zuora",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0001/5655/15655v7-max-150x150.jpg"],
+          [[200,
+            88],
+           "assets/images/resized/0001/5655/15655v7-max-250x250.jpg"],
+          [[200,
+            88],
+           "assets/images/resized/0001/5655/15655v7-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Aria Systems",
+      "permalink": "aria-systems",
+      "image":
+       {"available_sizes":
+         [[[150,
+            94],
+           "assets/images/resized/0001/8968/18968v8-max-150x150.png"],
+          [[150,
+            94],
+           "assets/images/resized/0001/8968/18968v8-max-250x250.png"],
+          [[150,
+            94],
+           "assets/images/resized/0001/8968/18968v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vindicia",
+      "permalink": "vindicia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0018/7091/187091v1-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0018/7091/187091v1-max-250x250.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0018/7091/187091v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Braintree",
+      "permalink": "braintree-payment-solutions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0008/5551/85551v4-max-150x150.png"],
+          [[190,
+            49],
+           "assets/images/resized/0008/5551/85551v4-max-250x250.png"],
+          [[190,
+            49],
+           "assets/images/resized/0008/5551/85551v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Needham",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"344\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/C736flHVTIM\u0026hl=en\u0026fs=1\u0026\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/C736flHVTIM\u0026hl=en\u0026fs=1\u0026\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

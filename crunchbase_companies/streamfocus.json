@@ -1,0 +1,116 @@
+{"name": "StreamFocus",
+ "permalink": "streamfocus",
+ "crunchbase_url": "http://www.crunchbase.com/company/streamfocus",
+ "homepage_url": "http://streamfocus.com/",
+ "blog_url": "http://blog.streamfocus.com/",
+ "blog_feed_url": "http://blog.streamfocus.com/feed/",
+ "twitter_username": null,
+ "category_code": "public_relations",
+ "number_of_employees": 2,
+ "founded_year": 2006,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "project-management, workflow-management, action-management, information-management, time-tracking, lean-management, gtd, collaboration",
+ "alias_list": null,
+ "email_address": "help@streamfocus.com",
+ "phone_number": "415 515 5526",
+ "description": null,
+ "created_at": "Thu Jun 05 17:53:17 UTC 2008",
+ "updated_at": "Mon May 20 19:38:15 UTC 2013",
+ "overview": "\u003Cp\u003EStreamFocus is an on-demand integrated project, workflow and action (task) management system that keeps teams focused on the next action that will have the biggest impact on customer value.\u003C/p\u003E\n\n\u003Cp\u003EStreamFocus offers easy and dynamic linking of project workflows to respond to the situation at hand. These critical path links prevent costly rework by showing only top priority critical actions for all project participants.\u003C/p\u003E\n\n\u003Cp\u003EAll participants are integrated into the project structure, from internal staff to vendors and customers.  The customer owns the project and the collaborators own their workflows within the overall project structure - each constraining the others as the project\u0026#8217;s overall critical path demands.\u003C/p\u003E\n\n\u003Cp\u003EStore emails, phone calls, meeting notes and documents, organized contextually within the workflow, naturally as the work is done. File storage is reliable, secure, online and backed up in multiple secured locations hosted by Amazon\u0026#8217;s S3 Simple Storage Service. Our workflow templates allow capturing of and reusing workflow knowledge and finding information using those templates.  \u003C/p\u003E\n\n\u003Cp\u003EAll active operations within Streamfocus are contextually timed. For example, if you add a document such as a phone call to an action, the system automatically starts a session for you linked to that action as you begin the call.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0001/9988/19988v2-max-150x150.jpg"],
+     [[250,
+       73],
+      "assets/images/resized/0001/9988/19988v2-max-250x250.jpg"],
+     [[407,
+       120],
+      "assets/images/resized/0001/9988/19988v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "StreamFocus",
+    "permalink": "streamfocus",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Fred",
+      "last_name": "Gibson",
+      "permalink": "fred-gibson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Hinchey",
+      "permalink": "mike-hinchey",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LiquidPlanner",
+      "permalink": "liquidplanner",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0001/1493/11493v11-max-150x150.jpg"],
+          [[250,
+            40],
+           "assets/images/resized/0001/1493/11493v11-max-250x250.jpg"],
+          [[450,
+            73],
+           "assets/images/resized/0001/1493/11493v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AtTask",
+      "permalink": "attask",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/0501/20501v4-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0002/0501/20501v4-max-250x250.png"],
+          [[450,
+            135],
+           "assets/images/resized/0002/0501/20501v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Atlanta",
+    "state_code": "GA",
+    "country_code": "USA",
+    "latitude": 37.78594,
+    "longitude": -122.3978}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.pchristensen.com/blog/articles/streamfocus-an-organizational-power-tool-waiting-to-be-unleashed/",
+    "title": "StreamFocus - An Organizational Power Tool Waiting To Be Unleashed"}]}

@@ -1,0 +1,178 @@
+{"name": "KillerStartups",
+ "permalink": "killerstartups",
+ "crunchbase_url": "http://www.crunchbase.com/company/killerstartups",
+ "homepage_url": "http://killerstartups.com",
+ "blog_url": "http://www.killerstartups.com/blog",
+ "blog_feed_url": "http://www.killerblog.com/feed/",
+ "twitter_username": "killerstartups",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "internet, startups, directory, 2-0",
+ "alias_list": "",
+ "email_address": "info@killerstartups.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Oct 09 16:27:18 UTC 2008",
+ "updated_at": "Thu May 09 05:30:56 UTC 2013",
+ "overview": "\u003Cp\u003EKillerStartups.com is a user driven internet startups community. Entrepreneurs, investors, and bloggers are staying informed on up-and-coming internet startups using our blog platform, where internet entrepreneurs submit their startup to see what others think about it. KillerStartups reviews 15+ internet startups per working day.\u003C/p\u003E\n\n\u003Cp\u003ETheir vision: \u00e2\u20ac\u0153Tapping the wisdom of crowds to find the next internet big thing.\u00e2\u20ac\u009d They deeply believe in the power of crowds, and we want to put it to good use by detecting in an early stage what\u00e2\u20ac\u2122s going to be big.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       26],
+      "assets/images/resized/0002/6468/26468v5-max-150x150.png"],
+     [[250,
+       43],
+      "assets/images/resized/0002/6468/26468v5-max-250x250.png"],
+     [[343,
+       60],
+      "assets/images/resized/0002/6468/26468v5-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Startups.com",
+    "permalink": "startups-com",
+    "image":
+     {"available_sizes":
+       [[[150,
+          46],
+         "assets/images/resized/0006/5060/65060v1-max-150x150.png"],
+        [[244,
+          75],
+         "assets/images/resized/0006/5060/65060v1-max-250x250.png"],
+        [[244,
+          75],
+         "assets/images/resized/0006/5060/65060v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Fernando",
+      "last_name": "Arzuaga",
+      "permalink": "fernando-arzuaga",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Gonzalo",
+      "last_name": "Arzuaga",
+      "permalink": "gonzalo-arzuaga",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0002/7652/27652v3-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0002/7652/27652v3-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0002/7652/27652v3-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "VP Marketing",
+    "person":
+     {"first_name": "Pepe",
+      "last_name": "Amorin",
+      "permalink": "pepe-amorin",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/0349/260349v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0349/260349v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/0349/260349v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Matias",
+      "last_name": "de Tezanos",
+      "permalink": "matias-de-tezanos",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0008/6344/86344v3-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0008/6344/86344v3-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0008/6344/86344v3-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "IT Services Provider",
+    "is_past": false,
+    "provider":
+     {"name": "Crea Labs",
+      "permalink": "crea-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0005/6692/56692v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0005/6692/56692v2-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0005/6692/56692v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$250k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://www.techcrunch.com/2008/10/30/killerstartups-gets-a-killer-deal-on-startupscom/",
+    "source_description": "KillerStartups Acquires Startups.com - TechCrunch",
+    "raised_amount": 250000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Matias",
+         "last_name": "de Tezanos",
+         "permalink": "matias-de-tezanos",
+         "image":
+          {"available_sizes":
+            [[[100,
+               100],
+              "assets/images/resized/0008/6344/86344v3-max-150x150.jpg"],
+             [[100,
+               100],
+              "assets/images/resized/0008/6344/86344v3-max-250x250.jpg"],
+             [[100,
+               100],
+              "assets/images/resized/0008/6344/86344v3-max-450x450.jpg"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

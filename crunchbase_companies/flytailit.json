@@ -1,0 +1,104 @@
+{"name": "Flytailit",
+ "permalink": "flytailit",
+ "crunchbase_url": "http://www.crunchbase.com/company/flytailit",
+ "homepage_url": "http://www.flytailit.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "flytailit",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "flight-search, flights, hotels, hotel-search, travel, travel-search",
+ "alias_list": null,
+ "email_address": "info@flytailit.com",
+ "phone_number": "",
+ "description": "Travel Search and Discovery",
+ "created_at": "Wed Sep 14 21:35:55 UTC 2011",
+ "updated_at": "Mon Dec 12 18:38:07 UTC 2011",
+ "overview": "\u003Cp\u003EHelping you discover and book the perfect trip\u003C/p\u003E\n\n\u003Cp\u003EFlytailit is travel visualization and discovery finding you perfect last minute and date specific destinations with nice weather, cheap flight/hotel/ect, and great amenities/activities that you like when you get there\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0015/4206/154206v2-max-150x150.jpg"],
+     [[250,
+       57],
+      "assets/images/resized/0015/4206/154206v2-max-250x250.jpg"],
+     [[450,
+       103],
+      "assets/images/resized/0015/4206/154206v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Mulcahy",
+      "permalink": "ryan-mulcahy",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal, IP",
+    "is_past": false,
+    "provider":
+     {"name": "Perkins Coie",
+      "permalink": "perkins-coie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6893/16893v1-max-150x150.jpg"],
+          [[180,
+            79],
+           "assets/images/resized/0001/6893/16893v1-max-250x250.jpg"],
+          [[180,
+            79],
+           "assets/images/resized/0001/6893/16893v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Seattle",
+    "address1": "",
+    "address2": "",
+    "zip_code": "98101",
+    "city": "",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        109],
+       "assets/images/resized/0015/4205/154205v2-max-150x150.jpg"],
+      [[250,
+        182],
+       "assets/images/resized/0015/4205/154205v2-max-250x250.jpg"],
+      [[450,
+        329],
+       "assets/images/resized/0015/4205/154205v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techflash.com/seattle/2011/12/flytailit-lets-travelers-find-deals.html",
+    "title": "Flytailit lets travelers find the best deals for quick escapes"}]}

@@ -1,0 +1,98 @@
+{"name": "CloudLapse",
+ "permalink": "cloudlapse",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudlapse",
+ "homepage_url": "http://cloudlapse.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "cloudlapse",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, aws, twilio, sms, monitoring",
+ "alias_list": null,
+ "email_address": "info@cloudlapse.com",
+ "phone_number": "727-258-5054",
+ "description": "Cloud Outage Alerts",
+ "created_at": "Fri Jul 15 14:55:03 UTC 2011",
+ "updated_at": "Fri Jul 22 17:46:41 UTC 2011",
+ "overview": "\u003Cp\u003ECloudLapse monitors Twilio and Amazon Web Services, alerting you via SMS when there is a lapse or outage in their availability.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0014/4410/144410v2-max-150x150.png"],
+     [[250,
+       65],
+      "assets/images/resized/0014/4410/144410v2-max-250x250.png"],
+     [[280,
+       73],
+      "assets/images/resized/0014/4410/144410v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Bennett",
+      "permalink": "chris-bennett-3",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0007/2713/72713v8-max-150x150.jpg"],
+          [[201,
+            201],
+           "assets/images/resized/0007/2713/72713v8-max-250x250.jpg"],
+          [[201,
+            201],
+           "assets/images/resized/0007/2713/72713v8-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "SkyQuarters",
+    "address1": "600 1st Ave N",
+    "address2": "Suite 307",
+    "zip_code": "33701",
+    "city": "Saint Petersburg",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        85],
+       "assets/images/resized/0014/4409/144409v2-max-150x150.png"],
+      [[250,
+        141],
+       "assets/images/resized/0014/4409/144409v2-max-250x250.png"],
+      [[450,
+        255],
+       "assets/images/resized/0014/4409/144409v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

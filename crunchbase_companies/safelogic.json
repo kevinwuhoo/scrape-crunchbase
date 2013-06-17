@@ -1,0 +1,106 @@
+{"name": "SafeLogic",
+ "permalink": "safelogic",
+ "crunchbase_url": "http://www.crunchbase.com/company/safelogic",
+ "homepage_url": "http://www.safelogic.com",
+ "blog_url": "http://www.safelogic.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "safelogic",
+ "category_code": "security",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, security, compliance, suite-b, fips, fips-140",
+ "alias_list": null,
+ "email_address": "info@safelogic.com",
+ "phone_number": "",
+ "description": "Hardcore mobile / cloud security ",
+ "created_at": "Wed Mar 06 07:24:12 UTC 2013",
+ "updated_at": "Sun Mar 10 01:46:28 UTC 2013",
+ "overview": "\u003Cp\u003ESafeLogic provides security products for applications in mobile and server/appliance environments. \u003C/p\u003E\n\n\u003Cp\u003EOur flagship product, CryptoComply, is a standards-based \u201cDrop-in Compliance\u201d cryptographic engine for servers, workstations, appliances, and mobile devices. SafeLogic\u2019s cryptographic container delivers core cryptographic functions to these platforms and features robust algorithm support, including Suite B algorithms. CryptoComply offloads secure key management, data integrity, data at rest encryption, and secure communications to a trusted implementation. \u003C/p\u003E\n\n\u003Cp\u003EThe RapidCert\u2122 program allows product vendors implementing CryptoComply to receive a FIPS 140-2 validation certificate in their name quickly and with no interaction with a laboratory.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0024/0171/240171v2-max-150x150.png"],
+     [[250,
+       75],
+      "assets/images/resized/0024/0171/240171v2-max-250x250.png"],
+     [[450,
+       136],
+      "assets/images/resized/0024/0171/240171v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ray",
+      "last_name": "Potter",
+      "permalink": "ray-potter",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Wes",
+      "last_name": "Higaki",
+      "permalink": "wes-higaki",
+      "image": null}},
+   {"is_past": false,
+    "title": "Advisor",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Perret",
+      "permalink": "chris-perret",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Pillsbury Winthrop Shaw Pittman LLP",
+      "permalink": "pillsbury-winthrop-shaw-pittman-llp",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "530 Lytton Ave",
+    "address2": "Suite 200",
+    "zip_code": "94301",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[84,
+        150],
+       "assets/images/resized/0024/0170/240170v2-max-150x150.png"],
+      [[140,
+        250],
+       "assets/images/resized/0024/0170/240170v2-max-250x250.png"],
+      [[253,
+        450],
+       "assets/images/resized/0024/0170/240170v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

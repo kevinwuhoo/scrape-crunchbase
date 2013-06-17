@@ -1,0 +1,129 @@
+{"name": "NDrive",
+ "permalink": "ndrive",
+ "crunchbase_url": "http://www.crunchbase.com/company/ndrive",
+ "homepage_url": "http://www.ndrive.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ndrive",
+ "category_code": "software",
+ "number_of_employees": 70,
+ "founded_year": 2001,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "navigation, gps, software, lbs",
+ "alias_list": null,
+ "email_address": "ndrive@ndrive.com",
+ "phone_number": "+351 22 8320440",
+ "description": "GPS Navigation Software",
+ "created_at": "Thu Dec 30 11:03:23 UTC 2010",
+ "updated_at": "Sun Jan 02 02:34:11 UTC 2011",
+ "overview": "\u003Cp\u003ENDrive Navigation Systems, SA is a worldwide provider of navigation services to mobile platforms. Founded in 2001, the company has a staff of 70 people and is headquartered in Porto, Portugal with sales offices on all continents. \u003C/p\u003E\n\n\u003Cp\u003ENDrive currently sells its products in over 50 countries throughout the world under its own brand or via OEMs. Its customers include well known brands in categories such as laptop (HP) consumer electronics (ARCHOS), mapping portal (Mappy), handset manufacturer (Samsung, HTC, Toshiba) and wireless operator (TMN).\u003C/p\u003E\n\n\u003Cp\u003ENDrive\u00e2\u20ac\u2122s navigation software is running on Android, Apple\u0026#8217;s iOS, bada, Symbian and multiple Windows platforms on hundreds of mobile devices.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Luis",
+      "last_name": "Baptista-Coelho",
+      "permalink": "luis-baptista-coelho",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Navigon",
+      "permalink": "navigon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0013/9191/139191v2-max-150x150.jpg"],
+          [[250,
+            50],
+           "assets/images/resized/0013/9191/139191v2-max-250x250.jpg"],
+          [[450,
+            90],
+           "assets/images/resized/0013/9191/139191v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TomTom International",
+      "permalink": "tomtom-international",
+      "image":
+       {"available_sizes":
+         [[[120,
+            28],
+           "assets/images/resized/0006/4053/64053v1-max-150x150.png"],
+          [[120,
+            28],
+           "assets/images/resized/0006/4053/64053v1-max-250x250.png"],
+          [[120,
+            28],
+           "assets/images/resized/0006/4053/64053v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Copilot",
+      "permalink": "copilot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            97],
+           "assets/images/resized/0015/4486/154486v1-max-150x150.jpg"],
+          [[173,
+            112],
+           "assets/images/resized/0015/4486/154486v1-max-250x250.jpg"],
+          [[173,
+            112],
+           "assets/images/resized/0015/4486/154486v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nav N Go",
+      "permalink": "nav-n-go",
+      "image": null}}],
+ "providerships":
+  [{"title": "Communication",
+    "is_past": false,
+    "provider":
+     {"name": "Insomnia",
+      "permalink": "insomnia",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Estrada da Circunvala\u00c3\u00a7\u00c3\u00a3o, n\u00c2\u00ba 10415",
+    "address2": "",
+    "zip_code": "4250-151",
+    "city": "Porto",
+    "state_code": null,
+    "country_code": "PRT",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        105],
+       "assets/images/resized/0011/5803/115803v2-max-150x150.png"],
+      [[250,
+        176],
+       "assets/images/resized/0011/5803/115803v2-max-250x250.png"],
+      [[450,
+        317],
+       "assets/images/resized/0011/5803/115803v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

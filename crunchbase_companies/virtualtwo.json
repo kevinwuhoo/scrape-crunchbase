@@ -1,0 +1,163 @@
+{"name": "Virtualtwo",
+ "permalink": "virtualtwo",
+ "crunchbase_url": "http://www.crunchbase.com/company/virtualtwo",
+ "homepage_url": "http://virtualtwo.com",
+ "blog_url": "http://blog.virtualtwo.com",
+ "blog_feed_url": "http://feeds.feedburner.com/virtualtwo_es",
+ "twitter_username": "virtualtwo",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "fashion, social, shopping, wardrobe, closet, clothing, accessories, e-commerce, gamification, brands",
+ "alias_list": null,
+ "email_address": "info@virtualtwo.com",
+ "phone_number": "+34 931 809 811",
+ "description": "Social shopping for fashion",
+ "created_at": "Tue May 31 11:15:43 UTC 2011",
+ "updated_at": "Thu Jun 02 05:57:25 UTC 2011",
+ "overview": "\u003Cp\u003EVirtualtwo is a fashion portal were users can build and customize their own virtual wardrobe and fill it with all the garments and accessories that they own or want to have.\u003C/p\u003E\n\n\u003Cp\u003EUsers can share their virtual closet through Facebook and take a look at their friend\u0026#8217;s collections.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       142],
+      "assets/images/resized/0013/7094/137094v2-max-150x150.png"],
+     [[164,
+       156],
+      "assets/images/resized/0013/7094/137094v2-max-250x250.png"],
+     [[164,
+       156],
+      "assets/images/resized/0013/7094/137094v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Joan",
+      "last_name": "Ricart Rof",
+      "permalink": "joan-ricart-rof",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Pere",
+      "last_name": "Picornell i Busquets",
+      "permalink": "pere-picornell-i-busquets",
+      "image":
+       {"available_sizes":
+         [[[116,
+            150],
+           "assets/images/resized/0016/1249/161249v2-max-150x150.png"],
+          [[194,
+            250],
+           "assets/images/resized/0016/1249/161249v2-max-250x250.png"],
+          [[350,
+            450],
+           "assets/images/resized/0016/1249/161249v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Alberto",
+      "last_name": "Trobo",
+      "permalink": "alberto-trobo",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Polyvore",
+      "permalink": "polyvore",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0000/1273/1273v8-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0000/1273/1273v8-max-250x250.png"],
+          [[274,
+            48],
+           "assets/images/resized/0000/1273/1273v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ShopStyle",
+      "permalink": "shopstyle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0006/7312/67312v1-max-150x150.jpg"],
+          [[234,
+            46],
+           "assets/images/resized/0006/7312/67312v1-max-250x250.jpg"],
+          [[234,
+            46],
+           "assets/images/resized/0006/7312/67312v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac150k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.expansion.com/2011/04/11/catalunya/1302548236.html?a=1efa1d562335c0069663e93d971365ea\u0026t=1302587860",
+    "source_description": "Virtualtwo cierra una ronda con La Caixa y har\u00c3\u00a1 una colocaci\u00c3\u00b3n privada",
+    "raised_amount": 150000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 4,
+    "funded_day": 11,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Caixa Capital Risc",
+         "permalink": "caixa-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               101],
+              "assets/images/resized/0004/6124/46124v1-max-150x150.png"],
+             [[172,
+               116],
+              "assets/images/resized/0004/6124/46124v1-max-250x250.png"],
+             [[172,
+               116],
+              "assets/images/resized/0004/6124/46124v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Various",
+         "last_name": "Private Investors",
+         "permalink": "various-private-investors",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Barcelona Headquarters",
+    "address1": "Ronda Maiols 1",
+    "address2": "",
+    "zip_code": "08192",
+    "city": "Sant Quirze del Vall\u00c3\u00a8s",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

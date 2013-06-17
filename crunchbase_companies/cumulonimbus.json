@@ -1,0 +1,96 @@
+{"name": "Cumulonimbus",
+ "permalink": "cumulonimbus",
+ "crunchbase_url": "http://www.crunchbase.com/company/cumulonimbus",
+ "homepage_url": "http://pressurenet.cumulonimbus.ca",
+ "blog_url": "http://cumulonimbus.ca/",
+ "blog_feed_url": "http://www.cumulonimbus.ca/feed/",
+ "twitter_username": "cumulonimbus_c",
+ "category_code": "software",
+ "number_of_employees": 0,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "android, weather, forecasting, nowcasting, prediction, pressure, atmosphere",
+ "alias_list": null,
+ "email_address": "software@cumulonimbus.ca",
+ "phone_number": "",
+ "description": "Innovative Atmosphere Data Collection",
+ "created_at": "Wed Mar 20 18:16:07 UTC 2013",
+ "updated_at": "Wed Mar 20 18:16:14 UTC 2013",
+ "overview": "\u003Cp\u003ECumulonimbus builds pressureNET, an application that runs on Android and periodically collects atmospheric pressure data from on-board barometers. \u003C/p\u003E\n\n\u003Cp\u003EThe app sends this data to their servers, where they store and then disseminate it to research partners. They\u0026#8217;re collaborating with atmospheric science researchers to make the best use of the data. The live weather data collected at that scale could be valuable and could be used to create highly accurate short term weather forecasts.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Co-founder",
+    "person":
+     {"first_name": "Jacob",
+      "last_name": "Sheehy",
+      "permalink": "jacob-sheehy",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jared",
+      "last_name": "Kerim",
+      "permalink": "jared-kerim",
+      "image": null}},
+   {"is_past": false,
+    "title": "CCO / Co-founder",
+    "person":
+     {"first_name": "Phil",
+      "last_name": "Jones",
+      "permalink": "phil-jones",
+      "image": null}},
+   {"is_past": false,
+    "title": "CSO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Mucalov",
+      "permalink": "alex-mucalov",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[90,
+        150],
+       "assets/images/resized/0024/4028/244028v2-max-150x150.png"],
+      [[150,
+        250],
+       "assets/images/resized/0024/4028/244028v2-max-250x250.png"],
+      [[270,
+        450],
+       "assets/images/resized/0024/4028/244028v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.wired.com/wiredscience/2013/01/android-weather-prediction/",
+    "title": "Wired Science: Your Android Phone Could Help Scientists Predict Your Weather"},
+   {"external_url": "http://www.technologyreview.com/news/510626/app-feeds-scientists-atmospheric-data-from-thousands-of-smartphones/",
+    "title": "MIT Technology Review: App Feeds Scientists Atmospheric Data from Thousands of Smartphones "},
+   {"external_url": "http://www.scientificamerican.com/podcast/episode.cfm?id=smartphone-barometers-create-weathe-13-02-21",
+    "title": "Scientific American: Smartphone Barometers Create Weather Station Network"},
+   {"external_url": "http://www.washington.edu/news/2013/02/06/smartphones-tablets-help-uw-researchers-improve-storm-forecasts/",
+    "title": "Smartphones, tablets help UW researchers improve storm forecasts"}]}

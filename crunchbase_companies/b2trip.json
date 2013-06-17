@@ -1,0 +1,108 @@
+{"name": "B2Trip",
+ "permalink": "b2trip",
+ "crunchbase_url": "http://www.crunchbase.com/company/b2trip",
+ "homepage_url": "http://www.b2trip.com",
+ "blog_url": "http://www.b2trip.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "b2trip",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, crowdsource, trip",
+ "alias_list": null,
+ "email_address": "wilton.pinheiro@b2trip.com",
+ "phone_number": "+551137172711",
+ "description": "Get help to plan your trip!",
+ "created_at": "Sun Jul 31 16:49:31 UTC 2011",
+ "updated_at": "Tue Dec 27 08:18:41 UTC 2011",
+ "overview": "\u003Cp\u003EViajeMe is a Brazilian startup to help travellers get inspired, plan and book their trip. At ViajeMe you can search and compare lots of travel packages and itineraries, so is not only about flight tickets and hotels, is all about the whole experience!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       99],
+      "assets/images/resized/0014/7488/147488v2-max-150x150.png"],
+     [[184,
+       122],
+      "assets/images/resized/0014/7488/147488v2-max-250x250.png"],
+     [[184,
+       122],
+      "assets/images/resized/0014/7488/147488v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Wilton",
+      "last_name": "Pinheiro",
+      "permalink": "wilton-pinheiro",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Madruga",
+      "permalink": "daniel-madruga",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Tripology",
+      "permalink": "tripology",
+      "image":
+       {"available_sizes":
+         [[[150,
+            103],
+           "assets/images/resized/0001/4910/14910v1-max-150x150.png"],
+          [[192,
+            133],
+           "assets/images/resized/0001/4910/14910v1-max-250x250.png"],
+          [[192,
+            133],
+           "assets/images/resized/0001/4910/14910v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "Al. Lorena 280",
+    "address2": "",
+    "zip_code": "01424000",
+    "city": "Sao Paulo",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        92],
+       "assets/images/resized/0014/7128/147128v2-max-150x150.png"],
+      [[250,
+        154],
+       "assets/images/resized/0014/7128/147128v2-max-250x250.png"],
+      [[450,
+        277],
+       "assets/images/resized/0014/7128/147128v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,114 @@
+{"name": "MessageGears",
+ "permalink": "messagegears",
+ "crunchbase_url": "http://www.crunchbase.com/company/messagegears",
+ "homepage_url": "http://www.messagegears.com",
+ "blog_url": "",
+ "blog_feed_url": "http://www.messagegears.com/feed/",
+ "twitter_username": "messagegears",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "email, deliverability, transactional-email, bulk-email, email-amazon, email-ec2, email-api, outsource-email",
+ "alias_list": null,
+ "email_address": "info@messagegears.com",
+ "phone_number": "(866) 611-9844",
+ "description": "Email Delivery for Business Critical App",
+ "created_at": "Wed Nov 24 15:56:52 UTC 2010",
+ "updated_at": "Sat Mar 17 09:34:02 UTC 2012",
+ "overview": "\u003Cp\u003EEmail Delivery for Business Critical Applications.\u003C/p\u003E\n\n\u003Cp\u003EMessageGears provides email marketing and delivery infrastructure that empowers organizations of all sizes to solve their email challenges. Whether you need to deliver single transactional emails or campaigns to millions of individuals MessageGears has a solution that can accommodate your needs. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0011/1548/111548v2-max-150x150.jpg"],
+     [[250,
+       36],
+      "assets/images/resized/0011/1548/111548v2-max-250x250.jpg"],
+     [[341,
+       50],
+      "assets/images/resized/0011/1548/111548v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Roy",
+      "permalink": "dan-roy",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Smith",
+      "permalink": "greg-smith-5",
+      "image": null}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Roy",
+      "permalink": "dan-roy",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SendGrid",
+      "permalink": "sendgrid",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0010/7565/107565v3-max-150x150.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-250x250.png"],
+          [[250,
+            72],
+           "assets/images/resized/0010/7565/107565v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$625k",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 625000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 7,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Atlanta",
+    "address1": "75 5th Street NW",
+    "address2": "Suite 221",
+    "zip_code": "30308",
+    "city": "Atlanta",
+    "state_code": "GA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,122 @@
+{"name": "Nexcess",
+ "permalink": "nexcess",
+ "crunchbase_url": "http://www.crunchbase.com/company/nexcess",
+ "homepage_url": "http://www.nexcess.net",
+ "blog_url": "http://blog.nexcess.net",
+ "blog_feed_url": "http://blog.nexcess.net/feed/",
+ "twitter_username": "nexcess",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": 7,
+ "founded_day": 26,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "magento-hosting, ecommerce-hosting, web-hosting, hosting",
+ "alias_list": null,
+ "email_address": "sales@nexcess.net",
+ "phone_number": "+1-866-639-2377",
+ "description": "Nexcess eCommerce Web Hosting",
+ "created_at": "Thu Mar 17 20:12:13 UTC 2011",
+ "updated_at": "Wed Mar 23 22:30:39 UTC 2011",
+ "overview": "\u003Cp\u003ENexcess is a Michigan-based web hosting provider known for their enterprise eCommerce hosting solutions.  Founded in 2000, company\u0026#8217;s in-house team of web hosting experts delivers services from offices adjacent to a wholly-owned data center located in Dearborn, MI.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       109],
+      "assets/images/resized/0012/6728/126728v2-max-150x150.jpg"],
+     [[250,
+       183],
+      "assets/images/resized/0012/6728/126728v2-max-250x250.jpg"],
+     [[280,
+       205],
+      "assets/images/resized/0012/6728/126728v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+          [[300,
+            109],
+           "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Peer1",
+      "permalink": "peer1",
+      "image":
+       {"available_sizes":
+         [[[147,
+            48],
+           "assets/images/resized/0001/9502/19502v1-max-150x150.png"],
+          [[147,
+            48],
+           "assets/images/resized/0001/9502/19502v1-max-250x250.png"],
+          [[147,
+            48],
+           "assets/images/resized/0001/9502/19502v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Enterprise Partner",
+    "is_past": false,
+    "provider":
+     {"name": "Magento Ecommerce",
+      "permalink": "magento-ecommerce",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Office",
+    "address1": "304 \u00c2\u00bd S. State St. ",
+    "address2": "",
+    "zip_code": "48104",
+    "city": "Ann Arbor",
+    "state_code": "MI",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        144],
+       "assets/images/resized/0012/6727/126727v2-max-150x150.jpg"],
+      [[250,
+        239],
+       "assets/images/resized/0012/6727/126727v2-max-250x250.jpg"],
+      [[300,
+        288],
+       "assets/images/resized/0012/6727/126727v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.thewhir.com/web-hosting-news/030311_Web_Host_Nexcess_Offers_Managed_Cluster_Solutions_for_Ecommerce_Sites",
+    "title": "Web Host Nexcess Offers Managed Cluster Solutions for Ecommerce Sites"},
+   {"external_url": "http://www.thewhir.com/web-hosting-news/022211_Web_Host_Nexcess_Launches_Content_Delivery_Network",
+    "title": "Web Host Nexcess Launches Content Delivery Network "},
+   {"external_url": "http://www.thewhir.com/web-hosting-news/082109_Nexcess_To_Launch_Magento_SIP_Reseller_Plan",
+    "title": "Nexcess To Launch Magento SIP Reseller Plan "},
+   {"external_url": "http://www.thewhir.com/web-hosting-news/121407_NEXCESS.NET_Launches_New_Division",
+    "title": "NEXCESS.NET Launches New Division "}]}

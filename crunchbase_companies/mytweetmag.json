@@ -1,0 +1,129 @@
+{"name": "MyTweetMag",
+ "permalink": "mytweetmag",
+ "crunchbase_url": "http://www.crunchbase.com/company/mytweetmag",
+ "homepage_url": "http://www.mytweetmag.com",
+ "blog_url": "http://blog.mytweetmag.com",
+ "blog_feed_url": "http://blog.mytweetmag.com/index.php/feed/",
+ "twitter_username": "mytweetmag",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mashup, twitter, bookmarking, streaming, filtering, news, aggregation",
+ "alias_list": null,
+ "email_address": "hello@mytweetmag.com",
+ "phone_number": "04043265443",
+ "description": "Create Collaborative TweetMags",
+ "created_at": "Sat Aug 21 07:02:11 UTC 2010",
+ "updated_at": "Mon Aug 23 19:50:01 UTC 2010",
+ "overview": "\u003Cp\u003EMyTweetMags creates a magazine-like newsstream based on twitterlinks and filtered with a hashtag. \u003C/p\u003E\n\n\u003Cp\u003EMyTweetMag can be used by a single twitterer or by a group of twitteres to create a personal newsticker or newsmagazine. Twitterer can use their twitter-accounts to join and to start a new TweetMag. The plattform has several additional functionalities like: \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EIntegrate the TweetMag-Stream into a wordpress-blog with a plugin\u003C/li\u003E\n\u003Cli\u003Esubscribe magazines\u003C/li\u003E\n\u003Cli\u003Erate magazines\u003C/li\u003E\n\u003Cli\u003Eactivate and edit a calendar\u003C/li\u003E\n\u003Cli\u003Eactivate and edit a special news-section\u003C/li\u003E\n\u003Cli\u003Edifferent search functionalities to find news, tags and tweetmags by topic\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0009/8758/98758v2-max-150x150.jpg"],
+     [[180,
+       50],
+      "assets/images/resized/0009/8758/98758v2-max-250x250.jpg"],
+     [[180,
+       50],
+      "assets/images/resized/0009/8758/98758v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "furthere.com",
+      "permalink": "furthere-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0011/8895/118895v1-max-150x150.jpg"],
+          [[250,
+            81],
+           "assets/images/resized/0011/8895/118895v1-max-250x250.jpg"],
+          [[269,
+            88],
+           "assets/images/resized/0011/8895/118895v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Paper.li",
+      "permalink": "paper-li",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0011/6952/116952v2-max-150x150.jpg"],
+          [[250,
+            83],
+           "assets/images/resized/0011/6952/116952v2-max-250x250.jpg"],
+          [[387,
+            130],
+           "assets/images/resized/0011/6952/116952v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "twittertim.es",
+      "permalink": "twittertim-es",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        130],
+       "assets/images/resized/0009/8755/98755v2-max-150x150.jpg"],
+      [[250,
+        217],
+       "assets/images/resized/0009/8755/98755v2-max-250x250.jpg"],
+      [[450,
+        391],
+       "assets/images/resized/0009/8755/98755v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        143],
+       "assets/images/resized/0009/8756/98756v2-max-150x150.jpg"],
+      [[250,
+        239],
+       "assets/images/resized/0009/8756/98756v2-max-250x250.jpg"],
+      [[450,
+        431],
+       "assets/images/resized/0009/8756/98756v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[146,
+        150],
+       "assets/images/resized/0009/8757/98757v2-max-150x150.jpg"],
+      [[243,
+        250],
+       "assets/images/resized/0009/8757/98757v2-max-250x250.jpg"],
+      [[438,
+        450],
+       "assets/images/resized/0009/8757/98757v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.usefultools.com/2010/07/create-a-magazine-from-tweets/",
+    "title": "Review in Usefull Tools"}]}

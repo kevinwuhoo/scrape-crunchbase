@@ -1,0 +1,172 @@
+{"name": "Youmpa",
+ "permalink": "youmpa",
+ "crunchbase_url": "http://www.crunchbase.com/company/youmpa",
+ "homepage_url": "http://www.youmpa.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "youmpa",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, e-commerce, events, ticketing, search, lbs, location-based-service, geolocalization",
+ "alias_list": null,
+ "email_address": "info@youmpa.com",
+ "phone_number": "+39 3476092515",
+ "description": "Social Event Commerce",
+ "created_at": "Thu May 31 14:43:25 UTC 2012",
+ "updated_at": "Fri Jun 08 02:56:14 UTC 2012",
+ "overview": "\u003Cp\u003EYoumpa is a Web and Mobile platform that allow users to\nfind, share and buy events they like, and also allow organizer and promoter to manage, sell and promote their own events.\u003C/p\u003E\n\n\u003Cp\u003EYoumpa is a Location Based Service, built upon an algorithm which forms a ranking of all the events in the next future; the criteria to sort the events are based upon location \u0026amp; time, users interests \u0026amp; friends activities, popularity of the event, reviews from other user, \u0026#8230;\u003C/p\u003E\n\n\u003Cp\u003EEvents range from courses to showcooking: it\u0026#8217;s up to the users personalize their experience in Youmpa.\u003C/p\u003E\n\n\u003Cp\u003EAfter having searched for something to do, users can \u0026#8220;Clip\u0026#8221; the events they like: by \u0026#8220;clipping\u0026#8221; they boost the ranking of the event, send a message to all their followers in Youmpa, share the action on their fb profile and fill their own Clipboard (the showcase of all the activities they like most).\u003C/p\u003E\n\n\u003Cp\u003EIn addition, users can Buy tickets to attend to the events and upload their photos \u0026amp; videos or review the event, contributing to the evaluation of both the event and the organizer.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0019/3304/193304v2-max-150x150.jpg"],
+     [[206,
+       206],
+      "assets/images/resized/0019/3304/193304v2-max-250x250.jpg"],
+     [[206,
+       206],
+      "assets/images/resized/0019/3304/193304v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Massimo",
+      "last_name": "Mauri",
+      "permalink": "massimo-mauri",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Eventbrite",
+      "permalink": "eventbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/3442/3442v8-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0000/3442/3442v8-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/3442/3442v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventful",
+      "permalink": "eventful",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0024/6014/246014v2-max-150x150.jpg"],
+          [[250,
+            88],
+           "assets/images/resized/0024/6014/246014v2-max-250x250.jpg"],
+          [[450,
+            159],
+           "assets/images/resized/0024/6014/246014v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zvents",
+      "permalink": "zvents",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0001/4245/14245v1-max-150x150.png"],
+          [[196,
+            72],
+           "assets/images/resized/0001/4245/14245v1-max-250x250.png"],
+          [[196,
+            72],
+           "assets/images/resized/0001/4245/14245v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "via Gian Giacomo Mora 22",
+    "address2": "",
+    "zip_code": "",
+    "city": "Milan",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        119],
+       "assets/images/resized/0019/3302/193302v2-max-150x150.png"],
+      [[250,
+        199],
+       "assets/images/resized/0019/3302/193302v2-max-250x250.png"],
+      [[450,
+        358],
+       "assets/images/resized/0019/3302/193302v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        100],
+       "assets/images/resized/0019/3303/193303v2-max-150x150.png"],
+      [[250,
+        168],
+       "assets/images/resized/0019/3303/193303v2-max-250x250.png"],
+      [[450,
+        302],
+       "assets/images/resized/0019/3303/193303v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,111 @@
+{"name": "TwTip",
+ "permalink": "twtip",
+ "crunchbase_url": "http://www.crunchbase.com/company/twtip",
+ "homepage_url": "http://twtip.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, tips",
+ "alias_list": "",
+ "email_address": "hello@twtip.com",
+ "phone_number": "4152179837",
+ "description": "Twitter Recommendation App",
+ "created_at": "Thu Jan 22 01:35:13 UTC 2009",
+ "updated_at": "Fri Feb 12 05:08:45 UTC 2010",
+ "overview": "\u003Cp\u003ETwTip is designed to find and show awesome tips that are shared by Twitter fellows.\u003C/p\u003E\n\n\u003Cp\u003ETwTip is for everyone who is hungry for knowledge. They created a bot which fetches all new tweets and picks the best valuable tips for you. With its lovely and simple interface, you can easily find tweet tips in any subject, like Photoshop, Macintosh, and even cooking or health.\u003C/p\u003E\n\n\u003Cp\u003EShake it up feature is a deadly simple way to get random tweets. Also trending topics let you to find what\u0026#8217;s hot on TwTip.com.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[149,
+       81],
+      "assets/images/resized/0003/4502/34502v2-max-150x150.png"],
+     [[149,
+       81],
+      "assets/images/resized/0003/4502/34502v2-max-250x250.png"],
+     [[149,
+       81],
+      "assets/images/resized/0003/4502/34502v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "TwTip",
+    "permalink": "twtip",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Baturalp",
+      "last_name": "Torun",
+      "permalink": "baturalp-torun",
+      "image":
+       {"available_sizes":
+         [[[129,
+            150],
+           "assets/images/resized/0003/4395/34395v2-max-150x150.jpg"],
+          [[215,
+            250],
+           "assets/images/resized/0003/4395/34395v2-max-250x250.jpg"],
+          [[344,
+            400],
+           "assets/images/resized/0003/4395/34395v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-founder \u0026 UI Designer",
+    "person":
+     {"first_name": "Eren Emre",
+      "last_name": "Kanal",
+      "permalink": "eren-emre-kanal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            141],
+           "assets/images/resized/0002/4644/24644v6-max-150x150.jpg"],
+          [[250,
+            236],
+           "assets/images/resized/0002/4644/24644v6-max-250x250.jpg"],
+          [[450,
+            425],
+           "assets/images/resized/0002/4644/24644v6-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0003/4501/34501v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0003/4501/34501v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0003/4501/34501v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://twitter.dupedb.com/",
+    "title": "Twitter Profiles"}]}

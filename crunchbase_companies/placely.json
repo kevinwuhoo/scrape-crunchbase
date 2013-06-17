@@ -1,0 +1,101 @@
+{"name": "Placely",
+ "permalink": "placely",
+ "crunchbase_url": "http://www.crunchbase.com/company/placely",
+ "homepage_url": "http://www.placely.com",
+ "blog_url": "http://www.locationcalendar.com",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": "info@placely.com",
+ "phone_number": "(626) 644-5466",
+ "description": null,
+ "created_at": "Tue Nov 13 17:17:41 UTC 2007",
+ "updated_at": "Mon Dec 13 21:43:07 UTC 2010",
+ "overview": "\u003Cp\u003EPlacely is a social mapping and information service for travelers.  Unlike current social mapping application in the market, Placely works with time delineation and allows travelers to retrieve members\u0026#8217; locations at any given time \u0026#8211; past, present and future.\u003C/p\u003E\n\n\u003Cp\u003EBased on travel information, Placely users can view future locations of members, coordinate travel based on other members\u0026#8217; travel plans and be notified when members are in the same geographic areas.  Placely is also great for groups, such as alumni clubs, office organizations or recreational clubs, to track the whereabouts and travel destinations of large sets of people.\u003C/p\u003E\n\n\u003Cp\u003EThe Company launched its beta service in November 2007.\u003C/p\u003E\n\n\u003Cp\u003ESimilar companies, if no competitors, include Dopplr.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Travel Calendar",
+    "permalink": "travel-calendar",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Denis",
+      "last_name": "Khoo",
+      "permalink": "denis-khoo",
+      "image": null}},
+   {"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Rishi",
+      "last_name": "Jain",
+      "permalink": "rishi-jain",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2007,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Jeff",
+         "last_name": "Fluhr",
+         "permalink": "jeff-fluhr",
+         "image":
+          {"available_sizes":
+            [[[100,
+               150],
+              "assets/images/resized/0008/1267/81267v2-max-150x150.jpg"],
+             [[166,
+               250],
+              "assets/images/resized/0008/1267/81267v2-max-250x250.jpg"],
+             [[300,
+               450],
+              "assets/images/resized/0008/1267/81267v2-max-450x450.jpg"]],
+           "attribution": ""}}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "426 33rd Street",
+    "address2": null,
+    "zip_code": "90254",
+    "city": "Hermosa Beach",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

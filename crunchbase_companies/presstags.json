@@ -1,0 +1,90 @@
+{"name": "PressTags",
+ "permalink": "presstags",
+ "crunchbase_url": "http://www.crunchbase.com/company/presstags",
+ "homepage_url": "http://presstags.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "presstags",
+ "category_code": "search",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wordpress, blogging, community, search-engine, aggregator",
+ "alias_list": null,
+ "email_address": "fitztrev@gmail.com",
+ "phone_number": "",
+ "description": "WordPress search engine",
+ "created_at": "Thu Feb 17 16:16:27 UTC 2011",
+ "updated_at": "Tue Feb 22 03:00:42 UTC 2011",
+ "overview": "\u003Cp\u003EPressTags shows trending topics and articles from WordPress blogs around the internet.\u003C/p\u003E\n\n\u003Cp\u003EBlog posts are organized by topic so you can discover new and interesting sites to check out. See recent activity and explore related topics.\u003C/p\u003E\n\n\u003Cp\u003EHave a WordPress blog? There\u0026#8217;s also a plugin you can install that adds a news feed to your dashboard. It shows you what other bloggers, who talk about the same things as you, are writing about. Get some inspiration from them or reblog their post.\u003C/p\u003E\n\n\u003Cp\u003EPressTags creates a better community and connects WordPress bloggers who might otherwise not have known about each other. It encourages sharing and linking back to each other.\u003C/p\u003E\n\n\u003Cp\u003EWatch the screencast to learn more: http://presstags.com/about/\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0012/2606/122606v2-max-150x150.png"],
+     [[250,
+       67],
+      "assets/images/resized/0012/2606/122606v2-max-250x250.png"],
+     [[450,
+       121],
+      "assets/images/resized/0012/2606/122606v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Trevor",
+      "last_name": "Fitzgerald",
+      "permalink": "trevor-fitzgerald",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Royal Oak",
+    "state_code": "MI",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        113],
+       "assets/images/resized/0012/2605/122605v2-max-150x150.png"],
+      [[250,
+        189],
+       "assets/images/resized/0012/2605/122605v2-max-250x250.png"],
+      [[450,
+        341],
+       "assets/images/resized/0012/2605/122605v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://thenextweb.com/apps/2011/02/15/press-tags-an-ingenious-plugin-to-discover-trending-trending-topics-among-wordpress-blogs/",
+    "title": "Press Tags: An ingenious plugin to discover trending topics among WordPress blogs"},
+   {"external_url": "http://www.killerstartups.com/Blogging-Widgets/presstags-com-what-bloggers-write-about",
+    "title": "PressTags.Com - What Bloggers Write About"}]}

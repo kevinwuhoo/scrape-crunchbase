@@ -1,0 +1,128 @@
+{"name": "Intoto",
+ "permalink": "intoto",
+ "crunchbase_url": "http://www.crunchbase.com/company/intoto",
+ "homepage_url": "http://www.intoto.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 1998,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "jack.taylor@freescale.com",
+ "phone_number": "408-844-0480",
+ "description": "Security Software",
+ "created_at": "Fri Aug 14 04:10:38 UTC 2009",
+ "updated_at": "Tue Aug 18 07:49:24 UTC 2009",
+ "overview": "\u003Cp\u003EIntoto, Inc. provides security software for enterprise networking equipment and CPE gateways, and for small to midsized enterprise installations.\u003C/p\u003E\n\n\u003Cp\u003EThe company\u00e2\u20ac\u2122s network-centric security suite includes VPN, firewall, intrusion prevention, and anti-spam and anti-virus software, as well as convergence applications, such as SIP-based VoIP and wireless security. Its products include iGateway EX software platforms, which deliver security, voice, and wireless solutions for enterprise equipment, such as security appliances, UTM appliances, and secure VoIP gateways; and iGateway RGS software platform for residential and small-office/home-office (SOHO) environments, as well as for ODM/OEM manufacturers of RG SOHO equipment, including secure broadband routers, secure VoIP TAs, and digital home gateways.\u003C/p\u003E\n\n\u003Cp\u003EThe company also offers IntruPro IPS, an enterprise-class intrusion prevention system. It has design and development centers in Hyderabad, India; and representatives in Taiwan and Korea. Intoto, Inc. was founded in 1998 and is based in Santa Clara, California. As of October 8, 2008, Intoto, Inc. operates as a subsidiary of Freescale Semiconductor Inc.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[140,
+       86],
+      "assets/images/resized/0005/6428/56428v1-max-150x150.png"],
+     [[140,
+       86],
+      "assets/images/resized/0005/6428/56428v1-max-250x250.png"],
+     [[140,
+       86],
+      "assets/images/resized/0005/6428/56428v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": " Founder ",
+    "person":
+     {"first_name": "Sathyan",
+      "last_name": "Iyengar",
+      "permalink": "sathyan-iyengar",
+      "image": null}},
+   {"is_past": true,
+    "title": "Part-time CFO",
+    "person":
+     {"first_name": "Barry",
+      "last_name": "Jahansetan",
+      "permalink": "barry-jahansetan",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0023/4470/234470v1-max-150x150.jpg"],
+          [[156,
+            156],
+           "assets/images/resized/0023/4470/234470v1-max-250x250.jpg"],
+          [[156,
+            156],
+           "assets/images/resized/0023/4470/234470v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://media.freescale.com/phoenix.zhtml?c=196520\u0026p=irol-newsArticle\u0026ID=1197788\u0026highlight=",
+   "source_description": "Freescale signs definitive agreement to purchase Intoto, Inc.",
+   "acquired_year": 2008,
+   "acquired_month": 9,
+   "acquired_day": 16,
+   "acquiring_company":
+    {"name": "Freescale Semiconductor",
+     "permalink": "freescale",
+     "image":
+      {"available_sizes":
+        [[[150,
+           44],
+          "assets/images/resized/0005/2310/52310v1-max-150x150.png"],
+         [[170,
+           50],
+          "assets/images/resized/0005/2310/52310v1-max-250x250.png"],
+         [[170,
+           50],
+          "assets/images/resized/0005/2310/52310v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "3100 De La Cruz Boulevard",
+    "address2": "Suite 300",
+    "zip_code": "95054",
+    "city": "Santa Clara",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.379591,
+    "longitude": -121.940336}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        72],
+       "assets/images/resized/0005/6831/56831v1-max-150x150.jpg"],
+      [[250,
+        120],
+       "assets/images/resized/0005/6831/56831v1-max-250x250.jpg"],
+      [[450,
+        216],
+       "assets/images/resized/0005/6831/56831v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

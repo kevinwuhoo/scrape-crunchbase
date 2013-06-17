@@ -1,0 +1,108 @@
+{"name": "Zentation",
+ "permalink": "zentation",
+ "crunchbase_url": "http://www.crunchbase.com/company/zentation",
+ "homepage_url": "http://www.zentation.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zentation",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "webcasts, webinar, online-presentation, youtube, slideshare, elearning",
+ "alias_list": null,
+ "email_address": "info@zentation.com",
+ "phone_number": "248-591-5100",
+ "description": "Simple webcasting tool",
+ "created_at": "Thu Jun 17 21:22:37 UTC 2010",
+ "updated_at": "Fri Jun 18 00:06:10 UTC 2010",
+ "overview": "\u003Cp\u003EZentation.com provides a self-service tool to synchronize video and slides.  \u003C/p\u003E\n\n\u003Cp\u003EAnyone can create an online webcast using a three step process:\u003C/p\u003E\n\n\u003Col\u003E\n\u003Cli\u003EUpload video or link a YouTube video\u003C/li\u003E\n\u003Cli\u003EUpload PowerPoint or like to a Slideshare deck\u003C/li\u003E\n\u003Cli\u003ESync the video and the slides\u003C/li\u003E\n\u003C/ol\u003E\n\n\u003Cp\u003EThe result is an online presentation that mimics the flow and delivery of the live presentation.  Presentations can be sent as a link or embedded into any website.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0009/0969/90969v2-max-150x150.jpg"],
+     [[160,
+       37],
+      "assets/images/resized/0009/0969/90969v2-max-250x250.jpg"],
+     [[160,
+       37],
+      "assets/images/resized/0009/0969/90969v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Karl",
+      "last_name": "Siegert",
+      "permalink": "karl-siegert",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Omnisio",
+      "permalink": "omnisio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0001/5767/15767v3-max-150x150.png"],
+          [[250,
+            70],
+           "assets/images/resized/0001/5767/15767v3-max-250x250.png"],
+          [[450,
+            126],
+           "assets/images/resized/0001/5767/15767v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1751 E. Lincoln",
+    "address2": "",
+    "zip_code": "48071",
+    "city": "Madison Heights",
+    "state_code": "MI",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[142,
+        150],
+       "assets/images/resized/0009/0968/90968v2-max-150x150.jpg"],
+      [[237,
+        250],
+       "assets/images/resized/0009/0968/90968v2-max-250x250.jpg"],
+      [[427,
+        450],
+       "assets/images/resized/0009/0968/90968v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2007/06/28/zentation-online-video-and-powerpoint-get-married/",
+    "title": "TechCrunch"},
+   {"external_url": "http://www.inc.com/magazine/20071101/on-beyond-powerpoint.html",
+    "title": "INC Magazine"},
+   {"external_url": "http://www.masternewmedia.org/presentation/presentation-tools/deliver-presentation-with-video-in-synch-with-Zentation-20070402.htm",
+    "title": "MasterNewMedia.org"},
+   {"external_url": "http://blog.guykawasaki.com/2007/06/art_of_innovati.html#axzz0r9DhnU6r",
+    "title": "Guy Kawasaki Blog"}]}

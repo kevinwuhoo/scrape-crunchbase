@@ -1,0 +1,95 @@
+{"name": "FootyTweets",
+ "permalink": "footytweets",
+ "crunchbase_url": "http://www.crunchbase.com/company/footytweets",
+ "homepage_url": "http://footytweets.com",
+ "blog_url": "http://blog.footytweets.com",
+ "blog_feed_url": "http://blog.footytweets.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter, footy, tweets, blog, football, soccer, scores, updates",
+ "alias_list": "",
+ "email_address": "ollie@footytweets.com",
+ "phone_number": "",
+ "description": "Twitter Application",
+ "created_at": "Fri Feb 06 01:55:30 UTC 2009",
+ "updated_at": "Tue Mar 31 17:59:23 UTC 2009",
+ "overview": "\u003Cp\u003EFootyTweets will allow you to get all your footy team news, goal alerts and updates.\u003C/p\u003E\n\n\u003Cp\u003ESo how does it work? Well you find your favourite team(s) below and find out their Twitter username. Next comes the hard bit\u0026#8230; follow the username! Yes thats it, nothing more is needed. Have a look below for all the different teams you can follow.\u003C/p\u003E\n\n\u003Cp\u003EFootyTweets will allow you to get all your footy team news, goal alerts and updates via \u003Ca href=\"http://www.techcrunch.com/company/twitter/\" title=\"Twitter\"\u003ETwitter\u003C/a\u003E.\u003C/p\u003E\n\n\u003Cp\u003EIf you have any ideas for leagues that have not been set up yet then please contact me on Twitter \u003Ca href=\"http://twitter.com/ollieparsley\" title=\"@ollieparsley\" rel=\"nofollow\"\u003E@ollieparsley\u003C/a\u003E \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0003/5809/35809v2-max-150x150.png"],
+     [[250,
+       55],
+      "assets/images/resized/0003/5809/35809v2-max-250x250.png"],
+     [[450,
+       99],
+      "assets/images/resized/0003/5809/35809v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ollie",
+      "last_name": "Parsley",
+      "permalink": "ollie-parsley-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/0841/20841v3-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0002/0841/20841v3-max-250x250.jpg"],
+          [[274,
+            274],
+           "assets/images/resized/0002/0841/20841v3-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        84],
+       "assets/images/resized/0003/5810/35810v2-max-150x150.jpg"],
+      [[250,
+        141],
+       "assets/images/resized/0003/5810/35810v2-max-250x250.jpg"],
+      [[450,
+        254],
+       "assets/images/resized/0003/5810/35810v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://rugbytweets.com",
+    "title": "RugbyTweets"},
+   {"external_url": "http://crickettweets.com",
+    "title": "CricketTweets"},
+   {"external_url": "http://tweets.uservoice.com",
+    "title": "Feedback Forum"}]}

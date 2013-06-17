@@ -1,0 +1,102 @@
+{"name": "blogrunner",
+ "permalink": "blogrunner",
+ "crunchbase_url": "http://www.crunchbase.com/company/blogrunner",
+ "homepage_url": "http://www.blogrunner.com",
+ "blog_url": "",
+ "blog_feed_url": "http://www.blogrunner.com/snapshot/topics/technology/index.xml",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "news-aggregator, new-york-times, news",
+ "alias_list": null,
+ "email_address": "feedback@blogrunner.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Jul 02 17:02:07 UTC 2008",
+ "updated_at": "Fri Dec 12 19:15:07 UTC 2008",
+ "overview": "\u003Cp\u003EBlogrunner is a news aggregator from The New York Times that monitors articles and blog posts and tracks news stories as they develop across the Web. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0002/1408/21408v1-max-150x150.png"],
+     [[250,
+       36],
+      "assets/images/resized/0002/1408/21408v1-max-250x250.png"],
+     [[392,
+       57],
+      "assets/images/resized/0002/1408/21408v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "OneSpot",
+      "permalink": "onespot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0002/5562/25562v1-max-150x150.jpg"],
+          [[250,
+            130],
+           "assets/images/resized/0002/5562/25562v1-max-250x250.jpg"],
+          [[450,
+            234],
+           "assets/images/resized/0002/5562/25562v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://www.paidcontent.org/entry/new-york-times-buys-blogrunner-annotated-times",
+   "source_description": "New York Times Buys BlogRunner/Annotated Times",
+   "acquired_year": 2006,
+   "acquired_month": 2,
+   "acquired_day": 6,
+   "acquiring_company":
+    {"name": "New York Times",
+     "permalink": "newyorktimes",
+     "image":
+      {"available_sizes":
+        [[[150,
+           28],
+          "assets/images/resized/0001/0591/10591v1-max-150x150.png"],
+         [[250,
+           46],
+          "assets/images/resized/0001/0591/10591v1-max-250x250.png"],
+         [[389,
+           73],
+          "assets/images/resized/0001/0591/10591v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cembed src=\"http://blip.tv/play/goRrobUQAA.m4v\" type=\"application/x-shockwave-flash\" width=\"370\" height=\"308\" allowscriptaccess=\"always\" allowfullscreen=\"true\"\u003E\u003C/embed\u003E",
+    "description": "\u003Cp\u003EThis video was originally published on \u003Ca href=\"http://www.beet.tv/2007/12/our-blog-posts.html\" title=\"Beet.TV\" rel=\"nofollow\"\u003EBeet.TV\u003C/a\u003E\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techcrunch.com/2007/11/03/nytimes-blogrunner-v-techmeme/",
+    "title": "blogrunner a Techmeme Killer?"}]}

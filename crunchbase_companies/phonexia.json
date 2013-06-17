@@ -1,0 +1,132 @@
+{"name": "Phonexia",
+ "permalink": "phonexia",
+ "crunchbase_url": "http://www.crunchbase.com/company/phonexia",
+ "homepage_url": "http://www.phonexia.com",
+ "blog_url": "https://www.phonexia.com/news.php",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2006,
+ "founded_month": 3,
+ "founded_day": 17,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "speech-analytics, speech-data-mining, voice-biometry, speech-recognition, language-identification, speaker-identification, speech-transcription, keyword-spotting",
+ "alias_list": null,
+ "email_address": "info@phonexia.com",
+ "phone_number": "+420 733 532 890",
+ "description": "speech technologies",
+ "created_at": "Tue Aug 07 20:08:03 UTC 2012",
+ "updated_at": "Wed Oct 03 16:22:26 UTC 2012",
+ "overview": "\u003Cp\u003EPhonexia develops technologies for data mining from speech, speech analytics and voice biometry. The technologies include language identification, speaker identification, gender identification, keywords spotting and speech transcription. Phonexia builds complex solutions using these technologies and offers them to intelligence agencies, call centers, broadcast companies and to everyone who needs to process and analyze large quantity of speech data.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[130,
+       65],
+      "assets/images/resized/0020/4909/204909v2-max-150x150.jpg"],
+     [[130,
+       65],
+      "assets/images/resized/0020/4909/204909v2-max-250x250.jpg"],
+     [[130,
+       65],
+      "assets/images/resized/0020/4909/204909v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Pavel",
+      "last_name": "Matejka",
+      "permalink": "pavel-matejka",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Petr",
+      "last_name": "Schwarz",
+      "permalink": "petr-schwarz",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Autonomy Corporation",
+      "permalink": "autonomy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            76],
+           "assets/images/resized/0002/2544/22544v2-max-150x150.png"],
+          [[160,
+            82],
+           "assets/images/resized/0002/2544/22544v2-max-250x250.png"],
+          [[160,
+            82],
+           "assets/images/resized/0002/2544/22544v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nuance Communications",
+      "permalink": "nuance",
+      "image":
+       {"available_sizes":
+         [[[90,
+            64],
+           "assets/images/resized/0002/2168/22168v1-max-150x150.png"],
+          [[90,
+            64],
+           "assets/images/resized/0002/2168/22168v1-max-250x250.png"],
+          [[90,
+            64],
+           "assets/images/resized/0002/2168/22168v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Agnitio",
+      "permalink": "agnitio",
+      "image":
+       {"available_sizes":
+         [[[117,
+            29],
+           "assets/images/resized/0003/8044/38044v1-max-150x150.png"],
+          [[117,
+            29],
+           "assets/images/resized/0003/8044/38044v1-max-250x250.png"],
+          [[117,
+            29],
+           "assets/images/resized/0003/8044/38044v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Speech Technology Center",
+      "permalink": "speech-technology-center",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main office",
+    "address1": "U Vod\u00e1rny 3032/2a",
+    "address2": "",
+    "zip_code": "61600",
+    "city": "Brno",
+    "state_code": null,
+    "country_code": "CZE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

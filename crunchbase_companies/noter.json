@@ -1,0 +1,126 @@
+{"name": "Noter",
+ "permalink": "noter",
+ "crunchbase_url": "http://www.crunchbase.com/company/noter",
+ "homepage_url": "http://noter.ca",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "notes, note-taking, waterloo, students, university, mcmaster",
+ "alias_list": null,
+ "email_address": "a.cameronhuff@noter.ca",
+ "phone_number": "519-570-6527",
+ "description": null,
+ "created_at": "Sun Jul 13 18:07:58 UTC 2008",
+ "updated_at": "Thu Dec 01 07:50:51 UTC 2011",
+ "overview": "\u003Cp\u003ENoter is an online tool that enables university students to take notes. The idea behind Noter is to provide a simple way for students to write down what\u0026#8217;s going on in class and then share it/collaborate with their friends. \u003C/p\u003E\n\n\u003Cp\u003ENotes are automatically tagged using \u003Ca href=\"http://www.crunchbase.com/company/yahoo\" title=\"Yahoo\"\u003EYahoo\u003C/a\u003E, can be easily searched and are auto-saved so that wireless disconnects don\u0026#8217;t ruin hours of note-taking. Notes are displayed in customized RSS feeds and can be emailed to other people.\u003C/p\u003E\n\n\u003Cp\u003EWaterloo and McMaster in Southern Ontario are the only schools with full course offerings as of July, 2008.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0002/2037/22037v2-max-150x150.png"],
+     [[232,
+       46],
+      "assets/images/resized/0002/2037/22037v2-max-250x250.png"],
+     [[232,
+       46],
+      "assets/images/resized/0002/2037/22037v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/Developer",
+    "person":
+     {"first_name": "Addy",
+      "last_name": "Cameron-Huff",
+      "permalink": "addy-cameron-huff",
+      "image": null}},
+   {"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "John",
+      "last_name": "Piasetzki",
+      "permalink": "john-piasetzki",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Esra",
+      "last_name": "A.",
+      "permalink": "esra-al-aubodah",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Notely",
+      "permalink": "notely",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/1948/21948v2-max-150x150.png"],
+          [[229,
+            93],
+           "assets/images/resized/0002/1948/21948v2-max-250x250.png"],
+          [[229,
+            93],
+           "assets/images/resized/0002/1948/21948v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyPublicInfo",
+      "permalink": "mypublicinfo",
+      "image":
+       {"available_sizes":
+         [[[133,
+            42],
+           "assets/images/resized/0000/3637/3637v1-max-150x150.jpg"],
+          [[133,
+            42],
+           "assets/images/resized/0000/3637/3637v1-max-250x250.jpg"],
+          [[133,
+            42],
+           "assets/images/resized/0000/3637/3637v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Public Relations",
+    "is_past": false,
+    "provider":
+     {"name": "e|c|o",
+      "permalink": "e-c-o",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Waterloo Office",
+    "address1": "Suite 23",
+    "address2": "250 Keats Way",
+    "zip_code": "N2L5H3",
+    "city": "Waterloo",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://news.therecord.com/Business/article/340531",
+    "title": ""}]}

@@ -1,0 +1,109 @@
+{"name": "SinCOM Video Services",
+ "permalink": "sincom",
+ "crunchbase_url": "http://www.crunchbase.com/company/sincom",
+ "homepage_url": "http://www.lokigroup.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": 24,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@lokigroup.com",
+ "phone_number": "",
+ "description": "HD Video Sharing",
+ "created_at": "Thu Jun 26 07:20:47 UTC 2008",
+ "updated_at": "Thu Dec 01 07:48:53 UTC 2011",
+ "overview": "\u003Cp\u003ELOKI Group is a swiss IT company that provide the HD share movie sharing portal.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0002/1062/21062v4-max-150x150.png"],
+     [[243,
+       183],
+      "assets/images/resized/0002/1062/21062v4-max-250x250.png"],
+     [[243,
+       183],
+      "assets/images/resized/0002/1062/21062v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "HD share",
+    "permalink": "hd-share",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Developement Manager",
+    "person":
+     {"first_name": "Sintonen",
+      "last_name": "Kalle",
+      "permalink": "sintonen-kalle",
+      "image": null}},
+   {"is_past": false,
+    "title": "Technical Manager",
+    "person":
+     {"first_name": "Samuel",
+      "last_name": "Dorsaz",
+      "permalink": "samuel-dorsaz",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.lokigroup.com",
+   "source_description": "Loki Group announcement",
+   "acquired_year": 2009,
+   "acquired_month": 3,
+   "acquired_day": 26,
+   "acquiring_company":
+    {"name": "Novelion Media",
+     "permalink": "novelion-media",
+     "image":
+      {"available_sizes":
+        [[[150,
+           49],
+          "assets/images/resized/0004/0713/40713v1-max-150x150.png"],
+         [[250,
+           83],
+          "assets/images/resized/0004/0713/40713v1-max-250x250.png"],
+         [[319,
+           106],
+          "assets/images/resized/0004/0713/40713v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "c/o Novelion Media Oy Ltd",
+    "address2": "Laserkatu 6",
+    "zip_code": "53850",
+    "city": "Lappeenranta",
+    "state_code": null,
+    "country_code": "FIN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

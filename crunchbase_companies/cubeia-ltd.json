@@ -1,0 +1,97 @@
+{"name": "Cubeia",
+ "permalink": "cubeia-ltd",
+ "crunchbase_url": "http://www.crunchbase.com/company/cubeia-ltd",
+ "homepage_url": "http://www.cubeia.com",
+ "blog_url": "http://www.cubeia.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "cubeiaLtd",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "open-source, multiplayer-game-server, social-poker-network, poker-network, social-poker, software-development, online-gambling-software",
+ "alias_list": "",
+ "email_address": "lars.j.nilsson@cubeia.com",
+ "phone_number": "+46 (0) 704 10 69 53",
+ "description": "Software development company",
+ "created_at": "Thu May 02 10:55:11 UTC 2013",
+ "updated_at": "Wed May 22 21:45:44 UTC 2013",
+ "overview": "\u003Cp\u003ECubeia Ltd is a software company based in Stockholm, Sweden. Cubeia provides scalable, high availability systems and services based on its long experience in the gambling and Internet application industry.\u003C/p\u003E\n\n\u003Cp\u003EAll of Cubeia\u0026#8217;s components are available as Open Source. \u003C/p\u003E\n\n\u003Cp\u003ECubeia Firebase is a multiplayer game server written in Java. You write your game against our API and then you deploy it to the server much like you would do with a web application and a web server.\u003C/p\u003E\n\n\u003Cp\u003ECubeia Network is a loosely coupled suite of components that are typically used as supporting services in gaming systems.\u003C/p\u003E\n\n\u003Cp\u003ECubeia Poker is an open source poker system, including client, server, back office and database, the whole works. \u003C/p\u003E\n\n\u003Cp\u003ECubeia recently launched Cubeia Social, a social poker network, enabling anyone to create and run their very own social poker site. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0026/5520/265520v2-max-150x150.jpg"],
+     [[160,
+       160],
+      "assets/images/resized/0026/5520/265520v2-max-250x250.jpg"],
+     [[160,
+       160],
+      "assets/images/resized/0026/5520/265520v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Frederick",
+      "last_name": "Johansson",
+      "permalink": "frederick-johansson-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Executive Vice President",
+    "person":
+     {"first_name": "Lars",
+      "last_name": "J. Nilsson",
+      "permalink": "lars-j-nilsson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Cubeia Ltd",
+    "address1": "Katarinav\u00e4gen 19 ",
+    "address2": "",
+    "zip_code": "11645 ",
+    "city": "Stockholm ",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Cubeia Launches Social Poker Network",
+    "stoned_year": 2013,
+    "stoned_month": 4,
+    "stoned_day": 29,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "http://www.igamingbusiness.com/content/new-social-poker-network-cubeia",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Cubeia",
+      "permalink": "cubeia-ltd"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

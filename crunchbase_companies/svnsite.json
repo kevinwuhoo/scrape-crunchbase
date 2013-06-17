@@ -1,0 +1,90 @@
+{"name": "SVNsite",
+ "permalink": "svnsite",
+ "crunchbase_url": "http://www.crunchbase.com/company/svnsite",
+ "homepage_url": "http://www.svnsite.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "enterprise",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 12,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "subversion-hosting, svn-hosting, source-control, software-development, programming, svn, subversion, continuous-integration, software-as-a-service",
+ "alias_list": null,
+ "email_address": "hello@svnsite.com",
+ "phone_number": "+44 790 373 6809",
+ "description": null,
+ "created_at": "Wed Jan 07 23:47:13 UTC 2009",
+ "updated_at": "Sat Jan 10 14:46:39 UTC 2009",
+ "overview": "\u003Cp\u003ESVNsite provides commercial Subversion hosting for teams and individual software developers for a monthly fee at competitive prices.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0003/3358/33358v2-max-150x150.jpg"],
+     [[214,
+       61],
+      "assets/images/resized/0003/3358/33358v2-max-250x250.jpg"],
+     [[214,
+       61],
+      "assets/images/resized/0003/3358/33358v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Subversion hosting",
+    "permalink": "subversion-hosting-2",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Director",
+    "person":
+     {"first_name": "Wille",
+      "last_name": "Faler",
+      "permalink": "wille-faler",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Suite 212 South Central East",
+    "address2": "9 Steedman street",
+    "zip_code": "SE17 3AF",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        80],
+       "assets/images/resized/0003/3431/33431v1-max-150x150.png"],
+      [[250,
+        134],
+       "assets/images/resized/0003/3431/33431v1-max-250x250.png"],
+      [[450,
+        242],
+       "assets/images/resized/0003/3431/33431v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.theserverside.com/news/thread.tss?thread_id=52824",
+    "title": "SVNSite releases Continuum CI and Subversion as hosted service"}]}

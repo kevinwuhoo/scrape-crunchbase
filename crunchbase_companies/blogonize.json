@@ -1,0 +1,104 @@
+{"name": "Blogonize",
+ "permalink": "blogonize",
+ "crunchbase_url": "http://www.crunchbase.com/company/blogonize",
+ "homepage_url": "http://www.blogonize.com/",
+ "blog_url": "http://www.scoop.blogonize.com/index.html",
+ "blog_feed_url": "",
+ "twitter_username": "blogonize",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2007,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "blogging, blogs, facebookapp",
+ "alias_list": "",
+ "email_address": "admin@blogonize.com",
+ "phone_number": "303-249-1168",
+ "description": "",
+ "created_at": "Wed Jan 23 12:13:46 UTC 2008",
+ "updated_at": "Thu Apr 04 08:53:56 UTC 2013",
+ "overview": "\u003Cp\u003EBlogonize is a blogging platform with a number of innovative features and personalization options. The company was founded by a 16 year old. \u003C/p\u003E\n\n\u003Cp\u003EBlogonize competes with Blogger, \u003Ca href=\"http://www.crunchbase.com/company/sixapart\" title=\"Six Apart\"\u003ESix Apart\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/Automattic\" title=\"Automattic\"\u003EAutomattic\u003C/a\u003E.\u003C/p\u003E\n\n\u003Cp\u003EBlogonize was one of the first companies to be \u003Ca href=\"http://www.techcrunch.com/2008/01/21/some-new-startups-direct-to-video/#more-13231\" title=\"featured direct to video on Techcrunch\"\u003Efeatured direct to video on Techcrunch\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0000/3271/3271v1-max-150x150.png"],
+     [[201,
+       77],
+      "assets/images/resized/0000/3271/3271v1-max-250x250.png"],
+     [[201,
+       77],
+      "assets/images/resized/0000/3271/3271v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Blogonize",
+    "permalink": "blogonize",
+    "image": null},
+   {"name": "Blogonize Facebook App",
+    "permalink": "blogonize-facebook-app",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Kayla",
+      "last_name": "Griffith",
+      "permalink": "kayla-griffith",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Austin",
+      "last_name": "Hallock",
+      "permalink": "austin-hallock",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Automattic",
+      "permalink": "automattic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            11],
+           "assets/images/resized/0000/1342/1342v4-max-150x150.png"],
+          [[250,
+            19],
+           "assets/images/resized/0000/1342/1342v4-max-250x250.png"],
+          [[450,
+            34],
+           "assets/images/resized/0000/1342/1342v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "12459 W 84th Dr",
+    "address2": null,
+    "zip_code": " 80005",
+    "city": " Arvada",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.851338,
+    "longitude": -105.139804}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\r\n\u003Cobject width=\"425\" height=\"355\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/-5gXqK91YsI\u0026rel=1\"\u003E\u003C/param\u003E\u003Cparam name=\"wmode\" value=\"transparent\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/-5gXqK91YsI\u0026rel=1\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003ETechCrunch elevator pitch. \u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

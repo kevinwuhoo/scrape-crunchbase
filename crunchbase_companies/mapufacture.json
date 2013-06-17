@@ -1,0 +1,125 @@
+{"name": "Mapufacture",
+ "permalink": "mapufacture",
+ "crunchbase_url": "http://www.crunchbase.com/company/mapufacture",
+ "homepage_url": "http://mapufacture.com/",
+ "blog_url": "http://blog.mapufacture.com",
+ "blog_feed_url": "http://blog.mapufacture.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "maps, neogeography, gis, collaboration, geo, aggregator",
+ "alias_list": null,
+ "email_address": "andrew@mapufacture.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sun Jun 15 15:51:22 UTC 2008",
+ "updated_at": "Thu Mar 19 10:01:15 UTC 2009",
+ "overview": "\u003Cp\u003EMapufacture provides web-based tools to combine, visualize, share, and create digital maps for use wherever you are. More than mere pin dropping, Mapufacture dynamically combines rich geospatial information with user-created data that promote sharing and collaboration\u003C/p\u003E\n\n\u003Cp\u003EMapufacture combines dynamic, customizable geographic information and collaborative mapping. Using Mapufacture, users can quickly and efficiently build maps and widgets, visualize geospatial data in diverse formats, discover existing maps to clone and customize, and share geographic information across the platform of their choosing. Whether publishing a GeoBlog, converting a project archive into a GeoRSS feed, or exporting data to KML or a paper map, Mapufacture allows users to craft, style, use and share their own geostory. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0003/8603/38603v1-max-150x150.png"],
+     [[167,
+       39],
+      "assets/images/resized/0003/8603/38603v1-max-250x250.png"],
+     [[167,
+       39],
+      "assets/images/resized/0003/8603/38603v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Mapufacture.com",
+    "permalink": "mapufacture-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Turner",
+      "permalink": "andrew-turner",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0006/0263/60263v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0006/0263/60263v2-max-250x250.jpg"],
+          [[299,
+            450],
+           "assets/images/resized/0006/0263/60263v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EJim Darling / \u003Ca href=\"http://www.flickr.com/photos/jim_darling/2709134482/\" title=\"via Flickr\" rel=\"nofollow\"\u003Evia Flickr\u003C/a\u003E\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mikel",
+      "last_name": "Maron",
+      "permalink": "mikel-maron",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.prweb.com/releases/2008/08/prweb1171534.htm",
+   "source_description": "FortiusOne and Mapufacture Join Forces to Drive the Future of the GeoWeb",
+   "acquired_year": 2008,
+   "acquired_month": 8,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "GeoIQ",
+     "permalink": "fortiusone",
+     "image":
+      {"available_sizes":
+        [[[150,
+           62],
+          "assets/images/resized/0002/0577/20577v4-max-150x150.png"],
+         [[250,
+           103],
+          "assets/images/resized/0002/0577/20577v4-max-250x250.png"],
+         [[400,
+           166],
+          "assets/images/resized/0002/0577/20577v4-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        96],
+       "assets/images/resized/0003/8604/38604v1-max-150x150.png"],
+      [[250,
+        160],
+       "assets/images/resized/0003/8604/38604v1-max-250x250.png"],
+      [[450,
+        288],
+       "assets/images/resized/0003/8604/38604v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.oreillynet.com/pub/a/network/2005/06/14/mapfacture.html",
+    "title": "Developing Mapufacture"},
+   {"external_url": "http://www.prweb.com/releases/2008/8/prweb1171534.htm",
+    "title": "FortiusOne and Mapufacture Join Forces to Drive the Future of the GeoWeb"}]}

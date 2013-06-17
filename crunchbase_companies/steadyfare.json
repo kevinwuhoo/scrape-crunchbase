@@ -1,0 +1,105 @@
+{"name": "SteadyFare",
+ "permalink": "steadyfare",
+ "crunchbase_url": "http://www.crunchbase.com/company/steadyfare",
+ "homepage_url": "http://steadyfare.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "steadyfare",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, airfares, flexibility, flights",
+ "alias_list": null,
+ "email_address": "jack@steadyfare.com",
+ "phone_number": "1-847-920-4846",
+ "description": "Airfare locking provider",
+ "created_at": "Wed Aug 29 09:26:53 UTC 2012",
+ "updated_at": "Thu Sep 06 00:31:42 UTC 2012",
+ "overview": "\u003Cp\u003ESteadyFare lets consumers lock in airfares so that they can wait while they decide to purchase an airline ticket without having to worry about rising prices.\u003C/p\u003E\n\n\u003Cp\u003EA customer arriving at our website could search the route and dates they want to fly, a holding period for how long they would like to lock in this airfare, and have the option of choosing \u0026#8220;flexible travel dates\u0026#8221;, which give them the option of picking more than one potential departure or arrival date. Then, they are presented with an airfare which they can lock in, and a holding fee which they would pay upfront. If they choose to lock in this airfare, they pay the fee and are then free to purchase this ticket anytime they\u0026#8217;d like during the holding period for a maximum of the locked in airfare, no matter how expensive tickets for this route may be elsewhere.\u003C/p\u003E\n\n\u003Cp\u003EThis product is of use for consumers who don\u0026#8217;t want to or may not be able to purchase airline tickets early, when they are inexpensive, and so therefore risk paying significantly more. The flexible travel dates feature is also intended to take an element of risk out of purchasing tickets, as consumers can avoid paying change fees or having to buy more expensive refundable tickets. This product is intended to provide an alternative to the traditional method of purchasing tickets that provides flexibility to consumers who may not have the option to purchase an airline ticket early.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0020/8652/208652v2-max-150x150.png"],
+     [[250,
+       48],
+      "assets/images/resized/0020/8652/208652v2-max-250x250.png"],
+     [[450,
+       86],
+      "assets/images/resized/0020/8652/208652v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Houck",
+      "permalink": "ryan-houck",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Brandon",
+      "last_name": "Collins",
+      "permalink": "brandon-collins-4",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Jack",
+      "last_name": "Connor",
+      "permalink": "jack-connor",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.smeadvisor.com/2012/08/seedstartup-to-host-demo-day/",
+    "source_description": "Seedstartup to host Demo Day",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 6,
+    "funded_day": 16,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        78],
+       "assets/images/resized/0020/8651/208651v2-max-150x150.png"],
+      [[250,
+        130],
+       "assets/images/resized/0020/8651/208651v2-max-250x250.png"],
+      [[450,
+        235],
+       "assets/images/resized/0020/8651/208651v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.tnooz.com/2012/09/03/tlabs/steadyfare-sells-airline-ticket-price-guarantees-like-a-next-generation-farecast/",
+    "title": "SteadyFare sells airline ticket price guarantees, like a next generation Farecast "},
+   {"external_url": "http://betakit.com/2012/09/04/steadyfare-helping-travelers-lock-in-low-flight-prices-now-and-book-later",
+    "title": "SteadyFare Helping lock In Low Flight Prices Now, And Book Later"}]}

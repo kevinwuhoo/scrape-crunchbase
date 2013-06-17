@@ -1,0 +1,132 @@
+{"name": "TrollTech",
+ "permalink": "trolltech",
+ "crunchbase_url": "http://www.crunchbase.com/company/trolltech",
+ "homepage_url": "http://www.trolltech.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "cross-platform development framework",
+ "created_at": "Mon Aug 03 21:09:27 UTC 2009",
+ "updated_at": "Mon Aug 03 21:13:53 UTC 2009",
+ "overview": "\u003Cp\u003ETrolltech is the developer of Qt, the cross-platform application development framework used for the development of GUI programs and for developing non-GUI programs such as console tools and servers. Qt is used in by Opera, Google Earth and Skype among other\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0005/5088/55088v1-max-150x150.jpg"],
+     [[250,
+       35],
+      "assets/images/resized/0005/5088/55088v1-max-250x250.jpg"],
+     [[310,
+       44],
+      "assets/images/resized/0005/5088/55088v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "QT",
+    "permalink": "qt",
+    "image":
+     {"available_sizes":
+       [[[128,
+          128],
+         "assets/images/resized/0005/5087/55087v1-max-150x150.png"],
+        [[128,
+          128],
+         "assets/images/resized/0005/5087/55087v1-max-250x250.png"],
+        [[128,
+          128],
+         "assets/images/resized/0005/5087/55087v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Haavard",
+      "last_name": "Nord",
+      "permalink": "haavard-nord",
+      "image":
+       {"available_sizes":
+         [[[141,
+            141],
+           "assets/images/resized/0025/8496/258496v1-max-150x150.jpg"],
+          [[141,
+            141],
+           "assets/images/resized/0025/8496/258496v1-max-250x250.jpg"],
+          [[141,
+            141],
+           "assets/images/resized/0025/8496/258496v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": true,
+    "provider":
+     {"name": "Six Degrees",
+      "permalink": "six-degrees",
+      "image":
+       {"available_sizes":
+         [[[150,
+            139],
+           "assets/images/resized/0010/7678/107678v2-max-150x150.jpg"],
+          [[250,
+            233],
+           "assets/images/resized/0010/7678/107678v2-max-250x250.jpg"],
+          [[450,
+            419],
+           "assets/images/resized/0010/7678/107678v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 153000000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2008/01/28/nokia-acquires-trolltech-for-153-million/",
+   "source_description": "Nokia Acquires Trolltech For $153 Million",
+   "acquired_year": 2008,
+   "acquired_month": 1,
+   "acquired_day": 28,
+   "acquiring_company":
+    {"name": "Nokia",
+     "permalink": "nokia",
+     "image":
+      {"available_sizes":
+        [[[120,
+           50],
+          "assets/images/resized/0001/7958/17958v3-max-150x150.png"],
+         [[120,
+           50],
+          "assets/images/resized/0001/7958/17958v3-max-250x250.png"],
+         [[120,
+           50],
+          "assets/images/resized/0001/7958/17958v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

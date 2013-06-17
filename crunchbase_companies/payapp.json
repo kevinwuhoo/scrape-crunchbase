@@ -1,0 +1,120 @@
+{"name": "PayApp ",
+ "permalink": "payapp",
+ "crunchbase_url": "http://www.crunchbase.com/company/payapp",
+ "homepage_url": "http://www.payapp.io",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@payapp.io",
+ "phone_number": "9257085003",
+ "description": "Mobile Payment and Commerce Platform",
+ "created_at": "Mon Jun 10 14:26:59 UTC 2013",
+ "updated_at": "Mon Jun 10 20:32:58 UTC 2013",
+ "overview": "\u003Cp\u003EPayApp is a mobile payment and commerce platform that brings buyers(user), merchants(pos), issuers, retailers, brand marketers, and developers together.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0027/3598/273598v2-max-150x150.png"],
+     [[250,
+       102],
+      "assets/images/resized/0027/3598/273598v2-max-250x250.png"],
+     [[394,
+       162],
+      "assets/images/resized/0027/3598/273598v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Syed",
+      "last_name": "Haider",
+      "permalink": "syed-haider",
+      "image": null}},
+   {"is_past": false,
+    "title": "Operations",
+    "person":
+     {"first_name": "Guru",
+      "last_name": "Parvatikar",
+      "permalink": "guru-parvatikar",
+      "image": null}},
+   {"is_past": false,
+    "title": "Tech Dev",
+    "person":
+     {"first_name": "PhD",
+      "last_name": "Alexander Shevchenko",
+      "permalink": "phd-alexander-shevchenko",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "PayPal",
+      "permalink": "paypal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0000/3943/3943v8-max-150x150.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-250x250.png"],
+          [[200,
+            50],
+           "assets/images/resized/0000/3943/3943v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Square",
+      "permalink": "square",
+      "image":
+       {"available_sizes":
+         [[[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-150x150.png"],
+          [[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-250x250.png"],
+          [[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "US Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Atlanta",
+    "state_code": "GA",
+    "country_code": "USA",
+    "latitude": 33.7489954,
+    "longitude": -84.3879824}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

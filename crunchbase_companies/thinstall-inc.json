@@ -1,0 +1,113 @@
+{"name": "Thinstall inc",
+ "permalink": "thinstall-inc",
+ "crunchbase_url": "http://www.crunchbase.com/company/thinstall-inc",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "application-virtualization",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Wed Sep 15 23:17:35 UTC 2010",
+ "updated_at": "Fri Dec 03 18:51:39 UTC 2010",
+ "overview": null,
+ "image":
+  {"available_sizes":
+    [[[150,
+       70],
+      "assets/images/resized/0011/2410/112410v2-max-150x150.jpg"],
+     [[250,
+       116],
+      "assets/images/resized/0011/2410/112410v2-max-250x250.jpg"],
+     [[375,
+       175],
+      "assets/images/resized/0011/2410/112410v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Henrik",
+      "last_name": "Rosendahl",
+      "permalink": "henrik-rosendahl",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash_and_stock",
+   "source_url": "",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 1,
+   "acquired_day": 15,
+   "acquiring_company":
+    {"name": "VMware",
+     "permalink": "vmware",
+     "image":
+      {"available_sizes":
+        [[[122,
+           44],
+          "assets/images/resized/0001/9593/19593v2-max-150x150.png"],
+         [[122,
+           44],
+          "assets/images/resized/0001/9593/19593v2-max-250x250.png"],
+         [[122,
+           44],
+          "assets/images/resized/0001/9593/19593v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "22 Battery St",
+    "address2": "",
+    "zip_code": "94111",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [{"description": "Acquired by VMware Inc",
+    "stoned_year": 2008,
+    "stoned_month": 1,
+    "stoned_day": 15,
+    "source_url": "http://www.vmware.com/company/news/releases/thinstall.html",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Thinstall inc",
+      "permalink": "thinstall-inc"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

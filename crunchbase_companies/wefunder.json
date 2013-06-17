@@ -1,0 +1,117 @@
+{"name": "Wefunder",
+ "permalink": "wefunder",
+ "crunchbase_url": "http://www.crunchbase.com/company/wefunder",
+ "homepage_url": "http://www.wefunder.com",
+ "blog_url": "http://www.wefunder.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "wefunder",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Crowdinvesting for Startups",
+ "created_at": "Thu Apr 26 05:40:09 UTC 2012",
+ "updated_at": "Thu Jun 13 07:26:55 UTC 2013",
+ "overview": "\u003Cp\u003EWefunder, Inc. operates a crowd investing platform for startups. The company also offers capital raising services. Wefunder, Inc. is based in Cambridge, Massachusetts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0022/3130/223130v2-max-150x150.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0022/3130/223130v2-max-250x250.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0022/3130/223130v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder/President",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Norman",
+      "permalink": "mike-norman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Cofounder/CEO",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Tommarello",
+      "permalink": "nick-tommarello",
+      "image": null}},
+   {"is_past": false,
+    "title": "Cofounder/CEO",
+    "person":
+     {"first_name": "Nick",
+      "last_name": "Tommarello",
+      "permalink": "nick-tommarello-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Cofounder / VP Engineering ",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Belote",
+      "permalink": "greg-belote",
+      "image": null}},
+   {"is_past": true,
+    "title": "Angel Investor",
+    "person":
+     {"first_name": "Nihal",
+      "last_name": "Mehta",
+      "permalink": "nihal-mehta",
+      "image":
+       {"available_sizes":
+         [[[105,
+            150],
+           "assets/images/resized/0008/8203/88203v2-max-150x150.jpg"],
+          [[175,
+            250],
+           "assets/images/resized/0008/8203/88203v2-max-250x250.jpg"],
+          [[315,
+            450],
+           "assets/images/resized/0008/8203/88203v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$530k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/11/28/wefunder-raises-500k-to-help-unaccredited-investors-put-money-into-startups/",
+    "source_description": "Wefunder Raises $500K To Help Unaccredited Investors Put Money Into Startups",
+    "raised_amount": 530000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 27,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,143 @@
+{"name": "9facts",
+ "permalink": "9facts",
+ "crunchbase_url": "http://www.crunchbase.com/company/9facts",
+ "homepage_url": "http://9facts.com",
+ "blog_url": "http://blog.9facts.com",
+ "blog_feed_url": "http://blog.9facts.com/feeds/posts/default?alt=rss",
+ "twitter_username": "9facts",
+ "category_code": "web",
+ "number_of_employees": 7,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-service, achievements, rankings, comparison",
+ "alias_list": null,
+ "email_address": "info@9facts.com",
+ "phone_number": "+79222227300",
+ "description": "9facts compares people's achievements",
+ "created_at": "Tue Nov 15 08:45:46 UTC 2011",
+ "updated_at": "Mon Nov 21 00:51:58 UTC 2011",
+ "overview": "\u003Cp\u003E9facts is a social service for sharing and comparing facts related to you, your friends, and people you know.\u003C/p\u003E\n\n\u003Cp\u003E9facts is focused on local fact rankings: nearly any group of people there has its own fact ranking (top facts). This feature allow users to compare and highlight their own skills in a group of people they belong to (city, country, college, school, company, etc.). On contrary, most of rankings available on the web are global, so 9facts is designed to change this.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dmitri",
+      "last_name": "Maximov",
+      "permalink": "dmitri-maximov",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Yakunin",
+      "permalink": "alex-yakunin-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Shtin",
+      "permalink": "alex-shtin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Facebook",
+      "permalink": "facebook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+          [[250,
+            94],
+           "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+          [[450,
+            169],
+           "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LinkedIn",
+      "permalink": "linkedin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-150x150.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-250x250.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$70k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://it-eburg.com/text/article/prozhektor_leonida_volkova_nashel_ideju_dorozhe_05_mln/",
+    "source_description": "Leonid Volkov's \"Projector\" investment company has found an idea that worth more then 0.5M USD",
+    "raised_amount": 70000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Primary office",
+    "address1": "9 Kirova st. ",
+    "address2": "",
+    "zip_code": "620028",
+    "city": "Yekaterinburg",
+    "state_code": null,
+    "country_code": "RUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[107,
+        150],
+       "assets/images/resized/0016/2437/162437v2-max-150x150.png"],
+      [[179,
+        250],
+       "assets/images/resized/0016/2437/162437v2-max-250x250.png"],
+      [[323,
+        450],
+       "assets/images/resized/0016/2437/162437v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

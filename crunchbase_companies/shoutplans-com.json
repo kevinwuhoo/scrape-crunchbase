@@ -1,0 +1,187 @@
+{"name": "ShoutPlans",
+ "permalink": "shoutplans-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/shoutplans-com",
+ "homepage_url": "http://www.shoutplans.com",
+ "blog_url": "http://sociallogic.wordpress.com/2011/04/13/shoutplans-api-development/",
+ "blog_feed_url": "",
+ "twitter_username": "ShoutPlans",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "planning, online-to-offline, event-discovery, pre-checkin, social-discovery, free-time",
+ "alias_list": null,
+ "email_address": "chad@sociallogic.biz",
+ "phone_number": "5166592797",
+ "description": "Social Planning Platform",
+ "created_at": "Tue Feb 28 07:09:08 UTC 2012",
+ "updated_at": "Tue Mar 06 18:26:37 UTC 2012",
+ "overview": "\u003Cp\u003EShoutPlans is a social planning platform that provides a way to quickly discover, who is available and interested in a similar activity or event, among your friends, acquaintances and strangers, while offering the flexibility to take advantage of these serendipitous or planned social opportunities on the fly.\u003C/p\u003E\n\n\u003Cp\u003EShoutPlans focuses on what activities people want to do and when (a pre check-in to an activity) by providing a user, through \u003Cem\u003EShoutouts\u003C/em\u003E, the ability to broadcast what people are doing, want to do, or plan on doing (i.e. grabbing coffee, wanting to see a movie, or going skiing), without the preconceived notion of a place, a time, or an attendee list. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       30],
+      "assets/images/resized/0017/6105/176105v2-max-150x150.png"],
+     [[250,
+       50],
+      "assets/images/resized/0017/6105/176105v2-max-250x250.png"],
+     [[450,
+       90],
+      "assets/images/resized/0017/6105/176105v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Chad",
+      "last_name": "Brodsky",
+      "permalink": "chad-brodsky-2",
+      "image":
+       {"available_sizes":
+         [[[105,
+            150],
+           "assets/images/resized/0017/6938/176938v2-max-150x150.jpg"],
+          [[175,
+            250],
+           "assets/images/resized/0017/6938/176938v2-max-250x250.jpg"],
+          [[316,
+            450],
+           "assets/images/resized/0017/6938/176938v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Matthew",
+      "last_name": "Ferrante",
+      "permalink": "matthew-ferrante",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Brooks",
+      "permalink": "steve-brooks",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Wendr, LLC",
+      "permalink": "wendr-llc",
+      "image": null}},
+   {"competitor":
+     {"name": "Meetup",
+      "permalink": "meetup",
+      "image":
+       {"available_sizes":
+         [[[150,
+            99],
+           "assets/images/resized/0001/3896/13896v3-max-150x150.jpg"],
+          [[250,
+            166],
+           "assets/images/resized/0001/3896/13896v3-max-250x250.jpg"],
+          [[450,
+            299],
+           "assets/images/resized/0001/3896/13896v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hotlist",
+      "permalink": "hotlist",
+      "image":
+       {"available_sizes":
+         [[[109,
+            37],
+           "assets/images/resized/0006/3788/63788v10-max-150x150.png"],
+          [[109,
+            37],
+           "assets/images/resized/0006/3788/63788v10-max-250x250.png"],
+          [[109,
+            37],
+           "assets/images/resized/0006/3788/63788v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UrbanOrca",
+      "permalink": "urbanorca",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0013/9380/139380v1-max-150x150.png"],
+          [[250,
+            57],
+           "assets/images/resized/0013/9380/139380v1-max-250x250.png"],
+          [[302,
+            69],
+           "assets/images/resized/0013/9380/139380v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Hurricane Party",
+      "permalink": "hurricane-party",
+      "image":
+       {"available_sizes":
+         [[[104,
+            150],
+           "assets/images/resized/0009/3981/93981v2-max-150x150.png"],
+          [[173,
+            250],
+           "assets/images/resized/0009/3981/93981v2-max-250x250.png"],
+          [[313,
+            450],
+           "assets/images/resized/0009/3981/93981v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UpTo",
+      "permalink": "upto",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0016/7537/167537v4-max-150x150.jpg"],
+          [[250,
+            98],
+           "assets/images/resized/0016/7537/167537v4-max-250x250.jpg"],
+          [[415,
+            164],
+           "assets/images/resized/0016/7537/167537v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Highlight",
+      "permalink": "highlight",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0017/1530/171530v1-max-150x150.png"],
+          [[250,
+            94],
+           "assets/images/resized/0017/1530/171530v1-max-250x250.png"],
+          [[450,
+            169],
+           "assets/images/resized/0017/1530/171530v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

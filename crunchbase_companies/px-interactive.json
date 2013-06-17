@@ -1,0 +1,74 @@
+{"name": "PX Interactive",
+ "permalink": "px-interactive",
+ "crunchbase_url": "http://www.crunchbase.com/company/px-interactive",
+ "homepage_url": "http://www.pxinteractive.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2007,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mmog, virtual-worlds, games-networking, video-games-engines",
+ "alias_list": null,
+ "email_address": "contact@pxinteractive.com",
+ "phone_number": "415-341-6796",
+ "description": null,
+ "created_at": "Tue Aug 19 21:05:51 UTC 2008",
+ "updated_at": "Thu Jan 08 05:33:11 UTC 2009",
+ "overview": "\u003Cp\u003EPX Interactive are developers of the NetDog networking engine for MMOs and Virtual Worlds. \u003C/p\u003E\n\n\u003Cp\u003ENetdog is positioned as a high performance toolset for game developers and virtual world designers.  As such, primary features include load balancing and load distribution tools, seamless world functionality, performance optimization tools, and an intuitive interface that is easy to learn and customize.\u003C/p\u003E\n\n\u003Cp\u003ENetDog has two major features.  First, NetDog is fully cross-platform - developers will be able to create games that can be played across PC, Mac, PS3, Xbox 360, and even iPhone.  Network messages will work regardless of the platform, bringing more gamers into each game, and providing unique gameplay options.  \u003C/p\u003E\n\n\u003Cp\u003ESecond, NetDog\u0026#8217;s architecture is built on a patent-pending distributed networking solution.  With small setting changes NetDog can be used in a variety of network topologies - from full client server mode to fully peer-to-peer, with a variety of network computing options in-between.  Developers will have the option to off-load some or all of their game processing to the clients in their network, and can choose which functions and events will be handled where.  This will allow for bigger, more efficient networks with lower latencies\u003C/p\u003E\n\n\u003Cp\u003EPX Interactive overview\nPX Interactive is led by a team of technologists and game industry veterans with entrepreneurial experience.  The company\u0026#8217;s objective is to become the top player in the defined niche of high-speed networking for 3D worlds.  As such, they are targetting game developers and virtual world designers of all sizes.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0002/3837/23837v2-max-150x150.png"],
+     [[250,
+       125],
+      "assets/images/resized/0002/3837/23837v2-max-250x250.png"],
+     [[450,
+       225],
+      "assets/images/resized/0002/3837/23837v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "NetDog MMOG Networking Engine",
+    "permalink": "netdog-mmog-networking-engine",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "SF Office",
+    "address1": "953 Mission Street",
+    "address2": "",
+    "zip_code": "94103",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.781754,
+    "longitude": -122.407709}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.siliconvalleyigda.org/paul-manwell-of-px-interactive-presents-the-netdog-networking-engine-for-mmos/",
+    "title": "Presentation at SV IGDA"}]}

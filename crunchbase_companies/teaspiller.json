@@ -1,0 +1,138 @@
+{"name": "Teaspiller",
+ "permalink": "teaspiller",
+ "crunchbase_url": "http://www.crunchbase.com/company/teaspiller",
+ "homepage_url": "http://www.teaspiller.com",
+ "blog_url": "http://blog.teaspiller.com",
+ "blog_feed_url": "",
+ "twitter_username": "teaspiller",
+ "category_code": "enterprise",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "tax-prep, tax-help, tax-software, irs-help, irs-audits, tax-audits",
+ "alias_list": null,
+ "email_address": "support@teaspiller.com",
+ "phone_number": "1-877-832-7745",
+ "description": "Online Expert Tax Help.",
+ "created_at": "Tue May 04 17:21:40 UTC 2010",
+ "updated_at": "Mon Aug 27 07:42:12 UTC 2012",
+ "overview": "\u003Cp\u003ETeaspiller was founded with the goal of making online, convenient, expert tax help available to individuals, small business owners, and freelancers.\u003C/p\u003E\n\n\u003Cp\u003EThis is done by having created a platform where experts and customers can freely interact for both tax questions and prep by taking advantage of the Twilio API. Customers are also able to import data from popular third party sites like FreshBooks, LessAccounting, Zoho Invoice, Harvest, and Expensify. All this info can be shared with an accountant to maximize deductions, or in case of an audit.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0008/5919/85919v2-max-150x150.jpg"],
+     [[250,
+       82],
+      "assets/images/resized/0008/5919/85919v2-max-250x250.jpg"],
+     [[450,
+       148],
+      "assets/images/resized/0008/5919/85919v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Work Online",
+    "permalink": "work-online",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Teaspiller",
+    "person":
+     {"first_name": "Amit",
+      "last_name": "Vemuri",
+      "permalink": "amit-vemuri",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Tsui",
+      "permalink": "stephen-tsui",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Deep",
+      "last_name": "Singh",
+      "permalink": "deep-singh",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/9153/269153v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/9153/269153v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/9153/269153v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "H\u0026R Block",
+      "permalink": "h-r-block",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0008/7155/87155v2-max-150x150.jpg"],
+          [[228,
+            82],
+           "assets/images/resized/0008/7155/87155v2-max-250x250.jpg"],
+          [[228,
+            82],
+           "assets/images/resized/0008/7155/87155v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "H\u0026R Block",
+      "permalink": "h-r-block",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0008/7155/87155v2-max-150x150.jpg"],
+          [[228,
+            82],
+           "assets/images/resized/0008/7155/87155v2-max-250x250.jpg"],
+          [[228,
+            82],
+           "assets/images/resized/0008/7155/87155v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TurboTax",
+      "permalink": "turbotax",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "https://www.expensify.com/content/features/online-tax-help",
+    "title": "Live Online Tax Help for Expensify"},
+   {"external_url": "http://blog.teaspiller.com",
+    "title": "The Teaspiller Blog"},
+   {"external_url": "http://blog.entrepreneur.com/2010/08/wednesday-web-resources.php",
+    "title": "Wednesday Web Resources: Four Great Free Tools That Work Great Together "},
+   {"external_url": "http://www.nytimes.com/external/venturebeat/2011/01/25/25venturebeat-teaspiller-takes-on-turbotax-and-hr-block-fo-23503.html?ref=technology",
+    "title": "TeaSpiller Takes on TurboTax and H\u0026R Block for Your Accounting Needs"},
+   {"external_url": "http://venturebeat.com/2011/01/25/teaspiller-launch/",
+    "title": "TeaSpiller takes on TurboTax and H\u0026R Block for your accounting needs"}]}

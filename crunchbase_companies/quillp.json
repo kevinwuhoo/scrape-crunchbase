@@ -1,0 +1,101 @@
+{"name": "quillp",
+ "permalink": "quillp",
+ "crunchbase_url": "http://www.crunchbase.com/company/quillp",
+ "homepage_url": "http://www.quillp.com",
+ "blog_url": "http://blog.quillp.com/",
+ "blog_feed_url": "http://blog.quillp.com/feed/",
+ "twitter_username": "quillp",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "books, reader-network, seedcamp-2008, reading, publishing, seedcamp",
+ "alias_list": "",
+ "email_address": "info@quillp.com",
+ "phone_number": "+41 (0)81 756 75 79",
+ "description": "Social Book Discovery Platform",
+ "created_at": "Mon Sep 29 20:47:45 UTC 2008",
+ "updated_at": "Thu Oct 08 13:00:21 UTC 2009",
+ "overview": "\u003Cp\u003Equillp is a network for avid readers and writers that allows users to find new reading material tailored to their interests, based on genres, favorite authors, and recent good reads. The service helps identify other readers with similar tastes and what they have read and enjoyed. \nquillp also allows authors to upload manuscripts and book ideas to make them more accessible and marketable to would-be publishers. \u003C/p\u003E\n\n\u003Cp\u003Equillp was selected as a winner of \u003Ca href=\"http://www.crunchbase.com/company/seedcamp\" title=\"Seedcamp\"\u003ESeedcamp\u003C/a\u003E 2008.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       60],
+      "assets/images/resized/0002/5883/25883v1-max-150x150.png"],
+     [[200,
+       80],
+      "assets/images/resized/0002/5883/25883v1-max-250x250.png"],
+     [[200,
+       80],
+      "assets/images/resized/0002/5883/25883v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "quillp",
+    "permalink": "quillp",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Braun",
+      "permalink": "alexander-braun",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Rolf",
+      "last_name": "Eggenberger",
+      "permalink": "rolf-eggenberger",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BookRix",
+      "permalink": "bookrix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0002/7240/27240v1-max-150x150.jpg"],
+          [[155,
+            48],
+           "assets/images/resized/0002/7240/27240v1-max-250x250.jpg"],
+          [[155,
+            48],
+           "assets/images/resized/0002/7240/27240v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "QuillP GmbH",
+    "address1": "Schinggasse 2a",
+    "address2": "",
+    "zip_code": "9470 ",
+    "city": "St. Gallen/Buchs",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": 47.16658,
+    "longitude": 9.468598}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://econsultancy.com/blog/3322-q-a-quillp-founder-founder-alexander-braun",
+    "title": "Q\u0026A: Quillp founder Alexander Braun"}]}

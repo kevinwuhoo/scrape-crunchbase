@@ -1,0 +1,83 @@
+{"name": "OutlookCloud",
+ "permalink": "outlookcloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/outlookcloud",
+ "homepage_url": "http://www.outlookcloud.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2008,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "outlook-attachment-extractor-remover-cloud-amazon-s3-email",
+ "alias_list": null,
+ "email_address": "info@outlookcloud.com",
+ "phone_number": "(408)426-4526",
+ "description": null,
+ "created_at": "Sun Jan 18 17:26:32 UTC 2009",
+ "updated_at": "Sat Jan 24 14:35:52 UTC 2009",
+ "overview": "\u003Cp\u003EOutlookCloud provides a solution for enterprise users to outsource email attachments to the Cloud. Its Attachment Manager product is a Microsoft Outlook add-in program that transparently detaches/re-attaches attachments and embedded images to/from the Cloud, for example by using the Amazon S3 service.\u003C/p\u003E\n\n\u003Cp\u003EAttachment Manager offloads email storage at an attractive price of $0.10/GB/month or less by using the optional compression feature. Using the optional encryption feature and auto-generated random new password on each attachment, it guarantees that the email data is secure even though the data is stored in the Cloud.\u003C/p\u003E\n\n\u003Cp\u003EAttachment Manager currently support two storage providers 1) Amazon S3 or 2) A network drive (or local hard drive). More storage providers will be added in the future. Detaching could be fully automated and re-attaching is a simple mouse click. Furthermore, it is all transparent that it appears to the end user that the attachments are still in the message. At a nickel a month (assuming Amazon S3, 1GB attachments and 50% compression ratio), enterprise users can reduce their email storage so that it is faster and more efficient to search, index and browse. Not to mention, they can now finally stay comfortable under the measly email quota given by their CIO.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       19],
+      "assets/images/resized/0003/4156/34156v2-max-150x150.jpg"],
+     [[250,
+       32],
+      "assets/images/resized/0003/4156/34156v2-max-250x250.jpg"],
+     [[385,
+       50],
+      "assets/images/resized/0003/4156/34156v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Attachment Manager",
+    "permalink": "attachment-manager",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "headquarter",
+    "address1": "",
+    "address2": "",
+    "zip_code": "94087",
+    "city": "Sunnyvale",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3492097,
+    "longitude": -122.0326019}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0003/4155/34155v2-max-150x150.jpg"],
+      [[250,
+        187],
+       "assets/images/resized/0003/4155/34155v2-max-250x250.jpg"],
+      [[450,
+        337],
+       "assets/images/resized/0003/4155/34155v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,88 @@
+{"name": "GENNIT",
+ "permalink": "gennit",
+ "crunchbase_url": "http://www.crunchbase.com/company/gennit",
+ "homepage_url": "http://gennit.com",
+ "blog_url": "http://blog.gennit.com",
+ "blog_feed_url": "http://feeds.feedburner.com/Gennit",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "code-generation",
+ "alias_list": null,
+ "email_address": "gary@gennit.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Jun 23 01:58:01 UTC 2008",
+ "updated_at": "Mon Aug 17 15:09:09 UTC 2009",
+ "overview": "\u003Cp\u003EGENNIT is an online web code generator tool which provides access to tested templates which use industry standard practices such as NHibernate to produce high quality manageable code for a project from an online designer.\u003C/p\u003E\n\n\u003Cp\u003EGENNIT is for companies and individuals that want to get up and running with industry standard code implementations as fast as possible with a minimum amount of hassle and configuration.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0002/0792/20792v2-max-150x150.png"],
+     [[250,
+       60],
+      "assets/images/resized/0002/0792/20792v2-max-250x250.png"],
+     [[329,
+       80],
+      "assets/images/resized/0002/0792/20792v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Gary",
+      "last_name": "Brewer",
+      "permalink": "gary-brewer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            93],
+           "assets/images/resized/0003/3597/33597v4-max-150x150.jpg"],
+          [[250,
+            156],
+           "assets/images/resized/0003/3597/33597v4-max-250x250.jpg"],
+          [[450,
+            281],
+           "assets/images/resized/0003/3597/33597v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "PO BOX 290",
+    "address2": "",
+    "zip_code": "NSW 1655",
+    "city": "Manly",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -33.329799,
+    "longitude": 151.505125}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

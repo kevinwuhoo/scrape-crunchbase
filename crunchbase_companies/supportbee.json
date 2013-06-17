@@ -1,0 +1,125 @@
+{"name": "SupportBee",
+ "permalink": "supportbee",
+ "crunchbase_url": "http://www.crunchbase.com/company/supportbee",
+ "homepage_url": "https://supportbee.com",
+ "blog_url": "https://supportbee.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "supportbee",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2010,
+ "founded_month": 9,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "customer-support-software, support-software",
+ "alias_list": null,
+ "email_address": "prateek@supportbee.com",
+ "phone_number": "(408) 757-0970 ",
+ "description": "Easiest way to handle support emails",
+ "created_at": "Mon Oct 22 09:31:50 UTC 2012",
+ "updated_at": "Fri Oct 26 18:15:33 UTC 2012",
+ "overview": "\u003Cp\u003ESupportBee is the easiest way to manage customer support emails. \u003C/p\u003E\n\n\u003Cp\u003ESupportBee is built for teams and all plans come with unlimited logins to make team collaboration easier. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0021/6566/216566v2-max-150x150.png"],
+     [[200,
+       47],
+      "assets/images/resized/0021/6566/216566v2-max-250x250.png"],
+     [[200,
+       47],
+      "assets/images/resized/0021/6566/216566v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Prateek",
+      "last_name": "Dayal",
+      "permalink": "prateek-dayal-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Hacker",
+    "person":
+     {"first_name": "Avinasha",
+      "last_name": "Shastry",
+      "permalink": "avinasha-shastry",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Zendesk",
+      "permalink": "zendesk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0002/2043/22043v1-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0002/2043/22043v1-max-250x250.png"],
+          [[399,
+            119],
+           "assets/images/resized/0002/2043/22043v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Freshdesk",
+      "permalink": "freshdesk",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0013/1293/131293v6-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0013/1293/131293v6-max-250x250.png"],
+          [[450,
+            110],
+           "assets/images/resized/0013/1293/131293v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$40k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 40000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        87],
+       "assets/images/resized/0021/6565/216565v2-max-150x150.png"],
+      [[250,
+        145],
+       "assets/images/resized/0021/6565/216565v2-max-250x250.png"],
+      [[450,
+        261],
+       "assets/images/resized/0021/6565/216565v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://venturebeat.com/2012/09/26/supportbee-launches-web-tool-for-headache-free-email-support-exclusive/",
+    "title": "VentureBeat Launch Coverage"}]}

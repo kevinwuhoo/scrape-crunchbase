@@ -1,0 +1,99 @@
+{"name": "Hoteliers",
+ "permalink": "hoteliers",
+ "crunchbase_url": "http://www.crunchbase.com/company/hoteliers",
+ "homepage_url": "http://www.hoteliers.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2005,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hotel, hotels, hotelier, hoteliers, travel, lodging",
+ "alias_list": null,
+ "email_address": "info@hoteliers.com",
+ "phone_number": "+31(0)20-5313333",
+ "description": null,
+ "created_at": "Mon Jun 23 13:39:06 UTC 2008",
+ "updated_at": "Sat Mar 14 14:33:00 UTC 2009",
+ "overview": "\u003Cp\u003EHoteliers is a website which offers hotel reservations in Europe. Visitors can book online but at the same time direct contact details of the featured hotels are also listed, allowing visitors to choose between booking online or directly at the hotel. It is also possible to book special packages as well as meeting rooms.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0002/0817/20817v2-max-150x150.png"],
+     [[199,
+       55],
+      "assets/images/resized/0002/0817/20817v2-max-250x250.png"],
+     [[199,
+       55],
+      "assets/images/resized/0002/0817/20817v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Director",
+    "person":
+     {"first_name": "Erik",
+      "last_name": "Baumann",
+      "permalink": "erik-baumann",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Sales",
+    "person":
+     {"first_name": "Patrick",
+      "last_name": "Brand",
+      "permalink": "patrick-brand",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Expedia",
+      "permalink": "expedia",
+      "image":
+       {"available_sizes":
+         [[[150,
+            115],
+           "assets/images/resized/0001/6749/16749v3-max-150x150.jpg"],
+          [[250,
+            193],
+           "assets/images/resized/0001/6749/16749v3-max-250x250.jpg"],
+          [[450,
+            347],
+           "assets/images/resized/0001/6749/16749v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head-office",
+    "address1": "Jollemanhof 152",
+    "address2": "",
+    "zip_code": "1019 GW",
+    "city": "Amsterdam",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.376792,
+    "longitude": 4.920582}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.hospitalitynet.org/news/4025211.search?query=hoteliers",
+    "title": "Cooperation with RateTiger"}]}

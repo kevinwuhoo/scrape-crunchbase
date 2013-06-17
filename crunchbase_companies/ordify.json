@@ -1,0 +1,120 @@
+{"name": "OrdiFy",
+ "permalink": "ordify",
+ "crunchbase_url": "http://www.crunchbase.com/company/ordify",
+ "homepage_url": "http://www.ordify.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "restaurant, food, app, gastronomy",
+ "alias_list": null,
+ "email_address": "info@ordify.de",
+ "phone_number": "",
+ "description": "Restaurant mobile ordering",
+ "created_at": "Mon Jun 11 07:37:11 UTC 2012",
+ "updated_at": "Tue Jun 12 15:06:11 UTC 2012",
+ "overview": "\u003Cp\u003EOrdiFy allows restaurant visitors to order using their smartphone, thus allowing to skip waiters.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0019/4804/194804v2-max-150x150.png"],
+     [[150,
+       55],
+      "assets/images/resized/0019/4804/194804v2-max-250x250.png"],
+     [[150,
+       55],
+      "assets/images/resized/0019/4804/194804v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Manager",
+    "person":
+     {"first_name": "Marcel",
+      "last_name": "Daake",
+      "permalink": "marcel-daake",
+      "image": null}},
+   {"is_past": false,
+    "title": "Sales",
+    "person":
+     {"first_name": "Sascha",
+      "last_name": "Woge",
+      "permalink": "sascha-woge",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product",
+    "person":
+     {"first_name": "Hendrik",
+      "last_name": "Kleinwaechter",
+      "permalink": "hendrik-kleinwaechter",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GoPago",
+      "permalink": "gopago",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0017/5591/175591v3-max-150x150.png"],
+          [[229,
+            68],
+           "assets/images/resized/0017/5591/175591v3-max-250x250.png"],
+          [[229,
+            68],
+           "assets/images/resized/0017/5591/175591v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SilvrSpoon",
+      "permalink": "silvrspoon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0014/3857/143857v6-max-150x150.png"],
+          [[200,
+            200],
+           "assets/images/resized/0014/3857/143857v6-max-250x250.png"],
+          [[200,
+            200],
+           "assets/images/resized/0014/3857/143857v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Berlin",
+    "address1": "Friedelstrasse 27",
+    "address2": "",
+    "zip_code": "12047",
+    "city": "Berlin",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,188 @@
+{"name": "BeamStream",
+ "permalink": "beamstream",
+ "crunchbase_url": "http://www.crunchbase.com/company/beamstream",
+ "homepage_url": "http://www.beamstream.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "beamstream",
+ "category_code": "education",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "edtech, education, startup, online, collaboration, social-networking, content-curation",
+ "alias_list": null,
+ "email_address": "cox@beamstream.com",
+ "phone_number": "",
+ "description": "Higher Ed's Social Learning Network",
+ "created_at": "Tue Feb 05 02:40:23 UTC 2013",
+ "updated_at": "Mon Feb 18 06:08:21 UTC 2013",
+ "overview": "\u003Cp\u003EBeamStream is a social learning network \u0026amp; platform that makes online \u0026amp; mobile collaboration between students \u0026amp; professors dead-simple. BeamStream socially enhances learning, connecting students \u0026amp; educators in class, across school, and between college campuses everywhere.\u003C/p\u003E\n\n\u003Cp\u003EBeamStream\u0026#8217;s dream is a more open and connected academic world. We will tear down the walls between students \u0026amp; professors in class, across school, between college campuses, and the academic and professional world. The architecture of our solution fits nicely into the new Open Education movement (MOOC\u0026#8217;s). Imagine a world where education is closely aligned with what\u0026#8217;s actually happening in the working world, creating a much more fluid, dynamic, and relevant graduating class, giving students the information they need to better chart their future career success!                                  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0023/6565/236565v2-max-150x150.jpg"],
+     [[250,
+       59],
+      "assets/images/resized/0023/6565/236565v2-max-250x250.jpg"],
+     [[450,
+       106],
+      "assets/images/resized/0023/6565/236565v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder CEO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Cox",
+      "permalink": "chris-cox-3",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Edmodo",
+      "permalink": "edmodo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            65],
+           "assets/images/resized/0001/6596/16596v6-max-150x150.png"],
+          [[250,
+            109],
+           "assets/images/resized/0001/6596/16596v6-max-250x250.png"],
+          [[450,
+            196],
+           "assets/images/resized/0001/6596/16596v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Schoology",
+      "permalink": "schoology",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0005/9519/59519v6-max-150x150.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-250x250.png"],
+          [[235,
+            62],
+           "assets/images/resized/0005/9519/59519v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pearson",
+      "permalink": "pearson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0005/0973/50973v3-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0005/0973/50973v3-max-250x250.png"],
+          [[450,
+            133],
+           "assets/images/resized/0005/0973/50973v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Piazza",
+      "permalink": "piazzza",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0007/6070/76070v8-max-150x150.png"],
+          [[211,
+            76],
+           "assets/images/resized/0007/6070/76070v8-max-250x250.png"],
+          [[211,
+            76],
+           "assets/images/resized/0007/6070/76070v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Blackboard",
+      "permalink": "blackboard",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-150x150.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-250x250.png"],
+          [[73,
+            73],
+           "assets/images/resized/0002/2581/22581v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Engrade",
+      "permalink": "engrade",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0009/5752/95752v7-max-150x150.png"],
+          [[232,
+            100],
+           "assets/images/resized/0009/5752/95752v7-max-250x250.png"],
+          [[232,
+            100],
+           "assets/images/resized/0009/5752/95752v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Moodle",
+      "permalink": "moodle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0005/9162/59162v1-max-150x150.png"],
+          [[200,
+            46],
+           "assets/images/resized/0005/9162/59162v1-max-250x250.png"],
+          [[200,
+            46],
+           "assets/images/resized/0005/9162/59162v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Inigral",
+      "permalink": "inigral",
+      "image":
+       {"available_sizes":
+         [[[150,
+            119],
+           "assets/images/resized/0002/3407/23407v4-max-150x150.jpg"],
+          [[200,
+            159],
+           "assets/images/resized/0002/3407/23407v4-max-250x250.jpg"],
+          [[200,
+            159],
+           "assets/images/resized/0002/3407/23407v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,186 @@
+{"name": "CrowdVine",
+ "permalink": "crowdvine",
+ "crunchbase_url": "http://www.crunchbase.com/company/crowdvine",
+ "homepage_url": "http://www.crowdvine.com",
+ "blog_url": "http://blog.crowdvine.com",
+ "blog_feed_url": "http://blog.crowdvine.com/feed/",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "socialnetworks, conferences",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Conference Social Networks",
+ "created_at": "Thu Jul 12 08:45:03 UTC 2007",
+ "updated_at": "Thu Apr 11 18:09:51 UTC 2013",
+ "overview": "\u003Cp\u003ECrowdVine provides social networks for conferences and other professional communities.\u003C/p\u003E\n\n\u003Cp\u003EConference attendees are looking for a tool to help them make contacts at the event. CrowdVine for Conferences is a hosted social network package that\u0026#8217;s tailored specifically for conferences. Rather than being yet another place to manage your friends, it helps you organize a want-to-meet list, see which sessions your friends are going to, and when the conference is over, export your new contacts to your permanent social network (LinkedIn, Facebook, email).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0000/3193/3193v3-max-150x150.png"],
+     [[250,
+       61],
+      "assets/images/resized/0000/3193/3193v3-max-250x250.png"],
+     [[319,
+       79],
+      "assets/images/resized/0000/3193/3193v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "CrowdVine",
+    "permalink": "crowdvine",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Tony",
+      "last_name": "Stubblebine",
+      "permalink": "tony-stubblebine",
+      "image":
+       {"available_sizes":
+         [[[133,
+            150],
+           "assets/images/resized/0001/0324/10324v4-max-150x150.jpg"],
+          [[180,
+            203],
+           "assets/images/resized/0001/0324/10324v4-max-250x250.jpg"],
+          [[180,
+            203],
+           "assets/images/resized/0001/0324/10324v4-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "General Manager",
+    "person":
+     {"first_name": "Andrew",
+      "last_name": "Koumarianos",
+      "permalink": "andrew-koumarianos",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Ning by Glam Media",
+      "permalink": "ning",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/4498/4498v1-max-150x150.png"],
+          [[180,
+            56],
+           "assets/images/resized/0000/4498/4498v1-max-250x250.png"],
+          [[180,
+            56],
+           "assets/images/resized/0000/4498/4498v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "EventVue",
+      "permalink": "eventvue",
+      "image":
+       {"available_sizes":
+         [[[150,
+            67],
+           "assets/images/resized/0001/8164/18164v3-max-150x150.png"],
+          [[163,
+            73],
+           "assets/images/resized/0001/8164/18164v3-max-250x250.png"],
+          [[163,
+            73],
+           "assets/images/resized/0001/8164/18164v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Groupsite",
+      "permalink": "collectivex",
+      "image":
+       {"available_sizes":
+         [[[150,
+            142],
+           "assets/images/resized/0000/3412/3412v1-max-150x150.jpg"],
+          [[250,
+            236],
+           "assets/images/resized/0000/3412/3412v1-max-250x250.jpg"],
+          [[450,
+            426],
+           "assets/images/resized/0000/3412/3412v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Skalfa",
+      "permalink": "skalfa",
+      "image":
+       {"available_sizes":
+         [[[126,
+            56],
+           "assets/images/resized/0001/9126/19126v3-max-150x150.png"],
+          [[126,
+            56],
+           "assets/images/resized/0001/9126/19126v3-max-250x250.png"],
+          [[126,
+            56],
+           "assets/images/resized/0001/9126/19126v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pathable",
+      "permalink": "pathable",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/5135/25135v3-max-150x150.jpg"],
+          [[250,
+            70],
+           "assets/images/resized/0002/5135/25135v3-max-250x250.jpg"],
+          [[273,
+            77],
+           "assets/images/resized/0002/5135/25135v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SocialEngine",
+      "permalink": "socialengine",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0014/5553/145553v2-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0014/5553/145553v2-max-250x250.png"],
+          [[450,
+            83],
+           "assets/images/resized/0014/5553/145553v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": " 53 S Knoll Rd",
+    "address2": "",
+    "zip_code": "94941-2464",
+    "city": "Mill Valley",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.90077,
+    "longitude": -122.511687}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

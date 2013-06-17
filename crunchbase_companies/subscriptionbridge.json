@@ -1,0 +1,142 @@
+{"name": "SubscriptionBridge",
+ "permalink": "subscriptionbridge",
+ "crunchbase_url": "http://www.crunchbase.com/company/subscriptionbridge",
+ "homepage_url": "https://www.subscriptionbridge.com",
+ "blog_url": "http://blog.subscriptionbridge.com",
+ "blog_feed_url": "http://blog.subscriptionbridge.com//feeds/posts/default",
+ "twitter_username": "subscriptionb",
+ "category_code": "ecommerce",
+ "number_of_employees": 6,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "subscription-management, recurring-billing",
+ "alias_list": null,
+ "email_address": "info@subscriptionbridge.com",
+ "phone_number": "(800) 804-1680",
+ "description": "Saas recurring billing platform",
+ "created_at": "Wed Jun 27 01:30:58 UTC 2012",
+ "updated_at": "Wed Jun 27 16:39:38 UTC 2012",
+ "overview": "\u003Cp\u003ESubscriptionBridge is a recurring payments platform and subscription management system.\u003C/p\u003E\n\n\u003Cp\u003EWhen used with the Early Impact Payment Gateway, SubscriptionBridge triggers the recurring payments and handles the subscription billing process from A to Z. When used with other recurring payment systems like Authorize.Net ARB and PayPal Recurring Payments, it\u0026#8217;s a way to add subscription management features that are missing from them.\u003C/p\u003E\n\n\u003Cp\u003EAmong the subscription management features provided by SubscriptionBridge: automating customer service with HTML e-mail notifications; add/remove features to/from a subscription; stopping a free trial to switch to a \u0026#8220;full\u0026#8221; subscription, handling one-time payments; resolving outstanding balance situations; applying custom adjustments to an existing subscription, both positive (e.g. a custom service that increases the subscription amount) and negative (e.g. a discount).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       112],
+      "assets/images/resized/0019/7573/197573v2-max-150x150.jpg"],
+     [[200,
+       150],
+      "assets/images/resized/0019/7573/197573v2-max-250x250.jpg"],
+     [[200,
+       150],
+      "assets/images/resized/0019/7573/197573v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sheri",
+      "last_name": "Park",
+      "permalink": "sheri-park",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Massimo",
+      "last_name": "Arrigoni",
+      "permalink": "massimo-arrigoni-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Cedric",
+      "last_name": "Adams",
+      "permalink": "cedric-adams-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Cedric",
+      "last_name": "Adams",
+      "permalink": "cedric-adams",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Chargify",
+      "permalink": "chargify",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0005/7969/57969v11-max-150x150.jpg"],
+          [[250,
+            107],
+           "assets/images/resized/0005/7969/57969v11-max-250x250.jpg"],
+          [[406,
+            174],
+           "assets/images/resized/0005/7969/57969v11-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Recurly",
+      "permalink": "recurly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0006/1348/61348v4-max-150x150.png"],
+          [[250,
+            76],
+           "assets/images/resized/0006/1348/61348v4-max-250x250.png"],
+          [[300,
+            92],
+           "assets/images/resized/0006/1348/61348v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "CheddarGetter",
+      "permalink": "cheddargetter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0005/6264/56264v1-max-150x150.png"],
+          [[250,
+            146],
+           "assets/images/resized/0005/6264/56264v1-max-250x250.png"],
+          [[293,
+            172],
+           "assets/images/resized/0005/6264/56264v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Early Impact",
+    "address1": "23120 Alicia Parkway",
+    "address2": "Suite 200",
+    "zip_code": "92692",
+    "city": "Mission Viejo",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

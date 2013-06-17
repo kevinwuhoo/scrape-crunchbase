@@ -1,0 +1,153 @@
+{"name": "tibbr",
+ "permalink": "tibbr",
+ "crunchbase_url": "http://www.crunchbase.com/company/tibbr",
+ "homepage_url": "http://www.tibbr.com",
+ "blog_url": "http://www.tibbr.com/blog/",
+ "blog_feed_url": "http://www.tibbr.com/blog/?feed=rss2",
+ "twitter_username": "tibbr",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "adoption, architecture, communities, computing, customers, employee-engagement, enterprise-social-network, enterprise-social-networking, extranets, information-overload, integration, internal-communications, intranet, social, social-computing, social-desi",
+ "alias_list": null,
+ "email_address": "tibbr@tibco.com",
+ "phone_number": "650-846-1000",
+ "description": "enterprise social network",
+ "created_at": "Tue Nov 29 01:27:40 UTC 2011",
+ "updated_at": "Tue Mar 12 23:16:39 UTC 2013",
+ "overview": "\u003Cp\u003Etibbr is the social network for work. It brings people, files, applications and actions together on your desktop, smartphone or tablet so work gets done faster. tibbr works with the most popular productivity and file-sharing apps, so you can easily see, follow, share, comment and act on everything that matters, all from one nicely streamlined place.\u003C/p\u003E\n\n\u003Cp\u003Etibbr looks and behaves like a social network, so it\u2019s familiar and easy to use. But under the hood is a serious level of integration and technologies developed by TIBCO, the world\u2019s largest infrastructure software company. With deep enterprise roots and customers including governments and global financial institutions, TIBCO moves more data per day than Twitter moves in a month.\u003C/p\u003E\n\n\u003Cp\u003Etibbr also gives real-time insights on the people and topics that are influencing your business, making it a great tool for discovery and innovation.\u003C/p\u003E\n\n\u003Cp\u003EIt encourages the sharing of ideas and inspiration so you can collaborate better and take advantage of your organization\u2019s collective intelligence.\u003C/p\u003E\n\n\u003Cp\u003ELaunched in January 2011, tibbr is already used by over a million humans in more than 100 countries, revolutionizing how we communicate, collaborate,\n share and learn.\u003C/p\u003E\n\n\u003Cp\u003Etibbr is headed by Ram Menon, President of Social Computing, and Sriram Chakravarthy, VP Products. TIBCO is based in Palo Alto and was founded in 1997 by CEO Vivek Ranadiv\u00e9.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0016/4808/164808v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0016/4808/164808v2-max-250x250.png"],
+     [[359,
+       359],
+      "assets/images/resized/0016/4808/164808v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chairman and CEO",
+    "person":
+     {"first_name": "Vivek",
+      "last_name": "Ranadive",
+      "permalink": "vivek-ranadiv",
+      "image":
+       {"available_sizes":
+         [[[119,
+            119],
+           "assets/images/resized/0026/8181/268181v1-max-150x150.jpg"],
+          [[119,
+            119],
+           "assets/images/resized/0026/8181/268181v1-max-250x250.jpg"],
+          [[119,
+            119],
+           "assets/images/resized/0026/8181/268181v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Ram",
+      "last_name": "Menon",
+      "permalink": "ram-menon",
+      "image":
+       {"available_sizes":
+         [[[119,
+            119],
+           "assets/images/resized/0026/8187/268187v1-max-150x150.jpg"],
+          [[119,
+            119],
+           "assets/images/resized/0026/8187/268187v1-max-250x250.jpg"],
+          [[119,
+            119],
+           "assets/images/resized/0026/8187/268187v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Jive Software",
+      "permalink": "jive-software",
+      "image":
+       {"available_sizes":
+         [[[150,
+            71],
+           "assets/images/resized/0000/0235/235v4-max-150x150.jpg"],
+          [[250,
+            119],
+           "assets/images/resized/0000/0235/235v4-max-250x250.jpg"],
+          [[420,
+            200],
+           "assets/images/resized/0000/0235/235v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "chatter.com",
+      "permalink": "chatter-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0012/2162/122162v2-max-150x150.png"],
+          [[200,
+            65],
+           "assets/images/resized/0012/2162/122162v2-max-250x250.png"],
+          [[200,
+            65],
+           "assets/images/resized/0012/2162/122162v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yammer",
+      "permalink": "yammer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/4256/24256v1-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0002/4256/24256v1-max-250x250.png"],
+          [[450,
+            92],
+           "assets/images/resized/0002/4256/24256v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "TIBCO Software Inc.",
+    "address1": "3303 Hillview Avenue",
+    "address2": "",
+    "zip_code": "94304",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.tibbr.com",
+    "title": "tibbr"},
+   {"external_url": "http://startuptunes.com/2012/03/22/tibbr-a-social-network-for-enterprise/",
+    "title": ""}]}

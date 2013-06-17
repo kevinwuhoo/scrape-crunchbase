@@ -1,0 +1,137 @@
+{"name": "Interactive Project",
+ "permalink": "interactive-project",
+ "crunchbase_url": "http://www.crunchbase.com/company/interactive-project",
+ "homepage_url": "http://www.interactiveproject.it",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-games, browser-games, motorsports-games, online-social-games",
+ "alias_list": null,
+ "email_address": "info@interactiveproject.it",
+ "phone_number": "",
+ "description": "Social browser games developer",
+ "created_at": "Tue Nov 01 22:00:40 UTC 2011",
+ "updated_at": "Sun Feb 03 06:19:44 UTC 2013",
+ "overview": "\u003Cp\u003EInteractive Project is a software company whose mission is to create a complete set of social browser-based games to manage motorsport teams (e.g. F1, MotoGP, Nascar\u0026#8230;). Target users are online players as well as motorsport fans who dream to manage any aspect of a racing team and compete with other real players from all over the world. Our players can manage elements like hiring drivers as well as engineers and designers, setting up laboratories as well as designing tracks, selecting components like tyres as well as sponsors, define the media strategy as well as the race strategy and so forth. The managerial skills of our players are then verified by participating emotional races and sharing the game experience with other racing team managers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       85],
+      "assets/images/resized/0016/0758/160758v5-max-150x150.jpg"],
+     [[250,
+       142],
+      "assets/images/resized/0016/0758/160758v5-max-250x250.jpg"],
+     [[450,
+       256],
+      "assets/images/resized/0016/0758/160758v5-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Matteo",
+      "last_name": "Palumbo",
+      "permalink": "matteo-palumbo",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Augusto",
+      "last_name": "Pace",
+      "permalink": "augusto-pace",
+      "image": null}},
+   {"is_past": false,
+    "title": "Web designer",
+    "person":
+     {"first_name": "Simone",
+      "last_name": "Serafini",
+      "permalink": "simone-serafini",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GPRO",
+      "permalink": "gpro",
+      "image": null}},
+   {"competitor":
+     {"name": "BatRacer",
+      "permalink": "batracer",
+      "image": null}},
+   {"competitor":
+     {"name": "PitStopBoss",
+      "permalink": "pitstopboss",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac450k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Enlabs",
+         "permalink": "enlabs",
+         "image":
+          {"available_sizes":
+            [[[150,
+               150],
+              "assets/images/resized/0011/4441/114441v2-max-150x150.png"],
+             [[250,
+               250],
+              "assets/images/resized/0011/4441/114441v2-max-250x250.png"],
+             [[450,
+               450],
+              "assets/images/resized/0011/4441/114441v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]},
+   {"round_code": "seed",
+    "source_url": "http://www.interactiveproject.it/press/Interactive_Project_Press_Release_2012_Nov_14.pdf",
+    "source_description": "Interactive Project Raises \u20ac400k For Internationalization",
+    "raised_amount": 400000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 14,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Rome Offices",
+    "address1": "Via Montebello, 8",
+    "address2": "",
+    "zip_code": "00185",
+    "city": "Rome",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

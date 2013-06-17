@@ -1,0 +1,149 @@
+{"name": "SyCara",
+ "permalink": "sycara",
+ "crunchbase_url": "http://www.crunchbase.com/company/sycara",
+ "homepage_url": "http://www.sycara.com",
+ "blog_url": "http://www.sycara.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "sycara",
+ "category_code": "search",
+ "number_of_employees": 10,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "seo, search, internet, marketing, internet-marketing, search-engine-marketing, sem",
+ "alias_list": null,
+ "email_address": "info@sycara.com",
+ "phone_number": "866-734-9650",
+ "description": "SEO Platform",
+ "created_at": "Mon Dec 20 20:50:29 UTC 2010",
+ "updated_at": "Sun Oct 02 22:35:10 UTC 2011",
+ "overview": "\u003Cp\u003ESyCara is a developer of workflow management, search engine optimization (SEO) tools for digital marketers. SyCara gives SEO professionals one platform by which they can accomplish workflow management, monitoring and reporting. Using SyCara\u0026#8217;s prioritized, actionable plans, SEO professionals can achieve a higher level of efficiency and ROI.\u003C/p\u003E\n\n\u003Cp\u003ESyCara is a portfolio company of Tallwave, a venture management and digital business accelerator. SyCara is based in Phoenix, Arizona. \u003C/p\u003E\n\n\u003Cp\u003ESyCara, currently in beta development, has early stage funding from private investors, including Tallwave, and Stuart Larkins, Managing Partner of Twin Capital and former SVP of Search at Performics / DoubleClick. In addition, Rob Murray, CEO of iProspect, and Jeff Pruitt, CEO of Tallwave, are members of SyCara\u0026#8217;s Board of Directors.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder; VP, Strategy",
+    "person":
+     {"first_name": "Fionn",
+      "last_name": "Downhill",
+      "permalink": "fionn-downhill",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder; CTO",
+    "person":
+     {"first_name": "Dylan",
+      "last_name": "Downhill",
+      "permalink": "dylan-downhill",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Boberg",
+      "permalink": "dan-boberg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Moz",
+      "permalink": "moz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/0952/952v5-max-150x150.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/0952/952v5-max-250x250.png"],
+          [[200,
+            100],
+           "assets/images/resized/0000/0952/952v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BrightEdge",
+      "permalink": "brightedge",
+      "image":
+       {"available_sizes":
+         [[[150,
+            15],
+           "assets/images/resized/0008/0605/80605v1-max-150x150.png"],
+          [[250,
+            25],
+           "assets/images/resized/0008/0605/80605v1-max-250x250.png"],
+          [[301,
+            31],
+           "assets/images/resized/0008/0605/80605v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Conductor",
+      "permalink": "conductor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/3239/23239v4-max-150x150.jpg"],
+          [[250,
+            71],
+           "assets/images/resized/0002/3239/23239v4-max-250x250.jpg"],
+          [[420,
+            120],
+           "assets/images/resized/0002/3239/23239v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Sitening LLC",
+      "permalink": "sitening",
+      "image":
+       {"available_sizes":
+         [[[150,
+            109],
+           "assets/images/resized/0001/1391/11391v5-max-150x150.jpg"],
+          [[250,
+            182],
+           "assets/images/resized/0001/1391/11391v5-max-250x250.jpg"],
+          [[450,
+            327],
+           "assets/images/resized/0001/1391/11391v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2010,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "85018",
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.mediapost.com/publications/?fa=Articles.showArticle\u0026art_aid=140958",
+    "title": "The 'Mystery' Of SEO"}]}

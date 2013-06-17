@@ -1,0 +1,90 @@
+{"name": "pTracker",
+ "permalink": "ptracker",
+ "crunchbase_url": "http://www.crunchbase.com/company/ptracker",
+ "homepage_url": "http://pTrackerllc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "_pTracker",
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, app, iphone, news-search, austin",
+ "alias_list": null,
+ "email_address": "erwin@ptrackerllc.com",
+ "phone_number": "512-560-8732",
+ "description": "Mobile app provider",
+ "created_at": "Wed Jul 08 15:45:05 UTC 2009",
+ "updated_at": "Sat Jul 11 20:12:37 UTC 2009",
+ "overview": "\u003Cp\u003EpTracker is an Austin, TX, based provider of applications for mobile devices. pTracker is among the first to bring next-generation search technology to the iPhone platform. pTracker\u0026#8217;s first products, \u0026#8220;politicoTracker\u0026#8221; and \u0026#8220;politicoTracker Twitter Edition\u0026#8221; are focused on politicians and run on Apple\u0026#8217;s iPhone devices. Future products will enable news discovery in other areas of interest, and on other mobile device platforms.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "politicoTracker",
+    "permalink": "politicotracker",
+    "image":
+     {"available_sizes":
+       [[[150,
+          24],
+         "assets/images/resized/0005/2626/52626v2-max-150x150.png"],
+        [[250,
+          41],
+         "assets/images/resized/0005/2626/52626v2-max-250x250.png"],
+        [[361,
+          60],
+         "assets/images/resized/0005/2626/52626v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, President",
+    "person":
+     {"first_name": "Erwin",
+      "last_name": "Mazariegos",
+      "permalink": "erwin-mazariegos",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Base",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Austin",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 30.268735,
+    "longitude": -97.745209}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[83,
+        150],
+       "assets/images/resized/0005/2256/52256v2-max-150x150.jpg"],
+      [[139,
+        250],
+       "assets/images/resized/0005/2256/52256v2-max-250x250.jpg"],
+      [[139,
+        250],
+       "assets/images/resized/0005/2256/52256v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.prweb.com/releases/news_search/iPhone_app/prweb2598654.htm",
+    "title": "Product Launch Press Release"}]}

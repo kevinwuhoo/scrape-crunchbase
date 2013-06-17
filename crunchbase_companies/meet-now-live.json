@@ -1,0 +1,138 @@
+{"name": "Meet Now Live",
+ "permalink": "meet-now-live",
+ "crunchbase_url": "http://www.crunchbase.com/company/meet-now-live",
+ "homepage_url": "http://www.meetnowlive.com",
+ "blog_url": "http://www.meetnowlive.com/blog/",
+ "blog_feed_url": "http://www.meetnowlive.com/blog/feed/",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, social-network, nightlife, location-based, marketing",
+ "alias_list": null,
+ "email_address": "info@meetnowlive.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Thu Sep 11 15:52:05 UTC 2008",
+ "updated_at": "Mon Apr 27 10:54:24 UTC 2009",
+ "overview": "\u003Cp\u003EMeet Now Live is a location based, mobile social network focused on nightlife venues and events in New York City. Users \u0026#8220;broadcast\u0026#8221; their location from bars, clubs and lounges via their mobile phone to provide real-time information to the network.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       21],
+      "assets/images/resized/0002/4977/24977v2-max-150x150.png"],
+     [[250,
+       35],
+      "assets/images/resized/0002/4977/24977v2-max-250x250.png"],
+     [[450,
+       63],
+      "assets/images/resized/0002/4977/24977v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Joshua",
+      "last_name": "Nolan",
+      "permalink": "joshua-nolan",
+      "image":
+       {"available_sizes":
+         [[[70,
+            70],
+           "assets/images/resized/0002/5024/25024v2-max-150x150.jpg"],
+          [[70,
+            70],
+           "assets/images/resized/0002/5024/25024v2-max-250x250.jpg"],
+          [[70,
+            70],
+           "assets/images/resized/0002/5024/25024v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "J.",
+      "last_name": "Michael Davis",
+      "permalink": "j-michael-davis-2",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Davis",
+      "permalink": "michael-davis",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Buzzd",
+      "permalink": "buzzd",
+      "image":
+       {"available_sizes":
+         [[[120,
+            35],
+           "assets/images/resized/0002/8868/28868v7-max-150x150.png"],
+          [[120,
+            35],
+           "assets/images/resized/0002/8868/28868v7-max-250x250.png"],
+          [[120,
+            35],
+           "assets/images/resized/0002/8868/28868v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Going",
+      "permalink": "going",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/3745/3745v1-max-150x150.jpg"],
+          [[185,
+            58],
+           "assets/images/resized/0000/3745/3745v1-max-250x250.jpg"],
+          [[185,
+            58],
+           "assets/images/resized/0000/3745/3745v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "165 West End Ave",
+    "address2": "Suite 3J",
+    "zip_code": "10023",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.777072,
+    "longitude": -73.987036}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.psfk.com/2008/07/meet-now-live-party-radar-free-beer.html",
+    "title": "PSFK"},
+   {"external_url": "http://www.fiercemobilecontent.com/special-reports/five-mobile-social-networking-services-you-should-get-know",
+    "title": "Fierce Mobile"},
+   {"external_url": "http://mashable.com/2008/06/06/meetnowlive/",
+    "title": "Mashable"},
+   {"external_url": "http://www.killerstartups.com/Mobile/meetnowlive-com-check-out-nyc-s-night-vibe-via-phone",
+    "title": "Killer Start Ups"}]}

@@ -1,0 +1,98 @@
+{"name": "Trailhead",
+ "permalink": "trailhead",
+ "crunchbase_url": "http://www.crunchbase.com/company/trailhead",
+ "homepage_url": "http://www.trailheadapp.com",
+ "blog_url": "http://trailheadapp.tumblr.com/",
+ "blog_feed_url": "http://trailheadapp.tumblr.com/rss",
+ "twitter_username": "trailheadapp",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "analytics, heatmap, visualization",
+ "alias_list": null,
+ "email_address": "steve@trailheadapp.com",
+ "phone_number": "469-442-8669",
+ "description": "Heapmap visualization for cheap",
+ "created_at": "Thu Apr 15 04:58:02 UTC 2010",
+ "updated_at": "Fri Apr 16 21:19:26 UTC 2010",
+ "overview": "\u003Cp\u003ETrailhead is a product that we built to help designers, usability testers, and marketers understand how people use their site by gathering mouse movement and click data. It\u00e2\u20ac\u2122s lightweight, simple, and deliberately barebones.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0008/3827/83827v2-max-150x150.png"],
+     [[250,
+       48],
+      "assets/images/resized/0008/3827/83827v2-max-250x250.png"],
+     [[348,
+       67],
+      "assets/images/resized/0008/3827/83827v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Brewer",
+      "permalink": "stephen-brewer",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Dallas",
+    "address1": "",
+    "address2": "",
+    "zip_code": "75225",
+    "city": "Dallas",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        146],
+       "assets/images/resized/0008/3826/83826v2-max-150x150.png"],
+      [[250,
+        243],
+       "assets/images/resized/0008/3826/83826v2-max-250x250.png"],
+      [[450,
+        438],
+       "assets/images/resized/0008/3826/83826v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        100],
+       "assets/images/resized/0008/3995/83995v2-max-150x150.png"],
+      [[250,
+        166],
+       "assets/images/resized/0008/3995/83995v2-max-250x250.png"],
+      [[450,
+        300],
+       "assets/images/resized/0008/3995/83995v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

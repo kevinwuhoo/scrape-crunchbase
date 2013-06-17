@@ -1,0 +1,72 @@
+{"name": "VeryCloud",
+ "permalink": "verycloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/verycloud",
+ "homepage_url": "http://verycloud.com",
+ "blog_url": "http://verycloud.wordpress.com/",
+ "blog_feed_url": "",
+ "twitter_username": "uggnohnuy",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hpc, cloud-computing, data-storage, data-sharing, data-analytics",
+ "alias_list": null,
+ "email_address": "info@verycloud.com",
+ "phone_number": "6506465066",
+ "description": "Software and Service",
+ "created_at": "Sat Sep 18 00:13:39 UTC 2010",
+ "updated_at": "Sat Oct 02 05:41:45 UTC 2010",
+ "overview": "\u003Cp\u003EVeryCloud provides software products and services to help enterprises store, distribute, and process their large volumetric and often distributed datasets. \u003C/p\u003E\n\n\u003Cp\u003EVeryCloud starts from two successful open source software (UDT and Sector/Sphere) and continues to support their development. UDT (http://udt.sf.net) is a high performance UDP-based data transfer protocol that can transfer data faster than TCP by several orders of magnitude. UDT is also wide used for firewall traversing. Sector/Sphere (http://sector.sf.net) is a distributed file system and parallel data processing framework. Sector can be set up on distributed commodity servers even if they are across multiple data centers (high speed network connects are required) and it support high performance scalable data storage and distribution. Meanwhile, Sphere supports massive in-storage parallel data processing with simplified programming interface (including MapReduce).\u003C/p\u003E\n\n\u003Cp\u003EThe company is current providing service and development contracts for UDT and Sector/Sphere and are developing their own proprietary products as well.\u003C/p\u003E\n\n\u003Cp\u003EUDT and Sector/Sphere were initially developed by the company founder, Dr. Yunhong Gu.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Yunhong",
+      "last_name": "Gu",
+      "permalink": "yunhong-gu-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/1184/251184v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/1184/251184v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/1184/251184v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://udt.sf.net",
+    "title": "UDT"},
+   {"external_url": "http://sector.sf.net",
+    "title": "Sector/Sphere"}]}

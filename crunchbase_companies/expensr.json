@@ -1,0 +1,224 @@
+{"name": "expensr",
+ "permalink": "expensr",
+ "crunchbase_url": "http://www.crunchbase.com/company/expensr",
+ "homepage_url": "https://www.expensr.com/",
+ "blog_url": "https://www.expensr.com/",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "contact@expensr.com",
+ "phone_number": "",
+ "description": "Online Financing Website",
+ "created_at": "Thu Dec 06 07:33:30 UTC 2007",
+ "updated_at": "Sun Apr 26 05:01:50 UTC 2009",
+ "overview": "\u003Cp\u003Eexpensr is a free, online, personal finance application. Currently in beta, expensr has a very clean and simple design with some great features which many users will find appealing. \u003C/p\u003E\n\n\u003Cp\u003EOne nice security feature allows users to upload bank statements manually. Unlike some other financial management applications that require bank usernames / passwords, users can upload .ofx files \u0026#8211; these files only contain the bank account number. Importantly, expensr does not store the .ofx file after parsing it, only the transactions in it.\u003C/p\u003E\n\n\u003Cp\u003EAnother interesting part of expensr is the social networking aspect. Since expensr is a social network, users can compare their spending against others. This means users are able to see aggregated data of a particular tag and anonymously compare spending against others. E.g. you can compare rent with other young professionals in San Francisco. Or how much people are spending on groceries in Boston? \u003C/p\u003E\n\n\u003Cp\u003ECompetitors: \u003Ca href=\"http://www.crunchbase.com/company/Mint\" title=\"Mint\"\u003EMint\u003C/a\u003E, \u003Ca href=\"http://www.yodlee.com/\" title=\"Yodlee\" rel=\"nofollow\"\u003EYodlee\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/buxfer\" title=\"Buxfer\"\u003EBuxfer\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/Wesabe\" title=\"Wesabe\"\u003EWesabe\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       22],
+      "assets/images/resized/0000/2518/2518v1-max-150x150.png"],
+     [[200,
+       30],
+      "assets/images/resized/0000/2518/2518v1-max-250x250.png"],
+     [[200,
+       30],
+      "assets/images/resized/0000/2518/2518v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "expensr",
+    "permalink": "expensr",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Shawn",
+      "last_name": "Gupta",
+      "permalink": "shawn-gupta",
+      "image": null}},
+   {"is_past": null,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Reman",
+      "last_name": "Child",
+      "permalink": "reman-child",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0002/7047/27047v2-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0002/7047/27047v2-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0002/7047/27047v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EUCB\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Mint.com",
+      "permalink": "mint",
+      "image":
+       {"available_sizes":
+         [[[150,
+            61],
+           "assets/images/resized/0000/0298/298v6-max-150x150.png"],
+          [[194,
+            80],
+           "assets/images/resized/0000/0298/298v6-max-250x250.png"],
+          [[194,
+            80],
+           "assets/images/resized/0000/0298/298v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wesabe",
+      "permalink": "wesabe",
+      "image":
+       {"available_sizes":
+         [[[129,
+            133],
+           "assets/images/resized/0000/0061/61v1-max-150x150.jpg"],
+          [[129,
+            133],
+           "assets/images/resized/0000/0061/61v1-max-250x250.jpg"],
+          [[129,
+            133],
+           "assets/images/resized/0000/0061/61v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "sMoneyBox",
+      "permalink": "smoneybox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/3016/13016v1-max-150x150.png"],
+          [[250,
+            74],
+           "assets/images/resized/0001/3016/13016v1-max-250x250.png"],
+          [[286,
+            85],
+           "assets/images/resized/0001/3016/13016v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Thrive",
+      "permalink": "thrive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            59],
+           "assets/images/resized/0002/1697/21697v2-max-150x150.png"],
+          [[250,
+            98],
+           "assets/images/resized/0002/1697/21697v2-max-250x250.png"],
+          [[310,
+            122],
+           "assets/images/resized/0002/1697/21697v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Jwaala",
+      "permalink": "jwaala",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/7921/17921v4-max-150x150.jpg"],
+          [[250,
+            76],
+           "assets/images/resized/0001/7921/17921v4-max-250x250.jpg"],
+          [[359,
+            110],
+           "assets/images/resized/0001/7921/17921v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PearBudget",
+      "permalink": "pearbudget",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/8521/18521v3-max-150x150.png"],
+          [[220,
+            65],
+           "assets/images/resized/0001/8521/18521v3-max-250x250.png"],
+          [[220,
+            65],
+           "assets/images/resized/0001/8521/18521v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "GreenSherpa",
+      "permalink": "green-sherpa",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0002/1381/21381v4-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0002/1381/21381v4-max-250x250.png"],
+          [[293,
+            72],
+           "assets/images/resized/0002/1381/21381v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://blog.oregonlive.com/siliconforest/2008/04/corvallis_startup_announces_ac.html",
+   "source_description": "Oregon live blog",
+   "acquired_year": 2008,
+   "acquired_month": 4,
+   "acquired_day": 29,
+   "acquiring_company":
+    {"name": "Strands Labs",
+     "permalink": "strands",
+     "image":
+      {"available_sizes":
+        [[[150,
+           22],
+          "assets/images/resized/0000/4489/4489v2-max-150x150.png"],
+         [[217,
+           33],
+          "assets/images/resized/0000/4489/4489v2-max-250x250.png"],
+         [[217,
+           33],
+          "assets/images/resized/0000/4489/4489v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": null,
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.775196,
+    "longitude": -122.419204}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

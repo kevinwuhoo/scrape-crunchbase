@@ -1,0 +1,90 @@
+{"name": "WebPurify",
+ "permalink": "webpurify",
+ "crunchbase_url": "http://www.crunchbase.com/company/webpurify",
+ "homepage_url": "http://www.webpurify.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "webpurify",
+ "category_code": "other",
+ "number_of_employees": 5,
+ "founded_year": 2007,
+ "founded_month": 5,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-services, api, prfanity, filtering, security, blogs, plug-ins",
+ "alias_list": null,
+ "email_address": "jon@webpurify.com",
+ "phone_number": "(877) 751-4046",
+ "description": "Profanity Filter Web Service",
+ "created_at": "Sun May 31 03:27:29 UTC 2009",
+ "updated_at": "Sun Dec 30 04:40:32 UTC 2012",
+ "overview": "\u003Cp\u003EWebPurify\u2122 provides profanity filtering and image moderation services that can be easily integrated in to your website or application. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       96],
+      "assets/images/resized/0004/6074/46074v2-max-150x150.png"],
+     [[181,
+       117],
+      "assets/images/resized/0004/6074/46074v2-max-250x250.png"],
+     [[181,
+       117],
+      "assets/images/resized/0004/6074/46074v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "WebPurify Image Moderation Service",
+    "permalink": "wordpress-profanity-filter-plugin",
+    "image": null},
+   {"name": "WebPurify Profanity Filter Web Service",
+    "permalink": "webpurify-profanity-filter-web-service",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/CTO",
+    "person":
+     {"first_name": "Jonathan",
+      "last_name": "Freger",
+      "permalink": "jonathan-freger",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Sales and Client Services",
+    "person":
+     {"first_name": "Joshua",
+      "last_name": "Buxbaum",
+      "permalink": "joshua-buxbaum",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2029 Century Park East",
+    "address2": "14th Floor",
+    "zip_code": "90067",
+    "city": "Los Angeles",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 34.052187,
+    "longitude": -118.243425}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techsanctuary.com/drupal-webpurify-module",
+    "title": "ChapterThree Relseases WebPurify Drupal Module"}]}

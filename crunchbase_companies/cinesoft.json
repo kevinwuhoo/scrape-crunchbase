@@ -1,0 +1,97 @@
+{"name": "CineSoft",
+ "permalink": "cinesoft",
+ "crunchbase_url": "http://www.crunchbase.com/company/cinesoft",
+ "homepage_url": "http://www.cinesoft.ru/",
+ "blog_url": "http://www.cinesoft.ru/blog",
+ "blog_feed_url": "http://feeds2.feedburner.com/Cinesoft",
+ "twitter_username": "cerebro_en",
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "collaboration, software, internet, saas",
+ "alias_list": null,
+ "email_address": "info@cinesoft.ru",
+ "phone_number": "+7 499 272 4210",
+ "description": "software development ",
+ "created_at": "Thu Apr 09 18:33:24 UTC 2009",
+ "updated_at": "Sun Apr 08 11:33:52 UTC 2012",
+ "overview": "\u003Cp\u003ECineSoft is company which specializes on software development. At the moment the company is developing two products: Cerebro is a project management solution, it has been designed to assist in making any audio-visual projets. Duma is a sophisticated render farm management system. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       69],
+      "assets/images/resized/0004/0954/40954v3-max-150x150.png"],
+     [[250,
+       116],
+      "assets/images/resized/0004/0954/40954v3-max-250x250.png"],
+     [[266,
+       124],
+      "assets/images/resized/0004/0954/40954v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Cerebro",
+    "permalink": "cerebro",
+    "image":
+     {"available_sizes":
+       [[[150,
+          100],
+         "assets/images/resized/0004/2762/42762v2-max-150x150.jpg"],
+        [[250,
+          167],
+         "assets/images/resized/0004/2762/42762v2-max-250x250.jpg"],
+        [[332,
+          222],
+         "assets/images/resized/0004/2762/42762v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Konstantin",
+      "last_name": "Kharitonov",
+      "permalink": "konstantin-kharitonov",
+      "image": null}},
+   {"is_past": false,
+    "title": "SME",
+    "person":
+     {"first_name": "Edward",
+      "last_name": "Kim",
+      "permalink": "edward-kim",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Perevedenovsky pereulok 18",
+    "address2": "",
+    "zip_code": "105082",
+    "city": "Moscow",
+    "state_code": null,
+    "country_code": "RUS",
+    "latitude": 55.7794043,
+    "longitude": 37.6899674}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

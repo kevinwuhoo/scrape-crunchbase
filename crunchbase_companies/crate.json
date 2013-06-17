@@ -1,0 +1,142 @@
+{"name": "Crate",
+ "permalink": "crate",
+ "crunchbase_url": "http://www.crunchbase.com/company/crate",
+ "homepage_url": "http://letscrate.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "letscrate",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "file-sharing, sharing, storage",
+ "alias_list": null,
+ "email_address": "hi@letscrate.com",
+ "phone_number": "2133080799",
+ "description": "Ridiculously easy file-sharing.",
+ "created_at": "Thu Nov 04 02:58:37 UTC 2010",
+ "updated_at": "Sun Apr 15 00:36:33 UTC 2012",
+ "overview": "\u003Cp\u003ECrate makes sharing files with your family and friends ridiculously easy.\u003C/p\u003E\n\n\u003Cp\u003ECrate has tens of thousands of users.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       41],
+      "assets/images/resized/0010/8611/108611v2-max-150x150.png"],
+     [[250,
+       69],
+      "assets/images/resized/0010/8611/108611v2-max-250x250.png"],
+     [[306,
+       85],
+      "assets/images/resized/0010/8611/108611v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Loewenherz",
+      "permalink": "dan-loewenherz",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Sahil",
+      "last_name": "Lavingia",
+      "permalink": "sahil-lavingia",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0010/5139/105139v4-max-150x150.png"],
+          [[166,
+            250],
+           "assets/images/resized/0010/5139/105139v4-max-250x250.png"],
+          [[300,
+            450],
+           "assets/images/resized/0010/5139/105139v4-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "drop.io",
+      "permalink": "drop-io",
+      "image":
+       {"available_sizes":
+         [[[126,
+            45],
+           "assets/images/resized/0000/2401/2401v1-max-150x150.png"],
+          [[126,
+            45],
+           "assets/images/resized/0000/2401/2401v1-max-250x250.png"],
+          [[126,
+            45],
+           "assets/images/resized/0000/2401/2401v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Box",
+      "permalink": "box",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/3484/3484v3-max-150x150.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-250x250.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        117],
+       "assets/images/resized/0010/9072/109072v2-max-150x150.png"],
+      [[250,
+        195],
+       "assets/images/resized/0010/9072/109072v2-max-250x250.png"],
+      [[450,
+        351],
+       "assets/images/resized/0010/9072/109072v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2011/02/25/lets-crate-share-files-easily-with-friends-and-colleagues/",
+    "title": ""}]}

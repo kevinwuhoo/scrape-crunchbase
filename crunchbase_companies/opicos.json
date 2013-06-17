@@ -1,0 +1,223 @@
+{"name": "Opicos",
+ "permalink": "opicos",
+ "crunchbase_url": "http://www.crunchbase.com/company/opicos",
+ "homepage_url": "http://opicos.com",
+ "blog_url": "http://blog.opicos.com",
+ "blog_feed_url": "http://blog.opicos.com/feed/",
+ "twitter_username": "opicoscom",
+ "category_code": "web",
+ "number_of_employees": 30,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, polling, polls, community",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Social polling community",
+ "created_at": "Sat Sep 01 04:33:31 UTC 2012",
+ "updated_at": "Thu Sep 27 16:48:19 UTC 2012",
+ "overview": "\u003Cp\u003EOpicos is the new online social polling community, where users can give their opinions, ask and answer about all the topics that they find interesting. \u003C/p\u003E\n\n\u003Cp\u003EOn Opicos, users will find constantly updated content on all the current events, the possibility to hiper-segment the answers to their questions by demographic variables and a community available 24-7 to answer any question.\u003C/p\u003E\n\n\u003Cp\u003EWith a complete integration with social networks, and the development of widgets and mobile apps, Opicos is looking to become the go-to site to learn about the public sentiment on any subject.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0020/9230/209230v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0020/9230/209230v2-max-250x250.png"],
+     [[256,
+       86],
+      "assets/images/resized/0020/9230/209230v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ismael",
+      "last_name": "Briasco",
+      "permalink": "ismael-briasco",
+      "image":
+       {"available_sizes":
+         [[[150,
+            97],
+           "assets/images/resized/0021/0122/210122v2-max-150x150.jpg"],
+          [[250,
+            162],
+           "assets/images/resized/0021/0122/210122v2-max-250x250.jpg"],
+          [[450,
+            292],
+           "assets/images/resized/0021/0122/210122v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Max",
+      "last_name": "Kraszewski",
+      "permalink": "max-kraszewski",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0021/1407/211407v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0021/1407/211407v2-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0021/1407/211407v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Mauro",
+      "last_name": "Ayala",
+      "permalink": "mauro-ayala",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0010/0085/100085v2-max-150x150.png"],
+          [[100,
+            100],
+           "assets/images/resized/0010/0085/100085v2-max-250x250.png"],
+          [[100,
+            100],
+           "assets/images/resized/0010/0085/100085v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SodaHead",
+      "permalink": "sodahead",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0014/1111/141111v7-max-150x150.png"],
+          [[231,
+            93],
+           "assets/images/resized/0014/1111/141111v7-max-250x250.png"],
+          [[231,
+            93],
+           "assets/images/resized/0014/1111/141111v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PollDaddy",
+      "permalink": "polldaddy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0000/2914/2914v1-max-150x150.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-250x250.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PollBob",
+      "permalink": "pollbob",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0017/0448/170448v1-max-150x150.png"],
+          [[175,
+            71],
+           "assets/images/resized/0017/0448/170448v1-max-250x250.png"],
+          [[175,
+            71],
+           "assets/images/resized/0017/0448/170448v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PollDaddy",
+      "permalink": "polldaddy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0000/2914/2914v1-max-150x150.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-250x250.png"],
+          [[200,
+            71],
+           "assets/images/resized/0000/2914/2914v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Poll Everywhere",
+      "permalink": "poll-everywhere",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/3802/23802v3-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/3802/23802v3-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0002/3802/23802v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.uberbin.net/archivos/internet/psicofxp-inversion-de-us-1-millon-y-cambia-su-modelo.php",
+    "source_description": "PSICOFXP: INVERSI\u00d3N DE U$S 1 MILL\u00d3N Y CAMBIA SU MODELO",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Cedel International Investments",
+         "permalink": "cedel-international-investments",
+         "image":
+          {"available_sizes":
+            [[[143,
+               85],
+              "assets/images/resized/0027/2557/272557v1-max-150x150.png"],
+             [[143,
+               85],
+              "assets/images/resized/0027/2557/272557v1-max-250x250.png"],
+             [[143,
+               85],
+              "assets/images/resized/0027/2557/272557v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Buenos Aires HQ",
+    "address1": "Juana Azurduy 2440 1er piso",
+    "address2": "",
+    "zip_code": "1429",
+    "city": "C.A. de Buenos Aires",
+    "state_code": null,
+    "country_code": "ARG",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

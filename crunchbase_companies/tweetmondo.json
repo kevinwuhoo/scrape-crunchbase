@@ -1,0 +1,84 @@
+{"name": "Tweetmondo",
+ "permalink": "tweetmondo",
+ "crunchbase_url": "http://www.crunchbase.com/company/tweetmondo",
+ "homepage_url": "http://www.tweetmondo.com",
+ "blog_url": "http://www.tweetmondo.com/blog",
+ "blog_feed_url": "http://www.tweetmondo.com/blog/?feed=rss2",
+ "twitter_username": "tweetmondo",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "twitter-search, twitter-users, twitter",
+ "alias_list": null,
+ "email_address": "tweetmondo@tweetmondo.com",
+ "phone_number": "",
+ "description": "Twitter Local User Search",
+ "created_at": "Wed Jul 01 23:33:37 UTC 2009",
+ "updated_at": "Fri Aug 07 01:04:36 UTC 2009",
+ "overview": "\u003Cp\u003ETweetmondo is a realtime local Twitter user search engine. Tweetmondo users login using their existing Twitter account, and inform their current location. Tweetmondo uses its algorithms to search its database for users geographically close to the informed location.\u003C/p\u003E\n\n\u003Cp\u003EResults come from different sources, including Tweetmondo\u0026#8217;s crawler, that listens to Twitter public timeline and indexes users with location information, as well as locations informed by Tweetmondo users while visiting Tweetmondo\u0026#8217;s website.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0005/1594/51594v2-max-150x150.png"],
+     [[250,
+       64],
+      "assets/images/resized/0005/1594/51594v2-max-250x250.png"],
+     [[376,
+       97],
+      "assets/images/resized/0005/1594/51594v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Tweetmondo.com",
+    "permalink": "tweetmondo-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Michaelis",
+      "permalink": "alex-michaelis",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        90],
+       "assets/images/resized/0005/1593/51593v2-max-150x150.jpg"],
+      [[250,
+        151],
+       "assets/images/resized/0005/1593/51593v2-max-250x250.jpg"],
+      [[450,
+        272],
+       "assets/images/resized/0005/1593/51593v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.twi5.com/tweetmondo-find-twitterers-near-you/4720/",
+    "title": "Twi5"},
+   {"external_url": "http://www.bloggingtips.com/2009/06/27/find-tweeters-near-you-with-tweetmondo/#comment-327210",
+    "title": "Blogging Tips"}]}

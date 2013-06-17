@@ -1,0 +1,93 @@
+{"name": "Corengi",
+ "permalink": "corengi",
+ "crunchbase_url": "http://www.crunchbase.com/company/corengi",
+ "homepage_url": "http://www.corengi.com",
+ "blog_url": "http://blog.corengi.com/",
+ "blog_feed_url": "http://blog.corengi.com/",
+ "twitter_username": "corengi",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "diabetes, clinical-trials",
+ "alias_list": null,
+ "email_address": "ryan@corengi.com",
+ "phone_number": "(713) 364-4639",
+ "description": "Clinical Trial Recruitment",
+ "created_at": "Tue Feb 05 19:54:26 UTC 2013",
+ "updated_at": "Fri Feb 08 04:10:41 UTC 2013",
+ "overview": "\u003Cp\u003ECorengi is building tools to help patients find and connect with clinical trials that are right for them.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-Founder, Advisor",
+    "person":
+     {"first_name": "Elliot",
+      "last_name": "Cohen",
+      "permalink": "elliot-cohen",
+      "image": null}},
+   {"is_past": true,
+    "title": "VP of Engineering",
+    "person":
+     {"first_name": "Jesse",
+      "last_name": "Clark",
+      "permalink": "jesse-clark",
+      "image": null}},
+   {"is_past": true,
+    "title": "President",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Luce",
+      "permalink": "ryan-luce",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Centerwatch",
+      "permalink": "centerwatch",
+      "image": null}},
+   {"competitor":
+     {"name": "EmergingMed",
+      "permalink": "emergingmed",
+      "image": null}},
+   {"competitor":
+     {"name": "ClinicalConnection",
+      "permalink": "clinicalconnection",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$278k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 277500.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 12,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://betakit.com/2012/12/03/corengi-relaunches-gets-fresh-funding-to-connect-patients-with-clinical-trials?fb_action_ids=4914860079939",
+    "title": "Betakit Article about Corengi Re-Launch"}]}

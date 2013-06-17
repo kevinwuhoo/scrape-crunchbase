@@ -1,0 +1,154 @@
+{"name": "Qbox",
+ "permalink": "qbox",
+ "crunchbase_url": "http://www.crunchbase.com/company/qbox",
+ "homepage_url": "http://www.qbox.com",
+ "blog_url": "http://blog.qbox.com/",
+ "blog_feed_url": "http://blog.qbox.com/feed/",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music, music-videos, network-music, aggregate",
+ "alias_list": null,
+ "email_address": "contact@qbox.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sun Feb 17 19:23:59 UTC 2008",
+ "updated_at": "Wed Apr 01 05:15:27 UTC 2009",
+ "overview": "\u003Cp\u003EQBox is a social network music service.  Qbox indexes the entire music inventories of top social media sites such as MySpace, YouTube, and Bebo, making it easy for users to search, organize, and listen to the entire catalog of online music available from these social networking sites.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0001/2605/12605v1-max-150x150.png"],
+     [[180,
+       45],
+      "assets/images/resized/0001/2605/12605v1-max-250x250.png"],
+     [[180,
+       45],
+      "assets/images/resized/0001/2605/12605v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Qbox",
+    "permalink": "qbox",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Keum",
+      "permalink": "peter-keum",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Ian",
+      "last_name": "Kwon",
+      "permalink": "ian-kwon",
+      "image":
+       {"available_sizes":
+         [[[111,
+            150],
+           "assets/images/resized/0003/6153/36153v2-max-150x150.jpg"],
+          [[150,
+            201],
+           "assets/images/resized/0003/6153/36153v2-max-250x250.jpg"],
+          [[150,
+            201],
+           "assets/images/resized/0003/6153/36153v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CSO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Baek",
+      "permalink": "peter-baek-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Last.fm",
+      "permalink": "last-fm",
+      "image":
+       {"available_sizes":
+         [[[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-150x150.png"],
+          [[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-250x250.png"],
+          [[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pandora Media",
+      "permalink": "pandora",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0000/3394/3394v5-max-150x150.png"],
+          [[152,
+            37],
+           "assets/images/resized/0000/3394/3394v5-max-250x250.png"],
+          [[152,
+            37],
+           "assets/images/resized/0000/3394/3394v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Strands Labs",
+      "permalink": "strands",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0000/4489/4489v2-max-150x150.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-250x250.png"],
+          [[217,
+            33],
+           "assets/images/resized/0000/4489/4489v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "iJigg.com",
+      "permalink": "ijigg",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2751 E.Chapman Ave #204",
+    "address2": "",
+    "zip_code": "92831",
+    "city": "Fullerton",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 33.874609,
+    "longitude": -117.881607}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"425\" height=\"355\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/lPbaPibxtAQ\u0026rel=1\u0026border=0\"\u003E\u003C/param\u003E\u003Cparam name=\"wmode\" value=\"transparent\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/lPbaPibxtAQ\u0026rel=1\u0026border=0\" type=\"application/x-shockwave-flash\" wmode=\"transparent\"width=\"425\" height=\"355\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EVideo Tour of Qbox\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.qbox.com/forum",
+    "title": "Qbox Users' Community"}]}

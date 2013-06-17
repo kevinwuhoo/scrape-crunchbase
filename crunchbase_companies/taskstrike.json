@@ -1,0 +1,130 @@
+{"name": "Taskstrike",
+ "permalink": "taskstrike",
+ "crunchbase_url": "http://www.crunchbase.com/company/taskstrike",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "taskstrike",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 28,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "project-management, dropbox, cloud",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Project management on your cloud",
+ "created_at": "Fri Jul 13 21:25:49 UTC 2012",
+ "updated_at": "Mon Jul 16 06:34:09 UTC 2012",
+ "overview": "\u003Cp\u003ETaskstrike makes project management software that uses a user\u0026#8217;s own cloud.\u003C/p\u003E\n\n\u003Cp\u003EAll users have personal storage through dropbox, google drive, or iCloud. Taskstrike seeks to use that storage for application data. \u003C/p\u003E\n\n\u003Cp\u003ETheir first application is a project management software that runs completely off of Dropbox.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       128],
+      "assets/images/resized/0020/0869/200869v2-max-150x150.png"],
+     [[128,
+       128],
+      "assets/images/resized/0020/0869/200869v2-max-250x250.png"],
+     [[128,
+       128],
+      "assets/images/resized/0020/0869/200869v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ray",
+      "last_name": "Wang",
+      "permalink": "ray-wang",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Asana",
+      "permalink": "asana",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0006/7462/67462v8-max-150x150.png"],
+          [[250,
+            63],
+           "assets/images/resized/0006/7462/67462v8-max-250x250.png"],
+          [[250,
+            63],
+           "assets/images/resized/0006/7462/67462v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Producteev",
+      "permalink": "producteev",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0002/4705/24705v7-max-150x150.png"],
+          [[250,
+            39],
+           "assets/images/resized/0002/4705/24705v7-max-250x250.png"],
+          [[450,
+            71],
+           "assets/images/resized/0002/4705/24705v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0020/0866/200866v2-max-150x150.png"],
+      [[250,
+        163],
+       "assets/images/resized/0020/0866/200866v2-max-250x250.png"],
+      [[450,
+        293],
+       "assets/images/resized/0020/0866/200866v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0020/0867/200867v2-max-150x150.png"],
+      [[250,
+        163],
+       "assets/images/resized/0020/0867/200867v2-max-250x250.png"],
+      [[450,
+        293],
+       "assets/images/resized/0020/0867/200867v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0020/0868/200868v2-max-150x150.png"],
+      [[250,
+        163],
+       "assets/images/resized/0020/0868/200868v2-max-250x250.png"],
+      [[450,
+        293],
+       "assets/images/resized/0020/0868/200868v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

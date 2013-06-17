@@ -1,0 +1,135 @@
+{"name": "SportSpyder",
+ "permalink": "sportspyder",
+ "crunchbase_url": "http://www.crunchbase.com/company/sportspyder",
+ "homepage_url": "http://sportspyder.com",
+ "blog_url": "http://blog.sportspyder.com",
+ "blog_feed_url": "",
+ "twitter_username": "sportspyder",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2004,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sports, news, search, fantasy",
+ "alias_list": null,
+ "email_address": "dallas@sportspyder.com",
+ "phone_number": "518-229-3255",
+ "description": "Sports News \u0026 Search",
+ "created_at": "Tue Feb 03 05:32:38 UTC 2009",
+ "updated_at": "Mon Oct 05 16:36:13 UTC 2009",
+ "overview": "\u003Cp\u003ESportSpyder crawls and categorizes sports tweets from thousands of sports Twitter personalities such as Players, Bloggers, Beat writers, media personalities and more.  This allows SportSpyder give you a real time view of whats happening for your favorite teams and sports.\u003C/p\u003E\n\n\u003Cp\u003ESportSpyder also aggregates daily sports news from thousands of mainstream and independent sport sources and lets the user customize and search their news.  \u003C/p\u003E\n\n\u003Cp\u003ESportSpyder lets you filter articles by sport, team, player, or a custom roster of players for fantasy team news.   You can also remix all your favorite teams together in a single feed.\u003C/p\u003E\n\n\u003Cp\u003ESportSpyder is a powerful sports search engine.  Over 30,000 new articles are indexed each week so that you can search through recent news about players, rumors, and events.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0003/5525/35525v2-max-150x150.png"],
+     [[250,
+       88],
+      "assets/images/resized/0003/5525/35525v2-max-250x250.png"],
+     [[262,
+       93],
+      "assets/images/resized/0003/5525/35525v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "SportSpyder.com",
+    "permalink": "sportspyder-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Dallas",
+      "last_name": "DeVries",
+      "permalink": "dallas-devries",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Derek",
+      "last_name": "DeVries",
+      "permalink": "derek-devries",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Topix",
+      "permalink": "topix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/0706/706v1-max-150x150.png"],
+          [[200,
+            101],
+           "assets/images/resized/0000/0706/706v1-max-250x250.png"],
+          [[200,
+            101],
+           "assets/images/resized/0000/0706/706v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "BallHype",
+      "permalink": "ballhype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/2121/22121v1-max-150x150.png"],
+          [[250,
+            84],
+           "assets/images/resized/0002/2121/22121v1-max-250x250.png"],
+          [[326,
+            110],
+           "assets/images/resized/0002/2121/22121v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yardbarker Network",
+      "permalink": "yardbarker",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0001/6760/16760v6-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0001/6760/16760v6-max-250x250.png"],
+          [[450,
+            68],
+           "assets/images/resized/0001/6760/16760v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        131],
+       "assets/images/resized/0003/5524/35524v2-max-150x150.png"],
+      [[250,
+        219],
+       "assets/images/resized/0003/5524/35524v2-max-250x250.png"],
+      [[450,
+        394],
+       "assets/images/resized/0003/5524/35524v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.readwriteweb.com/archives/news_aggregation_methods.php",
+    "title": "(7/10/07) 5 News Aggregation Methods Compared"},
+   {"external_url": "http://sportstechnow.com/2008/01/sportspyder-aggregation-of-2000-sports-websites/",
+    "title": " (1/08) SportSpyder: Aggregation of 2000 Sports Websites"}]}

@@ -1,0 +1,107 @@
+{"name": "gigastraps",
+ "permalink": "gigastraps",
+ "crunchbase_url": "http://www.crunchbase.com/company/gigastraps",
+ "homepage_url": "http://www.gigastraps.com",
+ "blog_url": "http://www.gigastraps.com/blogs/news",
+ "blog_feed_url": "http://www.gigastraps.com/blogs/news.atom",
+ "twitter_username": "gigastraps",
+ "category_code": "network_hosting",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ethernet-cables, networking, technology, cables",
+ "alias_list": null,
+ "email_address": "sales@gigastraps.com",
+ "phone_number": "",
+ "description": "Custom Ethernet Cables",
+ "created_at": "Sun Nov 07 23:49:37 UTC 2010",
+ "updated_at": "Sun Nov 14 00:54:50 UTC 2010",
+ "overview": "\u003Cp\u003EGigastraps are handmade high-end Ethernet cables priced effectively to compete with the big boys in the industry.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0011/0049/110049v2-max-150x150.png"],
+     [[250,
+       56],
+      "assets/images/resized/0011/0049/110049v2-max-250x250.png"],
+     [[290,
+       66],
+      "assets/images/resized/0011/0049/110049v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Operations Manager",
+    "person":
+     {"first_name": "JM",
+      "last_name": "Jordan",
+      "permalink": "jm-jordan",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Baty",
+      "permalink": "matt-baty",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Belkin International",
+      "permalink": "belkin-international",
+      "image":
+       {"available_sizes":
+         [[[136,
+            74],
+           "assets/images/resized/0006/3482/63482v1-max-150x150.png"],
+          [[136,
+            74],
+           "assets/images/resized/0006/3482/63482v1-max-250x250.png"],
+          [[136,
+            74],
+           "assets/images/resized/0006/3482/63482v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Monster Cable",
+      "permalink": "monster-cable",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        115],
+       "assets/images/resized/0010/9078/109078v2-max-150x150.png"],
+      [[250,
+        192],
+       "assets/images/resized/0010/9078/109078v2-max-250x250.png"],
+      [[450,
+        346],
+       "assets/images/resized/0010/9078/109078v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://channel9.msdn.com/Blogs/coolstuff/Create-a-Colour-Revolution-With-Chromatic-Cables",
+    "title": "Create a Colour Revolution With Chromatic Cables"},
+   {"external_url": "http://pixelatedgeek.com/2010/11/gigastraps/",
+    "title": "Gigastraps!"}]}

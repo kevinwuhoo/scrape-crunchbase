@@ -1,0 +1,77 @@
+{"name": "QueryIO",
+ "permalink": "queryio",
+ "crunchbase_url": "http://www.crunchbase.com/company/queryio",
+ "homepage_url": "http://www.queryio.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 25,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "apache, hadoop, big-data, sql, analytics, query, unstructured",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Hadoop Big Data Analytics",
+ "created_at": "Fri Feb 08 21:50:58 UTC 2013",
+ "updated_at": "Tue Feb 12 03:46:02 UTC 2013",
+ "overview": "\u003Cp\u003EQueryIO is a Hadoop-based SQL and Big Data Analytics solution. \u003C/p\u003E\n\n\u003Cp\u003EQueryIO is used to store and analyze vast amounts of structured and unstructured Big Data. QueryIO is especially well suited to enable users to process unstructured Big Data,  give it a structure and support querying and analysis of this Big Data using standard SQL syntax.\u003C/p\u003E\n\n\u003Cp\u003EQueryIO enables you to leverage the vast and mature infrastructure built around SQL and relational databases and utilize it for your Big Data Analytics needs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0023/4646/234646v2-max-150x150.png"],
+     [[250,
+       78],
+      "assets/images/resized/0023/4646/234646v2-max-250x250.png"],
+     [[450,
+       141],
+      "assets/images/resized/0023/4646/234646v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sandeep",
+      "last_name": "Jain",
+      "permalink": "sandeep-jain-3",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Cupertino",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3229978,
+    "longitude": -122.0321823}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

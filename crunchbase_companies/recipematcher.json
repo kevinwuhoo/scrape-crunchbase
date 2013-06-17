@@ -1,0 +1,144 @@
+{"name": "RecipeMatcher",
+ "permalink": "recipematcher",
+ "crunchbase_url": "http://www.crunchbase.com/company/recipematcher",
+ "homepage_url": "http://www.recipematcher.com",
+ "blog_url": "http://www.recipematcher.com/index.php/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "RecipeMatcher",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "mksasaki@recipematcher.com",
+ "phone_number": "619 218 9401",
+ "description": "",
+ "created_at": "Tue Oct 09 09:52:10 UTC 2007",
+ "updated_at": "Mon Apr 08 10:48:36 UTC 2013",
+ "overview": "\u003Cp\u003ERecipeMatcher (www.recipematcher.com) is a unique recipe site.  Enter in the ingredients you have at home and RecipeMatcher will tell you what you can make based on those ingredients.  Recipes are suggested based on the highest % of ingredients you already have at home.  When you sign up, you\u0026#8217;ll be able to enter in the ingredients you have at home and RecipeMatcher will save this list for you.  Then, you can search recipes with a click of a button.  RecipeMatcher also cuts down on your food costs by using up all the ingredients you have at home and if you\u0026#8217;re tired of eating the same meals every week, RecipeMatcher does a great job of suggesting new dishes to try with the same ingredients you have at home.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       114],
+      "assets/images/resized/0002/4449/24449v2-max-150x150.jpg"],
+     [[250,
+       190],
+      "assets/images/resized/0002/4449/24449v2-max-250x250.jpg"],
+     [[450,
+       342],
+      "assets/images/resized/0002/4449/24449v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Recipes",
+    "permalink": "recipes",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Sasaki",
+      "permalink": "mike-sasaki",
+      "image":
+       {"available_sizes":
+         [[[98,
+            147],
+           "assets/images/resized/0009/5639/95639v2-max-150x150.jpg"],
+          [[98,
+            147],
+           "assets/images/resized/0009/5639/95639v2-max-250x250.jpg"],
+          [[98,
+            147],
+           "assets/images/resized/0009/5639/95639v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Cookthink",
+      "permalink": "cookthink",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0001/2572/12572v1-max-150x150.png"],
+          [[222,
+            54],
+           "assets/images/resized/0001/2572/12572v1-max-250x250.png"],
+          [[222,
+            54],
+           "assets/images/resized/0001/2572/12572v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FamilyOven",
+      "permalink": "familyoven",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0000/2146/2146v1-max-150x150.png"],
+          [[189,
+            58],
+           "assets/images/resized/0000/2146/2146v1-max-250x250.png"],
+          [[189,
+            58],
+           "assets/images/resized/0000/2146/2146v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Recipe Puppy",
+      "permalink": "recipe-puppy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            58],
+           "assets/images/resized/0004/1923/41923v2-max-150x150.png"],
+          [[250,
+            97],
+           "assets/images/resized/0004/1923/41923v2-max-250x250.png"],
+          [[250,
+            97],
+           "assets/images/resized/0004/1923/41923v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": null,
+    "zip_code": "92122",
+    "city": "",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 32.856744,
+    "longitude": -117.20717}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/3965/43965v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0004/3965/43965v1-max-250x250.png"],
+      [[450,
+        282],
+       "assets/images/resized/0004/3965/43965v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

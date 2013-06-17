@@ -1,0 +1,173 @@
+{"name": "Groupideo",
+ "permalink": "groupideo",
+ "crunchbase_url": "http://www.crunchbase.com/company/groupideo",
+ "homepage_url": "http://groupideo.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Groupideo",
+ "category_code": "games_video",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "group-communication, entertainment, group-chat",
+ "alias_list": null,
+ "email_address": "info@groupideo.com",
+ "phone_number": "514-690-6521",
+ "description": "Social Group Communication Tool",
+ "created_at": "Sun Mar 20 19:51:39 UTC 2011",
+ "updated_at": "Mon Mar 21 03:46:55 UTC 2011",
+ "overview": "\u003Cp\u003EGroupideo is a free online group communication tool that allows up to four people to watch a synchronized video while seeing each others\u0026#8217; reactions on web cams.\u003C/p\u003E\n\n\u003Cp\u003EGroupideo aggregates content from third party streaming sites such as YouTube, Vimeo, Justin.TV and DailyMotion. It allows users to search, select and queue videos as well as invite friends from Facebook without ever leaving the Groupideo theater. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0012/7012/127012v2-max-150x150.png"],
+     [[250,
+       60],
+      "assets/images/resized/0012/7012/127012v2-max-250x250.png"],
+     [[450,
+       108],
+      "assets/images/resized/0012/7012/127012v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Business Development",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Greenstone",
+      "permalink": "matt-greenstone-2",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0012/7075/127075v2-max-150x150.png"],
+          [[80,
+            80],
+           "assets/images/resized/0012/7075/127075v2-max-250x250.png"],
+          [[80,
+            80],
+           "assets/images/resized/0012/7075/127075v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Technical Co-Founder",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Menard",
+      "permalink": "daniel-menard-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0024/9453/249453v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0024/9453/249453v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0024/9453/249453v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "President",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Galasso",
+      "permalink": "alexander-galasso-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/7069/127069v3-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/7069/127069v3-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0012/7069/127069v3-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "synchtube",
+      "permalink": "synchtube",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0009/7948/97948v2-max-150x150.png"],
+          [[246,
+            119],
+           "assets/images/resized/0009/7948/97948v2-max-250x250.png"],
+          [[246,
+            119],
+           "assets/images/resized/0009/7948/97948v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Skype",
+      "permalink": "skype",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/1387/1387v12-max-150x150.jpg"],
+          [[250,
+            110],
+           "assets/images/resized/0000/1387/1387v12-max-250x250.jpg"],
+          [[315,
+            139],
+           "assets/images/resized/0000/1387/1387v12-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Vidyo",
+      "permalink": "vidyo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0002/0666/20666v1-max-150x150.png"],
+          [[250,
+            91],
+           "assets/images/resized/0002/0666/20666v1-max-250x250.png"],
+          [[255,
+            93],
+           "assets/images/resized/0002/0666/20666v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        65],
+       "assets/images/resized/0012/7011/127011v2-max-150x150.png"],
+      [[250,
+        108],
+       "assets/images/resized/0012/7011/127011v2-max-250x250.png"],
+      [[450,
+        195],
+       "assets/images/resized/0012/7011/127011v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.facebook.com/pages/Groupideo/178644215485639?sk=wall",
+    "title": "Facebook Page"},
+   {"external_url": "http://twitter.com/#!/Groupideo",
+    "title": "Twitter Page"}]}

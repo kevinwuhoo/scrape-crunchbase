@@ -1,0 +1,82 @@
+{"name": "VisualizeUs",
+ "permalink": "visualizeus",
+ "crunchbase_url": "http://www.crunchbase.com/company/visualizeus",
+ "homepage_url": "http://visualizeus.com",
+ "blog_url": "http://blog.vi.sualize.us",
+ "blog_feed_url": "http://vi.sualize.us/rss/popular",
+ "twitter_username": "visualizeus",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "image, bookmark, gallery",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "bookmark your favorite images",
+ "created_at": "Thu Aug 06 20:30:41 UTC 2009",
+ "updated_at": "Fri Oct 29 17:48:43 UTC 2010",
+ "overview": "\u003Cp\u003EVisualizeus is a web service that helps you to remember your favorite pictures found around the net. You can share them with your friends, and browse other people fav pics to discover new lovely pictures.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0005/5530/55530v2-max-150x150.jpg"],
+     [[200,
+       50],
+      "assets/images/resized/0005/5530/55530v2-max-250x250.jpg"],
+     [[200,
+       50],
+      "assets/images/resized/0005/5530/55530v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Victor",
+      "last_name": "Espigares",
+      "permalink": "victor-espigares",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0005/5529/55529v2-max-150x150.jpg"],
+      [[250,
+        144],
+       "assets/images/resized/0005/5529/55529v2-max-250x250.jpg"],
+      [[450,
+        260],
+       "assets/images/resized/0005/5529/55529v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://bits.blogs.nytimes.com/2008/11/28/tag-that-image-visual-bookmarking-sites-worth-browsing/",
+    "title": "Featured on The New York Times"},
+   {"external_url": "http://www.readwriteweb.com/archives/3_cool_sites_to_bookmark_your_favorite_images_on_the_web.php",
+    "title": "Featured on ReadWriteWeb"}]}

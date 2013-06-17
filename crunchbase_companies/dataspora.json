@@ -1,0 +1,128 @@
+{"name": "Via Science (formerly Dataspora)",
+ "permalink": "dataspora",
+ "crunchbase_url": "http://www.crunchbase.com/company/dataspora",
+ "homepage_url": "http://www.viascience.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": 5,
+ "founded_year": 2008,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "data, big-data, analytics, predictive-analytics, big-math",
+ "alias_list": "",
+ "email_address": "info@viascience.com",
+ "phone_number": "",
+ "description": "From data to decision.",
+ "created_at": "Sun Apr 03 00:17:41 UTC 2011",
+ "updated_at": "Wed May 15 05:31:17 UTC 2013",
+ "overview": "\u003Cp\u003EIn March 2011, Dataspora was acquired by Via Science, whose other subsidiaries include GNS Healthcare and Fina Technologies.\u003C/p\u003E\n\n\u003Cp\u003EFounded in 2008, Dataspora is a big data and analytics consultancy. They have worked with Fortune 500 firms to model customer churn, optimizing online advertisements, and build product recommendation engines. The acquisition helps strengthen Via\u2019s positioning to support the consumer packaged goods and retail sectors, areas of focus for Dataspora.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0013/0947/130947v2-max-150x150.png"],
+     [[250,
+       54],
+      "assets/images/resized/0013/0947/130947v2-max-250x250.png"],
+     [[300,
+       66],
+      "assets/images/resized/0013/0947/130947v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder, Chairman",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Driscoll",
+      "permalink": "michael-driscoll",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0008/7979/87979v1-max-150x150.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0008/7979/87979v1-max-250x250.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0008/7979/87979v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Colin",
+      "last_name": "Hill",
+      "permalink": "colin-hill",
+      "image": null}},
+   {"is_past": true,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Tom",
+      "last_name": "Neyarapally",
+      "permalink": "tom-neyarapally",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.viascience.com/via-science-acquires-dataspora/",
+   "source_description": "Via Science Acquires Dataspora, a Pioneer in Predictive Analytics",
+   "acquired_year": 2011,
+   "acquired_month": 3,
+   "acquired_day": 4,
+   "acquiring_company":
+    {"name": "Via Science",
+     "permalink": "via-science",
+     "image":
+      {"available_sizes":
+        [[[150,
+           19],
+          "assets/images/resized/0026/2763/262763v2-max-150x150.png"],
+         [[250,
+           32],
+          "assets/images/resized/0026/2763/262763v2-max-250x250.png"],
+         [[450,
+           58],
+          "assets/images/resized/0026/2763/262763v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "One Charles Park",
+    "address2": "",
+    "zip_code": "02142",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.3660315,
+    "longitude": -71.0766721}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.forbes.com/forbes/2010/0524/opinions-software-norman-nie-spss-ideas-opinions.html",
+    "title": "Forbes, \"Power in the Numbers\" (May 2010)"},
+   {"external_url": "http://www.nytimes.com/external/gigaom/2009/08/12/12gigaom-the-future-of-work-its-data-baby-50432.html",
+    "title": "New York Times, \"The Future Of Work: It\u00e2\u20ac\u2122s Data, Baby\" (August 2009)"}]}

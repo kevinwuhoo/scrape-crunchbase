@@ -1,0 +1,160 @@
+{"name": "Defensio",
+ "permalink": "defensio",
+ "crunchbase_url": "http://www.crunchbase.com/company/defensio",
+ "homepage_url": "http://defensio.com",
+ "blog_url": "http://blog.defensio.com/",
+ "blog_feed_url": "http://blog.defensio.com/feed/",
+ "twitter_username": null,
+ "category_code": "security",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "spam, spamblocker, akismet, antispam",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "blog spam blocker",
+ "created_at": "Wed Nov 07 10:50:36 UTC 2007",
+ "updated_at": "Mon Mar 23 18:23:23 UTC 2009",
+ "overview": "\u003Cp\u003EDefensio, a spam blocker for blogs, has the unique ability to sort your blog\u0026#8217;s blocked comments by \u0026#8220;spamminess\u0026#8221; so you don\u0026#8217;t have to wade through them chronologically to find false positives. Defensio will rank comments that it labels as spam according to how likely it thinks the comments are indeed spam, listing the least likely comments on top. The blocker will even color code your blocked comments to help you find the ones you want to approve.\u003C/p\u003E\n\n\u003Cp\u003EDefensio also adapts to the content of your blog so that it can target spam more effectively. It\u0026#8217;s success at blocking the right comments for each individual blog can be tracked, so you\u0026#8217;ll know just how well Defensio is performing for you.\u003C/p\u003E\n\n\u003Cp\u003EAmong Defensio\u0026#8217;s other innovations is an open API that makes the blocker available for use with non-blogging applications. Defensio also provides RSS feeds for your comments (sorted by spamminess, of course) so you can track them outside of your publishing platform. Defensio added OpenID support to their product in January 2008, updating the Defensio product and API so that bloggers could more accurately filter commenters via their OpenID credentials.\u003C/p\u003E\n\n\u003Cp\u003EDefensio\u0026#8217;s prime competition comes from \u003Ca href=\"http://www.crunchbase.com/company/automattic\" title=\"Automattic\u0026#8217;s\"\u003EAutomattic\u0026#8217;s\u003C/a\u003E Akismet spam blocker which runs default on all wordpress blogs.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0000/1888/1888v1-max-150x150.png"],
+     [[194,
+       63],
+      "assets/images/resized/0000/1888/1888v1-max-250x250.png"],
+     [[194,
+       63],
+      "assets/images/resized/0000/1888/1888v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Defensio",
+    "permalink": "defensio",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO",
+    "person":
+     {"first_name": "Carl",
+      "last_name": "Mercier",
+      "permalink": "carl-mercier",
+      "image":
+       {"available_sizes":
+         [[[150,
+            83],
+           "assets/images/resized/0004/3349/43349v2-max-150x150.png"],
+          [[250,
+            138],
+           "assets/images/resized/0004/3349/43349v2-max-250x250.png"],
+          [[450,
+            250],
+           "assets/images/resized/0004/3349/43349v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "   ",
+    "person":
+     {"first_name": "Mat",
+      "last_name": "Balez",
+      "permalink": "mat-balez",
+      "image":
+       {"available_sizes":
+         [[[73,
+            73],
+           "assets/images/resized/0006/3936/63936v2-max-150x150.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0006/3936/63936v2-max-250x250.jpg"],
+          [[73,
+            73],
+           "assets/images/resized/0006/3936/63936v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Automattic",
+      "permalink": "automattic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            11],
+           "assets/images/resized/0000/1342/1342v4-max-150x150.png"],
+          [[250,
+            19],
+           "assets/images/resized/0000/1342/1342v4-max-250x250.png"],
+          [[450,
+            34],
+           "assets/images/resized/0000/1342/1342v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Mollom",
+      "permalink": "mollom",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/7495/17495v3-max-150x150.jpg"],
+          [[250,
+            66],
+           "assets/images/resized/0001/7495/17495v3-max-250x250.jpg"],
+          [[450,
+            119],
+           "assets/images/resized/0001/7495/17495v3-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2009/01/27/websense-acquires-spam-blocker-defensio/",
+   "source_description": "TechCrunch",
+   "acquired_year": 2009,
+   "acquired_month": 1,
+   "acquired_day": 27,
+   "acquiring_company":
+    {"name": "Websense",
+     "permalink": "websense",
+     "image":
+      {"available_sizes":
+        [[[150,
+           32],
+          "assets/images/resized/0003/4948/34948v3-max-150x150.png"],
+         [[239,
+           52],
+          "assets/images/resized/0003/4948/34948v3-max-250x250.png"],
+         [[239,
+           52],
+          "assets/images/resized/0003/4948/34948v3-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": null,
+    "city": "Montreal",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 45.545447,
+    "longitude": -73.639076}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

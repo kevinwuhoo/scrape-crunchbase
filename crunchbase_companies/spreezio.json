@@ -1,0 +1,165 @@
+{"name": "Spreezio",
+ "permalink": "spreezio",
+ "crunchbase_url": "http://www.crunchbase.com/company/spreezio",
+ "homepage_url": "http://spreezio.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "spreezio",
+ "category_code": "mobile",
+ "number_of_employees": 9,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "location-based, shopping, personalized, make-a-deal, just-in-time, lead-generation, iphone, priceline-on-steroids, on-demand",
+ "alias_list": null,
+ "email_address": "todd@spreezio.com",
+ "phone_number": "408 689-8233",
+ "description": "Location-based personalized shopping",
+ "created_at": "Sun Jun 28 17:59:18 UTC 2009",
+ "updated_at": "Wed Dec 30 20:35:18 UTC 2009",
+ "overview": "\u003Cp\u003ESpreezio is a location-based consumer service designed to bring local shoppers, merchants, and sales reps together through personalized shopping deals.\u003C/p\u003E\n\n\u003Cp\u003ESpreezio enables shoppers to make a deal on any product or service.  Shoppers can buy what they want, when they need it, where they are at.  They are guaranteed to get the best local deals based on value.  Once they accept a deal, Spreezio lets them tell their friends via social networking sites like Facebook and Twitter.  \u003C/p\u003E\n\n\u003Cp\u003ESpreezio helps merchants get found and receive imminent shoppers without the expense for sales \u0026amp; advertising, making them more profitable while increasing their revenue.  Merchants  can either accept or counter an offer, upsell, or cross-sell.  We provide the ability for merchants to compete on value-added services and NOT price which is a sustainable way to contend in business.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[128,
+       122],
+      "assets/images/resized/0005/7433/57433v1-max-150x150.jpg"],
+     [[128,
+       122],
+      "assets/images/resized/0005/7433/57433v1-max-250x250.jpg"],
+     [[128,
+       122],
+      "assets/images/resized/0005/7433/57433v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Spreezio",
+    "permalink": "spreezio",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder/CEO",
+    "person":
+     {"first_name": "Todd",
+      "last_name": "Chipman",
+      "permalink": "todd-chipman",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ShopSavvy",
+      "permalink": "shopsavvy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/3592/123592v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0012/3592/123592v2-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0012/3592/123592v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "OpenTable",
+      "permalink": "opentable",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0000/0022/22v1-max-150x150.png"],
+          [[210,
+            34],
+           "assets/images/resized/0000/0022/22v1-max-250x250.png"],
+          [[210,
+            34],
+           "assets/images/resized/0000/0022/22v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MerchantCircle",
+      "permalink": "merchantcircle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0017/3364/173364v1-max-150x150.jpg"],
+          [[250,
+            60],
+           "assets/images/resized/0017/3364/173364v1-max-250x250.jpg"],
+          [[310,
+            75],
+           "assets/images/resized/0017/3364/173364v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "YellowPages",
+      "permalink": "yellowpages",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0002/2504/22504v3-max-150x150.jpg"],
+          [[250,
+            67],
+           "assets/images/resized/0002/2504/22504v3-max-250x250.jpg"],
+          [[278,
+            75],
+           "assets/images/resized/0002/2504/22504v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Shoplocal",
+      "permalink": "shoplocal",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/2049/22049v5-max-150x150.png"],
+          [[237,
+            48],
+           "assets/images/resized/0002/2049/22049v5-max-250x250.png"],
+          [[237,
+            48],
+           "assets/images/resized/0002/2049/22049v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "Coast Law Group",
+      "permalink": "coast-law-group",
+      "image": null}},
+   {"title": "Patent",
+    "is_past": false,
+    "provider":
+     {"name": "Gard \u0026 Kaslow",
+      "permalink": "gard-kaslow",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "World Headquarters",
+    "address1": "1290 Parkmoor, 3rd Floor",
+    "address2": "",
+    "zip_code": "95126",
+    "city": "San Jose",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.youtube.com/watch?v=dGNsFTGPmNI",
+    "title": "Restaurant Demo"}]}

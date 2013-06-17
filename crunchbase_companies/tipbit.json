@@ -1,0 +1,119 @@
+{"name": "TipBit",
+ "permalink": "tipbit",
+ "crunchbase_url": "http://www.crunchbase.com/company/tipbit",
+ "homepage_url": "https://www.tipbit.com",
+ "blog_url": "https://www.tipbit.com/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "tipbitinc",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@tipbit.com",
+ "phone_number": "206-819-3400",
+ "description": "",
+ "created_at": "Fri May 24 10:03:33 UTC 2013",
+ "updated_at": "Fri May 24 10:31:21 UTC 2013",
+ "overview": "\u003Cp\u003ETipbit is an early-stage start up based in Seattle and San Francisco. Backed by Andreessen Horowitz and Ignition partners, Tipbit is led by an energetic, focused team who melds start-up experience with extensive expertise shipping world-class enterprise and consumer software at some of the industry\u2019s top software companies. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[90,
+       75],
+      "assets/images/resized/0026/6398/266398v1-max-150x150.png"],
+     [[90,
+       75],
+      "assets/images/resized/0026/6398/266398v1-max-250x250.png"],
+     [[90,
+       75],
+      "assets/images/resized/0026/6398/266398v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Gordon",
+      "last_name": "Mangione",
+      "permalink": "gordon-mangione",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.95M",
+ "funding_rounds":
+  [{"round_code": "debt_round",
+    "source_url": "http://www.sec.gov/Archives/edgar/data/1545714/000154571413000002/xslFormDX01/primary_doc.xml",
+    "source_description": "SEC",
+    "raised_amount": 1950000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 22,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Andreessen Horowitz",
+         "permalink": "andreessen-horowitz",
+         "image":
+          {"available_sizes":
+            [[[150,
+               51],
+              "assets/images/resized/0006/5679/65679v3-max-150x150.png"],
+             [[250,
+               85],
+              "assets/images/resized/0006/5679/65679v3-max-250x250.png"],
+             [[316,
+               108],
+              "assets/images/resized/0006/5679/65679v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Ignition Partners",
+         "permalink": "ignition-partners",
+         "image":
+          {"available_sizes":
+            [[[94,
+               37],
+              "assets/images/resized/0001/9291/19291v2-max-150x150.png"],
+             [[94,
+               37],
+              "assets/images/resized/0001/9291/19291v2-max-250x250.png"],
+             [[94,
+               37],
+              "assets/images/resized/0001/9291/19291v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "10900 NE 8th Street",
+    "address2": "Suite 1000",
+    "zip_code": "98004",
+    "city": "Bellevue",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.61766,
+    "longitude": -122.194024}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

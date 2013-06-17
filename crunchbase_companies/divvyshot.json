@@ -1,0 +1,139 @@
+{"name": "Divvyshot",
+ "permalink": "divvyshot",
+ "crunchbase_url": "http://www.crunchbase.com/company/divvyshot",
+ "homepage_url": "http://divvyshot.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "divvyshot",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "human@divvyshot.com",
+ "phone_number": "1-866-999-8858",
+ "description": "Group photo sharing",
+ "created_at": "Thu Mar 05 04:09:48 UTC 2009",
+ "updated_at": "Wed Jul 28 22:44:46 UTC 2010",
+ "overview": "\u003Cp\u003EDivvyshot allows groups of friends to share their photos easily, at their full resolutions.\u003C/p\u003E\n\n\u003Cp\u003EIt was a \u003Ca href=\"http://www.crunchbase.com/company/y-combinator\" title=\"Y Combinator\"\u003EY Combinator\u003C/a\u003E participant during the Winter 2009 session.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0003/7387/37387v4-max-150x150.png"],
+     [[250,
+       58],
+      "assets/images/resized/0003/7387/37387v4-max-250x250.png"],
+     [[450,
+       106],
+      "assets/images/resized/0003/7387/37387v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sam",
+      "last_name": "Odio",
+      "permalink": "sam-odio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            126],
+           "assets/images/resized/0003/7536/37536v2-max-150x150.png"],
+          [[250,
+            210],
+           "assets/images/resized/0003/7536/37536v2-max-250x250.png"],
+          [[450,
+            378],
+           "assets/images/resized/0003/7536/37536v2-max-450x450.png"]],
+        "attribution": "\u003Cp\u003EAsheley Walker\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$10k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 10000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2009,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://techcrunch.com/2010/04/02/facebook-buys-up-divvyshot-to-make-facebook-photos-even-better/",
+   "source_description": "Facebook Acquires Divvyshot to Improve Facebook Photos",
+   "acquired_year": 2010,
+   "acquired_month": 4,
+   "acquired_day": 2,
+   "acquiring_company":
+    {"name": "Facebook",
+     "permalink": "facebook",
+     "image":
+      {"available_sizes":
+        [[[150,
+           56],
+          "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+         [[250,
+           94],
+          "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+         [[450,
+           169],
+          "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"400\" height=\"300\"\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=7193701\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" /\u003E\u003Cembed src=\"http://vimeo.com/moogaloop.swf?clip_id=7193701\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"400\" height=\"300\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cp\u003E\u003Ca href=\"http://vimeo.com/7193701\"\u003EDivvyshot iPhone App\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/user864471\"\u003ESam O\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EDivvyshot iPhone Application\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        60],
+       "assets/images/resized/0003/8843/38843v1-max-150x150.png"],
+      [[250,
+        101],
+       "assets/images/resized/0003/8843/38843v1-max-250x250.png"],
+      [[450,
+        182],
+       "assets/images/resized/0003/8843/38843v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

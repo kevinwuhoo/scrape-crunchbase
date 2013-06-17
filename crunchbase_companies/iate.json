@@ -1,0 +1,124 @@
+{"name": "iAte",
+ "permalink": "iate",
+ "crunchbase_url": "http://www.crunchbase.com/company/iate",
+ "homepage_url": "http://iate.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "iAte",
+ "category_code": "search",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "restaurants, restaurant-reviews, local-search, twitter",
+ "alias_list": null,
+ "email_address": "info@iate.com",
+ "phone_number": "360-818-4040",
+ "description": "Twitter based restaurant reviews",
+ "created_at": "Mon Sep 14 03:13:04 UTC 2009",
+ "updated_at": "Mon Sep 14 12:39:09 UTC 2009",
+ "overview": "\u003Cp\u003EiAte imports and organizes status updates from Twitter that mention restaurants.   \u003C/p\u003E\n\n\u003Cp\u003EWhen a tweet mentioning a restaurant is discovered, iAte\u0026#8217;s technology  analyzes the tweet and identifies the restaurant and location mentioned.  The tweet is then made discoverable on the restaurant\u0026#8217;s iAte.com page and made searchable.   At launch, iAte was adding 200,000 new restaurant tweets per month to it\u0026#8217;s system.\u003C/p\u003E\n\n\u003Cp\u003EiAte.com lets visitors see reviews, photos, and a list of trending popular  restaurants in their city.  Twitter users can also see the most popular eateries of their friends and followers and their own eating history.\u003C/p\u003E\n\n\u003Cp\u003EOn Twitter, @iAte provides a way of sharing restaurant reviews only to users who opt-in to see them.  By starting their tweet with @iAte, their followers must be following @iAte to opt-in.  Any Twitter user can also get restaurant recommendations by tweeting \u0026#8220;@iAte feedme\u0026#8221;.  iAte will reply with a restaurant suggestion based on the most popular eateries of a user\u0026#8217;s followers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       49],
+      "assets/images/resized/0005/9649/59649v2-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0005/9649/59649v2-max-250x250.png"],
+     [[403,
+       134],
+      "assets/images/resized/0005/9649/59649v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Citysearch",
+      "permalink": "citysearch",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0001/3847/13847v3-max-150x150.jpg"],
+          [[157,
+            40],
+           "assets/images/resized/0001/3847/13847v3-max-250x250.jpg"],
+          [[157,
+            40],
+           "assets/images/resized/0001/3847/13847v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Urbanspoon",
+      "permalink": "urbanspoon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0002/1806/21806v1-max-150x150.png"],
+          [[225,
+            103],
+           "assets/images/resized/0002/1806/21806v1-max-250x250.png"],
+          [[225,
+            103],
+           "assets/images/resized/0002/1806/21806v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "201 NE Park Plaza Dr",
+    "address2": "Suite 283",
+    "zip_code": "98684",
+    "city": "Vancouver",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

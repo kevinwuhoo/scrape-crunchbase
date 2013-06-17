@@ -1,0 +1,95 @@
+{"name": "Bitspace",
+ "permalink": "bitspace",
+ "crunchbase_url": "http://www.crunchbase.com/company/bitspace",
+ "homepage_url": "http://bitspace.at/",
+ "blog_url": "http://bitspace.at/blog",
+ "blog_feed_url": "http://feeds.feedburner.com/bitspace",
+ "twitter_username": "bitspaced",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music, streaming, cloud, saas, html5, backup",
+ "alias_list": null,
+ "email_address": "hello@bitspace.se",
+ "phone_number": "",
+ "description": "Your Music, In the Cloud.",
+ "created_at": "Tue Feb 16 14:44:30 UTC 2010",
+ "updated_at": "Tue Feb 16 20:33:43 UTC 2010",
+ "overview": "\u003Cp\u003EBitspace is a new web app that lets you upload and organize your music. It supports MP3, MP4, OGG, WMA and Flac files. It\u00e2\u20ac\u2122s also based on HTML5: it uses modern browsers\u00e2\u20ac\u2122 native audio playback support to stream music to you. It keeps music organized by analyzing each songs\u00e2\u20ac\u2122 metadata. It scrobbles the tracks you\u00e2\u20ac\u2122re listening to. It has a beautiful interface design.\u003C/p\u003E\n\n\u003Cp\u003EFrom the company blog:\u003C/p\u003E\n\n\u003Cp\u003E\u00e2\u20ac\u0153But we are not all about storage. We also want to create a superior music experience. We want the way you navigate your music library to feel natural and logical and we want the music you own in digital format to be just as beautiful as the music you have in your bookshelf. We also want to make organizing and categorizing music easy. We will make sure your meta data is correct and kept up to date automatically. So that you can focus on what is really important; enjoying your music.\u00e2\u20ac\u009d\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0007/7240/77240v2-max-150x150.png"],
+     [[200,
+       200],
+      "assets/images/resized/0007/7240/77240v2-max-250x250.png"],
+     [[200,
+       200],
+      "assets/images/resized/0007/7240/77240v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Niklas",
+      "last_name": "Holmgren",
+      "permalink": "niklas-holmgren",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Fredrik",
+      "last_name": "Lundqvist",
+      "permalink": "fredrik-lundqvist",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Stockholm Office",
+    "address1": "Observatoriegatan 9",
+    "address2": "",
+    "zip_code": "113 29",
+    "city": "Stockholm",
+    "state_code": null,
+    "country_code": "SWE",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0007/7239/77239v2-max-150x150.png"],
+      [[250,
+        152],
+       "assets/images/resized/0007/7239/77239v2-max-250x250.png"],
+      [[450,
+        274],
+       "assets/images/resized/0007/7239/77239v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.macstories.net/reviews/bitspace/",
+    "title": "Bitspace: It\u00e2\u20ac\u2122s Your Music, In the Cloud. Powered by HTML5."}]}

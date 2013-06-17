@@ -1,0 +1,108 @@
+{"name": "Insophia",
+ "permalink": "insophia",
+ "crunchbase_url": "http://www.crunchbase.com/company/insophia",
+ "homepage_url": "http://www.insophia.com",
+ "blog_url": "http://blog.insophia.com/",
+ "blog_feed_url": "http://blog.insophia.com/rss.xml",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "software, python, linux",
+ "alias_list": null,
+ "email_address": "info@insophia.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Jul 07 18:48:10 UTC 2008",
+ "updated_at": "Mon Feb 25 05:51:03 UTC 2013",
+ "overview": "\u003Cp\u003EInsophia is a technology company located in Uruguay that specializes in software development under the Python programming language and scalable architecture design based on open source infrastructures and Linux platforms.\u003C/p\u003E\n\n\u003Cp\u003EOther areas of expertise also include:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EComputer networking solutions\u003C/li\u003E\n\u003Cli\u003EInternet protocols and technologies\u003C/li\u003E\n\u003Cli\u003EWeb platforms architecture design, implementation and deployment\u003C/li\u003E\n\u003Cli\u003EOpen source software solutions and consultancy\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0002/1535/21535v1-max-150x150.png"],
+     [[150,
+       44],
+      "assets/images/resized/0002/1535/21535v1-max-250x250.png"],
+     [[150,
+       44],
+      "assets/images/resized/0002/1535/21535v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Privnote",
+    "permalink": "privnote",
+    "image":
+     {"available_sizes":
+       [[[150,
+          41],
+         "assets/images/resized/0002/1537/21537v1-max-150x150.png"],
+        [[250,
+          68],
+         "assets/images/resized/0002/1537/21537v1-max-250x250.png"],
+        [[265,
+          73],
+         "assets/images/resized/0002/1537/21537v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Jimmy",
+      "last_name": "Baikovicius",
+      "permalink": "jimmy-baikovicius",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO and Co-Founder",
+    "person":
+     {"first_name": "Pablo",
+      "last_name": "Hoffman",
+      "permalink": "pablo-hoffman",
+      "image":
+       {"available_sizes":
+         [[[123,
+            150],
+           "assets/images/resized/0023/7717/237717v2-max-150x150.jpg"],
+          [[205,
+            250],
+           "assets/images/resized/0023/7717/237717v2-max-250x250.jpg"],
+          [[370,
+            450],
+           "assets/images/resized/0023/7717/237717v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarters",
+    "address1": "Zonamerica, Suite 131",
+    "address2": "Route 8, km 17.500",
+    "zip_code": "91600 ",
+    "city": "Montevideo",
+    "state_code": null,
+    "country_code": "URY",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

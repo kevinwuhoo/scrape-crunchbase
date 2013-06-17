@@ -1,0 +1,101 @@
+{"name": "CampaignBase.com",
+ "permalink": "campaignbase-com",
+ "crunchbase_url": "http://www.crunchbase.com/company/campaignbase-com",
+ "homepage_url": "http://www.campaignbase.com",
+ "blog_url": "http://www.campaignbase.com/blog.tab.aspx",
+ "blog_feed_url": "http://www.campaignbase.com/RssFeed.aspx?TabRef=Blog\u0026ParentRef=\u0026ModuleRef=Module1",
+ "twitter_username": "CampaignBase",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2005,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "nonproft, political, campaigns, fundraising, advocacy",
+ "alias_list": null,
+ "email_address": "tglazier@campaignbase.com",
+ "phone_number": "315-883-8277",
+ "description": "Fundraising and Internet Advocacy",
+ "created_at": "Wed Jun 24 13:47:42 UTC 2009",
+ "updated_at": "Wed Jun 24 18:06:32 UTC 2009",
+ "overview": "\u003Cp\u003ECampaignBase.com leverages the internet to support and expand the efforts of non-profit groups, political efforts and membership organizations.  Built from the ground up as software as a service solution, CampaignBase.com is designed to empower users with the convenience to work on their own time.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0005/0496/50496v2-max-150x150.jpg"],
+     [[250,
+       47],
+      "assets/images/resized/0005/0496/50496v2-max-250x250.jpg"],
+     [[450,
+       85],
+      "assets/images/resized/0005/0496/50496v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "CampaignBase.com",
+    "permalink": "campaignbase-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Travis",
+      "last_name": "Glazier",
+      "permalink": "travis-glazier",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Rich",
+      "last_name": "Sullivan",
+      "permalink": "rich-sullivan",
+      "image": null}},
+   {"is_past": true,
+    "title": "Developer",
+    "person":
+     {"first_name": "Emre",
+      "last_name": "Onyurt",
+      "permalink": "emre-onyurt",
+      "image": null}},
+   {"is_past": true,
+    "title": "Developer",
+    "person":
+     {"first_name": "John",
+      "last_name": "Desantes",
+      "permalink": "john-desantes",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Syracuse Office",
+    "address1": "109 S. Warren St",
+    "address2": "",
+    "zip_code": "13202",
+    "city": "Syracuse",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 43.0503045,
+    "longitude": -76.1507625}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.allbusiness.com/technology/computer-software/4059237-1.html",
+    "title": "CampaignBase aims to serve local elections"}]}

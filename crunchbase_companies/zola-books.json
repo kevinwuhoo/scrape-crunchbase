@@ -1,0 +1,227 @@
+{"name": "Zola Books",
+ "permalink": "zola-books",
+ "crunchbase_url": "http://www.crunchbase.com/company/zola-books",
+ "homepage_url": "http://www.zolabooks.com",
+ "blog_url": "http://news.zolabooks.com/",
+ "blog_feed_url": "http://news.zolabooks.com/feed",
+ "twitter_username": "zolabooks",
+ "category_code": "ecommerce",
+ "number_of_employees": 15,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "michael@zolabooks.com",
+ "phone_number": "9178224950",
+ "description": "eBooks social retailer",
+ "created_at": "Mon May 20 19:17:01 UTC 2013",
+ "updated_at": "Mon May 20 19:44:57 UTC 2013",
+ "overview": "\u003Cp\u003EZola Books is an eBooks retailer embedded in a social network that enables customers to discover, purchase and enjoy eBooks in a cross-platform social reader. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0026/4607/264607v2-max-150x150.jpg"],
+     [[250,
+       65],
+      "assets/images/resized/0026/4607/264607v2-max-250x250.jpg"],
+     [[450,
+       117],
+      "assets/images/resized/0026/4607/264607v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Joseph",
+      "last_name": "Regal",
+      "permalink": "joseph-regal",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Strong",
+      "permalink": "michael-strong-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Charlie",
+      "last_name": "Berg",
+      "permalink": "charlie-berg",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Amazon",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+          [[200,
+            89],
+           "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Goodreads",
+      "permalink": "goodreads",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/2677/2677v1-max-150x150.jpg"],
+          [[189,
+            54],
+           "assets/images/resized/0000/2677/2677v1-max-250x250.jpg"],
+          [[189,
+            54],
+           "assets/images/resized/0000/2677/2677v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Barnes \u0026 Noble",
+      "permalink": "barnes-noble",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0001/6456/16456v1-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0001/6456/16456v1-max-250x250.png"],
+          [[303,
+            47],
+           "assets/images/resized/0001/6456/16456v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wattpad",
+      "permalink": "wattpad",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0019/3464/193464v2-max-150x150.png"],
+          [[250,
+            79],
+           "assets/images/resized/0019/3464/193464v2-max-250x250.png"],
+          [[450,
+            142],
+           "assets/images/resized/0019/3464/193464v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Oyster",
+      "permalink": "oyster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0021/5218/215218v3-max-150x150.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0021/5218/215218v3-max-250x250.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0021/5218/215218v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Atavist",
+      "permalink": "atavist",
+      "image": null}},
+   {"competitor":
+     {"name": "Byliner",
+      "permalink": "byliner",
+      "image":
+       {"available_sizes":
+         [[[128,
+            128],
+           "assets/images/resized/0017/3376/173376v2-max-150x150.png"],
+          [[128,
+            128],
+           "assets/images/resized/0017/3376/173376v2-max-250x250.png"],
+          [[128,
+            128],
+           "assets/images/resized/0017/3376/173376v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Readmill",
+      "permalink": "readmill",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0015/2784/152784v3-max-150x150.png"],
+          [[184,
+            59],
+           "assets/images/resized/0015/2784/152784v3-max-250x250.png"],
+          [[184,
+            59],
+           "assets/images/resized/0015/2784/152784v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bookish",
+      "permalink": "bookish",
+      "image": null}},
+   {"competitor":
+     {"name": "Open Road Integrated Media",
+      "permalink": "open-road-integrated-media",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0013/6065/136065v1-max-150x150.png"],
+          [[228,
+            59],
+           "assets/images/resized/0013/6065/136065v1-max-250x250.png"],
+          [[228,
+            59],
+           "assets/images/resized/0013/6065/136065v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$2.7M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/06/05/zola-books-announces-new-social-ebooks-site-raises-1m-from-prominent-authors/",
+    "source_description": "New Social eBooks Retailer Zola Books Launches Private Beta, Raises $1M From Prominent Authors",
+    "raised_amount": 2700000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": 20,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "242 West 38th Street",
+    "address2": "2nd Floor",
+    "zip_code": "10018",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

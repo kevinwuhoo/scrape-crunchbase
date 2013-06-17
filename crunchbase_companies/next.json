@@ -1,0 +1,95 @@
+{"name": "NeXT",
+ "permalink": "next",
+ "crunchbase_url": "http://www.crunchbase.com/company/next",
+ "homepage_url": "http://nextinc.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 1985,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue Jul 08 00:11:10 UTC 2008",
+ "updated_at": "Thu Mar 21 06:31:28 UTC 2013",
+ "overview": "\u003Cp\u003ENeXT, Inc. (later NeXT Computer, Inc. and NeXT Software, Inc.) was an American computer company headquartered in Redwood City, California, that developed and manufactured a series of computer workstations intended for the higher education and business markets. \u003C/p\u003E\n\n\u003Cp\u003ENeXT was founded in 1985 by Apple Computer co-founder Steve Jobs after his forced resignation from Apple. NeXT introduced the first NeXT Computer in 1988, and the smaller NeXTstation in 1990. Sales of the NeXT computers were relatively limited, with estimates of about 50,000 units shipped in total. Nevertheless, its innovative object-oriented NeXTSTEP operating system and development environment were highly influential.\u003C/p\u003E\n\n\u003Cp\u003ENeXT later released much of the NeXTSTEP system as a programming environment standard called OpenStep. NeXT withdrew from the hardware business in 1993 to concentrate on marketing OPENSTEP, its own OpenStep implementation, for several OEMs. NeXT also developed WebObjects, one of the first enterprise web application frameworks. WebObjects never became very popular because of its initial high price of $50,000 but remains a prominent early example of a web server based on dynamic page generation rather than static content. Apple purchased NeXT on December 20, 1996 for $429 million, and much of the current Mac OS X system is built on the OPENSTEP foundation. WebObjects is now bundled with Mac OS X Server and Xcode.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       150],
+      "assets/images/resized/0007/4833/74833v2-max-150x150.jpg"],
+     [[200,
+       250],
+      "assets/images/resized/0007/4833/74833v2-max-250x250.jpg"],
+     [[361,
+       450],
+      "assets/images/resized/0007/4833/74833v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Jobs",
+      "permalink": "steve-jobs",
+      "image":
+       {"available_sizes":
+         [[[116,
+            150],
+           "assets/images/resized/0001/0974/10974v7-max-150x150.jpg"],
+          [[193,
+            250],
+           "assets/images/resized/0001/0974/10974v7-max-250x250.jpg"],
+          [[348,
+            450],
+           "assets/images/resized/0001/0974/10974v7-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "William",
+      "last_name": "Parkhusrt",
+      "permalink": "william-parkhusrt",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "7625 Hamilton Park Dr",
+    "address2": "",
+    "zip_code": "37421-1125",
+    "city": "Chattanooga",
+    "state_code": "TN",
+    "country_code": "USA",
+    "latitude": 35.0578459,
+    "longitude": -85.1354909}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

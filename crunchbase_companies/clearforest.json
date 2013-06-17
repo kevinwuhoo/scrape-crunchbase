@@ -1,0 +1,98 @@
+{"name": "ClearForest",
+ "permalink": "clearforest",
+ "crunchbase_url": "http://www.crunchbase.com/company/clearforest",
+ "homepage_url": "http://www.clearforest.com/",
+ "blog_url": "http://www.opencalais.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 100,
+ "founded_year": 1998,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "semantic-web, text-analytics, natural-language-processing, nlp, computational-linguistics",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "A Thomson Reuters Company",
+ "created_at": "Mon Oct 04 13:11:52 UTC 2010",
+ "updated_at": "Thu Oct 07 23:46:50 UTC 2010",
+ "overview": "\u003Cp\u003EClearForest is a software company that develops and markets text analytics and text mining solutions. Founded in 1998, ClearForest has its headquarters just outside of Boston and has development in Israel near Tel Aviv.\u003C/p\u003E\n\n\u003Cp\u003EClearForest was acquired by Reuters in April, 2007. It was previously venture-backed; its most recent funding round, led by Greylock Ventures, closed in 2005. Other investors include DB Capital Partners, Pitango, Walden Israel, Booz Allen, JP Morgan Partners and HarbourVest Partners.\u003C/p\u003E\n\n\u003Cp\u003EClearForest offers several hosted solutions, including:\u003C/p\u003E\n\n\u003Cp\u003EOpenCalais, a free web service and open API (for commercial and non-commercial use) that enables automatic metadata generation using the ClearForest financial module.\nSemantic Web Services (SWS) , an on-demand service that makes ClearForest\u0026#8217;s sophisticated natural language processing tools available as a standard web service. In order to allow the development community to explore the value of building innovative applications and services that leverage semantic processing, a subset of ClearForest\u0026#8217;s capabilities is available via SWS at no cost.\nGnosis, a free Firefox extension that uses SWS to analyze the content of a web page. With a single click, Gnosis will identify the people, companies, organizations, geographies and products on the page you are viewing. Gnosis also automatically processes pages from Wikipedia itself - providing additional links for people, geographies and other entities which were not explicitly linked within the subject article.\nHarvest, a real-time machine readable news service that uses SWS to process a company\u0026#8217;s news and document feeds and instantly return machine-readable information about people, companies, locations and over 200 other entities facts and events.\nClearForest also offers Text Analytics solutions targeted at specific business problems, including:\u003C/p\u003E\n\n\u003Cp\u003EImproved equity valuations for hedge funds \u0026amp; alternative investments firms\nMetadata \u0026amp; database creation for publishers and information providers/services\nTapping \u0026#8220;voice of customer\u0026#8221; for market and survey research firms\nQuality Early Warning for vehicle, capital equipment \u0026amp; durable goods manufacturers\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0010/4092/104092v2-max-150x150.png"],
+     [[200,
+       38],
+      "assets/images/resized/0010/4092/104092v2-max-250x250.png"],
+     [[200,
+       38],
+      "assets/images/resized/0010/4092/104092v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Oren",
+      "last_name": "Etzioni",
+      "permalink": "oren-etzioni",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0013/1128/131128v1-max-150x150.jpg"],
+          [[243,
+            108],
+           "assets/images/resized/0013/1128/131128v1-max-250x250.jpg"],
+          [[243,
+            108],
+           "assets/images/resized/0013/1128/131128v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Barak",
+      "last_name": "Pridor",
+      "permalink": "barak-pridor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/2495/262495v1-max-150x150.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0026/2495/262495v1-max-250x250.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0026/2495/262495v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

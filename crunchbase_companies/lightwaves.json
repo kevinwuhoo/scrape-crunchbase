@@ -1,0 +1,119 @@
+{"name": "Lightwaves",
+ "permalink": "lightwaves",
+ "crunchbase_url": "http://www.crunchbase.com/company/lightwaves",
+ "homepage_url": "http://www.lightwaves.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "hardware",
+ "number_of_employees": 15,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "home-networking, ultrawideband, any-wire",
+ "alias_list": null,
+ "email_address": "info@lightwaves.net",
+ "phone_number": "512-338-4999",
+ "description": "Any-Wire Networking with TimeFlux",
+ "created_at": "Sat Mar 07 00:20:18 UTC 2009",
+ "updated_at": "Thu Jul 28 17:10:48 UTC 2011",
+ "overview": "\u003Cp\u003ELightwaves is a communications equipment manufacturer that develops and markets products TimeFlux any-wire networking technology. TimeFlux; designed from the ground up to work on any existing wire in the home. By using existing home wiring they reduce the cost and complexity of installation for new digital service offerings such as Internet Protocol Television (IPTV).\u003C/p\u003E\n\n\u003Cp\u003EThe company is headquartered in Austin, Texas and also has operations in Cedar Rapids, Iowa\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0003/9004/39004v2-max-150x150.jpg"],
+     [[250,
+       39],
+      "assets/images/resized/0003/9004/39004v2-max-250x250.jpg"],
+     [[450,
+       70],
+      "assets/images/resized/0003/9004/39004v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "UltraJack Network Adapter",
+    "permalink": "ultrajack-network-adapter",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, CTO and Co-founder",
+    "person":
+     {"first_name": "Phil",
+      "last_name": "Kennedy",
+      "permalink": "phil-kennedy",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Operations and Co-founder",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "Gerke",
+      "permalink": "joe-gerke",
+      "image": null}},
+   {"is_past": true,
+    "title": "VP Bus. Dev. and Mktg.",
+    "person":
+     {"first_name": "Drew",
+      "last_name": "Childress",
+      "permalink": "drew-childress",
+      "image":
+       {"available_sizes":
+         [[[150,
+            106],
+           "assets/images/resized/0003/9015/39015v2-max-150x150.jpg"],
+          [[250,
+            177],
+           "assets/images/resized/0003/9015/39015v2-max-250x250.jpg"],
+          [[357,
+            253],
+           "assets/images/resized/0003/9015/39015v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Motorola Solutions",
+      "permalink": "motorola-solutions",
+      "image":
+       {"available_sizes":
+         [[[150,
+            18],
+           "assets/images/resized/0001/0857/10857v4-max-150x150.png"],
+          [[250,
+            30],
+           "assets/images/resized/0001/0857/10857v4-max-250x250.png"],
+          [[450,
+            55],
+           "assets/images/resized/0001/0857/10857v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Cedar Rapids HQ",
+    "address1": "1131 Wenig Road NE",
+    "address2": "",
+    "zip_code": "52402",
+    "city": "Cedar Rapids",
+    "state_code": "IA",
+    "country_code": "USA",
+    "latitude": 30.355259,
+    "longitude": -97.796115}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.chipcrunch.com/Blogs/Startup.Blurbs/LightWaves.the.future.is.not.wireless.html",
+    "title": "Lightwaves, Anywire Anywhere"}]}

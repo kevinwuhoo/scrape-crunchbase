@@ -1,0 +1,132 @@
+{"name": "Quotegine",
+ "permalink": "quotegine",
+ "crunchbase_url": "http://www.crunchbase.com/company/quotegine",
+ "homepage_url": "http://www.quotegine.com",
+ "blog_url": "http://www.quotegine.com/category/blog/",
+ "blog_feed_url": "",
+ "twitter_username": "quotegine",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-based-proposal-software, proposal-creator, proposal-creation-software, proposal-editor, quote-creation-software, quoting-system",
+ "alias_list": null,
+ "email_address": "chays@quotegine.com",
+ "phone_number": "248-530-1000",
+ "description": "Online Proposal Software",
+ "created_at": "Wed May 18 22:51:14 UTC 2011",
+ "updated_at": "Mon May 23 14:25:46 UTC 2011",
+ "overview": "\u003Cp\u003EQuotegine is an online tool that enables organizations to create dynamic and professional proposals. \u003C/p\u003E\n\n\u003Cp\u003EQuotegine proposals are much more powerful than a standard Word document proposal. They are easier to create, have more features, are interactive and provide trackable results. Quotegine allows for team collaboration on sales proposals as well. This tool can be used by literally any type of organization or industry.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Chambers",
+      "permalink": "paul-chambers",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Curtis",
+      "last_name": "Hays",
+      "permalink": "curtis-hays",
+      "image": null}},
+   {"is_past": false,
+    "title": "CPO",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Deyer",
+      "permalink": "ryan-deyer",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Proposable",
+      "permalink": "proposable",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0007/6824/76824v1-max-150x150.png"],
+          [[250,
+            64],
+           "assets/images/resized/0007/6824/76824v1-max-250x250.png"],
+          [[362,
+            94],
+           "assets/images/resized/0007/6824/76824v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Bidsketch",
+      "permalink": "bidsketch",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0015/2188/152188v1-max-150x150.jpg"],
+          [[250,
+            158],
+           "assets/images/resized/0015/2188/152188v1-max-250x250.jpg"],
+          [[281,
+            178],
+           "assets/images/resized/0015/2188/152188v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "QuoteRobot",
+      "permalink": "quoterobot",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0025/5093/255093v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0025/5093/255093v2-max-250x250.png"],
+          [[420,
+            420],
+           "assets/images/resized/0025/5093/255093v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Rackspace Cloud",
+      "permalink": "rackspace-cloud",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home",
+    "address1": "801 S Adams Rd",
+    "address2": "",
+    "zip_code": "48009",
+    "city": "Birmingham",
+    "state_code": "MI",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.feedmyapp.com/p/a/quotegine-com-fast-and-easy-web-based-proposals/22103",
+    "title": ""},
+   {"external_url": "http://www.mfrtech.com/articles/11014.html",
+    "title": ""}]}

@@ -1,0 +1,91 @@
+{"name": "Schnipps",
+ "permalink": "schnipps",
+ "crunchbase_url": "http://www.crunchbase.com/company/schnipps",
+ "homepage_url": "http://www.myschnipps.de",
+ "blog_url": "http://myschnipps.wordpress.com/",
+ "blog_feed_url": "",
+ "twitter_username": "myschnipps",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": 26,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "dataprivacy, addressbookmanager, privacycontrol",
+ "alias_list": null,
+ "email_address": "cosmin@schnipps.de",
+ "phone_number": "+40742626855",
+ "description": "Data privacy control platform",
+ "created_at": "Thu Sep 06 16:51:50 UTC 2012",
+ "updated_at": "Sun Sep 09 19:34:37 UTC 2012",
+ "overview": "\u003Cp\u003ESchnipps puts personal data where it belongs: into the hands of the owner. It empowers you to control where your data goes and how it is used - and it is kept in sync at all times. Access rights and data transfers are secured through an encryption scheme that even prevents us from seeing the users\u2019 data.\u003C/p\u003E\n\n\u003Cp\u003ESecret sauce\nWe guarantee absolute confidentiality of the users\u2019 data by encrypting it on the client side and never sending the password to our server. What we (or a hacker) can see there is completely meaningless bits and bytes. This only works as long as we have no need to use any of the data. This is why we believe that none of the \u201cbig boys\u201d will penetrate our market too quickly, as their business models rely on knowing a lot about their users.\u003C/p\u003E\n\n\u003Cp\u003EThe award winning MySchnipps app provides a new way to share contact data that goes beyond current smart phone address books. The app was awarded the \u201cApp of the month April 2012\u201d at telefon.de, and made it into the \u201cBEST of 2012 - Web 2.0 \u0026amp; Social\u201d of initiative-mittelstand.de - it is released for Android and iOS.\u003C/p\u003E\n\n\u003Cp\u003EMySchnipps is the Innovative Address Book and contacts manager for smartphones that gives you control of your own data.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0021/0117/210117v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0021/0117/210117v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0021/0117/210117v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Klaus",
+      "permalink": "michael-klaus",
+      "image": null}},
+   {"is_past": false,
+    "title": "CCO",
+    "person":
+     {"first_name": "Cosmin",
+      "last_name": "Ciobanu",
+      "permalink": "cosmin-ciobanu",
+      "image": null}},
+   {"is_past": false,
+    "title": "CVO",
+    "person":
+     {"first_name": "Chris.",
+      "last_name": "H. Leeb",
+      "permalink": "chris-h-leeb-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Schnipps HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Freiburg",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

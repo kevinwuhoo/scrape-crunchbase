@@ -1,0 +1,99 @@
+{"name": "Screenr",
+ "permalink": "screenr",
+ "crunchbase_url": "http://www.crunchbase.com/company/screenr",
+ "homepage_url": "http://screenr.com/",
+ "blog_url": "http://blog.screenr.com",
+ "blog_feed_url": "http://blog.screenr.com/rss",
+ "twitter_username": "Screenr",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2002,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Instant, web-based screencasts.",
+ "created_at": "Mon Aug 24 17:50:21 UTC 2009",
+ "updated_at": "Tue Apr 02 10:36:12 UTC 2013",
+ "overview": "\u003Cp\u003EInstant screencasts: Just click record\u003C/p\u003E\n\n\u003Cp\u003EScreenr\u00e2\u20ac\u2122s web-based screen recorder makes it a breeze to create and share your screencasts around the web. \u003C/p\u003E\n\n\u003Cp\u003EJust click the record button, capture your screen \u0026amp; voice, and share the link. Some people even call it fun!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0005/7487/57487v1-max-150x150.png"],
+     [[198,
+       49],
+      "assets/images/resized/0005/7487/57487v1-max-250x250.png"],
+     [[198,
+       49],
+      "assets/images/resized/0005/7487/57487v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Schwartz",
+      "permalink": "adam-schwartz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0011/2267/112267v4-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0011/2267/112267v4-max-250x250.jpg"],
+          [[450,
+            450],
+           "assets/images/resized/0011/2267/112267v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "C/O Articulate Global",
+    "address1": " 244 5th Avenue ",
+    "address2": "#2960",
+    "zip_code": "10001",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.7445883,
+    "longitude": -73.9876837}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0' width='480' height='300'\u003E\u003Cparam name='movie' value='http://cdn.screenr.com/public/1.0/flash/screenr_tour.swf' /\u003E\u003Cparam name='flashvars' value='vUrl=http://cdn.screenr.com/public/1.0/video/Screenr_1.1-560x320.mp4\u0026vDuration=52395\u0026vWidth=560\u0026vHeight=320' /\u003E\u003Cparam name='allowFullScreen' value='true' /\u003E\u003Cparam name='wmode' value='opaque' /\u003E\u003Cembed wmode='opaque' src='http://cdn.screenr.com/public/1.0/flash/screenr_tour.swf' flashvars='vUrl=http://cdn.screenr.com/public/1.0/video/Screenr_1.1-560x320.mp4\u0026vDuration=52395\u0026vWidth=560\u0026vHeight=320' allowFullScreen='true' width='480' height='300' pluginspage='http://www.macromedia.com/go/getflashplayer' \u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[117,
+        150],
+       "assets/images/resized/0013/5706/135706v4-max-150x150.png"],
+      [[195,
+        250],
+       "assets/images/resized/0013/5706/135706v4-max-250x250.png"],
+      [[351,
+        450],
+       "assets/images/resized/0013/5706/135706v4-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,123 @@
+{"name": "YelloYello",
+ "permalink": "yelloyello",
+ "crunchbase_url": "http://www.crunchbase.com/company/yelloyello",
+ "homepage_url": "http://www.yelloyello.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "local-social-search, europe, reviews",
+ "alias_list": null,
+ "email_address": "feedback@yelloyello.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Nov 19 10:17:56 UTC 2008",
+ "updated_at": "Thu Dec 15 22:16:18 UTC 2011",
+ "overview": "\u003Cp\u003EYelloYello offers a very flexible platform that enables fast creation of local social search sites. The best example is the www.yelloyello.com website.\u003C/p\u003E\n\n\u003Cp\u003EThe platform enables users to write and read reviews about anything like their favorite restaurant or worst plumber experience. Additionally the YelloYello platform offers a wide range of social networking features.\u003C/p\u003E\n\n\u003Cp\u003EThe YelloYello platform creates sites that are similar to/compete with Yelp, Citysearch, Insider Pages, Yahoo Local and formerly Judy\u00e2\u20ac\u2122s Book. However the platform itself competes with software from vendors like Local Matters.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[120,
+       150],
+      "assets/images/resized/0002/8927/28927v2-max-150x150.png"],
+     [[201,
+       250],
+      "assets/images/resized/0002/8927/28927v2-max-250x250.png"],
+     [[332,
+       412],
+      "assets/images/resized/0002/8927/28927v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Ewout",
+      "last_name": "Vonk",
+      "permalink": "ewout-vonk",
+      "image": null}},
+   {"is_past": false,
+    "title": "Partner",
+    "person":
+     {"first_name": "Mik",
+      "last_name": "Nijhuis",
+      "permalink": "mik-nijhuis",
+      "image": null}},
+   {"is_past": false,
+    "title": "Partner",
+    "person":
+     {"first_name": "Joost",
+      "last_name": "Hietbrink",
+      "permalink": "joost-hietbrink",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.fd.nl/artikel/13490165/bedrijfsverkoop-mooi-maar-bent-geen-ondernemer-meer",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2007,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 2500000.0,
+   "price_currency_code": "EUR",
+   "term_code": "cash",
+   "source_url": "http://info.truvo.com/fileadmin/downloads/downloads%20wdgroup/20090424_Truvo_FY08_Results-24_April_2009.pdf",
+   "source_description": "Truvo 2008 Annual Report (see page 29)",
+   "acquired_year": 2008,
+   "acquired_month": 12,
+   "acquired_day": 10,
+   "acquiring_company":
+    {"name": "Truvo",
+     "permalink": "truvo",
+     "image":
+      {"available_sizes":
+        [[[150,
+           50],
+          "assets/images/resized/0006/7025/67025v1-max-150x150.jpg"],
+         [[250,
+           84],
+          "assets/images/resized/0006/7025/67025v1-max-250x250.jpg"],
+         [[256,
+           87],
+          "assets/images/resized/0006/7025/67025v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "YelloYello HQ",
+    "address1": "Patrijsweg 80",
+    "address2": "",
+    "zip_code": "2289EX",
+    "city": "Rijswijk",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": 52.0277106,
+    "longitude": 4.3554664}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

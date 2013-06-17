@@ -1,0 +1,102 @@
+{"name": "Sonya Labs",
+ "permalink": "sonya-labs",
+ "crunchbase_url": "http://www.crunchbase.com/company/sonya-labs",
+ "homepage_url": "http://sonyalabs.com",
+ "blog_url": "",
+ "blog_feed_url": "feed://sonyalabs.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "founders@sonyalabs.com",
+ "phone_number": "",
+ "description": "Legal Research portal",
+ "created_at": "Mon Jun 30 16:22:27 UTC 2008",
+ "updated_at": "Thu Dec 01 07:49:25 UTC 2011",
+ "overview": "\u003Cp\u003ESonya Labs is creating a comprehensive online legal research destination.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       64],
+      "assets/images/resized/0002/1329/21329v1-max-150x150.png"],
+     [[250,
+       107],
+      "assets/images/resized/0002/1329/21329v1-max-250x250.png"],
+     [[450,
+       193],
+      "assets/images/resized/0002/1329/21329v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Rodrigo",
+      "last_name": "Guzman",
+      "permalink": "rodrigo-guzman",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.post-gazette.com/pg/08178/892651-28.stm",
+    "source_description": "Newly formed AlphaLab nurtures technology startups",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 6,
+    "funded_day": null,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "AlphaLab",
+         "permalink": "alphalab",
+         "image":
+          {"available_sizes":
+            [[[150,
+               58],
+              "assets/images/resized/0006/0041/60041v2-max-150x150.jpg"],
+             [[250,
+               97],
+              "assets/images/resized/0006/0041/60041v2-max-250x250.jpg"],
+             [[450,
+               174],
+              "assets/images/resized/0006/0041/60041v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "2325 E Carson St",
+    "address2": "",
+    "zip_code": "15203",
+    "city": "Pittsburgh",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": 40.4282777,
+    "longitude": -79.971877}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

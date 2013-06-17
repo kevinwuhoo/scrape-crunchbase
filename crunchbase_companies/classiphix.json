@@ -1,0 +1,105 @@
+{"name": "Classiphix",
+ "permalink": "classiphix",
+ "crunchbase_url": "http://www.crunchbase.com/company/classiphix",
+ "homepage_url": "http://www.Classiphix.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Classiphix",
+ "category_code": "ecommerce",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 19,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "nfc-mobile, classifieds, p2p-e-commerce",
+ "alias_list": null,
+ "email_address": "Dane@classiphix.com",
+ "phone_number": "5179201009",
+ "description": "Smarter Classifieds",
+ "created_at": "Wed Feb 01 06:21:47 UTC 2012",
+ "updated_at": "Tue Feb 07 06:28:14 UTC 2012",
+ "overview": "\u003Cp\u003EIt\u0026#8217;s all about the user experience so we\u0026#8217;re focusing on the offline experience where the safety of the shoppers can often be an issue. Unlike traditional online marketplaces, Classiphix is an intelligent P2P commerce platform that creates a safer and more reliable classified experience utilizing connectivity, confidence-building, and transaction mechanisms to enhance and protect the user experience both online and offline. Safer, Easier and Friendlier - Classifieds.\u003C/p\u003E\n\n\u003Cp\u003EPPT: http://goo.gl/CwAUB\u003C/p\u003E\n\n\u003Cp\u003EThe Classsiphix platform utilizes a  smart scheduling feature to manage offline collaboration. Using Google maps Api the Classiphix platform will suggest a public meeting location for the transaction to occur at. Using the feature the buyer and seller will get all the concert details upfront like time, meeting location, and payment method ( cash or NFC mobile). \u003C/p\u003E\n\n\u003Cp\u003EThe mobile app: \u003C/p\u003E\n\n\u003Cp\u003E1) Get where you are going\u003C/p\u003E\n\n\u003Cp\u003EOnce the buyer and seller have accepted the meeting request contact info and driving directions will be sent to your smartphone so no need to print the ad.\u003C/p\u003E\n\n\u003Cp\u003E2) Check in when you get there \u003C/p\u003E\n\n\u003Cp\u003EThe mobile app will checkin the buyer and seller (using socail media) when each party has arrived at the agreed meeting location just to let everyone know things are going according to plan. \u003C/p\u003E\n\n\u003Cp\u003E3) Pay with your phone\u003C/p\u003E\n\n\u003Cp\u003EWhen its time to buy no need to pay in cash, nfc mobile payment can be used to complete the offline P2P transaction.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Dane",
+      "last_name": "Theisen",
+      "permalink": "dane-theisen",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Criagslist",
+      "permalink": "criagslist",
+      "image": null}},
+   {"competitor":
+     {"name": "Oodle",
+      "permalink": "oodle",
+      "image":
+       {"available_sizes":
+         [[[109,
+            46],
+           "assets/images/resized/0000/3559/3559v4-max-150x150.jpg"],
+          [[109,
+            46],
+           "assets/images/resized/0000/3559/3559v4-max-250x250.jpg"],
+          [[109,
+            46],
+           "assets/images/resized/0000/3559/3559v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Ebay classifieds",
+      "permalink": "ebay-classifieds",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$15k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 15000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Chris",
+         "last_name": "Jaqulliard",
+         "permalink": "chris-jaqulliard",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Office",
+    "address1": "1205 Parkside Blvd",
+    "address2": "",
+    "zip_code": "43607",
+    "city": "Toledo",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"320\" height=\"300\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/0ULax5ES5_k?version=3\u0026amp;hl=en_US\u0026amp;rel=0\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/0ULax5ES5_k?version=3\u0026amp;hl=en_US\u0026amp;rel=0\" type=\"application/x-shockwave-flash\" width=\"320\" height=\"300\" allowscriptaccess=\"always\" allowfullscreen=\"true\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": ""}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.slideshare.net/ClassiPhix/classiphixcom-11257835",
+    "title": "Slide Share"}]}

@@ -1,0 +1,118 @@
+{"name": "Invokit",
+ "permalink": "myfacture",
+ "crunchbase_url": "http://www.crunchbase.com/company/myfacture",
+ "homepage_url": "http://www.invokit.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "invokit_app",
+ "category_code": "enterprise",
+ "number_of_employees": 8,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "contact@invokit.com",
+ "phone_number": "+ 33 (0) 811 033 888",
+ "description": "Online invoicing and CRM in the cloud",
+ "created_at": "Wed Feb 24 13:34:13 UTC 2010",
+ "updated_at": "Wed Dec 12 06:44:37 UTC 2012",
+ "overview": "\u003Cp\u003EInvokit is an online billing software and business management software. It allows entrepreneurs to make their estimates, their invoices, delivery notes, purchase orders on the Internet without additional software.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0007/8151/78151v4-max-150x150.jpg"],
+     [[250,
+       83],
+      "assets/images/resized/0007/8151/78151v4-max-250x250.jpg"],
+     [[450,
+       150],
+      "assets/images/resized/0007/8151/78151v4-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Alain",
+      "last_name": "Mevellec",
+      "permalink": "alain-mevellec",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "iScriba",
+      "permalink": "iscriba",
+      "image":
+       {"available_sizes":
+         [[[147,
+            39],
+           "assets/images/resized/0008/2635/82635v2-max-150x150.png"],
+          [[147,
+            39],
+           "assets/images/resized/0008/2635/82635v2-max-250x250.png"],
+          [[147,
+            39],
+           "assets/images/resized/0008/2635/82635v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Hosting",
+    "is_past": false,
+    "provider":
+     {"name": "Typhon",
+      "permalink": "typhon",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0011/1332/111332v2-max-150x150.png"],
+          [[176,
+            250],
+           "assets/images/resized/0011/1332/111332v2-max-250x250.png"],
+          [[318,
+            450],
+           "assets/images/resized/0011/1332/111332v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "1 rue Fleming",
+    "address2": "",
+    "zip_code": "17000",
+    "city": "La Rochelle",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 46.1489043,
+    "longitude": -1.1552236}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"430\" height=\"270\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/UEevzCCJw8Y\u0026color1=0xb1b1b1\u0026color2=0xcfcfcf\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowScriptAccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/UEevzCCJw8Y\u0026color1=0xb1b1b1\u0026color2=0xcfcfcf\u0026hl=en_US\u0026feature=player_embedded\u0026fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"430\" height=\"270\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EYoutube - Myfacture\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        128],
+       "assets/images/resized/0007/8152/78152v2-max-150x150.jpg"],
+      [[200,
+        171],
+       "assets/images/resized/0007/8152/78152v2-max-250x250.jpg"],
+      [[200,
+        171],
+       "assets/images/resized/0007/8152/78152v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

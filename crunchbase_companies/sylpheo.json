@@ -1,0 +1,80 @@
+{"name": "Sylpheo",
+ "permalink": "sylpheo",
+ "crunchbase_url": "http://www.crunchbase.com/company/sylpheo",
+ "homepage_url": "http://SYLPHEO.COM",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": 6,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "android, sfa, force-com, salesforce-com, crm, mobile-sales",
+ "alias_list": null,
+ "email_address": "peter.thomas@sylpheo.com",
+ "phone_number": "+33 625 319 053",
+ "description": "Apps for instant CRM",
+ "created_at": "Tue Sep 06 13:21:13 UTC 2011",
+ "updated_at": "Sun Sep 16 23:24:28 UTC 2012",
+ "overview": "\u003Cp\u003EOur apps increase sales calling, and make following-up each sales call instant.\u003C/p\u003E\n\n\u003Cp\u003EThe applications have Force.com embedded, and can be used as standalone apps or as a plug-in with salesforce.com\u003C/p\u003E\n\n\u003Cp\u003EThe core app is pH, which has a:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EpH core web-based app which focuses on fast sales/customer service calling, but also includes additional features - goals, tags, email-builder\u003C/li\u003E\n\u003Cli\u003ESylphone - mobile component which focuses on fast calling and follow-up\u003C/li\u003E\n\u003Cli\u003ERoadhub - car bluetooth radio app for calling and working with Salesforce.com while driving\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EThey enable companies to big productivity gains by:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Emaking sales calling fast and simple (call-chaining, to-call-cart, mobile CTI) from anywhere\u003C/li\u003E\n\u003Cli\u003Eby enabling multiple follow-up actions simultaneously with 1 click\n-updating the Salesforce.com in real-time\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EIndicators and dashboards also allow a business to track its sales/client calling performance (what works\u0026#8230;what doesn\u0026#8217;t\u0026#8230;).\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Sylphone",
+    "permalink": "sylphone",
+    "image": null},
+   {"name": "Syltab",
+    "permalink": "syltab",
+    "image": null},
+   {"name": "Waggle",
+    "permalink": "waggle",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Pierre",
+      "last_name": "Lecointre",
+      "permalink": "pierre-lecointre",
+      "image": null}},
+   {"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Thomas",
+      "permalink": "peter-thomas",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/v8wfXYPP8sI\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESylphone - call-chaining\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/kphRhliqwz4\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESylphone - to-call cart\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/c0UPDcyxZ3c\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESylphone - mobile CTI\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/BWWkk8CUqWk\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ESylphone - Call Performance Indicators\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

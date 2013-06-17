@@ -1,0 +1,77 @@
+{"name": "SquirrelMail",
+ "permalink": "squirrelmail",
+ "crunchbase_url": "http://www.crunchbase.com/company/squirrelmail",
+ "homepage_url": "http://squirrelmail.org/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue May 20 13:19:29 UTC 2008",
+ "updated_at": "Thu Dec 01 07:44:48 UTC 2011",
+ "overview": "\u003Cp\u003ESquirrelMail is a standards-based webmail package written in PHP. It includes built-in pure PHP support for the IMAP and SMTP protocols, and all pages render in pure HTML 4.0 (with no JavaScript required) for maximum compatibility across browsers. It has very few requirements and is very easy to configure and install. SquirrelMail has all the functionality you would want from an email client, including strong MIME support, address books, and folder manipulation. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0009/5790/95790v1-max-150x150.jpg"],
+     [[250,
+       72],
+      "assets/images/resized/0009/5790/95790v1-max-250x250.jpg"],
+     [[324,
+       94],
+      "assets/images/resized/0009/5790/95790v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "Atmail",
+      "permalink": "atmail",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0001/8902/18902v4-max-150x150.png"],
+          [[250,
+            117],
+           "assets/images/resized/0001/8902/18902v4-max-250x250.png"],
+          [[450,
+            211],
+           "assets/images/resized/0001/8902/18902v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

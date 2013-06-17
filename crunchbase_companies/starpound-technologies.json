@@ -1,0 +1,92 @@
+{"name": "StarPound Technologies",
+ "permalink": "starpound-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/starpound-technologies",
+ "homepage_url": "http://www.starpound.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "starpound",
+ "category_code": "public_relations",
+ "number_of_employees": 25,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "open-source, telephony, ivr, contact-center, pbx, supply-chain, mass-communication, unified-communication, voip, asterisk, freeswitch",
+ "alias_list": null,
+ "email_address": "rshoe@starpoundtech.com",
+ "phone_number": "770-375-7214",
+ "description": "Open Source Communication Engine",
+ "created_at": "Tue Feb 08 04:02:34 UTC 2011",
+ "updated_at": "Thu Feb 10 06:26:08 UTC 2011",
+ "overview": "\u003Cp\u003EStarPound Technologies is an open-source solution provider that streamlines the way businesses electronically interact, communicate and operate.  \u003C/p\u003E\n\n\u003Cp\u003EOur products and services dramatically simplify and reduce the cost of end-to-end business processes. Headquartered in Atlanta, Georgia, StarPound provides software, on-demand infrastructure and outsourcing services that enable companies to design, execute and adapt all interaction-based business processes.\u003C/p\u003E\n\n\u003Cp\u003EStarPound\u0026#8217;s software platform is the product of years of innovation. StarPound\u0026#8217;s founder, Michael McChesney was also the founder of S1 Corp. (NASDAQ: SONE), a pioneer in customer interaction software for the banking industry. From his work at S1, he knew that the next step to improve the customer experience was to fully integrate communications, business processes and the Web.\u003C/p\u003E\n\n\u003Cp\u003EThe StarPound platform itself had its humble beginnings back in the late 1990s when its principal technologists first started developing \u0026#8220;MDE\u0026#8221;, the first model-driven development engine for the now popular Eclipse IDE.   Pioneers in the field of MDA (model-driven architecture) and \u0026#8220;metaprogramming\u0026#8221;, the team continued to evolve this incredibly efficient method of application development.\u003C/p\u003E\n\n\u003Cp\u003EThe outcome was an open source development platform that can achieve enormous time savings in the development of enterprise applications, web services, and converged/composite applications. The StarPound platform is now ready to help companies integrate their customer-facing business applications - from enterprise contact centers and online marketplaces, to search portals, virtual worlds and enterprise applications.\nOur Commitment to Open Source\u003C/p\u003E\n\n\u003Cp\u003EAt StarPound Technologies, we believe that software is fundamentally a services business. That\u0026#8217;s the way it should be. That\u0026#8217;s why we released StarPound to the open source community (under a dual-license policy). We believe that StarPound will flourish as an open platform for building voice and data applications to compete with expensive, proprietary solutions.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "McChesney",
+      "permalink": "michael-mcchesney",
+      "image": null}},
+   {"is_past": true,
+    "title": "COO",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Burkett",
+      "permalink": "scott-burkett",
+      "image": null}},
+   {"is_past": true,
+    "title": "Vice President",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Shoe",
+      "permalink": "robert-shoe",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Wei",
+      "last_name": "Wang",
+      "permalink": "wei-wang",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "5871 Glenridge Drive",
+    "address2": "Suite 300",
+    "zip_code": "30328",
+    "city": "Atlanta",
+    "state_code": "GA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://aws.amazon.com/solutions/case-studies/starpound/",
+    "title": "AWS Case Study"},
+   {"external_url": "http://www.free-press-release.com/news-dhl-logistics-chooses-starpound-technologies-to-power-unified-voice-data-solutions-1296514127.html",
+    "title": "DHL Press Release"},
+   {"external_url": "http://www.worldmarketmedia.com/1876/section.aspx/4631404/starpound-technologies-announces-new-partnership-with-cirrugistics-bringing-on-demand-logistics-solutions-to-third-party-logistics-providers-3pls",
+    "title": "Cirrugistics Announcement"}]}

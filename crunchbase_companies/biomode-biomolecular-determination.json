@@ -1,0 +1,196 @@
+{"name": "Biomode - Biomolecular Determination",
+ "permalink": "biomode-biomolecular-determination",
+ "crunchbase_url": "http://www.crunchbase.com/company/biomode-biomolecular-determination",
+ "homepage_url": "http://www.facebook.com/biomode",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "biotech",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 12,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "biomolecular-diagnostics, food-safety, pna-fish, salmonella, listeria, e-coli",
+ "alias_list": null,
+ "email_address": "info@biomode-sa.com",
+ "phone_number": "+351253540194",
+ "description": "PNA-FISH microbial detection",
+ "created_at": "Tue Mar 12 15:58:40 UTC 2013",
+ "updated_at": "Tue Mar 12 16:02:33 UTC 2013",
+ "overview": "\u003Cp\u003EBiomode is a startup venture based in Caldas das Taipas (Portugal) that aims to be a leading provider of rapid and accurate molecular diagnostic tests for identification of pathogens in the food, environment and life science industries.\nBiomode\u2019s diagnostic kits are based on the PNA-FISH (Peptide Nucleic Acid Fluorescence In Situ Hybridisation) technology.\nBiomode\u2019s founders are a group of researchers from the universities of Minho and Porto (Portugal) that is one of the few worldwide research groups with the skills to design PNA-FISH probes targeting specific pathogens.\nBiomode will enter the food industry diagnostics market with a kit for detecting Salmonella in food samples (Probe4Salmonella\u00ae) soon to be followed by two other kits for the detection of Listeria monocytogenes and E. coli O157:H7. On the clinical diagnostics area, Biomode has already developed a kit aimed at the rapid identification of clarithromycin resistance of H. Pylori strains (Probe4Pylori\u00ae) that is in the process of obtaining investigational device exemption from the Food and Drug Administration (FDA) in order to undergo field trials. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       55],
+      "assets/images/resized/0024/1940/241940v2-max-150x150.jpg"],
+     [[250,
+       91],
+      "assets/images/resized/0024/1940/241940v2-max-250x250.jpg"],
+     [[450,
+       165],
+      "assets/images/resized/0024/1940/241940v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Pedro",
+      "last_name": "Vilarinho",
+      "permalink": "pedro-vilarinho-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "CSO",
+    "person":
+     {"first_name": "Laura",
+      "last_name": "Cerqueria",
+      "permalink": "laura-cerqueria",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "AdvanDx",
+      "permalink": "advandx",
+      "image":
+       {"available_sizes":
+         [[[150,
+            32],
+           "assets/images/resized/0006/2552/62552v2-max-150x150.jpg"],
+          [[250,
+            53],
+           "assets/images/resized/0006/2552/62552v2-max-250x250.jpg"],
+          [[450,
+            96],
+           "assets/images/resized/0006/2552/62552v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SDIX",
+      "permalink": "sdix",
+      "image": null}},
+   {"competitor":
+     {"name": "Becton Dickinson",
+      "permalink": "becton-dickinson",
+      "image":
+       {"available_sizes":
+         [[[106,
+            66],
+           "assets/images/resized/0006/1983/61983v1-max-150x150.png"],
+          [[106,
+            66],
+           "assets/images/resized/0006/1983/61983v1-max-250x250.png"],
+          [[106,
+            66],
+           "assets/images/resized/0006/1983/61983v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "bioMerieux",
+      "permalink": "biomerieux",
+      "image": null}},
+   {"competitor":
+     {"name": "Bio-Rad Laboratories",
+      "permalink": "bio-rad-laboratories",
+      "image":
+       {"available_sizes":
+         [[[115,
+            44],
+           "assets/images/resized/0007/4723/74723v1-max-150x150.jpg"],
+          [[115,
+            44],
+           "assets/images/resized/0007/4723/74723v1-max-250x250.jpg"],
+          [[115,
+            44],
+           "assets/images/resized/0007/4723/74723v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Parexel International",
+      "permalink": "parexel-international",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "PWC",
+      "permalink": "pwc",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Panagene",
+      "permalink": "panagene",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Moorfields Pharmaceutical",
+      "permalink": "moorfields-pharmaceutical",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Clarke, Modett \u0026 Co",
+      "permalink": "clarke-modett-co",
+      "image": null}},
+   {"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Cooper \u0026 Dunham",
+      "permalink": "cooper-dunham",
+      "image": null}}],
+ "total_money_raised": "\u20ac300k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.portugalventures.pt/en/news/biomode-develops-innovative-diagnosis-kit.html",
+    "source_description": "",
+    "raised_amount": 300000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2010,
+    "funded_month": 12,
+    "funded_day": 20,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "InovCapital",
+         "permalink": "inovcapital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               56],
+              "assets/images/resized/0006/1374/61374v1-max-150x150.png"],
+             [[244,
+               92],
+              "assets/images/resized/0006/1374/61374v1-max-250x250.png"],
+             [[244,
+               92],
+              "assets/images/resized/0006/1374/61374v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "SpinPark Centro de Incuba\u00e7\u00e3o de Base Tecnol\u00f3gica",
+    "address2": "AvePark - Z.I. Gandra",
+    "zip_code": "4806-909 Caldas das Taipas",
+    "city": "Guimar\u00e3es",
+    "state_code": null,
+    "country_code": "PRT",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

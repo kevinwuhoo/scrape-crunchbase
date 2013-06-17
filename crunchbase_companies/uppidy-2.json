@@ -1,0 +1,171 @@
+{"name": "Uppidy",
+ "permalink": "uppidy-2",
+ "crunchbase_url": "http://www.crunchbase.com/company/uppidy-2",
+ "homepage_url": "https://app.uppidy.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "UppidyApp",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Nov 09 15:10:44 UTC 2011",
+ "updated_at": "Sun Jun 16 07:42:16 UTC 2013",
+ "overview": "\u003Cp\u003EUppidy Inc., a Reston, Va.-based mobile sharing, search and storage technology company.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0021/4957/214957v1-max-150x150.png"],
+     [[175,
+       51],
+      "assets/images/resized/0021/4957/214957v1-max-250x250.png"],
+     [[175,
+       51],
+      "assets/images/resized/0021/4957/214957v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co - Founder \u0026 CEO",
+    "person":
+     {"first_name": "Joshua",
+      "last_name": "M. Konowe",
+      "permalink": "joshua-m-konowe",
+      "image":
+       {"available_sizes":
+         [[[93,
+            150],
+           "assets/images/resized/0027/5675/275675v1-max-150x150.jpg"],
+          [[155,
+            250],
+           "assets/images/resized/0027/5675/275675v1-max-250x250.jpg"],
+          [[174,
+            279],
+           "assets/images/resized/0027/5675/275675v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Jonathon",
+      "last_name": "Perrelli",
+      "permalink": "jonathon-perrelli",
+      "image":
+       {"available_sizes":
+         [[[128,
+            150],
+           "assets/images/resized/0014/5344/145344v2-max-150x150.jpg"],
+          [[214,
+            250],
+           "assets/images/resized/0014/5344/145344v2-max-250x250.jpg"],
+          [[385,
+            450],
+           "assets/images/resized/0014/5344/145344v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Rudnev",
+      "permalink": "alex-rudnev",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$600k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2013/03/20/uppidy-for-android-now-backs-up-sms-photos-video-to-the-cloud-raises-600k-in-seed-funding/",
+    "source_description": "Uppidy Raises $600K in Funding",
+    "raised_amount": 600000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 3,
+    "funded_day": 20,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Band of Angels",
+         "permalink": "band-of-angels",
+         "image":
+          {"available_sizes":
+            [[[133,
+               79],
+              "assets/images/resized/0002/2895/22895v1-max-150x150.jpg"],
+             [[133,
+               79],
+              "assets/images/resized/0002/2895/22895v1-max-250x250.jpg"],
+             [[133,
+               79],
+              "assets/images/resized/0002/2895/22895v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "New Vantage Group",
+         "permalink": "new-vantage-group",
+         "image":
+          {"available_sizes":
+            [[[150,
+               32],
+              "assets/images/resized/0008/4799/84799v1-max-150x150.jpg"],
+             [[250,
+               54],
+              "assets/images/resized/0008/4799/84799v1-max-250x250.jpg"],
+             [[273,
+               60],
+              "assets/images/resized/0008/4799/84799v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Fortify Ventures",
+         "permalink": "fortify-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               66],
+              "assets/images/resized/0014/4766/144766v5-max-150x150.jpg"],
+             [[250,
+               111],
+              "assets/images/resized/0014/4766/144766v5-max-250x250.jpg"],
+             [[450,
+               200],
+              "assets/images/resized/0014/4766/144766v5-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Paul",
+         "last_name": "Silber",
+         "permalink": "paul-silber",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

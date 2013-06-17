@@ -1,0 +1,211 @@
+{"name": "HEXIO",
+ "permalink": "hexio",
+ "crunchbase_url": "http://www.crunchbase.com/company/hexio",
+ "homepage_url": "http://hex.io",
+ "blog_url": "http://b.hex.io",
+ "blog_feed_url": "http://hex.io/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "i@hex.io",
+ "phone_number": "207-467-6354",
+ "description": "Data Mining",
+ "created_at": "Wed Feb 13 17:50:59 UTC 2008",
+ "updated_at": "Tue Jun 30 22:24:29 UTC 2009",
+ "overview": "\u003Cp\u003EHEXIO is a data mining service extending the utility of link-shortening into business intelligence.\u003C/p\u003E\n\n\u003Cp\u003EHEXIO\u0026#8217;s Crush uses Amazon\u0026#8217;s EC2, SQS and SimpleDB infrastructure.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0001/2028/12028v1-max-150x150.png"],
+     [[193,
+       79],
+      "assets/images/resized/0001/2028/12028v1-max-250x250.png"],
+     [[193,
+       79],
+      "assets/images/resized/0001/2028/12028v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": null,
+    "title": "",
+    "person":
+     {"first_name": "Bob",
+      "last_name": "Stewart",
+      "permalink": "bob-stewart",
+      "image":
+       {"available_sizes":
+         [[[97,
+            96],
+           "assets/images/resized/0005/1305/51305v2-max-150x150.jpg"],
+          [[97,
+            96],
+           "assets/images/resized/0005/1305/51305v2-max-250x250.jpg"],
+          [[97,
+            96],
+           "assets/images/resized/0005/1305/51305v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EBob Stewart / \u003Ca href=\"http://www.bobstewart.com\" title=\"Bob Stewart\" rel=\"nofollow\"\u003EBob Stewart\u003C/a\u003E\u003C/p\u003E"}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "bitly",
+      "permalink": "bitly-2",
+      "image":
+       {"available_sizes":
+         [[[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-150x150.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-250x250.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TinyURL",
+      "permalink": "tinyurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0001/9075/19075v1-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0001/9075/19075v1-max-250x250.png"],
+          [[401,
+            62],
+           "assets/images/resized/0001/9075/19075v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Digg",
+      "permalink": "digg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/4138/4138v5-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0000/4138/4138v5-max-250x250.jpg"],
+          [[280,
+            280],
+           "assets/images/resized/0000/4138/4138v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "urlBorg",
+      "permalink": "urlborg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0001/9295/19295v2-max-150x150.png"],
+          [[191,
+            59],
+           "assets/images/resized/0001/9295/19295v2-max-250x250.png"],
+          [[191,
+            59],
+           "assets/images/resized/0001/9295/19295v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "urlShort",
+      "permalink": "urlshort",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0004/1603/41603v1-max-150x150.png"],
+          [[250,
+            67],
+           "assets/images/resized/0004/1603/41603v1-max-250x250.png"],
+          [[438,
+            118],
+           "assets/images/resized/0004/1603/41603v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "su.pr",
+      "permalink": "su-pr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0005/6902/56902v1-max-150x150.png"],
+          [[157,
+            49],
+           "assets/images/resized/0005/6902/56902v1-max-250x250.png"],
+          [[157,
+            49],
+           "assets/images/resized/0005/6902/56902v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "EC2 S3 SQS SDB",
+    "is_past": null,
+    "provider":
+     {"name": "Amazon Web Services",
+      "permalink": "amazon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0002/3938/23938v1-max-150x150.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-250x250.png"],
+          [[170,
+            69],
+           "assets/images/resized/0002/3938/23938v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Personal",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 10,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Bob",
+         "last_name": "Stewart",
+         "permalink": "bob-stewart-2",
+         "image": null}}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "154 Alfred Road",
+    "address2": "",
+    "zip_code": "04043",
+    "city": "Kennebunk",
+    "state_code": "ME",
+    "country_code": "USA",
+    "latitude": 43.407099,
+    "longitude": -70.5745187}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://b.hex.io",
+    "title": "blog"},
+   {"external_url": "http://w.hex.io",
+    "title": "wiki"}]}

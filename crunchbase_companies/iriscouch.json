@@ -1,0 +1,104 @@
+{"name": "Iriscouch",
+ "permalink": "iriscouch",
+ "crunchbase_url": "http://www.crunchbase.com/company/iriscouch",
+ "homepage_url": "http://iriscouch.com",
+ "blog_url": "http://www.iriscouch.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "iriscouch",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "support@iriscouch.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri May 24 03:07:32 UTC 2013",
+ "updated_at": "Fri May 24 03:31:10 UTC 2013",
+ "overview": "\u003Cp\u003EIris Couch seeks to answer the question: Wait, why isn\u2019t everyone using CouchDB?\u003C/p\u003E\n\n\u003Cp\u003EWe continue the hosting service originated at CouchOne, now Couchbase. We provide infrastructure as a service\u003C/p\u003E\n\n\u003Cp\u003E\u0026#8220;Iris Couch serves two core needs for the Apache CouchDB communities: getting started easily and not having to worry about operations.\u0026#8221; said Jan Lehnardt, project management committee chair of the Apache CouchDB project, \u0026#8220;On top of that, Iris Couch is a valued member of the Apache CouchDB Core Developer group and provides insights into operational issues, that we can improve on the software side. Apache CouchDB is better off with Iris Couch.\u0026#8221;\u003C/p\u003E\n\n\u003Cp\u003EIn addition to Iris Couch\u2019s Database-as-a-Service, Nodejitsu is acquiring Iris Couch\u2019s Enterprise npm products and services. Package management simplifies developer workflows and distribution of both server-side and client-side software. As the host of the public npm registry, Iris Couch has expertise in scaling npm for companies using node.js and IaaS providers alike.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0026/6228/266228v1-max-150x150.png"],
+     [[219,
+       74],
+      "assets/images/resized/0026/6228/266228v1-max-250x250.png"],
+     [[219,
+       74],
+      "assets/images/resized/0026/6228/266228v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "https://www.nodejitsu.com/company/press/2013/05/22/iriscouch/?utm_source=buffer\u0026utm_medium=twitter\u0026utm_campaign=Buffer\u0026utm_content=buffer5cfe7",
+   "source_description": "Nodejitsu acquires Iris Couch to expand Enterprise and Public Cloud products.",
+   "acquired_year": 2013,
+   "acquired_month": 5,
+   "acquired_day": 22,
+   "acquiring_company":
+    {"name": "Nodejitsu",
+     "permalink": "nodejitsu",
+     "image":
+      {"available_sizes":
+        [[[150,
+           50],
+          "assets/images/resized/0011/4587/114587v5-max-150x150.jpg"],
+         [[177,
+           59],
+          "assets/images/resized/0011/4587/114587v5-max-250x250.jpg"],
+         [[177,
+           59],
+          "assets/images/resized/0011/4587/114587v5-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "301 Hapsburg Ln.",
+    "address2": "",
+    "zip_code": "70506",
+    "city": "Lafayette",
+    "state_code": "LA",
+    "country_code": "USA",
+    "latitude": 30.146353,
+    "longitude": -92.109307}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        114],
+       "assets/images/resized/0026/6227/266227v1-max-150x150.png"],
+      [[250,
+        191],
+       "assets/images/resized/0026/6227/266227v1-max-250x250.png"],
+      [[450,
+        344],
+       "assets/images/resized/0026/6227/266227v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

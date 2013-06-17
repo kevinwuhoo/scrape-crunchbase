@@ -1,0 +1,114 @@
+{"name": "Negonation",
+ "permalink": "negonation",
+ "crunchbase_url": "http://www.crunchbase.com/company/negonation",
+ "homepage_url": "http://www.negonation.com",
+ "blog_url": "http://blog.negonation.com/en/",
+ "blog_feed_url": "http://blog.negonation.com/en/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "legal-services, identification, verification, design",
+ "alias_list": null,
+ "email_address": "talento@negonation.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Wed Aug 15 05:39:17 UTC 2007",
+ "updated_at": "Sat May 24 00:02:26 UTC 2008",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.negonation.com/\" title=\"Negonation\" rel=\"nofollow\"\u003ENegonation\u003C/a\u003E is a Spanish startup that is using advanced identification verification to create a one-touch system to hand the life-cycle of a contract. Combing hardware smart coder readers, Spain\u0026#8217;s national ID card, and their software,Tractis,  the system is being leveraged to provide a full range of identification and legal services, online. Once users sign up, they will be able to conduct contracting without the need of a lawyer. Additionally, similar to the United States, digitally signed contracts in Spain are legally binding, meaning that the contracts created by tractis are fully legal. As a final security measure, Negonation offers a guarantee against fraudulent transactions similar to credit card companies. \u003C/p\u003E\n\n\u003Cp\u003EThe largest single provider of online contracting is Ebay,  although the contracts are exclusively for its auction and sales services. Through its ranking of individuals and Paypal division, Ebay provides the kind of service that Tractis seeks to do, but only for one type of transaction. Similarly, other services let individuals verify themselves and rate others based on trustworthiness, and digitally sign documents. These discrete services are provided by \u003Ca href=\"/company/RSA\" title=\"RSA\" rel=\"nofollow\"\u003ERSA\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/truste\" title=\"Truste\"\u003ETruste\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/echosign\" title=\"Echosign\"\u003EEchosign\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/Ikarma\" title=\"Ikarma\"\u003EIkarma\u003C/a\u003E. However, Tractis is the first to offer a turn-key legal solution.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       46],
+      "assets/images/resized/0000/4294/4294v1-max-150x150.png"],
+     [[195,
+       60],
+      "assets/images/resized/0000/4294/4294v1-max-250x250.png"],
+     [[195,
+       60],
+      "assets/images/resized/0000/4294/4294v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Tractis",
+    "permalink": "tractis",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "CEO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Blanco",
+      "permalink": "david-blanco",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Creative Officer",
+    "person":
+     {"first_name": "Diego",
+      "last_name": "Lafuente",
+      "permalink": "diego-lafuente",
+      "image": null}},
+   {"is_past": null,
+    "title": "CTO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Garc\u00c3\u00ada",
+      "permalink": "david-garca",
+      "image": null}},
+   {"is_past": null,
+    "title": "Software Engineer",
+    "person":
+     {"first_name": "Ernesto",
+      "last_name": "J\u00c3\u00admenez Caballero",
+      "permalink": "ernesto-jmenez-caballero",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Acendi Interactive",
+      "permalink": "acendi-interactive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            19],
+           "assets/images/resized/0001/5783/15783v1-max-150x150.png"],
+          [[250,
+            32],
+           "assets/images/resized/0001/5783/15783v1-max-250x250.png"],
+          [[450,
+            58],
+           "assets/images/resized/0001/5783/15783v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": 40.463667,
+    "longitude": -3.74922}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

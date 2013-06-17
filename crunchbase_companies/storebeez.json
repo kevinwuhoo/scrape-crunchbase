@@ -1,0 +1,180 @@
+{"name": "StoreBeez",
+ "permalink": "storebeez",
+ "crunchbase_url": "http://www.crunchbase.com/company/storebeez",
+ "homepage_url": "http://www.storebeez.com",
+ "blog_url": "http://blog.storebeez.com",
+ "blog_feed_url": "http://blog.storebeez.com/feed",
+ "twitter_username": "storebeez",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "e-commerce",
+ "alias_list": null,
+ "email_address": "tudor@storebeez.com",
+ "phone_number": "+44 121 250 5780",
+ "description": "Virtual mall for independent artisans",
+ "created_at": "Sat Jul 16 21:54:28 UTC 2011",
+ "updated_at": "Wed Jan 04 04:33:02 UTC 2012",
+ "overview": "\u003Cp\u003EStoreBeez is a virtual mall focused on helping small businesses and artisans take their offline business online by providing them with a free online store and free marketing.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0014/4807/144807v2-max-150x150.png"],
+     [[250,
+       59],
+      "assets/images/resized/0014/4807/144807v2-max-250x250.png"],
+     [[420,
+       100],
+      "assets/images/resized/0014/4807/144807v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Tudor",
+      "last_name": "Barbu",
+      "permalink": "tudor-barbu",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Cosmin",
+      "last_name": "Nicula",
+      "permalink": "cosmin-nicula",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Circei",
+      "permalink": "alex-circei",
+      "image":
+       {"available_sizes":
+         [[[150,
+            108],
+           "assets/images/resized/0005/8889/58889v2-max-150x150.jpg"],
+          [[250,
+            180],
+           "assets/images/resized/0005/8889/58889v2-max-250x250.jpg"],
+          [[286,
+            207],
+           "assets/images/resized/0005/8889/58889v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Erol",
+      "last_name": "Abzait",
+      "permalink": "erol-abzait",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Mihai",
+      "last_name": "Anghel",
+      "permalink": "mihai-anghel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "eBay",
+      "permalink": "ebay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/3625/3625v1-max-150x150.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-250x250.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Etsy",
+      "permalink": "etsy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            81],
+           "assets/images/resized/0000/2839/2839v7-max-150x150.png"],
+          [[234,
+            127],
+           "assets/images/resized/0000/2839/2839v7-max-250x250.png"],
+          [[234,
+            127],
+           "assets/images/resized/0000/2839/2839v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Boticca.com Limited",
+      "permalink": "boticca-com-limited",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0010/7821/107821v1-max-150x150.png"],
+          [[250,
+            62],
+           "assets/images/resized/0010/7821/107821v1-max-250x250.png"],
+          [[317,
+            79],
+           "assets/images/resized/0010/7821/107821v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Notonthehighstreet",
+      "permalink": "notonthehighstreet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0009/5763/95763v2-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0009/5763/95763v2-max-250x250.png"],
+          [[299,
+            106],
+           "assets/images/resized/0009/5763/95763v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Folksy",
+      "permalink": "folksy",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "StoreBeez HQ",
+    "address1": "Faraday Wharf, Holt Street,  Birmingham, England, UK",
+    "address2": "",
+    "zip_code": "B7 4BB",
+    "city": "Birmingham",
+    "state_code": null,
+    "country_code": "ROM",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/32423369?title=0\u0026amp;byline=0\u0026amp;portrait=0\" width=\"400\" height=\"225\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E\u003Cp\u003E\u003Ca href=\"http://vimeo.com/32423369\"\u003EStoreBeez.com\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/user7456419\"\u003EStoreBeez\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EStoreBeez\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

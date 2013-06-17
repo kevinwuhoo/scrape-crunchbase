@@ -1,0 +1,88 @@
+{"name": "AppGlu",
+ "permalink": "appglu",
+ "crunchbase_url": "http://www.crunchbase.com/company/appglu",
+ "homepage_url": "http://appglu.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "appglu",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-application-platform, mobile-enterprise-application-platform, platform-as-a-service, meap, madp, paas, baas, mbaas",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "415-457-1111",
+ "description": "mobile app platform",
+ "created_at": "Wed Jan 30 23:12:38 UTC 2013",
+ "updated_at": "Sat Mar 16 22:22:47 UTC 2013",
+ "overview": "\u003Cp\u003EAppGlu is a new mobile application platform that helps companies build their apps faster and manage them better after launch.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0023/2663/232663v2-max-150x150.png"],
+     [[250,
+       76],
+      "assets/images/resized/0023/2663/232663v2-max-250x250.png"],
+     [[450,
+       137],
+      "assets/images/resized/0023/2663/232663v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Founder",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Fingerman",
+      "permalink": "adam-fingerman",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO \u0026 Founder",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "N. Shapiro",
+      "permalink": "eric-n-shapiro",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "340 Brannan St. #300",
+    "address2": "",
+    "zip_code": "94107",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://fast.wistia.net/embed/iframe/0bx5o6ytws?controlsVisibleOnLoad=true\u0026version=v1\u0026videoHeight=253\u0026videoWidth=450\u0026volumeControl=true\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" class=\"wistia_embed\" name=\"wistia_embed\" width=\"450\" height=\"253\"\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EAppGlu Control Center\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.insidemobileapps.com/2013/03/04/appglu-platform-aims-to-help-mobile-app-developers-and-business-people-with-speeding-up-development-time-and-post-launch-operations/",
+    "title": "Inside Mobile Apps"},
+   {"external_url": "http://venturebeat.com/2013/03/15/how-appglu-plans-to-remove-all-the-post-launch-stress-from-developers-lives/",
+    "title": "VentureBeat"}]}

@@ -1,0 +1,120 @@
+{"name": "CaterCow",
+ "permalink": "catercow",
+ "crunchbase_url": "http://www.crunchbase.com/company/catercow",
+ "homepage_url": "https://www.catercow.com",
+ "blog_url": "http://catercow.blogspot.com/",
+ "blog_feed_url": "",
+ "twitter_username": "catercow",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "catering, food, chefs, cooking, marketplace",
+ "alias_list": null,
+ "email_address": "support@catercow.com",
+ "phone_number": "7322992037",
+ "description": "Book Catering Online",
+ "created_at": "Tue Aug 28 00:38:22 UTC 2012",
+ "updated_at": "Fri Nov 16 00:22:14 UTC 2012",
+ "overview": "\u003Cp\u003ECaterCow.com is a marketplace to find and book catering alternatives. Order hors d\u2019oeuvres from a local restaurant, buy an artisanal lunch for your office, rent a food truck for the day, or hire a private oyster shucker for your next event. Each fairly priced package can be booked online without the frustrating back and forth of traditional catering.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0020/8423/208423v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0020/8423/208423v2-max-250x250.jpg"],
+     [[450,
+       450],
+      "assets/images/resized/0020/8423/208423v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Carly",
+      "last_name": "Chamberlain",
+      "permalink": "carly-chamberlain",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Collins",
+      "permalink": "chris-collins-4",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0016/5457/165457v6-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0016/5457/165457v6-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0016/5457/165457v6-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EChris Collins\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$25k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/06/04/entrepreneurs-roundtable-accelerator-summer-2012/",
+    "source_description": "Meet The Next 10 Startups To Join NYC-Based Entrepreneurs Roundtable Accelerator ",
+    "raised_amount": 25000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 6,
+    "funded_day": 4,
+    "investments":
+     [{"company":
+        {"name": "Entrepreneurs Roundtable Accelerator",
+         "permalink": "er-accelerator",
+         "image":
+          {"available_sizes":
+            [[[143,
+               150],
+              "assets/images/resized/0012/4909/124909v2-max-150x150.png"],
+             [[239,
+               250],
+              "assets/images/resized/0012/4909/124909v2-max-250x250.png"],
+             [[431,
+               450],
+              "assets/images/resized/0012/4909/124909v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "New York Office",
+    "address1": "1500 Broadway, Suite 802",
+    "address2": "",
+    "zip_code": "10036",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

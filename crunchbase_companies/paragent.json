@@ -1,0 +1,104 @@
+{"name": "Paragent",
+ "permalink": "paragent",
+ "crunchbase_url": "http://www.crunchbase.com/company/paragent",
+ "homepage_url": "http://paragent.com/",
+ "blog_url": "http://paragent.com/blog",
+ "blog_feed_url": "http://paragent.com/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "enterprise",
+ "number_of_employees": 4,
+ "founded_year": 2003,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "saas, remote, desktop, management, msp, web-based, hosted",
+ "alias_list": null,
+ "email_address": "jcheesman@paragent.com",
+ "phone_number": "(765) 286-8384",
+ "description": null,
+ "created_at": "Mon Jul 07 16:53:38 UTC 2008",
+ "updated_at": "Wed Feb 18 20:18:21 UTC 2009",
+ "overview": "\u003Cp\u003EParagent is an innovator of remote IT management tools.  Its web-based product is designed for managed service providers who need cost-effective remote management capability plus features such as software/hardware inventory, alerting, help desk, software compliance, warranty  tracking, etc. without requiring formal training. The company differentiates itself by price and usability.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0002/1521/21521v1-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0002/1521/21521v1-max-250x250.png"],
+     [[387,
+       97],
+      "assets/images/resized/0002/1521/21521v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Paragent.com",
+    "permalink": "paragent-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Architect, Founder",
+    "person":
+     {"first_name": "Tim",
+      "last_name": "Ritchey",
+      "permalink": "tim-ritchey",
+      "image": null}},
+   {"is_past": false,
+    "title": "CEO, Founder",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Cheesman",
+      "permalink": "jeff-cheesman",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chairman",
+    "person":
+     {"first_name": "Jeff",
+      "last_name": "Ready",
+      "permalink": "jeff-ready",
+      "image":
+       {"available_sizes":
+         [[[65,
+            150],
+           "assets/images/resized/0007/9570/79570v1-max-150x150.jpg"],
+          [[109,
+            250],
+           "assets/images/resized/0007/9570/79570v1-max-250x250.jpg"],
+          [[161,
+            366],
+           "assets/images/resized/0007/9570/79570v1-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EScale Computing\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Muncie, USA",
+    "address1": "500 S. Celia Ave.",
+    "address2": "",
+    "zip_code": "47303",
+    "city": "Muncie",
+    "state_code": "IN",
+    "country_code": "USA",
+    "latitude": 40.1899111,
+    "longitude": -85.4153237}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

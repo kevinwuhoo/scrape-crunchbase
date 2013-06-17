@@ -1,0 +1,86 @@
+{"name": "Member Desk",
+ "permalink": "member-desk",
+ "crunchbase_url": "http://www.crunchbase.com/company/member-desk",
+ "homepage_url": "http://www.memberdesk.com/",
+ "blog_url": "http://www.memberdesk.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "memberdesk",
+ "category_code": "ecommerce",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": 14,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "leon@memberdesk.com",
+ "phone_number": "602-481-9661",
+ "description": "Shopify for digital products.",
+ "created_at": "Tue Jul 26 23:05:52 UTC 2011",
+ "updated_at": "Wed Jul 27 21:38:53 UTC 2011",
+ "overview": "\u003Cp\u003EMember Desk is a web-based content management and eCommerce platform that makes it easy to create and host membership websites and sell access to the private areas.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       23],
+      "assets/images/resized/0014/6303/146303v2-max-150x150.png"],
+     [[250,
+       38],
+      "assets/images/resized/0014/6303/146303v2-max-250x250.png"],
+     [[394,
+       61],
+      "assets/images/resized/0014/6303/146303v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Leon",
+      "last_name": "Klepfish",
+      "permalink": "leon-klepfish-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.azcentral.com/business/articles/2011/06/24/20110624arizona-tech-startups-incubator.html",
+    "source_description": "http://www.azdisruptors.com/blog/2011/6/20/az-disruptor-companies-announced.html",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 6,
+    "funded_day": 14,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Main Office",
+    "address1": "610 E Bell Rd #2-318",
+    "address2": "",
+    "zip_code": "85022",
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

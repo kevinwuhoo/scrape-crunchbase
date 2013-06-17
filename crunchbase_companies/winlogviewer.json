@@ -1,0 +1,78 @@
+{"name": "WinLogViewer",
+ "permalink": "winlogviewer",
+ "crunchbase_url": "http://www.crunchbase.com/company/winlogviewer",
+ "homepage_url": "http://www.winlogviewer.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "win, log, viewer, solution, ease, monitor, multiple, servers",
+ "alias_list": null,
+ "email_address": "m.gord@cetrine.net",
+ "phone_number": "6473773489",
+ "description": "Simplifies monitoring multiple servers",
+ "created_at": "Sat Jan 19 22:06:54 UTC 2013",
+ "updated_at": "Thu Feb 28 04:03:35 UTC 2013",
+ "overview": "\u003Cp\u003EWinLogViewer reports back to the user if a hard drive is about to run out of space or fail, sends an alert when hackers are trying to break in and stores the data in one place so that people don\u2019t have to spend hours glued to servers. \u003C/p\u003E\n\n\u003Cp\u003EImagine how devastating it would be to online based companies who have one of their servers crash in the middle of the night. The company would lose hours of business before they finally discovered the malfunction. Imagine being able to monitor all company servers quickly, and in an organized method with highlighted events that the manager should be especially aware of. Now imagine if there was no need to imagine this possibility, as it has become a reality. \u003C/p\u003E\n\n\u003Cp\u003EOnce we realised that the trick lay in monitoring event logs constantly, we decided to create a  service that does exactly that. With WinLogViewer, users can set up 24/7 notifications, get regular email reports and set up user or client groups for specific systems.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0023/0579/230579v2-max-150x150.jpg"],
+     [[199,
+       34],
+      "assets/images/resized/0023/0579/230579v2-max-250x250.jpg"],
+     [[199,
+       34],
+      "assets/images/resized/0023/0579/230579v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Sergey",
+      "last_name": "Storm",
+      "permalink": "sergey-storm",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "London Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2013/01/28/winlogviewer-observe-windows-events-on-various-servers/",
+    "title": ""}]}

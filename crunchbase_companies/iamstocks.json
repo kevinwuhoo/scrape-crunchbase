@@ -1,0 +1,94 @@
+{"name": "IamStocks",
+ "permalink": "iamstocks",
+ "crunchbase_url": "http://www.crunchbase.com/company/iamstocks",
+ "homepage_url": "http://www.iamstocks.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 2,
+ "founded_day": 23,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "finance, stocks, news",
+ "alias_list": "",
+ "email_address": "iamstocks@w3matter.com",
+ "phone_number": "646-483-3420",
+ "description": "Links news to stock movement",
+ "created_at": "Tue Feb 24 14:17:04 UTC 2009",
+ "updated_at": "Fri Apr 24 17:56:49 UTC 2009",
+ "overview": "\u003Cp\u003EIamStocks.com finds news that is generated hourly as the stock market changed. It endeavours to link what is happening now, with where the market is.\u003C/p\u003E\n\n\u003Cp\u003EThe service looks at news feeds from a variety of sources, seeking up to the minute financial news, general news and blog posts. It looks at news sources many times per hour along with stock prices.\u003C/p\u003E\n\n\u003Cp\u003EThe service was built in one night by Ericson Smith using Ruby on Rails to prove if looking at the news, he could discern trends as the stock market gyrates. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       28],
+      "assets/images/resized/0004/2534/42534v1-max-150x150.png"],
+     [[218,
+       42],
+      "assets/images/resized/0004/2534/42534v1-max-250x250.png"],
+     [[218,
+       42],
+      "assets/images/resized/0004/2534/42534v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "iamstocks.com",
+    "permalink": "iamstocks-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Ericson",
+      "last_name": "Smith",
+      "permalink": "ericson-smith",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "ServerBeach",
+      "permalink": "serverbeach",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Miami Office",
+    "address1": "12864 Biscayne Blvd",
+    "address2": "247",
+    "zip_code": "33181",
+    "city": "North Miami",
+    "state_code": "FL",
+    "country_code": "USA",
+    "latitude": 25.8945858,
+    "longitude": -80.1622525}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[149,
+        150],
+       "assets/images/resized/0003/6833/36833v2-max-150x150.png"],
+      [[249,
+        250],
+       "assets/images/resized/0003/6833/36833v2-max-250x250.png"],
+      [[449,
+        450],
+       "assets/images/resized/0003/6833/36833v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,183 @@
+{"name": "Rails Machine",
+ "permalink": "rails-machine",
+ "crunchbase_url": "http://www.crunchbase.com/company/rails-machine",
+ "homepage_url": "http://railsmachine.com",
+ "blog_url": "http://blog.railsmachine.com",
+ "blog_feed_url": "http://feeds.feedburner.com/railsmachine",
+ "twitter_username": "railsmachine",
+ "category_code": "network_hosting",
+ "number_of_employees": 6,
+ "founded_year": 2006,
+ "founded_month": 5,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rails, rubyonrails, hosting, applications, infrastructure, scaling, support",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Tue May 13 22:58:02 UTC 2008",
+ "updated_at": "Fri May 24 04:05:40 UTC 2013",
+ "overview": "\u003Cp\u003ERails Machine was founded in 2006 to create the ultimate hosting environment for the Ruby on Rails community. They provide software, services, and support for commercial Ruby on Rails application deployments. Rails Machine\u0026#8217;s primary customers are professional Ruby on Rails developers that need simple and high quality solutions for deploying their applications either in a hosted environment or internal corporate environment.\u003C/p\u003E\n\n\u003Cp\u003ERails Machine\u0026#8217;s solutions provide an optimized Ruby on Rails stack and run on high-quality hardware and a reliable network infrastructure, creating an optimized platform for Rails applications. The fully integrated Rails Machine gem simplifies application deployment, even for people new to Rails deployment. Hosting plans include dedicated server cores and virtual servers based on Xen technology.\u003C/p\u003E\n\n\u003Cp\u003ECommercial support services are available to anyone requiring Ruby on Rails deployment support and are provided by a team of Rails and system administration experts. Rails Machine offers consulting, installation, configuration, optimization, testing, debugging, short term custom development, and production server management. Support is available as quarterly subscription, monthly server management package, or \u0026#8220;on demand.\u0026#8221;\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0001/8514/18514v3-max-150x150.png"],
+     [[250,
+       42],
+      "assets/images/resized/0001/8514/18514v3-max-250x250.png"],
+     [[450,
+       75],
+      "assets/images/resized/0001/8514/18514v3-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Bradley",
+      "last_name": "Taylor",
+      "permalink": "bradley-taylor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/6262/266262v1-max-150x150.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0026/6262/266262v1-max-250x250.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0026/6262/266262v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Director of Operations",
+    "person":
+     {"first_name": "Travis",
+      "last_name": "Graham",
+      "permalink": "travis-graham-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            149],
+           "assets/images/resized/0026/6271/266271v1-max-150x150.jpg"],
+          [[160,
+            159],
+           "assets/images/resized/0026/6271/266271v1-max-250x250.jpg"],
+          [[160,
+            159],
+           "assets/images/resized/0026/6271/266271v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Lawver",
+      "permalink": "kevin-lawver-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/6265/266265v1-max-150x150.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0026/6265/266265v1-max-250x250.jpg"],
+          [[160,
+            160],
+           "assets/images/resized/0026/6265/266265v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Joyent",
+      "permalink": "joyent",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/3106/3106v12-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0000/3106/3106v12-max-250x250.png"],
+          [[450,
+            124],
+           "assets/images/resized/0000/3106/3106v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+          [[300,
+            109],
+           "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Blue Box",
+      "permalink": "blue-box-group",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0002/7310/27310v6-max-150x150.png"],
+          [[248,
+            48],
+           "assets/images/resized/0002/7310/27310v6-max-250x250.png"],
+          [[248,
+            48],
+           "assets/images/resized/0002/7310/27310v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "PO Box 8845",
+    "address2": "",
+    "zip_code": "31412",
+    "city": "Savannah",
+    "state_code": "GA",
+    "country_code": "USA",
+    "latitude": 32.0836,
+    "longitude": -81.1003}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

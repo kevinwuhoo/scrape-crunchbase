@@ -1,0 +1,94 @@
+{"name": "Jarvana",
+ "permalink": "jarvana",
+ "crunchbase_url": "http://www.crunchbase.com/company/jarvana",
+ "homepage_url": "http://www.jarvana.com/",
+ "blog_url": "http://jarvana.blogspot.com/",
+ "blog_feed_url": "http://jarvana.blogspot.com/feeds/posts/default",
+ "twitter_username": "",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search-engine, maven, java, source-code, jar",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Java search engine",
+ "created_at": "Tue Oct 27 08:51:33 UTC 2009",
+ "updated_at": "Tue Oct 27 17:53:19 UTC 2009",
+ "overview": "\u003Cp\u003EJarvana is a search engine for millions of Java classes, projects, and content in the maven central repository that allows Java developers to find Java classes, their associated jar files, source code, documentation, and maven dependency information.\u003C/p\u003E\n\n\u003Cp\u003EJava developers can use Jarvana to search for classes to resolve NoClassDefFoundError and ClassNotFoundException issues. Search results include detailed information about Java classes and archive files such as jar files. If available, relevant source code and javadocs for classes can be viewed online.\u003C/p\u003E\n\n\u003Cp\u003EAn explorer-like maven repository browser provides useful functionality such as sorting and detailed information about maven repository directory and archive contents. Users can drill into archive files (.jar, .zip, .tar.gz, etc.) and inspect the contents of archives via the web interface.\u003C/p\u003E\n\n\u003Cp\u003EJarvana is particularly useful for Java developers who use the Apache Maven project management and build tool.  Developers who use maven can utilize Jarvana to obtain maven dependency information for classes and artifacts, inspect POM files, and inspect maven plugins. Jarvana helps Java developers work more efficiently since developers can find relevant information quickly and easily using this web-based search application.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[105,
+       63],
+      "assets/images/resized/0006/3848/63848v2-max-150x150.jpg"],
+     [[105,
+       63],
+      "assets/images/resized/0006/3848/63848v2-max-250x250.jpg"],
+     [[105,
+       63],
+      "assets/images/resized/0006/3848/63848v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Deron",
+      "last_name": "Eriksson",
+      "permalink": "deron-eriksson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Nicole",
+      "last_name": "Eriksson",
+      "permalink": "nicole-eriksson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Valencia, USA",
+    "address1": "",
+    "address2": "",
+    "zip_code": "91355",
+    "city": "Valencia",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        139],
+       "assets/images/resized/0006/3847/63847v2-max-150x150.png"],
+      [[250,
+        232],
+       "assets/images/resized/0006/3847/63847v2-max-250x250.png"],
+      [[450,
+        418],
+       "assets/images/resized/0006/3847/63847v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

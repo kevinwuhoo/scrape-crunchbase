@@ -1,0 +1,115 @@
+{"name": "Planbox",
+ "permalink": "planbox",
+ "crunchbase_url": "http://www.crunchbase.com/company/planbox",
+ "homepage_url": "http://www.planbox.com",
+ "blog_url": "http://blog.planbox.com",
+ "blog_feed_url": "http://blog.planbox.com/feed",
+ "twitter_username": "planboxinc",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 9,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "agile-project-management, saas, scrum, project-management-software, agile-project-management-software, agile-project-management-tool, project-management-tool",
+ "alias_list": null,
+ "email_address": "info@planbox.com",
+ "phone_number": "514-788-4703",
+ "description": "Web-based Agile Project Management",
+ "created_at": "Wed Jan 19 12:50:25 UTC 2011",
+ "updated_at": "Mon Apr 23 20:55:42 UTC 2012",
+ "overview": "\u003Cp\u003EPlanbox offers a full-featured, yet easy to use agile project management tool. Our web-based application (SaaS) allows small teams in companies of all sizes to plan, collaborate and deliver more efficiently\u0026#8230;Right out of the box.\u003C/p\u003E\n\n\u003Cp\u003EPlanbox is perfect for SCRUM and works well with other project management methodologies.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[143,
+       59],
+      "assets/images/resized/0011/8043/118043v2-max-150x150.png"],
+     [[143,
+       59],
+      "assets/images/resized/0011/8043/118043v2-max-250x250.png"],
+     [[143,
+       59],
+      "assets/images/resized/0011/8043/118043v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Olivier",
+      "last_name": "Cabanes",
+      "permalink": "olivier-cabanes",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0025/5987/255987v1-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0025/5987/255987v1-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0025/5987/255987v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2009,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Bolidea",
+         "permalink": "bolidea",
+         "image":
+          {"available_sizes":
+            [[[150,
+               75],
+              "assets/images/resized/0009/6724/96724v2-max-150x150.png"],
+             [[250,
+               125],
+              "assets/images/resized/0009/6724/96724v2-max-250x250.png"],
+             [[400,
+               200],
+              "assets/images/resized/0009/6724/96724v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Montreal Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Montreal",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe src=\"http://player.vimeo.com/video/23207033?title=0\u0026amp;byline=0\u0026amp;portrait=0\" width=\"400\" height=\"225\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen\u003E\u003C/iframe\u003E\u003Cp\u003E\u003Ca href=\"http://vimeo.com/23207033\"\u003EPlanbox Overview\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/planbox\"\u003EPlanbox\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E.\u003C/p\u003E",
+    "description": "\u003Cp\u003EPlanbox Overview - Demo\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2011/03/17/planbox-an-intuitive-agile-project-management-software/",
+    "title": "StartupTunes"}]}

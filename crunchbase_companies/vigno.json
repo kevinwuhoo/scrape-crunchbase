@@ -1,0 +1,141 @@
+{"name": "Vigno",
+ "permalink": "vigno",
+ "crunchbase_url": "http://www.crunchbase.com/company/vigno",
+ "homepage_url": "http://vigno.de",
+ "blog_url": "http://blog.vigno.de",
+ "blog_feed_url": "http://blog.vigno.de/feed/",
+ "twitter_username": "vigno_DE",
+ "category_code": "ecommerce",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wine, group-buying, shopping-club, clubshopping, powershopping",
+ "alias_list": null,
+ "email_address": "hallo@vigno.de",
+ "phone_number": "+49-331-27971069",
+ "description": "Shopping Club for Wine",
+ "created_at": "Thu Apr 21 21:11:16 UTC 2011",
+ "updated_at": "Wed Sep 07 13:55:39 UTC 2011",
+ "overview": "\u003Cp\u003EVigno is a pan-European weekly deals site for fine wines. Every week they showcase an exclusive selection from a carefully selected winemaker and offer it for sale. By dealing directly with the winemaker, and leveraging the power of group buying, they offer very competitive prices to their customers. \u003C/p\u003E\n\n\u003Cp\u003EVigno was founded in March 2011 by Daniel Klarkowski, Alex Lunt and Raphael Agasse in Berlin. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       98],
+      "assets/images/resized/0013/1843/131843v2-max-150x150.jpg"],
+     [[250,
+       163],
+      "assets/images/resized/0013/1843/131843v2-max-250x250.jpg"],
+     [[450,
+       294],
+      "assets/images/resized/0013/1843/131843v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Klarkowski",
+      "permalink": "daniel-klarkowski",
+      "image":
+       {"available_sizes":
+         [[[113,
+            150],
+           "assets/images/resized/0008/2820/82820v2-max-150x150.jpg"],
+          [[140,
+            185],
+           "assets/images/resized/0008/2820/82820v2-max-250x250.jpg"],
+          [[140,
+            185],
+           "assets/images/resized/0008/2820/82820v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EDaniel Klarkowski\u003C/p\u003E"}}},
+   {"is_past": false,
+    "title": "Purchasing Manager",
+    "person":
+     {"first_name": "Raphael",
+      "last_name": "Agasse",
+      "permalink": "raphael-agasse",
+      "image": null}},
+   {"is_past": false,
+    "title": "Product Manager",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Lunt",
+      "permalink": "alex-lunt",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Lot18",
+      "permalink": "lot18",
+      "image":
+       {"available_sizes":
+         [[[150,
+            92],
+           "assets/images/resized/0010/9588/109588v1-max-150x150.png"],
+          [[181,
+            112],
+           "assets/images/resized/0010/9588/109588v1-max-250x250.png"],
+          [[181,
+            112],
+           "assets/images/resized/0010/9588/109588v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2011,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Ace Ventures",
+         "permalink": "ace-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               31],
+              "assets/images/resized/0008/3027/83027v2-max-150x150.jpg"],
+             [[250,
+               53],
+              "assets/images/resized/0008/3027/83027v2-max-250x250.jpg"],
+             [[286,
+               61],
+              "assets/images/resized/0008/3027/83027v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Vigno HQ",
+    "address1": "Johann-Goercke-Allee 12",
+    "address2": "",
+    "zip_code": "14469",
+    "city": "Potsdam",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

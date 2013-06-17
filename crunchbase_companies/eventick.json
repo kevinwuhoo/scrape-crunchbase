@@ -1,0 +1,145 @@
+{"name": "Eventick",
+ "permalink": "eventick",
+ "crunchbase_url": "http://www.crunchbase.com/company/eventick",
+ "homepage_url": "http://eventick.com.br",
+ "blog_url": "http://blog.eventick.com.br",
+ "blog_feed_url": "http://blog.eventick.com.br/articles.xml",
+ "twitter_username": "eventickbr",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "ingresso, bilhetes, eventos, event, events, ticket, online-ticketing, event-registration, ticketing-software, event-planning, event-management",
+ "alias_list": null,
+ "email_address": "oi@eventick.com.br",
+ "phone_number": "+558188120980",
+ "description": "Eventick",
+ "created_at": "Fri Jan 27 20:53:37 UTC 2012",
+ "updated_at": "Mon Jan 30 10:11:45 UTC 2012",
+ "overview": "\u003Cp\u003EEventick is a Event Management Tool where event owner can sell their ticket within minutes and the attendee can use their mobile tickets to checkin on the events.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Thiago",
+      "last_name": "Diniz",
+      "permalink": "thiago-diniz-3",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0012/7082/127082v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0012/7082/127082v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0012/7082/127082v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Cirdes",
+      "last_name": "Henrique",
+      "permalink": "cirdes-henrique",
+      "image": null}},
+   {"is_past": false,
+    "title": "CMO",
+    "person":
+     {"first_name": "Andr\u00c3\u00a9",
+      "last_name": "Braga",
+      "permalink": "andr-braga",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Guilherme",
+      "last_name": "Barreto",
+      "permalink": "guilherme-barreto",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Eventioz",
+      "permalink": "eventioz",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0008/8575/88575v2-max-150x150.png"],
+          [[250,
+            66],
+           "assets/images/resized/0008/8575/88575v2-max-250x250.png"],
+          [[450,
+            120],
+           "assets/images/resized/0008/8575/88575v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eventbrite",
+      "permalink": "eventbrite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            63],
+           "assets/images/resized/0000/3442/3442v8-max-150x150.png"],
+          [[250,
+            106],
+           "assets/images/resized/0000/3442/3442v8-max-250x250.png"],
+          [[450,
+            190],
+           "assets/images/resized/0000/3442/3442v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "amiando",
+      "permalink": "amiando",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/2013/12013v7-max-150x150.png"],
+          [[225,
+            56],
+           "assets/images/resized/0001/2013/12013v7-max-250x250.png"],
+          [[225,
+            56],
+           "assets/images/resized/0001/2013/12013v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Eventick HQ",
+    "address1": "Rua Jo\u00e3o Tude de Melo, 77, sala 124",
+    "address2": "",
+    "zip_code": "52060-010",
+    "city": "Recife",
+    "state_code": null,
+    "country_code": "BRA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://g1.globo.com/jornal-hoje/noticia/2011/10/estudantes-de-informatica-colocam-em-pratica-projetos-inovadores.html",
+    "title": "Estudantes de inform\u00e1tica colocam em pr\u00e1tica projetos inovadores"},
+   {"external_url": "http://video.globo.com/Videos/Player/Noticias/0,,GIM1705070-7823-JOVENS+DO+NORDESTE+DESENVOLVEM+SISTEMA+ONLINE+DE+COMPRA+DE+TIQUETES,00.html",
+    "title": "Jovens do Nordeste desenvolvem sistema online de compra de t\u00edquetes"}]}

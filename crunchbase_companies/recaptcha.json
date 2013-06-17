@@ -1,0 +1,96 @@
+{"name": "reCAPTCHA",
+ "permalink": "recaptcha",
+ "crunchbase_url": "http://www.crunchbase.com/company/recaptcha",
+ "homepage_url": "http://recaptcha.net",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@recaptcha.net",
+ "phone_number": "",
+ "description": "SPAMbot filter words",
+ "created_at": "Mon Sep 21 12:00:31 UTC 2009",
+ "updated_at": "Tue May 22 04:24:55 UTC 2012",
+ "overview": "\u003Cp\u003EreCAPTCHA is a free CAPTCHA service that helps to digitize books, newspapers and old time radio shows.\u003C/p\u003E\n\n\u003Cp\u003EreCAPTCHA improves the process of digitizing books by sending words that cannot be read by computers to the Web in the form of CAPTCHAs for humans to decipher. More specifically, each word that cannot be read correctly by OCR is placed on an image and used as a CAPTCHA. This is possible because most OCR programs alert you when a word cannot be read correctly.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       97],
+      "assets/images/resized/0006/0310/60310v1-max-150x150.jpg"],
+     [[198,
+       129],
+      "assets/images/resized/0006/0310/60310v1-max-250x250.jpg"],
+     [[198,
+       129],
+      "assets/images/resized/0006/0310/60310v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://www.techcrunch.com/2009/09/16/google-acquires-recaptcha-to-power-scanning-for-google-books-and-google-news/",
+   "source_description": "Google Acquires reCaptcha To Power Scanning For Google Books And Google News",
+   "acquired_year": 2009,
+   "acquired_month": 9,
+   "acquired_day": 16,
+   "acquiring_company":
+    {"name": "Google",
+     "permalink": "google",
+     "image":
+      {"available_sizes":
+        [[[150,
+           51],
+          "assets/images/resized/0002/9578/29578v31-max-150x150.png"],
+         [[250,
+           85],
+          "assets/images/resized/0002/9578/29578v31-max-250x250.png"],
+         [[450,
+           154],
+          "assets/images/resized/0002/9578/29578v31-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        109],
+       "assets/images/resized/0006/0311/60311v1-max-150x150.jpg"],
+      [[250,
+        181],
+       "assets/images/resized/0006/0311/60311v1-max-250x250.jpg"],
+      [[450,
+        327],
+       "assets/images/resized/0006/0311/60311v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

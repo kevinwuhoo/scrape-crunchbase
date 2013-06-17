@@ -1,0 +1,101 @@
+{"name": "Erbix - Beetux Software",
+ "permalink": "erbix-beetux-software",
+ "crunchbase_url": "http://www.crunchbase.com/company/erbix-beetux-software",
+ "homepage_url": "http://www.erbix.com/",
+ "blog_url": "http://www.erbix.com/blogs/erbix/",
+ "blog_feed_url": "http://www.erbix.com/blogs/erbix/feed",
+ "twitter_username": "erbixcom",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "javascript, cloud, webapps, productivity, paas",
+ "alias_list": null,
+ "email_address": "admin@erbix.com",
+ "phone_number": "+40 723 193668",
+ "description": "JavaScript Apps and a browser IDE.",
+ "created_at": "Wed Apr 20 13:46:30 UTC 2011",
+ "updated_at": "Thu May 12 19:13:56 UTC 2011",
+ "overview": "\u003Cp\u003EErbix offers productivity web apps for small businesses using an online apps platform (based on the JavaScript language). The apps offered include Pluto \u00e2\u20ac\u201c an online team organizer and to-do manager, Eris \u00e2\u20ac\u201c an interactive online form creator, and Meeting Planner \u00e2\u20ac\u201c a new way to organize events and meetups democratically.\u003C/p\u003E\n\n\u003Cp\u003EAnybody can write apps using JavaScript (and our browser-based IDE if they choose to). The JavaScript engine is based on RingoJS, an open-source server-side JavaScript engine. Erbix supports a web-based console which can interact via git and svn commands with external source version control repositories, or via SQL statements with a dedicated PostgreSQL database.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[135,
+       44],
+      "assets/images/resized/0013/1327/131327v2-max-150x150.png"],
+     [[135,
+       44],
+      "assets/images/resized/0013/1327/131327v2-max-250x250.png"],
+     [[135,
+       44],
+      "assets/images/resized/0013/1327/131327v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Technology Officer",
+    "person":
+     {"first_name": "Ciprian",
+      "last_name": "Roman",
+      "permalink": "ciprian-roman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Executive Officer",
+    "person":
+     {"first_name": "Mihai",
+      "last_name": "Roman",
+      "permalink": "mihai-roman",
+      "image": null}},
+   {"is_past": false,
+    "title": "Chief Operating Officer",
+    "person":
+     {"first_name": "Vlad",
+      "last_name": "Dascalu",
+      "permalink": "vlad-dascalu",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "self-funding",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "67 Orzari St., Bl.210, Ap. 10",
+    "address2": "",
+    "zip_code": "021552",
+    "city": "Bucharest",
+    "state_code": null,
+    "country_code": "ROM",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.erbix.com/",
+    "title": "Erbix Homepage"}]}

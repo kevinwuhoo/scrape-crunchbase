@@ -1,0 +1,126 @@
+{"name": "Celly",
+ "permalink": "celly",
+ "crunchbase_url": "http://www.crunchbase.com/company/celly",
+ "homepage_url": "http://cel.ly",
+ "blog_url": "http://cel.ly/blog",
+ "blog_feed_url": "http://cellyblog.tumblr.com/rss",
+ "twitter_username": "cellyme",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 4,
+ "founded_day": 13,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile, sms, text, messaging, groups, group-messaging, polling, social-networking, social, social-media",
+ "alias_list": null,
+ "email_address": "team@cel.ly",
+ "phone_number": "",
+ "description": "Instant Mobile Networks",
+ "created_at": "Tue Mar 06 05:59:13 UTC 2012",
+ "updated_at": "Wed Feb 20 03:18:18 UTC 2013",
+ "overview": "\u003Cp\u003EWith Celly, anyone can create public or private social networks instantly. Send polls, reminders, alerts, and group texts to any number of people. Celly is used by schools, businesses, families, communities, and social movements.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       79],
+      "assets/images/resized/0023/7082/237082v1-max-150x150.jpg"],
+     [[250,
+       132],
+      "assets/images/resized/0023/7082/237082v1-max-250x250.jpg"],
+     [[265,
+       140],
+      "assets/images/resized/0023/7082/237082v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder \u0026 CTO",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Passmore",
+      "permalink": "greg-passmore",
+      "image": null}},
+   {"is_past": false,
+    "title": "Cofounder \u0026 CEO",
+    "person":
+     {"first_name": "Russell",
+      "last_name": "Okamoto",
+      "permalink": "russell-okamoto",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.4M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2013/02/19/with-1-4m-in-tow-celly-launches-on-ios-to-let-anyone-create-an-instant-mobile-social-network/",
+    "source_description": "With $1.4M In Tow, Celly Launches On iOS To Let Anyone Create An Instant Mobile Social Network",
+    "raised_amount": 1400000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 2,
+    "funded_day": 20,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Oregon Angel Fund",
+         "permalink": "oregon-angel-fund",
+         "image":
+          {"available_sizes":
+            [[[145,
+               80],
+              "assets/images/resized/0014/3579/143579v2-max-150x150.png"],
+             [[145,
+               80],
+              "assets/images/resized/0014/3579/143579v2-max-250x250.png"],
+             [[145,
+               80],
+              "assets/images/resized/0014/3579/143579v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Portland Seed Fund",
+         "permalink": "portland-seed-fund",
+         "image":
+          {"available_sizes":
+            [[[150,
+               36],
+              "assets/images/resized/0016/6893/166893v2-max-150x150.png"],
+             [[250,
+               60],
+              "assets/images/resized/0016/6893/166893v2-max-250x250.png"],
+             [[255,
+               62],
+              "assets/images/resized/0016/6893/166893v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "97209",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

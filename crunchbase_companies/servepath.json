@@ -1,0 +1,205 @@
+{"name": "ServePath",
+ "permalink": "servepath",
+ "crunchbase_url": "http://www.crunchbase.com/company/servepath",
+ "homepage_url": "http://www.servepath.com",
+ "blog_url": "http://blog.servepath.com",
+ "blog_feed_url": "http://blog.servepath.com/feed/",
+ "twitter_username": "servepath",
+ "category_code": "hardware",
+ "number_of_employees": 100,
+ "founded_year": 2001,
+ "founded_month": 1,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hosting, cloud-computing, grid-servers, grid, high-availability-hosting",
+ "alias_list": "",
+ "email_address": "plancaster@servepath.com",
+ "phone_number": "415 869 7008",
+ "description": "",
+ "created_at": "Fri Apr 11 17:36:09 UTC 2008",
+ "updated_at": "Tue Mar 26 05:44:48 UTC 2013",
+ "overview": "\u003Cp\u003EServePath has its origins in the success of its co-founders, who originally started the largest profitable Internet service provider on the West Coast\u2014InReach Internet\u2014in 1994. ServePath was started in early 2001 to solve a key critical demand in the marketplace for custom, dedicated server solutions and managed services for businesses of all sizes looking for a powerful internet hosting platform.\u003C/p\u003E\n\n\u003Cp\u003EWhat once was a true start-up business run by a team of three people has now grown into a strong, employee-owned and profitable business. ServePath operates its own state-of-the-art data center and is headquartered in San Francisco. The company boasts a strong management team and a highly skilled Support and Services team that now manages several thousand servers for over 2000 business customers in more than 100 countries worldwide. Their clients include small to medium technology companies, large enterprises, International, Federal, State and local government agencies, and web hosting resellers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       29],
+      "assets/images/resized/0001/7172/17172v1-max-150x150.png"],
+     [[187,
+       37],
+      "assets/images/resized/0001/7172/17172v1-max-250x250.png"],
+     [[187,
+       37],
+      "assets/images/resized/0001/7172/17172v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Keagy",
+      "permalink": "john-keagy",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Engineering ",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Lappas",
+      "permalink": "paul-lappas",
+      "image": null}},
+   {"is_past": false,
+    "title": "Business Development",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Lancaster",
+      "permalink": "paul-lancaster",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Product Development",
+    "person":
+     {"first_name": "Mario",
+      "last_name": "Olivarez",
+      "permalink": "mario-olivarez",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder, Chief Marketing Officer",
+    "person":
+     {"first_name": "David",
+      "last_name": "Hecht",
+      "permalink": "david-hecht-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0007/1223/71223v2-max-150x150.png"],
+          [[240,
+            180],
+           "assets/images/resized/0007/1223/71223v2-max-250x250.png"],
+          [[240,
+            180],
+           "assets/images/resized/0007/1223/71223v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rackspace",
+      "permalink": "rackspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/7859/17859v6-max-150x150.jpg"],
+          [[250,
+            90],
+           "assets/images/resized/0001/7859/17859v6-max-250x250.jpg"],
+          [[300,
+            109],
+           "assets/images/resized/0001/7859/17859v6-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ThePlanet",
+      "permalink": "theplanet",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/9679/19679v1-max-150x150.png"],
+          [[235,
+            58],
+           "assets/images/resized/0001/9679/19679v1-max-250x250.png"],
+          [[235,
+            58],
+           "assets/images/resized/0001/9679/19679v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Peer1",
+      "permalink": "peer1",
+      "image":
+       {"available_sizes":
+         [[[147,
+            48],
+           "assets/images/resized/0001/9502/19502v1-max-150x150.png"],
+          [[147,
+            48],
+           "assets/images/resized/0001/9502/19502v1-max-250x250.png"],
+          [[147,
+            48],
+           "assets/images/resized/0001/9502/19502v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FlexiScale",
+      "permalink": "flexiscale",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0000/1138/1138v1-max-150x150.png"],
+          [[151,
+            73],
+           "assets/images/resized/0000/1138/1138v1-max-250x250.png"],
+          [[151,
+            73],
+           "assets/images/resized/0000/1138/1138v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "McKremie.com",
+      "permalink": "mckremie",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0005/4939/54939v2-max-150x150.jpg"],
+          [[250,
+            100],
+           "assets/images/resized/0005/4939/54939v2-max-250x250.jpg"],
+          [[450,
+            180],
+           "assets/images/resized/0005/4939/54939v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FireHost",
+      "permalink": "firehost",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0005/8523/58523v9-max-150x150.png"],
+          [[250,
+            58],
+           "assets/images/resized/0005/8523/58523v9-max-250x250.png"],
+          [[400,
+            93],
+           "assets/images/resized/0005/8523/58523v9-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "345 Spear Street",
+    "address2": "Suite 515",
+    "zip_code": "94105",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.789803,
+    "longitude": -122.389757}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

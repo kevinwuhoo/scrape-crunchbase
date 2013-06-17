@@ -1,0 +1,98 @@
+{"name": "Terranova",
+ "permalink": "terranova",
+ "crunchbase_url": "http://www.crunchbase.com/company/terranova",
+ "homepage_url": "http://www.appterranova.com/",
+ "blog_url": "http://www.appterranova.com/?page_id=23",
+ "blog_feed_url": "",
+ "twitter_username": "AppTerranova",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sat Dec 08 10:57:53 UTC 2012",
+ "updated_at": "Mon Apr 08 05:53:39 UTC 2013",
+ "overview": "\u003Cp\u003ETerranova is an intelligent personal assistant app for iPhone and Android devices, the web, and Google Glass. \u003C/p\u003E\n\n\u003Cp\u003ETerranova allows users to speak or type what they want to do \u0026#8211; e.g. \u0026#8220;join a yoga class\u0026#8221; \u0026#8211; and connects them with the nearest, most relevant people, places, and events. \u003C/p\u003E\n\n\u003Cp\u003EThe app uses a natural language user interface and is powered by a contextual, computationally efficient learning algorithm.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0022/4895/224895v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0022/4895/224895v2-max-250x250.jpg"],
+     [[450,
+       450],
+      "assets/images/resized/0022/4895/224895v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "George",
+      "last_name": "Stoikos",
+      "permalink": "george-stoikos",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder ",
+    "person":
+     {"first_name": "Andy",
+      "last_name": "Stankiewicz",
+      "permalink": "andy-stankiewicz",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.05M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.finsmes.com/2012/12/terranova-secures-1-05m-seed-funding.html",
+    "source_description": "Terranova Secures $1.05M in Seed Funding",
+    "raised_amount": 1050000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 12,
+    "funded_day": 5,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Chicago",
+    "state_code": "IL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.appterranova.com",
+    "title": ""},
+   {"external_url": "http://venturebeat.com/2012/12/05/funding-daily-prohibition-ends/",
+    "title": "Siri's long lost Chicago cousin finds $1.05M in support"},
+   {"external_url": "http://www.dailydooh.com/archives/77412",
+    "title": "Ex-Akoo Execs Launching Intelligent Personal Assistant "}]}

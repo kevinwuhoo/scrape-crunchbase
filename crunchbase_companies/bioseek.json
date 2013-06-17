@@ -1,0 +1,136 @@
+{"name": "BioSeek",
+ "permalink": "bioseek",
+ "crunchbase_url": "http://www.crunchbase.com/company/bioseek",
+ "homepage_url": "http://www.bioseekinc.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "biotech",
+ "number_of_employees": null,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@bioseekinc.com",
+ "phone_number": "650-416-7600",
+ "description": "drug discovery",
+ "created_at": "Fri Sep 18 07:14:46 UTC 2009",
+ "updated_at": "Tue Jan 19 13:43:17 UTC 2010",
+ "overview": "\u003Cp\u003EBioSeek, Inc. provides cell-based human disease models for drug discovery and development. It offers BioMap Systems, which are human primary cell-based assay systems for indications in vascular inflammation, cardiovascular and respiratory diseases, and fibrosis. The company also provides programs for the discovery of lead compounds for inflammatory and autoimmune disease indications. BioSeek, Inc. was founded in 2000 and is based in South San Francisco, California.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[98,
+       38],
+      "assets/images/resized/0006/0117/60117v1-max-150x150.jpg"],
+     [[98,
+       38],
+      "assets/images/resized/0006/0117/60117v1-max-250x250.jpg"],
+     [[98,
+       38],
+      "assets/images/resized/0006/0117/60117v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Director",
+    "person":
+     {"first_name": "Blake",
+      "last_name": "Winchell",
+      "permalink": "blake-winchell",
+      "image":
+       {"available_sizes":
+         [[[113,
+            150],
+           "assets/images/resized/0006/4608/64608v2-max-150x150.jpg"],
+          [[189,
+            250],
+           "assets/images/resized/0006/4608/64608v2-max-250x250.jpg"],
+          [[341,
+            450],
+           "assets/images/resized/0006/4608/64608v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$10M",
+ "funding_rounds":
+  [{"round_code": "c",
+    "source_url": "http://venturebeat.com/2007/05/23/bioseek-raises-10m-from-amylin-pharmafor-drug-screening/",
+    "source_description": "BioSeek raises $10M from Amylin Pharma for drug screening",
+    "raised_amount": 10000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 5,
+    "funded_day": 23,
+    "investments":
+     [{"company":
+        {"name": "Amylin Pharmaceuticals",
+         "permalink": "amylin-pharmaceuticals",
+         "image":
+          {"available_sizes":
+            [[[142,
+               63],
+              "assets/images/resized/0006/0118/60118v1-max-150x150.png"],
+             [[142,
+               63],
+              "assets/images/resized/0006/0118/60118v1-max-250x250.png"],
+             [[142,
+               63],
+              "assets/images/resized/0006/0118/60118v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 14000000.0,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.biospace.com/news_story.aspx?NewsEntityId=163232",
+   "source_description": "Asterand plc Announces Agreement to Acquire BioSeek, Inc. For Up to $14 Million",
+   "acquired_year": 2009,
+   "acquired_month": 11,
+   "acquired_day": 18,
+   "acquiring_company":
+    {"name": "Asterand",
+     "permalink": "asterand",
+     "image":
+      {"available_sizes":
+        [[[150,
+           39],
+          "assets/images/resized/0007/3945/73945v1-max-150x150.jpg"],
+         [[226,
+           60],
+          "assets/images/resized/0007/3945/73945v1-max-250x250.jpg"],
+         [[226,
+           60],
+          "assets/images/resized/0007/3945/73945v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "310 Utah Avenue",
+    "address2": "Suite 100",
+    "zip_code": "94080",
+    "city": "South San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

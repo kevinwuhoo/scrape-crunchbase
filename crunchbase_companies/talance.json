@@ -1,0 +1,85 @@
+{"name": "Talance",
+ "permalink": "talance",
+ "crunchbase_url": "http://www.crunchbase.com/company/talance",
+ "homepage_url": "http://www.talance.com",
+ "blog_url": "http://www.talance.com/blog",
+ "blog_feed_url": "http://talance.com/blog/feed/",
+ "twitter_username": "Talance",
+ "category_code": "public_relations",
+ "number_of_employees": 5,
+ "founded_year": 2000,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "nonprofit, synagogue, church, website-creator, drupal, open-source, social-publishing, social-media, cms, online-learning",
+ "alias_list": null,
+ "email_address": "info@talance.com",
+ "phone_number": "(88) 810-9109",
+ "description": "Interactive Web and Classrooms",
+ "created_at": "Fri Jul 18 16:25:18 UTC 2008",
+ "updated_at": "Wed May 25 18:03:21 UTC 2011",
+ "overview": "\u003Cp\u003ETalance is a Burlington, MA-based interactive design and development company that develops content management systems (including Drupal) and online learning systems for non-profits and small organizations.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0002/2351/22351v1-max-150x150.png"],
+     [[250,
+       88],
+      "assets/images/resized/0002/2351/22351v1-max-250x250.png"],
+     [[411,
+       146],
+      "assets/images/resized/0002/2351/22351v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Content Management Systems (CMS)",
+    "permalink": "cms-2",
+    "image": null},
+   {"name": "Learning Management Systems (LMS)",
+    "permalink": "learning-management-systems-lms",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Monique",
+      "last_name": "Cuvelier",
+      "permalink": "monique-cuvelier",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Corporate Headquarters",
+    "address1": "400 W. Cummings Park, Ste., 1725-118",
+    "address2": "",
+    "zip_code": "01801-6579",
+    "city": "Woburn",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": 42.526495,
+    "longitude": -71.189337}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.forward.com/articles/13594/",
+    "title": "Technologically Impaired?"},
+   {"external_url": "http://mahamatzav.org/2008/03/04/synagogue-websites/",
+    "title": "Synagogue websites"}]}

@@ -1,0 +1,218 @@
+{"name": "ZNet Labs",
+ "permalink": "znet-labs",
+ "crunchbase_url": "http://www.crunchbase.com/company/znet-labs",
+ "homepage_url": "http://znetlabs.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "good-noows, news, publishing, content, feed, social-network",
+ "alias_list": null,
+ "email_address": "info@znetlabs.com",
+ "phone_number": "",
+ "description": "Good Noows - Your personal news stream",
+ "created_at": "Thu May 06 15:32:06 UTC 2010",
+ "updated_at": "Tue Sep 13 01:57:56 UTC 2011",
+ "overview": "\u003Cp\u003EZNet Labs develops Good Noows - Your personal news stream. Good Noows is a social newsstand that helps you discover and share the latest news on your favorite topics from the sources you trust.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0008/6244/86244v7-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0008/6244/86244v7-max-250x250.png"],
+     [[250,
+       250],
+      "assets/images/resized/0008/6244/86244v7-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Good Noows",
+    "permalink": "good-noows",
+    "image":
+     {"available_sizes":
+       [[[150,
+          150],
+         "assets/images/resized/0011/4606/114606v2-max-150x150.png"],
+        [[250,
+          250],
+         "assets/images/resized/0011/4606/114606v2-max-250x250.png"],
+        [[250,
+          250],
+         "assets/images/resized/0011/4606/114606v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder, CTO",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Franz",
+      "permalink": "daniel-franz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, CEO",
+    "person":
+     {"first_name": "Marianne",
+      "last_name": "Vogt Tochtermann",
+      "permalink": "marianne-vogt-tochtermann",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Netvibes",
+      "permalink": "netvibes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2974/2974v8-max-150x150.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-250x250.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Flipboard",
+      "permalink": "flipboard",
+      "image":
+       {"available_sizes":
+         [[[119,
+            150],
+           "assets/images/resized/0008/6174/86174v5-max-150x150.png"],
+          [[198,
+            250],
+           "assets/images/resized/0008/6174/86174v5-max-250x250.png"],
+          [[300,
+            377],
+           "assets/images/resized/0008/6174/86174v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zite",
+      "permalink": "zite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0015/2023/152023v2-max-150x150.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0015/2023/152023v2-max-250x250.jpg"],
+          [[225,
+            225],
+           "assets/images/resized/0015/2023/152023v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google Reader",
+      "permalink": "google-reader",
+      "image": null}},
+   {"competitor":
+     {"name": "Google News",
+      "permalink": "google-news",
+      "image": null}},
+   {"competitor":
+     {"name": "Ongo",
+      "permalink": "ongo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0010/3788/103788v1-max-150x150.jpg"],
+          [[150,
+            60],
+           "assets/images/resized/0010/3788/103788v1-max-250x250.jpg"],
+          [[150,
+            60],
+           "assets/images/resized/0010/3788/103788v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "my6sense",
+      "permalink": "my6sense",
+      "image":
+       {"available_sizes":
+         [[[149,
+            48],
+           "assets/images/resized/0002/9677/29677v1-max-150x150.jpg"],
+          [[149,
+            48],
+           "assets/images/resized/0002/9677/29677v1-max-250x250.jpg"],
+          [[149,
+            48],
+           "assets/images/resized/0002/9677/29677v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "News360",
+      "permalink": "news360",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/5157/125157v6-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0012/5157/125157v6-max-250x250.png"],
+          [[450,
+            450],
+           "assets/images/resized/0012/5157/125157v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Zinio",
+      "permalink": "zinio",
+      "image":
+       {"available_sizes":
+         [[[66,
+            25],
+           "assets/images/resized/0001/9313/19313v2-max-150x150.png"],
+          [[66,
+            25],
+           "assets/images/resized/0001/9313/19313v2-max-250x250.png"],
+          [[66,
+            25],
+           "assets/images/resized/0001/9313/19313v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Hamburg Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "22587",
+    "city": "Hamburg",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null},
+   {"description": "San Francisco Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "94110",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

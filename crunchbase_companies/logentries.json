@@ -1,0 +1,143 @@
+{"name": "Logentries",
+ "permalink": "logentries",
+ "crunchbase_url": "http://www.crunchbase.com/company/logentries",
+ "homepage_url": "https://logentries.com/",
+ "blog_url": "https://blog.logentries.com/",
+ "blog_feed_url": "",
+ "twitter_username": "logentries",
+ "category_code": "web",
+ "number_of_employees": 8,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "log-management",
+ "alias_list": "",
+ "email_address": "hello@logentries.com",
+ "phone_number": "+353-86-865-1709",
+ "description": "Proactive log management",
+ "created_at": "Wed Jul 18 04:22:38 UTC 2012",
+ "updated_at": "Mon Apr 08 01:10:13 UTC 2013",
+ "overview": "\u003Cp\u003ELogentries was founded in 2010 by Viliam Holub and Trevor Parsons on the back of a decade of research at University College Dublin\u0026#8217;s Performance Engineering Laboratory. After years of working with large organisations on research projects for root cause analysis of IT issues the founders understand the needs of those managing, building and testing large enterprise systems. The team at Logentries consists of entrepreneurs, researchers, and technical innovators with a common goal to provide solutions for better management of software systems. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[123,
+       31],
+      "assets/images/resized/0020/1614/201614v1-max-150x150.png"],
+     [[123,
+       31],
+      "assets/images/resized/0020/1614/201614v1-max-250x250.png"],
+     [[123,
+       31],
+      "assets/images/resized/0020/1614/201614v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Trevor",
+      "last_name": "Parsons",
+      "permalink": "trevor-parsons",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Viliam",
+      "last_name": "Holub",
+      "permalink": "viliam-holub",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.1M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2012/07/17/logentries-raises-1m-to-join-the-big-data-log-management-crowd/",
+    "source_description": "LogEntries Raises $1M To Join The Big Data Log Management Crowd",
+    "raised_amount": 1100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 7,
+    "funded_day": 17,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Polaris Partners",
+         "permalink": "polaris-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               36],
+              "assets/images/resized/0001/1153/11153v1-max-150x150.png"],
+             [[163,
+               40],
+              "assets/images/resized/0001/1153/11153v1-max-250x250.png"],
+             [[163,
+               40],
+              "assets/images/resized/0001/1153/11153v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "RRE Ventures",
+         "permalink": "rre-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               35],
+              "assets/images/resized/0002/3486/23486v3-max-150x150.jpg"],
+             [[250,
+               58],
+              "assets/images/resized/0002/3486/23486v3-max-250x250.jpg"],
+             [[450,
+               105],
+              "assets/images/resized/0002/3486/23486v3-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Frontline Ventures",
+         "permalink": "frontline-ventures",
+         "image":
+          {"available_sizes":
+            [[[146,
+               150],
+              "assets/images/resized/0024/2588/242588v1-max-150x150.png"],
+             [[229,
+               234],
+              "assets/images/resized/0024/2588/242588v1-max-250x250.png"],
+             [[229,
+               234],
+              "assets/images/resized/0024/2588/242588v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "The Warehouse",
+    "address2": "35 Barrow Street",
+    "zip_code": "",
+    "city": "Dublin",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

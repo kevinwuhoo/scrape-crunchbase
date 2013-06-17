@@ -1,0 +1,262 @@
+{"name": "Zoji",
+ "permalink": "zoji",
+ "crunchbase_url": "http://www.crunchbase.com/company/zoji",
+ "homepage_url": "http://www.zoji.com/",
+ "blog_url": "http://www.zoji.com/support/blogs",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2004,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "eventplanning, socialevents, invites, meetups",
+ "alias_list": null,
+ "email_address": "support@zoji.com",
+ "phone_number": "206-364-6112",
+ "description": null,
+ "created_at": "Sat Nov 17 14:42:24 UTC 2007",
+ "updated_at": "Mon May 20 04:20:32 UTC 2013",
+ "overview": "\u003Cp\u003EZoji aims to makes invitations social with various web 2.0 features for users creating invites.  Users are able to vote on the preferred date and location of an event, share and tag photos after the event, and keep a running calendar of all events past and present. Users can also browse suggested restaurants, bars and clubs, and bands by location to see what might be a good fit for their event.  The site also hosts blogs and groups to keep users talking and using the site in between events.  \u003C/p\u003E\n\n\u003Cp\u003EZoji competes with invitation incumbent \u003Ca href=\"http://www.crunchbase.com/company/evite\" title=\"Evite\"\u003EEvite\u003C/a\u003E and newer social invite services like \u003Ca href=\"http://www.crunchbase.com/company/socializr\" title=\"Socializr\"\u003ESocializr\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/madeit\" title=\"MadeIt.com\"\u003EMadeIt.com\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/mypunchbowl\" title=\"MyPunchBowl\"\u003EMyPunchBowl\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/renkoo\" title=\"Renkoo.com\"\u003ERenkoo.com\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       61],
+      "assets/images/resized/0000/2194/2194v1-max-150x150.png"],
+     [[100,
+       61],
+      "assets/images/resized/0000/2194/2194v1-max-250x250.png"],
+     [[100,
+       61],
+      "assets/images/resized/0000/2194/2194v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Zoji",
+    "permalink": "zoji",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Chief Pizza Provider",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Shen",
+      "permalink": "dan-shen",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0001/0081/10081v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0001/0081/10081v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0001/0081/10081v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"is_past": false,
+    "title": "Graphic Artist",
+    "person":
+     {"first_name": "Josiah",
+      "last_name": "Halasz",
+      "permalink": "josiah-halasz",
+      "image": null}},
+   {"is_past": true,
+    "title": "Code Monkey",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Tao",
+      "permalink": "kevin-tao",
+      "image":
+       {"available_sizes":
+         [[[100,
+            74],
+           "assets/images/resized/0001/0084/10084v1-max-150x150.jpg"],
+          [[100,
+            74],
+           "assets/images/resized/0001/0084/10084v1-max-250x250.jpg"],
+          [[100,
+            74],
+           "assets/images/resized/0001/0084/10084v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Evite",
+      "permalink": "evite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/1753/1753v3-max-150x150.png"],
+          [[160,
+            80],
+           "assets/images/resized/0000/1753/1753v3-max-250x250.png"],
+          [[160,
+            80],
+           "assets/images/resized/0000/1753/1753v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Manvite",
+      "permalink": "manvite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0001/3597/13597v1-max-150x150.jpg"],
+          [[227,
+            69],
+           "assets/images/resized/0001/3597/13597v1-max-250x250.jpg"],
+          [[227,
+            69],
+           "assets/images/resized/0001/3597/13597v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pingg",
+      "permalink": "pingg",
+      "image":
+       {"available_sizes":
+         [[[150,
+            72],
+           "assets/images/resized/0001/3665/13665v1-max-150x150.png"],
+          [[210,
+            101],
+           "assets/images/resized/0001/3665/13665v1-max-250x250.png"],
+          [[210,
+            101],
+           "assets/images/resized/0001/3665/13665v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Evite",
+      "permalink": "evite",
+      "image":
+       {"available_sizes":
+         [[[150,
+            75],
+           "assets/images/resized/0000/1753/1753v3-max-150x150.png"],
+          [[160,
+            80],
+           "assets/images/resized/0000/1753/1753v3-max-250x250.png"],
+          [[160,
+            80],
+           "assets/images/resized/0000/1753/1753v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Enclude",
+      "permalink": "enclude",
+      "image":
+       {"available_sizes":
+         [[[104,
+            49],
+           "assets/images/resized/0001/7623/17623v1-max-150x150.png"],
+          [[104,
+            49],
+           "assets/images/resized/0001/7623/17623v1-max-250x250.png"],
+          [[104,
+            49],
+           "assets/images/resized/0001/7623/17623v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Crusher",
+      "permalink": "crusher",
+      "image": null}},
+   {"competitor":
+     {"name": "Invitastic",
+      "permalink": "invitastic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            25],
+           "assets/images/resized/0001/7626/17626v1-max-150x150.png"],
+          [[250,
+            41],
+           "assets/images/resized/0001/7626/17626v1-max-250x250.png"],
+          [[425,
+            71],
+           "assets/images/resized/0001/7626/17626v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Windows Live Events",
+      "permalink": "windows-live-events",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0001/7628/17628v2-max-150x150.jpg"],
+          [[250,
+            68],
+           "assets/images/resized/0001/7628/17628v2-max-250x250.jpg"],
+          [[302,
+            83],
+           "assets/images/resized/0001/7628/17628v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Planypus",
+      "permalink": "planypus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/5837/15837v1-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0001/5837/15837v1-max-250x250.png"],
+          [[259,
+            76],
+           "assets/images/resized/0001/5837/15837v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Planypus",
+      "permalink": "planypus",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0001/5837/15837v1-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0001/5837/15837v1-max-250x250.png"],
+          [[259,
+            76],
+           "assets/images/resized/0001/5837/15837v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$1.5M",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://www.thealarmclock.com/mt/archives/2007/10/evite_rival_zoj.html",
+    "source_description": null,
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": null,
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.620716,
+    "longitude": -122.347533}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

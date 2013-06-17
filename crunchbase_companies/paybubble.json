@@ -1,0 +1,136 @@
+{"name": "Paybubble",
+ "permalink": "paybubble",
+ "crunchbase_url": "http://www.crunchbase.com/company/paybubble",
+ "homepage_url": "http://www.paybubble.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "paybubble",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "mobile-payments",
+ "alias_list": null,
+ "email_address": "info@paybubble.com",
+ "phone_number": "",
+ "description": "Mobile Payment App",
+ "created_at": "Wed Jan 18 21:44:37 UTC 2012",
+ "updated_at": "Wed Apr 10 18:31:54 UTC 2013",
+ "overview": "\u003Cp\u003EPaybubble is a mobile payment app which allows users to pay each other and merchant seamlessly using any smartphone. Paybubble currently has apps for iphone, android and blackberry.\u003C/p\u003E\n\n\u003Cp\u003EThere are various ways to pay or accept payments as a user/merchant. You can pay using bump, GPS Proximity, Bluetooth and Contact list. Plus there is no monthly fee !\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[115,
+       150],
+      "assets/images/resized/0025/0371/250371v1-max-150x150.jpg"],
+     [[192,
+       250],
+      "assets/images/resized/0025/0371/250371v1-max-250x250.jpg"],
+     [[235,
+       305],
+      "assets/images/resized/0025/0371/250371v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Rajiv",
+      "last_name": "Hira",
+      "permalink": "rajiv-hira",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ravi",
+      "last_name": "Sathe",
+      "permalink": "ravi-sathe",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Prakhar",
+      "last_name": "Aghamkar",
+      "permalink": "prakhar-aghamkar",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dwolla",
+      "permalink": "dwolla",
+      "image":
+       {"available_sizes":
+         [[[114,
+            114],
+           "assets/images/resized/0006/8709/68709v8-max-150x150.png"],
+          [[114,
+            114],
+           "assets/images/resized/0006/8709/68709v8-max-250x250.png"],
+          [[114,
+            114],
+           "assets/images/resized/0006/8709/68709v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Square",
+      "permalink": "square",
+      "image":
+       {"available_sizes":
+         [[[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-150x150.png"],
+          [[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-250x250.png"],
+          [[136,
+            34],
+           "assets/images/resized/0006/8147/68147v18-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Venmo",
+      "permalink": "venmo",
+      "image":
+       {"available_sizes":
+         [[[143,
+            47],
+           "assets/images/resized/0006/9643/69643v4-max-150x150.png"],
+          [[143,
+            47],
+           "assets/images/resized/0006/9643/69643v4-max-250x250.png"],
+          [[143,
+            47],
+           "assets/images/resized/0006/9643/69643v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$30k",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 30000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 10,
+    "funded_day": 10,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

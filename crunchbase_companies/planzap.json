@@ -1,0 +1,177 @@
+{"name": "PlanZap",
+ "permalink": "planzap",
+ "crunchbase_url": "http://www.crunchbase.com/company/planzap",
+ "homepage_url": "http://www.planzap.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zapcorp",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-booking, online-appointments, professionals, ratings, reviews",
+ "alias_list": null,
+ "email_address": "support@planzap.com",
+ "phone_number": "2407311152",
+ "description": "Book Professionals Online Today",
+ "created_at": "Sun Feb 12 03:35:33 UTC 2012",
+ "updated_at": "Fri Oct 05 14:12:35 UTC 2012",
+ "overview": "\u003Cp\u003EPlanZap allows online booking for customer recommended, top rated professionals across the nation. \u003C/p\u003E\n\n\u003Cp\u003EWe serve plumbers,electricians, home re modelers, hair stylists, acupuncturists, exterminators, massage therapists, marriage therapists, mechanics, veterinarians, locksmiths, house cleaners \u0026amp; more!  We have professionals from New York, Washington DC, Los Angeles, Chicago, \u0026amp; more!\u003C/p\u003E\n\n\u003Cp\u003EOur professionals all have aggregated reviews \u0026amp; ratings from top review sites like Yelp \u0026amp; CitySearch. After your booking, you will receive automatic email reminders.   With just a few clicks online, you are able find \u0026amp; book the best professional today.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0017/3879/173879v4-max-150x150.png"],
+     [[199,
+       59],
+      "assets/images/resized/0017/3879/173879v4-max-250x250.png"],
+     [[199,
+       59],
+      "assets/images/resized/0017/3879/173879v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Anuj",
+      "last_name": "Gupta",
+      "permalink": "anuj-gupta-3",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Sherman",
+      "permalink": "mike-sherman-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ZocDoc",
+      "permalink": "zocdoc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0000/0250/250v1-max-150x150.png"],
+          [[200,
+            44],
+           "assets/images/resized/0000/0250/250v1-max-250x250.png"],
+          [[200,
+            44],
+           "assets/images/resized/0000/0250/250v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Schedulicity",
+      "permalink": "schedulicity",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0011/7217/117217v2-max-150x150.png"],
+          [[188,
+            64],
+           "assets/images/resized/0011/7217/117217v2-max-250x250.png"],
+          [[188,
+            64],
+           "assets/images/resized/0011/7217/117217v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Genbook",
+      "permalink": "genbook",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/6416/26416v4-max-150x150.jpg"],
+          [[250,
+            50],
+           "assets/images/resized/0002/6416/26416v4-max-250x250.jpg"],
+          [[450,
+            90],
+           "assets/images/resized/0002/6416/26416v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ServiceMagic",
+      "permalink": "servicemagic",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0002/9468/29468v4-max-150x150.jpg"],
+          [[182,
+            51],
+           "assets/images/resized/0002/9468/29468v4-max-250x250.jpg"],
+          [[182,
+            51],
+           "assets/images/resized/0002/9468/29468v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Angie's List",
+      "permalink": "angies-list",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/7144/17144v1-max-150x150.jpg"],
+          [[250,
+            62],
+           "assets/images/resized/0001/7144/17144v1-max-250x250.jpg"],
+          [[262,
+            66],
+           "assets/images/resized/0001/7144/17144v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$10k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 10000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "2101 Chestnut",
+    "address2": "Suite 1605",
+    "zip_code": "19103",
+    "city": "Philadelphia",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        125],
+       "assets/images/resized/0017/3878/173878v2-max-150x150.png"],
+      [[250,
+        208],
+       "assets/images/resized/0017/3878/173878v2-max-250x250.png"],
+      [[300,
+        250],
+       "assets/images/resized/0017/3878/173878v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

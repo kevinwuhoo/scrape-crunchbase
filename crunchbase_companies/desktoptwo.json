@@ -1,0 +1,145 @@
+{"name": "Desktoptwo",
+ "permalink": "desktoptwo",
+ "crunchbase_url": "http://www.crunchbase.com/company/desktoptwo",
+ "homepage_url": "http://desktoptwo.com/",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2006,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "webos",
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": "(212) 905-6095",
+ "description": null,
+ "created_at": "Sun Dec 02 05:58:48 UTC 2007",
+ "updated_at": "Sat Nov 15 14:50:18 UTC 2008",
+ "overview": "\u003Cp\u003EDesktoptwo is another contender in the market of internet based \u0026#8220;operating systems\u0026#8221;. Developed by parent company, Sapotek, Desktoptwo remains in beta as of December 2007. It claims to have acquired more than 160,000 active users since its launch in August 2006.  Desktoptwo is fully web-based and requires Flash player to operate. A key, and possibly winning, feature is the hard drive application. Users are given 1 GB of free storage on Desktoptwo. While a slew of companies offer free online storage (see \u003Ca href=\"http://www.techcrunch.com/2006/01/31/the-online-storage-gang/\" title=\"here\"\u003Ehere\u003C/a\u003E), users may prefer Desktoptwo as it is integrated with many other features. \u003C/p\u003E\n\n\u003Cp\u003ESome (self-explanatory) applications found on Desktoptwo include: Mail \u0026#8211; with POP3 functionality, Address book, My Website Creator, mp3 player, and RSS Reader. Also, Desktoptwo uses a number of open-source applications, notably Open Office as its productivity suite.  Unlike some other online desktops, the web applications found on Desktoptwo are built on the same open source scripting language as Desktoptwo itself \u0026#8211; PHP.\u003C/p\u003E\n\n\u003Cp\u003ESapotek has also created a Spanish language version of Desktoptwo called Computadora.de\u003C/p\u003E\n\n\u003Cp\u003ECompetitors include \u003Ca href=\"http://www.crunchbase.com/company/youOS\" title=\"YouOS\"\u003EYouOS\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/eyeos\" title=\"eyeOS\"\u003EeyeOS\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/G.ho.st\" title=\"G.ho.st\"\u003EG.ho.st\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0000/2440/2440v1-max-150x150.png"],
+     [[200,
+       57],
+      "assets/images/resized/0000/2440/2440v1-max-250x250.png"],
+     [[200,
+       57],
+      "assets/images/resized/0000/2440/2440v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Desktoptwo",
+    "permalink": "desktoptwo",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and President",
+    "person":
+     {"first_name": "Joshua D.",
+      "last_name": "Rand",
+      "permalink": "joshua-d-rand",
+      "image": null}},
+   {"is_past": false,
+    "title": "Director of Technological Development",
+    "person":
+     {"first_name": "Oscar",
+      "last_name": "Mondrag\u00c3\u0192\u00c2\u00b3n",
+      "permalink": "oscar-mondrag-a-3n",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "eyeOS",
+      "permalink": "eyeos",
+      "image":
+       {"available_sizes":
+         [[[56,
+            46],
+           "assets/images/resized/0000/2434/2434v1-max-150x150.png"],
+          [[56,
+            46],
+           "assets/images/resized/0000/2434/2434v1-max-250x250.png"],
+          [[56,
+            46],
+           "assets/images/resized/0000/2434/2434v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "YouOS",
+      "permalink": "youos",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0000/2305/2305v3-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0000/2305/2305v3-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0000/2305/2305v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "G.ho.st",
+      "permalink": "g-ho-st",
+      "image":
+       {"available_sizes":
+         [[[150,
+            84],
+           "assets/images/resized/0001/8748/18748v1-max-150x150.png"],
+          [[169,
+            95],
+           "assets/images/resized/0001/8748/18748v1-max-250x250.png"],
+          [[169,
+            95],
+           "assets/images/resized/0001/8748/18748v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nectil",
+      "permalink": "nectil",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0001/8867/18867v4-max-150x150.png"],
+          [[200,
+            64],
+           "assets/images/resized/0001/8867/18867v4-max-250x250.png"],
+          [[200,
+            64],
+           "assets/images/resized/0001/8867/18867v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "41 East 11th Street, 11th Floor",
+    "address2": null,
+    "zip_code": "10003",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

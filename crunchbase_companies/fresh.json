@@ -1,0 +1,102 @@
+{"name": "Fresh !",
+ "permalink": "fresh",
+ "crunchbase_url": "http://www.crunchbase.com/company/fresh",
+ "homepage_url": "http://www.agencefresh.com",
+ "blog_url": "http://www.agencefresh.com/blog",
+ "blog_feed_url": "http://www.agencefresh.com/blog/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "consulting",
+ "number_of_employees": 9,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "website-developpement, widgets, orange, e-commerce, e-business, consulting, high-value",
+ "alias_list": null,
+ "email_address": "sofresh@agencefresh.com",
+ "phone_number": "+33.180835310",
+ "description": "Website makers",
+ "created_at": "Fri Apr 17 09:09:49 UTC 2009",
+ "updated_at": "Mon Apr 20 21:12:21 UTC 2009",
+ "overview": "\u003Cp\u003EFresh ! is a french web agency specialized in mobiles platforms (like Netvibes).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0004/1658/41658v2-max-150x150.jpg"],
+     [[250,
+       93],
+      "assets/images/resized/0004/1658/41658v2-max-250x250.jpg"],
+     [[450,
+       168],
+      "assets/images/resized/0004/1658/41658v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Webges",
+    "permalink": "webges",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO / Founder",
+    "person":
+     {"first_name": "Adrien",
+      "last_name": "Cusinberche",
+      "permalink": "adrien-cusinberche",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO / Founder",
+    "person":
+     {"first_name": "Baptiste",
+      "last_name": "Guet",
+      "permalink": "baptiste-guet",
+      "image": null}},
+   {"is_past": false,
+    "title": "AD",
+    "person":
+     {"first_name": "Vanessa",
+      "last_name": "Mangavel",
+      "permalink": "vanessa-mangavel",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$100k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 5,
+    "funded_day": 15,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "6, rue Jules Simon",
+    "address2": "",
+    "zip_code": "92100",
+    "city": "Boulogne",
+    "state_code": null,
+    "country_code": "FRA",
+    "latitude": 48.8424529,
+    "longitude": 2.2430452}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

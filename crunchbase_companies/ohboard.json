@@ -1,0 +1,93 @@
+{"name": "OhBoard",
+ "permalink": "ohboard",
+ "crunchbase_url": "http://www.crunchbase.com/company/ohboard",
+ "homepage_url": "http://ohboard.com",
+ "blog_url": "http://blog.ohboard.com",
+ "blog_feed_url": "",
+ "twitter_username": "OhBoard",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2010,
+ "founded_month": 12,
+ "founded_day": 22,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "whiteboard, chrome, mockup, sketch, wireframe",
+ "alias_list": null,
+ "email_address": "stephen@ohboard.com",
+ "phone_number": "",
+ "description": "Whiteboard Application for Chrome",
+ "created_at": "Sun Mar 13 05:51:20 UTC 2011",
+ "updated_at": "Mon Mar 21 18:22:36 UTC 2011",
+ "overview": "\u003Cp\u003EOhBoard is imple whiteboard app for Google Chrome. Great for dropping down ideas, mocking-up websites, solving math equations, and doodling.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0012/6077/126077v2-max-150x150.png"],
+     [[250,
+       55],
+      "assets/images/resized/0012/6077/126077v2-max-250x250.png"],
+     [[288,
+       64],
+      "assets/images/resized/0012/6077/126077v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Creator",
+    "person":
+     {"first_name": "Stephen",
+      "last_name": "Ou",
+      "permalink": "stephen-ou",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0006/8618/68618v2-max-150x150.png"],
+          [[80,
+            80],
+           "assets/images/resized/0006/8618/68618v2-max-250x250.png"],
+          [[80,
+            80],
+           "assets/images/resized/0006/8618/68618v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        103],
+       "assets/images/resized/0012/6076/126076v2-max-150x150.png"],
+      [[250,
+        171],
+       "assets/images/resized/0012/6076/126076v2-max-250x250.png"],
+      [[400,
+        275],
+       "assets/images/resized/0012/6076/126076v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "https://chrome.google.com/webstore/detail/bcnblihahnkghhpfanepicglgedodjof",
+    "title": "OhBoard on Chrome Web Store"},
+   {"external_url": "http://teensintech.com/2010/12/ohboard-is-your-whiteboard-solution-in-a-browser/",
+    "title": "OhBoard is your whiteboard solution in a browser"}]}

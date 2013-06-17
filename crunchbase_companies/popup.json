@@ -1,0 +1,127 @@
+{"name": "PopUp",
+ "permalink": "popup",
+ "crunchbase_url": "http://www.crunchbase.com/company/popup",
+ "homepage_url": "http://www.popupapp.co",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "doubledotpopup",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@popupapp.co",
+ "phone_number": "",
+ "description": "Place-based communication",
+ "created_at": "Wed Jan 23 00:16:45 UTC 2013",
+ "updated_at": "Wed Jan 30 14:43:00 UTC 2013",
+ "overview": "\u003Cp\u003EPopUp is like Twitter for places - With the PopUp App, you follow people and brands and their messages are delivered to you not on a timeline, but automatically to your phone, at physical locations as you move through your day.  Only the most relevant info about where you are, from the friends and brands you trust, is delivered to you. And you can then create popups, too, and leave them for your friends and followers for them to discover. The PopUp App and APIs allows anyone - a person, a brand, an advertiser, a content publisher - to create content that is delivered to their audience at a specified location. \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Co-Founder",
+    "person":
+     {"first_name": "Dov",
+      "last_name": "Cohn",
+      "permalink": "dov-cohn",
+      "image":
+       {"available_sizes":
+         [[[138,
+            150],
+           "assets/images/resized/0026/4468/264468v1-max-150x150.jpg"],
+          [[231,
+            250],
+           "assets/images/resized/0026/4468/264468v1-max-250x250.jpg"],
+          [[231,
+            250],
+           "assets/images/resized/0026/4468/264468v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Co-Founder, Head of Product",
+    "person":
+     {"first_name": "Fitch",
+      "last_name": "Carrere",
+      "permalink": "fitch-carrere",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder, Head of Technology",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Humphries",
+      "permalink": "jason-humphries",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0015/1524/151524v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0015/1524/151524v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0015/1524/151524v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$50k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 50000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Triangle Startup Factory",
+         "permalink": "triangle-startup-factory",
+         "image":
+          {"available_sizes":
+            [[[150,
+               50],
+              "assets/images/resized/0027/2923/272923v1-max-150x150.png"],
+             [[198,
+               66],
+              "assets/images/resized/0027/2923/272923v1-max-250x250.png"],
+             [[198,
+               66],
+              "assets/images/resized/0027/2923/272923v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Durham",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": 35.999451,
+    "longitude": -78.898811}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

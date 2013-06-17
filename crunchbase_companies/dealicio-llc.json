@@ -1,0 +1,156 @@
+{"name": "Dealicio, LLC",
+ "permalink": "dealicio-llc",
+ "crunchbase_url": "http://www.crunchbase.com/company/dealicio-llc",
+ "homepage_url": "http://www.dealicio.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "grahamclarke",
+ "category_code": "ecommerce",
+ "number_of_employees": 8,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "deals, platform, saas, deal-platform",
+ "alias_list": null,
+ "email_address": "info@dealicio.com",
+ "phone_number": "603-643-9955",
+ "description": "Deal Platform",
+ "created_at": "Fri May 20 05:45:57 UTC 2011",
+ "updated_at": "Wed May 25 08:12:44 UTC 2011",
+ "overview": "\u003Cp\u003EDealicio is a Social Commerce Deal platform that helps media companies\ngenerate revenue with their own Daily Deal, Group Buying, Gift\nCertificate, and transactional advertising programs.  The Dealicio platform is a fully hosted software-as-a-service solution that makes it easy for customers to\nquickly deploy fully branded social commerce deal sites.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0013/5534/135534v2-max-150x150.png"],
+     [[250,
+       103],
+      "assets/images/resized/0013/5534/135534v2-max-250x250.png"],
+     [[450,
+       185],
+      "assets/images/resized/0013/5534/135534v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Dealicio Deal Platform",
+    "permalink": "dealicio-deal-platform",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Graham",
+      "last_name": "Clarke",
+      "permalink": "graham-clarke",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Group Commerce",
+      "permalink": "group-commerce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0012/1928/121928v2-max-150x150.jpg"],
+          [[250,
+            69],
+           "assets/images/resized/0012/1928/121928v2-max-250x250.jpg"],
+          [[450,
+            125],
+           "assets/images/resized/0012/1928/121928v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ChompOn",
+      "permalink": "chompon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0008/7292/87292v2-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0008/7292/87292v2-max-250x250.png"],
+          [[328,
+            94],
+           "assets/images/resized/0008/7292/87292v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nimble Commerce",
+      "permalink": "nimble-commerce",
+      "image":
+       {"available_sizes":
+         [[[150,
+            26],
+           "assets/images/resized/0024/5657/245657v1-max-150x150.png"],
+          [[250,
+            43],
+           "assets/images/resized/0024/5657/245657v1-max-250x250.png"],
+          [[359,
+            63],
+           "assets/images/resized/0024/5657/245657v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Deal Current Network",
+      "permalink": "deal-current-network",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0011/1716/111716v3-max-150x150.png"],
+          [[173,
+            36],
+           "assets/images/resized/0011/1716/111716v3-max-250x250.png"],
+          [[173,
+            36],
+           "assets/images/resized/0011/1716/111716v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Deal Co-op",
+      "permalink": "deal-co-op",
+      "image":
+       {"available_sizes":
+         [[[150,
+            113],
+           "assets/images/resized/0010/6084/106084v2-max-150x150.png"],
+          [[200,
+            152],
+           "assets/images/resized/0010/6084/106084v2-max-250x250.png"],
+          [[200,
+            152],
+           "assets/images/resized/0010/6084/106084v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Main St",
+    "address2": "",
+    "zip_code": "03755",
+    "city": "Hanover",
+    "state_code": "NH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.kelseygroup.com/index.php/2011/02/15/dealicio-the-social-impact-of-daily-deals/",
+    "title": "The Social Impact of Daily Deals"},
+   {"external_url": "http://talkstreamlive.wordpress.com/2011/04/27/talk-stream-live-to-add-group-buying-feature/",
+    "title": "TalkStream Live Adds Group Buying Feature"}]}

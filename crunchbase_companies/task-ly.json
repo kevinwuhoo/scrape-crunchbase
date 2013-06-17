@@ -1,0 +1,122 @@
+{"name": "task.ly",
+ "permalink": "task-ly",
+ "crunchbase_url": "http://www.crunchbase.com/company/task-ly",
+ "homepage_url": "http://task.ly/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "taskly",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "personal-productivity, to-do-list-management",
+ "alias_list": "",
+ "email_address": "hello@task.ly",
+ "phone_number": "",
+ "description": "to-do management re-everythinged",
+ "created_at": "Wed Dec 09 04:59:07 UTC 2009",
+ "updated_at": "Fri Feb 24 05:18:33 UTC 2012",
+ "overview": "\u003Cp\u003EA to-do management webapp powered by natural language processing and semantic analysis.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0006/8960/68960v5-max-150x150.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0006/8960/68960v5-max-250x250.jpg"],
+     [[200,
+       200],
+      "assets/images/resized/0006/8960/68960v5-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder (product/business)",
+    "person":
+     {"first_name": "Dmitry",
+      "last_name": "Gorshkov",
+      "permalink": "dmitry-gorshkov",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder (tech)",
+    "person":
+     {"first_name": "Roman",
+      "last_name": "Kutanov",
+      "permalink": "roman-kutanov",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0013/4348/134348v2-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0013/4348/134348v2-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0013/4348/134348v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Toodledo",
+      "permalink": "toodledo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0003/2561/32561v2-max-150x150.png"],
+          [[247,
+            63],
+           "assets/images/resized/0003/2561/32561v2-max-250x250.png"],
+          [[247,
+            63],
+           "assets/images/resized/0003/2561/32561v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Checklist.com",
+      "permalink": "checklist-com",
+      "image": null}},
+   {"competitor":
+     {"name": "Racios.com",
+      "permalink": "racios-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Site shut down",
+    "stoned_year": 2011,
+    "stoned_month": 4,
+    "stoned_day": 4,
+    "source_url": "http://blog.task.ly/",
+    "source_text": null,
+    "source_description": "site blog",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "task.ly",
+      "permalink": "task-ly"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,124 @@
+{"name": "Introspectr",
+ "permalink": "introspectr",
+ "crunchbase_url": "http://www.crunchbase.com/company/introspectr",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "introspectr",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "simon@introspectr.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Wed Oct 13 01:09:58 UTC 2010",
+ "updated_at": "Mon Nov 15 18:41:43 UTC 2010",
+ "overview": "\u003Cp\u003EIntrospectr is a private search engine still in beta that helps you keep track of things you read on social streams. \nAs a user, you give Introspectr access to your Twitter, Facebook, and Gmail accounts, and it indexes them for you, along with the content of any email attachments or the underlying pages of any links.  Then you can just search for any term and up come all the Tweets, emails, and Facebook messages where that might appear.\nThus, Introspectr is a search engine for your personal cloud. \nIt was one of the companies accepted to the SeedStart incubator program for the summer of 2010. More details about the program can found \u003Ca href=\"http://www.nycseed.com/seedstart.html\" title=\"here\" rel=\"nofollow\"\u003Ehere\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       24],
+      "assets/images/resized/0010/5318/105318v1-max-150x150.png"],
+     [[250,
+       40],
+      "assets/images/resized/0010/5318/105318v1-max-250x250.png"],
+     [[271,
+       44],
+      "assets/images/resized/0010/5318/105318v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Simon",
+      "last_name": "Murtha Smith",
+      "permalink": "simon-murtha-smith",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0010/6465/106465v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0010/6465/106465v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0010/6465/106465v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Lonnie",
+      "last_name": "Rosenbaum",
+      "permalink": "lonnie-rosenbaum",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Sentimnt",
+      "permalink": "sentimnt",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0009/7139/97139v1-max-150x150.png"],
+          [[201,
+            67],
+           "assets/images/resized/0009/7139/97139v1-max-250x250.png"],
+          [[201,
+            67],
+           "assets/images/resized/0009/7139/97139v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gremlin",
+      "permalink": "gremlin",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Brooklyn",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0010/5319/105319v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0010/5319/105319v1-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0010/5319/105319v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2010/10/12/introspectr-search-social/",
+    "title": "TechCrunch"}]}

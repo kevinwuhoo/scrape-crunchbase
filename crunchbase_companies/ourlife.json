@@ -1,0 +1,131 @@
+{"name": "Ourlife",
+ "permalink": "ourlife",
+ "crunchbase_url": "http://www.crunchbase.com/company/ourlife",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "OurlifeApp",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-network, telecommunications, location-based-services, mobile-coupons",
+ "alias_list": null,
+ "email_address": "Info@Ourlifeapp.com",
+ "phone_number": "",
+ "description": "Voxer with Daily Deals",
+ "created_at": "Tue Nov 13 00:22:36 UTC 2012",
+ "updated_at": "Thu Dec 06 06:06:02 UTC 2012",
+ "overview": "\u003Cp\u003EOurlife is a social savings app that allows users to locate, earn and share consumer rewards and to connect with friends and family using the Push-To-Talk (PTT) feature that is integrated with a visual map, all through the use of mobile devices. Users earn the deal of the day, among other consumer rewards, by tagging themselves, either manually or automatically, at the places they visit.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       148],
+      "assets/images/resized/0022/0132/220132v2-max-150x150.jpg"],
+     [[250,
+       247],
+      "assets/images/resized/0022/0132/220132v2-max-250x250.jpg"],
+     [[450,
+       446],
+      "assets/images/resized/0022/0132/220132v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "John",
+      "last_name": "Ware",
+      "permalink": "john-ware",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "LeBlanc",
+      "permalink": "eric-leblanc",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Voxer LLC",
+      "permalink": "voxer-llc",
+      "image":
+       {"available_sizes":
+         [[[123,
+            150],
+           "assets/images/resized/0003/3859/33859v10-max-150x150.jpg"],
+          [[204,
+            247],
+           "assets/images/resized/0003/3859/33859v10-max-250x250.jpg"],
+          [[204,
+            247],
+           "assets/images/resized/0003/3859/33859v10-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Groupon",
+      "permalink": "groupon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            66],
+           "assets/images/resized/0002/5604/25604v10-max-150x150.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-250x250.png"],
+          [[231,
+            102],
+           "assets/images/resized/0002/5604/25604v10-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "foursquare",
+      "permalink": "foursquare",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0003/8526/38526v7-max-150x150.png"],
+          [[250,
+            69],
+           "assets/images/resized/0003/8526/38526v7-max-250x250.png"],
+          [[442,
+            122],
+           "assets/images/resized/0003/8526/38526v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0022/2903/222903v3-max-150x150.jpg"],
+      [[250,
+        156],
+       "assets/images/resized/0022/2903/222903v3-max-250x250.jpg"],
+      [[450,
+        281],
+       "assets/images/resized/0022/2903/222903v3-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "https://angel.co/ourlife",
+    "title": "Angel-list"}]}

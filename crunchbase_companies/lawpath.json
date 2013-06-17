@@ -1,0 +1,87 @@
+{"name": "LawPath",
+ "permalink": "lawpath",
+ "crunchbase_url": "http://www.crunchbase.com/company/lawpath",
+ "homepage_url": "http://lawpath.com.au",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "legal",
+ "number_of_employees": 9,
+ "founded_year": 2013,
+ "founded_month": 2,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "lawpath, sydney, legal-assistance, lawyers, solicitors, legal-internet-start-up, pollenizer, australia, paul-lupson, phil-morle, andy-rose, australias-leading-legal-website, sky-news-business, sydney-morning-herald",
+ "alias_list": null,
+ "email_address": "lawpath@lawpath.com.au",
+ "phone_number": "",
+ "description": "Connecting clients \u0026 lawyers at low cost",
+ "created_at": "Tue Mar 19 23:25:24 UTC 2013",
+ "updated_at": "Tue Mar 19 23:31:22 UTC 2013",
+ "overview": "\u003Cp\u003ELawPath enables clients to speak directly to an experienced lawyer for up to 30 minutes for just $29.\u003C/p\u003E\n\n\u003Cp\u003EIf the clients issue is too large to resolve within those 30 minutes LawPath have negotiated a discount of between 10 - 20% off the lawyers hourly rate, only for LawPath clients.\u003C/p\u003E\n\n\u003Cp\u003ELawPath was founded in February 2013, is based in Sydney, Australia and is backed by successful internet incubator Pollenizer.\u003C/p\u003E\n\n\u003Cp\u003ECo-founders are Paul Lupson (CEO), Phil Morle (COO) and Andy Rose (CTO), all of whom have extensive internet experience.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder \u0026 CEO",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Lupson",
+      "permalink": "paul-lupson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            101],
+           "assets/images/resized/0021/7542/217542v2-max-150x150.jpg"],
+          [[233,
+            158],
+           "assets/images/resized/0021/7542/217542v2-max-250x250.jpg"],
+          [[233,
+            158],
+           "assets/images/resized/0021/7542/217542v2-max-450x450.jpg"]],
+        "attribution": "\u003Cp\u003EPaul Lupson\u003C/p\u003E"}}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "Pollenizer",
+      "permalink": "pollenizer",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Sydney Headquarters",
+    "address1": "180 Commonwealth Street",
+    "address2": "Surry Hills",
+    "zip_code": "2010",
+    "city": "Sydney",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -33.882363,
+    "longitude": 151.211024}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.skynews.com.au/video/?vId=3863056\u0026cId=Programs\u0026play=true",
+    "title": "LawPath CEO Paul Lupson live on Sky News Business"},
+   {"external_url": "http://www.shoestring.com.au/2013/03/pollenizer-helps-launch-lawpath-subscription-legal-services/",
+    "title": "ShoeString Start Up Article"},
+   {"external_url": "http://www.startupsmart.com.au/management/pollenizer-launches-law-start-up-following-new-privacy-policy-laws/201302148920.html",
+    "title": "StartUpSmart Article on LawPath launch"}]}

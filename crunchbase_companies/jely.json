@@ -1,0 +1,117 @@
+{"name": "Jely",
+ "permalink": "jely",
+ "crunchbase_url": "http://www.crunchbase.com/company/jely",
+ "homepage_url": "http://je.ly",
+ "blog_url": "http://blog.je.ly/",
+ "blog_feed_url": "http://blog.je.ly/feed/",
+ "twitter_username": "jelyinc",
+ "category_code": "search",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 5,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "local-search, geolocation, geolocation-search, url-shortening",
+ "alias_list": null,
+ "email_address": "1@je.ly",
+ "phone_number": "415-351-8497",
+ "description": "Twitter Geolocation/Utility App",
+ "created_at": "Mon Mar 01 23:55:42 UTC 2010",
+ "updated_at": "Tue Mar 02 23:10:35 UTC 2010",
+ "overview": "\u003Cp\u003EJely provides URL shortening services for geolocation and local searches. Because of the compressive nature of Twitter and other micro-blogging technologies, character real estate is very important. It is often difficult to provide geolocation search, mapping and other data in a single tweet. Jely\u0026#8217;s services combines all of those into a single shortened URL.\u003C/p\u003E\n\n\u003Cp\u003EJely plans future products using our interactive, geolocation shortening technology.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Storm",
+      "last_name": "Bear Williams",
+      "permalink": "storm-bear-williams",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "bitly",
+      "permalink": "bitly-2",
+      "image":
+       {"available_sizes":
+         [[[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-150x150.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-250x250.png"],
+          [[139,
+            66],
+           "assets/images/resized/0002/1732/21732v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Gowalla",
+      "permalink": "gowalla",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/5118/25118v5-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-250x250.png"],
+          [[250,
+            250],
+           "assets/images/resized/0002/5118/25118v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Seesmic",
+      "permalink": "seesmic",
+      "image":
+       {"available_sizes":
+         [[[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-150x150.png"],
+          [[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-250x250.png"],
+          [[145,
+            48],
+           "assets/images/resized/0000/1210/1210v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        90],
+       "assets/images/resized/0007/8721/78721v2-max-150x150.jpg"],
+      [[250,
+        150],
+       "assets/images/resized/0007/8721/78721v2-max-250x250.jpg"],
+      [[450,
+        270],
+       "assets/images/resized/0007/8721/78721v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://je.ly",
+    "title": "Jely"},
+   {"external_url": "http://blog.je.ly",
+    "title": "Jely Blog"},
+   {"external_url": "http://twitter.com/jelyinc",
+    "title": "@jelyinc"}]}

@@ -1,0 +1,186 @@
+{"name": "Plupper",
+ "permalink": "plupper",
+ "crunchbase_url": "http://www.crunchbase.com/company/plupper",
+ "homepage_url": "http://www.plupper.com",
+ "blog_url": "http://twitter.com/plupper",
+ "blog_feed_url": "http://twitter.com/statuses/user_timeline/22646118.atom",
+ "twitter_username": null,
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "xmpp, jabber, chat, free, support, selfcare, customer-care, saas, live-chat, live-support, cloud-computing, cloud",
+ "alias_list": null,
+ "email_address": "info@plupper.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Feb 20 11:14:00 UTC 2009",
+ "updated_at": "Sun Jul 11 05:30:20 UTC 2010",
+ "overview": "\u003Cp\u003EPlupper provides an \u0026#8220;single point of contact\u0026#8221; service based on the XMPP (Jabber) communication protocol. Plupper is free even for commercial use.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0003/6616/36616v2-max-150x150.png"],
+     [[180,
+       90],
+      "assets/images/resized/0003/6616/36616v2-max-250x250.png"],
+     [[180,
+       90],
+      "assets/images/resized/0003/6616/36616v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Plupper xmpp web chat",
+    "permalink": "plupper-xmpp-web-chat",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO and Founder",
+    "person":
+     {"first_name": "Stanislav",
+      "last_name": "Minar",
+      "permalink": "stanislav-minar",
+      "image": null}},
+   {"is_past": false,
+    "title": "Vice President Marketing and Founder",
+    "person":
+     {"first_name": "Peter",
+      "last_name": "Macsadi",
+      "permalink": "peter-macsadi",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "SuggestionBox.com",
+      "permalink": "suggestionbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/0598/598v2-max-150x150.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/0598/598v2-max-250x250.png"],
+          [[200,
+            53],
+           "assets/images/resized/0000/0598/598v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UserVoice",
+      "permalink": "uservoice",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0001/7497/17497v14-max-150x150.png"],
+          [[250,
+            62],
+           "assets/images/resized/0001/7497/17497v14-max-250x250.png"],
+          [[450,
+            112],
+           "assets/images/resized/0001/7497/17497v14-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Get Satisfaction",
+      "permalink": "satisfaction",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0000/0766/766v5-max-150x150.jpg"],
+          [[250,
+            58],
+           "assets/images/resized/0000/0766/766v5-max-250x250.jpg"],
+          [[450,
+            104],
+           "assets/images/resized/0000/0766/766v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LivePerson",
+      "permalink": "liveperson",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0002/9429/29429v3-max-150x150.png"],
+          [[250,
+            36],
+           "assets/images/resized/0002/9429/29429v3-max-250x250.png"],
+          [[299,
+            44],
+           "assets/images/resized/0002/9429/29429v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Olark",
+      "permalink": "olark",
+      "image":
+       {"available_sizes":
+         [[[150,
+            96],
+           "assets/images/resized/0001/8789/18789v8-max-150x150.png"],
+          [[250,
+            160],
+           "assets/images/resized/0001/8789/18789v8-max-250x250.png"],
+          [[450,
+            288],
+           "assets/images/resized/0001/8789/18789v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "OggChat",
+      "permalink": "oggchat",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0006/2831/62831v2-max-150x150.png"],
+          [[220,
+            74],
+           "assets/images/resized/0006/2831/62831v2-max-250x250.png"],
+          [[220,
+            74],
+           "assets/images/resized/0006/2831/62831v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Prague Office",
+    "address1": "Mattioliho 3274/7",
+    "address2": "",
+    "zip_code": "10600",
+    "city": "Prague",
+    "state_code": null,
+    "country_code": "CZE",
+    "latitude": 50.0528269,
+    "longitude": 14.5120024}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        111],
+       "assets/images/resized/0006/3729/63729v2-max-150x150.png"],
+      [[250,
+        185],
+       "assets/images/resized/0006/3729/63729v2-max-250x250.png"],
+      [[450,
+        333],
+       "assets/images/resized/0006/3729/63729v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://younoodle.com/startups/plupper",
+    "title": ""}]}

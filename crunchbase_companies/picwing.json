@@ -1,0 +1,129 @@
+{"name": "Picwing",
+ "permalink": "picwing",
+ "crunchbase_url": "http://www.crunchbase.com/company/picwing",
+ "homepage_url": "http://www.picwing.com/",
+ "blog_url": "http://picwing.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "picwing",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "digital-frame, photo-sharing",
+ "alias_list": "",
+ "email_address": "support@picwing.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Aug 15 17:54:14 UTC 2008",
+ "updated_at": "Mon Mar 25 16:08:27 UTC 2013",
+ "overview": "\u003Cp\u003EPicwing is a photo sharing platform that enables users to share their photos through a variety of sources. \u003C/p\u003E\n\n\u003Cp\u003EPicwing offers a convenient printing service where their users can send photos through email using a camera or computer. These photos are printed and mailed to one or more recipients every 2 weeks. \u003C/p\u003E\n\n\u003Cp\u003EPicwing also provides digital photo frames built upon a Linux kernel.  Users can send an image from their desktop or phone, and within 20-30 seconds see it on a digital frame.  The frames are mini Linux machines that the founders hope will eventually be able to support much more than image sharing.  \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0002/3757/23757v1-max-150x150.jpg"],
+     [[247,
+       57],
+      "assets/images/resized/0002/3757/23757v1-max-250x250.jpg"],
+     [[247,
+       57],
+      "assets/images/resized/0002/3757/23757v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Enrique",
+      "last_name": "Rodriguez",
+      "permalink": "enrique-rodriguez",
+      "image":
+       {"available_sizes":
+         [[[144,
+            150],
+           "assets/images/resized/0002/3765/23765v1-max-150x150.jpg"],
+          [[240,
+            250],
+           "assets/images/resized/0002/3765/23765v1-max-250x250.jpg"],
+          [[244,
+            254],
+           "assets/images/resized/0002/3765/23765v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Founder",
+    "person":
+     {"first_name": "Edward",
+      "last_name": "Kim",
+      "permalink": "edward-kim-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            147],
+           "assets/images/resized/0002/3766/23766v3-max-150x150.png"],
+          [[250,
+            246],
+           "assets/images/resized/0002/3766/23766v3-max-250x250.png"],
+          [[450,
+            443],
+           "assets/images/resized/0002/3766/23766v3-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Chumby",
+      "permalink": "chumby",
+      "image":
+       {"available_sizes":
+         [[[150,
+            43],
+           "assets/images/resized/0000/2803/2803v1-max-150x150.png"],
+          [[173,
+            50],
+           "assets/images/resized/0000/2803/2803v1-max-250x250.png"],
+          [[173,
+            50],
+           "assets/images/resized/0000/2803/2803v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://ycombinator.com/",
+    "source_description": "Y Combinator",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2008,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "235 Berry Street,",
+    "address2": "Suite 509",
+    "zip_code": "94158",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.774082,
+    "longitude": -122.395681}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

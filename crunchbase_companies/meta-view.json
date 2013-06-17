@@ -1,0 +1,129 @@
+{"name": "Meta-View",
+ "permalink": "meta-view",
+ "crunchbase_url": "http://www.crunchbase.com/company/meta-view",
+ "homepage_url": "http://meta-view.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "metaglasses",
+ "category_code": "hardware",
+ "number_of_employees": 15,
+ "founded_year": 2012,
+ "founded_month": 12,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Augmented-Reality Glasses",
+ "created_at": "Mon May 20 18:21:06 UTC 2013",
+ "updated_at": "Mon May 20 23:13:38 UTC 2013",
+ "overview": "\u003Cp\u003EMeta is a wearable computing and augmented reality venture started out of Columbia University.\u003C/p\u003E\n\n\u003Cp\u003EMeta has developed an immersive 3-D headset, layered on top of the real world.  Meta wearers can interact with virtual games, architectural renderings and other 3-D objects by using their hands.  The device captures gestures with an outward-facing camera.  Meta believes that natural computation is the future and their goal is to bring a beautiful, flawless, and intuitive user experience to the world. \u003C/p\u003E\n\n\u003Cp\u003EMeta\u0026#8217;s competitors are \u003Ca href=\"http://www.crunchbase.com/product/google-glass\" title=\"Google Glass\"\u003EGoogle Glass\u003C/a\u003E\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0026/4588/264588v1-max-150x150.png"],
+     [[156,
+       53],
+      "assets/images/resized/0026/4588/264588v1-max-250x250.png"],
+     [[156,
+       53],
+      "assets/images/resized/0026/4588/264588v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Meron",
+      "last_name": "Gribetz",
+      "permalink": "meron-gribetz",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Ben",
+      "last_name": "Sand",
+      "permalink": "ben-sand",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Oculus VR",
+      "permalink": "oculus-vr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0026/4704/264704v1-max-150x150.png"],
+          [[250,
+            50],
+           "assets/images/resized/0026/4704/264704v1-max-250x250.png"],
+          [[295,
+            59],
+           "assets/images/resized/0026/4704/264704v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Google Glass",
+      "permalink": "google-glass",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://news.cnet.com/8301-11386_3-57584739-76/meta-glasses-bring-3d-and-your-hands-into-the-picture/",
+    "source_description": "Meta glasses bring 3D and your hands into the picture",
+    "raised_amount": null,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 5,
+    "funded_day": null,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        79],
+       "assets/images/resized/0026/4577/264577v1-max-150x150.png"],
+      [[250,
+        132],
+       "assets/images/resized/0026/4577/264577v1-max-250x250.png"],
+      [[450,
+        239],
+       "assets/images/resized/0026/4577/264577v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

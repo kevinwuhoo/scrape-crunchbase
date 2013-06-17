@@ -1,0 +1,125 @@
+{"name": "Bountii",
+ "permalink": "bountii",
+ "crunchbase_url": "http://www.crunchbase.com/company/bountii",
+ "homepage_url": "http://bountii.com",
+ "blog_url": "http://bountii.com/blog",
+ "blog_feed_url": "http://bountii.com/blog/?feed=rss2",
+ "twitter_username": "bountii",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2007,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "productsearch, y-combinator, shopping, pricesearch, search, deals",
+ "alias_list": "",
+ "email_address": "info@bountii.com",
+ "phone_number": "617.229.6051",
+ "description": "",
+ "created_at": "Fri Aug 17 06:54:43 UTC 2007",
+ "updated_at": "Sun Mar 24 16:06:01 UTC 2013",
+ "overview": "\u003Cp\u003EBountii (pronounced \u0026#8220;bounty\u0026#8221;) is a new price search engine. Emerging from the \u003Ca href=\"http://www.crunchbase.com/company/y-combinator\" title=\"Y Combinator\"\u003EY Combinator\u003C/a\u003E class of 2007, they focus on the incredibly popular and competitive category of electronics, currently crawling over 30 merchants. Bountii says they differentiate themselves from other price search engines by digging deeper into the prices. Their data includes shipping and handling, and finds especially low prices normally hidden from basic searches, like the ones Costco only shows at check out. The system can add shipping and handling by zip code.\u003C/p\u003E\n\n\u003Cp\u003EThere are many players in the crowded field of Product Search. Some competitors include: \u003Ca href=\"http://www.crunchbase.com/company/twenga\" title=\"Twenga\"\u003ETwenga\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/thefind.com\" title=\"TheFind\"\u003ETheFind\u003C/a\u003E, \u003Ca href=\"http://www.crunchbase.com/company/crowdstorm\" title=\"Crowdstorm\"\u003ECrowdstorm\u003C/a\u003E, and \u003Ca href=\"http://www.crunchbase.com/company/retrevo\" title=\"Retrevo\"\u003ERetrevo\u003C/a\u003E.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[119,
+       31],
+      "assets/images/resized/0001/4871/14871v1-max-150x150.png"],
+     [[119,
+       31],
+      "assets/images/resized/0001/4871/14871v1-max-250x250.png"],
+     [[119,
+       31],
+      "assets/images/resized/0001/4871/14871v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Bountii",
+    "permalink": "bountii",
+    "image": null}],
+ "relationships":
+  [{"is_past": null,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Puskarich",
+      "permalink": "john-puskarich",
+      "image": null}},
+   {"is_past": null,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Samir",
+      "last_name": "Meghani",
+      "permalink": "samir-meghani",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Twenga",
+      "permalink": "twenga",
+      "image":
+       {"available_sizes":
+         [[[150,
+            44],
+           "assets/images/resized/0000/2551/2551v5-max-150x150.png"],
+          [[250,
+            73],
+           "assets/images/resized/0000/2551/2551v5-max-250x250.png"],
+          [[450,
+            132],
+           "assets/images/resized/0000/2551/2551v5-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$15k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 15000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2007,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "Y Combinator",
+         "permalink": "y-combinator",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-150x150.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-250x250.png"],
+             [[150,
+               30],
+              "assets/images/resized/0001/3181/13181v9-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Palo Alto",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.437328,
+    "longitude": -122.159928}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

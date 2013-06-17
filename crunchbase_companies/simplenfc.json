@@ -1,0 +1,101 @@
+{"name": "SimpleNFC - CLOSED",
+ "permalink": "simplenfc",
+ "crunchbase_url": "http://www.crunchbase.com/company/simplenfc",
+ "homepage_url": "https://SimpleNFC.com",
+ "blog_url": "https://simplenfc.com/blog/",
+ "blog_feed_url": "https://simplenfc.com/blog/rss",
+ "twitter_username": "SimpleNFC",
+ "category_code": "mobile",
+ "number_of_employees": 0,
+ "founded_year": 2010,
+ "founded_month": 4,
+ "founded_day": 14,
+ "deadpooled_year": 2013,
+ "deadpooled_month": 1,
+ "deadpooled_day": 10,
+ "deadpooled_url": "",
+ "tag_list": "nfc, mobile-development, near-field-communications, nexus-s, nfc-tags, android",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "NFC Development Platform",
+ "created_at": "Sat Jun 25 01:40:58 UTC 2011",
+ "updated_at": "Thu Jan 10 23:55:09 UTC 2013",
+ "overview": "\u003Cp\u003ESimpleNFC.com offers an application development platform that provides developers with all the tools they need to build mobile NFC (Near Field Communications) solutions for many different industries.\u003C/p\u003E\n\n\u003Cp\u003ECurrently SimpleNFC.com is providing developers with a starter kit for the Google Nexus S NFC-enabled handset to simplify NFC development.  Each starter kit is comprised of an API, an Android library, sample code and 10 NFC Tags powered with 1KByte UPM RaceTrack\u00e2\u201e\u00a2 inlays.  With the starter kit, developers can change the behaviour of each individual NFC tag by using the developer dashboard on SimpleNFC.com.  Using the sample code provided developers can get started immediately on programming NFC applications.  The native library and API greatly simplify the development of NFC applications.\u003C/p\u003E\n\n\u003Cp\u003ESimpleNFC.com was conceptualized to be a one stop shop for NFC mobile developers.  The ultimate goal is to offer a development platform for every operating system and NFC handset available in the market.  The next step for SimpleNFC will be to enable developers to order NFC tags for their applications with custom artwork.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       109],
+      "assets/images/resized/0014/0962/140962v2-max-150x150.png"],
+     [[250,
+       181],
+      "assets/images/resized/0014/0962/140962v2-max-250x250.png"],
+     [[275,
+       200],
+      "assets/images/resized/0014/0962/140962v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO",
+    "person":
+     {"first_name": "Fred",
+      "last_name": "Rego",
+      "permalink": "fred-rego",
+      "image":
+       {"available_sizes":
+         [[[109,
+            150],
+           "assets/images/resized/0022/9172/229172v2-max-150x150.jpg"],
+          [[181,
+            250],
+           "assets/images/resized/0022/9172/229172v2-max-250x250.jpg"],
+          [[327,
+            450],
+           "assets/images/resized/0022/9172/229172v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Dave",
+      "last_name": "Dieno",
+      "permalink": "dave-dieno",
+      "image": null}},
+   {"is_past": true,
+    "title": "Vice-President",
+    "person":
+     {"first_name": "Bob",
+      "last_name": "McMillan",
+      "permalink": "bob-mcmillan",
+      "image": null}},
+   {"is_past": true,
+    "title": "Vice-President",
+    "person":
+     {"first_name": "John",
+      "last_name": "Hunter",
+      "permalink": "john-hunter",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

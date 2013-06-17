@@ -1,0 +1,88 @@
+{"name": "predic8",
+ "permalink": "predic8",
+ "crunchbase_url": "http://www.crunchbase.com/company/predic8",
+ "homepage_url": "http://predic8.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 7,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 9,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "soa, open-source, web-services, registry, monitoring",
+ "alias_list": null,
+ "email_address": "info@predic8.com",
+ "phone_number": "+4955525760",
+ "description": "Open source SOA",
+ "created_at": "Thu Nov 25 15:48:15 UTC 2010",
+ "updated_at": "Thu Dec 02 00:56:12 UTC 2010",
+ "overview": "\u003Cp\u003Epredic8 offers lightweight open source tools that help to operate a service oriented architecture successfully.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Thomas",
+      "last_name": "Bayer",
+      "permalink": "thomas-bayer",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "",
+    "address2": "",
+    "zip_code": "53173",
+    "city": "Bonn",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[134,
+        150],
+       "assets/images/resized/0011/1692/111692v2-max-150x150.png"],
+      [[224,
+        250],
+       "assets/images/resized/0011/1692/111692v2-max-250x250.png"],
+      [[404,
+        450],
+       "assets/images/resized/0011/1692/111692v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        135],
+       "assets/images/resized/0011/1693/111693v2-max-150x150.png"],
+      [[250,
+        226],
+       "assets/images/resized/0011/1693/111693v2-max-250x250.png"],
+      [[450,
+        406],
+       "assets/images/resized/0011/1693/111693v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.theserverside.com/news/thread.tss?thread_id=55100",
+    "title": "predic8 Announces Open Source SOAP Monitor"}]}

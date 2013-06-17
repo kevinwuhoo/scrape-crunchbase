@@ -1,0 +1,144 @@
+{"name": "Three Rings",
+ "permalink": "three-rings",
+ "crunchbase_url": "http://www.crunchbase.com/company/three-rings",
+ "homepage_url": "http://threerings.net",
+ "blog_url": "http://blog.threerings.org.uk/",
+ "blog_feed_url": "",
+ "twitter_username": "threerings",
+ "category_code": "web",
+ "number_of_employees": 30,
+ "founded_year": 2001,
+ "founded_month": 3,
+ "founded_day": 30,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "billing@threerings.net",
+ "phone_number": "",
+ "description": "Internet game developer",
+ "created_at": "Thu Feb 14 10:01:13 UTC 2008",
+ "updated_at": "Tue May 21 07:03:37 UTC 2013",
+ "overview": "\u003Cp\u003EThree Rings is an internet games development company based in San Francisco. Puzzle Pirates is their hit game. Three Rings is a developer of online games based in San Francisco, California, with offices in Philadelphia, PA and Madison, WI. We take pride in making innovative and engaging games that we hope have universal appeal.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       72],
+      "assets/images/resized/0001/2160/12160v1-max-150x150.png"],
+     [[201,
+       97],
+      "assets/images/resized/0001/2160/12160v1-max-250x250.png"],
+     [[201,
+       97],
+      "assets/images/resized/0001/2160/12160v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO ",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "James",
+      "permalink": "daniel-james-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/4834/264834v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4834/264834v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4834/264834v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Conduit Labs",
+      "permalink": "conduitlabs",
+      "image":
+       {"available_sizes":
+         [[[127,
+            125],
+           "assets/images/resized/0000/4507/4507v1-max-150x150.png"],
+          [[127,
+            125],
+           "assets/images/resized/0000/4507/4507v1-max-250x250.png"],
+          [[127,
+            125],
+           "assets/images/resized/0000/4507/4507v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$3.5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://venturebeat.com/2008/03/03/this-pirate-just-scored-35-million-in-vc-funds/",
+    "source_description": "Venturebeat article",
+    "raised_amount": 3500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 3,
+    "funded_day": 3,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "True Ventures",
+         "permalink": "true-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               27],
+              "assets/images/resized/0001/1176/11176v3-max-150x150.png"],
+             [[191,
+               35],
+              "assets/images/resized/0001/1176/11176v3-max-250x250.png"],
+             [[191,
+               35],
+              "assets/images/resized/0001/1176/11176v3-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Chance Technologies",
+         "permalink": "chance-technologies",
+         "image":
+          {"available_sizes":
+            [[[150,
+               17],
+              "assets/images/resized/0002/3380/23380v1-max-150x150.png"],
+             [[250,
+               29],
+              "assets/images/resized/0002/3380/23380v1-max-250x250.png"],
+             [[317,
+               38],
+              "assets/images/resized/0002/3380/23380v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.775196,
+    "longitude": -122.419204}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

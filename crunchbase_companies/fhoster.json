@@ -1,0 +1,159 @@
+{"name": "Fhoster",
+ "permalink": "fhoster",
+ "crunchbase_url": "http://www.crunchbase.com/company/fhoster",
+ "homepage_url": "http://www.fhoster.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "fhoster_com",
+ "category_code": "software",
+ "number_of_employees": 8,
+ "founded_year": 2006,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "onlinedatabase, custominformationsystem-paas, platform-as-a-service, saas, software-as-a-service",
+ "alias_list": null,
+ "email_address": "info@fhoster.com",
+ "phone_number": "+390639370001",
+ "description": "Information Systems on Demand",
+ "created_at": "Fri Mar 11 12:42:05 UTC 2011",
+ "updated_at": "Mon Jun 27 18:46:26 UTC 2011",
+ "overview": "\u003Cp\u003EFhoster is a technology venture started in September 2006, aiming to deliver on-demand information systems to small businesses via an innovative web-based platform called LiveBase. \u003C/p\u003E\n\n\u003Cp\u003EFhoster\u0026#8217;s mission is to turn custom information systems (now an up-front risky investment) into an inexpensive commodity available on-demand to any small business for a small monthly fee.\u003C/p\u003E\n\n\u003Cp\u003EFor small and mid-sized businesses who frequently have to build just-in-time, tactical database applications for either production or front-office purposes, LiveBase is also an extremely efficient and error-proof environment for setting up, in just a matter of hours, systems that would take weeks to develop otherwise.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       27],
+      "assets/images/resized/0014/1194/141194v2-max-150x150.png"],
+     [[250,
+       45],
+      "assets/images/resized/0014/1194/141194v2-max-250x250.png"],
+     [[300,
+       55],
+      "assets/images/resized/0014/1194/141194v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Livebase",
+    "permalink": "livebase",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Antonio",
+      "last_name": "Leonforte",
+      "permalink": "antonio-leonforte",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Daniele",
+      "last_name": "Antonini",
+      "permalink": "daniele-antonini",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Research",
+    "person":
+     {"first_name": "Pietro",
+      "last_name": "Palladino",
+      "permalink": "pietro-palladino",
+      "image": null}},
+   {"is_past": false,
+    "title": "CFO",
+    "person":
+     {"first_name": "Piero",
+      "last_name": "Cacace",
+      "permalink": "piero-cacace",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "QuickBase",
+      "permalink": "quickbase",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0006/4271/64271v2-max-150x150.png"],
+          [[250,
+            46],
+           "assets/images/resized/0006/4271/64271v2-max-250x250.png"],
+          [[450,
+            84],
+           "assets/images/resized/0006/4271/64271v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rollbase",
+      "permalink": "rollbase",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/1498/1498v5-max-150x150.png"],
+          [[222,
+            72],
+           "assets/images/resized/0000/1498/1498v5-max-250x250.png"],
+          [[222,
+            72],
+           "assets/images/resized/0000/1498/1498v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Caspio",
+      "permalink": "caspio",
+      "image":
+       {"available_sizes":
+         [[[150,
+            35],
+           "assets/images/resized/0002/2080/22080v1-max-150x150.png"],
+          [[243,
+            58],
+           "assets/images/resized/0002/2080/22080v1-max-250x250.png"],
+          [[243,
+            58],
+           "assets/images/resized/0002/2080/22080v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "LongJump",
+      "permalink": "longjump",
+      "image":
+       {"available_sizes":
+         [[[150,
+            89],
+           "assets/images/resized/0000/3829/3829v1-max-150x150.png"],
+          [[200,
+            119],
+           "assets/images/resized/0000/3829/3829v1-max-250x250.png"],
+          [[200,
+            119],
+           "assets/images/resized/0000/3829/3829v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Via Baldo degli Ubaldi 190",
+    "address2": "",
+    "zip_code": "00167",
+    "city": "Rome",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,139 @@
+{"name": "Boomplex",
+ "permalink": "boomplex",
+ "crunchbase_url": "http://www.crunchbase.com/company/boomplex",
+ "homepage_url": "http://boomplex.com",
+ "blog_url": "http://blog.boomplex.com",
+ "blog_feed_url": "",
+ "twitter_username": "boomplex",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2009,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "chat, communication, messaging, collaboration, real-time",
+ "alias_list": "",
+ "email_address": "info@boomplex.com",
+ "phone_number": "",
+ "description": "Web Software Developer",
+ "created_at": "Tue Jul 14 18:50:26 UTC 2009",
+ "updated_at": "Wed Oct 07 19:02:45 UTC 2009",
+ "overview": "\u003Cp\u003EBoomplex LLC is a team of software developers who love to kick around ideas and make them come to life. In fact, that\u0026#8217;s what they\u0026#8217;re doing right now: check out \u003Ca href=\"http://shoptalkapp.com\" title=\"ShopTalk\" rel=\"nofollow\"\u003EShopTalk\u003C/a\u003E, Boomplex\u0026#8217;s online group discussion software for companies.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0005/2913/52913v2-max-150x150.png"],
+     [[250,
+       52],
+      "assets/images/resized/0005/2913/52913v2-max-250x250.png"],
+     [[450,
+       94],
+      "assets/images/resized/0005/2913/52913v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "ShopTalk",
+    "permalink": "shoptalk",
+    "image":
+     {"available_sizes":
+       [[[150,
+          40],
+         "assets/images/resized/0005/3039/53039v2-max-150x150.png"],
+        [[250,
+          66],
+         "assets/images/resized/0005/3039/53039v2-max-250x250.png"],
+        [[300,
+          80],
+         "assets/images/resized/0005/3039/53039v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Shoemaker",
+      "permalink": "david-shoemaker",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "37signals",
+      "permalink": "37signals",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0000/3712/3712v1-max-150x150.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-250x250.png"],
+          [[250,
+            71],
+           "assets/images/resized/0000/3712/3712v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yammer",
+      "permalink": "yammer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/4256/24256v1-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0002/4256/24256v1-max-250x250.png"],
+          [[450,
+            92],
+           "assets/images/resized/0002/4256/24256v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Present.ly",
+      "permalink": "present-ly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0002/5277/25277v2-max-150x150.png"],
+          [[216,
+            45],
+           "assets/images/resized/0002/5277/25277v2-max-250x250.png"],
+          [[216,
+            45],
+           "assets/images/resized/0002/5277/25277v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Launched public beta of ShopTalk",
+    "stoned_year": 2009,
+    "stoned_month": 7,
+    "stoned_day": 14,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Boomplex",
+      "permalink": "boomplex"}}],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,112 @@
+{"name": "StyleZen",
+ "permalink": "stylezen",
+ "crunchbase_url": "http://www.crunchbase.com/company/stylezen",
+ "homepage_url": "http://stylezen.net",
+ "blog_url": "http://blog.stylezen.net",
+ "blog_feed_url": "",
+ "twitter_username": "stylezen",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "style, fashion, clothing, discovery, collections",
+ "alias_list": null,
+ "email_address": "michael@stylezen.net",
+ "phone_number": "",
+ "description": "Fashion Discovery a'la Pandora",
+ "created_at": "Mon Feb 27 16:55:36 UTC 2012",
+ "updated_at": "Sun Jun 17 05:16:13 UTC 2012",
+ "overview": "\u003Cp\u003EStyleZen is bringing a fun, serendipitous discovery experience to online fashion shopping.  StyleZen has created a fashion feed that is customizable in real-time based on the user\u0026#8217;s preferences and interactions (much like a Pandora radio station).  Users can also create collections of items they love, share their finds with their friends, and buy the items they absolutely must have.  StyleZen is a truly personalized and fun fashion discovery experience.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Wohlschlaeger",
+      "permalink": "michael-wohlschlaeger",
+      "image": null}},
+   {"is_past": false,
+    "title": "Lead Developer",
+    "person":
+     {"first_name": "Gerard",
+      "last_name": "Sychay",
+      "permalink": "gerard-sychay",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Shopbop",
+      "permalink": "shopbop",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0011/0555/110555v1-max-150x150.jpg"],
+          [[180,
+            57],
+           "assets/images/resized/0011/0555/110555v1-max-250x250.jpg"],
+          [[180,
+            57],
+           "assets/images/resized/0011/0555/110555v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 9,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "The Brandery",
+         "permalink": "the-brandery",
+         "image":
+          {"available_sizes":
+            [[[150,
+               112],
+              "assets/images/resized/0016/6437/166437v2-max-150x150.jpg"],
+             [[250,
+               187],
+              "assets/images/resized/0016/6437/166437v2-max-250x250.jpg"],
+             [[450,
+               337],
+              "assets/images/resized/0016/6437/166437v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1411 Vine St",
+    "address2": "",
+    "zip_code": "45202",
+    "city": "Cincinnati",
+    "state_code": "OH",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,168 @@
+{"name": "Easy Insight",
+ "permalink": "easy-insight",
+ "crunchbase_url": "http://www.crunchbase.com/company/easy-insight",
+ "homepage_url": "http://www.easy-insight.com/",
+ "blog_url": "http://jamesboe.blogspot.com/",
+ "blog_feed_url": "",
+ "twitter_username": "easyinsight",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 5,
+ "founded_day": 27,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "reporting, business-intelligence, bi, analytics, dashboards, saas-bi, on-demand",
+ "alias_list": "",
+ "email_address": "jboe@easy-insight.com",
+ "phone_number": "",
+ "description": "SaaS Reporting",
+ "created_at": "Wed Aug 19 14:06:16 UTC 2009",
+ "updated_at": "Fri May 28 22:06:48 UTC 2010",
+ "overview": "\u003Cp\u003EEasy Insight provides on demand reporting and business intelligence to small and medium businesses.\u003C/p\u003E\n\n\u003Cp\u003EEasy Insight provides connections to report against other common SaaS vendors. Users are able to publish data from their own databases from a client application, upload spreadsheets or other flat files, and publish data through a SOAP API.\u003C/p\u003E\n\n\u003Cp\u003EA library of solutions provides template reports for integrated applications and industry verticals. Custom reports can be built ad hoc through a rich internet application builder tool. Users can create various grids of data, a variety of chart types, maps, and gauges to visualize their data.\u003C/p\u003E\n\n\u003Cp\u003EEasy Insight provides an overall visualization of a business\u0026#8217;s data and health through Key Performance Indicator (KPI) trees, spanning different business silos to create overall executive dashboards focused on delivering improvement to key business goals.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       34],
+      "assets/images/resized/0005/7042/57042v2-max-150x150.png"],
+     [[169,
+       39],
+      "assets/images/resized/0005/7042/57042v2-max-250x250.png"],
+     [[169,
+       39],
+      "assets/images/resized/0005/7042/57042v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "James",
+      "last_name": "Boe",
+      "permalink": "james-boe",
+      "image": null}},
+   {"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Alan",
+      "last_name": "Baldwin",
+      "permalink": "alan-baldwin",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GoodData",
+      "permalink": "good-data",
+      "image":
+       {"available_sizes":
+         [[[112,
+            20],
+           "assets/images/resized/0001/9439/19439v8-max-150x150.png"],
+          [[112,
+            20],
+           "assets/images/resized/0001/9439/19439v8-max-250x250.png"],
+          [[112,
+            20],
+           "assets/images/resized/0001/9439/19439v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "youcalc",
+      "permalink": "youcalc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0002/7395/27395v3-max-150x150.png"],
+          [[205,
+            79],
+           "assets/images/resized/0002/7395/27395v3-max-250x250.png"],
+          [[205,
+            79],
+           "assets/images/resized/0002/7395/27395v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "PivotLink",
+      "permalink": "pivotlink-formerly-seatab",
+      "image":
+       {"available_sizes":
+         [[[150,
+            27],
+           "assets/images/resized/0002/7899/27899v2-max-150x150.png"],
+          [[250,
+            45],
+           "assets/images/resized/0002/7899/27899v2-max-250x250.png"],
+          [[450,
+            81],
+           "assets/images/resized/0002/7899/27899v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Indicee",
+      "permalink": "indicee",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0006/4814/64814v1-max-150x150.jpg"],
+          [[250,
+            84],
+           "assets/images/resized/0006/4814/64814v1-max-250x250.jpg"],
+          [[450,
+            151],
+           "assets/images/resized/0006/4814/64814v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Birst",
+      "permalink": "birst",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0004/2866/42866v6-max-150x150.png"],
+          [[250,
+            67],
+           "assets/images/resized/0004/2866/42866v6-max-250x250.png"],
+          [[288,
+            78],
+           "assets/images/resized/0004/2866/42866v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "80202",
+    "city": "Denver",
+    "state_code": "CO",
+    "country_code": "USA",
+    "latitude": 39.7541032,
+    "longitude": -105.0002242}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        65],
+       "assets/images/resized/0005/7041/57041v2-max-150x150.jpg"],
+      [[250,
+        108],
+       "assets/images/resized/0005/7041/57041v2-max-250x250.jpg"],
+      [[253,
+        110],
+       "assets/images/resized/0005/7041/57041v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

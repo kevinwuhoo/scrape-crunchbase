@@ -1,0 +1,76 @@
+{"name": "Xattr",
+ "permalink": "xattr",
+ "crunchbase_url": "http://www.crunchbase.com/company/xattr",
+ "homepage_url": "http://www.xattr.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "xattr",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, storage, smb",
+ "alias_list": null,
+ "email_address": "info@xattr.com",
+ "phone_number": "(408) 634-5184",
+ "description": "Cloud based storage",
+ "created_at": "Fri Nov 26 15:49:17 UTC 2010",
+ "updated_at": "Tue Jun 28 23:32:38 UTC 2011",
+ "overview": "\u003Cp\u003EXattr helps small and medium sized companies more easily manage their corporate computing environment.\u003C/p\u003E\n\n\u003Cp\u003EXattr\u0026#8217;s first product is the CloudFiler\u00e2\u201e\u00a2.  This is a file system and appears as a mount point or drive letter on your network.  There is no programming required, so you can be storing files in the cloud today.  CloudFiler de-dups, then encrypts and streams the data to your choice of cloud providers (i.e. Amazon S3, Rackspace Cloud Files, etc.) using our proprietary algorithm to help ensure your data is available despite a cloud provider failure.  Your files are kept safely off site while secondary copies of your working set are locally cached for fast user access.  Changes to the local copies are sent back to the cloud providers.\u003C/p\u003E\n\n\u003Cp\u003EXattr is in the early launch phase and generating revenue.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       100],
+      "assets/images/resized/0011/1815/111815v2-max-150x150.png"],
+     [[216,
+       144],
+      "assets/images/resized/0011/1815/111815v2-max-250x250.png"],
+     [[216,
+       144],
+      "assets/images/resized/0011/1815/111815v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Carr",
+      "permalink": "brian-carr-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Bill",
+      "last_name": "Garrett",
+      "permalink": "bill-garrett",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

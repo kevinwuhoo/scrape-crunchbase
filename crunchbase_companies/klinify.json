@@ -1,0 +1,117 @@
+{"name": "klinify",
+ "permalink": "klinify",
+ "crunchbase_url": "http://www.crunchbase.com/company/klinify",
+ "homepage_url": "http://www.klinify.com",
+ "blog_url": "http://blog.klinify.com",
+ "blog_feed_url": "",
+ "twitter_username": "klinify",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": 11,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "health, mobile, case-note-management, patient-record-management, electronic-health-record",
+ "alias_list": null,
+ "email_address": "krish@klinify.com",
+ "phone_number": "+65 90936349 ",
+ "description": "Evernote for Doctors",
+ "created_at": "Wed Jun 05 09:09:10 UTC 2013",
+ "updated_at": "Thu Jun 06 09:56:17 UTC 2013",
+ "overview": "\u003Cp\u003EKlinify is a document management system that helps private specialist clinics manage patient records while preserving their existing workflow. It takes 20 minutes to set up our software, scanner, and tablets. The clinic can stop paper from entering the clinic by substituting paper processes with our tablet app \u2013 without any downtime. In Singapore alone this has the potential to be a $10m/year business.\u003C/p\u003E\n\n\u003Cp\u003EBusiness Premise\u003C/p\u003E\n\n\u003Cp\u003EElectronic Medical Record (EMR) systems have failed to penetrate private clinics. Singapore\u2019s $1bn NEHR is working for large hospitals but not for private clinics. We believe these topdown solutions have failed to gain traction with private GPs and specialists because the adoption dynamics have not been understood. Yet the problem is real. In high-rent Singapore, private specialist clinics at places like Mt Elizabeth allocate an average of 10% of their square footage just for paper storage \u2013 an average of $2,000/month/clinic. They see the value of electronic records but are daunted by the challenges of retraining staff and maintaining dual systems.\u003C/p\u003E\n\n\u003Cp\u003EProduct Premise\u003C/p\u003E\n\n\u003Cp\u003EFor six months, we spoke to 60 different specialists and sat at clinics just to research customer behaviour and understand user practices. We learned how clinics make buying and adoption decisions. We learned about the relationships that clinics have with patients, labs, and other clinics. We learned why doctors use paper and what it would take to replace it. Most importantly, we learned that doctors have historically been tech averse because they feel technology can fail, or is insecure, and that paper is fail safe. But they are now starting to change their minds, thanks to exposure to cloud apps like Gmail and Dropbox. This creates our opportunity. Unique Value Proposition We help doctors migrate to electronic records without changing their workflow.\u003C/p\u003E\n\n\u003Cp\u003EThis makes migration to our system easy and gradual and minimizes the learning curve.\u003C/p\u003E\n\n\u003Cp\u003EBusiness Model Innovation\u003C/p\u003E\n\n\u003Cp\u003EDoctors are notoriously price-sensitive.When we framed Klinify as an IT expense, doctors didn\u2019t want to pay. We were stuck here for months. How did we crack the nut? Doctors have been trained by pharma companies to embrace the per-patient cost\nmodel: vendors supply, doctors decide,patients pay, and clinics add a markup.This is the secret to our success. When we sell using this model, we find that doctors buy with very little resistance, because they simply pass the costs on to the patients. We actually become a profit centre when clinics pass it on to the doctors, and doctors pass it on to the patients. So we are bringing the B2B2C cloud software-as-a-service utility-based pricing model to the EMR industry.\u003C/p\u003E\n\n\u003Cp\u003ESolution\u003C/p\u003E\n\n\u003Cp\u003EOur solution has three pieces: a scanner piece to import existing case notes, a tablet app that doctors use to replace pen and paper, and a web console for viewing, searching, and managing the rest of the system. Using a tablet allows doctors to take photos, recordings, and videos of the patient, creating far richer case history.\u003C/p\u003E\n\n\u003Cp\u003EWe address concerns about cloud connectivity with a local cache so everything always keeps working.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       149],
+      "assets/images/resized/0027/1462/271462v2-max-150x150.jpg"],
+     [[150,
+       149],
+      "assets/images/resized/0027/1462/271462v2-max-250x250.jpg"],
+     [[150,
+       149],
+      "assets/images/resized/0027/1462/271462v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO, Co-Founder",
+    "person":
+     {"first_name": "Surendran",
+      "last_name": "Krishanthan",
+      "permalink": "surendran-krishanthan",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$40k",
+ "funding_rounds":
+  [{"round_code": "grant",
+    "source_url": "",
+    "source_description": "Spring ",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 5,
+    "funded_day": 8,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Spring Singapore",
+         "permalink": "spring-singapore-2",
+         "image": null},
+       "person": null}]},
+   {"round_code": "angel",
+    "source_url": "",
+    "source_description": "http://techcrunch.com/2013/02/06/singapore-incubator-jfdi-asia-announces-the-roster-for-its-first-2013-accelerator-program/",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 1,
+    "funded_day": 29,
+    "investments":
+     [{"company":
+        {"name": "JFDI.Asia",
+         "permalink": "jfdi-asia",
+         "image":
+          {"available_sizes":
+            [[[150,
+               125],
+              "assets/images/resized/0016/2038/162038v2-max-150x150.png"],
+             [[250,
+               208],
+              "assets/images/resized/0016/2038/162038v2-max-250x250.png"],
+             [[450,
+               375],
+              "assets/images/resized/0016/2038/162038v2-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Singapore",
+    "address1": "21 Heng Mui Khen Terrace",
+    "address2": "#03-35",
+    "zip_code": "119613",
+    "city": "Singapore",
+    "state_code": null,
+    "country_code": "SGP",
+    "latitude": 1.292531,
+    "longitude": 103.775785}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,101 @@
+{"name": "BrixHQ",
+ "permalink": "brixhq",
+ "crunchbase_url": "http://www.crunchbase.com/company/brixhq",
+ "homepage_url": "http://www.brixhq.com",
+ "blog_url": "http://www.brixhq.com",
+ "blog_feed_url": "",
+ "twitter_username": "BrixHQ",
+ "category_code": "enterprise",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 5,
+ "founded_day": 31,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-agile-project-management, kanban-wall, online-collaboration, lean-project-management",
+ "alias_list": null,
+ "email_address": "pete@brixhq.com",
+ "phone_number": "",
+ "description": "Online Agile Project Management ",
+ "created_at": "Mon Sep 20 13:39:13 UTC 2010",
+ "updated_at": "Thu Apr 05 00:46:39 UTC 2012",
+ "overview": "\u003Cp\u003EAgile Project Management made easy\u003C/p\u003E\n\n\u003Cp\u003EBrix is a flexible and adaptable online solution to manage your agile projects\u003C/p\u003E\n\n\u003Cp\u003ETeam collaboration across Tasks and Projects all in an online environment\u003C/p\u003E\n\n\u003Cp\u003EKanban wall components include visual workflow management across Projects and Sprints including Adding and Editing Tasks from the Wall\u003C/p\u003E\n\n\u003Cp\u003ETrack your Projects velocity, Tasks by Team Member, Tasks by Status, and Red flags against tasks that are overdue\u003C/p\u003E\n\n\u003Cp\u003EProject Reporting that you can customise and filter based on what you need\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0010/2357/102357v2-max-150x150.png"],
+     [[250,
+       87],
+      "assets/images/resized/0010/2357/102357v2-max-250x250.png"],
+     [[400,
+       140],
+      "assets/images/resized/0010/2357/102357v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Pete",
+      "last_name": "Sanders",
+      "permalink": "pete-sanders",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0014/5190/145190v2-max-150x150.png"],
+          [[150,
+            150],
+           "assets/images/resized/0014/5190/145190v2-max-250x250.png"],
+          [[150,
+            150],
+           "assets/images/resized/0014/5190/145190v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Scott",
+      "last_name": "Montgomerie",
+      "permalink": "scott-montgomerie",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Pivotal Tracker",
+      "permalink": "pivotaltracker",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        37],
+       "assets/images/resized/0010/2356/102356v2-max-150x150.png"],
+      [[250,
+        62],
+       "assets/images/resized/0010/2356/102356v2-max-250x250.png"],
+      [[450,
+        113],
+       "assets/images/resized/0010/2356/102356v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://startuptunes.com/2011/01/30/brix-online-agile-project-management-and-collaboration-tool/",
+    "title": ""}]}

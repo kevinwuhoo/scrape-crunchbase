@@ -1,0 +1,92 @@
+{"name": "Statzen",
+ "permalink": "statzen",
+ "crunchbase_url": "http://www.crunchbase.com/company/statzen",
+ "homepage_url": "http://statzen.com",
+ "blog_url": "http://blog.statzen.com",
+ "blog_feed_url": "http://blog.statzen.com/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": 2010,
+ "deadpooled_month": 2,
+ "deadpooled_day": 16,
+ "deadpooled_url": "http://twitter.com/statzen/status/9222460200",
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "crunchbase@statzen.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Fri Aug 15 14:19:23 UTC 2008",
+ "updated_at": "Fri Dec 17 22:16:01 UTC 2010",
+ "overview": "\u003Cp\u003EIf you want to know how many people read the post you wrote yesterday, then you will want to use Statzen. That is one of the most basic questions a blogger can have about their blog. The existing products do a poor job of answering that simple question for the following three reasons:\u003C/p\u003E\n\n\u003Cp\u003E1) You want to know how many times a post was viewed, regardless of the delivery channel. How many people read the post on your website? How many people read the post in your feed? How many people read the post on another website that aggregates your content? Statzen provides analytics on web and feed attention.\u003C/p\u003E\n\n\u003Cp\u003E2) Viewing web stats can be frustrating because a single post may be represented in multiple URLs (i.e. with \u00e2\u20ac\u0153www\u00e2\u20ac\u009d or without, anchor links for comments, in Google\u00e2\u20ac\u2122s cache, etc). Statzen disambiguates these URLs for you so that you no longer have to add them up in your head.\u003C/p\u003E\n\n\u003Cp\u003E3) Some pages have multiple posts on them (the home page, category pages, etc). Existing solutions provide no indication about which posts were read. If you publish the entire post on the front page people will read without clicking through to a URL associated with that post. Statzen\u00e2\u20ac\u2122s inference tools provide information about individual posts on pages with multiple posts.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[149,
+       34],
+      "assets/images/resized/0002/3743/23743v2-max-150x150.png"],
+     [[149,
+       34],
+      "assets/images/resized/0002/3743/23743v2-max-250x250.png"],
+     [[149,
+       34],
+      "assets/images/resized/0002/3743/23743v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Statzen for bloggers",
+    "permalink": "statzen-for-bloggers",
+    "image": null},
+   {"name": "Urlzen",
+    "permalink": "urlzen",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder / CEO",
+    "person":
+     {"first_name": "Glen",
+      "last_name": "Miller",
+      "permalink": "glen-miller",
+      "image": null}},
+   {"is_past": true,
+    "title": "Founder / CTO",
+    "person":
+     {"first_name": "Jackson",
+      "last_name": "Miller",
+      "permalink": "jackson-miller",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0002/4015/24015v2-max-150x150.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0002/4015/24015v2-max-250x250.jpg"],
+          [[180,
+            180],
+           "assets/images/resized/0002/4015/24015v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

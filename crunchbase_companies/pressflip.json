@@ -1,0 +1,127 @@
+{"name": "Pressflip",
+ "permalink": "pressflip",
+ "crunchbase_url": "http://www.crunchbase.com/company/pressflip",
+ "homepage_url": "http://www.pressflip.com",
+ "blog_url": "http://blog.pressflip.com",
+ "blog_feed_url": "http://feeds.feedburner.com/pressflip",
+ "twitter_username": "pressflip",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 6,
+ "founded_day": 5,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "artificial-intelligence, content-recommendation, uncov",
+ "alias_list": "",
+ "email_address": "kyle@persai.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Mar 28 12:51:41 UTC 2008",
+ "updated_at": "Mon Apr 01 10:00:38 UTC 2013",
+ "overview": "\u003Cp\u003EPressflip (formerly known as Persai) is an internet search that keeps searching and learns what you like. Search for a topic that interests you, then save it. pressflip will show you new articles that match your search as time goes on. As you use pressflip, it learns more about what you like and will show you more interesting results.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       62],
+      "assets/images/resized/0001/6486/16486v3-max-150x150.jpg"],
+     [[250,
+       104],
+      "assets/images/resized/0001/6486/16486v3-max-250x250.jpg"],
+     [[347,
+       145],
+      "assets/images/resized/0001/6486/16486v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Pressflip",
+    "permalink": "pressflip",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Kyle",
+      "last_name": "Shank",
+      "permalink": "kyle-shank",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Matt",
+      "last_name": "Kent",
+      "permalink": "matt-kent",
+      "image": null}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Ted",
+      "last_name": "Dziuba",
+      "permalink": "ted-dziuba",
+      "image":
+       {"available_sizes":
+         [[[125,
+            150],
+           "assets/images/resized/0002/6960/26960v1-max-150x150.png"],
+          [[206,
+            247],
+           "assets/images/resized/0002/6960/26960v1-max-250x250.png"],
+          [[206,
+            247],
+           "assets/images/resized/0002/6960/26960v1-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Techmeme",
+      "permalink": "techmeme",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0000/3553/3553v1-max-150x150.jpg"],
+          [[250,
+            66],
+           "assets/images/resized/0000/3553/3553v1-max-250x250.jpg"],
+          [[281,
+            75],
+           "assets/images/resized/0000/3553/3553v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$110k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 110000.0,
+    "raised_currency_code": "USD",
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.269175,
+    "longitude": -119.306607}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

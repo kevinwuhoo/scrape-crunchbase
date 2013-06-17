@@ -1,0 +1,139 @@
+{"name": "Looker",
+ "permalink": "looker",
+ "crunchbase_url": "http://www.crunchbase.com/company/looker",
+ "homepage_url": "http://looker.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Business Analytics",
+ "created_at": "Wed Mar 06 19:39:16 UTC 2013",
+ "updated_at": "Fri Jun 14 18:42:52 UTC 2013",
+ "overview": "\u003Cp\u003Elook\u00b7er - /\u02c8lo\u035dok\u0259r/ \u003C/p\u003E\n\n\u003Cp\u003EVerb:\u003Cbr/\u003E\nWith \u0026#8216;up\u0026#8217; to explore vast amounts of data. \u0026#8220;Will you Looker that up for me?\u0026#8221; \u003C/p\u003E\n\n\u003Cp\u003E\u0026#8212; \u003C/p\u003E\n\n\u003Cp\u003ELooker is changing how companies explore their data. Built from the ground up to empower business users to discover the data they need to drive decisions, the Looker BI Platform\u2122 encourages interaction, curiosity, and collaboration. An extensible modeling language called LookML removes the complexities of modeling large data sets, enabling end users to perform on-the-fly analytics without needing to understand the underlying data structure. And since the Looker BI Platform leverages a modern, 100% in-database architecture, it\u2019s equipped for high-throughput, real-time processing and integration with the new era of analytic databases.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       62],
+      "assets/images/resized/0024/0365/240365v1-max-150x150.png"],
+     [[198,
+       83],
+      "assets/images/resized/0024/0365/240365v1-max-250x250.png"],
+     [[198,
+       83],
+      "assets/images/resized/0024/0365/240365v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Lloyd",
+      "last_name": "Tabb",
+      "permalink": "lloyd-tabb",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0024/0371/240371v1-max-150x150.png"],
+          [[125,
+            156],
+           "assets/images/resized/0024/0371/240371v1-max-250x250.png"],
+          [[125,
+            156],
+           "assets/images/resized/0024/0371/240371v1-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Frank",
+      "last_name": "Bien",
+      "permalink": "frank-bien",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$2M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2013/03/06/looker-takes-2m-from-first-round-and-pivotnorth-to-build-a-sequel-to-sql-for-business-intelligence/",
+    "source_description": "Looker Takes $2M From First Round And PivotNorth To Build \u2018A Sequel To SQL\u2019 For Business Intelligence",
+    "raised_amount": 2000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 3,
+    "funded_day": 6,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "First Round Capital",
+         "permalink": "first-round-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               72],
+              "assets/images/resized/0001/0706/10706v1-max-150x150.png"],
+             [[188,
+               91],
+              "assets/images/resized/0001/0706/10706v1-max-250x250.png"],
+             [[188,
+               91],
+              "assets/images/resized/0001/0706/10706v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "PivotNorth Capital",
+         "permalink": "pivotnorth-capital",
+         "image":
+          {"available_sizes":
+            [[[128,
+               128],
+              "assets/images/resized/0020/8404/208404v2-max-150x150.png"],
+             [[128,
+               128],
+              "assets/images/resized/0020/8404/208404v2-max-250x250.png"],
+             [[128,
+               128],
+              "assets/images/resized/0020/8404/208404v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0024/0370/240370v1-max-150x150.png"],
+      [[250,
+        152],
+       "assets/images/resized/0024/0370/240370v1-max-250x250.png"],
+      [[450,
+        273],
+       "assets/images/resized/0024/0370/240370v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

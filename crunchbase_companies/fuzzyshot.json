@@ -1,0 +1,162 @@
+{"name": "Fuzzyshot",
+ "permalink": "fuzzyshot",
+ "crunchbase_url": "http://www.crunchbase.com/company/fuzzyshot",
+ "homepage_url": "http://fuzzyshot.com",
+ "blog_url": "http://blog.fuzzyshot.com",
+ "blog_feed_url": "http://blog.fuzzyshot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "iphone, mobile, photos, blog, blogging, platform",
+ "alias_list": "",
+ "email_address": "contact@fuzzyshot.com",
+ "phone_number": "650-450-2479",
+ "description": "Mobile photo blogging",
+ "created_at": "Thu Nov 20 04:51:52 UTC 2008",
+ "updated_at": "Fri Apr 03 16:20:13 UTC 2009",
+ "overview": "\u003Cp\u003EFuzzyshot is really easy mobile photo blogging on the iPhone.\u003C/p\u003E\n\n\u003Cp\u003EThe best camera is the one you have with you. For most people, that\u0026#8217;s their cellphone camera. Fuzzyshot let\u0026#8217;s users document their daily lives using a stream of photos.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0002/9008/29008v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0002/9008/29008v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0002/9008/29008v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Fuzzyshot Photo Blog",
+    "permalink": "fuzzyshot-photo-blog",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Alvin",
+      "last_name": "Tai",
+      "permalink": "alvin-tai",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Wu",
+      "permalink": "kevin-wu",
+      "image": null}},
+   {"is_past": true,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Alexandre",
+      "last_name": "Linares",
+      "permalink": "alexandre-linares",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/1382/261382v2-max-150x150.jpg"],
+          [[250,
+            250],
+           "assets/images/resized/0026/1382/261382v2-max-250x250.jpg"],
+          [[400,
+            400],
+           "assets/images/resized/0026/1382/261382v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Natuba",
+      "permalink": "natuba",
+      "image": null}},
+   {"competitor":
+     {"name": "Rotzy",
+      "permalink": "rotzy",
+      "image":
+       {"available_sizes":
+         [[[145,
+            60],
+           "assets/images/resized/0003/0919/30919v2-max-150x150.png"],
+          [[145,
+            60],
+           "assets/images/resized/0003/0919/30919v2-max-250x250.png"],
+          [[145,
+            60],
+           "assets/images/resized/0003/0919/30919v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Clowdy",
+      "permalink": "clowdy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            92],
+           "assets/images/resized/0011/1350/111350v3-max-150x150.png"],
+          [[200,
+            123],
+           "assets/images/resized/0011/1350/111350v3-max-250x250.png"],
+          [[200,
+            123],
+           "assets/images/resized/0011/1350/111350v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Snaplog",
+      "permalink": "snaplog",
+      "image":
+       {"available_sizes":
+         [[[92,
+            92],
+           "assets/images/resized/0003/3134/33134v2-max-150x150.png"],
+          [[92,
+            92],
+           "assets/images/resized/0003/3134/33134v2-max-250x250.png"],
+          [[92,
+            92],
+           "assets/images/resized/0003/3134/33134v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.400465,
+    "longitude": -122.073003}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[104,
+        150],
+       "assets/images/resized/0002/9007/29007v2-max-150x150.jpg"],
+      [[173,
+        250],
+       "assets/images/resized/0002/9007/29007v2-max-250x250.jpg"],
+      [[313,
+        450],
+       "assets/images/resized/0002/9007/29007v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

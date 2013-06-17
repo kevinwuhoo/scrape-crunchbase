@@ -1,0 +1,103 @@
+{"name": "Picitup",
+ "permalink": "picitup",
+ "crunchbase_url": "http://www.crunchbase.com/company/picitup",
+ "homepage_url": "http://www.picitup.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "search",
+ "number_of_employees": 6,
+ "founded_year": 2006,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "visual-search",
+ "alias_list": null,
+ "email_address": "info@picitup.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Mon May 12 11:24:49 UTC 2008",
+ "updated_at": "Mon Aug 01 17:51:30 UTC 2011",
+ "overview": "\u003Cp\u003EPicitup is a visual search engine allowing images to be searched by their properties and not just by their names and tags.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0001/8353/18353v1-max-150x150.png"],
+     [[250,
+       70],
+      "assets/images/resized/0001/8353/18353v1-max-250x250.png"],
+     [[294,
+       83],
+      "assets/images/resized/0001/8353/18353v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder \u0026 CEO",
+    "person":
+     {"first_name": "Alon",
+      "last_name": "Atsmon",
+      "permalink": "alon-atsmon",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder \u0026 VP R\u0026D",
+    "person":
+     {"first_name": "Dan",
+      "last_name": "Atsmon",
+      "permalink": "dan-atsmon",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "",
+    "source_description": "Company",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": null,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Ramat Hachayal",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        94],
+       "assets/images/resized/0004/8182/48182v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0004/8182/48182v1-max-250x250.png"],
+      [[450,
+        282],
+       "assets/images/resized/0004/8182/48182v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,102 @@
+{"name": "Floored",
+ "permalink": "floored",
+ "crunchbase_url": "http://www.crunchbase.com/company/floored",
+ "homepage_url": "http://www.floored.com",
+ "blog_url": "http://blog.floored.com/",
+ "blog_feed_url": "",
+ "twitter_username": "floored3D",
+ "category_code": "enterprise",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-estate, 3d, scanning, enterprise",
+ "alias_list": null,
+ "email_address": "dave@floored.com",
+ "phone_number": "9083475845",
+ "description": "3D Real Estate Data",
+ "created_at": "Mon Apr 08 19:34:23 UTC 2013",
+ "updated_at": "Mon Apr 29 18:00:14 UTC 2013",
+ "overview": "\u003Cp\u003EFloored builds software to automatically turn chaotic 3D data into clean, beautiful, interactive virtual worlds. \u003C/p\u003E\n\n\u003Cp\u003EFloored uses a novel 3D camera, produced by Matterport in Palo Alto, in conjunction with our software to help people communicate about real estate in a new way. Floored sells to commercial \u0026amp; residential property owners seeking superior marketing solutions. Floored gives prospective tenants vision, helping to solve two key problems: 1) what it actually feels like to be inside of a space without really being there and 2) what prospective changes to the space will look like without going through painful (and expensive) construction or demolition. In the process Floored is eliminating the 2D floorplan and delighting customers and users with its inventive iPad and web applications. Floored is based in NYC and is looking for brilliant, creative engineers and artists to join the team.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0024/9616/249616v2-max-150x150.png"],
+     [[250,
+       94],
+      "assets/images/resized/0024/9616/249616v2-max-250x250.png"],
+     [[450,
+       169],
+      "assets/images/resized/0024/9616/249616v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Eisenberg",
+      "permalink": "david-eisenberg",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://pandodaily.com/2013/01/30/floored-unveils-3d-modeling-for-real-estate-in-the-form-of-an-app/",
+    "source_description": "",
+    "raised_amount": 1100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 12,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Felicis Ventures",
+         "permalink": "felicis-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               39],
+              "assets/images/resized/0001/8161/18161v6-max-150x150.png"],
+             [[250,
+               65],
+              "assets/images/resized/0001/8161/18161v6-max-250x250.png"],
+             [[396,
+               104],
+              "assets/images/resized/0001/8161/18161v6-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "96 Spring St",
+    "address2": "Floor 8",
+    "zip_code": "10012",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

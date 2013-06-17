@@ -1,0 +1,121 @@
+{"name": "Appswell",
+ "permalink": "appswell",
+ "crunchbase_url": "http://www.crunchbase.com/company/appswell",
+ "homepage_url": "http://www.appswell.com",
+ "blog_url": "http://blog.appswell.com",
+ "blog_feed_url": "",
+ "twitter_username": "appswell",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2010,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "appswell, techstars-boston-2010, techstars, crowd, crowdsourcing, apps, mobile, iphone, crowd-sourcing, innovation, open",
+ "alias_list": null,
+ "email_address": "social@appswell.com",
+ "phone_number": "",
+ "description": "Mobile Crowdsourcing ",
+ "created_at": "Tue Jun 15 20:19:29 UTC 2010",
+ "updated_at": "Fri Jun 29 18:08:18 UTC 2012",
+ "overview": "\u003Cp\u003EAppswell is a mobile crowd sourcing platform that allows people, companies, and brands to harness the wisdom of their crowds. Appswell was their own first client of the platform, with a crowdsourced contest for iPhone app ideas.\u003C/p\u003E\n\n\u003Cp\u003EInteractive agencies, brands, and enterprises license the Appswell platform to quickly deploy cost effective crowdsourcing campaigns and open innovation initiatives that can be deployed through the browser, or through a branded app.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0009/0737/90737v2-max-150x150.jpg"],
+     [[250,
+       62],
+      "assets/images/resized/0009/0737/90737v2-max-250x250.jpg"],
+     [[450,
+       112],
+      "assets/images/resized/0009/0737/90737v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Daniel",
+      "last_name": "Sullivan",
+      "permalink": "daniel-sullivan-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "PR",
+    "is_past": false,
+    "provider":
+     {"name": "Ronstadt \u0026 Associates PR",
+      "permalink": "ronstadt-associates-pr",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0001/2551/12551v1-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0001/2551/12551v1-max-250x250.png"],
+          [[332,
+            110],
+           "assets/images/resized/0001/2551/12551v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$10k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2010/06/03/techstars-boston-2010/?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29",
+    "source_description": " TechStars Boston Graduates Ten New Startups In 2010",
+    "raised_amount": 10000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     [{"company":
+        {"name": "TechStars",
+         "permalink": "techstars",
+         "image":
+          {"available_sizes":
+            [[[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-150x150.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-250x250.png"],
+             [[134,
+               101],
+              "assets/images/resized/0000/4033/4033v1-max-450x450.png"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Boston Headquarters",
+    "address1": "1 Broadway",
+    "address2": "",
+    "zip_code": "02142",
+    "city": "Cambridge",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.xconomy.com/boston/2009/10/14/appswell-tests-the-crowdsourcing-model-for-iphone-apps/",
+    "title": "Appswell Tests Crowdsourcing"},
+   {"external_url": "http://www.macworld.com/article/143314/2009/10/appswell.html",
+    "title": "Appswell's looking for a few good app ideas"}]}

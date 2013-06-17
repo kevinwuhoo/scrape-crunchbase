@@ -1,0 +1,153 @@
+{"name": "Whisher",
+ "permalink": "whisher",
+ "crunchbase_url": "http://www.crunchbase.com/company/whisher",
+ "homepage_url": "http://www.whisher.info",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "whisher",
+ "category_code": "mobile",
+ "number_of_employees": 3,
+ "founded_year": 2006,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "wi-fi, networks, sharing",
+ "alias_list": null,
+ "email_address": "info@whisher.com",
+ "phone_number": "",
+ "description": "Free worldwide Wi-Fi",
+ "created_at": "Tue Oct 05 21:50:53 UTC 2010",
+ "updated_at": "Sun Mar 31 03:32:10 UTC 2013",
+ "overview": "\u003Cp\u003EUse Whisher to share your WiFi with others and get free access wherever you find other Whisher members. Residential WiFi connections are everywhere. If only a small share of these connections would be shared, it would create a universal network.\u003C/p\u003E\n\n\u003Cp\u003EThis is what Whisher is doing: by aggregating all WiFi connections people have at home, we are creating the world\u0026#8217;s biggest free WiFi network.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CEO \u0026 Co-founder",
+    "person":
+     {"first_name": "Ferran",
+      "last_name": "Moreno",
+      "permalink": "ferran-moreno",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO \u0026 Co-founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Puchol",
+      "permalink": "mike-puchol",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Fon",
+      "permalink": "fon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            112],
+           "assets/images/resized/0000/1150/1150v4-max-150x150.jpg"],
+          [[250,
+            187],
+           "assets/images/resized/0000/1150/1150v4-max-250x250.jpg"],
+          [[450,
+            337],
+           "assets/images/resized/0000/1150/1150v4-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WeFi",
+      "permalink": "wefi",
+      "image":
+       {"available_sizes":
+         [[[149,
+            51],
+           "assets/images/resized/0001/9277/19277v1-max-150x150.png"],
+          [[149,
+            51],
+           "assets/images/resized/0001/9277/19277v1-max-250x250.png"],
+          [[149,
+            51],
+           "assets/images/resized/0001/9277/19277v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac2.5M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1500000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2006,
+    "funded_month": 4,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Swisscom Ventures",
+         "permalink": "swisscom-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               103],
+              "assets/images/resized/0005/8539/58539v1-max-150x150.png"],
+             [[160,
+               110],
+              "assets/images/resized/0005/8539/58539v1-max-250x250.png"],
+             [[160,
+               110],
+              "assets/images/resized/0005/8539/58539v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]},
+   {"round_code": "a",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2007,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Balderton Capital",
+         "permalink": "balderton-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               45],
+              "assets/images/resized/0001/3274/13274v5-max-150x150.png"],
+             [[239,
+               72],
+              "assets/images/resized/0001/3274/13274v5-max-250x250.png"],
+             [[239,
+               72],
+              "assets/images/resized/0001/3274/13274v5-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "Rambla Catalunya 12",
+    "address2": "",
+    "zip_code": "08007",
+    "city": "Barcelona",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,109 @@
+{"name": "C4Media",
+ "permalink": "c4media",
+ "crunchbase_url": "http://www.crunchbase.com/company/c4media",
+ "homepage_url": "http://c4media.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "other",
+ "number_of_employees": 61,
+ "founded_year": 2005,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "java, -net, soa, agile, ruby, media, news, infoq, qcon, architecture, operations",
+ "alias_list": null,
+ "email_address": "floyd@c4media.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Sat May 24 03:57:39 UTC 2008",
+ "updated_at": "Sat Nov 13 02:11:27 UTC 2010",
+ "overview": "\u003Cp\u003EC4Media is the provider of InfoQ.com Enterprise Software Development Community, and co-producer of QCon (software development conferences in San Francisco and London UK).\u003C/p\u003E\n\n\u003Cp\u003EAs of May 2008, InfoQ is in the top 1K most influential sites according to Technorati.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0001/9466/19466v4-max-150x150.png"],
+     [[250,
+       62],
+      "assets/images/resized/0001/9466/19466v4-max-250x250.png"],
+     [[450,
+       112],
+      "assets/images/resized/0001/9466/19466v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "InfoQ",
+    "permalink": "infoq",
+    "image":
+     {"available_sizes":
+       [[[150,
+          51],
+         "assets/images/resized/0001/9468/19468v1-max-150x150.png"],
+        [[157,
+          54],
+         "assets/images/resized/0001/9468/19468v1-max-250x250.png"],
+        [[157,
+          54],
+         "assets/images/resized/0001/9468/19468v1-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "QCon",
+    "permalink": "qcon",
+    "image":
+     {"available_sizes":
+       [[[150,
+          52],
+         "assets/images/resized/0001/9471/19471v1-max-150x150.png"],
+        [[250,
+          87],
+         "assets/images/resized/0001/9471/19471v1-max-250x250.png"],
+        [[316,
+          111],
+         "assets/images/resized/0001/9471/19471v1-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Floyd",
+      "last_name": "Marinescu",
+      "permalink": "floyd-marinescu",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "ISP",
+    "is_past": false,
+    "provider":
+     {"name": "Contegix Inc.",
+      "permalink": "contegix-inc",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Toronto",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 43.670233,
+    "longitude": -79.386755}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

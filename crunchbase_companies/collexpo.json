@@ -1,0 +1,153 @@
+{"name": "Collexpo",
+ "permalink": "collexpo",
+ "crunchbase_url": "http://www.crunchbase.com/company/collexpo",
+ "homepage_url": "http://www.collexpo.com",
+ "blog_url": "http://collexpo.wordpress.com/",
+ "blog_feed_url": "http://collexpo.wordpress.com/feed/",
+ "twitter_username": null,
+ "category_code": "ecommerce",
+ "number_of_employees": 4,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "collectibles, collectables, memorabilia, coins, stamps, comic-books, baseball, football, sports, social-network, hobby",
+ "alias_list": "",
+ "email_address": "cw@collexpo.com",
+ "phone_number": "804-525-5499",
+ "description": "Online Collectibles Marketplace",
+ "created_at": "Wed Jan 28 21:10:06 UTC 2009",
+ "updated_at": "Fri Apr 03 19:34:47 UTC 2009",
+ "overview": "\u003Cp\u003ECollexpo (expo for collectors) is a specialized online marketplace for collectibles.  It is secondarily a social network and research destination for collectors.  The company\u0026#8217;s primary revenue models are based on transaction fees and sponsorships.  As of the January 2009 beta launch, the website caters to collectors of sports cards, sports memorabilia and postcards, but the company plans to add markets for comic books, coins and stamps in Q1/Q2 2009.\u003C/p\u003E\n\n\u003Cp\u003EThe service differentiates itself from eBay and other online markets with collectibles databases that fuel commerce, networking and research.  A seller uses the database to find items he/she wants to sell, while collectors can find any collectible item and research it or add it to a collection.  Users who interact with similar items are matched via a social engine. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[119,
+       35],
+      "assets/images/resized/0003/5128/35128v2-max-150x150.jpg"],
+     [[119,
+       35],
+      "assets/images/resized/0003/5128/35128v2-max-250x250.jpg"],
+     [[119,
+       35],
+      "assets/images/resized/0003/5128/35128v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Collexpo Marketplace",
+    "permalink": "collexpo-marketplace",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Carrington",
+      "last_name": "Williams",
+      "permalink": "carrington-williams",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "eBay",
+      "permalink": "ebay",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/3625/3625v1-max-150x150.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-250x250.png"],
+          [[210,
+            87],
+           "assets/images/resized/0000/3625/3625v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Beckett Media",
+      "permalink": "beckett-media",
+      "image":
+       {"available_sizes":
+         [[[132,
+            115],
+           "assets/images/resized/0015/3501/153501v1-max-150x150.jpg"],
+          [[132,
+            115],
+           "assets/images/resized/0015/3501/153501v1-max-250x250.jpg"],
+          [[132,
+            115],
+           "assets/images/resized/0015/3501/153501v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Atomic Avenue",
+      "permalink": "atomic-avenue",
+      "image": null}}],
+ "providerships":
+  [{"title": "Legal",
+    "is_past": false,
+    "provider":
+     {"name": "McGuire Woods",
+      "permalink": "mcguire-woods",
+      "image": null}},
+   {"title": "Brand Identity Development / Web Design",
+    "is_past": false,
+    "provider":
+     {"name": "Kasman Squillante",
+      "permalink": "kasman-squillante",
+      "image":
+       {"available_sizes":
+         [[[150,
+            73],
+           "assets/images/resized/0003/8442/38442v4-max-150x150.png"],
+          [[250,
+            122],
+           "assets/images/resized/0003/8442/38442v4-max-250x250.png"],
+          [[450,
+            220],
+           "assets/images/resized/0003/8442/38442v4-max-450x450.png"]],
+        "attribution": null}}}],
+ "total_money_raised": "$225k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Friends \u0026 Family",
+    "raised_amount": 225000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 2,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home",
+    "address1": "100 Shockoe Slip",
+    "address2": "",
+    "zip_code": "23219",
+    "city": "Richmond",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": 37.5353256,
+    "longitude": -77.4338163}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        86],
+       "assets/images/resized/0003/5127/35127v2-max-150x150.jpg"],
+      [[250,
+        143],
+       "assets/images/resized/0003/5127/35127v2-max-250x250.jpg"],
+      [[450,
+        259],
+       "assets/images/resized/0003/5127/35127v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

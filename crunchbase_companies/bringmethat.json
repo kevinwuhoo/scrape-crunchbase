@@ -1,0 +1,130 @@
+{"name": "BringMeThat",
+ "permalink": "bringmethat",
+ "crunchbase_url": "http://www.crunchbase.com/company/bringmethat",
+ "homepage_url": "http://www.bringmethat.com",
+ "blog_url": "http://blog.bringmethat.com",
+ "blog_feed_url": "",
+ "twitter_username": "bringmethatinc",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2012,
+ "founded_month": 12,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "online-food-delivery-service, restaurant-menus, foodies",
+ "alias_list": null,
+ "email_address": "support@bringmethat.com",
+ "phone_number": "440-879-7124",
+ "description": "online food delivery service",
+ "created_at": "Wed Apr 17 17:10:56 UTC 2013",
+ "updated_at": "Sun May 12 01:31:48 UTC 2013",
+ "overview": "\u003Cp\u003EBringMeThat is an online food delivery service. Customers can enter their address to see which restaurants deliver to them and to access menus. Orders are placed online, then transmitted to the restaurant through BringMeThat.\u003C/p\u003E\n\n\u003Cp\u003EThe company\u0026#8217;s online system is designed to be a comprehensive aggregator of restaurant listings, available to consumers in both urban and rural areas.\u003C/p\u003E\n\n\u003Cp\u003EIt was started at the end of 2012 and currently serves all of Ohio and North Carolina, with plans to expand to Pennsylvania and, eventually, the rest of the US.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0025/2468/252468v2-max-150x150.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0025/2468/252468v2-max-250x250.jpg"],
+     [[180,
+       180],
+      "assets/images/resized/0025/2468/252468v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Liang",
+      "permalink": "jason-liang",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "LaMarca",
+      "permalink": "michael-lamarca",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "GrubHub",
+      "permalink": "grubhub",
+      "image":
+       {"available_sizes":
+         [[[133,
+            60],
+           "assets/images/resized/0001/9729/19729v12-max-150x150.png"],
+          [[133,
+            60],
+           "assets/images/resized/0001/9729/19729v12-max-250x250.png"],
+          [[133,
+            60],
+           "assets/images/resized/0001/9729/19729v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Seamless",
+      "permalink": "seamless-north-america",
+      "image":
+       {"available_sizes":
+         [[[150,
+            55],
+           "assets/images/resized/0015/5775/155775v4-max-150x150.png"],
+          [[250,
+            92],
+           "assets/images/resized/0015/5775/155775v4-max-250x250.png"],
+          [[450,
+            165],
+           "assets/images/resized/0015/5775/155775v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Eat24Hours.com",
+      "permalink": "eat24hours-com",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Triangle Startup Factory",
+    "address1": "334 Blackwell St",
+    "address2": "",
+    "zip_code": "27701",
+    "city": "Durham",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        75],
+       "assets/images/resized/0025/2467/252467v2-max-150x150.jpg"],
+      [[250,
+        126],
+       "assets/images/resized/0025/2467/252467v2-max-250x250.jpg"],
+      [[450,
+        227],
+       "assets/images/resized/0025/2467/252467v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://finance.yahoo.com/news/ordering-food-delivery-online-now-153000195.html",
+    "title": "Tech startup BringMeThat launches a new service in Ohio, enabling online ordering for food delivery from 1500 restaurants across the state."},
+   {"external_url": "http://www.cleveland.com/strongsville/index.ssf/2013/02/from_strongsville_to_harvard_t.html",
+    "title": "http://www.cleveland.com/strongsville/index.ssf/2013/02/from_strongsville_to_harvard_t.html"}]}

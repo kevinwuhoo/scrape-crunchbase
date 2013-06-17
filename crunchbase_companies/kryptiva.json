@@ -1,0 +1,152 @@
+{"name": "Kryptiva",
+ "permalink": "kryptiva",
+ "crunchbase_url": "http://www.crunchbase.com/company/kryptiva",
+ "homepage_url": "http://www.kryptiva.com",
+ "blog_url": "http://blog.kryptiva.com",
+ "blog_feed_url": "http://blog.kryptiva.com/rss.xml",
+ "twitter_username": "kryptiva",
+ "category_code": "software",
+ "number_of_employees": 10,
+ "founded_year": 2005,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "file-sharing, document-management, real-time-collaboration, instant-messaging, screen-sharing",
+ "alias_list": null,
+ "email_address": "info@kryptiva.com",
+ "phone_number": "1-819-348-3275",
+ "description": "Simple and Secure File-Sharing",
+ "created_at": "Sat Jun 06 22:24:43 UTC 2009",
+ "updated_at": "Tue Mar 09 22:19:03 UTC 2010",
+ "overview": "\u003Cp\u003EKryptiva provides simple ans secure file-sharing. \u003C/p\u003E\n\n\u003Cp\u003EIts Teambox(TM) suite can be deployed either on-premise or in the cloud. \u003C/p\u003E\n\n\u003Cp\u003EUse of Kryptiva\u0026#8217;s software is based on a widely-established habit: email. In addition to being easy to use, Kryptiva\u0026#8217;s solutions provide federation and plug straight into existing directory services for user management when needed.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[125,
+       76],
+      "assets/images/resized/0004/7153/47153v2-max-150x150.png"],
+     [[125,
+       76],
+      "assets/images/resized/0004/7153/47153v2-max-250x250.png"],
+     [[125,
+       76],
+      "assets/images/resized/0004/7153/47153v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Teambox Suite",
+    "permalink": "teambox-suite",
+    "image": null},
+   {"name": "echotracker",
+    "permalink": "echotracker",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Karim",
+      "last_name": "Yaghmour",
+      "permalink": "karim-yaghmour",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Box",
+      "permalink": "box",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/3484/3484v3-max-150x150.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-250x250.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "drop.io",
+      "permalink": "drop-io",
+      "image":
+       {"available_sizes":
+         [[[126,
+            45],
+           "assets/images/resized/0000/2401/2401v1-max-150x150.png"],
+          [[126,
+            45],
+           "assets/images/resized/0000/2401/2401v1-max-250x250.png"],
+          [[126,
+            45],
+           "assets/images/resized/0000/2401/2401v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "YouSendIt",
+      "permalink": "yousendit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0000/3922/3922v1-max-150x150.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-250x250.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "P.O. Box 25074",
+    "address2": "",
+    "zip_code": "J1J 4M8",
+    "city": "Sherbrooke",
+    "state_code": null,
+    "country_code": "CAN",
+    "latitude": 45.412456,
+    "longitude": -71.932698}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        133],
+       "assets/images/resized/0007/9648/79648v2-max-150x150.jpg"],
+      [[250,
+        221],
+       "assets/images/resized/0007/9648/79648v2-max-250x250.jpg"],
+      [[450,
+        399],
+       "assets/images/resized/0007/9648/79648v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.linkedin.com/companies/kryptiva",
+    "title": "LinkedIn"}]}

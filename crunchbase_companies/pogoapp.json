@@ -1,0 +1,135 @@
+{"name": "Pogoapp",
+ "permalink": "pogoapp",
+ "crunchbase_url": "http://www.crunchbase.com/company/pogoapp",
+ "homepage_url": "http://www.pogoapp.com",
+ "blog_url": "http://www.pogoapp.com/blog",
+ "blog_feed_url": "http://www.pogoapp.com/blog/feed.rss",
+ "twitter_username": "pogoapp",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 6,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "paas, buildpacks, s3, ruby, node-js, python, devops",
+ "alias_list": null,
+ "email_address": "support@pogoapp.com",
+ "phone_number": "828-708-7646",
+ "description": "Run-anything PaaS",
+ "created_at": "Mon Jan 28 16:16:05 UTC 2013",
+ "updated_at": "Fri Feb 01 04:20:54 UTC 2013",
+ "overview": "\u003Cp\u003EPogoapp is a new platform-as-a-service offering based on buildpacks, git deployments, the Heroku REST API, and S3-compatible scalable storage. Developers can run web apps in any language as well as SQL/NoSQL databases, caching, stats and other backend infrastructure on Pogoapp, all using the same process for builds and deployments and the same simple pricing scheme.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/2073/232073v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0023/2073/232073v2-max-250x250.png"],
+     [[256,
+       256],
+      "assets/images/resized/0023/2073/232073v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Paul",
+      "last_name": "Meserve",
+      "permalink": "paul-meserve",
+      "image": null}},
+   {"is_past": false,
+    "title": "co-founder",
+    "person":
+     {"first_name": "Lisa",
+      "last_name": "Erkens",
+      "permalink": "lisa-erkens",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Heroku",
+      "permalink": "heroku",
+      "image":
+       {"available_sizes":
+         [[[150,
+            56],
+           "assets/images/resized/0001/0749/10749v5-max-150x150.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-250x250.png"],
+          [[207,
+            78],
+           "assets/images/resized/0001/0749/10749v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "dotCloud",
+      "permalink": "dotcloud",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0012/4387/124387v3-max-150x150.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-250x250.png"],
+          [[211,
+            67],
+           "assets/images/resized/0012/4387/124387v3-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Nodejitsu",
+      "permalink": "nodejitsu",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0011/4587/114587v5-max-150x150.jpg"],
+          [[177,
+            59],
+           "assets/images/resized/0011/4587/114587v5-max-250x250.jpg"],
+          [[177,
+            59],
+           "assets/images/resized/0011/4587/114587v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AppFog",
+      "permalink": "php-fog",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0011/6351/116351v6-max-150x150.png"],
+          [[250,
+            61],
+           "assets/images/resized/0011/6351/116351v6-max-250x250.png"],
+          [[293,
+            72],
+           "assets/images/resized/0011/6351/116351v6-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

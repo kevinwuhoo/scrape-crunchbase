@@ -1,0 +1,98 @@
+{"name": "Bitcoin",
+ "permalink": "bitcoin",
+ "crunchbase_url": "http://www.crunchbase.com/company/bitcoin",
+ "homepage_url": "http://www.bitcoin.org/",
+ "blog_url": "http://www.bitcoinmagazine.com",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "bitcoin, virtual-currency, p2p, exchange, marketplace, currency",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "P2P digital currency",
+ "created_at": "Mon Jun 20 05:17:20 UTC 2011",
+ "updated_at": "Tue Jun 04 06:22:57 UTC 2013",
+ "overview": "\u003Cp\u003EBitcoin is a digital currency, a protocol, and open-source software and enables instant worldwide peer to peer transactions for little or no processing fees and no risk of chargebacks or fraud while being immune to seizure or confiscation.\u003C/p\u003E\n\n\u003Cp\u003EAs an open-source software it means all users have access to all of the source code all of the time. Bitcoin uses peer to peer technology to operate with no central authority; managing transactions and issuing Bitcoins are carried out collectively by the network. Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment systems.\u003C/p\u003E\n\n\u003Cp\u003EBitcoin was released in January 2009 by unknown actor(s) under the psuedonym Satoshi Nakamoto. It is supported by a vibrant economy of developers, exchanges, businesses and users and reached a $2.5B market cap in April 2013.\u003C/p\u003E\n\n\u003Cp\u003ECryptography is well established and a fundamental technology used in online banking. But unlike fiat currency with central banks and online banking; Bitcoin has been able to construct a currency and payment network with open-source software using heavily peer reviewed cryptographic ciphers that removes the need to trust a central authority.\u003C/p\u003E\n\n\u003Cp\u003EConsequently, many people trust Bitcoin because it requires absolutely no trust of any third party.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       35],
+      "assets/images/resized/0013/9964/139964v1-max-150x150.png"],
+     [[250,
+       59],
+      "assets/images/resized/0013/9964/139964v1-max-250x250.png"],
+     [[345,
+       82],
+      "assets/images/resized/0013/9964/139964v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$6.7M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": "http://www.centralinvestmentnetwork.com/article/60-angel-investors-rally-forces-and-raise-67m-for-bitcoin-startups",
+    "source_description": "60 angel investors rally forces and raise $6.7M for Bitcoin startups",
+    "raised_amount": 6700000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 6,
+    "funded_day": 3,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Bitcoin market capitalization surpasses $1B.",
+    "stoned_year": 2013,
+    "stoned_month": 4,
+    "stoned_day": 3,
+    "source_url": "http://blogs.barrons.com/focusonfunds/2013/04/03/gold-got-you-down-bitcoin-lets-you-pick-a-different-poison/",
+    "source_text": null,
+    "source_description": "Gold Got You Down? Bitcoin Lets You Pick a Different Poison",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "Bitcoin",
+      "permalink": "bitcoin"}}],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"253\" src=\"http://www.youtube.com/embed/TfknveaWQ_4\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ETrace Mayer discusses Bitcoin on FOX Business.\u003C/p\u003E"},
+   {"embed_code": "\u003Ciframe width=\"450\" height=\"253\" src=\"http://www.youtube.com/embed/Um63OQz3bjo\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003EWhat is Bitcoin?\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        81],
+       "assets/images/resized/0025/1861/251861v2-max-150x150.jpg"],
+      [[250,
+        135],
+       "assets/images/resized/0025/1861/251861v2-max-250x250.jpg"],
+      [[450,
+        244],
+       "assets/images/resized/0025/1861/251861v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

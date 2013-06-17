@@ -1,0 +1,96 @@
+{"name": "RatchetSoft",
+ "permalink": "ratchetsoft",
+ "crunchbase_url": "http://www.crunchbase.com/company/ratchetsoft",
+ "homepage_url": "http://www.ratchetsoft.com",
+ "blog_url": "http://ratchetsoft.blogspot.com/",
+ "blog_feed_url": "http://ratchetsoft.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 15,
+ "founded_year": 2003,
+ "founded_month": 4,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "desktop-integration, mashup",
+ "alias_list": null,
+ "email_address": "info@ratchetsoft.com",
+ "phone_number": "516-620-1197",
+ "description": null,
+ "created_at": "Thu Aug 07 15:20:54 UTC 2008",
+ "updated_at": "Sat Sep 06 14:08:18 UTC 2008",
+ "overview": "\u003Cp\u003ERatchetSoft is a desktop integration software company whose products and services allow ordinary applications users to move data between the systems they use without having to change those systems in any way.\u003C/p\u003E\n\n\u003Cp\u003ERatchetSoft\u0026#8217;s flagship product is the Ratchet-X desktop application integration platform. Ratchet-X allows users to repurpose the information that resides within the applications, electronic forms, databases, web sites and web services they use for the purposes of systems integration.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0002/3512/23512v1-max-150x150.png"],
+     [[165,
+       99],
+      "assets/images/resized/0002/3512/23512v1-max-250x250.png"],
+     [[165,
+       99],
+      "assets/images/resized/0002/3512/23512v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Joe",
+      "last_name": "Labbe",
+      "permalink": "joe-labbe",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0001/9905/19905v2-max-150x150.jpg"],
+          [[148,
+            220],
+           "assets/images/resized/0001/9905/19905v2-max-250x250.jpg"],
+          [[148,
+            220],
+           "assets/images/resized/0001/9905/19905v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "George",
+      "last_name": "Weihs",
+      "permalink": "george-weihs",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "565 Plandome",
+    "address2": "Suite #175",
+    "zip_code": "11030",
+    "city": "Manhasset",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.79978,
+    "longitude": -73.701079}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.techcrunch.com/tag/ratchetsoft/",
+    "title": "Ratchet-X: XML Based Desktop Integration"}]}

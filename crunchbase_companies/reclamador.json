@@ -1,0 +1,127 @@
+{"name": "Reclamador",
+ "permalink": "reclamador",
+ "crunchbase_url": "http://www.crunchbase.com/company/reclamador",
+ "homepage_url": "https://www.reclamador.es/",
+ "blog_url": "http://blog.reclamador.es/",
+ "blog_feed_url": "http://blog.reclamador.es/feed/",
+ "twitter_username": "Reclamador_ES",
+ "category_code": "web",
+ "number_of_employees": 6,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "claims, crowdcomplaining",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Customers claims management",
+ "created_at": "Thu Apr 11 08:37:47 UTC 2013",
+ "updated_at": "Wed Apr 24 05:43:54 UTC 2013",
+ "overview": "\u003Cp\u003ECrowdcomplaining: collective customers claims to companies. Currently offering the service for claims to airlines. Reclamador charges a success fee to the consumers for managing their claims and getting the compensation from the airlines for delays, baggae lost or damaged. Services are currently offered in Spain.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       48],
+      "assets/images/resized/0025/0580/250580v2-max-150x150.png"],
+     [[250,
+       80],
+      "assets/images/resized/0025/0580/250580v2-max-250x250.png"],
+     [[317,
+       102],
+      "assets/images/resized/0025/0580/250580v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Pablo",
+      "last_name": "Rabanal",
+      "permalink": "pablo-rabanal",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac100k",
+ "funding_rounds":
+  [{"round_code": "angel",
+    "source_url": "http://loogic.com/100-000-euros-de-inversion-en-reclamador/",
+    "source_description": "Loogic",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2013,
+    "funded_month": 3,
+    "funded_day": 26,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Fran\u00e7ois",
+         "last_name": "Derbaix",
+         "permalink": "francois-derbaix",
+         "image":
+          {"available_sizes":
+            [[[150,
+               148],
+              "assets/images/resized/0002/9860/29860v2-max-150x150.jpg"],
+             [[225,
+               223],
+              "assets/images/resized/0002/9860/29860v2-max-250x250.jpg"],
+             [[225,
+               223],
+              "assets/images/resized/0002/9860/29860v2-max-450x450.jpg"]],
+           "attribution": ""}}},
+      {"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Yago",
+         "last_name": "Arbeloa",
+         "permalink": "yago-arbeloa",
+         "image": null}},
+      {"company": null,
+       "financial_org":
+        {"name": "Grupo ItNet",
+         "permalink": "grupo-itnet",
+         "image":
+          {"available_sizes":
+            [[[150,
+               105],
+              "assets/images/resized/0004/6048/46048v7-max-150x150.jpg"],
+             [[250,
+               176],
+              "assets/images/resized/0004/6048/46048v7-max-250x250.jpg"],
+             [[450,
+               317],
+              "assets/images/resized/0004/6048/46048v7-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Madrid",
+    "address1": " C/ Men\u00e9ndez Pelayo n\u00ba 47, 1- I",
+    "address2": "",
+    "zip_code": "28009",
+    "city": "Madrid",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

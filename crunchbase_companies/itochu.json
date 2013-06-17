@@ -1,0 +1,94 @@
+{"name": "ITOCHU",
+ "permalink": "itochu",
+ "crunchbase_url": "http://www.crunchbase.com/company/itochu",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Thu Jun 16 00:55:19 UTC 2011",
+ "updated_at": "Fri Jun 17 14:50:37 UTC 2011",
+ "overview": null,
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Allen",
+      "permalink": "eric-allen",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "b",
+      "source_url": "http://www.itochu.co.jp/en/news/2010/100225_03.html",
+      "source_description": "ITOCHU Takes Stake in Affle Holdings Pte. Ltd., a Mobile Content \u0026 Advertising Distribution Service Company",
+      "raised_amount": null,
+      "raised_currency_code": null,
+      "funded_year": 2010,
+      "funded_month": 2,
+      "funded_day": 25,
+      "company":
+       {"name": "Affle",
+        "permalink": "affle",
+        "image":
+         {"available_sizes":
+           [[[150,
+              67],
+             "assets/images/resized/0014/0661/140661v2-max-150x150.jpg"],
+            [[250,
+              111],
+             "assets/images/resized/0014/0661/140661v2-max-250x250.jpg"],
+            [[255,
+              114],
+             "assets/images/resized/0014/0661/140661v2-max-450x450.jpg"]],
+          "attribution": null}}}},
+   {"funding_round":
+     {"round_code": "a",
+      "source_url": "http://www.bizjournals.com/philadelphia/stories/2000/02/07/daily19.html",
+      "source_description": "Safeguard Scientifics funds fob.com",
+      "raised_amount": 44500000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2000,
+      "funded_month": 9,
+      "funded_day": 7,
+      "company":
+       {"name": "FOB.com",
+        "permalink": "fob-com",
+        "image": null}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

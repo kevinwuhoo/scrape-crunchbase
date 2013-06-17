@@ -1,0 +1,99 @@
+{"name": "ZoneEdit",
+ "permalink": "zoneedit",
+ "crunchbase_url": "http://www.crunchbase.com/company/zoneedit",
+ "homepage_url": "http://www.zoneedit.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "zoneedit",
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": 1995,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "dns, dns-management, dynamic-dns, mail-backup, tertiary-dns",
+ "alias_list": null,
+ "email_address": "abathum@zoneedit.com",
+ "phone_number": "360-449-5900",
+ "description": "Free DNS Provider",
+ "created_at": "Mon Oct 04 22:25:19 UTC 2010",
+ "updated_at": "Thu Oct 07 23:44:07 UTC 2010",
+ "overview": "\u003Cp\u003EZoneEdit is a long-time provider of Managed DNS, Dynamic DNS, and a variety of other DNS management and mail-related tools and services.\u003C/p\u003E\n\n\u003Cp\u003EZoneEdit offers a free service for a majority of its usersbase, with a credit purchase system for users with numerous domains to manage or those that require premium services such as backup MX. ZoneEdit has remained virtually unchanged since its inception as the website design would indicate. However, a new interface and underlying platform is currently in beta and in the early process of being rolled out to all 600,000+ zones served by the company.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "DNS Made Easy",
+      "permalink": "dns-made-easy",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0009/9685/99685v2-max-150x150.png"],
+          [[236,
+            65],
+           "assets/images/resized/0009/9685/99685v2-max-250x250.png"],
+          [[236,
+            65],
+           "assets/images/resized/0009/9685/99685v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "UltraDNS",
+      "permalink": "ultradns",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "8100 NE Parkway Drive",
+    "address2": "",
+    "zip_code": "98662",
+    "city": "Vancouver",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        91],
+       "assets/images/resized/0010/4163/104163v2-max-150x150.jpg"],
+      [[250,
+        152],
+       "assets/images/resized/0010/4163/104163v2-max-250x250.jpg"],
+      [[450,
+        274],
+       "assets/images/resized/0010/4163/104163v2-max-450x450.jpg"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        97],
+       "assets/images/resized/0010/4164/104164v2-max-150x150.jpg"],
+      [[250,
+        162],
+       "assets/images/resized/0010/4164/104164v2-max-250x250.jpg"],
+      [[450,
+        292],
+       "assets/images/resized/0010/4164/104164v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

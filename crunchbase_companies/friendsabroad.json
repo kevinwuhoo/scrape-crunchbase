@@ -1,0 +1,141 @@
+{"name": "FriendsAbroad",
+ "permalink": "friendsabroad",
+ "crunchbase_url": "http://www.crunchbase.com/company/friendsabroad",
+ "homepage_url": "http://www.friendsabroad.com/",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "network_hosting",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "languages, friends, network, learn",
+ "alias_list": null,
+ "email_address": "help@friendsabroad.com",
+ "phone_number": null,
+ "description": null,
+ "created_at": "Fri Jan 18 11:25:42 UTC 2008",
+ "updated_at": "Sat Nov 15 14:53:04 UTC 2008",
+ "overview": "\u003Cp\u003EFriendsAbroad is a social network based on languages.  The site has \u0026#8220;millions of users\u0026#8221; in over 200 countries speaking over 80 languages.\u003C/p\u003E\n\n\u003Cp\u003E\u003Ca href=\"http://www.crunchbase.com/company/voxswap\" title=\"VoxSwap\"\u003EVoxSwap\u003C/a\u003E offers a similar service.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       36],
+      "assets/images/resized/0000/3202/3202v1-max-150x150.png"],
+     [[200,
+       48],
+      "assets/images/resized/0000/3202/3202v1-max-250x250.png"],
+     [[200,
+       48],
+      "assets/images/resized/0000/3202/3202v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "FriendsAbroad",
+    "permalink": "friendsabroad",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Simon",
+      "last_name": "Murdoch",
+      "permalink": "simon-murdoch",
+      "image":
+       {"available_sizes":
+         [[[105,
+            105],
+           "assets/images/resized/0001/0396/10396v1-max-150x150.jpg"],
+          [[105,
+            105],
+           "assets/images/resized/0001/0396/10396v1-max-250x250.jpg"],
+          [[105,
+            105],
+           "assets/images/resized/0001/0396/10396v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"is_past": null,
+    "title": "Marketing and Product Development",
+    "person":
+     {"first_name": "Gwenaelle",
+      "last_name": "Mayaud",
+      "permalink": "gwenaelle-mayaud",
+      "image": null}},
+   {"is_past": null,
+    "title": "Director",
+    "person":
+     {"first_name": "Rikki",
+      "last_name": "Tahta",
+      "permalink": "rikki-tahta",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "VoxSwap",
+      "permalink": "voxswap",
+      "image":
+       {"available_sizes":
+         [[[150,
+            73],
+           "assets/images/resized/0000/3196/3196v1-max-150x150.png"],
+          [[200,
+            98],
+           "assets/images/resized/0000/3196/3196v1-max-250x250.png"],
+          [[200,
+            98],
+           "assets/images/resized/0000/3196/3196v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://uk.techcrunch.com/2008/11/06/babbel-acquires-friendsabroad-in-cash-deal/",
+   "source_description": "Babbel acquires FriendsAbroad in cash deal",
+   "acquired_year": 2008,
+   "acquired_month": 11,
+   "acquired_day": 6,
+   "acquiring_company":
+    {"name": "babbel",
+     "permalink": "babbel",
+     "image":
+      {"available_sizes":
+        [[[150,
+           60],
+          "assets/images/resized/0001/8569/18569v2-max-150x150.png"],
+         [[250,
+           100],
+          "assets/images/resized/0001/8569/18569v2-max-250x250.png"],
+         [[374,
+           150],
+          "assets/images/resized/0001/8569/18569v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": null,
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": 51.500152,
+    "longitude": -0.126236}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

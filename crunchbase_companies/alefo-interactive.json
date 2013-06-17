@@ -1,0 +1,115 @@
+{"name": "Alefo Interactive",
+ "permalink": "alefo-interactive",
+ "crunchbase_url": "http://www.crunchbase.com/company/alefo-interactive",
+ "homepage_url": "http://www.alefo.com",
+ "blog_url": "http://blog.alefo.com",
+ "blog_feed_url": "http://blog.alefo.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2005,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "homepage, start-page, personalization, rss, widgets, site-shot, crop, aggregation, mash-up, feed-readers",
+ "alias_list": null,
+ "email_address": "groniche@alefo.com",
+ "phone_number": "++972-52-2719563",
+ "description": null,
+ "created_at": "Sun Aug 31 09:10:57 UTC 2008",
+ "updated_at": "Mon Sep 08 06:13:26 UTC 2008",
+ "overview": "\u003Cp\u003Ealefo.com is an online, web-based application that allows users to create personal homepages easily and efficiently without using RSS feeds. \u003C/p\u003E\n\n\u003Cp\u003ECreating a widget is a simple and intuitive process wherein the user simply draws a box over the desired area of the source site and confirms the captured area. After defining the captured area, the new widget is instantly placed on the user\u00e2\u20ac\u2122s homepage where a mash-up of all the widgets appear and can be moved around, arranged and styled as per the user\u00e2\u20ac\u2122s preferences and also can be send to friends. \nBy clicking a widget or links within a widget, users are instantly taken to the source article or content for further reading.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0002/4381/24381v2-max-150x150.jpg"],
+     [[250,
+       125],
+      "assets/images/resized/0002/4381/24381v2-max-250x250.jpg"],
+     [[450,
+       225],
+      "assets/images/resized/0002/4381/24381v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eran",
+      "last_name": "Gronich",
+      "permalink": "eran-gronich",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "iGoogle",
+      "permalink": "igoogle",
+      "image": null}},
+   {"competitor":
+     {"name": "Netvibes",
+      "permalink": "netvibes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0000/2974/2974v8-max-150x150.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-250x250.png"],
+          [[223,
+            59],
+           "assets/images/resized/0000/2974/2974v8-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Pageflakes",
+      "permalink": "pageflakes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0024/2857/242857v1-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0024/2857/242857v1-max-250x250.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0024/2857/242857v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Alefo Interactive Ltd.",
+    "address1": "140 Rothchild Blvd.",
+    "address2": "",
+    "zip_code": "65272",
+    "city": "Tel Aviv",
+    "state_code": null,
+    "country_code": "ISR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.killerstartups.com/Web-App-Tools/alefo-com-a-new-startpage-aims-to-out-do-igoogle",
+    "title": "Alefo.com - A New StartPage Aims to Out Do iGoogleAlefo"},
+   {"external_url": "http://isunews.com/2008/04/27/alefo-launches-beta-site/",
+    "title": "Alefo Launches Beta Site"},
+   {"external_url": "http://todaysbesttools.com/lowering-the-barrier-for-data-aggregation-using-alefo/180/",
+    "title": "Lowering the Barrier For Data Aggregation Using Alefo"}]}

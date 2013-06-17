@@ -1,0 +1,200 @@
+{"name": "Communote",
+ "permalink": "communote",
+ "crunchbase_url": "http://www.crunchbase.com/company/communote",
+ "homepage_url": "http://www.communote.com",
+ "blog_url": "http://www.communote.com/blog",
+ "blog_feed_url": "http://www.communote.com/homepage/category/blog/feed/rss",
+ "twitter_username": "communote",
+ "category_code": "public_relations",
+ "number_of_employees": 7,
+ "founded_year": 2008,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "microblogging, socialmedia, twitter",
+ "alias_list": null,
+ "email_address": "jens.osthues@communardo.de",
+ "phone_number": "+49.351.83382-270",
+ "description": "Enterprise Microblogging",
+ "created_at": "Wed Oct 07 08:43:38 UTC 2009",
+ "updated_at": "Thu Nov 17 08:16:29 UTC 2011",
+ "overview": "\u003Cp\u003ECommunote [www.communote.com] is an enterprise microblogging platform with strong business focus offering features like team \u0026amp; topic orientation, superior tagging and retrieval, partner integration, enterprise authentication, access control, secure SaaS and inhouse-installation. Besides mobile access from blackberry, iPhone and Android smartphones, Communote provides integration toolkits for enterprise portals, e.g. Microsoft SharePoint and Atlassian Confluence. \nCommunote is focused on the needs of German and European enterprises providing consulting, integration and installation for microblogging behind the firewall.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0006/2109/62109v2-max-150x150.png"],
+     [[250,
+       51],
+      "assets/images/resized/0006/2109/62109v2-max-250x250.png"],
+     [[450,
+       93],
+      "assets/images/resized/0006/2109/62109v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Osthues,",
+      "last_name": "Jens",
+      "permalink": "osthues-jens",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0006/2221/62221v2-max-150x150.jpg"],
+          [[188,
+            250],
+           "assets/images/resized/0006/2221/62221v2-max-250x250.jpg"],
+          [[338,
+            450],
+           "assets/images/resized/0006/2221/62221v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CFO, CTO",
+    "person":
+     {"first_name": "R\u00c3\u00b6hrborn,",
+      "last_name": "Dirk",
+      "permalink": "rhrborn-dirk",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Yammer",
+      "permalink": "yammer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            30],
+           "assets/images/resized/0002/4256/24256v1-max-150x150.png"],
+          [[250,
+            51],
+           "assets/images/resized/0002/4256/24256v1-max-250x250.png"],
+          [[450,
+            92],
+           "assets/images/resized/0002/4256/24256v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Socialtext",
+      "permalink": "socialtext",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0000/3673/3673v1-max-150x150.png"],
+          [[165,
+            38],
+           "assets/images/resized/0000/3673/3673v1-max-250x250.png"],
+          [[165,
+            38],
+           "assets/images/resized/0000/3673/3673v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "WizeHive",
+      "permalink": "wizehive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            57],
+           "assets/images/resized/0003/2717/32717v1-max-150x150.png"],
+          [[250,
+            95],
+           "assets/images/resized/0003/2717/32717v1-max-250x250.png"],
+          [[261,
+            100],
+           "assets/images/resized/0003/2717/32717v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Status",
+      "permalink": "status",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0002/4944/24944v2-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0002/4944/24944v2-max-250x250.png"],
+          [[333,
+            100],
+           "assets/images/resized/0002/4944/24944v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Present.ly",
+      "permalink": "present-ly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0002/5277/25277v2-max-150x150.png"],
+          [[216,
+            45],
+           "assets/images/resized/0002/5277/25277v2-max-250x250.png"],
+          [[216,
+            45],
+           "assets/images/resized/0002/5277/25277v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Twitter",
+      "permalink": "twitter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0000/2755/2755v33-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0000/2755/2755v33-max-250x250.png"],
+          [[300,
+            300],
+           "assets/images/resized/0000/2755/2755v33-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": false,
+    "provider":
+     {"name": "K12 - moderne Unternehmenskommunikation",
+      "permalink": "k12-moderne-unternehmenskommunikation",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Communardo Software GmbH",
+    "address1": "Kleiststr. 10a",
+    "address2": "",
+    "zip_code": "01129",
+    "city": "Dresden",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        118],
+       "assets/images/resized/0016/2490/162490v2-max-150x150.jpg"],
+      [[250,
+        196],
+       "assets/images/resized/0016/2490/162490v2-max-250x250.jpg"],
+      [[450,
+        354],
+       "assets/images/resized/0016/2490/162490v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://blogs.zdnet.com/Hinchcliffe/?p=414\u0026page=3",
+    "title": "Overview Enterprise Microblogging Tools"}]}

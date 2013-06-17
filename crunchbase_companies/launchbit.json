@@ -1,0 +1,97 @@
+{"name": "LaunchBit",
+ "permalink": "launchbit",
+ "crunchbase_url": "http://www.crunchbase.com/company/launchbit",
+ "homepage_url": "http://www.launchbit.com",
+ "blog_url": "http://blog.launchbit.com",
+ "blog_feed_url": "http://feeds.feedburner.com/Launchbit",
+ "twitter_username": "launchbit",
+ "category_code": "advertising",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "hello@launchbit.com",
+ "phone_number": "650-427-9837",
+ "description": "Ad network for email",
+ "created_at": "Tue Jan 11 17:54:32 UTC 2011",
+ "updated_at": "Fri Mar 22 10:29:48 UTC 2013",
+ "overview": "\u003Cp\u003ELaunchBit is an ad platform for email.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0024/4667/244667v1-max-150x150.jpg"],
+     [[228,
+       61],
+      "assets/images/resized/0024/4667/244667v1-max-250x250.jpg"],
+     [[228,
+       61],
+      "assets/images/resized/0024/4667/244667v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Elizabeth",
+      "last_name": "Yin",
+      "permalink": "elizabeth-yin",
+      "image":
+       {"available_sizes":
+         [[[100,
+            150],
+           "assets/images/resized/0014/1093/141093v2-max-150x150.jpg"],
+          [[166,
+            250],
+           "assets/images/resized/0014/1093/141093v2-max-250x250.jpg"],
+          [[300,
+            450],
+           "assets/images/resized/0014/1093/141093v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$960k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/08/06/launchbit-seed-round-las-vegas/",
+    "source_description": "Email Ad Network LaunchBit Raises $960K, Plans Move To Las Vegas",
+    "raised_amount": 960000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 8,
+    "funded_day": 6,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "444 Castro Street",
+    "address2": "",
+    "zip_code": "94041",
+    "city": "Mountain View",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

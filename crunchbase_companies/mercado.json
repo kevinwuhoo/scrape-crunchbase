@@ -1,0 +1,150 @@
+{"name": "Mercado",
+ "permalink": "mercado",
+ "crunchbase_url": "http://www.crunchbase.com/company/mercado",
+ "homepage_url": "http://www.mercado.com",
+ "blog_url": "http://www.mercado.com/wordpress/",
+ "blog_feed_url": "http://mercado.com/wordpress/?feed=rss2",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "internet-retailing, seo, ecommerce-search",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "925.401.9300",
+ "description": null,
+ "created_at": "Thu Oct 09 20:55:04 UTC 2008",
+ "updated_at": "Tue Jan 11 20:52:31 UTC 2011",
+ "overview": "\u003Cp\u003EMercado provides a commerce-specific search engine for online retailing. The company provides software used to manage e-commerce operations, including merchandising, searching, catalog management, and browsing functions.  Mercado provides eCommerce professionals with a platform on which to execute merchandising strategies and drive revenue growth. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       52],
+      "assets/images/resized/0002/6480/26480v1-max-150x150.jpg"],
+     [[170,
+       59],
+      "assets/images/resized/0002/6480/26480v1-max-250x250.jpg"],
+     [[170,
+       59],
+      "assets/images/resized/0002/6480/26480v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Mercado Ignition",
+    "permalink": "mercado-ignition",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "WW Manager",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Marom",
+      "permalink": "mike-marom",
+      "image":
+       {"available_sizes":
+         [[[80,
+            80],
+           "assets/images/resized/0007/4223/74223v2-max-150x150.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0007/4223/74223v2-max-250x250.jpg"],
+          [[80,
+            80],
+           "assets/images/resized/0007/4223/74223v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Professional Services Engineer",
+    "person":
+     {"first_name": "Matan",
+      "last_name": "Amir",
+      "permalink": "matan-amir-2",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "ChannelAdvisor",
+      "permalink": "channeladvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            73],
+           "assets/images/resized/0015/7146/157146v2-max-150x150.jpg"],
+          [[176,
+            86],
+           "assets/images/resized/0015/7146/157146v2-max-250x250.jpg"],
+          [[176,
+            86],
+           "assets/images/resized/0015/7146/157146v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "",
+    "is_past": true,
+    "provider":
+     {"name": "balora",
+      "permalink": "balora",
+      "image":
+       {"available_sizes":
+         [[[119,
+            36],
+           "assets/images/resized/0003/7770/37770v2-max-150x150.jpg"],
+          [[119,
+            36],
+           "assets/images/resized/0003/7770/37770v2-max-250x250.jpg"],
+          [[119,
+            36],
+           "assets/images/resized/0003/7770/37770v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.omniture.com/press/584",
+   "source_description": "Omniture Completes the Acquisition of Mercado\u00e2\u20ac\u2122s Business Assets",
+   "acquired_year": 2008,
+   "acquired_month": 11,
+   "acquired_day": 5,
+   "acquiring_company":
+    {"name": "Omniture",
+     "permalink": "omniture",
+     "image":
+      {"available_sizes":
+        [[[150,
+           55],
+          "assets/images/resized/0000/2017/2017v1-max-150x150.png"],
+         [[150,
+           55],
+          "assets/images/resized/0000/2017/2017v1-max-250x250.png"],
+         [[150,
+           55],
+          "assets/images/resized/0000/2017/2017v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Mercado HQ",
+    "address1": "210 Stoneridge Mall Rd",
+    "address2": "Suite 200",
+    "zip_code": "94588",
+    "city": "Pleasanton",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.696386,
+    "longitude": -121.925774}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

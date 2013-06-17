@@ -1,0 +1,96 @@
+{"name": "Eldersync",
+ "permalink": "eldersync",
+ "crunchbase_url": "http://www.crunchbase.com/company/eldersync",
+ "homepage_url": "http://www.eldersync.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "eldersync",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2010,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "elder-care, coordination-of-care, eldercare, geriatric-care, senior-care, home-health, aging-in-place",
+ "alias_list": null,
+ "email_address": "dbernick@eldersync.com",
+ "phone_number": "6173883942",
+ "description": "Elder-care coordination",
+ "created_at": "Mon Oct 04 19:52:40 UTC 2010",
+ "updated_at": "Wed Oct 13 18:34:06 UTC 2010",
+ "overview": "\u003Cp\u003EEldersync is a dashboard for everyone in an aging person\u0026#8217;s life. For professional caregivers we provide tools to manage schedules and time-tracking. Family members and caregivers can leave notes and communicate (securely) with just about any device.  Home health devices can sync to the site. Doctors and professionals can access this data and, where permission is given, share it. We hope to be an ecosystem for coordination of care.\u003C/p\u003E\n\n\u003Cp\u003EWe have big plans, but ultimately we just want to fill in the gaps in eldercare and bring all of the parties together electronically.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Eldersync.com",
+    "permalink": "eldersync-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "David",
+      "last_name": "Bernick",
+      "permalink": "david-bernick",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP, Sales",
+    "person":
+     {"first_name": "Neil",
+      "last_name": "Aresty",
+      "permalink": "neil-aresty",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Ankota",
+      "permalink": "ankota",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0010/8387/108387v1-max-150x150.jpg"],
+          [[250,
+            64],
+           "assets/images/resized/0010/8387/108387v1-max-250x250.jpg"],
+          [[404,
+            105],
+           "assets/images/resized/0010/8387/108387v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MyRemCare",
+      "permalink": "myremcare",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "North End, Boston",
+    "address1": "108 Union Wharf",
+    "address2": "",
+    "zip_code": "02115",
+    "city": "Boston",
+    "state_code": "MA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.xconomy.com/boston/2010/06/07/hacker-with-former-slashdot-ties-and-tech-entrepreneur-tackle-home-health-hurdles-with-web-based-eldersync/",
+    "title": ""},
+   {"external_url": "http://herot.typepad.com/cherot/2010/09/yesterday-themass-technology-leadership-council-put-on-a-seminaremerging-technologies-for-the-silver-tsunami-aging-in-place.html",
+    "title": ""}]}

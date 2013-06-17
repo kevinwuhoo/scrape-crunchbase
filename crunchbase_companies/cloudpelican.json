@@ -1,0 +1,137 @@
+{"name": "CloudPelican",
+ "permalink": "cloudpelican",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudpelican",
+ "homepage_url": "http://www.cloudpelican.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "CloudPelican",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "real-time-analytics, operational-intelligence, business-intelligence, log-analysis, anomaly-detection, real-time-alerting, scheduled-reports",
+ "alias_list": null,
+ "email_address": "robin@cloudpelican.com",
+ "phone_number": "0031625360257",
+ "description": "Real-time operational intelligence",
+ "created_at": "Wed May 15 18:48:00 UTC 2013",
+ "updated_at": "Mon May 20 03:49:03 UTC 2013",
+ "overview": "\u003Cp\u003EReal-time operational and business intelligence. Gather all your data, from all your servers, services and websites in one place. Visualize it. Make the right decisions. \nCloudPelican allows you to reduce operational costs and improve data-driven decision making without the need of an expert on all of these disciplines.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       105],
+      "assets/images/resized/0026/2744/262744v2-max-150x150.jpg"],
+     [[250,
+       175],
+      "assets/images/resized/0026/2744/262744v2-max-250x250.jpg"],
+     [[450,
+       316],
+      "assets/images/resized/0026/2744/262744v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Robin",
+      "last_name": "Verlangen",
+      "permalink": "robin-verlangen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0022/6531/226531v2-max-150x150.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0022/6531/226531v2-max-250x250.jpg"],
+          [[150,
+            150],
+           "assets/images/resized/0022/6531/226531v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Logstash",
+      "permalink": "logstash",
+      "image": null}},
+   {"competitor":
+     {"name": "Splunk",
+      "permalink": "splunk",
+      "image":
+       {"available_sizes":
+         [[[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-150x150.png"],
+          [[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-250x250.png"],
+          [[100,
+            30],
+           "assets/images/resized/0002/4353/24353v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SumoLogic",
+      "permalink": "sumologic",
+      "image":
+       {"available_sizes":
+         [[[100,
+            60],
+           "assets/images/resized/0025/0457/250457v1-max-150x150.png"],
+          [[100,
+            60],
+           "assets/images/resized/0025/0457/250457v1-max-250x250.png"],
+          [[100,
+            60],
+           "assets/images/resized/0025/0457/250457v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Loggly",
+      "permalink": "loggly",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0007/7668/77668v1-max-150x150.png"],
+          [[150,
+            78],
+           "assets/images/resized/0007/7668/77668v1-max-250x250.png"],
+          [[150,
+            78],
+           "assets/images/resized/0007/7668/77668v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Ekker 7",
+    "address2": "",
+    "zip_code": "5422 CL",
+    "city": "Gemert",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe width=\"450\" height=\"315\" src=\"http://www.youtube.com/embed/vYIrlfkcd7Y\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ECloudPelican - Introduction\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

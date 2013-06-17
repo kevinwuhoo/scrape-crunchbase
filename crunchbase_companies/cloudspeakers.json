@@ -1,0 +1,106 @@
+{"name": "Cloudspeakers",
+ "permalink": "cloudspeakers",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudspeakers",
+ "homepage_url": "http://www.cloudspeakers.com",
+ "blog_url": "http://blog.cloudspeakers.com",
+ "blog_feed_url": "http://blog.cloudspeakers.com/feed/",
+ "twitter_username": "cloudspeakers",
+ "category_code": "other",
+ "number_of_employees": 1,
+ "founded_year": 2008,
+ "founded_month": 4,
+ "founded_day": 22,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music, reviews, aggregator, recommendations",
+ "alias_list": null,
+ "email_address": "info@cloudspeakers.com",
+ "phone_number": "+31 30 2712700",
+ "description": "aggregator of music content",
+ "created_at": "Thu Feb 04 19:29:44 UTC 2010",
+ "updated_at": "Fri Feb 05 20:55:33 UTC 2010",
+ "overview": "\u003Cp\u003ECloudspeakers is an aggregator of music reviews and legal audios and videos.\u003C/p\u003E\n\n\u003Cp\u003ECloudspeakers has developed their own scraper and recommendation engine. Their scraper crawls the internet constantly for music content like reviews, legal audios and videos. Only resources that meet their standard are included. At the moment hundreds of handpicked music webzines and blogs for music reviews of the latest music in six different languages are included.\u003C/p\u003E\n\n\u003Cp\u003EAll new content is matched to the discography DB of MusicBrainz. The necessity of the match with MusicBrainz is especially important when delivering intelligence data to music companies . Also this makes it possible to easily exchange data with a major players in the music industry who also have resolved their DB to MusicBrainz like BBC, Last.fm and Spotify. Thanks to the MusicBrainz match a discography of all artists (500k artists, 9 million tracks) is available in their Database.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0007/6072/76072v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0007/6072/76072v2-max-250x250.png"],
+     [[420,
+       420],
+      "assets/images/resized/0007/6072/76072v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Bol",
+      "permalink": "chris-bol",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Last.fm",
+      "permalink": "last-fm",
+      "image":
+       {"available_sizes":
+         [[[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-150x150.png"],
+          [[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-250x250.png"],
+          [[66,
+            42],
+           "assets/images/resized/0000/2845/2845v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MOG",
+      "permalink": "mog",
+      "image":
+       {"available_sizes":
+         [[[95,
+            44],
+           "assets/images/resized/0001/2512/12512v2-max-150x150.png"],
+          [[95,
+            44],
+           "assets/images/resized/0001/2512/12512v2-max-250x250.png"],
+          [[95,
+            44],
+           "assets/images/resized/0001/2512/12512v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "1e Achterstraat 6bis",
+    "address2": "",
+    "zip_code": "3512VL",
+    "city": "Utrecht",
+    "state_code": null,
+    "country_code": "NLD",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

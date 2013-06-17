@@ -1,0 +1,90 @@
+{"name": "GrepData",
+ "permalink": "grepdata",
+ "crunchbase_url": "http://www.crunchbase.com/company/grepdata",
+ "homepage_url": "http://grepdata.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "enterprise",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "contact@grepdata.com",
+ "phone_number": "",
+ "description": "Analytics for Big Data",
+ "created_at": "Mon Jun 03 19:04:27 UTC 2013",
+ "updated_at": "Mon Jun 03 19:05:07 UTC 2013",
+ "overview": "\u003Cp\u003EWith GrepData, turn your own Hadoop cluster directly into analytics and insight. All the processing happens right where the data is. Just install our highly optimized applications on the same boxes you already use for Hadoop and you\u0026#8217;re off and running.\u003C/p\u003E\n\n\u003Cp\u003EAll our applications are built 100% on top of distributed systems, allowing you to scale seamlessly from a thousand records a day to a billion records a day simply by adding commodity machines to your cluster. Never again worry about making another million dollar rack purchase from your BI vendor.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       61],
+      "assets/images/resized/0027/0824/270824v1-max-150x150.png"],
+     [[250,
+       102],
+      "assets/images/resized/0027/0824/270824v1-max-250x250.png"],
+     [[450,
+       184],
+      "assets/images/resized/0027/0824/270824v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Dustin",
+      "last_name": "Chang",
+      "permalink": "dustin-chang",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Viral",
+      "last_name": "Bajaria",
+      "permalink": "viral-bajaria",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Shane",
+      "last_name": "Moriah",
+      "permalink": "shane-moriah",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Premal",
+      "last_name": "Shah",
+      "permalink": "premal-shah-2",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

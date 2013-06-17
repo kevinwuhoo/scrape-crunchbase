@@ -1,0 +1,110 @@
+{"name": "Rockiger",
+ "permalink": "rockiger",
+ "crunchbase_url": "http://www.crunchbase.com/company/rockiger",
+ "homepage_url": "http://rockiger.com",
+ "blog_url": "http://rockiger.com/blog",
+ "blog_feed_url": "http://rockiger.com/blog/feed",
+ "twitter_username": "rockiger",
+ "category_code": "hardware",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 1,
+ "founded_day": 6,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "laptop-notebook-open-source-linux-ubuntu",
+ "alias_list": null,
+ "email_address": "info@rockiger.com",
+ "phone_number": "+49 611 97139715",
+ "description": "High-end Ubuntu Laptops",
+ "created_at": "Sun Apr 10 19:39:38 UTC 2011",
+ "updated_at": "Sat Apr 16 03:11:59 UTC 2011",
+ "overview": "\u003Cp\u003ERockiger is a company that provides customers with a laptop solution with Ubuntu Linux.\u003C/p\u003E\n\n\u003Cp\u003EThe first product from Rockiger is the SatchBook - a high-end laptop, that is targeted at advanced users. The main competition of the SatchBook is the MacBook Pro from Apple.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       44],
+      "assets/images/resized/0012/9940/129940v2-max-150x150.png"],
+     [[250,
+       74],
+      "assets/images/resized/0012/9940/129940v2-max-250x250.png"],
+     [[450,
+       134],
+      "assets/images/resized/0012/9940/129940v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Marco-Alexander",
+      "last_name": "Laspe",
+      "permalink": "marco-alexander-laspe",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "System76",
+      "permalink": "system76",
+      "image":
+       {"available_sizes":
+         [[[146,
+            45],
+           "assets/images/resized/0011/6049/116049v2-max-150x150.png"],
+          [[146,
+            45],
+           "assets/images/resized/0011/6049/116049v2-max-250x250.png"],
+          [[146,
+            45],
+           "assets/images/resized/0011/6049/116049v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Apple",
+      "permalink": "apple",
+      "image":
+       {"available_sizes":
+         [[[124,
+            150],
+           "assets/images/resized/0005/4061/54061v1-max-150x150.jpg"],
+          [[206,
+            250],
+           "assets/images/resized/0005/4061/54061v1-max-250x250.jpg"],
+          [[372,
+            450],
+           "assets/images/resized/0005/4061/54061v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ZaReason",
+      "permalink": "zareason",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "Bismarck-Ring 28",
+    "address2": "",
+    "zip_code": "65183",
+    "city": "Wiesbaden",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

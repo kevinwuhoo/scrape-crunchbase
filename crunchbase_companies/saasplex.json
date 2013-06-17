@@ -1,0 +1,96 @@
+{"name": "SaaSPlex",
+ "permalink": "saasplex",
+ "crunchbase_url": "http://www.crunchbase.com/company/saasplex",
+ "homepage_url": "http://www.saasplex.com",
+ "blog_url": "http://forum.saasplex.com",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "enterprise",
+ "number_of_employees": 10,
+ "founded_year": 2007,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "saas-in-the-fast-lane, saas",
+ "alias_list": null,
+ "email_address": "chka@saasplex.com",
+ "phone_number": "+353 1 4404380",
+ "description": null,
+ "created_at": "Thu Jan 15 17:29:56 UTC 2009",
+ "updated_at": "Sat Jan 24 17:37:02 UTC 2009",
+ "overview": "\u003Cp\u003EThe platform enables companies to deploy and manage their own internal or external SaaS applications. These applications can then be used either internally by the company or can be offered externally to clients of the company. The platform also enables the company to manage their connections to third party cloud providers, enabling them to offer a consolidated collection of third party cloud applications and services to their clients. An example use of the platform would be to enable a mobile operator to offer and manage the provisioning of a collection of third party SaaS applications from companies such as Amazon, Google, Yahoo, SAP and Oracle to their clients through a single consolidated web desktop.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0003/3943/33943v2-max-150x150.png"],
+     [[250,
+       105],
+      "assets/images/resized/0003/3943/33943v2-max-250x250.png"],
+     [[300,
+       126],
+      "assets/images/resized/0003/3943/33943v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "SaaSPlex Cloudspace",
+    "permalink": "saasplex-cloudspace",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founding Director",
+    "person":
+     {"first_name": "Christopher",
+      "last_name": "Karatzinis",
+      "permalink": "christopher-karatzinis",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$500k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     [{"company":
+        {"name": "SRC",
+         "permalink": "src",
+         "image": null},
+       "financial_org": null,
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HEADQUARTERS",
+    "address1": "3015 Lake Drive",
+    "address2": "Citywest Business Campus ",
+    "zip_code": "D 24",
+    "city": "Citywest",
+    "state_code": null,
+    "country_code": "IRL",
+    "latitude": 53.2933633,
+    "longitude": -6.4225868}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.workclouds.com",
+    "title": "Workclouds Marketplace"},
+   {"external_url": "http://www.siliconrepublic.com/news/article/12089/cio/new-global-saas-marketplace-emerges-from-dublin/",
+    "title": "siliconrepublic"}]}

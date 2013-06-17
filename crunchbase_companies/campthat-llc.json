@@ -1,0 +1,153 @@
+{"name": "Campthat LLC",
+ "permalink": "campthat-llc",
+ "crunchbase_url": "http://www.crunchbase.com/company/campthat-llc",
+ "homepage_url": "http://campthat.com",
+ "blog_url": "http://blog.campthat.com",
+ "blog_feed_url": "http://blog.campthat.com/rss",
+ "twitter_username": "campthat",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 8,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "camping-app-campsites-campgrounds-startup-social-geolocation",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "App for finding campsites",
+ "created_at": "Mon Jun 10 19:55:01 UTC 2013",
+ "updated_at": "Mon Jun 10 20:33:20 UTC 2013",
+ "overview": "\u003Cp\u003ECampthat is a web app that makes it easy to find campsites and exchange tips/information about campgrounds.  \u003C/p\u003E\n\n\u003Cp\u003ECampthat\u0026#8217;s founders were frustrated with using crummy government websites to plan camping trips.  They learned that many campers shared their frustration.  So they created Campthat to make the process of planning camping trips more fun, easy, simple and social.  \u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Flaherty",
+      "permalink": "brian-flaherty",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-founder",
+    "person":
+     {"first_name": "Robert",
+      "last_name": "Cooper",
+      "permalink": "robert-cooper",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Foursquare Labs",
+      "permalink": "foursquare-labs",
+      "image":
+       {"available_sizes":
+         [[[150,
+            52],
+           "assets/images/resized/0026/8682/268682v1-max-150x150.png"],
+          [[248,
+            86],
+           "assets/images/resized/0026/8682/268682v1-max-250x250.png"],
+          [[248,
+            86],
+           "assets/images/resized/0026/8682/268682v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Yelp",
+      "permalink": "yelp",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0000/2263/2263v12-max-150x150.png"],
+          [[250,
+            103],
+           "assets/images/resized/0000/2263/2263v12-max-250x250.png"],
+          [[435,
+            180],
+           "assets/images/resized/0000/2263/2263v12-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "TripAdvisor",
+      "permalink": "tripadvisor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/2953/2953v18-max-150x150.jpg"],
+          [[250,
+            147],
+           "assets/images/resized/0000/2953/2953v18-max-250x250.jpg"],
+          [[450,
+            264],
+           "assets/images/resized/0000/2953/2953v18-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "ReserveAmerica",
+      "permalink": "reserveamerica",
+      "image":
+       {"available_sizes":
+         [[[139,
+            41],
+           "assets/images/resized/0009/7966/97966v1-max-150x150.jpg"],
+          [[139,
+            41],
+           "assets/images/resized/0009/7966/97966v1-max-250x250.jpg"],
+          [[139,
+            41],
+           "assets/images/resized/0009/7966/97966v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "",
+    "address2": "",
+    "zip_code": "48104",
+    "city": "Ann Arbor",
+    "state_code": "MI",
+    "country_code": "USA",
+    "latitude": 42.2660881,
+    "longitude": -83.7146001}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        72],
+       "assets/images/resized/0027/3685/273685v2-max-150x150.png"],
+      [[250,
+        120],
+       "assets/images/resized/0027/3685/273685v2-max-250x250.png"],
+      [[450,
+        216],
+       "assets/images/resized/0027/3685/273685v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        72],
+       "assets/images/resized/0027/3686/273686v2-max-150x150.png"],
+      [[250,
+        120],
+       "assets/images/resized/0027/3686/273686v2-max-250x250.png"],
+      [[450,
+        217],
+       "assets/images/resized/0027/3686/273686v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

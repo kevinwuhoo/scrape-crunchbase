@@ -1,0 +1,85 @@
+{"name": "Trellis Automation",
+ "permalink": "trellis-automation",
+ "crunchbase_url": "http://www.crunchbase.com/company/trellis-automation",
+ "homepage_url": "http://trell.is",
+ "blog_url": "http://blog.trell.is",
+ "blog_feed_url": "http://blog.trell.is/rss.xml",
+ "twitter_username": "TrellisSoftware",
+ "category_code": "software",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "system-automation, mobile-testing, android-testing, ios-testing, automation, test-automation",
+ "alias_list": null,
+ "email_address": "connect@trell.is",
+ "phone_number": "",
+ "description": "System automation made easy",
+ "created_at": "Sat May 12 22:16:48 UTC 2012",
+ "updated_at": "Thu Oct 11 04:22:15 UTC 2012",
+ "overview": "\u003Cp\u003ETrellis makes automation tools. At its core is a platform that allows complex system interactions to be controlled in an extremely easy way.\u003C/p\u003E\n\n\u003Cp\u003ETheir first product built on this technology is AppThwack, a web service that allows mobile app developers to rapidly test their apps on 100s of devices in about five minutes. AppThwack supports Android, mobile web (private beta), and soon iOS.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[140,
+       140],
+      "assets/images/resized/0018/9494/189494v2-max-150x150.png"],
+     [[140,
+       140],
+      "assets/images/resized/0018/9494/189494v2-max-250x250.png"],
+     [[140,
+       140],
+      "assets/images/resized/0018/9494/189494v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Trent",
+      "last_name": "Peterson",
+      "permalink": "trent-peterson",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Pawel",
+      "last_name": "Wojnarowicz",
+      "permalink": "pawel-wojnarowicz",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "1227 NW Davis Street",
+    "address2": "",
+    "zip_code": "97209",
+    "city": "Portland",
+    "state_code": "OR",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://appthwack.com",
+    "title": "AppThwack"}]}

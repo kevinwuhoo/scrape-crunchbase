@@ -1,0 +1,98 @@
+{"name": "Webpass",
+ "permalink": "webpass",
+ "crunchbase_url": "http://www.crunchbase.com/company/webpass",
+ "homepage_url": "http://www.webpass.net",
+ "blog_url": "http://www.webpass.net/news/",
+ "blog_feed_url": "http://www.webpass.net/news/?feed=rss2",
+ "twitter_username": "Webpass",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "isp, ethernet, fso, ptp, wireless, backhaul",
+ "alias_list": "",
+ "email_address": "questions@webpass.net",
+ "phone_number": "(415) 233-4100",
+ "description": "",
+ "created_at": "Fri Mar 14 07:11:26 UTC 2008",
+ "updated_at": "Sun Mar 24 03:08:34 UTC 2013",
+ "overview": "\u003Cp\u003EWebpass is San Francisco based and ranked as the fastest ISP in California. They install small antennas on the roofs of each building they serve in order to connect to their network. They offer a 45 Mbps or 100Mbps residential Internet service for $45 per month on their 100% Ethernet network. They also offer a business service starting at $100 per Megabit. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       75],
+      "assets/images/resized/0001/5744/15744v1-max-150x150.png"],
+     [[170,
+       85],
+      "assets/images/resized/0001/5744/15744v1-max-250x250.png"],
+     [[170,
+       85],
+      "assets/images/resized/0001/5744/15744v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President \u0026 CEO",
+    "person":
+     {"first_name": "Charles",
+      "last_name": "Barr",
+      "permalink": "charles-barr",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Technology",
+    "person":
+     {"first_name": "Blake",
+      "last_name": "Drager",
+      "permalink": "blake-drager",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Rapid Link",
+      "permalink": "rapid-link",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0008/0064/80064v1-max-150x150.png"],
+          [[250,
+            100],
+           "assets/images/resized/0008/0064/80064v1-max-250x250.png"],
+          [[325,
+            131],
+           "assets/images/resized/0008/0064/80064v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "262 7th Street",
+    "address2": "",
+    "zip_code": "94103",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7834147,
+    "longitude": -122.4209958}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

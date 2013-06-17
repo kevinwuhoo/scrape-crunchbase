@@ -1,0 +1,89 @@
+{"name": "CreativeWorx",
+ "permalink": "creativecloud",
+ "crunchbase_url": "http://www.crunchbase.com/company/creativecloud",
+ "homepage_url": "http://www.creativeworx.com",
+ "blog_url": "http://blog.creativeworx.com/",
+ "blog_feed_url": "http://www.creativeworx.com/press",
+ "twitter_username": "CreativeWorxCo",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": 9,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "mhirsch@creativeworx.com",
+ "phone_number": "",
+ "description": "Creative workflow SaaS solutions",
+ "created_at": "Mon Jun 27 20:36:50 UTC 2011",
+ "updated_at": "Thu May 02 05:49:48 UTC 2013",
+ "overview": "\u003Cp\u003EPreview: Bridging the gap between creative and business professionals.\u003C/p\u003E\n\n\u003Cp\u003EThe first CreativeWorx solution is TimeTracker, a platform that automatically captures how professionals spend their time\u2026and provides powerful tools to leverage that data.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       17],
+      "assets/images/resized/0016/4069/164069v2-max-150x150.png"],
+     [[250,
+       28],
+      "assets/images/resized/0016/4069/164069v2-max-250x250.png"],
+     [[450,
+       51],
+      "assets/images/resized/0016/4069/164069v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "TimeTracker",
+    "permalink": "timetracker",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder \u0026 CEO",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Hirsch",
+      "permalink": "mark-hirsch",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$400k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 400000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 9,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarter",
+    "address1": "902 Broadway ",
+    "address2": "7th Floor",
+    "zip_code": "NY 10010 ",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/tag/creativeworx/",
+    "title": "Techcrunch announces CreativeWorx TimeTracker"}]}

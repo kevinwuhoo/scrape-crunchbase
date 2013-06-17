@@ -1,0 +1,133 @@
+{"name": "LogNormal",
+ "permalink": "lognormal",
+ "crunchbase_url": "http://www.crunchbase.com/company/lognormal",
+ "homepage_url": "http://www.lognormal.com/",
+ "blog_url": "http://www.lognormal.com/blog/",
+ "blog_feed_url": "http://feeds.feedburner.com/lognormal",
+ "twitter_username": "log_normal",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "web-performance, rum, performance, wpo",
+ "alias_list": null,
+ "email_address": "contact@lognormal.com",
+ "phone_number": "",
+ "description": "real user performance measurement",
+ "created_at": "Fri Aug 17 14:05:22 UTC 2012",
+ "updated_at": "Sat Dec 22 02:20:41 UTC 2012",
+ "overview": "\u003Cp\u003ELogNormal measures a website\u0026#8217;s performance from the end user\u0026#8217;s perspective.\u003C/p\u003E\n\n\u003Cp\u003ELogNormal provides a SaaS solution that helps website owners measure the performance of their site from their end users\u0026#8217; perspective.  It allows site owners to drill down into several dimensions including Browser, Geographic Location of the user, the user\u0026#8217;s network throughput and more.\u003C/p\u003E\n\n\u003Cp\u003ESome of LogNormal\u0026#8217;s advanced features include the ability to correlate changes in performance with changes in user engagement like bounce rate and conversions, and the ability to integrate with A/B testing tools.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0020/6585/206585v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0020/6585/206585v2-max-250x250.png"],
+     [[264,
+       264],
+      "assets/images/resized/0020/6585/206585v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO \u0026 Co-Founder",
+    "person":
+     {"first_name": "Buddy",
+      "last_name": "Brewer",
+      "permalink": "buddy-brewer",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO \u0026 Co-Founder",
+    "person":
+     {"first_name": "Philip",
+      "last_name": "Tellis",
+      "permalink": "philip-tellis",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Infrastructure",
+    "is_past": false,
+    "provider":
+     {"name": "Linode",
+      "permalink": "linode-2",
+      "image":
+       {"available_sizes":
+         [[[125,
+            150],
+           "assets/images/resized/0009/0844/90844v5-max-150x150.jpg"],
+          [[208,
+            250],
+           "assets/images/resized/0009/0844/90844v5-max-250x250.jpg"],
+          [[375,
+            450],
+           "assets/images/resized/0009/0844/90844v5-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"title": "Payment Gateway",
+    "is_past": false,
+    "provider":
+     {"name": "Stripe",
+      "permalink": "stripe",
+      "image": null}},
+   {"title": "Source code repository",
+    "is_past": false,
+    "provider":
+     {"name": "Github",
+      "permalink": "github",
+      "image": null}},
+   {"title": "Email \u0026 Document Sharing",
+    "is_past": false,
+    "provider":
+     {"name": "Google",
+      "permalink": "google-4",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.lognormal.com/blog/2012/10/01/lognormal-acquired-by-soasta/",
+   "source_description": "SOASTA Acquires Real User Measurement Company",
+   "acquired_year": 2012,
+   "acquired_month": 9,
+   "acquired_day": 26,
+   "acquiring_company":
+    {"name": "SOASTA",
+     "permalink": "soasta",
+     "image":
+      {"available_sizes":
+        [[[150,
+           25],
+          "assets/images/resized/0019/9673/199673v2-max-150x150.png"],
+         [[250,
+           43],
+          "assets/images/resized/0019/9673/199673v2-max-250x250.png"],
+         [[372,
+           64],
+          "assets/images/resized/0019/9673/199673v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

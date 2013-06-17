@@ -1,0 +1,148 @@
+{"name": "ScaleMP",
+ "permalink": "scalemp",
+ "crunchbase_url": "http://www.crunchbase.com/company/scalemp",
+ "homepage_url": "http://www.scalemp.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "ScaleMP",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 10,
+ "founded_day": 2,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Virtualization for high end computing",
+ "created_at": "Wed Jan 07 04:25:56 UTC 2009",
+ "updated_at": "Thu Apr 04 10:54:44 UTC 2013",
+ "overview": "\u003Cp\u003EScaleMP\u00e2\u201e\u00a2 is the leader in virtualization for high-end computing, providing higher performance and lower Total Cost of Ownership (TCO). The innovative Versatile SMP\u00e2\u201e\u00a2 (vSMP) architecture aggregates multiple x86 systems into a single virtual x86 system, delivering an industry-standard, high-end symmetric multiprocessor (SMP) computer. Using software to replace custom hardware and components, ScaleMP offers a new, revolutionary computing paradigm. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       31],
+      "assets/images/resized/0003/3243/33243v1-max-150x150.png"],
+     [[212,
+       44],
+      "assets/images/resized/0003/3243/33243v1-max-250x250.png"],
+     [[212,
+       44],
+      "assets/images/resized/0003/3243/33243v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$8M",
+ "funding_rounds":
+  [{"round_code": "d",
+    "source_url": "http://venturebeat.com/2008/04/08/scalemp-debuts-aggregate-virtualization-with-8m-funding/",
+    "source_description": "VentureBeat",
+    "raised_amount": 8000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2008,
+    "funded_month": 4,
+    "funded_day": 8,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Sequoia Capital",
+         "permalink": "sequoia-capital",
+         "image":
+          {"available_sizes":
+            [[[150,
+               25],
+              "assets/images/resized/0007/6384/76384v2-max-150x150.jpg"],
+             [[250,
+               42],
+              "assets/images/resized/0007/6384/76384v2-max-250x250.jpg"],
+             [[450,
+               76],
+              "assets/images/resized/0007/6384/76384v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Lightspeed Venture Partners",
+         "permalink": "lightspeed-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               39],
+              "assets/images/resized/0000/2911/2911v1-max-150x150.png"],
+             [[203,
+               53],
+              "assets/images/resized/0000/2911/2911v1-max-250x250.png"],
+             [[203,
+               53],
+              "assets/images/resized/0000/2911/2911v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "TL Ventures",
+         "permalink": "tl-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               45],
+              "assets/images/resized/0003/0750/30750v1-max-150x150.png"],
+             [[208,
+               63],
+              "assets/images/resized/0003/0750/30750v1-max-250x250.png"],
+             [[208,
+               63],
+              "assets/images/resized/0003/0750/30750v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "ABS Ventures",
+         "permalink": "abs-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               57],
+              "assets/images/resized/0001/0971/10971v1-max-150x150.jpg"],
+             [[182,
+               70],
+              "assets/images/resized/0001/0971/10971v1-max-250x250.jpg"],
+             [[182,
+               70],
+              "assets/images/resized/0001/0971/10971v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "20863 Stevens Creek Blvd.",
+    "address2": "Suite 275",
+    "zip_code": "95014 ",
+    "city": "Cupertino",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.3229727,
+    "longitude": -122.0385792}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.scalemp.com/2009-jan-28-product-expansion",
+    "title": "SCALEMP ANNOUNCES EXPANSION OF ITS PRODUCT LINE"}]}

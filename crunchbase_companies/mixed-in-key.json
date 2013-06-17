@@ -1,0 +1,102 @@
+{"name": "Mixed In Key",
+ "permalink": "mixed-in-key",
+ "crunchbase_url": "http://www.crunchbase.com/company/mixed-in-key",
+ "homepage_url": "http://www.mixedinkey.com",
+ "blog_url": "http://community.mixedinkey.com",
+ "blog_feed_url": "http://feeds.feedburner.com/MixedInKeyBlog",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2006,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "music-software, audio, audio-analysis, djing, dj",
+ "alias_list": null,
+ "email_address": "contact@mixedinkey.com",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Sat Aug 16 06:48:33 UTC 2008",
+ "updated_at": "Sat Feb 07 15:42:17 UTC 2009",
+ "overview": "\u003Cp\u003EMixed In Key (also known as MIK) is Windows and Macintosh software that simplifies a DJ technique called harmonic mixing. The latest version of Mixed In Key analyzes MP3 and WAV files and determines the musical key of every file. Knowing the key, DJs can use music theory (such as the Circle of Fifths) to play songs in a harmonically-pleasing order. The software helps to eliminate dissonant tones while mixing songs together using a technique such as beatmatching.\u003C/p\u003E\n\n\u003Cp\u003EMixed In Key was established in 2006 to release the software to the world-wide DJ audience. Mixed In Key has also spawned a supplementary product, Platinum Notes which corrects audio problems with MP3 and WAV files using iZotope and zplane.development technology.\u003C/p\u003E\n\n\u003Cp\u003EAs of December 2006, Mixed In Key became a partner of Allen \u0026amp; Heath, the UK-based company known for its high-end audio mixing consoles.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       57],
+      "assets/images/resized/0002/3774/23774v2-max-150x150.png"],
+     [[235,
+       90],
+      "assets/images/resized/0002/3774/23774v2-max-250x250.png"],
+     [[235,
+       90],
+      "assets/images/resized/0002/3774/23774v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Yakov",
+      "last_name": "Vorobyev",
+      "permalink": "yakov-vorobyev",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": null,
+    "price_currency_code": "USD",
+    "term_code": "cash",
+    "source_url": "http://community.mixedinkey.com/Topic.aspx?ID=4618",
+    "source_description": "Mixed In Key acquires Harmonic-Mixing.com",
+    "acquired_year": 2008,
+    "acquired_month": 8,
+    "acquired_day": 1,
+    "company":
+     {"name": "Harmonic-Mixing.com",
+      "permalink": "harmonic-mixing-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            40],
+           "assets/images/resized/0012/1413/121413v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0012/1413/121413v1-max-250x250.png"],
+          [[250,
+            68],
+           "assets/images/resized/0012/1413/121413v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "offices":
+  [{"description": "Mixed In Key Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Rockville",
+    "state_code": "MD",
+    "country_code": "USA",
+    "latitude": 39.083916,
+    "longitude": -77.156823}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.harmonic-mixing.com/",
+    "title": "Technique behind Mixed In Key"},
+   {"external_url": "http://en.wikipedia.org/wiki/Mixed_In_Key",
+    "title": "Mixed In Key - Wikipedia, the free encyclopedia"}]}

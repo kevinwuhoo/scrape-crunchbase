@@ -1,0 +1,145 @@
+{"name": "openPeople",
+ "permalink": "openpeople",
+ "crunchbase_url": "http://www.crunchbase.com/company/openpeople",
+ "homepage_url": "http://www.openpeople.us",
+ "blog_url": "http://blog.openpeople.de",
+ "blog_feed_url": "http://blog.openpeople.de/feed/",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 5,
+ "founded_year": 2006,
+ "founded_month": 7,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "crew@openpeople.de",
+ "phone_number": "+491805666606",
+ "description": "",
+ "created_at": "Thu Feb 14 11:22:52 UTC 2008",
+ "updated_at": "Sat Dec 19 07:40:50 UTC 2009",
+ "overview": "\u003Cp\u003EopenPeople is a social networking community with the aim to prove that all people on earth know about six degrees. Users have the possibility to refind old friends and make new friends within their circle of friendship (friends of friends).\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[100,
+       100],
+      "assets/images/resized/0002/6550/26550v2-max-150x150.png"],
+     [[100,
+       100],
+      "assets/images/resized/0002/6550/26550v2-max-250x250.png"],
+     [[100,
+       100],
+      "assets/images/resized/0002/6550/26550v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Marketing",
+    "person":
+     {"first_name": "Andreas",
+      "last_name": "Nikolai",
+      "permalink": "andreas-nikolai",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "MySpace",
+      "permalink": "myspace",
+      "image":
+       {"available_sizes":
+         [[[150,
+            31],
+           "assets/images/resized/0000/4414/4414v80-max-150x150.jpg"],
+          [[250,
+            52],
+           "assets/images/resized/0000/4414/4414v80-max-250x250.jpg"],
+          [[450,
+            94],
+           "assets/images/resized/0000/4414/4414v80-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Lokalisten",
+      "permalink": "lokalisten",
+      "image":
+       {"available_sizes":
+         [[[150,
+            24],
+           "assets/images/resized/0004/2586/42586v2-max-150x150.png"],
+          [[250,
+            40],
+           "assets/images/resized/0004/2586/42586v2-max-250x250.png"],
+          [[379,
+            61],
+           "assets/images/resized/0004/2586/42586v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "hi5",
+      "permalink": "hi5",
+      "image":
+       {"available_sizes":
+         [[[150,
+            76],
+           "assets/images/resized/0001/5722/15722v71-max-150x150.jpg"],
+          [[250,
+            127],
+           "assets/images/resized/0001/5722/15722v71-max-250x250.jpg"],
+          [[305,
+            156],
+           "assets/images/resized/0001/5722/15722v71-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Friendster",
+      "permalink": "friendster",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0000/4486/4486v64-max-150x150.jpg"],
+          [[178,
+            56],
+           "assets/images/resized/0000/4486/4486v64-max-250x250.jpg"],
+          [[178,
+            56],
+           "assets/images/resized/0000/4486/4486v64-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "\u20ac200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://blog.openpeople.de/2006/04/01/coming-soon-openpeople-seed-finanzierung/",
+    "source_description": "openPeople blog",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "EUR",
+    "funded_year": 2006,
+    "funded_month": 3,
+    "funded_day": 21,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "Stolzestr. 46",
+    "address2": "",
+    "zip_code": "30171",
+    "city": "Hannover",
+    "state_code": null,
+    "country_code": "DEU",
+    "latitude": 52.3653872,
+    "longitude": 9.7580413}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

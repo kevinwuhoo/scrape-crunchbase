@@ -1,0 +1,150 @@
+{"name": "Audible",
+ "permalink": "audible",
+ "crunchbase_url": "http://www.crunchbase.com/company/audible",
+ "homepage_url": "http://www.audible.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "ecommerce",
+ "number_of_employees": null,
+ "founded_year": 1999,
+ "founded_month": 7,
+ "founded_day": 21,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Digital Audio Books",
+ "created_at": "Wed Jun 25 23:14:17 UTC 2008",
+ "updated_at": "Tue Oct 13 07:52:02 UTC 2009",
+ "overview": "\u003Cp\u003E\u003Ca href=\"http://www.audible.com\" title=\"Audible\" rel=\"nofollow\"\u003EAudible\u003C/a\u003E is a provider of spoken audio information and entertainment , on the Internet.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       33],
+      "assets/images/resized/0002/1035/21035v1-max-150x150.png"],
+     [[164,
+       37],
+      "assets/images/resized/0002/1035/21035v1-max-250x250.png"],
+     [[164,
+       37],
+      "assets/images/resized/0002/1035/21035v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Product Management",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Stover",
+      "permalink": "michael-stover",
+      "image": null}},
+   {"is_past": true,
+    "title": "Chairman",
+    "person":
+     {"first_name": "Timothy",
+      "last_name": "Mott",
+      "permalink": "timothy-mott",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0014/0246/140246v2-max-150x150.jpg"],
+          [[140,
+            187],
+           "assets/images/resized/0014/0246/140246v2-max-250x250.jpg"],
+          [[140,
+            187],
+           "assets/images/resized/0014/0246/140246v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Board",
+    "person":
+     {"first_name": "Jim",
+      "last_name": "Bankoff",
+      "permalink": "jim-bankoff",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0002/3312/23312v3-max-150x150.jpg"],
+          [[200,
+            250],
+           "assets/images/resized/0002/3312/23312v3-max-250x250.jpg"],
+          [[360,
+            450],
+           "assets/images/resized/0002/3312/23312v3-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "NewFiction",
+      "permalink": "newfiction",
+      "image":
+       {"available_sizes":
+         [[[150,
+            64],
+           "assets/images/resized/0002/8057/28057v2-max-150x150.png"],
+          [[250,
+            107],
+           "assets/images/resized/0002/8057/28057v2-max-250x250.png"],
+          [[450,
+            193],
+           "assets/images/resized/0002/8057/28057v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": 300000000.0,
+   "price_currency_code": "USD",
+   "term_code": "cash",
+   "source_url": "http://www.techcrunch.com/2008/01/31/amazon-strengthens-its-digital-hand-with-300-million-purchase-of-audible/",
+   "source_description": "Amazon Strengthens Its Digital Hand With $300 Million Purchase of Audible",
+   "acquired_year": 2008,
+   "acquired_month": 1,
+   "acquired_day": 31,
+   "acquiring_company":
+    {"name": "Amazon",
+     "permalink": "amazon",
+     "image":
+      {"available_sizes":
+        [[[150,
+           66],
+          "assets/images/resized/0000/3898/3898v1-max-150x150.jpg"],
+         [[200,
+           89],
+          "assets/images/resized/0000/3898/3898v1-max-250x250.jpg"],
+         [[200,
+           89],
+          "assets/images/resized/0000/3898/3898v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "One Washington Park",
+    "address2": "",
+    "zip_code": "07102",
+    "city": "Newark",
+    "state_code": "NJ",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

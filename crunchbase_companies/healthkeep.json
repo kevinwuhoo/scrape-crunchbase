@@ -1,0 +1,104 @@
+{"name": "HealthKeep",
+ "permalink": "healthkeep",
+ "crunchbase_url": "http://www.crunchbase.com/company/healthkeep",
+ "homepage_url": "https://www.healthkeep.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "health_keep",
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2013,
+ "founded_month": 4,
+ "founded_day": 4,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, health, network, doctors, patients, lifestyle",
+ "alias_list": "",
+ "email_address": "info@healthkeep.com",
+ "phone_number": "",
+ "description": "Social Health Network",
+ "created_at": "Mon Apr 15 18:59:53 UTC 2013",
+ "updated_at": "Mon Apr 15 23:47:46 UTC 2013",
+ "overview": "\u003Cp\u003EHealthKeep is a fun and intuitive social health network. It helps you to understand, organize and share about your health.  You are automatically connected to others who share your health issues.  You can connect to your doctors, and you are empowered improve your health and the health of those you care for.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0025/1724/251724v2-max-150x150.png"],
+     [[250,
+       54],
+      "assets/images/resized/0025/1724/251724v2-max-250x250.png"],
+     [[275,
+       60],
+      "assets/images/resized/0025/1724/251724v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Technical Cofounder",
+    "person":
+     {"first_name": "Hugo",
+      "last_name": "Gameiro",
+      "permalink": "hugo-gameiro",
+      "image":
+       {"available_sizes":
+         [[[143,
+            150],
+           "assets/images/resized/0009/9677/99677v2-max-150x150.jpg"],
+          [[239,
+            250],
+           "assets/images/resized/0009/9677/99677v2-max-250x250.jpg"],
+          [[282,
+            294],
+           "assets/images/resized/0009/9677/99677v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Founder and CEO",
+    "person":
+     {"first_name": "Lyle",
+      "last_name": "Dennis",
+      "permalink": "lyle-dennis",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        115],
+       "assets/images/resized/0025/1723/251723v2-max-150x150.jpg"],
+      [[250,
+        192],
+       "assets/images/resized/0025/1723/251723v2-max-250x250.jpg"],
+      [[450,
+        345],
+       "assets/images/resized/0025/1723/251723v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://mashable.com/2013/03/26/healthkeep/",
+    "title": "Mashable - HealthKeep Social Network Catalogues Your Medical Records"},
+   {"external_url": "http://venturebeat.com/2013/04/12/want-to-share-your-aches-and-pains-try-healthkeep-an-anonymous-social-network-exclusive/",
+    "title": "VentureBeat - Want to share your aches and pains? Try HealthKeep, an anonymous social network"},
+   {"external_url": "http://www.dvice.com/2013-3-15/healthkeep-social-network-changes-how-we-view-healthcare",
+    "title": "DVice - HealthKeep social network changes how we view healthcare"},
+   {"external_url": "http://healthworkscollective.com/waxcom/92051/patient-history-doesn-t-have-be-complicated-anymore",
+    "title": "HealthWorks - Patient History Doesn\u2019t Have to be Complicated Anymore"}]}

@@ -1,0 +1,125 @@
+{"name": "3taps",
+ "permalink": "3taps",
+ "crunchbase_url": "http://www.crunchbase.com/company/3taps",
+ "homepage_url": "http://3taps.com/",
+ "blog_url": "http://3taps.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "3taps",
+ "category_code": "web",
+ "number_of_employees": 10,
+ "founded_year": 2009,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@3taps.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Oct 01 18:52:50 UTC 2010",
+ "updated_at": "Fri Apr 22 02:07:08 UTC 2011",
+ "overview": "\u003Cp\u003E3taps, founded in 2009 by Greg Kidd, is a platform for exchanges of goods, services and information that allows users to search in real time for postings \u00e2\u20ac\u201c transaction-specific information about items offered for exchange, such as a job offering or a watch for sale.\u003C/p\u003E\n\n\u003Cp\u003EFor the developer community, 3taps offers customizable firehoses of normalized, exchange-related data via its APIs and directly from its website, www.3taps.com.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[126,
+       120],
+      "assets/images/resized/0010/3883/103883v2-max-150x150.jpg"],
+     [[126,
+       120],
+      "assets/images/resized/0010/3883/103883v2-max-250x250.jpg"],
+     [[126,
+       120],
+      "assets/images/resized/0010/3883/103883v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder, CEO",
+    "person":
+     {"first_name": "Greg",
+      "last_name": "Kidd",
+      "permalink": "greg-kidd",
+      "image":
+       {"available_sizes":
+         [[[120,
+            120],
+           "assets/images/resized/0010/3714/103714v2-max-150x150.png"],
+          [[120,
+            120],
+           "assets/images/resized/0010/3714/103714v2-max-250x250.png"],
+          [[120,
+            120],
+           "assets/images/resized/0010/3714/103714v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CAO",
+    "person":
+     {"first_name": "Douglas",
+      "last_name": "Evans",
+      "permalink": "douglas-evans",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Devin",
+      "last_name": "Foley",
+      "permalink": "devin-foley",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "seed",
+      "source_url": "http://techcrunch.com/2012/10/09/lovely-goes-from-craigslist-target-to-the-kayak-of-apartment-rentals-as-it-launches-nationwide/",
+      "source_description": "Lovely Goes From Craigslist Target To The Kayak Of Apartment Rentals As It Launches Nationwide",
+      "raised_amount": 2000000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2012,
+      "funded_month": 10,
+      "funded_day": null,
+      "company":
+       {"name": "Lovely",
+        "permalink": "lovely",
+        "image":
+         {"available_sizes":
+           [[[150,
+              64],
+             "assets/images/resized/0015/7059/157059v2-max-150x150.png"],
+            [[250,
+              106],
+             "assets/images/resized/0015/7059/157059v2-max-250x250.png"],
+            [[450,
+              192],
+             "assets/images/resized/0015/7059/157059v2-max-450x450.png"]],
+          "attribution": null}}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Chronicle Books Building",
+    "address1": "680 Second Street   CA ",
+    "address2": "Suite 200",
+    "zip_code": "94107",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

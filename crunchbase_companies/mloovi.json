@@ -1,0 +1,80 @@
+{"name": "Smartsbr",
+ "permalink": "mloovi",
+ "crunchbase_url": "http://www.crunchbase.com/company/mloovi",
+ "homepage_url": "http://apkbr.com/",
+ "blog_url": "http://apkbr.com/",
+ "blog_feed_url": "http://apkbr.com/feed",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 10,
+ "founded_day": 10,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "rss, blog, translator, language",
+ "alias_list": null,
+ "email_address": "jamp@smartsbr.com",
+ "phone_number": "+55 22 81307263",
+ "description": "",
+ "created_at": "Wed Aug 06 12:44:33 UTC 2008",
+ "updated_at": "Sun Mar 10 21:32:33 UTC 2013",
+ "overview": "\u003Cp\u003EMloovi is a tool which allows blog owners to publish their blog in 35 different languages. It also allows users to translate any RSS feed they choose into the language of their choice.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       42],
+      "assets/images/resized/0002/3415/23415v1-max-150x150.png"],
+     [[250,
+       70],
+      "assets/images/resized/0002/3415/23415v1-max-250x250.png"],
+     [[296,
+       83],
+      "assets/images/resized/0002/3415/23415v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Mloovi tweet translator",
+    "permalink": "mloovi-tweet-translator",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Head Honcho",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Robinson",
+      "permalink": "mike-robinson",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://uk.techcrunch.com/2008/08/06/mloovi-feedburner-for-the-rest-of-the-planet/",
+    "title": "mloovi - Feedburner for the rest of the planet?"}]}

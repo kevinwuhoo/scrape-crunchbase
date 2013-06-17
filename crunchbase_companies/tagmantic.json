@@ -1,0 +1,129 @@
+{"name": "tagMantic",
+ "permalink": "tagmantic",
+ "crunchbase_url": "http://www.crunchbase.com/company/tagmantic",
+ "homepage_url": "http://www.tagmantic.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "tagMantic",
+ "category_code": "web",
+ "number_of_employees": 4,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "semweb, semanticweb, semanticsearch, recommendersystems, socialrecommendations, bookmarking, datamining",
+ "alias_list": null,
+ "email_address": "janos.moldvay@tagmantic.com",
+ "phone_number": "+27 72 39 37 694",
+ "description": "Social Recommendations, Semantic Search",
+ "created_at": "Mon Sep 27 16:54:15 UTC 2010",
+ "updated_at": "Fri Oct 08 19:11:23 UTC 2010",
+ "overview": "\u003Cp\u003EtagMantic is a web based social recommendation and semantic search service which exploits the rich information within folksonomies by applying sophisticated data mining methods and information retrieval techniques.\u003C/p\u003E\n\n\u003Cp\u003EThe key features of tagMantic are:\n\u00e2\u20ac\u00a2 Tag-Based search, which enables users to discover relevant and interesting websites fast and intuitively\u003Cbr/\u003E\n\u00e2\u20ac\u00a2 Bookmarking, which allows saving and managing websites\n\u00e2\u20ac\u00a2 Bookmarklet that enables users to easily save interesting websites while surfing the web and which recommends other related websites.\u003C/p\u003E\n\n\u003Cp\u003EtagMantic provides a unique and interactive experience for browsing and exploring websites. Other, popular bookmarking services do not fully unfold the data available by applying state of the art tag analysis methods.  The combination of automatically retrieved ontologies with the application of semantic relations between different terms and concepts within one intuitive and simple bookmarking and recommendation service is unique. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0010/3254/103254v2-max-150x150.png"],
+     [[250,
+       54],
+      "assets/images/resized/0010/3254/103254v2-max-250x250.png"],
+     [[450,
+       97],
+      "assets/images/resized/0010/3254/103254v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "J\u00c3\u00a1nos",
+      "last_name": "Moldvay",
+      "permalink": "jnos-moldvay",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Niko",
+      "last_name": "Schmuck",
+      "permalink": "niko-schmuck",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Mirko",
+      "last_name": "Schuh",
+      "permalink": "mirko-schuh",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Alexander",
+      "last_name": "Frerichs",
+      "permalink": "alexander-frerichs",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "StumbleUpon",
+      "permalink": "stumbleupon",
+      "image":
+       {"available_sizes":
+         [[[150,
+            38],
+           "assets/images/resized/0004/1614/41614v6-max-150x150.png"],
+          [[250,
+            64],
+           "assets/images/resized/0004/1614/41614v6-max-250x250.png"],
+          [[302,
+            78],
+           "assets/images/resized/0004/1614/41614v6-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "delicious",
+      "permalink": "delicious",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0000/0499/499v2-max-150x150.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-250x250.jpg"],
+          [[247,
+            68],
+           "assets/images/resized/0000/0499/499v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        117],
+       "assets/images/resized/0010/3253/103253v2-max-150x150.png"],
+      [[250,
+        196],
+       "assets/images/resized/0010/3253/103253v2-max-250x250.png"],
+      [[450,
+        353],
+       "assets/images/resized/0010/3253/103253v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

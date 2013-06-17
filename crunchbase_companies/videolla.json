@@ -1,0 +1,172 @@
+{"name": "Videolla",
+ "permalink": "videolla",
+ "crunchbase_url": "http://www.crunchbase.com/company/videolla",
+ "homepage_url": "http://videolla.com",
+ "blog_url": "http://community.videolla.com/",
+ "blog_feed_url": "http://community.videolla.com/rss.xml",
+ "twitter_username": "Videolla",
+ "category_code": "ecommerce",
+ "number_of_employees": 5,
+ "founded_year": 2010,
+ "founded_month": 6,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "video, marketplace, streaming, paid, paywall, digital-content",
+ "alias_list": null,
+ "email_address": "hello@videolla.com",
+ "phone_number": "415 968 9771",
+ "description": "Video meets money",
+ "created_at": "Tue Oct 19 14:48:46 UTC 2010",
+ "updated_at": "Fri May 20 02:16:47 UTC 2011",
+ "overview": "\u003Cp\u003EVideolla builds affordable and simple platform for monetization of premium videos via sales and ads placements.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[67,
+       23],
+      "assets/images/resized/0010/6242/106242v2-max-150x150.png"],
+     [[67,
+       23],
+      "assets/images/resized/0010/6242/106242v2-max-250x250.png"],
+     [[67,
+       23],
+      "assets/images/resized/0010/6242/106242v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Vladimir",
+      "last_name": "Gurgov",
+      "permalink": "vladimir-gurgov",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0027/1482/271482v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/1482/271482v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0027/1482/271482v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "YouTube",
+      "permalink": "youtube",
+      "image":
+       {"available_sizes":
+         [[[150,
+            54],
+           "assets/images/resized/0001/0724/10724v372-max-150x150.png"],
+          [[250,
+            91],
+           "assets/images/resized/0001/0724/10724v372-max-250x250.png"],
+          [[250,
+            91],
+           "assets/images/resized/0001/0724/10724v372-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Netflix",
+      "permalink": "netflix",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0001/7200/17200v1-max-150x150.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-250x250.png"],
+          [[185,
+            64],
+           "assets/images/resized/0001/7200/17200v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "itunes",
+      "permalink": "itunes-2",
+      "image": null}},
+   {"competitor":
+     {"name": "Ooyala",
+      "permalink": "ooyala",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0001/1473/11473v11-max-150x150.png"],
+          [[250,
+            39],
+           "assets/images/resized/0001/1473/11473v11-max-250x250.png"],
+          [[450,
+            71],
+           "assets/images/resized/0001/1473/11473v11-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$600k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "Self funded",
+    "raised_amount": 100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": 6,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "Vladimir",
+         "last_name": "Gurgov",
+         "permalink": "vladimir-gurgov",
+         "image":
+          {"available_sizes":
+            [[[150,
+               150],
+              "assets/images/resized/0027/1482/271482v1-max-150x150.jpg"],
+             [[200,
+               200],
+              "assets/images/resized/0027/1482/271482v1-max-250x250.jpg"],
+             [[200,
+               200],
+              "assets/images/resized/0027/1482/271482v1-max-450x450.jpg"]],
+           "attribution": ""}}}]},
+   {"round_code": "angel",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 500000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 5,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "94041",
+    "city": "MV",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

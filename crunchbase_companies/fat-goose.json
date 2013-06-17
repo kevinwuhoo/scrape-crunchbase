@@ -1,0 +1,122 @@
+{"name": "Fat Goose",
+ "permalink": "fat-goose",
+ "crunchbase_url": "http://www.crunchbase.com/company/fat-goose",
+ "homepage_url": "http://www.fatgoose.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "fat_goose",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2007,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "business@fatgoose.com",
+ "phone_number": "415-346-6651",
+ "description": "Internet software",
+ "created_at": "Fri Feb 15 23:21:02 UTC 2008",
+ "updated_at": "Mon Apr 19 19:04:51 UTC 2010",
+ "overview": "\u003Cp\u003EFat Goose, Inc. is a San Francisco-based Internet software company founded in 2007.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       68],
+      "assets/images/resized/0001/2419/12419v1-max-150x150.png"],
+     [[250,
+       114],
+      "assets/images/resized/0001/2419/12419v1-max-250x250.png"],
+     [[339,
+       155],
+      "assets/images/resized/0001/2419/12419v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Guildomatic",
+    "permalink": "guildomatic",
+    "image":
+     {"available_sizes":
+       [[[150,
+          79],
+         "assets/images/resized/0001/2458/12458v1-max-150x150.png"],
+        [[250,
+          132],
+         "assets/images/resized/0001/2458/12458v1-max-250x250.png"],
+        [[392,
+          208],
+         "assets/images/resized/0001/2458/12458v1-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "Comic Goose",
+    "permalink": "comic-goose",
+    "image":
+     {"available_sizes":
+       [[[150,
+          75],
+         "assets/images/resized/0004/6103/46103v2-max-150x150.png"],
+        [[200,
+          100],
+         "assets/images/resized/0004/6103/46103v2-max-250x250.png"],
+        [[200,
+          100],
+         "assets/images/resized/0004/6103/46103v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Yang",
+      "last_name": "Lim",
+      "permalink": "yang-lim",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Walter",
+      "last_name": "Korman",
+      "permalink": "walter-korman",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0008/4044/84044v2-max-150x150.png"],
+          [[150,
+            150],
+           "assets/images/resized/0008/4044/84044v2-max-250x250.png"],
+          [[150,
+            150],
+           "assets/images/resized/0008/4044/84044v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "5 Third St. #505",
+    "address2": "",
+    "zip_code": "94103",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": 37.7876175,
+    "longitude": -122.4033943}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

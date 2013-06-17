@@ -1,0 +1,131 @@
+{"name": "Telerivet",
+ "permalink": "telerivet",
+ "crunchbase_url": "http://www.crunchbase.com/company/telerivet",
+ "homepage_url": "http://www.telerivet.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "mobile",
+ "number_of_employees": null,
+ "founded_year": 2012,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sms, gateway, mobile, m-banking, mobile-banking, ussd, meta-api, twilio, developing-world, android",
+ "alias_list": null,
+ "email_address": "info@telerivet.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Thu Apr 12 00:41:14 UTC 2012",
+ "updated_at": "Thu Dec 20 10:14:53 UTC 2012",
+ "overview": "\u003Cp\u003ETelerivet makes it easy for people and organizations to create and deploy their own SMS services anywhere in the world.\u003C/p\u003E\n\n\u003Cp\u003EWith Telerivet (and an Android phone or, in limited regions, a Twilio account), anyone can easily create, launch and manage an SMS service or interface that runs on any mobile network anywhere in the world.  Mass messages can be sent, and communication threads can be easily managed via online interface.  Telerivet has a full API for the technically savvy, but it also has a Ruleset creation system where even non-programmers can set up powerful full-featured SMS systems.  Telerivet also provides a full \u0026#8220;middle-ware\u0026#8221; layer, allowing users to have projects that span multiple countries and gateways with coordination seamlessly handled.  The user just plugs in the gateways to a project, and defines and manages the project via simple web-interface or powerful API.  A project can can be built and controlled by manually sending messages out to numbers or groups of numbers, set up as an automated service with behavior defined by \u0026#8220;Rules\u0026#8221; on Telerivet\u0026#8217;s web-based builder, or managed by using Telerivet\u0026#8217;s API\u2026 (or a combination of the above).\u003C/p\u003E\n\n\u003Cp\u003EPeople are running some powerful services with Telerivet around world.  Current examples include a social enterprise using Telerivet in Mali to implement a mobile banking system for farmers, an activist in Somalia polling thousands of people in Mogadishu, and a NGO providing an SMS interface to grassroots non-profits in Rwanda and Tanzania (to compliment the NGO\u0026#8217;s web-based interface).  Some other Telerivet examples and possibilities: https://telerivet.com/page/examples\u003C/p\u003E\n\n\u003Cp\u003EDeveloping countries are where SMS (and USSD and related technologies like m-banking) has arguably the largest opportunity for impact\u2026 since for more than a billion people SMS is their main form of digital communication.  Options are extremely limited (and often prohibitively expensive or technologically difficult) in many developing countries for entrepreneurs and organizations to create and run SMS services. That\u0026#8217;s where being able to quickly and easily launch one\u0026#8217;s own gateway with just an Android device, and easily set up and run a full-scale service with minimal technical experience is so powerful.  Despite there being numerous SMS sites and services and toolsets out there, none quite cut it for quickly and easily designing and deploying across developing countries a full end-to-end SMS solution that\u0026#8217;s reliable, easy-to-maintain, greatly customizable, and affordable.  Too many people and organizations just plain give up on what could have been amazingly powerful SMS campaigns and services due to being overwhelmed by technical challenges.\u003C/p\u003E\n\n\u003Cp\u003EAn estimated one billion people don\u0026#8217;t have regular internet access, but do have access to a basic mobile phone with SMS.  Now, with Telerivet, anyone can create and deploy SMS services anywhere in the world faster, easier, and cheaper.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0018/3809/183809v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0018/3809/183809v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0018/3809/183809v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Joshua",
+      "last_name": "Stern",
+      "permalink": "joshua-stern",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0018/4298/184298v2-max-150x150.jpg"],
+          [[200,
+            250],
+           "assets/images/resized/0018/4298/184298v2-max-250x250.jpg"],
+          [[360,
+            450],
+           "assets/images/resized/0018/4298/184298v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Jesse",
+      "last_name": "Young",
+      "permalink": "jesse-young-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Board Member",
+    "person":
+     {"first_name": "Alex",
+      "last_name": "Gurevich",
+      "permalink": "alex-gurevich-2",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0015/0611/150611v2-max-150x150.jpg"],
+          [[160,
+            200],
+           "assets/images/resized/0015/0611/150611v2-max-250x250.jpg"],
+          [[160,
+            200],
+           "assets/images/resized/0015/0611/150611v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1M",
+ "funding_rounds":
+  [{"round_code": "unattributed",
+    "source_url": "http://techcrunch.com/2012/12/19/telerivet-raises-1m-to-help-provide-a-sms-gateway-and-platform-for-the-developing-world/",
+    "source_description": "Telerivet Raises $1M To Help Provide An SMS Gateway And Platform For The Developing World",
+    "raised_amount": 1000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 12,
+    "funded_day": 20,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Javelin Venture Partners",
+         "permalink": "javelin-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               52],
+              "assets/images/resized/0005/9129/59129v5-max-150x150.jpg"],
+             [[250,
+               87],
+              "assets/images/resized/0005/9129/59129v5-max-250x250.jpg"],
+             [[401,
+               140],
+              "assets/images/resized/0005/9129/59129v5-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://afrinnovator.com/blog/2012/04/06/disrupting-sms-apps-space-telerivets-distributed-mobile-sms-servive-using-android-phones/",
+    "title": "Disrupting SMS Apps Space: Telerivet\u2019s Distributed Mobile SMS service (Afrinnovator blog)"}]}

@@ -1,0 +1,111 @@
+{"name": "ACM Tech",
+ "permalink": "acm-tech",
+ "crunchbase_url": "http://www.crunchbase.com/company/acm-tech",
+ "homepage_url": "http://www.acmtech.it/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "other",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 3,
+ "founded_day": 7,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hardware, software, telephone",
+ "alias_list": null,
+ "email_address": "info@acmtech.it",
+ "phone_number": "+390171605458",
+ "description": null,
+ "created_at": "Mon Aug 04 09:16:05 UTC 2008",
+ "updated_at": "Thu Dec 01 07:53:02 UTC 2011",
+ "overview": "\u003Cp\u003EHardware, Software and Landline telephone\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       70],
+      "assets/images/resized/0002/3259/23259v2-max-150x150.jpg"],
+     [[250,
+       117],
+      "assets/images/resized/0002/3259/23259v2-max-250x250.jpg"],
+     [[320,
+       150],
+      "assets/images/resized/0002/3259/23259v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Matteo",
+      "last_name": "Civera",
+      "permalink": "matteo-civera",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [{"title": "Landline traffic",
+    "is_past": false,
+    "provider":
+     {"name": "NewVox",
+      "permalink": "newvox",
+      "image": null}},
+   {"title": "Numeri Verdi",
+    "is_past": false,
+    "provider":
+     {"name": "MyGreen",
+      "permalink": "mygreen",
+      "image": null}},
+   {"title": "Numeri Unici",
+    "is_past": false,
+    "provider":
+     {"name": "MyOne",
+      "permalink": "myone",
+      "image": null}},
+   {"title": "Phone Encryption",
+    "is_past": false,
+    "provider":
+     {"name": "MyPrivacy",
+      "permalink": "myprivacy",
+      "image": null}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [{"price_amount": 50000.0,
+    "price_currency_code": "EUR",
+    "term_code": "cash",
+    "source_url": "http://www.civera.it/",
+    "source_description": "",
+    "acquired_year": 2007,
+    "acquired_month": 6,
+    "acquired_day": 27,
+    "company":
+     {"name": "Civera.it - Soluzioni Informatiche",
+      "permalink": "civera-it-soluzioni-informatiche",
+      "image": null}}],
+ "offices":
+  [{"description": "",
+    "address1": "Via Caraglio 5",
+    "address2": "",
+    "zip_code": "12100",
+    "city": "Cuneo",
+    "state_code": null,
+    "country_code": "ITA",
+    "latitude": 44.391562,
+    "longitude": 7.54911}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

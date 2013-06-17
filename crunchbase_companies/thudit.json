@@ -1,0 +1,93 @@
+{"name": "ThudIt",
+ "permalink": "thudit",
+ "crunchbase_url": "http://www.crunchbase.com/company/thudit",
+ "homepage_url": "http://www.thudit.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "Thud_it",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": 2012,
+ "founded_month": 6,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search-twitter-pictures, real-time-image-search, filter-twitter-images",
+ "alias_list": null,
+ "email_address": "freddie@thudit.com",
+ "phone_number": "",
+ "description": "Twitter Image Search",
+ "created_at": "Sat Jun 09 15:28:36 UTC 2012",
+ "updated_at": "Sat Jun 09 21:56:27 UTC 2012",
+ "overview": "\u003Cp\u003EA clean and simple way to search Twitter Images.\u003C/p\u003E\n\n\u003Cp\u003ESearch by :user, hashtag or keywords.\u003C/p\u003E\n\n\u003Cp\u003EImages are displayed in a mosaic style with infinite scroll. All the usual sharing options are available for the search term and images.\u003C/p\u003E\n\n\u003Cp\u003EFocused on image presentation and user interaction.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0019/4646/194646v2-max-150x150.jpg"],
+     [[250,
+       250],
+      "assets/images/resized/0019/4646/194646v2-max-250x250.jpg"],
+     [[392,
+       392],
+      "assets/images/resized/0019/4646/194646v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Freddie",
+      "last_name": "Wynne",
+      "permalink": "freddie-wynne",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Reuben",
+      "last_name": "Sutton",
+      "permalink": "reuben-sutton",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "http://twicsy.com/",
+      "permalink": "http-twicsy-com",
+      "image": null}},
+   {"competitor":
+     {"name": "http://twipho.net/",
+      "permalink": "http-twipho-net",
+      "image": null}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        78],
+       "assets/images/resized/0019/4645/194645v2-max-150x150.png"],
+      [[250,
+        131],
+       "assets/images/resized/0019/4645/194645v2-max-250x250.png"],
+      [[450,
+        235],
+       "assets/images/resized/0019/4645/194645v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

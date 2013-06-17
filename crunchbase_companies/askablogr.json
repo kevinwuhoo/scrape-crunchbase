@@ -1,0 +1,130 @@
+{"name": "Askablogr",
+ "permalink": "askablogr",
+ "crunchbase_url": "http://www.crunchbase.com/company/askablogr",
+ "homepage_url": "http://www.askablogr.com/",
+ "blog_url": "http://askablogr.blogspot.com/",
+ "blog_feed_url": "http://askablogr.blogspot.com/feeds/posts/default?alt=rss",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": 2008,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "blogs, blogging, comments, seattle",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "",
+ "description": "Blog Chat Widget",
+ "created_at": "Mon Feb 18 20:08:43 UTC 2008",
+ "updated_at": "Wed Apr 01 19:55:50 UTC 2009",
+ "overview": "\u003Cp\u003EAskablogr, launched in February 2008, is a web service that lets blog readers ask a question directly to the blogger, via a widget or on the Askablogr site.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       39],
+      "assets/images/resized/0001/2743/12743v2-max-150x150.png"],
+     [[208,
+       55],
+      "assets/images/resized/0001/2743/12743v2-max-250x250.png"],
+     [[208,
+       55],
+      "assets/images/resized/0001/2743/12743v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Askablogr",
+    "permalink": "askablogr",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "DeVore",
+      "permalink": "chris-devore",
+      "image":
+       {"available_sizes":
+         [[[119,
+            150],
+           "assets/images/resized/0001/2740/12740v1-max-150x150.jpg"],
+          [[146,
+            184],
+           "assets/images/resized/0001/2740/12740v1-max-250x250.jpg"],
+          [[146,
+            184],
+           "assets/images/resized/0001/2740/12740v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Skribit",
+      "permalink": "skribit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0000/2239/2239v3-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0000/2239/2239v3-max-250x250.png"],
+          [[264,
+            80],
+           "assets/images/resized/0000/2239/2239v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": null,
+    "raised_currency_code": null,
+    "funded_year": 2008,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Founder's Co-op",
+         "permalink": "founders-co-op",
+         "image":
+          {"available_sizes":
+            [[[150,
+               30],
+              "assets/images/resized/0001/7598/17598v1-max-150x150.jpg"],
+             [[250,
+               50],
+              "assets/images/resized/0001/7598/17598v1-max-250x250.jpg"],
+             [[379,
+               76],
+              "assets/images/resized/0001/7598/17598v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.620716,
+    "longitude": -122.347533}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://blog.seattlepi.nwsource.com/venture/archives/132074.asp",
+    "title": "Seattle PI - Askablogr Launches"}]}

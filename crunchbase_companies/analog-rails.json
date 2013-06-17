@@ -1,0 +1,70 @@
+{"name": "Analog Rails",
+ "permalink": "analog-rails",
+ "crunchbase_url": "http://www.crunchbase.com/company/analog-rails",
+ "homepage_url": "http://www.analograils.com",
+ "blog_url": "http://www.analograils.com/news",
+ "blog_feed_url": "http://www.analograils.com/xml/everything.xml",
+ "twitter_username": "analograils",
+ "category_code": "semiconductor",
+ "number_of_employees": 30,
+ "founded_year": 2003,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "analog, ic, integrated-circuit, automation, routing, router, placement, placer, schematic, layout, pcells, pycells, design, circuit, eda, electronics-design-automation, electronics, manual, simulation, optimization, sensitivity, rf, differential, diffpair",
+ "alias_list": null,
+ "email_address": "support@analograils.com",
+ "phone_number": "480-855-1987",
+ "description": "analog automation platform",
+ "created_at": "Sat Apr 24 19:19:13 UTC 2010",
+ "updated_at": "Mon Apr 26 20:43:41 UTC 2010",
+ "overview": "\u003Cp\u003EThe mission of Analog Rails is to automate the design of systems on a chip (SOC).\u003C/p\u003E\n\n\u003Cp\u003EThe goal for non-commodity ICs is to be first to market, and the Analog Rails design environment was created to do just that.  Their product name, Analog Rails, was chosen for a reason. The \u0026#8220;Rails\u0026#8221; refers to a well structured framework, and their niche is automation of circuits with \u0026#8220;Analog\u0026#8221; and/or RF content. They also have digital place and route, enabling completion of the entire SOC.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "TechOps Lead",
+    "person":
+     {"first_name": "Kevin",
+      "last_name": "Bowling",
+      "permalink": "kevin-bowling",
+      "image":
+       {"available_sizes":
+         [[[150,
+            84],
+           "assets/images/resized/0017/6969/176969v2-max-150x150.png"],
+          [[250,
+            140],
+           "assets/images/resized/0017/6969/176969v2-max-250x250.png"],
+          [[450,
+            253],
+           "assets/images/resized/0017/6969/176969v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"450\" height=\"270\"\u003E\u003Cparam name=\"movie\" value=\"http://www.youtube.com/v/zE33qJcv7VU\u0026hl=en_US\u0026fs=1\u0026rel=0\"\u003E\u003C/param\u003E\u003Cparam name=\"allowFullScreen\" value=\"true\"\u003E\u003C/param\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\"\u003E\u003C/param\u003E\u003Cembed src=\"http://www.youtube.com/v/zE33qJcv7VU\u0026hl=en_US\u0026fs=1\u0026rel=0\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"450\" height=\"270\"\u003E\u003C/embed\u003E\u003C/object\u003E",
+    "description": "\u003Cp\u003EOptimizer Demonstration\u003C/p\u003E"}],
+ "screenshots":
+  [],
+ "external_links":
+  []}

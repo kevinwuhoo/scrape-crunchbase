@@ -1,0 +1,89 @@
+{"name": "Migratory Data Systems",
+ "permalink": "migratory-data-systems",
+ "crunchbase_url": "http://www.crunchbase.com/company/migratory-data-systems",
+ "homepage_url": "http://migratorydata.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "migratorydata",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2004,
+ "founded_month": 3,
+ "founded_day": 8,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "websockets, websocket, real-time-web, high-scalability, http-streaming, push, web-streaming",
+ "alias_list": null,
+ "email_address": "office@migratorydata.com",
+ "phone_number": "+40332102500",
+ "description": "Software for Scalable Real-Time Websites",
+ "created_at": "Tue Sep 29 20:01:42 UTC 2009",
+ "updated_at": "Tue Apr 16 14:42:41 UTC 2013",
+ "overview": "\u003Cp\u003EMigratory Data Systems (MigratoryData) provides software for rapidly building highly scalable real-time websites.\u003C/p\u003E\n\n\u003Cp\u003EThe company\u0026#8217;s product MigratoryData WebSocket Server is now used in production to successfully stream real-time data - such as market data, auctions, or sports betting information - to millions of end-users every day.\u003C/p\u003E\n\n\u003Cp\u003EThe company\u0026#8217;s customers range from small businesses to Fortune Global 500 companies.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       25],
+      "assets/images/resized/0006/1217/61217v7-max-150x150.jpg"],
+     [[213,
+       36],
+      "assets/images/resized/0006/1217/61217v7-max-250x250.jpg"],
+     [[213,
+       36],
+      "assets/images/resized/0006/1217/61217v7-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "MigratoryData WebSocket Server",
+    "permalink": "migratorydata-websocket-server",
+    "image": null}],
+ "relationships":
+  [{"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Mihai",
+      "last_name": "Rotaru",
+      "permalink": "mihai-rotaru",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Migratory Data Systems",
+    "address1": "222, Strada Sararie",
+    "address2": "",
+    "zip_code": "700451",
+    "city": "Iasi",
+    "state_code": null,
+    "country_code": "ROM",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0021/9037/219037v2-max-150x150.png"],
+      [[250,
+        179],
+       "assets/images/resized/0021/9037/219037v2-max-250x250.png"],
+      [[450,
+        323],
+       "assets/images/resized/0021/9037/219037v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

@@ -1,0 +1,107 @@
+{"name": "Disrupto",
+ "permalink": "disrupto",
+ "crunchbase_url": "http://www.crunchbase.com/company/disrupto",
+ "homepage_url": "http://www.disrupto.com",
+ "blog_url": "http://blog.disrupto.com",
+ "blog_feed_url": "http://blog.disrupto.com/rss",
+ "twitter_username": "disrupto",
+ "category_code": "web",
+ "number_of_employees": 7,
+ "founded_year": 2008,
+ "founded_month": 8,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social-shopping, e-commerce, social-recommendations, tea, subscriptions",
+ "alias_list": null,
+ "email_address": "hello@disrupto.com",
+ "phone_number": "303-916-7325",
+ "description": "Digital Product Development Studio",
+ "created_at": "Mon Jun 15 21:19:12 UTC 2009",
+ "updated_at": "Tue Jul 26 17:24:51 UTC 2011",
+ "overview": "\u003Cp\u003EDisrupto is a digital product development studio founded by Jack Cheng, Mike Potter and Jason Roos. They design and develop platforms and experiences for web and mobile.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Steepster",
+    "permalink": "steepster",
+    "image":
+     {"available_sizes":
+       [[[150,
+          150],
+         "assets/images/resized/0004/8685/48685v2-max-150x150.png"],
+        [[200,
+          200],
+         "assets/images/resized/0004/8685/48685v2-max-250x250.png"],
+        [[200,
+          200],
+         "assets/images/resized/0004/8685/48685v2-max-450x450.png"]],
+      "attribution": null}},
+   {"name": "Memberly",
+    "permalink": "memberly",
+    "image":
+     {"available_sizes":
+       [[[150,
+          49],
+         "assets/images/resized/0014/6591/146591v2-max-150x150.png"],
+        [[250,
+          83],
+         "assets/images/resized/0014/6591/146591v2-max-250x250.png"],
+        [[450,
+          149],
+         "assets/images/resized/0014/6591/146591v2-max-450x450.png"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Roos",
+      "permalink": "jason-roos",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Mike",
+      "last_name": "Potter",
+      "permalink": "mike-potter",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jack",
+      "last_name": "Cheng",
+      "permalink": "jack-cheng",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "28 w. 27th St.",
+    "address2": "10F",
+    "zip_code": "10001",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.714279,
+    "longitude": -73.9565551}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

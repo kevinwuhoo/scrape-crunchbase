@@ -1,0 +1,142 @@
+{"name": "Trabber",
+ "permalink": "trabber",
+ "crunchbase_url": "http://www.crunchbase.com/company/trabber",
+ "homepage_url": "http://www.trabber.com",
+ "blog_url": "http://blog.trabber.co.uk",
+ "blog_feed_url": "http://blog.trabber.co.uk/feed/",
+ "twitter_username": "trabber",
+ "category_code": "search",
+ "number_of_employees": null,
+ "founded_year": 2005,
+ "founded_month": 7,
+ "founded_day": 29,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "travel, search, flights, hotels, metasearch",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Travel meta search engine",
+ "created_at": "Mon Sep 27 10:26:40 UTC 2010",
+ "updated_at": "Thu Jun 06 16:29:54 UTC 2013",
+ "overview": "\u003Cp\u003ETrabber is a travel meta search engine that simultaneously searches on online travel agencies, lowcost carriers, traditional airlines and hotel booking websites.\u003C/p\u003E\n\n\u003Cp\u003ETrabber started as a project targeted to Spanish users and currently it is also available in France, Germany, Italy, UK and US.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       65],
+      "assets/images/resized/0010/3219/103219v2-max-150x150.png"],
+     [[176,
+       77],
+      "assets/images/resized/0010/3219/103219v2-max-250x250.png"],
+     [[176,
+       77],
+      "assets/images/resized/0010/3219/103219v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "KAYAK",
+      "permalink": "kayak",
+      "image":
+       {"available_sizes":
+         [[[150,
+            53],
+           "assets/images/resized/0000/2791/2791v9-max-150x150.png"],
+          [[250,
+            88],
+           "assets/images/resized/0000/2791/2791v9-max-250x250.png"],
+          [[450,
+            160],
+           "assets/images/resized/0000/2791/2791v9-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "upiq",
+      "permalink": "upiq",
+      "image":
+       {"available_sizes":
+         [[[150,
+            70],
+           "assets/images/resized/0020/1156/201156v2-max-150x150.jpg"],
+          [[210,
+            99],
+           "assets/images/resized/0020/1156/201156v2-max-250x250.jpg"],
+          [[210,
+            99],
+           "assets/images/resized/0020/1156/201156v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "trivago",
+      "permalink": "trivago",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0007/1274/71274v1-max-150x150.png"],
+          [[250,
+            83],
+           "assets/images/resized/0007/1274/71274v1-max-250x250.png"],
+          [[300,
+            100],
+           "assets/images/resized/0007/1274/71274v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0010/3216/103216v2-max-150x150.png"],
+      [[250,
+        179],
+       "assets/images/resized/0010/3216/103216v2-max-250x250.png"],
+      [[450,
+        322],
+       "assets/images/resized/0010/3216/103216v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        132],
+       "assets/images/resized/0010/3217/103217v2-max-150x150.png"],
+      [[250,
+        220],
+       "assets/images/resized/0010/3217/103217v2-max-250x250.png"],
+      [[450,
+        396],
+       "assets/images/resized/0010/3217/103217v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        131],
+       "assets/images/resized/0010/3218/103218v2-max-150x150.png"],
+      [[250,
+        219],
+       "assets/images/resized/0010/3218/103218v2-max-250x250.png"],
+      [[450,
+        395],
+       "assets/images/resized/0010/3218/103218v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.elpais.com/articulo/red/buscador/espanol/Trabber/localiza/vuelo/barato/destino/fecha/elpeputec/20070329elpcibenr_4/Tes",
+    "title": "Trabber featured at El Pa\u00c3\u00ads"},
+   {"external_url": "http://fr.techcrunch.com/2007/08/26/trabblerfr-un-nieme-moteur-de-comparaison-de-vols/",
+    "title": "Trabber reviewed by TechCrunch.fr"}]}

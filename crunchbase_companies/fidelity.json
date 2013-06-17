@@ -1,0 +1,207 @@
+{"name": "Fidelity",
+ "permalink": "fidelity",
+ "crunchbase_url": "http://www.crunchbase.com/company/fidelity",
+ "homepage_url": null,
+ "blog_url": null,
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Sun Feb 17 20:26:07 UTC 2008",
+ "updated_at": "Sun Feb 17 20:26:07 UTC 2008",
+ "overview": null,
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "VP, Emerging Technology R\u0026D",
+    "person":
+     {"first_name": "Ryan",
+      "last_name": "Teksten",
+      "permalink": "ryan-teksten",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Arrigo",
+      "permalink": "michael-arrigo",
+      "image":
+       {"available_sizes":
+         [[[117,
+            150],
+           "assets/images/resized/0015/5413/155413v2-max-150x150.jpg"],
+          [[195,
+            250],
+           "assets/images/resized/0015/5413/155413v2-max-250x250.jpg"],
+          [[352,
+            450],
+           "assets/images/resized/0015/5413/155413v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Interaction Designer, User Experience \u0026 Design",
+    "person":
+     {"first_name": "Rob",
+      "last_name": "Abbott",
+      "permalink": "rob-abbott",
+      "image":
+       {"available_sizes":
+         [[[99,
+            150],
+           "assets/images/resized/0008/0454/80454v2-max-150x150.png"],
+          [[166,
+            250],
+           "assets/images/resized/0008/0454/80454v2-max-250x250.png"],
+          [[167,
+            251],
+           "assets/images/resized/0008/0454/80454v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "SCM Development Lead",
+    "person":
+     {"first_name": "Damon",
+      "last_name": "Poole",
+      "permalink": "damon-poole",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0026/7119/267119v1-max-150x150.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/7119/267119v1-max-250x250.jpg"],
+          [[200,
+            200],
+           "assets/images/resized/0026/7119/267119v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Principal UX Developer",
+    "person":
+     {"first_name": "Devin",
+      "last_name": "McQueeney",
+      "permalink": "devin-mcqueeney",
+      "image":
+       {"available_sizes":
+         [[[106,
+            150],
+           "assets/images/resized/0013/2921/132921v2-max-150x150.jpg"],
+          [[176,
+            250],
+           "assets/images/resized/0013/2921/132921v2-max-250x250.jpg"],
+          [[212,
+            300],
+           "assets/images/resized/0013/2921/132921v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Covestor",
+      "permalink": "covestor",
+      "image":
+       {"available_sizes":
+         [[[150,
+            48],
+           "assets/images/resized/0000/4453/4453v7-max-150x150.png"],
+          [[250,
+            80],
+           "assets/images/resized/0000/4453/4453v7-max-250x250.png"],
+          [[450,
+            144],
+           "assets/images/resized/0000/4453/4453v7-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "PPC \u0026 SEO",
+    "is_past": false,
+    "provider":
+     {"name": "Jellyfish",
+      "permalink": "jellyfish",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0009/8866/98866v2-max-150x150.jpg"],
+          [[160,
+            65],
+           "assets/images/resized/0009/8866/98866v2-max-250x250.jpg"],
+          [[160,
+            65],
+           "assets/images/resized/0009/8866/98866v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [{"funding_round":
+     {"round_code": "c",
+      "source_url": "http://www.businesswire.com/news/home/20040706005236/en/BridgeCo-Secures-16-Million-Series-Funding-Fidelity",
+      "source_description": "BridgeCo Secures $16 Million Series C Funding Round; Fidelity Ventures Joins as Lead Investor ",
+      "raised_amount": 16000000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2004,
+      "funded_month": 7,
+      "funded_day": 6,
+      "company":
+       {"name": "BridgeCo",
+        "permalink": "bridgeco",
+        "image":
+         {"available_sizes":
+           [[[128,
+              69],
+             "assets/images/resized/0003/0702/30702v2-max-150x150.jpg"],
+            [[128,
+              69],
+             "assets/images/resized/0003/0702/30702v2-max-250x250.jpg"],
+            [[128,
+              69],
+             "assets/images/resized/0003/0702/30702v2-max-450x450.jpg"]],
+          "attribution": null}}}},
+   {"funding_round":
+     {"round_code": "f",
+      "source_url": "http://techcrunch.com/2013/05/29/roku-wants-to-be-part-of-your-next-smart-tv-raises-60-million-to-do-it/",
+      "source_description": "Roku Wants To Be Part Of Your Next Smart TV, Raises $60 Million To Do It",
+      "raised_amount": 60000000.0,
+      "raised_currency_code": "USD",
+      "funded_year": 2013,
+      "funded_month": 5,
+      "funded_day": 29,
+      "company":
+       {"name": "Roku",
+        "permalink": "roku",
+        "image":
+         {"available_sizes":
+           [[[116,
+              59],
+             "assets/images/resized/0001/8931/18931v1-max-150x150.png"],
+            [[116,
+              59],
+             "assets/images/resized/0001/8931/18931v1-max-250x250.png"],
+            [[116,
+              59],
+             "assets/images/resized/0001/8931/18931v1-max-450x450.png"]],
+          "attribution": null}}}}],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

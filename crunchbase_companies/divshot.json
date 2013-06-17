@@ -1,0 +1,118 @@
+{"name": "Divshot",
+ "permalink": "divshot",
+ "crunchbase_url": "http://www.crunchbase.com/company/divshot",
+ "homepage_url": "http://divshot.com",
+ "blog_url": "http://blog.divshot.com/",
+ "blog_feed_url": "",
+ "twitter_username": "divshot",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2012,
+ "founded_month": 4,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "user-interface-tools, user-interface-design, ui-builder",
+ "alias_list": "",
+ "email_address": "info@divshot.com",
+ "phone_number": "",
+ "description": "Web App Interface Builder",
+ "created_at": "Wed Jun 06 18:12:30 UTC 2012",
+ "updated_at": "Wed Apr 10 02:22:08 UTC 2013",
+ "overview": "\u003Cp\u003EDivshot is the interface builder for the web.\u003C/p\u003E\n\n\u003Cp\u003EPrototype responsive HTML5 interfaces in minutes and export to clean, semantic markup and CSS. It\u0026#8217;s the first tool of its kind that is capable of generating the same quality code as developers writing it by hand.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       38],
+      "assets/images/resized/0019/4229/194229v4-max-150x150.png"],
+     [[192,
+       49],
+      "assets/images/resized/0019/4229/194229v4-max-250x250.png"],
+     [[192,
+       49],
+      "assets/images/resized/0019/4229/194229v4-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Bleigh",
+      "permalink": "michael-bleigh",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Nathan",
+      "last_name": "Bleigh",
+      "permalink": "nathan-bleigh",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$1.1M",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2013/03/18/web-app-interface-builder-divshot-raises-1-1-million-seed-round/",
+    "source_description": "Web App Interface Builder Divshot Raises $1.1 Million Seed Round",
+    "raised_amount": 1100000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2013,
+    "funded_month": 3,
+    "funded_day": 19,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Rincon Venture Partners",
+         "permalink": "rincon-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[109,
+               150],
+              "assets/images/resized/0002/9353/29353v1-max-150x150.png"],
+             [[181,
+               250],
+              "assets/images/resized/0002/9353/29353v1-max-250x250.png"],
+             [[197,
+               271],
+              "assets/images/resized/0002/9353/29353v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Launchpad LA",
+         "permalink": "launchpadla",
+         "image":
+          {"available_sizes":
+            [[[150,
+               22],
+              "assets/images/resized/0024/8963/248963v2-max-150x150.png"],
+             [[250,
+               37],
+              "assets/images/resized/0024/8963/248963v2-max-250x250.png"],
+             [[450,
+               66],
+              "assets/images/resized/0024/8963/248963v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

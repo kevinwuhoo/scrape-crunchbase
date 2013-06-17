@@ -1,0 +1,99 @@
+{"name": "InterWorx",
+ "permalink": "interworx",
+ "crunchbase_url": "http://www.crunchbase.com/company/interworx",
+ "homepage_url": "http://www.interworx.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "interworx",
+ "category_code": "network_hosting",
+ "number_of_employees": 10,
+ "founded_year": 2005,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "interworx, web-hosting, control-panel, load-balancing, server-clustering",
+ "alias_list": null,
+ "email_address": "sales@interworx.com",
+ "phone_number": "",
+ "description": "web hosting control panel",
+ "created_at": "Mon Apr 11 21:55:51 UTC 2011",
+ "updated_at": "Fri Apr 22 00:57:42 UTC 2011",
+ "overview": "\u003Cp\u003EThe InterWorx web hosting control panel is a linux based dedicated server and VPS control panel. It is feature-ich for both the system administrator and website administrator. InterWorx can work with a single VPS or dedicated server.  InterWorx is unique from competing web hosting control panels in that it allows the user to easily build a load balanced cluster of servers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       80],
+      "assets/images/resized/0013/1010/131010v2-max-150x150.png"],
+     [[250,
+       134],
+      "assets/images/resized/0013/1010/131010v2-max-250x250.png"],
+     [[275,
+       148],
+      "assets/images/resized/0013/1010/131010v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "cPanel",
+      "permalink": "cpanel",
+      "image": null}},
+   {"competitor":
+     {"name": "Parallels",
+      "permalink": "parallels",
+      "image":
+       {"available_sizes":
+         [[[150,
+            42],
+           "assets/images/resized/0012/1329/121329v1-max-150x150.jpg"],
+          [[175,
+            49],
+           "assets/images/resized/0012/1329/121329v1-max-250x250.jpg"],
+          [[175,
+            49],
+           "assets/images/resized/0012/1329/121329v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "INTERWORX LLC ",
+    "address1": "1101 Greenfield Ave ",
+    "address2": "",
+    "zip_code": "15217",
+    "city": "Pittsburgh",
+    "state_code": "PA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        112],
+       "assets/images/resized/0013/0105/130105v2-max-150x150.png"],
+      [[250,
+        187],
+       "assets/images/resized/0013/0105/130105v2-max-250x250.png"],
+      [[450,
+        337],
+       "assets/images/resized/0013/0105/130105v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

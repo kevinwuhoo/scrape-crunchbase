@@ -1,0 +1,98 @@
+{"name": "RHT",
+ "permalink": "rht",
+ "crunchbase_url": "http://www.crunchbase.com/company/rht",
+ "homepage_url": "http://www.redhat.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": null,
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "919-754-3700",
+ "description": "servers, work stations, mainframes",
+ "created_at": "Sun Feb 21 20:28:56 UTC 2010",
+ "updated_at": "Tue Aug 17 12:01:45 UTC 2010",
+ "overview": "\u003Cp\u003ERed Hat, Inc. provides open source software solutions to enterprises worldwide. The company offers a choice of operating systems and virtualization options for servers, work stations, mainframes and desktops that support multiple application areas, including the data center, cloud deployments, software as a service, edge-of-the-network applications, information technology infrastructure (applications, such as database, ERP. and Web servers), mainframe computing, corporate desktop, and technical/developer workstations. The company also provides other infrastructure enterprise technologies, including software development tools, clustering of systems and services, and directory services. It has operations in the Americas, EMEA (Europe, the Middle East, and Africa), and the Asia Pacific. PRODUCTS AND SERVICES The company\u0026#8217;s software solutions consist of Red Hat enterprise technologies, such as Red Hat Enterprise Linux, JBoss Enterprise Middleware, and Red Hat Enterprise Virtualization. Its services offerings, principally directed toward its medium and large enterprise customers and the hardware providers with whom it has strategic relationships, include technical support and maintenance, training, professional consulting services, engineering services, and hardware certification. The company provides its enterprise technologies with related services in the form of annual or multi-year subscriptions. Its subscriptions include a bundle of services encompassing product delivery, problem resolution, ongoing corrections, enhancements and new versions, certified capability with a portfolio of hardware and software applications, and Red Hat\u00e2\u20ac\u2122s Open Assurance program. The subscriptions offer varying levels of support services as well as access to basic software updates and configuration management functionality via its integrated management technologies Red Hat Network (RHN), JBoss Customer Support Portal (JBoss CSP), Red Hat Network Satellite (RHN Satellite), and JBoss Operations Network (JBoss ON). Red Hat Enterprise Linux technologies Red Hat Enterprise Linux is an operating system built from various open source software packages, including the Linux kernel, and is designed for enterprise computing. Red Hat Enterprise Linux delivers the features required for commercial deployments, including support for a range of ISV applications from vendors, such as BMC Software, Inc. (BMC), CA, Inc. (CA), Hewlett-Packard Company (HP), International Business Machines Corporation (IBM), Microsoft Corporation (Microsoft), Oracle Corporation (Oracle), SAP AG (SAP), Sybase, Inc. (Sybase), and Symantec Corporation (Symantec); certification on multiple architectures and original equipment manufacturer (OEM) platforms, including Dell Inc. (Dell), Cisco Systems, Inc. (Cisco), Fujitsu Limited (Fujitsu), Fujitsu Siemens Computers (Holding) BV (Fujitsu Siemens), Hitachi, Ltd (Hitachi), NEC Corporation (NEC), HP, IBM, and Sun Microsystems, Inc., (Sun); technical support; stability based upon periodic upgrade cycles on a when and if available basis and multiyear support lifecycle; and virtualization capability incorporated into the core operating system. Red Hat Enterprise Linux is generally offered in three configurations: Red Hat Enterprise Linux\u00e2\u20ac\u201da base product server offering with virtualization support and a virtual guest offering for use with Red Hat or third-party hypervisors. Red Hat Enterprise Linux Advanced Platform\u00e2\u20ac\u201da solution bundle that includes Red Hat Enterprise Linux, Red Hat Global File System and Red Hat Cluster Suite. Red Hat Enterprise Linux Advanced Platform targets customers who require an integrated virtualization solution. Red Hat Enterprise Linux Desktop\u00e2\u20ac\u201dan open source desktop offering. JBoss Enterprise Middleware JBoss Enterprise Middleware provides a suite of products for developing, deploying, integrating and managing distributed, composite and Web-based applications and services. JBoss products are based on the Java programming language, are deployed on various operating systems and support a distributed, modular, reusable and open standards-based \u00e2\u20ac\u02dcService Oriented Architecture\u00e2\u20ac\u2122 or \u00e2\u20ac\u02dcSOA\u00e2\u20ac\u2122 deployment f\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[96,
+       31],
+      "assets/images/resized/0009/8128/98128v1-max-150x150.png"],
+     [[96,
+       31],
+      "assets/images/resized/0009/8128/98128v1-max-250x250.png"],
+     [[96,
+       31],
+      "assets/images/resized/0009/8128/98128v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "investor",
+    "person":
+     {"first_name": "Morten",
+      "last_name": "Sondergaard",
+      "permalink": "morten-sondergaard-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            130],
+           "assets/images/resized/0008/1147/81147v4-max-150x150.jpg"],
+          [[250,
+            216],
+           "assets/images/resized/0008/1147/81147v4-max-250x250.jpg"],
+          [[450,
+            390],
+           "assets/images/resized/0008/1147/81147v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "HQ",
+    "address1": "1801 Varsity Drive",
+    "address2": "",
+    "zip_code": "27606",
+    "city": "Raleigh",
+    "state_code": "NC",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        118],
+       "assets/images/resized/0009/8129/98129v1-max-150x150.jpg"],
+      [[250,
+        196],
+       "assets/images/resized/0009/8129/98129v1-max-250x250.jpg"],
+      [[450,
+        354],
+       "assets/images/resized/0009/8129/98129v1-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

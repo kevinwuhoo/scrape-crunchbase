@@ -1,0 +1,63 @@
+{"name": "jCore",
+ "permalink": "jcore",
+ "crunchbase_url": "http://www.crunchbase.com/company/jcore",
+ "homepage_url": "http://www.ianonym.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "security",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "security, privacy, anonymity, tor, tracker, ad, censor, tls, ssl, websockets, crypto, certificates, javascript, node, browsers, fingerprint, cookie, history, proxy, router, onion, auto-proxy, pac, webcrypto",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "internet startup",
+ "created_at": "Fri Feb 15 14:32:51 UTC 2013",
+ "updated_at": "Tue Feb 19 21:17:07 UTC 2013",
+ "overview": "\u003Cp\u003EAnonymity into your browser everywhere from any device.\u003C/p\u003E\n\n\u003Cp\u003EStatus :\u003C/p\u003E\n\n\u003Cp\u003ENetwork side (javascript node.js Tor like protocol - http://www.torproject.org) supporting websockets extensions is complete.\u003C/p\u003E\n\n\u003Cp\u003E9th February 2013\u0026#8217;s first successfull complete communication from the browser with the js anonymizer totally inside the browser.\u003C/p\u003E\n\n\u003Cp\u003ESee :\u003C/p\u003E\n\n\u003Cp\u003Ehttp://www.ianonym.com\nhttps://www.github.com/Ayms/iAnonym\nhttps://www.github.com/Ayms/node-Tor\u003C/p\u003E\n\n\u003Cp\u003EUse cases :\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Ehide your real IP address.\u003C/li\u003E\n\u003Cli\u003Ehide the domains that you are visiting.\u003C/li\u003E\n\u003Cli\u003Ehide the information between you and those sites.\u003C/li\u003E\n\u003Cli\u003Eavoid trackers and ads.\u003C/li\u003E\n\u003Cli\u003Eavoid inopportune or dangerous scripts.\u003C/li\u003E\n\u003Cli\u003Ebypass censorship policies.\u003C/li\u003E\n\u003Cli\u003Edownload things.\u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EAdvantages :\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Enothing to install\u003C/li\u003E\n\u003Cli\u003Eavailable everywhere from any modern browser\u003C/li\u003E\n\u003Cli\u003Ehttps used even to access sites not supporting it (then extending HTTPS Everywhere concept)\u003C/li\u003E\n\u003Cli\u003Edestination hidden even during the https handshake\u003C/li\u003E\n\u003Cli\u003Eno third party software\u003C/li\u003E\n\u003Cli\u003Erelies on the fact that you only trust yourself - even potential malicious components inside the browser could not compromise you\u003C/li\u003E\n\u003Cli\u003Every difficult or impossible to block since the js code and the pac file can be distributed everywhere and you only need this to run the js OP \u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003ETechno :\u003C/p\u003E\n\n\u003Cp\u003EJavascript implementation of the Tor (or Tor like) protocol (Onion Proxy and Onion Router) which anonymizes communications via the Tor (or Tor like) network. This allows to simply connect to the Tor (or Tor like) network and use it, as well as creating and adding nodes into the network, creating complementary and/or parallel networks, implementing completely, partially or not the Tor protocol or a derived one, using completely, partially or not the Tor network, it can be used to create separated Tor like networks.\u003C/p\u003E\n\n\u003Cp\u003EBut the most challenging goals are to put the OP and the OR inside the browsers.\u003C/p\u003E\n\n\u003Cp\u003EIt\u0026#8217;s done for the OP : 9th February 2013\u0026#8217;s first successfull complete communication from the browser with the js OP totally inside the browser.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.jcore.fr",
+    "title": "other projects"},
+   {"external_url": "https://www.github.com/Ayms/iAnonym",
+    "title": "iAnonym git repo"},
+   {"external_url": "https://www.github.com/Ayms/node-Tor",
+    "title": "node-Tor dev repo"},
+   {"external_url": "https://www.github.com/Ayms/websocket",
+    "title": "websocket dev repo"},
+   {"external_url": "https://www.github.com/Ayms/node-typedarray",
+    "title": "ArrayBuffer dev repo"},
+   {"external_url": "http://www.torproject.org",
+    "title": "Tor project Home page"}]}

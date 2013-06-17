@@ -1,0 +1,89 @@
+{"name": "Beep Interactive",
+ "permalink": "beep-interactive",
+ "crunchbase_url": "http://www.crunchbase.com/company/beep-interactive",
+ "homepage_url": "http://beepinteractive.com",
+ "blog_url": "http://blog.beepinteractive.com",
+ "blog_feed_url": "http://beepinteractive.com/feed/",
+ "twitter_username": null,
+ "category_code": "games_video",
+ "number_of_employees": 2,
+ "founded_year": 2004,
+ "founded_month": 9,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "sms, personalized-homepage, homepage, search, record-video, flash-video",
+ "alias_list": null,
+ "email_address": "admin@beepinteractive.com",
+ "phone_number": "+61 3 9016 4447",
+ "description": null,
+ "created_at": "Wed Apr 16 03:39:45 UTC 2008",
+ "updated_at": "Thu Dec 01 07:42:14 UTC 2011",
+ "overview": "\u003Cp\u003EBeep operates a variety of web and mobile based services. These services include:\u003C/p\u003E\n\n\u003Cp\u003EQuick.as - is your one homepage for all devices. Your personal homepage has a search bar where you can select which site to search (Google, Wikipedia, Amazon, dictionary.com, Yelp, etc.), and \u0026#8220;Quick Links\u0026#8221;. These are like bookmarks and are compiled by analysing your browser history when you first visit. Then when you access Quick.as from a mobile it will direct you to pages optimized for the device you are using (i.e. on an iPhone, it will take you to i.facebook.com instead of www.facebook.com or m.facebook.com).\u003C/p\u003E\n\n\u003Cp\u003ERecordle.com - A service allowing users to record audio, video and take photos directly from a web site. Using Flash (so there is no software to download), it detects your microphone and/or web camera and allows users to record.\u003C/p\u003E\n\n\u003Cp\u003EsmsGeezer.com - A service that allows the purchase of low cost SMS messages online and send them from either a web page, through email, or by uploading an Excel spreadsheet.\u003C/p\u003E\n\n\u003Cp\u003E19secret.com - A service that allowing users to send anonymous and \u0026#8220;masked\u0026#8221; SMS (in Australia only). This service is no longer in operation.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       50],
+      "assets/images/resized/0001/7367/17367v1-max-150x150.png"],
+     [[250,
+       83],
+      "assets/images/resized/0001/7367/17367v1-max-250x250.png"],
+     [[300,
+       100],
+      "assets/images/resized/0001/7367/17367v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Raef",
+      "last_name": "Akehurst",
+      "permalink": "raef-akehurst",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Karl",
+      "last_name": "Edwards",
+      "permalink": "karl-edwards",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "Melbourne",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": -37.814251,
+    "longitude": 144.963169}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://recordle.com",
+    "title": "Recordle"},
+   {"external_url": "http://quick.as",
+    "title": "Quick.as"},
+   {"external_url": "http://smsGeezer.com",
+    "title": "smsGeezer"}]}

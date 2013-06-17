@@ -1,0 +1,111 @@
+{"name": "Blackletter",
+ "permalink": "blackletter",
+ "crunchbase_url": "http://www.crunchbase.com/company/blackletter",
+ "homepage_url": "http://blackletterllc.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2007,
+ "founded_month": 10,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "contact@blackletterllc.com",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Fri Feb 20 00:44:50 UTC 2009",
+ "updated_at": "Wed Oct 27 18:35:45 UTC 2010",
+ "overview": "\u003Cp\u003EBlackletter develops web-based software for attorneys and other legal professionals.  Their main product is a case management system for small law firms, ad hoc legal teams, and solo practitioners called Caseload.  Their main competitors include RocketMatter and GoClio.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       115],
+      "assets/images/resized/0003/6583/36583v2-max-150x150.jpg"],
+     [[250,
+       193],
+      "assets/images/resized/0003/6583/36583v2-max-250x250.jpg"],
+     [[450,
+       347],
+      "assets/images/resized/0003/6583/36583v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [{"name": "Caseload",
+    "permalink": "caseload",
+    "image":
+     {"available_sizes":
+       [[[150,
+          115],
+         "assets/images/resized/0004/2370/42370v2-max-150x150.jpg"],
+        [[250,
+          193],
+         "assets/images/resized/0004/2370/42370v2-max-250x250.jpg"],
+        [[450,
+          347],
+         "assets/images/resized/0004/2370/42370v2-max-450x450.jpg"]],
+      "attribution": null}}],
+ "relationships":
+  [{"is_past": false,
+    "title": "Managing Member",
+    "person":
+     {"first_name": "Drew",
+      "last_name": "Schimmel",
+      "permalink": "drew-schimmel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Clio",
+      "permalink": "clio",
+      "image":
+       {"available_sizes":
+         [[[130,
+            53],
+           "assets/images/resized/0017/2267/172267v1-max-150x150.png"],
+          [[130,
+            53],
+           "assets/images/resized/0017/2267/172267v1-max-250x250.png"],
+          [[130,
+            53],
+           "assets/images/resized/0017/2267/172267v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Rocket Matter",
+      "permalink": "rocket-matter",
+      "image":
+       {"available_sizes":
+         [[[150,
+            49],
+           "assets/images/resized/0007/7697/77697v2-max-150x150.png"],
+          [[250,
+            82],
+           "assets/images/resized/0007/7697/77697v2-max-250x250.png"],
+          [[450,
+            148],
+           "assets/images/resized/0007/7697/77697v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

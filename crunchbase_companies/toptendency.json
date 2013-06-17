@@ -1,0 +1,73 @@
+{"name": "TopTendency",
+ "permalink": "toptendency",
+ "crunchbase_url": "http://www.crunchbase.com/company/toptendency",
+ "homepage_url": "http://www.toptendency.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 1,
+ "founded_year": 2009,
+ "founded_month": 10,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "meme, summary, news, api",
+ "alias_list": null,
+ "email_address": "info@toptendency.com",
+ "phone_number": "310-385-7936",
+ "description": "Web summaries",
+ "created_at": "Wed Apr 21 15:45:44 UTC 2010",
+ "updated_at": "Wed Apr 21 17:50:07 UTC 2010",
+ "overview": "\u003Cp\u003ETopTendency is an online collection of top 10 lists, e.g. the top 10 videos viewed on YouTube in the last day (or week, or month, or all time), the top 10 songs downloaded from the iTunes store last week, the top 10 stocks in terms of % price change yesterday, etc.  Any topic that lends itself to this sort of organization is welcome on TopTendency. \u003C/p\u003E\n\n\u003Cp\u003EPresenting information in such concise chunks simplifies browsing the increasingly noisy infospace we all navigate every day.  TopTendency users can create persistent collections of lists pertaining to just those topics that interest them, then browse these collections whenever they want, clicking through to the videos, songs, stocks, blog posts, etc. that strike their interest, without having to browse the individual associated web sites.\u003C/p\u003E\n\n\u003Cp\u003ETopTendency can accommodate any number of lists.  While we\u00e2\u20ac\u2122ll continue to add lists ourselves, we expect the bulk to come from third-parties.  We\u00e2\u20ac\u2122ve made it easy for anyone to add them, either via a web form, RSS, or our API.  The last allows developers to create scripts that collect information for a list on whatever schedule they want (daily, hourly, by the minute) and send it to us in a simple JSON post.  We think people will provide list info because it\u00e2\u20ac\u2122s fun, and for the 50-50 revenue split we\u00e2\u20ac\u2122ll provide from the ad (served by Google AdSense) on each list.  We specifically designed TopTendency so ads are tied to their respective lists, not the page on which all the lists in a collection appear, so the ads are highly targeted. Plus, users can suggest lists, and vote on each other\u00e2\u20ac\u2122s suggestions, enabling developers to get a sense of what lists are likely to be most popular, and lucrative.\u003C/p\u003E\n\n\u003Cp\u003EFinally, TopTendency provides multiple intuitive search mechanisms that allow users to search for lists by keyword, tag, subject, popularity, and other dimensions, so even as we grow, it will always be easy to find what you\u00e2\u20ac\u2122re looking for.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       66],
+      "assets/images/resized/0008/4466/84466v2-max-150x150.jpg"],
+     [[250,
+       111],
+      "assets/images/resized/0008/4466/84466v2-max-250x250.jpg"],
+     [[450,
+       199],
+      "assets/images/resized/0008/4466/84466v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        120],
+       "assets/images/resized/0008/4465/84465v2-max-150x150.jpg"],
+      [[250,
+        200],
+       "assets/images/resized/0008/4465/84465v2-max-250x250.jpg"],
+      [[450,
+        360],
+       "assets/images/resized/0008/4465/84465v2-max-450x450.jpg"]],
+    "attribution": null}],
+ "external_links":
+  []}

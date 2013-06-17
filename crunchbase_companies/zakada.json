@@ -1,0 +1,88 @@
+{"name": "Zakada",
+ "permalink": "zakada",
+ "crunchbase_url": "http://www.crunchbase.com/company/zakada",
+ "homepage_url": "http://www.zakada.com",
+ "blog_url": "http://www.zakada.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "zakadacom",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 2,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "storage, file, collaboration, data, share",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "Online File Storage",
+ "created_at": "Sun Apr 03 14:28:20 UTC 2011",
+ "updated_at": "Sun Apr 10 23:49:32 UTC 2011",
+ "overview": "\u003Cp\u003EOnline file storage and collaboration\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Eias",
+      "last_name": "Chelidonis",
+      "permalink": "eias-chelidonis",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Andrei",
+      "last_name": "Nakhabov",
+      "permalink": "andrei-nakhabov",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Box",
+      "permalink": "box",
+      "image":
+       {"available_sizes":
+         [[[150,
+            88],
+           "assets/images/resized/0000/3484/3484v3-max-150x150.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-250x250.png"],
+          [[197,
+            116],
+           "assets/images/resized/0000/3484/3484v3-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$20k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "",
+    "source_description": "",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 1000,
+    "funded_month": 1,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

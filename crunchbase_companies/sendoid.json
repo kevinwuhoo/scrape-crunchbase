@@ -1,0 +1,168 @@
+{"name": "Sendoid",
+ "permalink": "sendoid",
+ "crunchbase_url": "http://www.crunchbase.com/company/sendoid",
+ "homepage_url": "http://sendoid.com/",
+ "blog_url": "http://blog.sendoid.com/",
+ "blog_feed_url": "",
+ "twitter_username": "Sendoid",
+ "category_code": "other",
+ "number_of_employees": null,
+ "founded_year": 2011,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "person-to-person, file-sharing, p2p",
+ "alias_list": "",
+ "email_address": "feedback@sendoid.com",
+ "phone_number": "",
+ "description": "Person-to-Person File Sharing",
+ "created_at": "Mon Mar 21 18:14:27 UTC 2011",
+ "updated_at": "Tue Mar 19 13:37:26 UTC 2013",
+ "overview": "\u003Cp\u003ESendoid is an on-demand peer to peer transfer system. It makes transferring any size file between two people as simple as clicking a link!\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0012/7089/127089v1-max-150x150.png"],
+     [[166,
+       59],
+      "assets/images/resized/0012/7089/127089v1-max-250x250.png"],
+     [[166,
+       59],
+      "assets/images/resized/0012/7089/127089v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "John",
+      "last_name": "Egan",
+      "permalink": "john-egan",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0012/7124/127124v2-max-150x150.png"],
+          [[250,
+            250],
+           "assets/images/resized/0012/7124/127124v2-max-250x250.png"],
+          [[277,
+            277],
+           "assets/images/resized/0012/7124/127124v2-max-450x450.png"]],
+        "attribution": ""}}},
+   {"is_past": true,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Zac",
+      "last_name": "Morris",
+      "permalink": "zac-morris",
+      "image":
+       {"available_sizes":
+         [[[112,
+            150],
+           "assets/images/resized/0012/7122/127122v2-max-150x150.jpg"],
+          [[187,
+            250],
+           "assets/images/resized/0012/7122/127122v2-max-250x250.jpg"],
+          [[337,
+            450],
+           "assets/images/resized/0012/7122/127122v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "WeTransfer",
+      "permalink": "wetransfer",
+      "image":
+       {"available_sizes":
+         [[[150,
+            122],
+           "assets/images/resized/0023/5083/235083v2-max-150x150.png"],
+          [[220,
+            180],
+           "assets/images/resized/0023/5083/235083v2-max-250x250.png"],
+          [[220,
+            180],
+           "assets/images/resized/0023/5083/235083v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "FilesOverMiles",
+      "permalink": "filesovermiles",
+      "image":
+       {"available_sizes":
+         [[[150,
+            29],
+           "assets/images/resized/0004/8252/48252v2-max-150x150.png"],
+          [[250,
+            49],
+           "assets/images/resized/0004/8252/48252v2-max-250x250.png"],
+          [[428,
+            84],
+           "assets/images/resized/0004/8252/48252v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://venturebeat.com/2012/02/29/facebook-caffeinated-mind/",
+   "source_description": "Facebook acquires team behind YC alum Caffeinated Mind",
+   "acquired_year": 2012,
+   "acquired_month": 3,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "Facebook",
+     "permalink": "facebook",
+     "image":
+      {"available_sizes":
+        [[[150,
+           56],
+          "assets/images/resized/0000/4552/4552v2-max-150x150.jpg"],
+         [[250,
+           94],
+          "assets/images/resized/0000/4552/4552v2-max-250x250.jpg"],
+         [[450,
+           169],
+          "assets/images/resized/0000/4552/4552v2-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Sendoid",
+    "address1": "",
+    "address2": "",
+    "zip_code": "",
+    "city": "San Francisco",
+    "state_code": "CA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0012/7090/127090v1-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0012/7090/127090v1-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0012/7090/127090v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

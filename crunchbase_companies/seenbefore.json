@@ -1,0 +1,100 @@
+{"name": "SeenBefore",
+ "permalink": "seenbefore",
+ "crunchbase_url": "http://www.crunchbase.com/company/seenbefore",
+ "homepage_url": "https://www.seenbefore.com",
+ "blog_url": "https://www.seenbefore.com/blog",
+ "blog_feed_url": "",
+ "twitter_username": "seenbefore",
+ "category_code": "search",
+ "number_of_employees": 2,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "search, social-search, history, bookmarks, personal-search",
+ "alias_list": null,
+ "email_address": "crunchbase@seenbefore.com",
+ "phone_number": "",
+ "description": "Search Personal Browsing History",
+ "created_at": "Tue Jul 17 15:02:42 UTC 2012",
+ "updated_at": "Fri Aug 24 21:14:58 UTC 2012",
+ "overview": "\u003Cp\u003ESearch engine for what you have seen before.\u003C/p\u003E\n\n\u003Cp\u003EBe able to search over what you saw before, from within Google. Chrome version build as MVP. According to Yahoo, 40% of what people search for online is for something they have already seen. Many times a week, I cannot find that information and give up. \nI didn\u0026#8217;t bookmark the webpage at the time, as I didn\u0026#8217;t think it was important. 3 months later, when I try to find it again, I can\u0026#8217;t. The Internet is an archive of information. Links break everyday and content changes, rendering History only useful for blog posts.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Derek",
+      "last_name": "Organ",
+      "permalink": "derek-organ-2",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Vincent",
+      "last_name": "Glennon",
+      "permalink": "vincent-glennon",
+      "image":
+       {"available_sizes":
+         [[[50,
+            50],
+           "assets/images/resized/0020/1506/201506v2-max-150x150.png"],
+          [[50,
+            50],
+           "assets/images/resized/0020/1506/201506v2-max-250x250.png"],
+          [[50,
+            50],
+           "assets/images/resized/0020/1506/201506v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "archify",
+      "permalink": "egoarchive",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0012/7107/127107v5-max-150x150.jpg"],
+          [[250,
+            77],
+           "assets/images/resized/0012/7107/127107v5-max-250x250.jpg"],
+          [[300,
+            93],
+           "assets/images/resized/0012/7107/127107v5-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[121,
+        150],
+       "assets/images/resized/0020/1510/201510v2-max-150x150.png"],
+      [[202,
+        250],
+       "assets/images/resized/0020/1510/201510v2-max-250x250.png"],
+      [[364,
+        450],
+       "assets/images/resized/0020/1510/201510v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

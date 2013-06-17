@@ -1,0 +1,96 @@
+{"name": "CloudSponge",
+ "permalink": "cloudsponge",
+ "crunchbase_url": "http://www.crunchbase.com/company/cloudsponge",
+ "homepage_url": "http://www.cloudsponge.com",
+ "blog_url": "http://blog.cloudsponge.com",
+ "blog_feed_url": "feed://blog.cloudsponge.com/feed/",
+ "twitter_username": "cloudsponge",
+ "category_code": "software",
+ "number_of_employees": 7,
+ "founded_year": 2010,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "address-book-importing, software-as-a-service, delegated-authentication, oath",
+ "alias_list": null,
+ "email_address": "jay@cloudsponge.com",
+ "phone_number": "",
+ "description": "address book importing software",
+ "created_at": "Thu Jan 20 01:38:22 UTC 2011",
+ "updated_at": "Mon Mar 14 07:21:33 UTC 2011",
+ "overview": "\u003Cp\u003ECloudSponge provides software-as-a-service that handles address book importing from all major sources (Gmail, Yahoo Mail, MSN/Live/Hotmail, AOL, Outlook, OS X Address Book, and more).\u003C/p\u003E\n\n\u003Cp\u003EA low monthly fee buys unlimited access to simple copy/paste HTML integration (about 5 minutes to get up and running) or an in-depth API.  API wrappers are provided in all popular programming languages for simple integration for customers that prefer to use the API.\u003C/p\u003E\n\n\u003Cp\u003EIt\u0026#8217;s free to try and easy to integrate.  The website has a Test Drive that webmasters can use to see how the product works with their own address book, plus lots of Examples to see how other websites have used it.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       45],
+      "assets/images/resized/0012/5900/125900v2-max-150x150.png"],
+     [[200,
+       60],
+      "assets/images/resized/0012/5900/125900v2-max-250x250.png"],
+     [[200,
+       60],
+      "assets/images/resized/0012/5900/125900v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "Jay",
+      "last_name": "Gibb",
+      "permalink": "jay-gibb",
+      "image": null}},
+   {"is_past": false,
+    "title": "Co-Founder",
+    "person":
+     {"first_name": "David",
+      "last_name": "Graham",
+      "permalink": "david-graham",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$200k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.arizonabay.com",
+    "source_description": "Arizona Bay Technology Ventures",
+    "raised_amount": 200000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2010,
+    "funded_month": null,
+    "funded_day": null,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Ciframe title=\"YouTube video player\" width=\"450\" height=\"283\" src=\"http://www.youtube.com/embed/hR6Hu1lr0JQ?rel=0\u0026amp;hd=1\" frameborder=\"0\" allowfullscreen\u003E\u003C/iframe\u003E",
+    "description": "\u003Cp\u003ECloudSponge Overlay Widget Demo\u003C/p\u003E"}],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        107],
+       "assets/images/resized/0012/5902/125902v2-max-150x150.png"],
+      [[250,
+        178],
+       "assets/images/resized/0012/5902/125902v2-max-250x250.png"],
+      [[450,
+        321],
+       "assets/images/resized/0012/5902/125902v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

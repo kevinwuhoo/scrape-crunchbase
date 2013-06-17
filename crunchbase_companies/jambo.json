@@ -1,0 +1,175 @@
+{"name": "Jambo",
+ "permalink": "jambo",
+ "crunchbase_url": "http://www.crunchbase.com/company/jambo",
+ "homepage_url": "",
+ "blog_url": "",
+ "blog_feed_url": null,
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": null,
+ "alias_list": null,
+ "email_address": null,
+ "phone_number": null,
+ "description": null,
+ "created_at": "Thu Aug 23 07:16:16 UTC 2007",
+ "updated_at": "Wed May 28 00:29:09 UTC 2008",
+ "overview": "\u003Cp\u003EJambo provides a Mobile Membership Directory that works like radar to give any group of people the ability to detect, search, browse, and connect to each other, when they happen to be in the same city and as close as a few blocks away.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       59],
+      "assets/images/resized/0001/9338/19338v1-max-150x150.png"],
+     [[228,
+       91],
+      "assets/images/resized/0001/9338/19338v1-max-250x250.png"],
+     [[228,
+       91],
+      "assets/images/resized/0001/9338/19338v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": true,
+    "title": "Sr. Product Manager",
+    "person":
+     {"first_name": "Adam",
+      "last_name": "Zarlengo",
+      "permalink": "adam-zarlengo",
+      "image":
+       {"available_sizes":
+         [[[150,
+            143],
+           "assets/images/resized/0011/2524/112524v2-max-150x150.jpg"],
+          [[158,
+            151],
+           "assets/images/resized/0011/2524/112524v2-max-250x250.jpg"],
+          [[158,
+            151],
+           "assets/images/resized/0011/2524/112524v2-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "aka-aki networks",
+      "permalink": "akaaki",
+      "image":
+       {"available_sizes":
+         [[[150,
+            33],
+           "assets/images/resized/0000/0463/463v2-max-150x150.jpg"],
+          [[250,
+            55],
+           "assets/images/resized/0000/0463/463v2-max-250x250.jpg"],
+          [[450,
+            99],
+           "assets/images/resized/0000/0463/463v2-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "imity",
+      "permalink": "imity",
+      "image":
+       {"available_sizes":
+         [[[135,
+            61],
+           "assets/images/resized/0001/6615/16615v1-max-150x150.png"],
+          [[135,
+            61],
+           "assets/images/resized/0001/6615/16615v1-max-250x250.png"],
+          [[135,
+            61],
+           "assets/images/resized/0001/6615/16615v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [{"title": "Public Relations",
+    "is_past": true,
+    "provider":
+     {"name": "Edge Communications, Inc.",
+      "permalink": "edge-communications-inc",
+      "image":
+       {"available_sizes":
+         [[[150,
+            103],
+           "assets/images/resized/0002/6117/26117v2-max-150x150.jpg"],
+          [[250,
+            172],
+           "assets/images/resized/0002/6117/26117v2-max-250x250.jpg"],
+          [[450,
+            310],
+           "assets/images/resized/0002/6117/26117v2-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "total_money_raised": "$5M",
+ "funding_rounds":
+  [{"round_code": "a",
+    "source_url": null,
+    "source_description": null,
+    "raised_amount": 5000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2005,
+    "funded_month": 10,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Kline Hawkes \u0026 Co",
+         "permalink": "kline-hawkes-and-co",
+         "image":
+          {"available_sizes":
+            [[[150,
+               40],
+              "assets/images/resized/0003/1536/31536v1-max-150x150.png"],
+             [[232,
+               62],
+              "assets/images/resized/0003/1536/31536v1-max-250x250.png"],
+             [[232,
+               62],
+              "assets/images/resized/0003/1536/31536v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Westlake Venture Partners",
+         "permalink": "westlake-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[146,
+               36],
+              "assets/images/resized/0001/9756/19756v1-max-150x150.jpg"],
+             [[146,
+               36],
+              "assets/images/resized/0001/9756/19756v1-max-250x250.jpg"],
+             [[146,
+               36],
+              "assets/images/resized/0001/9756/19756v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": null,
+    "address1": null,
+    "address2": null,
+    "zip_code": null,
+    "city": null,
+    "state_code": null,
+    "country_code": "USA",
+    "latitude": 37.09024,
+    "longitude": -95.712891}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,121 @@
+{"name": "Meal idea",
+ "permalink": "meal-idea",
+ "crunchbase_url": "http://www.crunchbase.com/company/meal-idea",
+ "homepage_url": "http://www.mealidea.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "mealidea",
+ "category_code": "software",
+ "number_of_employees": 4,
+ "founded_year": 2012,
+ "founded_month": 9,
+ "founded_day": 12,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "recipe, recipe-app, best-recipe-app, food, dinner, lunch, food-app",
+ "alias_list": null,
+ "email_address": "feedback@mealidea.com",
+ "phone_number": "",
+ "description": "Find recipes using ingredients",
+ "created_at": "Mon Feb 25 19:29:43 UTC 2013",
+ "updated_at": "Tue Feb 26 08:31:49 UTC 2013",
+ "overview": "\u003Cp\u003EWe help users find recipes using their ingredients.\u003C/p\u003E\n\n\u003Cp\u003EWith meal idea you can:\u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EBuild grocery lists\u003C/li\u003E\n\u003Cli\u003EFilter by health habits (low fat, etc\u0026#8230;)\u003C/li\u003E\n\u003Cli\u003EDiscover global recipes\u003C/li\u003E\n\u003C/ul\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       150],
+      "assets/images/resized/0023/8228/238228v2-max-150x150.png"],
+     [[250,
+       250],
+      "assets/images/resized/0023/8228/238228v2-max-250x250.png"],
+     [[450,
+       450],
+      "assets/images/resized/0023/8228/238228v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "William",
+      "last_name": "Falcon",
+      "permalink": "william-falcon",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "BigOven",
+      "permalink": "bigoven",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0006/5457/65457v1-max-150x150.png"],
+          [[185,
+            57],
+           "assets/images/resized/0006/5457/65457v1-max-250x250.png"],
+          [[185,
+            57],
+           "assets/images/resized/0006/5457/65457v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "AllRecipes",
+      "permalink": "allrecipes",
+      "image":
+       {"available_sizes":
+         [[[150,
+            51],
+           "assets/images/resized/0006/4465/64465v1-max-150x150.png"],
+          [[250,
+            85],
+           "assets/images/resized/0006/4465/64465v1-max-250x250.png"],
+          [[280,
+            96],
+           "assets/images/resized/0006/4465/64465v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Punchfork",
+      "permalink": "punchfork",
+      "image":
+       {"available_sizes":
+         [[[150,
+            60],
+           "assets/images/resized/0009/5747/95747v2-max-150x150.png"],
+          [[250,
+            100],
+           "assets/images/resized/0009/5747/95747v2-max-250x250.png"],
+          [[416,
+            167],
+           "assets/images/resized/0009/5747/95747v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "New york HQ",
+    "address1": "78 w 82nd st",
+    "address2": "",
+    "zip_code": "10024",
+    "city": "New York",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": 40.783574,
+    "longitude": -73.973887}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

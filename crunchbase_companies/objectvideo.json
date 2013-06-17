@@ -1,0 +1,143 @@
+{"name": "ObjectVideo",
+ "permalink": "objectvideo",
+ "crunchbase_url": "http://www.crunchbase.com/company/objectvideo",
+ "homepage_url": "http://www.objectvideo.com/",
+ "blog_url": "http://blog.objectvideo.com/",
+ "blog_feed_url": "http://www.objectvideo.com/news-and-media/press-releases.html",
+ "twitter_username": "ObjectVideo",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 1998,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@objectvideo.com",
+ "phone_number": "703-654-9300",
+ "description": "",
+ "created_at": "Thu Apr 15 04:57:39 UTC 2010",
+ "updated_at": "Sun Apr 07 09:33:53 UTC 2013",
+ "overview": "\u003Cp\u003EObjectVideo, Inc. provides intelligent video analytics software for security, public safety, business intelligence gathering, and process improvement applications. It offers ObjectVideo OnBoard, a software for digital signal processors-based program that incorporates technology as an application embedded inside of cameras, DVRs, and IP devices; and ObjectVideo VEW, which automatically detects various events and activities, including perimeter breaches, loitering, and removal of or left items for surveillance or for business intelligence-gathering. The company\u0026#8217;s products convert video to data through the detection, classification, and tracking of activities. Its products offer school grounds monitoring, facility security and access, and in-school security; asset security/monitoring, ATM monitoring, and external physical security; and loss prevention and business intelligence. The company\u0026#8217;s products are used in various applications, including transportation, such as rail, aviation, and maritime; education; banking; retail; and gaming applications. It markets and sells its products through a video intelligent partner network of OEMs, integrators, and security and information technology solutions providers. The company serves government agencies; infrastructure, such as ports, dams, and nuclear power plants; homeland security; and refineries, manufacturing plants, construction, and residential facilities markets. The company was formerly known as DiamondBack Vision, Inc. and changed its name to ObjectVideo, Inc. in August 2001. The company was founded in 1998 and is headquartered in Reston, Virginia.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[96,
+       96],
+      "assets/images/resized/0008/3825/83825v1-max-150x150.png"],
+     [[96,
+       96],
+      "assets/images/resized/0008/3825/83825v1-max-250x250.png"],
+     [[96,
+       96],
+      "assets/images/resized/0008/3825/83825v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "David",
+      "last_name": "McGuinness",
+      "permalink": "david-mcguinness",
+      "image": null}},
+   {"is_past": false,
+    "title": "COO",
+    "person":
+     {"first_name": "Kenneth",
+      "last_name": "J. Tarpey",
+      "permalink": "kenneth-j-tarpey",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$8M",
+ "funding_rounds":
+  [{"round_code": "e",
+    "source_url": "http://www.buyoutsnews.com/story.asp?storycode=40553",
+    "source_description": "ObjectVideo Inc., a Reston, Va.-based provider of video processing software for physical security applications, has raised $8 million in Series E funding",
+    "raised_amount": 8000000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2006,
+    "funded_month": 9,
+    "funded_day": 29,
+    "investments":
+     [{"company": null,
+       "financial_org":
+        {"name": "Updata Partners",
+         "permalink": "updata-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               72],
+              "assets/images/resized/0002/9729/29729v4-max-150x150.jpg"],
+             [[250,
+               120],
+              "assets/images/resized/0002/9729/29729v4-max-250x250.jpg"],
+             [[280,
+               135],
+              "assets/images/resized/0002/9729/29729v4-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Novak Biddle Venture Partners",
+         "permalink": "novak-biddle-venture-partners",
+         "image":
+          {"available_sizes":
+            [[[150,
+               69],
+              "assets/images/resized/0000/3475/3475v1-max-150x150.png"],
+             [[200,
+               93],
+              "assets/images/resized/0000/3475/3475v1-max-250x250.png"],
+             [[200,
+               93],
+              "assets/images/resized/0000/3475/3475v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "ABS Ventures",
+         "permalink": "abs-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               57],
+              "assets/images/resized/0001/0971/10971v1-max-150x150.jpg"],
+             [[182,
+               70],
+              "assets/images/resized/0001/0971/10971v1-max-250x250.jpg"],
+             [[182,
+               70],
+              "assets/images/resized/0001/0971/10971v1-max-450x450.jpg"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "11600 Sunrise Valley Drive",
+    "address2": "Suite 290",
+    "zip_code": "20191",
+    "city": "Reston",
+    "state_code": "VA",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

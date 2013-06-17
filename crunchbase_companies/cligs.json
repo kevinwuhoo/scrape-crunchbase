@@ -1,0 +1,124 @@
+{"name": "cligs",
+ "permalink": "cligs",
+ "crunchbase_url": "http://www.crunchbase.com/company/cligs",
+ "homepage_url": "http://cli.gs/",
+ "blog_url": "http://blog.cli.gs/",
+ "blog_feed_url": "http://blog.cli.gs/feed",
+ "twitter_username": null,
+ "category_code": "web",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": null,
+ "created_at": "Tue Oct 07 21:44:14 UTC 2008",
+ "updated_at": "Sun Feb 07 17:59:47 UTC 2010",
+ "overview": "\u003Cp\u003ECligs allows users to take long urls and shorten them for use in twitter and other platforms.  Unlike competitor, tinyURL, the company is taking one step forward and allows you to see the stats of the submitted links. Within your Cligs account, you can create an unlimited number of cligs, with an unlimited number of cligs pointing to the same destination URL. This means you can drop different cligs into different sites and watch their traffic evolve over time.\u003C/p\u003E\n\n\u003Cp\u003EFor example: two cligs pointing to the same destination can be used one in a forum and one on twitter and then the traffic from each one is tracked by Cligs.\u003C/p\u003E\n\n\u003Cp\u003ECligs also has a unique feature: geotargeting of the destination URL. This allows you to set up one short URL but each visitor being forwarded to a different destination depending on their geographical location. This is particularly userful for affiliate marketers.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       32],
+      "assets/images/resized/0002/6361/26361v3-max-150x150.jpg"],
+     [[250,
+       53],
+      "assets/images/resized/0002/6361/26361v3-max-250x250.jpg"],
+     [[280,
+       60],
+      "assets/images/resized/0002/6361/26361v3-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "TinyURL",
+      "permalink": "tinyurl",
+      "image":
+       {"available_sizes":
+         [[[150,
+            23],
+           "assets/images/resized/0001/9075/19075v1-max-150x150.png"],
+          [[250,
+            38],
+           "assets/images/resized/0001/9075/19075v1-max-250x250.png"],
+          [[401,
+            62],
+           "assets/images/resized/0001/9075/19075v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.centernetworks.com/cligs-url-shortener-acquired-by-mister-wong",
+   "source_description": "Cligs URL Shortener Acquired by Mister Wong",
+   "acquired_year": 2009,
+   "acquired_month": 12,
+   "acquired_day": 1,
+   "acquiring_company":
+    {"name": "Construktiv",
+     "permalink": "construktiv",
+     "image":
+      {"available_sizes":
+        [[[150,
+           19],
+          "assets/images/resized/0001/8202/18202v1-max-150x150.jpg"],
+         [[250,
+           31],
+          "assets/images/resized/0001/8202/18202v1-max-250x250.jpg"],
+         [[450,
+           57],
+          "assets/images/resized/0001/8202/18202v1-max-450x450.jpg"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [{"description": "Sold to Mister Wong",
+    "stoned_year": 2009,
+    "stoned_month": 12,
+    "stoned_day": 1,
+    "source_url": "",
+    "source_text": null,
+    "source_description": "http://blog.cli.gs/news/mister-wong-acquires-cligs",
+    "stoneable_type": "Company",
+    "stoned_value": null,
+    "stoned_value_type": null,
+    "stoned_acquirer": null,
+    "stoneable":
+     {"name": "cligs",
+      "permalink": "cligs"}}],
+ "ipo": null,
+ "video_embeds":
+  [{"embed_code": "\u003Cobject width=\"400\" height=\"302\"\u003E\u003Cparam name=\"allowfullscreen\" value=\"true\" /\u003E\u003Cparam name=\"allowscriptaccess\" value=\"always\" /\u003E\u003Cparam name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=2208007\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" /\u003E\u003Cembed src=\"http://vimeo.com/moogaloop.swf?clip_id=2208007\u0026amp;server=vimeo.com\u0026amp;show_title=1\u0026amp;show_byline=1\u0026amp;show_portrait=0\u0026amp;color=\u0026amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"400\" height=\"302\"\u003E\u003C/embed\u003E\u003C/object\u003E\u003Cbr /\u003E\u003Ca href=\"http://vimeo.com/2208007\"\u003ERight Clig Demo\u003C/a\u003E from \u003Ca href=\"http://vimeo.com/cligs\"\u003EPierre Far\u003C/a\u003E on \u003Ca href=\"http://vimeo.com\"\u003EVimeo\u003C/a\u003E",
+    "description": ""}],
+ "screenshots":
+  [{"available_sizes":
+     [[[135,
+        150],
+       "assets/images/resized/0002/6360/26360v1-max-150x150.png"],
+      [[225,
+        250],
+       "assets/images/resized/0002/6360/26360v1-max-250x250.png"],
+      [[361,
+        400],
+       "assets/images/resized/0002/6360/26360v1-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

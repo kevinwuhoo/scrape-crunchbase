@@ -1,0 +1,182 @@
+{"name": "Tapas Media",
+ "permalink": "tapas-media",
+ "crunchbase_url": "http://www.crunchbase.com/company/tapas-media",
+ "homepage_url": "http://tapastic.com",
+ "blog_url": "http://blog.tapastic.com",
+ "blog_feed_url": "http://feeds.feedburner.com/TapasticBlog",
+ "twitter_username": "tapastic",
+ "category_code": "games_video",
+ "number_of_employees": 10,
+ "founded_year": 2012,
+ "founded_month": 3,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "media, content, visual-stories, visual-story, webcomics",
+ "alias_list": "",
+ "email_address": "changkim@tapasmedia.co",
+ "phone_number": "",
+ "description": "Awesome Visual Stories",
+ "created_at": "Thu Oct 11 08:23:47 UTC 2012",
+ "updated_at": "Mon May 20 05:10:47 UTC 2013",
+ "overview": "\u003Cp\u003ETapastic is a portal for awesome visual stories (or as some call it, \u0026#8220;webcomics\u0026#8221;), and also an open platform for indie visual story artists. \u003C/p\u003E\n\n\u003Cp\u003EWe provide a \u0026#8220;channels\u0026#8221; experience for visual stories: check out our weekly update schedule (http://tapastic.com/release_schedule/list). \u003C/p\u003E\n\n\u003Cp\u003ETapastic is also available on Android, and we\u0026#8217;re currently working on an iOS app. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       47],
+      "assets/images/resized/0021/5144/215144v2-max-150x150.png"],
+     [[220,
+       70],
+      "assets/images/resized/0021/5144/215144v2-max-250x250.png"],
+     [[220,
+       70],
+      "assets/images/resized/0021/5144/215144v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "co-founder and CEO ",
+    "person":
+     {"first_name": "Chang",
+      "last_name": "Kim",
+      "permalink": "chang-kim-2",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/4234/264234v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4234/264234v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4234/264234v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "co-founder, CCO",
+    "person":
+     {"first_name": "YJ",
+      "last_name": "Jang",
+      "permalink": "yj-jang",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0026/4235/264235v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4235/264235v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0026/4235/264235v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Chief Product Officer",
+    "person":
+     {"first_name": "Daron",
+      "last_name": "Akira Hall",
+      "permalink": "daron-akira-hall",
+      "image":
+       {"available_sizes":
+         [[[137,
+            137],
+           "assets/images/resized/0026/4239/264239v1-max-150x150.jpg"],
+          [[137,
+            137],
+           "assets/images/resized/0026/4239/264239v1-max-250x250.jpg"],
+          [[137,
+            137],
+           "assets/images/resized/0026/4239/264239v1-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Advisors",
+    "person":
+     {"first_name": "David",
+      "last_name": "D. Kim",
+      "permalink": "david-d-kim",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$750k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://techcrunch.com/2012/11/15/tapastic/",
+    "source_description": "500 Startups-Backed Tapastic Raises $750,000 To Bring Webtoons To US-Based Comic Fans",
+    "raised_amount": 750000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2012,
+    "funded_month": 11,
+    "funded_day": 15,
+    "investments":
+     [{"company":
+        {"name": "SK Planet",
+         "permalink": "sk-planet",
+         "image":
+          {"available_sizes":
+            [[[150,
+               38],
+              "assets/images/resized/0015/9457/159457v2-max-150x150.jpg"],
+             [[250,
+               64],
+              "assets/images/resized/0015/9457/159457v2-max-250x250.jpg"],
+             [[450,
+               116],
+              "assets/images/resized/0015/9457/159457v2-max-450x450.jpg"]],
+           "attribution": null}},
+       "financial_org": null,
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "500 Startups",
+         "permalink": "500-startups",
+         "image":
+          {"available_sizes":
+            [[[150,
+               104],
+              "assets/images/resized/0009/6288/96288v7-max-150x150.png"],
+             [[250,
+               173],
+              "assets/images/resized/0009/6288/96288v7-max-250x250.png"],
+             [[450,
+               312],
+              "assets/images/resized/0009/6288/96288v7-max-450x450.png"]],
+           "attribution": null}},
+       "person": null},
+      {"company": null,
+       "financial_org":
+        {"name": "Strong Ventures",
+         "permalink": "strong-ventures",
+         "image":
+          {"available_sizes":
+            [[[150,
+               28],
+              "assets/images/resized/0021/0811/210811v1-max-150x150.png"],
+             [[250,
+               48],
+              "assets/images/resized/0021/0811/210811v1-max-250x250.png"],
+             [[436,
+               84],
+              "assets/images/resized/0021/0811/210811v1-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,130 @@
+{"name": "Blue Sky Technologies",
+ "permalink": "blue-sky-technologies",
+ "crunchbase_url": "http://www.crunchbase.com/company/blue-sky-technologies",
+ "homepage_url": "http://blueskytech.com",
+ "blog_url": "http://blueskytech.com/blog.html",
+ "blog_feed_url": "http://www.blueskytech.com/rss.xml",
+ "twitter_username": null,
+ "category_code": "software",
+ "number_of_employees": 5,
+ "founded_year": 2005,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "supply-chain-software, custom-software-development",
+ "alias_list": null,
+ "email_address": "steve.hensley@blueskytech.com",
+ "phone_number": "214.941.1000",
+ "description": null,
+ "created_at": "Thu Jun 26 01:03:38 UTC 2008",
+ "updated_at": "Thu Apr 16 10:36:23 UTC 2009",
+ "overview": "\u003Cp\u003EBlue Sky Technologies is a software company that specializes in supply chain management and execution applications. \u003C/p\u003E\n\n\u003Cp\u003EBlue Sky\u0026#8217;s Insight is a supply chain visibility and reporting solution.  It has modules for areas such as inventory visibility, service level, and warehouse operations.  It allows a company to build alerts and gauges to monitor their business.  Some features include: the ability to pull data from many sources within a single gauge, drag-and-drop configurable pages, and a software development kit that allows users to build complex reports using scripting languages such as Ruby, Groovy, or JavaScript.\u003C/p\u003E\n\n\u003Cp\u003EBlue Sky\u0026#8217;s Janus Appointment Management System lets a company control their warehouse shipment schedules by allowing carriers and suppliers to schedule appointments online.  It includes logic to intelligently assign doors, a graphic view of the door schedule, and various alerts to monitor supplier performance and yard activity.\u003C/p\u003E\n\n\u003Cp\u003EBlue Sky also provides custom software consulting services.  The primary focus is in supply chain execution and management software design.  Blue Sky provides full life-cycle development services.\u003C/p\u003E\n\n\u003Cp\u003EBlue Sky is currently working on labor management, driver tracking and fuel efficiency, and yard management.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       56],
+      "assets/images/resized/0002/1048/21048v1-max-150x150.png"],
+     [[207,
+       78],
+      "assets/images/resized/0002/1048/21048v1-max-250x250.png"],
+     [[207,
+       78],
+      "assets/images/resized/0002/1048/21048v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Randy",
+      "last_name": "Marble",
+      "permalink": "randy-marble",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP of Information Technology",
+    "person":
+     {"first_name": "Jason",
+      "last_name": "Perrone",
+      "permalink": "jason-perrone",
+      "image": null}},
+   {"is_past": false,
+    "title": "President",
+    "person":
+     {"first_name": "Steve",
+      "last_name": "Hensley",
+      "permalink": "steve-hensley",
+      "image": null}},
+   {"is_past": false,
+    "title": "",
+    "person":
+     {"first_name": "Kari",
+      "last_name": "Dwyer",
+      "permalink": "kari-dwyer",
+      "image": null}},
+   {"is_past": true,
+    "title": "CTO",
+    "person":
+     {"first_name": "Brian",
+      "last_name": "Deterling",
+      "permalink": "brian-deterling",
+      "image":
+       {"available_sizes":
+         [[[150,
+            150],
+           "assets/images/resized/0003/8929/38929v2-max-150x150.png"],
+          [[183,
+            183],
+           "assets/images/resized/0003/8929/38929v2-max-250x250.png"],
+          [[183,
+            183],
+           "assets/images/resized/0003/8929/38929v2-max-450x450.png"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Wild Brain",
+      "permalink": "wild-brain",
+      "image":
+       {"available_sizes":
+         [[[150,
+            47],
+           "assets/images/resized/0002/8763/28763v1-max-150x150.jpg"],
+          [[220,
+            69],
+           "assets/images/resized/0002/8763/28763v1-max-250x250.jpg"],
+          [[220,
+            69],
+           "assets/images/resized/0002/8763/28763v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "654 N. Denton Tap Rd.",
+    "address2": "Suite #150",
+    "zip_code": "75019",
+    "city": "Coppell",
+    "state_code": "TX",
+    "country_code": "USA",
+    "latitude": 32.9844884,
+    "longitude": -96.9932926}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

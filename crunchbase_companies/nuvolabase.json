@@ -1,0 +1,176 @@
+{"name": "NuvolaBase",
+ "permalink": "nuvolabase",
+ "crunchbase_url": "http://www.crunchbase.com/company/nuvolabase",
+ "homepage_url": "http://www.nuvolabase.com",
+ "blog_url": "http://nuvolabase.blogspot.it/",
+ "blog_feed_url": "http://nuvolabase.blogspot.com/feeds/posts/default",
+ "twitter_username": "lgarulli",
+ "category_code": "software",
+ "number_of_employees": 3,
+ "founded_year": 2011,
+ "founded_month": 10,
+ "founded_day": 18,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "cloud, nosql, orientdb, database, scalable, bigdata",
+ "alias_list": null,
+ "email_address": "l.garulli@nuvolabase.com",
+ "phone_number": "+39 333 3814597",
+ "description": "The company behind OrientDB NoSQL",
+ "created_at": "Fri Jun 15 16:16:50 UTC 2012",
+ "updated_at": "Tue Jun 19 14:10:37 UTC 2012",
+ "overview": "\u003Cp\u003ENuvolaBase is the company behind OrientDB document-graph NoSQL dbms. NuvolaBase provides professional service for OrientDB Open Source project and has built a cloud infrastructure to get a graph database on the cloud.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       110],
+      "assets/images/resized/0019/5693/195693v2-max-150x150.png"],
+     [[250,
+       183],
+      "assets/images/resized/0019/5693/195693v2-max-250x250.png"],
+     [[287,
+       211],
+      "assets/images/resized/0019/5693/195693v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Luca",
+      "last_name": "Garulli",
+      "permalink": "luca-garulli",
+      "image":
+       {"available_sizes":
+         [[[120,
+            150],
+           "assets/images/resized/0011/8719/118719v2-max-150x150.jpg"],
+          [[192,
+            240],
+           "assets/images/resized/0011/8719/118719v2-max-250x250.jpg"],
+          [[192,
+            240],
+           "assets/images/resized/0011/8719/118719v2-max-450x450.jpg"]],
+        "attribution": ""}}},
+   {"is_past": false,
+    "title": "Developer",
+    "person":
+     {"first_name": "Alfonso",
+      "last_name": "Focareta",
+      "permalink": "alfonso-focareta",
+      "image": null}},
+   {"is_past": false,
+    "title": "System Administrator",
+    "person":
+     {"first_name": "Bernardino",
+      "last_name": "Ciuffetti",
+      "permalink": "bernardino-ciuffetti",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "neo4j",
+      "permalink": "neo4j",
+      "image": null}},
+   {"competitor":
+     {"name": "10gen",
+      "permalink": "10gen",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0002/2463/22463v7-max-150x150.png"],
+          [[250,
+            57],
+           "assets/images/resized/0002/2463/22463v7-max-250x250.png"],
+          [[307,
+            71],
+           "assets/images/resized/0002/2463/22463v7-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Couchbase",
+      "permalink": "couchbase",
+      "image":
+       {"available_sizes":
+         [[[100,
+            58],
+           "assets/images/resized/0012/1045/121045v5-max-150x150.png"],
+          [[100,
+            58],
+           "assets/images/resized/0012/1045/121045v5-max-250x250.png"],
+          [[100,
+            58],
+           "assets/images/resized/0012/1045/121045v5-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "MongoDB",
+      "permalink": "mongodb",
+      "image":
+       {"available_sizes":
+         [[[150,
+            62],
+           "assets/images/resized/0024/7310/247310v1-max-150x150.png"],
+          [[217,
+            90],
+           "assets/images/resized/0024/7310/247310v1-max-250x250.png"],
+          [[217,
+            90],
+           "assets/images/resized/0024/7310/247310v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Basho Technologies",
+      "permalink": "basho-technologies",
+      "image":
+       {"available_sizes":
+         [[[150,
+            97],
+           "assets/images/resized/0004/0826/40826v1-max-150x150.png"],
+          [[161,
+            105],
+           "assets/images/resized/0004/0826/40826v1-max-250x250.png"],
+          [[161,
+            105],
+           "assets/images/resized/0004/0826/40826v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "6 Dyers Buildings, 3rd Floor South",
+    "address2": "",
+    "zip_code": "EC1N 2JT",
+    "city": "London",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        85],
+       "assets/images/resized/0019/5692/195692v2-max-150x150.png"],
+      [[250,
+        141],
+       "assets/images/resized/0019/5692/195692v2-max-250x250.png"],
+      [[450,
+        255],
+       "assets/images/resized/0019/5692/195692v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  [{"external_url": "http://www.orientdb.org",
+    "title": "OrientDB Home Page"}]}

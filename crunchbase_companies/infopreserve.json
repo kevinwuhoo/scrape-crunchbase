@@ -1,0 +1,171 @@
+{"name": "InfoPreserve",
+ "permalink": "infopreserve",
+ "crunchbase_url": "http://www.crunchbase.com/company/infopreserve",
+ "homepage_url": "http://www.InfoPreserve.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "InfoPreserve",
+ "category_code": "software",
+ "number_of_employees": 9,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "digital-preservation, documents, records, information, retention, archive, format-obsolescence, upstate-ny",
+ "alias_list": null,
+ "email_address": "sales@inforpreserve.com",
+ "phone_number": "",
+ "description": "Digital preservation of information",
+ "created_at": "Wed Aug 04 18:33:47 UTC 2010",
+ "updated_at": "Mon Oct 24 03:09:14 UTC 2011",
+ "overview": "\u003Cp\u003EInfoPreserve\u00e2\u201e\u00a2 is a software-as-a-service (SaaS) company, offering the first comprehensive solution for digitally preserving documents, records, and other critical data. Digital preservation is a new market need driven by recent mandated changes requiring digital evidence be provided as fully functional digital files. Their patented Preservation Vault\u00e2\u201e\u00a2 technology, maintains information in preservation formats to ensure they that remain immediately accessible, readable, and secure even as technology changes over time, while eliminating the cost, frustration, and inefficiency of placing preserved information in physical storage. They further provide complete retention management, authentication, and audit trail of information preserved in their system.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       37],
+      "assets/images/resized/0009/6027/96027v2-max-150x150.jpg"],
+     [[250,
+       61],
+      "assets/images/resized/0009/6027/96027v2-max-250x250.jpg"],
+     [[450,
+       110],
+      "assets/images/resized/0009/6027/96027v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO/Founder",
+    "person":
+     {"first_name": "Eric",
+      "last_name": "Leinberg",
+      "permalink": "eric-leinberg",
+      "image": null}},
+   {"is_past": false,
+    "title": "VP Product Development",
+    "person":
+     {"first_name": "Clive",
+      "last_name": "Daunton",
+      "permalink": "clive-daunton",
+      "image": null}},
+   {"is_past": false,
+    "title": "Sales \u0026 Marketing Consultant",
+    "person":
+     {"first_name": "Dante",
+      "last_name": "Pennacchia",
+      "permalink": "dante-pennacchia",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Sales \u0026 Channels",
+    "person":
+     {"first_name": "Mark",
+      "last_name": "Cook",
+      "permalink": "mark-cook",
+      "image": null}},
+   {"is_past": true,
+    "title": "Director of Software Development",
+    "person":
+     {"first_name": "Chris",
+      "last_name": "Titterton",
+      "permalink": "chris-titterton",
+      "image": null}},
+   {"is_past": true,
+    "title": "Client Manager",
+    "person":
+     {"first_name": "Sheree",
+      "last_name": "Savo",
+      "permalink": "sheree-savo",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Iron Mountain",
+      "permalink": "iron-mountain-2",
+      "image":
+       {"available_sizes":
+         [[[150,
+            22],
+           "assets/images/resized/0007/7865/77865v1-max-150x150.png"],
+          [[250,
+            37],
+           "assets/images/resized/0007/7865/77865v1-max-250x250.png"],
+          [[297,
+            44],
+           "assets/images/resized/0007/7865/77865v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Cintas",
+      "permalink": "cintas",
+      "image":
+       {"available_sizes":
+         [[[138,
+            47],
+           "assets/images/resized/0011/0759/110759v1-max-150x150.jpg"],
+          [[138,
+            47],
+           "assets/images/resized/0011/0759/110759v1-max-250x250.jpg"],
+          [[138,
+            47],
+           "assets/images/resized/0011/0759/110759v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Laserfiche",
+      "permalink": "laserfiche",
+      "image":
+       {"available_sizes":
+         [[[150,
+            37],
+           "assets/images/resized/0008/8060/88060v1-max-150x150.png"],
+          [[170,
+            43],
+           "assets/images/resized/0008/8060/88060v1-max-250x250.png"],
+          [[170,
+            43],
+           "assets/images/resized/0008/8060/88060v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Xerox",
+      "permalink": "xerox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            50],
+           "assets/images/resized/0002/2592/22592v1-max-150x150.png"],
+          [[167,
+            56],
+           "assets/images/resized/0002/2592/22592v1-max-250x250.png"],
+          [[167,
+            56],
+           "assets/images/resized/0002/2592/22592v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "175 Sully's Trail",
+    "address2": "Suite 203",
+    "zip_code": "14534",
+    "city": "Pittsford",
+    "state_code": "NY",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

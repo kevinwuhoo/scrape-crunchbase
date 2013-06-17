@@ -1,0 +1,94 @@
+{"name": "Pikewerks",
+ "permalink": "pikewerks",
+ "crunchbase_url": "http://www.crunchbase.com/company/pikewerks",
+ "homepage_url": "http://pikewerks.com/",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": "",
+ "email_address": "info@pikewerks.com",
+ "phone_number": "256.325.0010",
+ "description": "",
+ "created_at": "Tue Dec 06 04:34:52 UTC 2011",
+ "updated_at": "Tue Dec 06 04:34:51 UTC 2011",
+ "overview": "\u003Cp\u003EPikewerks Corporation engages in the research, development, training, and consulting of a range of information security solutions. The company focuses on insider threat, software protection, and forensics solutions, as well as cyber security, anti-tamper, information operations, and data protection solutions. It offers Electronic Armor, which protects executables, shared libraries, and scripts from unauthorized access, reverse engineering, and signature detection, as well as supports debug prevention, copy protection, input/output file protection, secure coprocessors, out of band storage and execution, out of band attestation, loading, tiered encryption, layered defenses, and integration with other solutions. The company also provides Second Look that provides volatile memory acquisition and analysis for Linux-based systems, which captures and forensically preserves a computer\u0026#8217;s volatile random-access memory, and analyzes the Linux operating system kernel in live memory or via a memory image, verifying its integrity and searching for signs of rootkits or other subversive software that have modified the executable kernel code or kernel data structures. In addition, its products under development comprise Binary Fortress, a hypervisor to protect a Windows application against static analysis, runtime debugging, memory access, unauthorized use, and theft. Pikewerks serves the federal government, research organizations, and critical industry partners. The company was founded in 2003 and is headquartered in Madison, Alabama with an additional office in San Antonio, Texas.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       53],
+      "assets/images/resized/0016/5336/165336v1-max-150x150.png"],
+     [[150,
+       53],
+      "assets/images/resized/0016/5336/165336v1-max-250x250.png"],
+     [[150,
+       53],
+      "assets/images/resized/0016/5336/165336v1-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.freshnews.com/news/584521/raytheon-acquires-cybersecurity-firm-pikewerks",
+   "source_description": "Raytheon Acquires Cybersecurity Firm Pikewerks",
+   "acquired_year": 2011,
+   "acquired_month": 12,
+   "acquired_day": 5,
+   "acquiring_company":
+    {"name": "Raytheon",
+     "permalink": "raytheon",
+     "image":
+      {"available_sizes":
+        [[[149,
+           28],
+          "assets/images/resized/0005/1829/51829v1-max-150x150.png"],
+         [[149,
+           28],
+          "assets/images/resized/0005/1829/51829v1-max-250x250.png"],
+         [[149,
+           28],
+          "assets/images/resized/0005/1829/51829v1-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "105 A Church Street",
+    "address2": "",
+    "zip_code": "35758",
+    "city": "Madison",
+    "state_code": "AL",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,97 @@
+{"name": "Geogoer",
+ "permalink": "geogoer",
+ "crunchbase_url": "http://www.crunchbase.com/company/geogoer",
+ "homepage_url": "http://www.geogoer.com",
+ "blog_url": "http://blog.geogoer.com",
+ "blog_feed_url": "http://blog.geogoer.com/rss.xml",
+ "twitter_username": "geogoer",
+ "category_code": "web",
+ "number_of_employees": 3,
+ "founded_year": null,
+ "founded_month": null,
+ "founded_day": null,
+ "deadpooled_year": 2011,
+ "deadpooled_month": 3,
+ "deadpooled_day": null,
+ "deadpooled_url": "",
+ "tag_list": "transport, car-sharing",
+ "alias_list": null,
+ "email_address": "d@geogoer.com",
+ "phone_number": "+447576370997",
+ "description": "Open transport network",
+ "created_at": "Sat May 01 20:14:12 UTC 2010",
+ "updated_at": "Sat Feb 02 07:47:35 UTC 2013",
+ "overview": "\u003Cp\u003EGeogoer is an open transport network, where any user can find passengers, cars and other transport, or publish their own journeys.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       63],
+      "assets/images/resized/0008/5634/85634v6-max-150x150.png"],
+     [[250,
+       106],
+      "assets/images/resized/0008/5634/85634v6-max-250x250.png"],
+     [[450,
+       191],
+      "assets/images/resized/0008/5634/85634v6-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [{"name": "Open Transport Network",
+    "permalink": "open-transport-network",
+    "image": null},
+   {"name": "www.opentransportnetwork.com",
+    "permalink": "www-opentransportnetwork-com",
+    "image": null}],
+ "relationships":
+  [{"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Dalia",
+      "last_name": "Lasaite",
+      "permalink": "dalia-lasaite",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Andrej",
+      "last_name": "Andrejev",
+      "permalink": "andrej-andrejev",
+      "image": null}},
+   {"is_past": true,
+    "title": "",
+    "person":
+     {"first_name": "Ksistof",
+      "last_name": "Ledichov",
+      "permalink": "ksistof-ledichov",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "\u00a320k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.thedifferenceengine.eu",
+    "source_description": "The Difference Engine",
+    "raised_amount": 20000.0,
+    "raised_currency_code": "GBP",
+    "funded_year": 2010,
+    "funded_month": 3,
+    "funded_day": 1,
+    "investments":
+     []}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

@@ -1,0 +1,77 @@
+{"name": "Oriact",
+ "permalink": "oriact",
+ "crunchbase_url": "http://www.crunchbase.com/company/oriact",
+ "homepage_url": "http://www.oriact.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": null,
+ "founded_year": 2009,
+ "founded_month": 4,
+ "founded_day": 3,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "collaboration, communication, appliance, software-development, project",
+ "alias_list": "",
+ "email_address": "",
+ "phone_number": "+41 44 501 38 38",
+ "description": "Solutions for software development",
+ "created_at": "Sun Jul 12 11:47:21 UTC 2009",
+ "updated_at": "Tue Jul 14 00:00:31 UTC 2009",
+ "overview": "\u003Cp\u003EOriact provides solutions and services to help companies with their software development and project management.\u003C/p\u003E\n\n\u003Cp\u003EIts main product is Oriact which is an appliance that integrates the needed tools for successful development such as issue tracking, source code management, chat, blogs, forums and so on.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [{"name": "Oriact Team Workspace",
+    "permalink": "oriact-appliance",
+    "image": null}],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "BuildForge",
+      "permalink": "buildforge",
+      "image":
+       {"available_sizes":
+         [[[50,
+            50],
+           "assets/images/resized/0024/9760/249760v1-max-150x150.jpg"],
+          [[50,
+            50],
+           "assets/images/resized/0024/9760/249760v1-max-250x250.jpg"],
+          [[50,
+            50],
+           "assets/images/resized/0024/9760/249760v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "L\u00c3\u00a4rchenweg 7",
+    "address2": "",
+    "zip_code": "6403",
+    "city": "K\u00c3\u00bcssnacht",
+    "state_code": null,
+    "country_code": "CHE",
+    "latitude": 47.0882193,
+    "longitude": 8.4371634}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://origo.ethz.ch",
+    "title": "Public instance of Oriact Appliance"}]}

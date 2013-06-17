@@ -1,0 +1,110 @@
+{"name": "Decho",
+ "permalink": "decho",
+ "crunchbase_url": "http://www.crunchbase.com/company/decho",
+ "homepage_url": "http://www.decho.com",
+ "blog_url": "http://decho.com/blog/",
+ "blog_feed_url": "http://decho.com/blog/rss/",
+ "twitter_username": "",
+ "category_code": "web",
+ "number_of_employees": 150,
+ "founded_year": 2008,
+ "founded_month": 11,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "",
+ "created_at": "Mon Nov 17 05:15:25 UTC 2008",
+ "updated_at": "Mon Jul 27 21:59:47 UTC 2009",
+ "overview": "\u003Cp\u003EDecho is a combination of two formerly separate \u003Ca href=\"http://www.crunchbase.com/company/emccorporation\" title=\"EMC\"\u003EEMC\u003C/a\u003E businesses \u00e2\u20ac\u201c \u003Ca href=\"http://www.crunchbase.com/company/mozy\" title=\"Mozy, Inc.\"\u003EMozy, Inc.\u003C/a\u003E and \u003Ca href=\"http://www.crunchbase.com/company/pi-corporation\" title=\"Pi Corp.\"\u003EPi Corp.\u003C/a\u003E  Decho continues to offer consumers and businesses the Mozy-branded online backup service (www.mozy.com), as well as introduce new cloud-based services for individuals over time.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       87],
+      "assets/images/resized/0002/8707/28707v1-max-150x150.jpg"],
+     [[250,
+       146],
+      "assets/images/resized/0002/8707/28707v1-max-250x250.jpg"],
+     [[250,
+       146],
+      "assets/images/resized/0002/8707/28707v1-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Harel",
+      "last_name": "Kodesh",
+      "permalink": "harel-kodesh",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition":
+  {"price_amount": null,
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_url": "http://www.techcrunch.com/2008/11/16/emc-combines-two-acquisitions-into-decho-to-unleash-super-storage-product/",
+   "source_description": "",
+   "acquired_year": 2008,
+   "acquired_month": 11,
+   "acquired_day": null,
+   "acquiring_company":
+    {"name": "EMC",
+     "permalink": "emc",
+     "image":
+      {"available_sizes":
+        [[[150,
+           150],
+          "assets/images/resized/0002/1658/21658v2-max-150x150.png"],
+         [[250,
+           250],
+          "assets/images/resized/0002/1658/21658v2-max-250x250.png"],
+         [[400,
+           400],
+          "assets/images/resized/0002/1658/21658v2-max-450x450.png"]],
+       "attribution": null}}},
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "615 Second Avenue",
+    "address2": "Suite 280",
+    "zip_code": "98104",
+    "city": "Seattle",
+    "state_code": "WA",
+    "country_code": "USA",
+    "latitude": 47.6024156,
+    "longitude": -122.3326145}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        85],
+       "assets/images/resized/0002/8708/28708v3-max-150x150.png"],
+      [[250,
+        142],
+       "assets/images/resized/0002/8708/28708v3-max-250x250.png"],
+      [[450,
+        256],
+       "assets/images/resized/0002/8708/28708v3-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

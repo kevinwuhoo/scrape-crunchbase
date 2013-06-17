@@ -1,0 +1,113 @@
+{"name": "Code Spaces",
+ "permalink": "code-spaces",
+ "crunchbase_url": "http://www.crunchbase.com/company/code-spaces",
+ "homepage_url": "http://www.codespaces.com",
+ "blog_url": "http://www.codespaces.com/blog",
+ "blog_feed_url": "http://www.codespaces.com/blog/articles.rss",
+ "twitter_username": "codespaces",
+ "category_code": "software",
+ "number_of_employees": 6,
+ "founded_year": 2007,
+ "founded_month": 11,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "codespaces, online-version-control, subversion-hosting, issue-tracking, trac, bugzilla",
+ "alias_list": null,
+ "email_address": "sales@codespaces.com",
+ "phone_number": "+44 (0)121 288 5590",
+ "description": "Secure source control hosting",
+ "created_at": "Tue May 11 16:08:25 UTC 2010",
+ "updated_at": "Tue May 11 18:56:03 UTC 2010",
+ "overview": "\u003Cp\u003ECode Spaces provides secure Source Code hosting and project managements.\u003C/p\u003E\n\n\u003Cp\u003ECode Spaces is designed to aid development teams by providing tools to collaborate, log and discuss project activity.\u003C/p\u003E\n\n\u003Cp\u003EProject Managers are able to manage projects from within the Code Spaces platform, from resource planning using the Gantt Chart and time tracking to Agile Team management using the Card Wall. \u003C/p\u003E\n\n\u003Cp\u003ESubversion is the new standard for Software Configuration Management (SCM) in globally distributed teams and organizations.\u003C/p\u003E\n\n\u003Cp\u003ECode Spaces is built around Subversion, giving you the best version control system integrated with Work Items, Bug Tracking, Project Management, and much more.\u003C/p\u003E\n\n\u003Cp\u003EOur Subversion repositories are hosted on redundant, high specification servers with guaranteed uptime and availability. \u003C/p\u003E\n\n\u003Cp\u003ECode Spaces includes custom built Issue Tracking allowing you to manage and track your defects, bugs and tasks in an intuitive and productive way.\u003C/p\u003E\n\n\u003Cp\u003EWork items can belong to Project Milestones, with due dates and release dates.\u003C/p\u003E\n\n\u003Cp\u003EYou can keep up to date with Work Items via RSS feeds, on the project Dashboard. \u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       43],
+      "assets/images/resized/0008/6775/86775v2-max-150x150.png"],
+     [[250,
+       73],
+      "assets/images/resized/0008/6775/86775v2-max-250x250.png"],
+     [[291,
+       85],
+      "assets/images/resized/0008/6775/86775v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Floyd",
+      "last_name": "Price",
+      "permalink": "floyd-price",
+      "image": null}},
+   {"is_past": false,
+    "title": "CTO",
+    "person":
+     {"first_name": "Adrian",
+      "last_name": "O'connor",
+      "permalink": "adrian-oconnor",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Codesion",
+      "permalink": "codesion",
+      "image":
+       {"available_sizes":
+         [[[150,
+            46],
+           "assets/images/resized/0004/2947/42947v2-max-150x150.png"],
+          [[250,
+            78],
+           "assets/images/resized/0004/2947/42947v2-max-250x250.png"],
+          [[317,
+            99],
+           "assets/images/resized/0004/2947/42947v2-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Unfuddle",
+      "permalink": "unfuddle",
+      "image":
+       {"available_sizes":
+         [[[150,
+            41],
+           "assets/images/resized/0006/5958/65958v1-max-150x150.png"],
+          [[250,
+            68],
+           "assets/images/resized/0006/5958/65958v1-max-250x250.png"],
+          [[270,
+            74],
+           "assets/images/resized/0006/5958/65958v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Head Office",
+    "address1": "The Design Hub",
+    "address2": "Puma Wat",
+    "zip_code": "CV1 2TT",
+    "city": "Coventry",
+    "state_code": null,
+    "country_code": "GBR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

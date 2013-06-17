@@ -1,0 +1,78 @@
+{"name": "Bushido",
+ "permalink": "bushido",
+ "crunchbase_url": "http://www.crunchbase.com/company/bushido",
+ "homepage_url": "http://gobushido.com",
+ "blog_url": "http://blog.bushi.do/",
+ "blog_feed_url": "http://blog.bushi.do/rss.xml",
+ "twitter_username": "sgrove",
+ "category_code": "network_hosting",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 5,
+ "founded_day": 15,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "hosting, cloud, app, open-source, oss, yc, y-combinator",
+ "alias_list": null,
+ "email_address": "",
+ "phone_number": "",
+ "description": "AppStore for the Cloud",
+ "created_at": "Tue Aug 30 01:14:01 UTC 2011",
+ "updated_at": "Wed Mar 27 03:43:16 UTC 2013",
+ "overview": "\u003Cp\u003EBushido provides one-click deploy for open-source rails apps to a \u0026#8216;fully-furnished\u0026#8217; hosting environment for end-users, and does a revenue-share with the app developer.\u003C/p\u003E\n\n\u003Cp\u003EEach app deployed automatically has incoming/outgoing email accounts, a MongoDB instance, a Postgresql DB instance, a  provisioned subdomain, etc. Apps generally support several dozen to hundred users, but can be configured for public-facing sites as well.\u003C/p\u003E\n\n\u003Cp\u003EBushido builds on the cloud services out there and unifies all the different API\u0026#8217;s into a single, simple interface that standardizes app development - as is the rails way.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[149,
+       150],
+      "assets/images/resized/0015/1743/151743v2-max-150x150.png"],
+     [[249,
+       250],
+      "assets/images/resized/0015/1743/151743v2-max-250x250.png"],
+     [[448,
+       450],
+      "assets/images/resized/0015/1743/151743v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sean",
+      "last_name": "Grove",
+      "permalink": "sean-grove",
+      "image": null}}],
+ "competitions":
+  [],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Headquarters",
+    "address1": "Block 428,",
+    "address2": "Seef District",
+    "zip_code": " Seef District",
+    "city": "Manama",
+    "state_code": null,
+    "country_code": "BHR",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://techcrunch.com/2011/08/29/yc-funded-bushido-an-app-store-for-the-web-that-can-kickstart-your-side-projects/?utm_source=pulsenews\u0026utm_medium=referral\u0026utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29",
+    "title": "YC-Funded Bushido: An App Store For The Web That Can Kickstart Your Side Projects"}]}

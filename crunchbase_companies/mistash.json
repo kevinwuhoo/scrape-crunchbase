@@ -1,0 +1,145 @@
+{"name": "Mistash",
+ "permalink": "mistash",
+ "crunchbase_url": "http://www.crunchbase.com/company/mistash",
+ "homepage_url": "http://www.mistash.com",
+ "blog_url": "http://blog.mistash.com",
+ "blog_feed_url": "http://blog.mistash.com/rss",
+ "twitter_username": "mistashinc",
+ "category_code": "web",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 7,
+ "founded_day": 25,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "social, ecommerce, product-recommendations, discovery, consumer-reviews",
+ "alias_list": null,
+ "email_address": "jason@mistash.com",
+ "phone_number": "4242292337",
+ "description": "Social product catalog",
+ "created_at": "Thu Jan 12 22:23:07 UTC 2012",
+ "updated_at": "Wed Feb 15 06:33:03 UTC 2012",
+ "overview": "\u003Cp\u003EMistash is the social product catalog.\u003C/p\u003E\n\n\u003Cp\u003EUsers create a \u0026#8220;stash\u0026#8221; of products that they own, want, or once had to share with their social circle. Items can be stashed from mistash.com itself, or by using a bookmarklet that allows stashing from virtually any website. \u003C/p\u003E\n\n\u003Cp\u003EGet insight into which friends have which products and what they think about them. Discover new products your friends are interested in. Get and make recommendations on products from people you actually know. Determine what product to buy as a gift for your best friend. Create a collection of items from your past so that you can reminisce.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       90],
+      "assets/images/resized/0017/4131/174131v2-max-150x150.jpg"],
+     [[155,
+       94],
+      "assets/images/resized/0017/4131/174131v2-max-250x250.jpg"],
+     [[155,
+       94],
+      "assets/images/resized/0017/4131/174131v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Cofounder, CTO",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Barlow",
+      "permalink": "michael-barlow",
+      "image":
+       {"available_sizes":
+         [[[100,
+            100],
+           "assets/images/resized/0025/2257/252257v1-max-150x150.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/2257/252257v1-max-250x250.jpg"],
+          [[100,
+            100],
+           "assets/images/resized/0025/2257/252257v1-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Svpply",
+      "permalink": "svpply",
+      "image":
+       {"available_sizes":
+         [[[150,
+            34],
+           "assets/images/resized/0011/1221/111221v1-max-150x150.png"],
+          [[209,
+            48],
+           "assets/images/resized/0011/1221/111221v1-max-250x250.png"],
+          [[209,
+            48],
+           "assets/images/resized/0011/1221/111221v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Wanelo",
+      "permalink": "wanelo",
+      "image":
+       {"available_sizes":
+         [[[120,
+            20],
+           "assets/images/resized/0011/5027/115027v4-max-150x150.png"],
+          [[120,
+            20],
+           "assets/images/resized/0011/5027/115027v4-max-250x250.png"],
+          [[120,
+            20],
+           "assets/images/resized/0011/5027/115027v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Have to Have",
+      "permalink": "have-to-have",
+      "image":
+       {"available_sizes":
+         [[[150,
+            28],
+           "assets/images/resized/0016/0305/160305v4-max-150x150.jpg"],
+          [[250,
+            46],
+           "assets/images/resized/0016/0305/160305v4-max-250x250.jpg"],
+          [[450,
+            84],
+           "assets/images/resized/0016/0305/160305v4-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [{"available_sizes":
+     [[[150,
+        93],
+       "assets/images/resized/0017/0432/170432v2-max-150x150.png"],
+      [[250,
+        156],
+       "assets/images/resized/0017/0432/170432v2-max-250x250.png"],
+      [[450,
+        281],
+       "assets/images/resized/0017/0432/170432v2-max-450x450.png"]],
+    "attribution": null},
+   {"available_sizes":
+     [[[150,
+        95],
+       "assets/images/resized/0017/0434/170434v2-max-150x150.png"],
+      [[250,
+        159],
+       "assets/images/resized/0017/0434/170434v2-max-250x250.png"],
+      [[450,
+        287],
+       "assets/images/resized/0017/0434/170434v2-max-450x450.png"]],
+    "attribution": null}],
+ "external_links":
+  []}

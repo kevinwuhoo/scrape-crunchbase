@@ -1,0 +1,96 @@
+{"name": "Rhinofile",
+ "permalink": "rhinofile",
+ "crunchbase_url": "http://www.crunchbase.com/company/rhinofile",
+ "homepage_url": "http://www.rhinofile.com",
+ "blog_url": "http://blog.rhinofile.com",
+ "blog_feed_url": "",
+ "twitter_username": "",
+ "category_code": "software",
+ "number_of_employees": 1,
+ "founded_year": 2006,
+ "founded_month": 1,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "php-document-file-send-move",
+ "alias_list": null,
+ "email_address": "ross.richards@rhinofile.com",
+ "phone_number": "",
+ "description": "Enterprise large file mover",
+ "created_at": "Sat Jul 09 11:09:18 UTC 2011",
+ "updated_at": "Sat Jul 09 12:35:06 UTC 2011",
+ "overview": "\u003Cp\u003ERhinofile is a web based large file mover application targeted at businesses.  Coded in PHP/MySQL it is capable to run on almost any hosting company. Rhinofile pushes emails/files from the LAN to the internet as a content delivery network would.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Creator",
+    "person":
+     {"first_name": "Ross",
+      "last_name": "Richards",
+      "permalink": "ross-richards",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Dropbox",
+      "permalink": "dropbox",
+      "image":
+       {"available_sizes":
+         [[[150,
+            39],
+           "assets/images/resized/0001/1969/11969v4-max-150x150.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-250x250.png"],
+          [[236,
+            62],
+           "assets/images/resized/0001/1969/11969v4-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "YouSendIt",
+      "permalink": "yousendit",
+      "image":
+       {"available_sizes":
+         [[[150,
+            95],
+           "assets/images/resized/0000/3922/3922v1-max-150x150.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-250x250.jpg"],
+          [[160,
+            102],
+           "assets/images/resized/0000/3922/3922v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Perth",
+    "address1": "",
+    "address2": "",
+    "zip_code": "6100",
+    "city": "Perth",
+    "state_code": null,
+    "country_code": "AUS",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://www.rhinofile.com",
+    "title": ""}]}

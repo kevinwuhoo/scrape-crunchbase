@@ -1,0 +1,119 @@
+{"name": "WebCongress",
+ "permalink": "webcongress",
+ "crunchbase_url": "http://www.crunchbase.com/company/webcongress",
+ "homepage_url": "http://www.webcongress.com",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "webcongress",
+ "category_code": "education",
+ "number_of_employees": 10,
+ "founded_year": 2008,
+ "founded_month": 1,
+ "founded_day": 20,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "webcongress, event, digital",
+ "alias_list": null,
+ "email_address": "info@webcongress.com",
+ "phone_number": "+3493043648",
+ "description": "tech / web event and workshops",
+ "created_at": "Fri Dec 23 17:02:51 UTC 2011",
+ "updated_at": "Sat Dec 24 04:50:10 UTC 2011",
+ "overview": "\u003Cp\u003EWebCongress is a global web/tech event where companies like Facebook, Youtube, Google, Yahoo, Micrososft, BlackBerry, Spotify and much more, meet to offer conferences and workshops to local business.\nWe talk, network and learn about Social Media, Search, Mobile, Advertising, webtv, analytic, apps, developpers, cloud.\u003C/p\u003E",
+ "image": null,
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "CEO",
+    "person":
+     {"first_name": "Ouali",
+      "last_name": "Benmeziane",
+      "permalink": "ouali-benmeziane",
+      "image":
+       {"available_sizes":
+         [[[150,
+            123],
+           "assets/images/resized/0004/7832/47832v4-max-150x150.jpg"],
+          [[250,
+            205],
+           "assets/images/resized/0004/7832/47832v4-max-250x250.jpg"],
+          [[317,
+            261],
+           "assets/images/resized/0004/7832/47832v4-max-450x450.jpg"]],
+        "attribution": ""}}}],
+ "competitions":
+  [{"competitor":
+     {"name": "Online Marketing Connect",
+      "permalink": "online-marketing-connect",
+      "image": null}},
+   {"competitor":
+     {"name": "SES",
+      "permalink": "ses",
+      "image":
+       {"available_sizes":
+         [[[111,
+            52],
+           "assets/images/resized/0007/3397/73397v1-max-150x150.jpg"],
+          [[111,
+            52],
+           "assets/images/resized/0007/3397/73397v1-max-250x250.jpg"],
+          [[111,
+            52],
+           "assets/images/resized/0007/3397/73397v1-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "SMX",
+      "permalink": "smx",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0006/0880/60880v1-max-150x150.jpg"],
+          [[174,
+            80],
+           "assets/images/resized/0006/0880/60880v1-max-250x250.jpg"],
+          [[174,
+            80],
+           "assets/images/resized/0006/0880/60880v1-max-450x450.jpg"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "",
+    "address1": "calle fontanella 11",
+    "address2": "",
+    "zip_code": "08010",
+    "city": "Barcelona",
+    "state_code": null,
+    "country_code": "ESP",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  [{"external_url": "http://mashable.com/2010/09/06/100-upcoming-social-media-tech-events-5/",
+    "title": "Mashable"},
+   {"external_url": "http://blog.amiando.com/2011-11-14/spotlight-%E2%80%93-webcongress-madrid/",
+    "title": "Amiando"},
+   {"external_url": "http://en.blog.zyncro.com/2011/11/21/zyncro-invites-you-to-webcongress-madrid/",
+    "title": "Zynco"},
+   {"external_url": "https://groups.google.com/a/googleproductforums.com/forum/#!category-topic/webmaster-es/charla/zib-2eMUsy0",
+    "title": "Google Product Forum"},
+   {"external_url": "http://pandalabs.pandasecurity.com/es/panda-security-en-webcongress-bilbao/",
+    "title": "Panda"}]}

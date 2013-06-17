@@ -1,0 +1,145 @@
+{"name": "Nitch",
+ "permalink": "nitch",
+ "crunchbase_url": "http://www.crunchbase.com/company/nitch",
+ "homepage_url": "http://www.nitch.biz",
+ "blog_url": "",
+ "blog_feed_url": "",
+ "twitter_username": "nitch_biz",
+ "category_code": "other",
+ "number_of_employees": 2,
+ "founded_year": 2011,
+ "founded_month": 3,
+ "founded_day": 1,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "b2b, minneapolis, open-api, vertical-markets, vendor-management",
+ "alias_list": null,
+ "email_address": "mnoble@nitch.biz",
+ "phone_number": "952.657.4743",
+ "description": "B2B Collaborative Platform",
+ "created_at": "Tue Dec 13 23:36:39 UTC 2011",
+ "updated_at": "Thu Mar 01 09:08:13 UTC 2012",
+ "overview": "\u003Cp\u003ENitch builds social networks for specific industry verticals.\u003C/p\u003E\n\n\u003Cp\u003ESimilar to Facebook building communities of friends, Nitch builds online \u0026#8220;Nitch\u0026#8221; communities of like-minded businesses and their vendors.  The platform enables vendor sourcing through online bidding, vendor management through Vendor Pods and other communication tools including an embedded Twitter feed and vendor reviews (B2B Yelp).\u003C/p\u003E\n\n\u003Cp\u003ENitch has an open API that hooks into 3rd party ecommerce tools, software applications, videos, payment tools and more. \u003C/p\u003E\n\n\u003Cp\u003EAll of this information rolls up into a B2B specific search engine that is able to bring back targeted, industry-specific results.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       40],
+      "assets/images/resized/0016/6296/166296v2-max-150x150.png"],
+     [[250,
+       66],
+      "assets/images/resized/0016/6296/166296v2-max-250x250.png"],
+     [[450,
+       120],
+      "assets/images/resized/0016/6296/166296v2-max-450x450.png"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [{"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Michael",
+      "last_name": "Noble",
+      "permalink": "michael-noble",
+      "image": null}},
+   {"is_past": false,
+    "title": "Founder",
+    "person":
+     {"first_name": "Sabir",
+      "last_name": "Patel",
+      "permalink": "sabir-patel",
+      "image": null}}],
+ "competitions":
+  [{"competitor":
+     {"name": "LinkedIn",
+      "permalink": "linkedin",
+      "image":
+       {"available_sizes":
+         [[[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-150x150.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-250x250.png"],
+          [[150,
+            68],
+           "assets/images/resized/0001/1055/11055v23-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Company.com",
+      "permalink": "company-com",
+      "image":
+       {"available_sizes":
+         [[[150,
+            78],
+           "assets/images/resized/0007/6462/76462v1-max-150x150.png"],
+          [[213,
+            111],
+           "assets/images/resized/0007/6462/76462v1-max-250x250.png"],
+          [[213,
+            111],
+           "assets/images/resized/0007/6462/76462v1-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$72k",
+ "funding_rounds":
+  [{"round_code": "seed",
+    "source_url": "http://www.projectskyway.com",
+    "source_description": "Angel \u0026 Accelerator",
+    "raised_amount": 72000.0,
+    "raised_currency_code": "USD",
+    "funded_year": 2011,
+    "funded_month": 11,
+    "funded_day": 1,
+    "investments":
+     [{"company": null,
+       "financial_org": null,
+       "person":
+        {"first_name": "friends",
+         "last_name": "\u0026 family",
+         "permalink": "friends-family-3",
+         "image": null}},
+      {"company": null,
+       "financial_org":
+        {"name": "Project Skyway",
+         "permalink": "project-skyway",
+         "image":
+          {"available_sizes":
+            [[[150,
+               61],
+              "assets/images/resized/0013/9880/139880v2-max-150x150.png"],
+             [[250,
+               103],
+              "assets/images/resized/0013/9880/139880v2-max-250x250.png"],
+             [[298,
+               123],
+              "assets/images/resized/0013/9880/139880v2-max-450x450.png"]],
+           "attribution": null}},
+       "person": null}]}],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [{"description": "Home Office",
+    "address1": "",
+    "address2": "",
+    "zip_code": "55414",
+    "city": "Minneapolis",
+    "state_code": "MN",
+    "country_code": "USA",
+    "latitude": null,
+    "longitude": null}],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}

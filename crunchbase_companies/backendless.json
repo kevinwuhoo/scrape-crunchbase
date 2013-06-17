@@ -1,0 +1,107 @@
+{"name": "Backendless",
+ "permalink": "backendless",
+ "crunchbase_url": "http://www.crunchbase.com/company/backendless",
+ "homepage_url": "http://backendless.com",
+ "blog_url": "http://backendless.com/blog/",
+ "blog_feed_url": "http://backendless.com/feed/",
+ "twitter_username": "backendless",
+ "category_code": "software",
+ "number_of_employees": 20,
+ "founded_year": 2012,
+ "founded_month": 7,
+ "founded_day": null,
+ "deadpooled_year": null,
+ "deadpooled_month": null,
+ "deadpooled_day": null,
+ "deadpooled_url": null,
+ "tag_list": "",
+ "alias_list": null,
+ "email_address": "info@backendless.com",
+ "phone_number": "(408) 792-7757",
+ "description": "Cloud Backend as a Service",
+ "created_at": "Fri May 03 09:52:31 UTC 2013",
+ "updated_at": "Mon May 06 03:41:11 UTC 2013",
+ "overview": "\u003Cp\u003EBackendless is a cloud BaaS platform that enables developers to create apps without server coding by utilizing programmable services which supply standard server functions. \u003C/p\u003E\n\n\u003Cp\u003EThe following supported features are \u003C/p\u003E\n\n\u003Cul\u003E\n\u003Cli\u003Euser management\u003C/li\u003E\n\u003Cli\u003Erelational data\u003C/li\u003E\n\u003Cli\u003Epush notifications \u003C/li\u003E\n\u003Cli\u003Epublish/subscribe messaging \u003C/li\u003E\n\u003Cli\u003Egeolocation\u003C/li\u003E\n\u003Cli\u003Evideo/audio recording and live streaming\u003C/li\u003E\n\u003Cli\u003Efile service. \u003C/li\u003E\n\u003C/ul\u003E\n\n\u003Cp\u003EThe functions of services are available through robust API. Company published SDKs for all popular environments: iOS, Android, JavaScript, ActionScript, Windows Phone and REST.\u003C/p\u003E\n\n\u003Cp\u003EAmongst key and unique features are app versioning support, video recording and live streaming on the server, filtering for publish/subscribe messages, hosting of websites and apps, flex/air clients support.\u003C/p\u003E",
+ "image":
+  {"available_sizes":
+    [[[150,
+       20],
+      "assets/images/resized/0025/8455/258455v2-max-150x150.jpg"],
+     [[250,
+       34],
+      "assets/images/resized/0025/8455/258455v2-max-250x250.jpg"],
+     [[399,
+       55],
+      "assets/images/resized/0025/8455/258455v2-max-450x450.jpg"]],
+   "attribution": null},
+ "products":
+  [],
+ "relationships":
+  [],
+ "competitions":
+  [{"competitor":
+     {"name": "StackMob",
+      "permalink": "stackmob",
+      "image":
+       {"available_sizes":
+         [[[150,
+            36],
+           "assets/images/resized/0011/9336/119336v1-max-150x150.png"],
+          [[230,
+            56],
+           "assets/images/resized/0011/9336/119336v1-max-250x250.png"],
+          [[230,
+            56],
+           "assets/images/resized/0011/9336/119336v1-max-450x450.png"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Parse",
+      "permalink": "parse",
+      "image":
+       {"available_sizes":
+         [[[118,
+            51],
+           "assets/images/resized/0014/7930/147930v3-max-150x150.jpg"],
+          [[118,
+            51],
+           "assets/images/resized/0014/7930/147930v3-max-250x250.jpg"],
+          [[118,
+            51],
+           "assets/images/resized/0014/7930/147930v3-max-450x450.jpg"]],
+        "attribution": null}}},
+   {"competitor":
+     {"name": "Kinvey",
+      "permalink": "kinvey",
+      "image":
+       {"available_sizes":
+         [[[150,
+            45],
+           "assets/images/resized/0013/7678/137678v2-max-150x150.png"],
+          [[250,
+            75],
+           "assets/images/resized/0013/7678/137678v2-max-250x250.png"],
+          [[450,
+            135],
+           "assets/images/resized/0013/7678/137678v2-max-450x450.png"]],
+        "attribution": null}}}],
+ "providerships":
+  [],
+ "total_money_raised": "$0",
+ "funding_rounds":
+  [],
+ "investments":
+  [],
+ "acquisition": null,
+ "acquisitions":
+  [],
+ "offices":
+  [],
+ "milestones":
+  [],
+ "ipo": null,
+ "video_embeds":
+  [],
+ "screenshots":
+  [],
+ "external_links":
+  []}
